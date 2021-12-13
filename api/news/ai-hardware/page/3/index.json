@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-11-18-nvidia-crypto-mining-chip-sales-drop-60-overall-revenue-growth-strong.md",
-      "title": "Nvidia Crypto Mining Chip Sales Drop 60%, Overall Revenue Growth Strong",
-      "excerpt": "Nvidia has released its financial results for the third quarter of the 2022 fiscal year. While overall revenue has grown considerably, the sales of its 'Cryptocurrency Mining Processors' have experienced a sharp decline.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "originalUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/08/BIC_nvidia_blockchain_AI.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "publishedDateTime": "2021-11-18T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
       "title": "sureCore designs multi-port memory for Semidynamics AI chip",
       "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
@@ -1435,6 +1391,59 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models.md",
+      "title": "Nvidia launches Modulus, a framework for developing ‘physics-grounded’ AI models",
+      "excerpt": "Nvidia's Modulus framework, announced at the company's fall 2021 GTC conference, enables companies to develop 'physics-grounded' AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

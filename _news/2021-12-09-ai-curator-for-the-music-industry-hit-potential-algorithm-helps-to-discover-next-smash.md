@@ -77,17 +77,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Austin Startup Uses AI to Streamline Trucking Industry"
-    excerpt: "The trucking industry faces high turnover among drivers because its business model isn’t driver-centric. A tech company uses artificial intelligence to determine which routes are best for both the driver and revenue generation."
-    publishedDateTime: 2021-12-09T21:34:00Z
-    webUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry"
-    ampWebUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
 
 secured: "YYmQh00NzdkRGBxDINbnqkf9ddYNWI+gNW4eDEpo58sbCaGKP0zfoqRbZL9qam/lVWoZOhsCucDCN/dcUHZ5mL3QcauayDJ7mWXpZsQkFtdR5Z6uTFXvBujedCRtLfH+ciVEPNm/NGUn+RJY+7TNT83Ls65DijPnrOnRxvMTzD7BfR6QPD6vbQy56sSCzvh48yDb3USLLvOfji2IfZfXOrZaYCqyz/LYUSXN5EU/2HeRjn7zPHXZdN+C6laiNJPMnG/N9/1I1WtZkmxlS1lbUDhhBcajMySVB4scGQti5g9dshfEURcsGtrIDZ0Q2CpzUW0rWRhAeZLpqgU33h/r7Qh/lW6inmVBN45MPzAGV5o=;fVLIYEHTsxGoefzhg4cgcQ=="
 ---

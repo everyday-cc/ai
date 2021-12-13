@@ -65,18 +65,18 @@ related:
       domain: crowdfundinsider.com
     quality: 13
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
-    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
-    publishedDateTime: 2021-12-09T14:01:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c"
+    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across"
+    publishedDateTime: 2021-12-09T14:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-fintech-ecosystem-in-the-commonwealth"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 7
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/ac1030d722cc203f12e81a82c8a0cf3687f4c649-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "wpDknZNncaLQaAuvyuCVe7XRuiuEkkxQiJT5sFQraKAa5Zk3H0VZF5Uun1NEorS4ZllQ7Y9zIincWoS7g1puJUfmVQCkrga+Ok81sq4hedVOA++1zNN6aWQvofovnulcPr1XSkhWBDNeWGrlJZuvSJo62PPEl1tXkETyvRJOXKG0CWzqGE+ubTK917QDadAW3yEDh/cEl+NVNcaHreI42Hr9qtMra7VkDpPeFz2t+bNG+drn5gtNAjOcwkOJjRzUl88G/SmMBiAjKpEgCYoHrlOv8q5Gw1ohOqJ3LJmNQPorxWFWqhu7e/3bX3KM+lWt/VLQH22UIzj/G0xBS+zKYtDn5NebKXdXHQMyW8ljaDIQn1wKjSoht354jOZj5fJ4ezkyzqeHLwAU4mO8FG7oo70nAl+shH6lRimQl/QWA1+FZziRfnbFJsGqQMWyo1DVeqbBxjkykj56foQYT7Blpgtzm2LadYfGWL6H977UoT3vN0JX+r6rU4aQenQmw/PNvi3P1CNBdl5CCGZ5NY36HQ==;3R7OfrIDPxkEeOlsZ7bTWA=="

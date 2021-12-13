@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-why-all-companies-must-explore-the-role-of-ethics-in-technology.md",
+      "title": "Why All Companies Must Explore The Role Of Ethics In Technology",
+      "excerpt": "The savviest companies must learn to understand and embrace the nuances at the intersection between technology and human values.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbd36a6c4bc20d159d34098%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "publishedDateTime": "2021-12-13T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-an-ai-trained-on-reddit-has-warned-researchers-that-itll-never-be-ethical.md",
       "title": "An AI trained on Reddit has warned researchers that it’ll never be ethical",
       "excerpt": "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,",
@@ -1383,50 +1435,6 @@
       "provider": {
         "name": "Gov",
         "domain": "pna.gov.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
-      "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "originalUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg",
-          "width": 830,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "publishedDateTime": "2021-11-26T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sun",
-        "domain": "daily-sun.com",
         "images": null,
         "publishers": null,
         "authors": null

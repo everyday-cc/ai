@@ -40,31 +40,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
-    excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
-    publishedDateTime: 2021-12-08T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
-    excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
-    publishedDateTime: 2021-12-08T21:41:00Z
-    webUrl: "https://www.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 31
 
 secured: "JJsK6e2SaPAEyP7N6thaAp5Ljr+OxMPPOHuh5JpciYbdYXzv/nUrbTotujK+DTPOKVEMeFBB9AEZWsjPrB25xohLqoe5bZCFge+fIv3H9gnmpegnSr9jabDp4i+Z2E5OeUbVTnFHuBLeh7C+F86JGdyIONeGnSRds5abRcpKW4HVvp/elHRAVd3h8VI2XOTUt/CArAS1tmfcsk3/0hZDZHN7DT2AhnQzHOwwAG5k+Uot5al3i2txSlgmsAlezPrXJG8FqpTRYGAXukJpOyRjfrVEl67c65UCGiXcM9aBEM7IHt0OGiO+ETXxsaigGIZEbAw+JMrDkZ30R3tMhnILTcaJrdGUE3fI0bBGYWxwMNQ=;Nx2s/WNfONn5LnLPKs4lpQ=="
 ---

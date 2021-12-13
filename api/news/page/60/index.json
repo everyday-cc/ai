@@ -2,6 +2,257 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-10-27-microsoft-unveils-sustainability-management-portal-for-businesses.md",
+      "title": "Microsoft unveils sustainability management portal for businesses",
+      "excerpt": "The SaaS solution is designed to help organizations record their environmental footprint, progress reports and reduce their emissions while also providing actionable steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/511825a81435fabe2e4854367475962aa66b2d70/2021/10/27/6467ef10-0a8b-491a-9230-27d770d606ef/getting-started.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
+      "publishedDateTime": "2021-10-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
+      "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
+      "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61794ae90933a60c23050fb1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "publishedDateTime": "2021-10-27T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport.md",
+      "title": "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport",
+      "excerpt": "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-how-humans-in-the-loop-ai-can-help-solve-the-data-problem.md",
+      "title": "How Humans-In-The-Loop AI Can Help Solve The Data Problem",
+      "excerpt": "Humans-in-the-loop AI is a niche wherein AI and ML systems are built with human interference at different stages of the cycle, whenever it’s necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61780ffa6b3df3f9956729d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-top-indian-robotics-start-ups-that-have-gained-funding-in-2021.md",
+      "title": "Top Indian Robotics Start-ups that have Gained Funding in 2021",
+      "excerpt": "India has been evolving as the biggest start-ups ecosystem. In which robotics start-ups have a great visible space. Let’s know more about the Indian robotics start-ups funding in 2021 in this article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-indian-robotics-start-ups-that-have-gained-funding-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-Robotics-Startups-that-have-Gained-Funding-in-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads.md",
       "title": "Dubai to soon have regulation to pave way for driverless cars on roads",
       "excerpt": "Dubai: Dubai expects in 2022 to complete the regulation needed to allow self-driving cars on the roads by 2023, a senior official said on Wednesday. Ahmed Hashim Bahrozyan, CEO of the Public Transport Agency of Dubai’s Roads and Transport Authority (RTA) told reporters: “We are quite fast compared to other cities in issuing the regulation [to govern self-driving cars on the roads].",
@@ -923,250 +1174,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center-solution.md",
-      "title": "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution",
-      "excerpt": "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027.md",
-      "title": "Global AI In Computer Vision Market 2021 Industry Key Player, Trend and Segmented Data, Demand and Forecast by 2027",
-      "excerpt": "MarketsandResearch.biz has deployed an intelligence report entitled Global AI In Computer Vision Market 2021-2027 that is the complete creation of meticulous primary and secondary research. The report thoroughly covers analyzed insights in view of the market along with its ever-changing patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-industry-key-player-trend-and-segmented-data-demand-and-forecast-by-2027-2021-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector.md",
-      "title": "Train models faster with an automated data profiler for Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Amazon Fraud Detector uses machine learning (ML) under the hood and is based on over 20 years of fraud detection expertise",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T15:10:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes.md",
-      "title": "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes",
-      "excerpt": "The partnership between Samsung and IBM extends over 30 years, starting with work on semiconductors and now mobility, AI, 5G, Industry 4.0 and networks. At SDC, Samsung and IBM Consulting are ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip.md",
-      "title": "Amazon launches AWS instances powered by Habana’s AI accelerator chip",
-      "excerpt": "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
-      "publishedDateTime": "2021-10-26T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

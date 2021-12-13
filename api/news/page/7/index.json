@@ -2,6 +2,230 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-07-stellantis-ai-strategy-targets-226b-in-revenues-by-2030.md",
+      "title": "Stellantis’ AI strategy targets $22.6b in revenues by 2030",
+      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues",
+      "sourceUrl": null,
+      "webUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "cdnAmpWebUrl": "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "publishedDateTime": "2021-12-06T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWTI",
+        "domain": "informnny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
+      "title": "Supercomputers in enterprise AI",
+      "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
+      "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/BJFxvhrDx3sZxTSGmFHjB5LNK62QzeUk8EApFSryBUvShvg3N4WOQ5yhpHPIrEUQjIFJ03Sjv8jr6GqeOyqRy3AHhQlCV0lVl9wVoQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
+      "publishedDateTime": "2021-12-06T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-ameca-the-future-face-of-robotics-is-as-freaky-as-youd-expect.md",
+      "title": "Ameca, \"the future face of robotics,\" is as freaky as you'd expect",
+      "excerpt": "UK robotics firm Engineered Arts has offered a sneak peek at its new humanoid robot ahead of a full reveal next year, and the preview is as incredible as it is unsettling. Ameca is presented as \"the world's most advanced human-shaped robot,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
+      "originalUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
+      "publishedDateTime": "2021-12-06T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
+      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
+      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "publishedDateTime": "2021-12-06T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-will-take-mobileye-public-in-2022.md",
+      "title": "Intel Will Take Mobileye Public in 2022",
+      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "publishedDateTime": "2021-12-06T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
       "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
       "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
@@ -971,258 +1195,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-logdna-raises-50m-to-bring-full-power-of-observability-data-to-security.md",
-      "title": "LogDNA raises $50M to bring ‘full power’ of observability data to security",
-      "excerpt": "Observability data firm LogDNA, whose customers include IBM, said it's expanding into security with funding led by Dave DeWalt's NightDragon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/",
-      "originalUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/logdna.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/amp/",
-      "publishedDateTime": "2021-12-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-open-sourcing-human-rights-documentation-in-the-digital-age-why-machine-learning-isnt-a-silver-bullet.md",
-      "title": "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet",
-      "excerpt": "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
-      "originalUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a9fe130050db7974644f5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
-      "publishedDateTime": "2021-12-06T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-smart-robot-market-2021-2028.md",
-      "title": "Smart Robot Market 2021-2028",
-      "excerpt": "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "originalUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc06500488_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "publishedDateTime": "2021-12-06T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ai-applications-in-digital-health.md",
-      "title": "AI Applications in Digital Health",
-      "excerpt": "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "originalUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944301/berlin-1.jpg",
-          "width": 1537,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
-      "title": "For truly ethical AI, its research must be independent from big tech",
-      "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/507cadd8062f426e1ca22df47fde57b3f8b0441f/0_0_4017_2410/master/4017.jpg?width=620&quality=85&auto=format&fit=max&s=187facc6d0d3cbbb25719b24e035a55c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "publishedDateTime": "2021-12-06T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

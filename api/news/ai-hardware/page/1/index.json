@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -246,49 +246,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
-      "title": "AI models microprocessor performance in real-time",
-      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "publishedDateTime": "2021-12-10T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-intel-teases-alchemist-graphics-card-in-arc-gpu-gameplay-trailer-at-game-awards-show.md",
       "title": "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show",
       "excerpt": "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,",
@@ -340,7 +297,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1425,6 +1382,58 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-3-chip-stocks-to-buy-in-december.md",
+      "title": "3 Chip Stocks to Buy in December",
+      "excerpt": "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400214",
+      "originalUrl": "https://www.entrepreneur.com/article/400214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

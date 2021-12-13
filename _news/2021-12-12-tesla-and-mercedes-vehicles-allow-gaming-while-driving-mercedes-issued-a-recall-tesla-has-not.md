@@ -135,20 +135,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
     excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
     publishedDateTime: 2021-12-09T16:48:00Z

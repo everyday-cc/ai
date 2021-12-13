@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai
 webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
+    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
+    publishedDateTime: 2021-12-13T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
+        width: 700
+        height: 467
         isCached: true
   - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
     excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."

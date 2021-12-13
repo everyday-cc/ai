@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A South Korean city will test facial recognition as a way to track the virus."
+    excerpt: "A city in South Korea plans to test a system that uses facial recognition technology and data from over 10,000 surveillance cameras to track people infected with the coronavirus. The system will be tested in January in Bucheon,"
+    publishedDateTime: 2021-12-13T13:03:00Z
+    webUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
     excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
     publishedDateTime: 2021-12-12T23:05:00Z
@@ -118,6 +134,6 @@ related:
         height: 681
         isCached: true
 
-secured: "dMaF6PtaFKY7gWexO65m3EdbTR6tovnG16j1AjKWa2U6cs52jPcrE96XaS4irLHGvPKnNlIroEMpgqpN0MJYcKt/Q92KVsSquOT5PE0AFNff/dqGJAazx7sOFiK+oDB3Oa6ji5ZIAfFif6XAe1U36FqhNG/z4te4RbqdmTf/cw7AxI9mpXttV4SuQZdkUgGTu83ktIexX0s+5OYAYRzyc67B0c0CR6JrBvv9fMl2LUHcf5cvGfyfjD0c5GXXxd6ZaJsoXdAmd34AamujqgAyzOM/DJn9RsPL91tgLKC2mFwVrSaKzZ+RG7Hka9/Tem4JsrpatxnKQP8bb5FdyKcF873Ik1lOvJi1WmLACZkgmQs=;/s/7xaN6Jn2z+xgeGjQbjw=="
+secured: "1uoT/Vo/lbHitSV9hoVuzy6cI6gy2EyRTIX7uIQr5k23HjDoRmCvyRPTd6vYZG2M4Y1ozYw4Nbqjqu25ovsPekJ20aVRGf/ie29WvvsQhV3COt6nBD9MfeBjTfo6pvIPtIuDrVODJxBN/NgIoLcupQW5325SBxIEQNGwF2fgBr76k1ZzvKIIotOpl6lpzErnE75djbqRcYyNDvcMGJ4q1eg6EA68hK3pGMs0OcCiK8jZbTrar7HqYbxJeZE9+ualYdD5DpfbNv4418oN3+7qAueaNnBA5JKNBbzpFI3r90Ch/LRBHTmTuY9SdJ+Cnbhn30brB+99zE46hSKZLqY+B7XgfirgLyjWxJECBMVs3UY1vU4u8/cqker3y1DhmFmOp5rtHBCakbcDNWTO5WP8ZgIyOy2N68Y6XNQxiBFD/LVm4T0ZSyTBjC5NVPaNQlK5P2hVMU4PM376eAT0Hti9H1s62Rw9vZj4m3Lxc3H3yU3PZ/8EXeANt4vakQY8hzMOJI7J+Pd53QDaCcysx9Niew==;uZ5f4BO4RmTp6/9/6M7qJQ=="
 ---
 

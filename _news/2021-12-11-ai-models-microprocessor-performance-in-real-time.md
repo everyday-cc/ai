@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AI models microprocessor performance in real-time"
-excerpt: "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself."
-publishedDateTime: 2021-12-10T16:01:00Z
-originalUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html"
-webUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html"
-ampWebUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
+excerpt: "Computer engineers have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself."
+publishedDateTime: 2021-12-10T21:46:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/12/211210103100.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/12/211210103100.htm"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg"
-    width: 740
-    height: 416
-    isCached: true
 
 related:
   - title: "Duke engineers utilize artificial intelligence for possible breakthrough in new microprocessors"
@@ -58,6 +54,6 @@ related:
         height: 529
         isCached: true
 
-secured: "NVcRjoNhFv7gZWQqsvXUIV1ijro0OuW0S6JhYcGN27AmL+quGEAq7h5VX2E/rJQMVC4ia8GCVL9vdSmpbzxEHD/VUgMkYkKw3+EgG11+yvWOYOkDDKBi/ZdkTYKuOEv5/8kOmiy4l1B7c4ge55lK3rs+1A8w6hOmc0/MUnVW2MiXObssNG/U0ebuDy1vDexcEnPqS2UfX0AsmHOMC6RAS8kKXoHsUWV4ZazEUyHOhQxBBQbQzz50bV/FjaD/nxtpV95BkScJKKuhhP6UmlnwMlSoQhzaVxS1v/0H4ZYqt5bGq/Vpb4vqC4FExYpvyL+DbROWr3PmHCUz9sPZk0bwa63eQuMJ6NxD+H7+Qbj+Xs1i/v7x0loU19JZ5yW4HWoG8NXrhHKSWu+2K3zMwG2GtpC563eHKedt+iq0dMeuY6RwgsmwXJ9MuiYs+xI38Wp4dFMrYmIQut/i1YCp+8zDfZWX1LLUD18mqa7AJpkWP33f8qb2AqeQHTjtgZY4cdKcikD20EqAu2COg4D9golNHA==;K/btatFPS6steScxIB/KKw=="
+secured: "PTWELzbn2IUwq+HvOK+8uCUltSd+U20kwA4dMKwoc4W39jy7TtCyrk/mGw5kKNfsEH4ZqyWH5vz5JxYGFDvR9pr4pTmzaTyBVWhOY7V7baicuBWxl6+TUoNRa8iHA8H8O4XWMkWfnLVwH6N8MjMMoIYsc/dktkiKyNxEZZ0fsCscv16az19AwBRtt0d/tzl210MNMpApuPpMJaDpLhTrD2lVYe9xfMs1nJ8kUQ0vPOn36EedRAsNqBnLNrtv+OOHuTEMoHL0UWlYvenHfial0GnW7ZQQzK1oA9Vlcy+rgsgkySIlnORTapeVMCoQkByugycldZz+44E8ekKEZ3MnDi2ys7uSN2IJbUBsdn2sEy8=;XvQCbuJ9YX3WrzCdPdQVNQ=="
 ---
 

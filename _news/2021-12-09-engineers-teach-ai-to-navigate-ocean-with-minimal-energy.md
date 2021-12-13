@@ -37,15 +37,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
+  - title: "Caltech Engineers Teach Artificial Intelligence to Navigate Ocean with Minimal Energy"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T09:42:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59343.php"
+    publishedDateTime: 2021-12-13T14:16:00Z
+    webUrl: "https://www.pasadenanow.com/main/caltech-engineers-teach-artificial-intelligence-to-navigate-ocean-with-minimal-energy"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 32
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2021/12/Gunnarson_Peter-Dabiri_John-.2e16d0ba.fill-1600x810-c100.jpg"
+        width: 740
+        height: 400
+        isCached: true
 
 secured: "OmJdz39xwOjgk3DzXYf7MqydUeWdl16qwkd1p6PrTfWyzEbTUdiqe6QtbsUYPy6yXkd5iFSR60t0e2KH4rtVrYjPEmww9Ymk+rOqOzV849AT3rXG4BMcLRAH3+Eh0zp4Gif00CsdzibN9XkUvbRVwwCwlWn9Bdd3iCe6SYm6NawdIWzI3glhHld5lQESLIm9E2yAWg9cZk/+OwRIFpDR62egUX2iZb74UhawvtD5lcSxN4zRmDNFP6HySKJe6MriHWnM+youy83p3KoZbVw39wF+rcuMWcHt0S+4hYkeEo75DRKSPgDTz3xpv2xqQKKzSCN4fFQfkuJklzwaU0DI6GI5ZrkYi6Y2jbvCWeivkEw=;nlWhF9XRZgQCSjChJUYpNA=="
 ---

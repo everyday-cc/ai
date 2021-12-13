@@ -2,6 +2,260 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-hierarchical-forecasting-using-amazon-sagemaker.md",
+      "title": "Hierarchical Forecasting using Amazon SageMaker",
+      "excerpt": "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ml-3943-image017-742x630.png",
+          "width": 742,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T14:19:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
+      "title": "AI is thriving on and driving the edge",
+      "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
+      "publishedDateTime": "2021-12-10T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
+      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
+      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "publishedDateTime": "2021-12-10T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
+      "title": "Live transcriptions of F1 races using Amazon Transcribe",
+      "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T12:08:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-mercedes-benz-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany.md",
+      "title": "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany",
+      "excerpt": "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
+      "originalUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "publishedDateTime": "2021-12-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-headroom-launches-to-combat-zoom-fatigue-with-ai.md",
       "title": "Headroom launches to combat Zoom fatigue with AI",
       "excerpt": "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings.",
@@ -346,49 +600,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
-      "title": "AI models microprocessor performance in real-time",
-      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "publishedDateTime": "2021-12-10T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
       "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
       "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
@@ -492,7 +703,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -527,7 +738,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -986,213 +1197,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-why-ai-is-the-future-of-fraud-detection.md",
-      "title": "Why AI is the future of fraud detection",
-      "excerpt": "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/",
-      "publishedDateTime": "2021-12-09T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-secretive-ai-companies-need-to-cooperate-with-good-hackers-to-keep-us-all-safe-experts-warn.md",
-      "title": "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn",
-      "excerpt": "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
-      "originalUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8e3899c1ccbdc7eeafc2c711e7db050d.jpg",
-          "width": 800,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
-      "publishedDateTime": "2021-12-09T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-us-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker.md",
-      "title": "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker",
-      "excerpt": "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
-      "originalUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-449342/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
-      "publishedDateTime": "2021-12-09T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
-      "title": "Codifying humanity: Why AI sucks at content moderation",
-      "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
-      "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fzipperzuck.jpg&signature=f413e64c9b1f9fae8b90159af5c31f24",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

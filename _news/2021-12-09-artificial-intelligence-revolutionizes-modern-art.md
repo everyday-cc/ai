@@ -63,17 +63,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Austin Startup Uses AI to Streamline Trucking Industry"
-    excerpt: "The trucking industry faces high turnover among drivers because its business model isn’t driver-centric. A tech company uses artificial intelligence to determine which routes are best for both the driver and revenue generation."
-    publishedDateTime: 2021-12-09T21:34:00Z
-    webUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry"
-    ampWebUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
   - title: "AI Curator for the Music Industry: Hit Potential Algorithm Helps to Discover Next Smash"
     excerpt: "Musiio, an artificial intelligence brand for the music industry, has a revolutionary Hit Potential Algorithm that analyzes music at scale and awards scores between 0 to 100. The algorithm score depends on the likelihood of commercial success."
     publishedDateTime: 2021-12-09T06:03:00Z

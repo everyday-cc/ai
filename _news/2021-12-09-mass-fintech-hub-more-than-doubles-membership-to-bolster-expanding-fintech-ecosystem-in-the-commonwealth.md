@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
-excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
-publishedDateTime: 2021-12-09T14:01:00Z
-originalUrl: "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c"
-webUrl: "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c"
+excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across"
+publishedDateTime: 2021-12-09T14:11:00Z
+originalUrl: "https://www.digitaljournal.com/pr/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-fintech-ecosystem-in-the-commonwealth"
+webUrl: "https://www.digitaljournal.com/pr/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-fintech-ecosystem-in-the-commonwealth"
 type: article
 quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/ac1030d722cc203f12e81a82c8a0cf3687f4c649-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
       domain: crowdfundinsider.com
     quality: 13
 
-secured: "SMaucezNP/beX0x2Kp4upTpSPPl3sxBi7r8zJRn6+FOJKb0LehhlbE/K7mLS7IyxLBxfa9SQQbaAxBlC+V9j/k3QX00dYCXjPtDNVKv7AuDacs+O/pfkKv8N9ZGo4Y7M56Sqwq1/qeCVFJvoXBLOeoN/hsBC6sSluCvPyEewnMEZnaJcj1vqib5c6JzNfz5jCP7vcEk0L0BNi+z5Jx8YI3zzuh+fofjCK9b0b9jSJtQlAtGuZCdSGCMrhdMxbfJoMt6Vl+IEotohF4kVl9hALr7AU/JpwSO1MElAN5P7IIfZJ5kL0KL92+a/46KBTY7d5NyfwQSX8Qt+TbA0KWSP9PFMQK2N+Z9Z2Wi9bChxNWs=;a2qnygAYMkLf3a8lllKl/g=="
+secured: "c0H/99jSr5EXZiE9uyZqBxb5HQcbBRjcPBPgutjud2CcC6h0ATfbl84SgOJkGdGt47lfzrLnqZiCy7FssedqK1SdYFX+7c18e1AqroSDyYvemaPuJYwXRCzA1aeiFLrcMvSrL3ztEx+ksDqw6iUKiIle6ms9nybbMz+mBSg+HsYpxVWwpz8kFn8u5GuBoha8D/Fq3MStkXbivvFuNHlHuw+87U0+B6j0XwZiTEwGZ8QXYrI7Gsm81sd9F95h1x0/0wT2bpAa4kd/FvakqPT8MFpG1AOvHt2py18BEdFe74F3LMjvdsh07Sg4BgrqL1nxeoQn+YHY9O9ahPxsOVKS7CST8bjvNpWApra979qb694=;0ngHG6OX3L+bkqUM8tZEHA=="
 ---
 

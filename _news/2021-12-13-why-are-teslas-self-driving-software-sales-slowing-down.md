@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
 type: article
 quality: 121
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
     excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
     publishedDateTime: 2021-12-09T16:48:00Z
@@ -236,6 +222,6 @@ related:
         height: 533
         isCached: true
 
-secured: "T7RdajEen1biUjfvZJg0t03yY6qxwew7gcIUaESNSgr9QEOA7TCmj+glWosbOlFDyqNKYiO2J40oJ+e3qqwMvaWQar4u9Wri9cb3k+v9snD7kCcz28NlANLQ3rfxUS3xxclZclhf1zdw8TRfbJ277c6sEzWgHkez3AlTh9yyjNP5uMct8QAiDHu5cVbzhLnpm05LjMDmBtfA5hjJ+Q+xwzHLWyoV7kotUPOo8QJcw5E659pJjThxh4AvSRkpa/NqrKHh5xUBxGzLB6riralYxj9ewOwAHQ7yrWy+E2AR6oEixYczmfAO/pgKYzcR4/NaRGc1cBTt7WKh2VJtWuQbYdJSkghElYdg9bZiiNYuQXE=;FMMtFpovoPOQ7ObNqvvQmg=="
+secured: "R6B1BvKhfSUYvXDHw7ypmgW3gqOuFvhVJa2mwBMWwh4tUfaVaXEer5UmCFCiGNkZ3i1qxaRH9oxeXoJhvBKa8cFh+bnALvLc8Fz7s9nDdOgIsE6SU/TdrBrKHUvn9r1dIp6e58R8hBHORGIRDqia3Q1vfYektOKcyW11tWdOE7ZxIZPq/2DN1/ROv98R5EOWmI4zQGuTrBVAVe+p7tQP3p22SWKQqqqg8yI/aEwmB4kMhDH6CbPTDg2Ijt3tL0dZrpuAkP7zXKu+OCx5UhSYwFR00F7aLqXfDX9K6DhZ5cUwD504GdsDfXDzm9nyxOQbABuOB/hF1imc0qYhv8jKOmkHT7j7q0nh647BHrwGZxbbryCKsR3tsFKeFy1VqEiotMSSFsB6HUD7IGthQwddEoYY2F0dHsmHEQpzB65pcPoTloRrKa78D8ZswfcMwE5i33jfXyRKPvS/w79iZSP/c5BWLO7MAnpe692LM0ucuXRdeqq011MakPapeCeBofvyZn0LEmLCGvw+Sym+uI9cOg==;TchqspjhUAPqxaI/98vk+w=="
 ---
 

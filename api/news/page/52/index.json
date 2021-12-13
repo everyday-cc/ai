@@ -2,6 +2,248 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-11-03-kinetica-pushes-vectorization-to-the-edge-with-microsoft-azure-stack-hci.md",
+      "title": "Kinetica Pushes Vectorization to the Edge with Microsoft Azure Stack HCI",
+      "excerpt": "Provides Organizations with the Flexibility to Perform Time and Space Database Analytics in Hybrid Cloud DeploymentsARLINGTON, Va.--(BUSINESS WIRE)--Kinetica, the database for time and space, is now available in the Microsoft Azure Stack Partner Catalog,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=557889",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=557889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
+      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
+      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "publishedDateTime": "2021-11-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-meet-the-ai-powering-todays-smartest-smartphones.md",
+      "title": "Meet the AI Powering Today’s Smartest Smartphones",
+      "excerpt": "Artificial intelligence is increasingly becoming the differentiator that makes a new generation of smartphones truly clever. The ability of phones to generalize and determine what might happen next based on previous patterns and datasets—what’s known as machine learning—is,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "originalUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/613f8386924283bfff0bca68/master/pass/WIRED_Qualcomm_header%20gif%20rev.gif",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/meet-the-ai-powering-todays-smartest-smartphones/amp",
+      "publishedDateTime": "2021-11-02T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
+      "title": "Automated claims processing at Xactware with machine learning on AWS",
+      "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png",
+          "width": 1260,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:10:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant.md",
+      "title": "Pasadena Company Introduces 2nd Generation Robotic Kitchen Assistant",
+      "excerpt": "Miso Robotics in Pasadena on Tuesday unveiled Flippy 2, a new and improved version of its automated kitchen assistant. The “faster and more customizable” version of the original Flippy device was designed with input from a pilot program in partnership with the White Castle hamburger chain,",
+      "sourceUrl": null,
+      "webUrl": "https://thespoon.tech/miso-introduces-second-generation-restaurant-kitchen-robot-the-flippy-2/",
+      "originalUrl": "https://www.pasadenanow.com/main/pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/thespoon.tech/wp-content/uploads/2021/11/Flippy-2-Complete-System-scaled.jpg?fit=1200%2C797&#038;ssl=1",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Now",
+        "domain": "pasadenanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
       "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
       "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
@@ -954,239 +1196,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
-      "title": "Why AI still needs humans in the loop, at least for now",
-      "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
-      "publishedDateTime": "2021-11-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
-      "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
-      "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
-      "originalUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/10/medical.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery/amp/",
-      "publishedDateTime": "2021-11-02T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-iron-ox-launches-grover-an-all-new-autonomous-mobile-robot.md",
-      "title": "Iron Ox Launches Grover, an All-New Autonomous Mobile Robot",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, is launching a first-of-its kind mobile support robot named Grover. Grover is not your average farmer.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-environment-robotics-3def91b570ac36de404ae9d96a9c4645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
-      "title": "ReSkin aims to give AI a sense of touch",
-      "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/",
-      "originalUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/reskin.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/",
-      "publishedDateTime": "2021-11-02T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine.md",
-      "title": "ORPALIS Imaging Technologies Announces Major OCR Improvements with Deep Learning-based ICR engine",
-      "excerpt": "New ICR engine ORPALIS Imaging Technologies introduces its first ICR engine, improving its machine vision capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n23815015/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n23815015/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23815015",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23815015",
-      "publishedDateTime": "2021-11-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

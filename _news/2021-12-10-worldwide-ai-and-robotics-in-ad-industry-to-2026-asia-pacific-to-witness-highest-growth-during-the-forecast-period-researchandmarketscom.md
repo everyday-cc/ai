@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
+    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
+    publishedDateTime: 2021-12-13T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Asia-Pacific AI in Computer Vision Market is Blooming at a CAGR of 49.8% from 2020 to 2027 | Business Market Insights"
     excerpt: "The AI in computer vision market in APAC is expected to grow from US$ 1,156.92 million in 2019 to US$ 27,754.01 million by 2027; it is estimated to grow at a CAGR of 49.8% from 2020 to 2027. The Business Market Insights provides you regional research analysis on “Asia-Pacific AI in Computer Vision Market” and forecast to 2027."
     publishedDateTime: 2021-12-10T05:33:00Z

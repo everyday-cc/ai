@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-softbank-to-complete-first-spac-deal-with-ai-robotics-company-symbotic.md",
+      "title": "SoftBank to complete first Spac deal with AI robotics company Symbotic",
+      "excerpt": "SoftBank is set to complete its first Spac merger by taking public a Walmart-backed artificial intelligence robotics company in a deal valued at $5.5bn. Symbotic, an AI start-up that focuses on improving supply chains for retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "originalUrl": "https://www.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29eabe90-d8a2-460f-992d-170abfe5d96b.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "publishedDateTime": "2021-12-13T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
       "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
       "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
@@ -169,6 +212,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
+      "title": "Investing in the Future: Burger-Flipping Robots?",
+      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
+          "width": 2120,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
       "title": "Watch a robot playing table tennis after just 90 minutes of training",
       "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
@@ -315,7 +410,7 @@
       "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1270,92 +1365,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
-      "title": "Robots made from living cells learned how to replicate themselves",
-      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
-      "publishedDateTime": "2021-12-03T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools.md",
-      "title": "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools",
-      "excerpt": "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
-      "originalUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/12/Artificial-Intelligence-AI-robot-tech-automate.jpg",
-          "width": 617,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
-      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
-      "publishedDateTime": "2021-12-03T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benefits Pro",
-        "domain": "benefitspro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

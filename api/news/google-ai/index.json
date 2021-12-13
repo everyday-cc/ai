@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-10-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions.md",
+      "title": "DeepMind AI helps study strange electrons in chemical reactions",
+      "excerpt": "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
+      "originalUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
+      "publishedDateTime": "2021-12-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-simulating-matter-on-the-quantum-scale-with-ai.md",
       "title": "Simulating matter on the quantum scale with AI",
       "excerpt": "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry",
@@ -1428,59 +1471,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
-      "title": "Expanding our ML-based flood forecasting",
-      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
-          "width": 1000,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "publishedDateTime": "2021-11-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,240 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-simulating-matter-on-the-quantum-scale-with-ai.md",
+      "title": "Simulating matter on the quantum scale with AI",
+      "excerpt": "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
+      "originalUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-pentagon-creates-new-digital-and-artificial-intelligence-office.md",
+      "title": "Pentagon creates new digital and artificial intelligence office",
+      "excerpt": "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-natural-language-processing-is-shaping-intelligent-automation.md",
+      "title": "Natural language processing is shaping intelligent automation",
+      "excerpt": "The content of this article is inspired by Pascal’s book Intelligent Automation. Natural language processing is the name usually given to computers’ ability to perform linguistic tasks ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_529299211.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
+      "publishedDateTime": "2021-12-08T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more.md",
+      "title": "DeepMind makes bet on AI system that can play poker, chess, Go, and more",
+      "excerpt": "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
+      "publishedDateTime": "2021-12-08T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
       "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
       "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
@@ -958,255 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
-      "title": "Red Hat brings Ansible IT automation engine to Azure",
-      "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind.md",
-      "title": "The Era Of ‘Pervasive AI’ Has Begun: Get Going Or Get Left Behind",
-      "excerpt": "This new era of AI — \"pervasive AI\" — marks the end of technology paralysis and the beginning of transformation enablement. So, no more excuses. Stop worrying about how AI works and start focusing on what you want it to do for your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af6519fc3b7cc9b1a728d7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "Waymo’s slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/waymos-slow-going-in-arizona/",
-      "originalUrl": "https://www.metro.us/waymos-slow-going-in-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/waymos-slow-going-in-arizona/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymos-slow-going-in-arizona/amp/",
-      "publishedDateTime": "2021-12-08T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "originalUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-fegoai-raises-15-million-in-seed-round.md",
-      "title": "Fego.ai Raises $1.5 Million In Seed Round",
-      "excerpt": "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401435",
-      "originalUrl": "https://www.entrepreneur.com/article/401435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

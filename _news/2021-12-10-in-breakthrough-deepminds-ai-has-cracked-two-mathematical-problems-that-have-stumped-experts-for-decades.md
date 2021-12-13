@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind makes bet on AI system that can play poker, chess, Go, and more"
-    excerpt: "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games."
-    publishedDateTime: 2021-12-08T22:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all"
-        width: 1200
-        height: 820
-        isCached: true
   - title: "DeepMind AI helps study strange electrons in chemical reactions"
     excerpt: "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix"
     publishedDateTime: 2021-12-09T19:00:00Z
@@ -74,36 +58,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "DeepMind's Massive Gopher AI Language Model Can Have Surprisingly Natural Conversations"
-    excerpt: "Google's DeepMind utilizes a 280 billion parameter language model named Gopher in its AI research, but it's not perfect."
-    publishedDateTime: 2021-12-09T17:01:00Z
-    webUrl: "https://hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
-    ampWebUrl: "https://amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
-        width: 708
-        height: 419
-        isCached: true
-  - title: "DeepMind’s new 280 billion-parameter language model kicks GPT-3’s butt in accuracy"
-    excerpt: "Bigger isn't always better. DeepMind's Gopher system uses smarter algorithms to make better choices. And it blows GPT-3 away."
-    publishedDateTime: 2021-12-08T21:10:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-new-280-billion-parameter-language-model-kicks-gpt-3s-butt-accuracy"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fbuttkick.jpg&signature=c04853f72d2f4a282900d68fdec7b802"
-        width: 1280
-        height: 640
         isCached: true
   - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
@@ -170,6 +124,15 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 34
+  - title: "DeepMind neural networks open new window to understanding electron interactions"
+    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
+    publishedDateTime: 2021-12-09T19:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936923"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
 
 secured: "pP2F6BVQsDl1Nz2KH7HgAul9v/D4uNvoQHXgoFaDpsI3B99ZAYeCB/BU057kexlOalJzJnmSrIeArm1AupV4qRNXNS28Fa8vSrcWGgxLoPo9NqOvLyK6k0cQ2KK3Ift0ypjJv8UYYjzecBW8azZ3CSp5Rfw/eNf8uQzZ4cW0nzzRj4xVFMtPI5NKwjEkNywaIKLhShDD8m2WRoVOUC5XfW+7f5rUp2NQFd9qsOU0yIdUqEmedZ9xTd1wUw3khiPuZNIJjS5XtdQ3y4x4v1XDHsXiNOGQFZWjgLLsKUoK/dvaAQg0jwc8Wj7EQZpgRq7l7YnFKY9Lg9jG+qzs/2TS5Na5TahISQu465g1I58qsAaWbfUu3nCJJLGVXd8pSD7DZmP5qkR/6lelNgSvIKpjKbYmmwvK32rMkDobMtYWqDC5J8GmnC0Fv++jbS5f35PGS7B0DshEJ+KBJq5DB67KGpilSzvZci5oW/dPsWeiDWpT/Snp+sB7VtkjgLcvDsPToWZTjh7WlCA7Nu4QhB3g8A==;1kEuuVx7ZVzBycstAUz6mg=="
 ---

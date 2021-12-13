@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-softbank-to-complete-first-spac-deal-with-ai-robotics-company-symbotic.md",
+      "title": "SoftBank to complete first Spac deal with AI robotics company Symbotic",
+      "excerpt": "SoftBank is set to complete its first Spac merger by taking public a Walmart-backed artificial intelligence robotics company in a deal valued at $5.5bn. Symbotic, an AI start-up that focuses on improving supply chains for retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "originalUrl": "https://www.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29eabe90-d8a2-460f-992d-170abfe5d96b.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
+      "publishedDateTime": "2021-12-13T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-why-all-companies-must-explore-the-role-of-ethics-in-technology.md",
+      "title": "Why All Companies Must Explore The Role Of Ethics In Technology",
+      "excerpt": "The savviest companies must learn to understand and embrace the nuances at the intersection between technology and human values.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbd36a6c4bc20d159d34098%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "publishedDateTime": "2021-12-13T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
+      "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
+      "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
+      "originalUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/cloud-security-lock.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
+      "publishedDateTime": "2021-12-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-an-ai-trained-on-reddit-has-warned-researchers-that-itll-never-be-ethical.md",
       "title": "An AI trained on Reddit has warned researchers that it’ll never be ethical",
       "excerpt": "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,",
@@ -41,6 +188,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-outsmarting-ai-to-be-the-grandmaster-of-your-industry.md",
+      "title": "Outsmarting AI To Be The Grandmaster Of Your Industry",
+      "excerpt": "Tactically, your organization and its business processes may not be able to outperform your competitors’ AI and data-driven approaches. But for the foreseeable future, strategically outlasting them move-for-move until they waiver remains a viable strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
+      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b67a383089d0b7b87e4f7f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
+      "publishedDateTime": "2021-12-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -105,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -209,7 +407,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -261,7 +459,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -400,7 +598,7 @@
       "originalUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -883,6 +1081,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
+      "title": "Investing in the Future: Burger-Flipping Robots?",
+      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
+          "width": 2120,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-police-are-using-hand-held-facial-recognition-cameras-on-the-streets-for-the-first-time.md",
       "title": "Police are using hand-held facial recognition cameras on the streets for the first time",
       "excerpt": "The technology, initially to be deployed by 70 frontline officers in South Wales and Gwent, uses an 'artificial intelligence' mobile phone app. (File image.)",
@@ -922,260 +1172,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-hierarchical-forecasting-using-amazon-sagemaker.md",
-      "title": "Hierarchical Forecasting using Amazon SageMaker",
-      "excerpt": "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ml-3943-image017-742x630.png",
-          "width": 742,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T14:19:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
-      "title": "AI is thriving on and driving the edge",
-      "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
-      "publishedDateTime": "2021-12-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
-      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
-      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "publishedDateTime": "2021-12-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
-      "title": "Live transcriptions of F1 races using Amazon Transcribe",
-      "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T12:08:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-mercedes-benz-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany.md",
-      "title": "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany",
-      "excerpt": "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
-      "originalUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
-      "publishedDateTime": "2021-12-10T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

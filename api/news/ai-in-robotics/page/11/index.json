@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-09-30-top-three-trends-in-robotics-the-cambrian-explosion-is-happening.md",
+      "title": "Top Three Trends In Robotics: The Cambrian Explosion Is Happening",
+      "excerpt": "As more infrastructure is being architected, different schools of thought are emerging. Proponents of a particular school have their own world view on how robots will become ubiquitous and help mankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609a9c1bf4942207102ea502%2F0x0.jpg%3FcropX1%3D628%26cropX2%3D4001%26cropY1%3D0%26cropY2%3D2250",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "publishedDateTime": "2021-09-30T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-johnson-controls-chooses-ava-robotics-to-power-the-new-tyco-security-robot-designed-for-business-applications.md",
+      "title": "Johnson Controls chooses Ava Robotics to power the new Tyco Security Robot, designed for business applications",
+      "excerpt": "Taking a unified approach to solve existing and emerging challenges within the workplace, including for specific and evolving building and facility security needs, this robot is designed to bring access control ... in a thief’s mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/johnson-controls-tyco-brand-renews-support-for-british-superbike-team-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-ava-robotics-tyco-security-robot-business-applications-co-2900-ga-co-8421-ga-co-1632394913-ga-npr.1632928848.html",
+      "publishedDateTime": "2021-09-29T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
       "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
       "excerpt": "Amazon's new home robot Astro may not be ready for the real world, Vice reported, citing two unnamed sources who worked on the project. Amazon announced Astro on Tuesday, touting it as a mobile ...",
@@ -1300,94 +1396,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-johnson-controls-adds-new-body-worn-camera-autonomous-robot-and-mail-screening-solutions-to-its-building-security-portfolio.md",
-      "title": "Johnson Controls adds new body worn camera, autonomous robot and mail screening solutions to its building security portfolio",
-      "excerpt": "A security operator can control the main robot’s movable front-facing camera ... is the ‘new normal’, that means a lapse in security - at least in a thief’s mind. So how worried should business owners be? Well, the latest figures are pretty ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/johnson-controls-visual-alarm-monitoring-web-based-client-c-cure-9000-system-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
-      "publishedDateTime": "2021-09-23T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
-      "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
-      "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/nvidia-open-robotics-accelerate-ros-2-performance-2021-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/09/23134602/2ED81732-16CA-40BF-8662-7758178B331D.jpeg",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AI in Robotics"
       ]

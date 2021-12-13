@@ -149,20 +149,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
     excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
     publishedDateTime: 2021-12-10T18:39:00Z
