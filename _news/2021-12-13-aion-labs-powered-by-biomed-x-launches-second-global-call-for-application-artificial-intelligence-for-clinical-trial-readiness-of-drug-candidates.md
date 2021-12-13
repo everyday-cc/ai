@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20152809.html"
 webUrl: "https://www.lelezard.com/en/news-20152809.html"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 15
+    quality: 17
     images:
       - url: "https://mma.prnewswire.com/media/1708278/AION_Labs_Logo.jpg?p=facebook"
         width: 1200

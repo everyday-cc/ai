@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-10298385/amp/Police-using-h
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "how many has amazon jeff bezos secretly facial recognition?"
-    excerpt: "Which Amazon service is used to detect the faces in an image? A face can be detected by Amazon Rekognition Image using the DetectFaces operation that looks for key facial features such as the eyes, nose, and mouth. A given image is analyzed for the 100 ..."
-    publishedDateTime: 2021-12-09T03:24:00Z
-    webUrl: "https://www.ictsd.org/business/jeff-bezos/how-many-has-amazon-jeff-bezos-secretly-facial-recognition/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 41
-    images:
-      - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-does-jeff-bezos-make-money-if-amazon-is-losing-money.jpg"
-        width: 550
-        height: 413
-        isCached: true
   - title: "No live facial recognition for New Zealand Police in self-regulation pledge"
     excerpt: "An independent review of the opportunities and risks associated with facial recognition has made a series of recommendations for limited use."
     publishedDateTime: 2021-12-09T21:37:00Z

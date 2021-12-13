@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 76
+  - title: "Adobe announces Creative Cloud Express for mobile and web: Template-based, AI-powered editing and content creation"
+    excerpt: "Adobe has announced Creative Cloud Express, a new unified web and mobile product that makes it easier and simpler than ever to make and share creative content. Creative Cloud Express enables drag-and-drop content creation and includes thousands of templates to reduce the learning curve that can inhibit content creation for beginners."
+    publishedDateTime: 2021-12-13T19:00:00Z
+    webUrl: "https://www.imaging-resource.com/news/2021/12/13/adobe-announces-creative-cloud-express"
+    type: article
+    provider:
+      name: Imaging Resource
+      domain: imaging-resource.com
+    quality: 0
 
 secured: "TSMwijl21QT9scIfESViILPbkQKq+/fscMubXN0jAvtCSxGn3gUymn7MxFdKVrkDKCu+/H0T3A2RUdoR5wY6/P5386vpTyIrmXyBeHLZPK4JTunSXm2MKT0EJrQqRKiCjChb/u9dsxs1ed5sE1Y+FS8wogCWrNTA4cWYzPtEx3uMcOfM1qO133rmMQC6t+gfvIt+5P8h+vW0pdKk2XvHKIUNIWgh4RNPfEmM/RiJzYRTMXP7H1V2N4u4Uv1ZWpGYxCS/5AF0xb/6ONnGTXyrjv7adlp6EEWeRFrq+kAMkArJdVFpKghedsjOWYw1tXGg6l3FydlSI7ZWH/YvLUNUeWzS6QJiCDEp7m36y2gYvpkxSustB9zpxQt/DJSH3Vi8cYKXXZAWGRqYupmGwLKM/iHINg6Eib2H/ARGF3SvAETgvXCUCfWvii85cvZLFt4VUVgs/hku2P4MOaPb/BJIT3pmdDDymer238jhpzpojxvpGlWTv9ALp27LqW1lOnqkUk6h6g0aX9lACsevLYrzKQ==;y6VmzV4Rqokj5nY3HUARIA=="
 ---

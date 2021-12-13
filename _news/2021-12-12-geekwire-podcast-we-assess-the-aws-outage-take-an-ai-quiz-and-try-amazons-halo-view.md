@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 795
         isCached: true
+  - title: "Adobe announces Creative Cloud Express for mobile and web: Template-based, AI-powered editing and content creation"
+    excerpt: "Adobe has announced Creative Cloud Express, a new unified web and mobile product that makes it easier and simpler than ever to make and share creative content. Creative Cloud Express enables drag-and-drop content creation and includes thousands of templates to reduce the learning curve that can inhibit content creation for beginners."
+    publishedDateTime: 2021-12-13T19:00:00Z
+    webUrl: "https://www.imaging-resource.com/news/2021/12/13/adobe-announces-creative-cloud-express"
+    type: article
+    provider:
+      name: Imaging Resource
+      domain: imaging-resource.com
+    quality: 0
 
 secured: "pxEGc7N1V1kKdVHz2p/6HKhIUm8zZG7GrJ8b1J0dAyESrU5ouBuxZIwIj7sqse0Cd0fD43sBP4djcmZGuoE92i+XiVv+ZOZyKxc6dkrnn4L2+iv9hmzpjQVm8pKxoKaSzZYiU3oMdRbSd4ilqFcc9d5vRkP8frFlJrlKxjDC0lx5R8xUfe19CSxF6Yxnfk5VbMVpLke45nHlf0Y5Q6QiuBLQL0H9+938KlCN2xi3VaDiCnoeBFbuGVFaEYP391o+eXitjgGDhpljeUmvc2ilx9k1GNOpBh6drC9H8KZv/V9iWl1VKvkAWSxid0m4XHB9FAJ7rHsmSqBV/z9krRtml0lMaoNy0LpjUj1tpzPzLKAsCxVAxUZvwie/dJeydKpAEeS67ZxiJaHclyRD6zHkRb3Y6X2kjTvXpxYXjqHO3afSQmVcRCFL6Mll/UR5xE7tuMJp+E4NMJGFseMWn2yivEEgMQS9JtMWd31zp8TBKcKMz5wwmJlQgwqWXAXONoLRQ0KmMi0BwjfeRq5xaNtbsQ==;UALnsrU9V/ZoFaiG5T64ow=="
 ---

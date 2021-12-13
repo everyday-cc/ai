@@ -2,6 +2,447 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-01-chinese-province-plans-face-recognition-surveillance-for-journalists.md",
+      "title": "Chinese province plans face recognition surveillance for journalists",
+      "excerpt": "Security officials in China's Henan province have commissioned a surveillance system they say they want to use to track journalists and international students among other \"suspicious people\", Reuters reported.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "originalUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/30_tue/img_1638292436536_567.jpg?",
+          "width": 960,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "publishedDateTime": "2021-11-30T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models.md",
+      "title": "AWS introduces new Trn1 chips to speed up training of machine learning models",
+      "excerpt": "As more companies move to custom silicon for their customer’s workloads, Amazon has been busy on this front. They introduced the Inferentia chip in 2019 to help speed up inference learning. Then last year the company launched a second Trainium chip,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.02.09-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "publishedDateTime": "2021-11-30T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aws-launches-its-graviton-3-processor.md",
+      "title": "AWS launches its Graviton 3 processor",
+      "excerpt": "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "publishedDateTime": "2021-11-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws.md",
+      "title": "KATE THOMPSON DAVY: Unesco’s global standard on AI ethics provides smart blueprint for laws",
+      "excerpt": "Rather, the good governance of AI was given a huge boost in the form of the first global standard on AI ethics. A Unesco project presented to the world by director-general Audrey Azoulay on November 25,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/",
+      "originalUrl": "https://www.businesslive.co.za/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/CE9YAGTU_fFacfQpbYn6FXWVmXjCv8OpSl-fgc1nAI0sEsK2UX_BMKTO2kQRyB9pFh2K4-KcTuijJMXukJZQOJOyY5CE2Y1qNsqTaQM_q4rltA=s750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/",
+      "publishedDateTime": "2021-11-30T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
+      "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
+      "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a556232a037d3c244a6212%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "publishedDateTime": "2021-11-30T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-3-ways-ai-and-machine-learning-can-transform-public-agencies.md",
+      "title": "3 Ways AI and Machine Learning Can Transform Public Agencies",
+      "excerpt": "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies",
+      "originalUrl": "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-using-artificial-intelligence-to-advance-energy-technologies.md",
+      "title": "Using artificial intelligence to advance energy technologies",
+      "excerpt": "Hongliang Xin, an associate professor of chemical engineering in the College of Engineering, and his collaborators have devised a new artificial intelligence framework that can accelerate discovery of materials for important technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/68-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
+      "publishedDateTime": "2021-11-30T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027.md",
+      "title": "AI in Computer Vision Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast 2027",
+      "excerpt": "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-europes-ai-act-falls-far-short-on-protecting-fundamental-rights-civil-society-groups-warn.md",
+      "title": "Europe’s AI Act falls far short on protecting fundamental rights, civil society groups warn",
+      "excerpt": "Civil society has been poring over the detail of the European Commission’s proposal for a risk-based framework for regulating applications of artificial intelligence which was proposed by the EU’s executive back in April.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
+      "publishedDateTime": "2021-11-30T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-nasdaq-and-aws-partner-to-transform-capital-markets.md",
       "title": "Nasdaq and AWS Partner to Transform Capital Markets",
       "excerpt": "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary",
@@ -389,33 +830,24 @@
     {
       "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
       "title": "Ambyint Achieves AWS Energy Competency Status",
-      "excerpt": "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence.",
+      "excerpt": "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T05:38:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24358439",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439",
+      "publishedDateTime": "2021-11-30T05:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -745,410 +1177,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-sophos-intercept-x-advanced-review-ai-powered-protection.md",
-      "title": "Sophos Intercept X Advanced review: AI-powered protection",
-      "excerpt": "These days AI seems to be everywhere, and Sophos Intercept X proudly exploits it to help identify unknown malware. It also blocks ransomware attacks using behavioral analysis, and provides tools to investigate potential threats to see how and why they occurred.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "originalUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638265976/sophos_1.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "publishedDateTime": "2021-11-30T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-the-good-the-bad-and-the-ugly-of-deep-learning-technology.md",
-      "title": "The good, the bad and the ugly of deep learning technology",
-      "excerpt": "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "originalUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "publishedDateTime": "2021-11-30T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-tcs-helps-agl-transform-customer-experience.md",
-      "title": "TCS helps AGL transform customer experience",
-      "excerpt": "Tata Consultancy Services (TCS) on Tuesday said that it has helped Australia-based AGL, one of the largest multiproduct energy retailers, transform its customer experience in a hyper-competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/tcs-helps-agl-transform-customer-experience/article37765785.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/tcs-helps-agl-transform-customer-experience/article37765785.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/uo7l6t/article37765784.ece/ALTERNATES/LANDSCAPE_615/bl01TCS",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/tcs-helps-agl-transform-customer-experience/article37765785.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tcs-helps-agl-transform-customer-experience/article37765785.ece/amp/",
-      "publishedDateTime": "2021-11-30T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-an-ai-finds-superbug-killing-potential-in-human-proteins.md",
-      "title": "An AI Finds Superbug-Killing Potential in Human Proteins",
-      "excerpt": "A team scoured the human proteome for antimicrobial molecules and found thousands, plus a surprise about how animals evolved to fight infections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
-      "originalUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61a56b78cf519df9b5d9e394/master/pass/Science_protein_GettyImages-1278429417.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/amp",
-      "publishedDateTime": "2021-11-29T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay.md",
-      "title": "Portugal’s ‘Predictive maintenance’ startup Stratio pulls in a $12M Series A round led by Forestay",
-      "excerpt": "The fleet management industry needs to be able to predict when a truck or a van is about to break down. Not only does this prevent millions in lost revenues, it also has huge implications for supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "originalUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Stratio.jpeg?w=660",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "publishedDateTime": "2021-11-29T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-cognitive-computing-can-be-used-in-real-life.md",
-      "title": "How Cognitive Computing Can Be Used in Real Life",
-      "excerpt": "Cognitive Computing refers to the next generation of computing ... Assessment of risk: Risk management in financial services entails analyzing market trends, historical data, and other factors to forecast the degree of uncertainty associated with an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
-      "originalUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/news_new/sliderimage/ryv82.350.jpg",
-          "width": 300,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
-      "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
-      "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
-      "originalUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
-      "publishedDateTime": "2021-11-29T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-atento-introduces-xtrabot-an-omnichannel-solution-for-automation-of-voice-and-text-customer-interactions.md",
-      "title": "Atento introduces Xtrabot, an omnichannel solution for automation of voice and text customer interactions",
-      "excerpt": "Atento's new automated omnichannel platform allows conversations to seamlessly flow across all channels without the customer noticing, introducing voice and text bots at the first level of interaction to solve common and/or simple queries Atento designed Xtrabot to be integrated into any cognitive platform available on the market while allowing continuous development of the platform's intelligence and related capabilities without limitations According to Gartner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
-      "originalUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability.md",
-      "title": "Eftpos expands security kit bag with new AI anti-fraud capability",
-      "excerpt": "Eftpos has switched on a new AI anti-fraud online capability as the Australian debit payments provider continues to expand its security features. The new capability is underpinned by a fraud detection engine that uses AI and machine learning to predict individual behaviour in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "originalUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "publishedDateTime": "2021-11-29T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

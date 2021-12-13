@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2021-12-10/tech-insider-baidu-enters-
 webUrl: "https://www.caixinglobal.com/2021-12-10/tech-insider-baidu-enters-the-metaverse-a-self-driving-system-for-as-little-as-10000-101816390.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 560
     height: 373
     isCached: true
-
-related:
-  - title: "How a VR startup took the money and ran to the metaverse"
-    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
-    publishedDateTime: 2021-12-10T17:03:00Z
-    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
-        width: 2560
-        height: 1310
-        isCached: true
-  - title: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game"
-    excerpt: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game <br/> LOS ANGELES, CA, Dec 11, 2021 - (ACN Newswire) - Metaki"
-    publishedDateTime: 2021-12-12T09:46:00Z
-    webUrl: "https://menafn.com/1103343525/Metakings-Launches-Worlds-First-Action-Based-Artificial-Intelligence-Metaverse-Game&source=29"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?295438"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "MU1md7Q6U+uyClLKfRKx283IvmGbT9JX9NX35t4is5TDs4EDhoktuTvHLOC/9sq/Elkl1VgVRVhW/DQUnSHl8QydZCfnZ2+Bh/P7RsBuL+HTyR+i+UNtiXSs+PgwFc9mhwARVk7t/6fF4q8DdrM8XS+ivoA6MOZU7uLP2JoVY9CbnIt4TA4pz7VDn3QCmxK9mL45zMvA80bG85GRi8g/xlTp+aP3Pbhorh5ExQvZgZ5JR2OmLOWqiJdV0eebXw2SMQmee6DBeQnugwfqpYIyW7CKSyoydf2BGvFJB1gZxedrkzngJt1kdaxdxqU7HA0pDppZZRTmYgZSbuEzxAoQ9WG8caRkAV2SgfyNtuptszsxftXFWBi37HVc8B8xCqEL8KHx+fGyA7/8xqLCGgP7RsbgfLqyuNOMvB/pjSFyejVeCh/QnlvJ62alp2pU+2ZikDfLHa+o70IHlEKFHfJlCNwKu4fPYjqSbZ+RONSF+HjC9whMiVrnHdLJ2lV1fTbUO2IoXl330w/YsjtWbXEc1g==;OdWqOblbQmSuH1oTIZs7MA=="
 ---

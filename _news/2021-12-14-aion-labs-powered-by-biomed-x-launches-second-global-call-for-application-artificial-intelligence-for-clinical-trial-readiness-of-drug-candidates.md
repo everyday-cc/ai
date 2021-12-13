@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-13T19:00:00Z
 originalUrl: "https://www.prnewswire.com/il/news-releases/aion-labs-powered-by-biomed-x-launches-second-global-call-for-application-artificial-intelligence-for-clinical-trial-readiness-of-drug-candidates-301443029.html"
 webUrl: "https://www.prnewswire.com/il/news-releases/aion-labs-powered-by-biomed-x-launches-second-global-call-for-application-artificial-intelligence-for-clinical-trial-readiness-of-drug-candidates-301443029.html"
 type: article
-quality: 15
-heat: -1
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1708278/AION_Labs_Logo.jpg?p=facebook"
@@ -40,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "I9I8XnvHA31osbCsdH5MFR/sQwlvxBfytY5q7h9b5PsWxQwbC4+QCfkqjozU+dJjxM6Bfqn/gG24FwrnyPU9tv6doil7hlCjkWprpYiVgjtDnjROWwVJzZWcXAAv/bHnshhPdUS8vgKekigGaSWIGY/ZF4wB6/ERAmO9NQPy1lkMXTEgYmvAz96CklSMYhK9LkxoDrnIRPV8D+rvs0/Fn5LZmtpFzWJJ5iC3aISQWvwu+4llGTFt8b1s4lxG1IjmDTdTiDI8brMu33BOI64OB/maXNhFA318Hvv52pnLOKROcJ4VoN0lZ086VIwxAHnRN9w0+LOIbhiG+PS4ZcvIQ22hTwPXBmKuFBan9/4/QHA=;5m/c6D8uMTYVRFbbMIWRdg=="
+secured: "aB7CUpw8gDY/fTOD6olGoYW0fjy5/FFfvEylcEMqRDZS4AKDNJuR6JGOuZ3EsuCsmOU0YQ+dCs01bZI/k2N2c/X5VZC2wP6yTPMA8tVQ7+s6pJwoAPVjnW47nUyt7yLl4TjNJE1VKTTIdXfvWfXO7ZBBwVVOl/7IBJk71ZpxHEP/eiqeM2Pesa1UHtSlnLYhGTVOBGzTqBr80ERyMe7GVauj1s0oWW82KjH5tplQHKRwVZD2/3hesttDYyqtTyeGQdanbv7QavRpsEaljorYP7jlFnhCKROsCb4IdsSraQXy/k4PMzNSinGh8r4fNsy3zmEg/WR7KydZBYX0KH70IUFLUflb+DJGt38SJCqu5IVQiJLeI9eBOtwf45yiQmyUMzgKPwwh7O5DN6omRZFd0BCEtweIU9PpUoN4+WGsywZ3PPBKQOnMfbF500P7NTGUeWfqhoUTGhCmmwBHSk6aDWKFDQQMfUXBtaZSLp54iwzpMGulAfAjztRtavR5dfcsjpkhlkhcp0Jgmj+e8fMtDQ==;le8uS0yol1RPjYGc1rK/+A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2SS196"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Reuters
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving startup Robotics Research raises $228 mln in funding"
-    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-    publishedDateTime: 2021-12-09T05:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
     excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now is because the prices of the ..."
     publishedDateTime: 2021-12-09T06:36:00Z

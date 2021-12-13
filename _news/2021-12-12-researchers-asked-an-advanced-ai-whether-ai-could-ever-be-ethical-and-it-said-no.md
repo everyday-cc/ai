@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides"
+    excerpt: "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us."
+    publishedDateTime: 2021-12-13T19:00:00Z
+    webUrl: "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
+    ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 83
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "AI debates own ethics at Oxford Union"
+    excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
+    publishedDateTime: 2021-12-11T07:00:00Z
+    webUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union"
+    ampWebUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
+        width: 620
+        height: 388
+        isCached: true
   - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
     excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"
     publishedDateTime: 2021-12-13T12:00:00Z

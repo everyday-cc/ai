@@ -27,14 +27,21 @@ images:
 
 related:
   - title: "AI models microprocessor performance in real-time"
-    excerpt: "Computer engineers have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself."
-    publishedDateTime: 2021-12-10T21:46:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211210103100.htm"
+    excerpt: "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself."
+    publishedDateTime: 2021-12-10T16:01:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg"
+        width: 740
+        height: 416
+        isCached: true
   - title: "AI driven APOLLO predicts processor power consumption"
     excerpt: "Engineers have developed APOLLO, a new AI method for predicting the power consumption of any type of computer processor over a trillion times per second."
     publishedDateTime: 2021-12-13T08:21:00Z

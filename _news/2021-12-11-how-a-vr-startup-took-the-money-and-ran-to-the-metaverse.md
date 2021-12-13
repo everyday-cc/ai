@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubh
 webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Insider: Baidu Enters the Metaverse, a Self-Driving System for as Little as $10,000"
-    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu teases metaverse app Search giant Baidu Inc. has teased the launch of a metaverse app on Dec."
-    publishedDateTime: 2021-12-10T12:13:00Z
-    webUrl: "https://www.caixinglobal.com/2021-12-10/tech-insider-baidu-enters-the-metaverse-a-self-driving-system-for-as-little-as-10000-101816390.html"
+  - title: "Tectona releases AI-generated NFT collection in major metaverse move"
+    excerpt: "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs."
+    publishedDateTime: 2021-12-13T20:10:00Z
+    webUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move"
+    ampWebUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 30
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://img.caixin.com/2021-12-10/163913795584429_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg"
+        width: 740
+        height: 493
         isCached: true
   - title: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game <br/> LOS ANGELES, CA, Dec 11, 2021 - (ACN Newswire) - Metaki"
