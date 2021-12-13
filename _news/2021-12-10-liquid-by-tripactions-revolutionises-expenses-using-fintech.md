@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/digital-payments/liquid-tripactions-re
 webUrl: "https://fintechmagazine.com/digital-payments/liquid-tripactions-revolutionises-expenses-using-fintech"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial intelligence revolutionizes modern art"
-    excerpt: "Artificial intelligence is affecting artistic fields and cultural projects, leading to a boost in investments in the UAE because of the special natur"
-    publishedDateTime: 2021-12-09T09:43:00Z
-    webUrl: "https://menafn.com/1103331479/Artificial-intelligence-revolutionizes-modern-art"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_74_menafn.jpg"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "Crc5cyKkKR6SBOtSxjdIeLZIqcrMQDAgT6duLYNV3baoWrvMl5ZdihELTjd9PemwhOQyg3qaIzTV2I8KgYv7kLi2T39A8qjDmSCWDATFlQYLfnqS/w8a08pMPNTlO4RTO4hD0vVNr0K7/nhINNKjjBDk7SnJ6eyrEN3mWNuvWbPtnNMY2VOpoU8dxYusriAGjbozqyoTohs8kUr/gRdqBkdaxwTa+3IT+PDW26h0V9gEb7/rjbf71ZXWOtO/q+k+E+6QkKrJU91BgANA+mbpUfIrsr+g2NvURVgW12Tmv9CsIe6iqgb/2H3YktSlx08y+41p0i/LsBwoneEHTpx/A8n+ZOKRjnUEIGPV7sVwsbTAXqh3B1PTXR0vMF1YFXgsW6MDeAYvAHUM/BUtW5Cww2oFuRFw+H3En6vWsxlU4oHdyyfPTMmTdeNIAOkdwZw1+cNyI4ok7XOHi0WZwpx7Zs3NDBOvxhQOtnFr6w8JvujRfYf2p7MPZvOhDG++s6LTvvUmKIObFEf9Kv0rlvtR6g==;Op19AcoqKv/75pcHHZXOyA=="
 ---

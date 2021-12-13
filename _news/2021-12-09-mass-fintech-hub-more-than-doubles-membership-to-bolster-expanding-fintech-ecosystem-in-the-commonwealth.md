@@ -39,6 +39,20 @@ related:
         width: 675
         height: 380
         isCached: true
+  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
+    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
+    publishedDateTime: 2021-12-09T13:01:00Z
+    webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "SMaucezNP/beX0x2Kp4upTpSPPl3sxBi7r8zJRn6+FOJKb0LehhlbE/K7mLS7IyxLBxfa9SQQbaAxBlC+V9j/k3QX00dYCXjPtDNVKv7AuDacs+O/pfkKv8N9ZGo4Y7M56Sqwq1/qeCVFJvoXBLOeoN/hsBC6sSluCvPyEewnMEZnaJcj1vqib5c6JzNfz5jCP7vcEk0L0BNi+z5Jx8YI3zzuh+fofjCK9b0b9jSJtQlAtGuZCdSGCMrhdMxbfJoMt6Vl+IEotohF4kVl9hALr7AU/JpwSO1MElAN5P7IIfZJ5kL0KL92+a/46KBTY7d5NyfwQSX8Qt+TbA0KWSP9PFMQK2N+Z9Z2Wi9bChxNWs=;a2qnygAYMkLf3a8lllKl/g=="
 ---

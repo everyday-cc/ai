@@ -25,75 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How can banks still thrive as fintech meets 5G?"
-    excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
-    publishedDateTime: 2021-12-08T11:45:00Z
-    webUrl: "https://www.bangkokpost.com/business/2228723/how-can-banks-still-thrive-as-fintech-meets-5g-"
+  - title: "Chatbots Will Bring AI Smarts to Your Organization"
+    excerpt: "The latest trends in artificial intelligence and machine learning technology certainly meet those criteria, with conversational AI being one that stands out as promising benefits to a wide variety of businesses."
+    publishedDateTime: 2021-12-08T17:00:00Z
+    webUrl: "https://thenewstack.io/chatbots-will-bring-ai-smarts-to-your-organization/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
+      name: thenewstack.io
+      domain: thenewstack.io
     quality: 39
     images:
-      - url: "https://static.bangkokpost.com/media/content/20211208/c1_2228723_211208184552_700.jpg"
-        width: 700
-        height: 467
+      - url: "https://cdn.thenewstack.io/media/2021/11/64ad9aae-chatbot-gc3ac2d6ca_1280.jpeg"
+        width: 1280
+        height: 811
         isCached: true
-  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
-    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
-    publishedDateTime: 2021-12-09T13:01:00Z
-    webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 24
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
-    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
-    publishedDateTime: 2021-12-12T09:40:00Z
-    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "SaaS Fintech Numerated Acquires Fincura, Adding Spreading Automation, Financial Analysis to Loan Origination System"
-    excerpt: "Numerated, a fast-growing Fintech SaaS firm, has reportedly acquired Fincura Inc., 'adding spreading automation and financial analysis to Numerated’s Digital Loan Origination System.' The acquisition expands Numerated’s underwriting capabilities for business loans that 'require deep financial analysis,"
-    publishedDateTime: 2021-12-08T17:19:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/183933-saas-fintech-numerated-acquires-fincura-adding-spreading-automation-financial-analysis-to-loan-origination-system/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/183933-saas-fintech-numerated-acquires-fincura-adding-spreading-automation-financial-analysis-to-loan-origination-system/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/183933-saas-fintech-numerated-acquires-fincura-adding-spreading-automation-financial-analysis-to-loan-origination-system/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/FIntech-USA.jpg"
-        width: 1800
-        height: 1800
-        isCached: true
-  - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
-    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
-    publishedDateTime: 2021-12-10T14:49:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 13
 
 secured: "vr0i5+CgRZeQv/jPFuR+zTeURCyMWQUXT/qkzhCstnmrVzzVxCK6RucBbMNyONFQHHlmv3K2Ystqk+QEO3a/ioIMXx2uLM2nvWg7wpWNrF2Nyaf57rqagHgPHTdhDkIev5y9fe6g8ipMyi91bJqZUQ4GzyhbSI/xfMndL+jFOCjt8x8KDEtmrnex8HZSam0XS/Bj5HKH1NIBYMGbuASMbaGoLcDO7TELW9PcFNc5Q91FcZpVeVb6U65xq8hAXJF3qUyReML9CRQ1oW33qG9vXQxyrhv/vhqP5w55/eLEx5DH1Py1GNWNGn8Hs9SZX33Wo3wQ29OQWVTq6bc+jXnQkqDXlXfNgFUfZKBxe8Js18Zha0FqEVm8fEJ62BJh3GdeGLncQ6vdwmwV56hQ+AJPqi9zWsrwr32jP91lg9g33m6ZhQl2lJm8ynTx39olxYQvi+Rz0dwUF4Qv/58VEWf4NxjcFvZ/+3DdSTnXtMvKF831OdFVbjFdR4SSllyeKc/vyPYa01r+mSVdPYPEZPbpgA==;/Rw10MH4u5kLo0ZV21eBZg=="
 ---

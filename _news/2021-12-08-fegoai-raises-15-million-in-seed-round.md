@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/401435"
 webUrl: "https://www.entrepreneur.com/article/401435"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Entrepreneur
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare startup Suki.AI raises $55mn led by March Capital"
-    excerpt: "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ..."
-    publishedDateTime: 2021-12-08T11:38:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html"
+  - title: "Open-finance platform Fego.ai snags seed capital from 3one4 Capital, Kunal Shah, others"
+    excerpt: "The broader fintech space has continued to attract investor interest in the past months. Uthaan Technologies Pvt Ltd, which operates Microfinance.ai, raised $200,000 (Rs 1.5 crore) in a pre-seed funding round led by We Founder Circle. Last month ..."
+    publishedDateTime: 2021-12-09T05:04:00Z
+    webUrl: "https://www.vccircle.com/open-finance-platform-fego-ai-snags-seed-capital-from-3one4-capital-kunal-shah-others"
+    ampWebUrl: "https://www.vccircle.com/open-finance-platform-fego-ai-snags-seed-capital-from-3one4-capital-kunal-shah-others/amp/"
+    cdnAmpWebUrl: "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/open-finance-platform-fego-ai-snags-seed-capital-from-3one4-capital-kunal-shah-others/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
+      name: VCCircle
+      domain: vccircle.com
+    quality: 66
     images:
-      - url: "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG"
-        width: 600
-        height: 337
+      - url: "https://assets.vccircle.com/uploads/2021/11/seedfundingvcrfxl-.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "QZOW+V2d3NCEi7h+S5XFm9tmp1tpwjUC146F6Xu9/vRT7atMRxHG1HCL0Or1cYV5N8UyJUOMqQSFbcl1nC9sQGkfw2rnOFx6RYVIpsa7lXkb+1uHAn0YHWm1XNiBo/lebAw6eba1/h0ZFKI89sLHFjmJB8a80keibdCFNp+JzVfbjofypL/NFdX9YqaOHnbbQQHVD9ivThW1h6yj0a9cqvraFXyh40bHIceC+8kenEeSh/1VunhwpG7P9zPeSrWw2ImogtBLZA2uilt3rH6gWz+xNE4PSe5aD2x2phvfmCtaUeQ6YT5lW03Mno42DohOip2tkgMN5MzR+BrZQOYY081xrY5t9wycRtQl9HHdldk=;SqdgF1v3d9nxbi4MnGnsmg=="

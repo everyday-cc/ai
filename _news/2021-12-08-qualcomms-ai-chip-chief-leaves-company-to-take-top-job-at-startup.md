@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX"
-    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"
-    publishedDateTime: 2021-12-08T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx"
-    ampWebUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
-    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup."
-    publishedDateTime: 2021-12-08T12:08:00Z
-    webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Qualcomm AI executive heads to MemryX"
     excerpt: "Fabless AI chip start-up MemryX hired Keith Kressin as CEO, nabbing a leader of one of Qualcomm’s key business areas. MemryX stated Kressin held the role of SVP and GM of compute and cloud at Qualcomm,"
     publishedDateTime: 2021-12-09T17:41:00Z
@@ -94,15 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
-    excerpt: "MemryX headquartered in Ann Arbor, Michigan, with offices in Taipei and Hsinchu Taiwan. AI chip company MemryX has hired semiconductor industry veteran Keith Kressin (Qualcomm, Intel) as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211208005378/en/AI-Chip-Innovator-MemryX-Hires-Veteran-Semiconductor-Leader-Keith-Kressin-as-CEO"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
 
 secured: "sbX4FyeAh1xOc5PXYVLUBnY6DtNt8pPKiBodLF4999Z6OjwYeXdLLTDDIIlHthzaPewtZsRcy+3XkzTBdrg3mOkHmr/c3OXp4RbXFYxS/YHKxZvSejWlGOgfdxlpL6wQD24IXCKpIkKawd9o8T4kju/mwb6/iY/Cg2JPI59yyCMxcaTI0dtYuyDjp4LavjS7XqKAiKW6CZWjmHq02TQDordb0bkZmNshsXWxjZ1iwazY1+bODMcmoBNLLk9k5b/VEHxr4w6DSm9d3XPJHON6A9aSwfl+Az4eEkB0D8zbDrbWxqW+2bWax7Qb3otkriIwrH7TLEirCKFU8wFsnRgr8LSgi2Ui4h+8ozELOxz8mfYhdc8i8g0wd7adf+tjdpFb5Kk24+HavkVZbMFXk3cM/dbbdx0Q60+UW0DHRBOs2DHkHVvxnVdN/5hIJmA2v7q0uAPrvaX1VT/23F6mAtyYmOn6jNvRfqD1AjU1JMFus8l492/Zv7Zx8AFzUNtUaQr+IpTmTieEOlcky8AU5nYRiw==;at1Jy8JHz8CI6kEcXsiYBQ=="
 ---

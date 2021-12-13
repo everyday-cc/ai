@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK government sets out AI standards roadmap"
-    excerpt: "The UK’s Centre for Data Ethics and Innovation (CDEI) has published a roadmap for building an “assurance ecosystem” for artificial intelligence (AI)."
-    publishedDateTime: 2021-12-08T12:04:00Z
-    webUrl: "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "The steps required for the UK’s AI assurance ecosystem"
-    excerpt: "The CDEI has established the steps essential to building the UK’s AI assurance ecosystem, ensuring the effectiveness and compliance of AI"
-    publishedDateTime: 2021-12-08T11:35:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-assurance-ecosystem/125677/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_m_137582267-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "UK publishes roadmap to create an 'AI assurance ecosystem'"
     excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
     publishedDateTime: 2021-12-10T07:58:00Z

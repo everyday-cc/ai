@@ -82,15 +82,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
-    publishedDateTime: 2021-12-08T11:44:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 5
 
 secured: "lpkoKCfnXQ4rYL/RQxXSZM9OUY/bKmea2+x6jNft3Rov3y4BIhCRWSpqtHyYBv5X22xP9KYA29fiwV94M/g2PuNjTg6BxsZ56/tJ6sIG+IzExMxI4kvqNAgICo08JAVmUtF4doaSqhcrVTQSgIRGdTorHaWwS3j6yUwUL2Js6EfIk9jdepMh648vNl1jEoJXNkiBTVSMTKyPJHlUbhf91kBA3RkMoT6zFhw9pKrz1PQL5TA2ULD8nBtgJ6pD1/v5HooNZaqpXUQwdkgji1u24SfIHi2+xvvgZ/0VyDGQRyZDZTiFS36rqFgYNu0qWG0Oh8uQYhhnECocQy61ViQi+Cp17qPdunz5LEJFb3vlILeiRzRYz9bgheWRyYYByFNwj+JmKPFs/Qb7Cj4sBLTkLrgn2HUCaXz/t+/1f0a+Hn5Zhn4oxpN+l+aXY4W7DsU8gelAnhPQKRk2id4NH+LWsOZiGDcG/rN+jYt1D3aFRInVYj8DfZKUMz3f2aD2Xr+I20vFbx3gItO75Wge/seyZA==;yiIAfyIUzKBAWr/hVs7tdw=="
 ---

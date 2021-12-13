@@ -26,24 +26,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "Rod Liddle demands a 'grovelling apology' from Durham University for 'indulging jabbering infants' in free speech woke row as students protest and ask for speaker content warnings"
-    excerpt: "The columnist said the institution should issue a 'grovelling apology' to Durham University Professor Tim Luckhurst and 'reinstate him immediately to all his duties'."
-    publishedDateTime: 2021-12-08T12:55:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10288183/Rod-Liddle-demands-grovelling-apology-Durham-University.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10288183/amp/Rod-Liddle-demands-grovelling-apology-Durham-University.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10288183/amp/Rod-Liddle-demands-grovelling-apology-Durham-University.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/12/08/13/51494017-0-image-a-59_1638970419529.jpg"
-        width: 636
-        height: 382
-        isCached: true
-
 secured: "RnXZZMSeGl5Qnpy7DSUou3AZhq9kx+wBpsEfbYvAq2j2WNvoWGXTRKm0z2L6nbcTpPIE7H9Qw38ajYrIRlwDxeFBxMyO8FHuABrRdohLJMP3o2VGOZmcjrc286okf5aBuKy2heSpppobrfVdjHDzkXZnIQzAZ20ps/OPluulMtuZkmcu3ll0+CVAaa7xGOcBprafDkUa9BO4NNBt3n+O57OabBqyb88tfNQzIY/9fJyDtGZcKStqFuIkdqB6S9GM+aZm3UEax04eHXjO1/YIIP4aWTz0+GcG+vSQT+zwCdlwqHY2O3TyML2FKThyhq48aaRvnA7URcHRVxhE/IkvzC2GegF2Vax8ZwsRcJADEklvFRqDrrcjQz7up4awIU5QMOXNd5X2/ToxCq78MAUoFnwm7sLVAaWmI902soeJvByXrPWJDoZe+DpY2vLDt16gskOgQ+LzauGfBA6Dz19VQ7UOMUkMQn7x2ibW/jl6y9nwvWGMHYuSPpxpsfca2yGT1x48mCNBSODZN2Bu9s8dgw==;DpgSwYf1uvb1GJmpyaXarQ=="
 ---
 

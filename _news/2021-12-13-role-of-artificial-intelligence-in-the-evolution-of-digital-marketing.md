@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
-excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
-publishedDateTime: 2021-12-09T17:00:00Z
-originalUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+title: "Role of artificial intelligence in the evolution of digital marketing"
+excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
+publishedDateTime: 2021-12-13T03:10:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
-quality: 57
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
+  - AI in Autos
   - AI
+  - AI in Marketing
 
 images:
-  - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-    width: 480
-    height: 278
+  - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 1600
-        isCached: true
-  - title: "Role of artificial intelligence in the evolution of digital marketing"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
-    publishedDateTime: 2021-12-13T03:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "The power of AI can be unleashed with a focus on ethics"
     excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
@@ -120,6 +106,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
+    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
+    publishedDateTime: 2021-12-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "DeepMind simulates matter on the nanoscale with AI"
     excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
     publishedDateTime: 2021-12-09T19:34:00Z
@@ -130,6 +132,6 @@ related:
       domain: eurekalert.org
     quality: 34
 
-secured: "m2nr49dUguQfmcwqqlWNi1kJ0J6bcB8vjuP0zfIh7dZ7oCxP2oWE29zNvVdKultXjZAVL3l0nw//OT8kroKhNmbMKjeH319RzlSnYSokYUrDk+4wz5Js87cCWIORdTnxi5YDVEiQr4uvpIPNk+GrjEpLJpy+efjFmA3lwKkKmk8zhpwJnzZSclF0dU455+zP8LkKHJ80nZyxRz2tF0MFrLpsi1R/0JpTzTWzSJjHbdN7l8XmKbxqgGH7WjNn5UB08eKdsXqEstUB9SeMcYlOjD9itb2Nq9cide/TcO3aUA8Fg38v8VeZx++dKjuSwaB8LJwJ5ZW64MmKeuZkR5vNSKe7b0NGL+GPIYb5ZmYUFor6MgZlYyL4+uG2xIg4qyLRor6nN/KPomsOr9nFsbjI2gnYWJLPCuNQWYvSafpzqfBm4Jd1J7bpZo2bD34DDoDgDF2iyKpeE0lG1mxu64eF9KfmuSfmj4pdJvGUkC5TASHjVsHeDL1Sh8BK+H3sMf7G9tf4Fr/D4qrjlr38RZsBqw==;IMc3j0NRLKCZnwlgOQuo2Q=="
+secured: "iEn37kKC69vUfkAx9L32Wu2e1lX7vLm7lu0EnI5cSFzlpl8qnctqGz1ps0MCinCfrt3aM38cGa2wVmH+UJIIZn3CFe2dX4WdngFDwga3R6D8o14xpislx+uqixJvL0MMv1LRfUTIk/eXr5nQp4RekmoaMmbKEZDNJFqIUbyh6ektidiBtOcXr4WHcnsmQtMcuPpSLA/TUSv1EHlW++ARfRGM/9d2mECnXkxPf2ifkm/RGO2CGXf5sYueAbLy07aGh2oWvlCNkoabIJc24NrQFqHVPAwzMnoe1mzjDf377XtW1E85ZWRNoxsmKWIAwz48lwnQBIH/J0M9PDmrRjjhHN9dndhmeAQPvw4BVt8zu0c=;JImx+xrYwaQ5SijOGXpPpw=="
 ---
 

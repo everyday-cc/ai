@@ -27,73 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "How can banks still thrive as fintech meets 5G?"
-    excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
-    publishedDateTime: 2021-12-08T11:45:00Z
-    webUrl: "https://www.bangkokpost.com/business/2228723/how-can-banks-still-thrive-as-fintech-meets-5g-"
+  - title: "Harnessing fintech in governments’ fight against financial fraud"
+    excerpt: "Cases of financial fraud skyrocketed worldwide during the COVID-19 pandemic. At a Global Government Fintech webinar, panellists discussed the merits of government use of fintech solutions – including artificial intelligence – to reduce manual processes,"
+    publishedDateTime: 2021-12-09T15:56:00Z
+    webUrl: "https://www.globalgovernmentforum.com/harnessing-fintech-in-governments-fight-against-financial-fraud/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
     quality: 39
     images:
-      - url: "https://static.bangkokpost.com/media/content/20211208/c1_2228723_211208184552_700.jpg"
-        width: 700
-        height: 467
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Harnessing-fintech-in-the-fight-against-financial-fraud_CREDIT-Tima-Miroshnichenko-via-Pexels-620x414.jpg"
+        width: 620
+        height: 414
         isCached: true
-  - title: "The deep dive: Chatbots in FinTech and banking"
-    excerpt: "The evolution of the FinTech and banking sector has created an enormous need to provide better customer service, paving a way for chatbots."
-    publishedDateTime: 2021-12-09T12:21:00Z
-    webUrl: "https://ibsintelligence.com/ibsi_prime_news/the-deep-dive-chatbots-in-fintech-and-banking/"
+  - title: "SMB Lending Fraud being Combatted with Fintech, AI"
+    excerpt: "After almost a month in service, Linear Financial Technologies has seen success with its machine learning fraud detection program, Linear Defense. The technology is used to help prevent fraud in all stages of small business lending."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://debanked.com/2021/12/smb-lending-fraud-being-combatted-with-fintech-ai/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: deBanked
+      domain: debanked.com
     quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/12/IBSI_Website_Weekly-Chart_680x400_061221.jpg"
-        width: 680
-        height: 400
+      - url: "https://debanked.com/wp-content/uploads/2019/04/onlinefraud.jpg"
+        width: 817
+        height: 586
         isCached: true
-  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
-    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
-    publishedDateTime: 2021-12-09T13:01:00Z
-    webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 24
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
-    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
-    publishedDateTime: 2021-12-12T09:40:00Z
-    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
-    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
-    publishedDateTime: 2021-12-10T14:49:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 13
 
 secured: "296g97JvqJHAj4ZkT2hcCtRk5GWqKFxzAiOKZBXbr8cjOj9wvFmBMvnTuG8MDnJgiw9B+RrNLVTiXatEtkpIjybdzW8NuxWLYwqK6Htxr48HbOOxYTO63EbUfORiLDnrbAlmh797qJJVmAki9EYb5zpkeRfLhFY++udAPyYYeMIu2ctUzsyBGgDV9YXs5gMSTUwONopSL8C3WkG74idvEHaf1uw1T9eEFslYm1mUjIOpSksPzQSwuk8Dy3hEuQeoxCHXLQqC5PElxqneJu1u7Ia7TQ521d1WL7rFi1vza3y/jmryiRzE0V2Gm4I5PUL07//HmTcvIRWSEP5NuS5cRMWbQ0YcB7YgfTOQiAsWI2e2In7wRB2het/mcNuBimSPSBmoxWx/JmpS6uywat/zpSskt+WFHg75tAk47iz4DVBrlcGqoirzXxo+HAet7IPES41jGhdVH70vtK5C04Gw9qYrFY3gldpQ+51MNZmK+m/w7Dk4/LoKJXp0Xj5IljJDo706nBMLC+fF6DduAIjWPA==;TReyuTLu4LTFPPlCePzzZA=="
 ---

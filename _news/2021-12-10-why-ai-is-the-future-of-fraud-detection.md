@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
-    publishedDateTime: 2021-12-08T11:44:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 5
 
 secured: "aQ0sR/a98/BYva/xzHAamLQgnJHNbi6cAZLSq+t8KI6QNo/gqPpFN84eaOT3WTiv/V5dhXFel6qqpdgw2ka3d7VsqgF1GGIZcQsUO6PvAq24c/8yeGE1vB47NBZfvzppnnpBifk4nW7St+DnmbM0RMZHzHSuSyNwDLz0FHMrD6HALSmcXBqT7oHOeRJ273B7vRSS54g03W9n4VqIW01V+iagixHyVT/d4htJ8q6PpF21+pCy4tlTDxWUyhI+wD0cQVY2GBeK+fQZDlF3kzTtuSv6eJa8kxqdk2Zdm16hFWmeYom+9DXdPRy02n3pCoVwQbrYgCHIF6wZbsyRzPeZHwU4rqDP+mojTz+1rTThWLSnjWlJ3NN/HQrqDdJFbMEpZ7IGlWp/K2BEe4byFzgGAw3LXy/Cq0BC7RPXkV/inGn/i6sMfiEDe0B/7VnE9ai0SgHSVhrnVez8Hn60veHx4DVjLeCdIk0t2f4Ru1CM1VB6DBxKqDIlwLlZR91lZ0j0M+3Y0ajkA3yZNAWYR8RIQg==;6LdE3CdPOgbsiMqOeBg4bg=="
 ---

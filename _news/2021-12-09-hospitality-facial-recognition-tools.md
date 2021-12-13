@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
 cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -140,15 +140,6 @@ related:
         width: 1400
         height: 840
         isCached: true
-  - title: "New York Mets turn to Wicket for facial recognition ticketing"
-    excerpt: "Mets Entry Express lanes will be available across the New York Mets' Citi Field ballpark during the 2022 MLB season."
-    publishedDateTime: 2021-12-08T12:24:00Z
-    webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=news"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 19
 
 secured: "eG8fkI9+bhXvd25O9SpPDRU/nqilZ9QVvDg+St+Emu6XICVoOSTKeI//ScBi6rIYf4aHrBG37KiFIwkW07cDfD1dZruECeCVQtawIbLVWmNu04UH8iVNCk9vbnmP8AdzIhg2+HgOK+QCTzow06CIsQ9MU1BM8+4fcYj0ycphCdWYsZM7I4HkobMBAJfA0NzhWvGkXvGBX9IYoolWTOlFH7URqqn2ExGEemLiksM8s5dkk9/mX0Y9CKl3U0UeL3aBKcOH1R+fIHCrjQ3j61iPHz7ADSItI945r/xer9RFojVeHTiGrHikuNyOl2ymqlq3TbM83u8E2EGLe67yKqlCsFYlYA9wUqHe4D1hSnlLMcwG1FyLlbCbuhBQ8qrmrj3tKJvbrqqGsXCG2VESTb1PT691zsHLIFPhlIHEWVtqZaCDlilK8BwlIyno0ptedTwKZV66tVGpIPnHWP17KpeY0rNDtWawlW624c1HVQcjRUQBObGv5u6i5kI2DoGY1XCrAqfZq5iN36imnFxHhYyaGg==;hgvhHeMEAEqGGIyQjNMAbQ=="
 ---

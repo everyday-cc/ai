@@ -69,22 +69,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Zuckerberg doubles philanthropic grant to $3.4billion for science and health advances over the next 15 years, including setting up an AI institute at Harvard"
-    excerpt: "The Chan Zuckerberg Initiative, or CZI, which the Facebook CEO set up with his wife Priscilla Chan, hopes the sizeable donation will help advance understanding of human health."
-    publishedDateTime: 2021-12-08T11:46:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10286671/Zuckerberg-Chan-invest-3-4B-science-advances.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10286671/amp/Zuckerberg-Chan-invest-3-4B-science-advances.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10286671/amp/Zuckerberg-Chan-invest-3-4B-science-advances.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 16
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/12/08/12/51492527-0-image-a-30_1638967512347.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "ZUcur9Cbhp65uP9sARox8FthE0gtY5XPtNVsla9DSluDi+KwL4LP6LOFM9RLbzOKUX76NgeEe6ZD0mcVEZIlJl3stxRmGZLn6XohASNmL/RXrp7wCJtLYvuBfgd0LSIWE1QXUU3da6FL92Bm38Hp8GIWCelcXNnKAYY62Bl+rmAYt+PGugrQApq1bDy7wu1h8xDMhMRiA1RURR8U0LOrkvWnRVJhYbqF4ruz8JRoPLnA06Sb7r1VqbU3TUjWjpFwGIbVaEt924hRAyjedyk5TAFPJ42GhIeBCfKavMx0DxNQe6g+gTxafUpYVCftfIatVBDk079Ffn1XsO1zurdNTsgoWQURC+0iKjaPJYwQg5s=;mndb3OkxlhJxjLick6jiyQ=="
 ---

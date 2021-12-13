@@ -35,7 +35,7 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg"
         width: 1024
