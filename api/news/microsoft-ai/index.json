@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership.md",
+      "title": "More access to mental health support for Canadians with new Canada Life-Dialogue partnership",
+      "excerpt": "Canada Life and virtual healthcare and wellness platform firm Dialogue Health Technologies have jointly announced that Dialogue’s internet-based cognitive ... with services provided by Dialogue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
+      "originalUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/12/GettyImages-1319230455.jpg",
+          "width": 755,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
+      "publishedDateTime": "2021-12-08T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
       "title": "Red Hat brings Ansible IT automation engine to Azure",
       "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
@@ -1211,19 +1254,19 @@
     {
       "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning",
+      "excerpt": "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook",
-          "width": 1496,
-          "height": 785,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize",
+          "width": 659,
+          "height": 346,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1236,8 +1279,8 @@
       "publishedDateTime": "2021-12-01T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1360,58 +1403,6 @@
         "Microsoft AI",
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-sophos-intercept-x-advanced-review-ai-powered-protection.md",
-      "title": "Sophos Intercept X Advanced review: AI-powered protection",
-      "excerpt": "These days AI seems to be everywhere, and Sophos Intercept X proudly exploits it to help identify unknown malware. It also blocks ransomware attacks using behavioral analysis, and provides tools to investigate potential threats to see how and why they occurred.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "originalUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638265976/sophos_1.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "publishedDateTime": "2021-11-30T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

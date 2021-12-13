@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data.md",
+      "title": "Human-Computer Communication: How Businesses Are Using Natural Language Processing To Talk To Data",
+      "excerpt": "Today's business users rely on a collection of reports and dashboards to better understand the data underlying their operations. These tools are most often designed by IT organizations, which use coding languages like SQL to ask questions of their database and report the findings back to business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
       "title": "Live transcriptions of F1 races using Amazon Transcribe",
       "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
@@ -1372,49 +1424,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-28-ai-chatbots-their-influence-on-mobile-technology.md",
-      "title": "AI, Chatbots & Their Influence on Mobile Technology",
-      "excerpt": "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/11/AI-and-Chatbots-ITNA.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
-      "publishedDateTime": "2021-11-27T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

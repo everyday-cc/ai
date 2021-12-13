@@ -103,7 +103,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "South Korea to use facial recognition software to track Covid patients"
+    excerpt: "Health authorities in South Korea have been accused of playing “Big Brother”, by using facial recognition programmes to track the movement of coronavirus patien"
+    publishedDateTime: 2021-12-13T11:15:00Z
+    webUrl: "https://www.thetimes.co.uk/article/south-korea-to-use-facial-recognition-software-to-track-covid-patients-gk56vlkbw"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa2b23dba-5c04-11ec-9cd9-b6f698a4b9a5.jpg?crop=4652%2C2617%2C0%2C242&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "XB45A1DxlSFkGvDSV2URM9Y+wz+w+hHydKOndso1rYIG6RrAY98yOwa1u7hBLePMcT8Qe5kXIFtCtaAVmiDpwLZW8pHOBsfQeSXe88kcnJP7EMGlzg3aUUEFbGdj2B6bAVQ6FXRbkG+BD95veq+KwmYvBSmfzFmUM7fruwa+k0XICqB2grmeh3/Z8zmyWOY2uyPsbwwzTI+B7glDT3zbUHdFJUSKAaVnQUxkKkL79TfJbuRIysJSgzjTT+SoJWsAMLKBGq5bkcE3K/xWDa5F6sPzzf3LPooHlpCEjWLER2sv3YKT4qWrbSU6t+nrmjrVoXOH5oWW6gSUkKoJr4zIiZ/K6IFKYYIAAPZE9ilU9VU=;z1P/mH0pxqMkRLlzQJ0AUQ=="
+secured: "E4lVVr6CXpynhKhyUDrZwTvewijph+xi391NiFZftlAZqLyuQuXe/v3KgjnT9BA1Q3xeoHNgvSgPyowDaDdo39rFk9b6rND0RTpaL2TCXMXA1zIPIGUy8UP6lyIyW2FzLdECBjyiqBWbU6mVI7n7NYlBgLCR3sziTM4oPoxA6DpUChSguWK2HMPAGElL6N9u3F7PDBg5xWJmMsGIMXSs7lNiUzu1IIyL2jtBqQOll2TD09UL37FKd6yXfhJr+8XU0H1oqWn5ly7cPkPcjvu9WEWIdQ6aXxa2H92OM/scA+GnJytvgulnxKglYyO5igYxlCMyKd3vY9ak2UJZHl4W7P/IE7Mqws54uqZlqwULQye10J5jBQl8bb3MFYOn/KNYXElI3IFQKaCkIW/jtcU+7MERIocilMTn/4sVNpG3736PP7L3SIjIsnhCjtN1Gc+69wYPMoPi4t3CBpoA0ZR6pWhFS4uohtFHTfl8tZELTTv5uTwsb2Vs0aQmhMiY6arLue4cL2bdwhdSvA/8oqoTmg==;c8GT6BR+/mNRYYkCf6pU5g=="
 ---
 

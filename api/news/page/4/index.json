@@ -2,6 +2,155 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
+      "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
+      "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:50:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-the-uks-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai.md",
+      "title": "The U.K.’s new AI transparency standard is a step closer to accountable AI",
+      "excerpt": "The UK Government launched a new algorithmic transparency standard last week. Here's what it means for people and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
+      "publishedDateTime": "2021-12-08T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api.md",
+      "title": "Clinical text mining using the Amazon Comprehend Medical new SNOMED CT API",
+      "excerpt": "Mining medical concepts from written clinical text, such as patient encounters, plays an important role in clinical analytics and decision-making applications, such as population analytics for providers, pre-authorization for payers, and adverse-event detection for pharma companies. Medical concepts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:08:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m.md",
       "title": "Synthesia, which is developing AI to generate synthetic videos, secures $50M",
       "excerpt": "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million.",
@@ -105,6 +254,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-new-windows-11-build-tests-voice-access-spotlight-backgrounds.md",
       "title": "New Windows 11 build tests Voice Access, Spotlight backgrounds",
       "excerpt": "Microsoft's Windows 11 Insider Build 22518 adds Voice Access for controlling your PC with your voice. Plus a new \"Spotlight\" background feature has been added, and Widgets has been reworked.",
@@ -196,6 +388,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership.md",
+      "title": "More access to mental health support for Canadians with new Canada Life-Dialogue partnership",
+      "excerpt": "Canada Life and virtual healthcare and wellness platform firm Dialogue Health Technologies have jointly announced that Dialogue’s internet-based cognitive ... with services provided by Dialogue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
+      "originalUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/12/GettyImages-1319230455.jpg",
+          "width": 755,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
+      "publishedDateTime": "2021-12-08T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -973,231 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-uk-government-sets-out-ai-standards-roadmap.md",
-      "title": "UK government sets out AI standards roadmap",
-      "excerpt": "The UK’s Centre for Data Ethics and Innovation (CDEI) has published a roadmap for building an “assurance ecosystem” for artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242",
-      "originalUrl": "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap",
-      "publishedDateTime": "2021-12-08T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
-      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
-      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "publishedDateTime": "2021-12-08T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
-      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
-      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "publishedDateTime": "2021-12-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
-      "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
-      "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "publishedDateTime": "2021-12-08T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022.md",
-      "title": "Time To Ante Up: Three AI Trends Financial Services Should Bet On In 2022",
-      "excerpt": "For years, financial services have stayed ahead of the curve as early adopters with online banking apps and financial planning tools. Artificial intelligence (AI) has been a key driver of this transformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af67db77edc01b156c19fd%2F0x0.jpg",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/",
-      "publishedDateTime": "2021-12-08T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

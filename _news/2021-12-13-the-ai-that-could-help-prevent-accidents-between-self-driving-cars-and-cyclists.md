@@ -99,20 +99,6 @@ related:
         width: 1812
         height: 1356
         isCached: true
-  - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
-    excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."
-    publishedDateTime: 2021-12-08T20:04:00Z
-    webUrl: "https://www.mytotalretail.com/article/how-artificial-intelligence-is-driving-holiday-shopping-revenues/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1327336888.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
 
 secured: "A8DZzv8CXyM2L93bn13kS7ZDisHO2XLh6xD0EIsgCIU+6Jnblt+Tiq8ej8sP1rLJMd52lLkB3TVLkV1PanpTqfFj8Koj3wE8c4E3myth3ihvvzAB8cabLTwiPp1s7bBxWMcC/R4v/pRNxY5AAgikrC9ZeAHfW8qxY4dqJiwUM0hGCZ+Fyb+ICryxgDlopguitlzGRctVveat+g8YFo+5SMyrXoMT9HjRRNHvgqdxVetj4RhUbF/t3CAucXqDZzw3EqJhQz7Z86jxrZRpydt6cXlkYyEkqxpcS6H7tvEPb310x5vcaMHB5eKm8ehcAV8x5+EFbugftq1uUX1lnXkslpU/XWXAmqgjxPV2Zt9HlpxrvRQ0VcOXZ7RucMOzzdCC3P0VkgW0hQdj/IoelpQcJjdanmP51uy+xPRDe7tIQkwsNa5yM4JBef7wm9Nj0Sr/7/vfRTwdaefwn1jqodulK5Rqygv8drkpj98TFL8EleZx3lEL+nxyy2H7RmwD+WYVGXCpwThrCQVhy/wpOMbaww==;HBkgmKUchCGdrQ33zPCEDw=="
 ---

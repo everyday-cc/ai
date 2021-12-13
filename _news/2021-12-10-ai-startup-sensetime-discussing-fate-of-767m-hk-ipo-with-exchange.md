@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban"
+    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings."
+    publishedDateTime: 2021-12-13T11:12:00Z
+    webUrl: "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
+    ampWebUrl: "https://www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 52
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI startup SenseTime Hong Kong IPO in limbo after US blacklisting"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is considering whether it can proceed with a planned $767 million Hong Kong initial public offering after the US added it to an investment blacklist,"
     publishedDateTime: 2021-12-12T06:00:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://cyprus-mail.com/wp-content/uploads/2021/12/sentime-ipo-china-us-ipo-hong-kong.jpg"
         width: 1169
         height: 797
+        isCached: true
+  - title: "AI Developer SenseTime Pulls Stock Sale Due to U.S. Sanctions"
+    excerpt: "The Hong Kong-based company SenseTime protests its inclusion on a U.S. sanctions list for supplying AI software to the Chinese surveillance state."
+    publishedDateTime: 2021-12-13T10:22:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/global-equity/ai-developer-sensetime-pulls-stock-sale-due-to-u-s-sanctions-15858865"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/509c96e5-3901-11e8-903c-f93462b03a68.png"
+        width: 1152
+        height: 768
         isCached: true
 
 secured: "F1IwYFE5yo/pEDCikFd963Pld6ZNdGs3SYmyaAek4aet9tsec4Lu5z2uHLwC/Y/BiOMcqsD9Z+IKPiLQFyJ9X2UVaAj+C1csgRmS4SCABQlKTo3mGEliwOAJH0GrP45ckjkyGNO0fSWvTajvgI+s0xcpWw9TE7/15LFBKkxqUSnvg8T95u1/M1IXrcs6ymIYMegTBpaxDVsb996tCrgwuLnFLqUusNQtpACG3SjNaDmsRuHui4+MYfR1EeTC0vXItsBQlGHE0CUFI8Kqu3gNFBnTRma4TsfEeZ4yGLtDelL+zW0PvEWVzKmoaGNS4Vs3CGTxhSx+gNU0x/aTC5ne8JPmH5dLUJ5R+va5/pPmYNk=;u3q8b1IsmfaRmbF8+kYZoA=="

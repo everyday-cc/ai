@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-30-sophos-intercept-x-advanced-review-ai-powered-protection.md",
+      "title": "Sophos Intercept X Advanced review: AI-powered protection",
+      "excerpt": "These days AI seems to be everywhere, and Sophos Intercept X proudly exploits it to help identify unknown malware. It also blocks ransomware attacks using behavioral analysis, and provides tools to investigate potential threats to see how and why they occurred.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
+      "originalUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638265976/sophos_1.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
+      "publishedDateTime": "2021-11-30T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-tcs-helps-agl-transform-customer-experience.md",
       "title": "TCS helps AGL transform customer experience",
       "excerpt": "Tata Consultancy Services (TCS) on Tuesday said that it has helped Australia-based AGL, one of the largest multiproduct energy retailers, transform its customer experience in a hyper-competitive ...",
@@ -1296,50 +1348,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-ai-market-next-big-thing-major-giants-ibm-microsoft-hanson-robotics.md",
-      "title": "Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Hanson Robotics",
-      "excerpt": "Market study describes how the technology industry is evolving and how major and emerging players in the indus",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics",
-      "originalUrl": "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?688275",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Microsoft AI"
       ]

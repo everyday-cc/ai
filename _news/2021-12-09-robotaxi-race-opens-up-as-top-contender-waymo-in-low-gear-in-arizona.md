@@ -6,9 +6,6 @@ publishedDateTime: 2021-12-08T19:49:00Z
 originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Channel NewsAsia Singapore
@@ -24,35 +21,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
-    publishedDateTime: 2021-12-09T09:20:00Z
-    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ..."
-    publishedDateTime: 2021-12-09T09:20:00Z
-    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2R80CD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2R80CD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2R80CD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-
-secured: "Hpemlc/NHhktarZGRzt8hMTldG8WnGmzKhNGN/uVKJsGvwuBjZ1YI7JubO66pEck/NB7Cgln4shz6bdwUWSApRRVObxowfVJRaj5mHOfAEjHTmqYbnZiEuzobMkIw2Ft/B+i5HMpT0w9f690t0LA5VCYepO1CyzFe67S+XCEpMlAGqU0qYcE2F2o1vwz96BlSSMMPJx/Kzp9VAz/SpqzTp9v+x0NnlCry3pfvStKIpxUDrEtKO+y89iiF1DS0A9VALxuPvvBcF8yL3GPwwuWO3tQPuaecFYRq9YZaVI2qZ5Un4w+99GjYaTIgivJL80nGTSe7ESYLXmdwsibCUvo+mjwp+SZpQZ1q4Gjpk7dJlg=;tihNBFwWPA56tdsixMGhpw=="
+secured: "BWjdYMRGJQ1zRw6m5qn1FyDShVEzDlw75sn9Ivf79YWrRNCoDQ7Ut0XNLr0j0VjbHvjeNiY3OlNL7FuRrbHS6U9+JMFVbBZF91kqSBT3eMc5/Oq6PGsgawwP+kgYHNWmAvq27b5D7bO972HYxL6S8aaZiPk4Xy6SaDNu+jnES0B6HmEaeB+LU+tkSyv3XvnIXVpazBUd29mSD9BBsSqgSu0PF9xp/WemCNqxTVh14l0a1LvHVDe+cdVQNEmzTTc6pci6u2cD+8QxYPfFzwFg3Ydf5++3ZB2A33R7OndfSgjhRWOizfeSLjlD6FG3l0zAJDZa0CE4/Uvlkyk57C6ZZV7AZDL55EiTeAXgF3TH4+s=;X9MSAAkzz71a3HNLg5gVSQ=="
 ---
 

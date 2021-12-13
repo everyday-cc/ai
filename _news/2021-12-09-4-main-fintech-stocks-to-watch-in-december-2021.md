@@ -38,17 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
-    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
-    publishedDateTime: 2021-12-08T19:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "q77yzH3L2i33LXP3aloM6hmkGY2FsdnIwuLyWgiLVU5FPrS/TRHyNJUQ3+7cavJaMbA9WoNF3mMeiDdYuv0eUQafAPLxud2XAe4gLsWadahB1aXPSp66Xaacvjrg8e4/QCJaGQalVWY+JUSY3QL+B1DaRYezOt/Eni9A50/NDrT7GSHU+VRmep8xsDT0u3tSqQLFdvRAF7vlRvWehllAYOK0Mo7QdzziQF9R7aQFbtgMdac/nt7p8umBFt3MXgULcPvgljmUTdTI5uCrLYppqXrKnuJOrlYaf3xebb1Yruq9TIUw6Ac5dei3nFgJp2TBQLDNz2madoHXF9WEF7MVH+shFY2I0CsrhfckWna1chm4RBgOfERJ/FyZHMze+eBr6OXKz0n3LHDfI3Fk/nbdSrxo3SrkkTXwRhIy9mK4J0iilY7DgS9w75VhSH79lyuuoQIQUf3huvaielXbg1U93zT8wWG/7NEsqtqr1m3joag6sj0qoaF8kq+GeOy/o30gCb9vPZPgaXIgdOktzSXA3A==;V7Z7hvgAoIMfq3yq6/eOSQ=="
 ---

@@ -73,34 +73,6 @@ related:
         width: 978
         height: 547
         isCached: true
-  - title: "Trucks catch up in the self-driving vehicle race"
-    excerpt: "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,"
-    publishedDateTime: 2021-12-09T14:58:00Z
-    webUrl: "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Trucks catch up in self-driving vehicle race"
-    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
-    publishedDateTime: 2021-12-11T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
     publishedDateTime: 2021-12-09T06:00:00Z

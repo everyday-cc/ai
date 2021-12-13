@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Are Tesla’s Self Driving Software Sales Slowing Down?"
+    excerpt: "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars."
+    publishedDateTime: 2021-12-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Mercedes Beats Tesla to Hands-Free Driving"
     excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
     publishedDateTime: 2021-12-11T02:45:00Z
@@ -59,21 +75,49 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
-    excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
-    publishedDateTime: 2021-12-10T19:43:00Z
-    webUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/"
-    ampWebUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
+  - title: "Trucks catch up in the self-driving vehicle race"
+    excerpt: "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,"
+    publishedDateTime: 2021-12-09T14:58:00Z
+    webUrl: "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/"
     type: article
     provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
     images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg"
+      - url: "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg"
         width: 1200
-        height: 667
+        height: 628
+        isCached: true
+  - title: "Tesla self-drove into barrier, report claims"
+    excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
+    publishedDateTime: 2021-12-13T05:00:00Z
+    webUrl: "https://www.autonews.com/manufacturing/tesla-self-drove-barrier-new-york-times-report-claims"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLAVIDEO-MAIN_i.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
+    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
+    publishedDateTime: 2021-12-11T15:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
+        width: 320
+        height: 214
         isCached: true
   - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
     excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
@@ -91,21 +135,19 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Mercedes Gets First Approval for Truly Self-Driving Car"
-    excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
-    publishedDateTime: 2021-12-10T03:52:00Z
-    webUrl: "https://www.barrons.com/articles/mercedes-self-driving-car-51639093613"
-    ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
+  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
+    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
+    publishedDateTime: 2021-12-08T22:01:00Z
+    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-425789/social"
-        width: 1280
-        height: 640
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
+        width: 400
+        height: 225
         isCached: true
   - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
     excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
@@ -174,31 +216,20 @@ related:
         width: 1084
         height: 720
         isCached: true
-  - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
-    excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
-    publishedDateTime: 2021-12-09T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134400_mercedes-benz-to-launch-level-3-self-driving-system-in-2022-after-gaining-regulatory-approval"
+  - title: "Trucks catch up in self-driving vehicle race"
+    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
+    publishedDateTime: 2021-12-11T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 28
-    images:
-      - url: "https://images.hgmsites.net/hug/mercedes-benz-drive-pilot_100818541_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Mercedes-Benz self-driving car technology approved for use"
-    excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
-    publishedDateTime: 2021-12-09T14:31:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
+      name: The Taipei Times
+      domain: taipeitimes.com
     quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "o7LNV4LyaGwFzeEqigl0+78lFuZCLXFs7Vr+nIpXG6G1bdFW/Yf3gNrMeUv3OvLeWsTaljsyod6yBv2V4sIn14FfmlrpBp4lWRitROBHhMnVAnPMlHAvMkoscvSgkLu6bqAO77gWHZhpBX7ORow/EDVUrMRUT1QztC/WSdwYB/BcwGR5cHbbNGsVn1r6yJEnnnwfbYbiXjCmFhcroBELYXLYnR86vSCPS+OG09BPbKgnclD4c7nMR8f/zDk4CSWuultnc87uy1GdpY+V4sG7D56hSwD6alWXch09VdcU2IGA0KSDaQbbjY+pICKeMHVehCiVhmVg7HtDUGp7tgLZR7KVCtiOMVxpcBax8Jf4hW1+NkodlbMf24X7ahbhS7jNhbFWgMxKgrtQqQPWd21o5snuLp4RdG/KuPWvz8R+bNCnCRJzzHJifbHHmyQp4Rypv4MYO0jIqn5mVHV03A7gVWI0oQhy0K3dDE/uEz6k37SmDq9W4O1cIS3skdj1mU2Yn4UZfhiexPVVKyDSlfkjpw==;qRtP86xeRQv7wNXtMcMz3A=="
 ---

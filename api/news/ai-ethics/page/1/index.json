@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-an-ai-trained-on-reddit-has-warned-researchers-that-itll-never-be-ethical.md",
+      "title": "An AI trained on Reddit has warned researchers that it’ll never be ethical",
+      "excerpt": "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical",
+      "originalUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg",
+          "width": 823,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1",
+      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1",
+      "publishedDateTime": "2021-12-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dazed",
+        "domain": "dazeddigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
       "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
       "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
@@ -483,19 +526,19 @@
     {
       "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
       "title": "Fordham University Hosts Global Ethical Vision AI Conference",
-      "excerpt": "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ...",
+      "excerpt": "On November 29th, Fordham University hosted a conference entitled, “ Ethical Vision Artificial Intelligence: Creating an Effective AI Com",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/fordham-university-hosts-global-ethical-vision-ai-conference/article_82a21bbc-cb73-5769-aa90-a5076767871e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/fordham-university-hosts-global-ethical-vision-ai-conference/article_82a21bbc-cb73-5769-aa90-a5076767871e.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -505,11 +548,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:27:00-08:00",
+      "publishedDateTime": "2021-12-03T03:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1384,50 +1427,6 @@
       "provider": {
         "name": "Daily Sun",
         "domain": "daily-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
-      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
-          "width": 740,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bna.bh",
-        "domain": "www.bna.bh",
         "images": null,
         "publishers": null,
         "authors": null

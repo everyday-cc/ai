@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-why-are-teslas-self-driving-software-sales-slowing-down.md",
+      "title": "Why Are Tesla’s Self Driving Software Sales Slowing Down?",
+      "excerpt": "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
       "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
       "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
@@ -48,58 +101,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-mercedes-beats-tesla-to-hands-free-driving.md",
-      "title": "Mercedes Beats Tesla to Hands-Free Driving",
-      "excerpt": "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046",
-      "originalUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp",
-      "publishedDateTime": "2021-12-10T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
       "title": "AI is thriving on and driving the edge",
       "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
@@ -108,7 +109,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -150,6 +151,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-mercedes-benz-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany.md",
+      "title": "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany",
+      "excerpt": "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
+      "originalUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "publishedDateTime": "2021-12-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -256,7 +300,7 @@
       "originalUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -308,7 +352,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 151,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -332,6 +376,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1329,102 +1416,6 @@
         "Microsoft AI",
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
-      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
-      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "publishedDateTime": "2021-11-29T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
-      "title": "Here's what defines a self-driving car",
-      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "publishedDateTime": "2021-11-27T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

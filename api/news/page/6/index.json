@@ -2,6 +2,265 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-08-get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer.md",
+      "title": "Get more done with lifetime access to AI-powered music and a Pomodoro timer",
+      "excerpt": "There are a lot of ways to increase your productivity, but few of them will be as effortless and enjoyable as simply listening to music that has been optimized by AI for getting work done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "originalUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/20/0261a7b9-aa96-4169-89bb-f07e45ad2aa8/resize/1200x/199e2d794b65e2788f7eefa49082fb24/istock-1181026897.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "publishedDateTime": "2021-12-07T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning.md",
+      "title": "The Future Of Work: How Slack Is Reinventing Hybrid Collaboration With Machine Learning",
+      "excerpt": "Slack, an already integral part of the modern workforce, is redefining the norm of remote and hybrid work yet again with its new collaboration tools - huddles and clips. With the help of AWS machine learning (ML),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61afb30e21036f0141922566%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
+      "publishedDateTime": "2021-12-07T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-amazon-web-services-aws-a-cheat-sheet.md",
+      "title": "Amazon Web Services (AWS): A cheat sheet",
+      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-web-services-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-web-services-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-web-services-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-web-services-cheat-sheet/",
+      "publishedDateTime": "2021-12-07T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
+      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
+      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "publishedDateTime": "2021-12-07T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise.md",
+      "title": "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise",
+      "excerpt": "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "originalUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "publishedDateTime": "2021-12-07T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments.md",
       "title": "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments",
       "excerpt": "NDS Cognitive Labs (NDS ... global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ ...",
@@ -920,248 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
-      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
-      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "publishedDateTime": "2021-12-06T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
-      "title": "The Top 6 Artificial Intelligence Plays in India",
-      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
-      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
-      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
-      "publishedDateTime": "2021-12-06T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Equitymaster",
-        "domain": "equitymaster.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-its-mobileye-automotive-unit-public-in-2022.md",
-      "title": "Intel will take its Mobileye automotive unit public in 2022.",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 352,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
-      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
-      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "publishedDateTime": "2021-12-06T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

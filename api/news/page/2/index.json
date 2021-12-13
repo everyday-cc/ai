@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-11-headroom-launches-to-combat-zoom-fatigue-with-ai.md",
+      "title": "Headroom launches to combat Zoom fatigue with AI",
+      "excerpt": "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Gestures.png?fit=800%2C427&strip=all",
+          "width": 800,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
+      "publishedDateTime": "2021-12-10T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-we-now-know-what-the-self-driving-apple-car-might-look-like.md",
+      "title": "We now know what the self-driving Apple Car might look like",
+      "excerpt": "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
+      "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/apple_car_render.jpg",
+          "width": 757,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
+      "publishedDateTime": "2021-12-10T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
+      "title": "Watch a robot playing table tennis after just 90 minutes of training",
+      "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
+      "originalUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/10161244/PRI_214439429.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
+      "publishedDateTime": "2021-12-10T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-how-a-vr-startup-took-the-money-and-ran-to-the-metaverse.md",
       "title": "How a VR startup took the money and ran to the metaverse",
       "excerpt": "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change.",
@@ -1047,161 +1193,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
-      "title": "Instabase adds deep learning to make sense of unstructured data",
-      "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "publishedDateTime": "2021-12-09T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
-      "title": "How bias creeps into the AI designed to detect toxicity",
-      "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
-      "publishedDateTime": "2021-12-09T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience.md",
-      "title": "Startup Bedding Company Viscosoft is Slated to Develop AI-Driven Sleep Experience",
-      "excerpt": "SAN FRANCISCO, CA / ACCESSWIRE / December 9, 2021 / The award-winning startup, Viscosoft, has swiftly solidified its place as an industry leader",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/676183/sGd37fPbL0JLnpolywOMvhFt6axnr6XdLROpajLiq3QxEhg1M_VdmjiWdFB04-_m7Sk65W-5zL-VLCcFEvKg4HCP0rBSHmUnw9PlZk6hxGWzAe8BdqGXZNRULsc85tqcN9bLuYt_.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T12:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

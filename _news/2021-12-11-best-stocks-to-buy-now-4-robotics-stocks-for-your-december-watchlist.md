@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-st
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
 type: article
 quality: 84
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -37,17 +37,6 @@ related:
         width: 460
         height: 283
         isCached: true
-  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
-    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
-    publishedDateTime: 2021-12-08T19:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "5vOwM1GiL4lMyt4CpNJ8oHuHfmSAO7dkKgPwLiQaGi/E3FGVXlBmf42fWAWjpcgWNd6j7t8i73cUmAVLjdJdPG+RIxlcr9jJMv8BbI+b6bKw/Feb4SlYUfRboMKOTB02yjzoi5E7bilAu5TgX2e+bVoQC8pHNLXhzQDMomlvgdY/LJoD1zpLXyfr8QsXcTW39hTCk3N3r8L1XnpgTLA3zBt8mXUNPiqMDLqb1w4tZR1ITgBXHAUyebfmDsBiC8GBD2wEsYLWwNh6yL5WiAkYFnFIXUVBYY4rZpCPLp1xtx2c8Asa3O4N257GPTH7Lt/l4S6Yhg00hnVKER5RUfCk7PZXDbaAVc2YpHTnAmPRUKkTFKu4zBf6p8CaTcPQhtcjsuPL0ovSIRttkq6tJZd/5X0Shqf7MxfSwNQ17ePQVY/LMPuxly5pdrGqXgZ9hdCQWvgaEDLLZm/kX99jjqO/gtVYgyAuEKCgN7xXqNSLB+ur3O7IiGumcnpU8aj0rd32xjdKC7MAM2OjHYiMlqLpAQ==;pPdY4maejvJFxO5yQBUBSQ=="
 ---

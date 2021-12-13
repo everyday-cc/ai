@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-07-microsoft-releases-azure-open-ai-service-including-access-to-powerful-gpt-3-models.md",
+      "title": "Microsoft Releases Azure Open AI Service Including Access to Powerful GPT-3 Models",
+      "excerpt": "At its recent Ignite conference, Microsoft announced the new Azure OpenAI Service in preview, allowing access to OpenAI’s API through the Azure platform. This new Azure Cognitive Service will give customers access to OpenAI’s powerful GPT-3 models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "originalUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-mlops-market-to-see-stunning-growth-algorithmia-google-cloud-sas.md",
       "title": "MLOps Market to See Stunning Growth | Algorithmia, Google Cloud, SAS",
       "excerpt": "The study includes market share analysis and profiles of players such as H2O.ai, Inc. (United States), Iguazio (United States), Algorithmia Inc. (United States), Amazon SageMaker (United States ...",
@@ -1324,59 +1358,6 @@
         "name": "Le Lézard",
         "domain": "lelezard.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
-      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
-      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "publishedDateTime": "2021-11-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

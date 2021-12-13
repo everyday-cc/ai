@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
+      "title": "Instabase adds deep learning to make sense of unstructured data",
+      "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
+      "publishedDateTime": "2021-12-09T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
+      "title": "How bias creeps into the AI designed to detect toxicity",
+      "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "publishedDateTime": "2021-12-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience.md",
+      "title": "Startup Bedding Company Viscosoft is Slated to Develop AI-Driven Sleep Experience",
+      "excerpt": "SAN FRANCISCO, CA / ACCESSWIRE / December 9, 2021 / The award-winning startup, Viscosoft, has swiftly solidified its place as an industry leader",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/676183/sGd37fPbL0JLnpolywOMvhFt6axnr6XdLROpajLiq3QxEhg1M_VdmjiWdFB04-_m7Sk65W-5zL-VLCcFEvKg4HCP0rBSHmUnw9PlZk6hxGWzAe8BdqGXZNRULsc85tqcN9bLuYt_.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-why-companies-should-be-using-ai-to-fight-cyberattacks.md",
       "title": "Why companies should be using AI to fight cyberattacks",
       "excerpt": "Cyberattackers use AI, so why not apply it as a defense? One expert explains why AI can take your cybersecurity to the next level of protection.",
@@ -759,7 +914,7 @@
       "originalUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -811,7 +966,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 151,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -992,7 +1147,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1034,155 +1189,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
-      "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
-      "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:50:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-the-uks-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai.md",
-      "title": "The U.K.’s new AI transparency standard is a step closer to accountable AI",
-      "excerpt": "The UK Government launched a new algorithmic transparency standard last week. Here's what it means for people and society.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
-      "publishedDateTime": "2021-12-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api.md",
-      "title": "Clinical text mining using the Amazon Comprehend Medical new SNOMED CT API",
-      "excerpt": "Mining medical concepts from written clinical text, such as patient encounters, plays an important role in clinical analytics and decision-making applications, such as population analytics for providers, pre-authorization for payers, and adverse-event detection for pharma companies. Medical concepts",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:08:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

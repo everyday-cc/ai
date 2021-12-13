@@ -2,6 +2,249 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-11-11-robot-flips-burgers-for-california-restaurant-better-than-a-human.md",
+      "title": "Robot Flips Burgers for California Restaurant Better Than a Human",
+      "excerpt": "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
+      "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/45685/0cachedpng.png",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence-transportation-category.md",
+      "title": "AEye Honored as CES 2022 Innovation Award Winner in Vehicle Intelligence & Transportation Category",
+      "excerpt": "Previous award winners in this category have included IBM, Waymo, and Continental ... LiDAR with integrated deterministic artificial intelligence, delivering industry-leading performance in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence-transportation-category/article_1de74bf6-9cf5-5e18-8abd-2e765cdbef80.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence-transportation-category/article_1de74bf6-9cf5-5e18-8abd-2e765cdbef80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/96/7961f414-30a5-57cb-a2cc-ac09f656f963/618d17877534a.image.jpg?resize=454%2C630",
+          "width": 454,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-rad-ai-raises-25m-in-series-a-funding.md",
+      "title": "Rad AI Raises $25M in Series A Funding",
+      "excerpt": "Rad AI, a Berkeley CA-based radiologist-led AI company, raised $25M in Series A funding. The round was led by ARTIS Ventures with participation from OCV Partners, Kickstart Fund, and Gradient Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2020/12/contractbook-400x293.jpg",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
+      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
+      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
+      "publishedDateTime": "2021-11-11T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-this-company-tapped-ai-for-its-websiteand-landed-in-court.md",
+      "title": "This Company Tapped AI for Its Website—and Landed in Court",
+      "excerpt": "Under pressure to make their sites accessible to visually impaired users, firms turn to software. But advocates say the tech isn't always up to the task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
+      "originalUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/618aed06de1cbf7845f548f0/master/pass/business-ai-1322406612.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-tapped-ai-website-landed-court/amp",
+      "publishedDateTime": "2021-11-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
       "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
       "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
@@ -949,257 +1192,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-generate-high-quality-meeting-notes-using-amazon-transcribe-and-amazon-comprehend.md",
-      "title": "Generate high-quality meeting notes using Amazon Transcribe and Amazon Comprehend",
-      "excerpt": "Organizations are continuing to evaluate remote working arrangements and explore moving to a hybrid workforce model. Emerging trends suggest that not only has the number of online meetings attended by employees on a day-to-day basis increased, but also the number of attendees per meeting. One of the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-high-quality-meeting-notes-using-amazon-transcribe-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-high-quality-meeting-notes-using-amazon-transcribe-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-1268-image001-903x630.png",
-          "width": 903,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T12:34:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m.md",
-      "title": "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M",
-      "excerpt": "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "publishedDateTime": "2021-11-10T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-chip-developer-cerebras-bolsters-ai-powered-workload-capabilities-with-250m.md",
-      "title": "Chip developer Cerebras bolsters AI-powered workload capabilities with $250M",
-      "excerpt": "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "publishedDateTime": "2021-11-10T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-global-ai-in-fintech-market-future-prediction-report-2021-to-2028.md",
-      "title": "Global AI in Fintech Market Future Prediction Report 2021 to 2028",
-      "excerpt": "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-future-prediction-report-2021-to-2028-2021-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-future-prediction-report-2021-to-2028-2021-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-businesses-could-face-fines-in-city-crackdown-on-bias-for-ai-hiring-tools.md",
-      "title": "Businesses could face fines in city crackdown on bias for AI hiring tools",
-      "excerpt": "Employers will soon face stricter rules for when they can use résumé-scanning software and other automated hiring tools. The City Council's Committee on Technology on Wednesday approved a bill that would bar employers from using automated hiring tools unless the software has undergone an independent audit for racial and gender biases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crainsnewyork.com/technology/businesses-could-face-fines-new-york-city-crackdown-bias-ai-hiring-tools",
-      "originalUrl": "https://www.crainsnewyork.com/technology/businesses-could-face-fines-new-york-city-crackdown-bias-ai-hiring-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/335408284.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crain's New York",
-        "domain": "crainsnewyork.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

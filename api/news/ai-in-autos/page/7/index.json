@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-17-advancing-ai-telematics-in-the-transportation-and-logistics-industry-series-blog-2.md",
+      "title": "Advancing AI Telematics In The Transportation And Logistics Industry Series : Blog #2",
+      "excerpt": "This is the second blog in the AI Transportation and logistics industry. This blog focuses on advancing AI telematics and provides an overview of current state and future state developments. Key questions for CEOs and Board Directors on leading AI are highlighted for digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616b25abb8e77ff44783f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "publishedDateTime": "2021-10-17T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta.md",
+      "title": "Gitex 2021: New innovations in self-driving transportation, smart parking to be unveiled by RTA",
+      "excerpt": "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI ... projects qualified for the finals of the Dubai World Challenge for Self-Driving Transport 2021. “RTA has an integrated roadmap for the future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
+      "originalUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=4707ce77-230a-5048-af0b-1ba6a5c4d314&function=cropresize&type=preview&source=false&q=75&crop_w=0.92188&crop_h=0.99999&x=0.03906&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
+      "publishedDateTime": "2021-10-16T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents.md",
       "title": "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents",
       "excerpt": "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the",
@@ -1311,104 +1406,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
-      "title": "The Ethics of Artificial Intelligence (AI)",
-      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

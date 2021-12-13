@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://cdn.i24news.tv/uploads/d9/8d/79/6f/32/1f/ee/5c/34/e8/ec/7c/6b/f5/35/7e/d98d796f321fee5c34e8ec7c6bf5357e.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "South Korea to use facial recognition software to track Covid patients"
+    excerpt: "Health authorities in South Korea have been accused of playing “Big Brother”, by using facial recognition programmes to track the movement of coronavirus patien"
+    publishedDateTime: 2021-12-13T11:15:00Z
+    webUrl: "https://www.thetimes.co.uk/article/south-korea-to-use-facial-recognition-software-to-track-covid-patients-gk56vlkbw"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa2b23dba-5c04-11ec-9cd9-b6f698a4b9a5.jpg?crop=4652%2C2617%2C0%2C242&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ZF/ZRg49LCw/GxxE8FrnWnHBmj01LZfne4ewliHdGaGLjWYLrELxQpBC+bxdDoiicfNfgDg6Ss9uFdHVIO48KGncYwwjEgJTANHlQuGTOwpxI6jhrYc21EDhcQ5+Zvixcfy52WSfqRHo/Gbb8LofkOFfNhbn1H8wQPpEywiF10kTL7EVhi/YT8OqJaHjwaqwSNWel9Qko72KdvKls02/CE3QuMDbYIHdTY21VIdhzIV/AUTe0tKy5h1EKjFPsJYyuNrZa1D1H6vUhB0ofKHaoNuwQ5C8lbiJVJ4kHJN4U5rwHkoEm8rE+dBOl6JS0V3m4MVPIFD8l72YOrsEd5tCMHoF/dz0qs7MJvIbyZ59fFF68c/4tE2T3BDXO3F1OxYjL+rLvoCIZ5lnYFpQ/oUp77UkQLSvwEB95rZGDVZU7JOhVC/yU5Y6xP4dsZ+XVVRnwTQ0y7sLAkWxdncg8yUSCZ8AcUxN1s2nNiHoc61X05d27pJQ4k6VQhcT4Zrh2+T7Aug17bCi6B7al1k5tkcfeQ==;xsnOgJZLyhsXRwFzgjilxw=="

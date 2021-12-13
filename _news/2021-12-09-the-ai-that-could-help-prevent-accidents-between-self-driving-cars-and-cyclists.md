@@ -85,20 +85,6 @@ related:
         width: 1812
         height: 1356
         isCached: true
-  - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
-    excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."
-    publishedDateTime: 2021-12-08T20:04:00Z
-    webUrl: "https://www.mytotalretail.com/article/how-artificial-intelligence-is-driving-holiday-shopping-revenues/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1327336888.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
     publishedDateTime: 2021-12-13T00:04:00Z

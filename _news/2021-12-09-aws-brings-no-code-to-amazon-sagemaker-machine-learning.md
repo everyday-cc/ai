@@ -40,20 +40,6 @@ related:
         width: 742
         height: 630
         isCached: true
-  - title: "Plan the locations of green car charging stations with an Amazon SageMaker built-in algorithm"
-    excerpt: "While the fuel economy of new gasoline or diesel-powered vehicles improves every year, green vehicles are considered even more environmentally friendly because they’re powered by alternative fuel or electricity. Hybrid electric vehicles (HEVs), battery only electric vehicles (BEVs), fuel cell electric"
-    publishedDateTime: 2021-12-08T20:48:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/10/fig-92-1-947x630.png"
-        width: 947
-        height: 630
-        isCached: true
   - title: "Amazon Introduces SageMaker Canvas. Just Another ML No-Code Platform?"
     excerpt: "Amazon SageMaker Canvas aims to help business analysts build their own ML systems without dependence on data engineering teams."
     publishedDateTime: 2021-12-09T08:30:00Z

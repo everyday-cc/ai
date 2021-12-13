@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-an-ai-trained-on-reddit-has-warned-researchers-that-itll-never-be-ethical.md",
+      "title": "An AI trained on Reddit has warned researchers that it’ll never be ethical",
+      "excerpt": "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical",
+      "originalUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg",
+          "width": 823,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1",
+      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1",
+      "publishedDateTime": "2021-12-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dazed",
+        "domain": "dazeddigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data.md",
+      "title": "Human-Computer Communication: How Businesses Are Using Natural Language Processing To Talk To Data",
+      "excerpt": "Today's business users rely on a collection of reports and dashboards to better understand the data underlying their operations. These tools are most often designed by IT organizations, which use coding languages like SQL to ask questions of their database and report the findings back to business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-why-are-teslas-self-driving-software-sales-slowing-down.md",
+      "title": "Why Are Tesla’s Self Driving Software Sales Slowing Down?",
+      "excerpt": "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
       "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
       "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -61,7 +209,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -563,7 +711,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -683,58 +831,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-mercedes-beats-tesla-to-hands-free-driving.md",
-      "title": "Mercedes Beats Tesla to Hands-Free Driving",
-      "excerpt": "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046",
-      "originalUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp",
-      "publishedDateTime": "2021-12-10T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-the-worlds-first-risc-v-gpu-could-be-on-the-horizon.md",
       "title": "The world's first RISC-V GPU could be on the horizon",
       "excerpt": "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ...",
@@ -838,7 +934,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -890,7 +986,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1041,124 +1137,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-headroom-launches-to-combat-zoom-fatigue-with-ai.md",
-      "title": "Headroom launches to combat Zoom fatigue with AI",
-      "excerpt": "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings.",
+      "path": "_news/2021-12-11-mercedes-benz-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany.md",
+      "title": "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany",
+      "excerpt": "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
+      "webUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
+      "originalUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Gestures.png?fit=800%2C427&strip=all",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
-      "publishedDateTime": "2021-12-10T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-we-now-know-what-the-self-driving-apple-car-might-look-like.md",
-      "title": "We now know what the self-driving Apple Car might look like",
-      "excerpt": "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/apple_car_render.jpg",
-          "width": 757,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "publishedDateTime": "2021-12-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
-      "title": "Watch a robot playing table tennis after just 90 minutes of training",
-      "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "originalUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/10161244/PRI_214439429.jpg?width=1200&enable=upscale",
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1166,13 +1159,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "publishedDateTime": "2021-12-10T09:30:00-08:00",
+      "ampWebUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
+      "publishedDateTime": "2021-12-10T11:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1182,7 +1175,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI"
       ]
     }

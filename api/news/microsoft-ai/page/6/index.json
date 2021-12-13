@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
+      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
+      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
       "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
       "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
@@ -1269,49 +1321,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-heres-how-microsoft-is-using-artificial-intelligence.md",
-      "title": "Here's How Microsoft Is Using Artificial Intelligence",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "publishedDateTime": "2021-10-12T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

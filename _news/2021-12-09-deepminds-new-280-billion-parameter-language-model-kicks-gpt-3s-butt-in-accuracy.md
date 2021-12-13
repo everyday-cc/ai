@@ -151,6 +151,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Move Over GPT-3, DeepMind’s Gopher Is Here"
+    excerpt: "DeepMind has introduced a 280 billion parameter transformer language model called Gopher DeepMind’s research went on to say that Gopher almost halves the accuracy gap from GPT-3 to human expert performance and exceeds forecaster expectations."
+    publishedDateTime: 2021-12-13T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/move-over-gpt-3-deepminds-gopher-is-here/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gopher.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "DeepMind AI Tackles Valuable Chemistry Technique"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
     publishedDateTime: 2021-12-11T06:00:00Z
