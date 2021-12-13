@@ -2,58 +2,6 @@
   "page": 122,
   "value": [
     {
-      "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
-      "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
-      "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-eye-scan-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
       "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
       "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
@@ -1085,6 +1033,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage.md",
+      "title": "iRobot’s new Roomba j7+ robot vacuum with AI, object avoidance, and storage",
+      "excerpt": "Companies like ECOVACS and Trifo are among the few to set out and develop robot vacuums with artificial intelligence capable of avoiding things it might run into that shouldn’t be there. From trying to avoid clog-hazards like socks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "originalUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pocnetwork.net/wp-content/zuploads/2021/09/Roomba-j7-robot-vacuum.jpg",
+          "width": 773,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Poc Network",
+        "domain": "pocnetwork.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

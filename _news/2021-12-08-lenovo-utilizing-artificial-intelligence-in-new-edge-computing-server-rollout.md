@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout/?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: WRAL TechWire
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lenovo Delivers Artificial Intelligence at the Edge to Drive Business Transformation"
-    excerpt: "Today, Lenovo (HKSE: 992) (ADR: LNVGY) Infrastructure Solutions Group (ISG) announces the expansion of the Lenovo ThinkEdge portfolio with the introduction of the new ThinkEdge SE450 server, delivering an artificial intelligence (AI) platform directly at the edge to accelerate business insights."
-    publishedDateTime: 2021-12-08T11:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-970f3f0835da49e391acb6227e8ba555"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Lenovo Delivers Artificial Intelligence at the Edge to Drive Business Transformation"
     excerpt: "Lenovo expands its ThinkEdge portfolio with GPU-rich edge server designed to accelerate business critical insights New compact, ruggedized and quiet Lenovo ThinkEdge SE450 server delivers performance and scalability at the edge Lenovo ThinkEdge SE450 server enables edge AI solutions for retail,"
     publishedDateTime: 2021-12-08T20:41:00Z

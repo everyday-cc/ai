@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Teaching Artificial Intelligence to Navigate Oceans Via Ocean Currents"
-    excerpt: "Successfully navigating the oceans has allowed humankind to explore the world and make countless new discoveries that have contributed to the advancement of civilization. However, pinpointing exact locations and wading through ever-shifting tides and currents has always been a challenge."
-    publishedDateTime: 2021-12-09T16:20:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12651"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12651"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12651"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12651_16390666931378734.jpg"
-        width: 333
-        height: 499
-        isCached: true
   - title: "Engineers teach AI to navigate ocean with minimal energy"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
     publishedDateTime: 2021-12-09T13:26:00Z
@@ -44,19 +28,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "AI Uses Reinforcement Learning to Navigate Oceans"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are working on an artificial intelligence (AI) that can enable autonomous drones to use ocean currents to aid their navigation. With this approach, the drones don’t have to fight through the currents."
-    publishedDateTime: 2021-12-12T23:19:00Z
-    webUrl: "https://www.unite.ai/ai-uses-reinforcement-learning-to-navigate-oceans/"
+  - title: "How AI Is Connecting Employers With Software Engineers"
+    excerpt: "To help connect employers with talented candidates, companies have started using AI recruitment strategies. These AI recruitment strategies use machine learning algorithms to create an optimized list of candidates for just about any job opening."
+    publishedDateTime: 2021-12-10T09:18:00Z
+    webUrl: "https://www.chron.com/business/article/How-AI-Is-Connecting-Employers-With-Software-16690120.php"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/water-2259329_1280.jpg"
-        width: 900
-        height: 600
+      - url: "https://s.hdnux.com/photos/01/23/14/57/21810133/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "/AqDkJ6ln1giipEpW3EoqrtsxVPBsy/MkMOSwpkfsJ55K/sUHzpITTYmfuR7RpVuv/8R3dd27b1fN2mogbfjTeqrdRm3rPkSXKtwwCxHP/PvVzWADp59z2cgW7MXI4nGDi+OYhqx+/FmuPN7pZzLCwf4eAz7Qk6qW5sa0QVqpVzzZEsKKfLPBU4yxTR89btUuAKGwwPu/B+iVnaKK2gaazKwAwVOivybrkPB3alIMy3XWmQSJBEXDbhkVkNLVQdwqqg6QahRPzO/vumhHLaQKoRswdFduEzGcqeuQibx4FEgCHJYW5/Hn1ElVm9hf5Le72kh7g2Uk1SmDkaAliH/eHYehHtcsaphfn3nC8keoW62ekqvv11CgJBvV0v5RLsW7aF/FyMFOGn+SvoK5EdsU8DL+O77DbHPug8r+ay5BQ8HK9IrabmOnYvje3meUg3EAl9scJ3tMhjrY3BvPnOqiTpfYaWD5Wje6x2SFwnV3X7MA+Fe9FzCXVp6HsOjeSmGYRRdgXpYXThfDvWHkVb+qw==;nTTbcetXKHX7ewOn95GCVg=="

@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice AI Startup Skit announces the appointment of new members"
-    excerpt: "Voice AI Startup Skit announces the appointment of new members - Skit, the voice AI startup has announced the appointment of 2 new members, Vijit Banthia as Vice"
-    publishedDateTime: 2021-12-08T09:41:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/voice-ai-startup-skit-announces-the-appointment-of-new-members-nid-217545-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/9OQ4o5sr.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Spot AI Gives Away Free, AI-Powered, NDAA-Compliant Cameras"
     excerpt: "Video intelligence innovator Spot AI announced it will give free AI-powered, NDAA-compliant cameras to any U.S. business. Due to security concerns, Section 889 of the NDAA for FY 2019 bans the U.S. government's use of covered telecommunications equipment or services made by specified Chinese manufacturers."
     publishedDateTime: 2021-12-09T14:43:00Z

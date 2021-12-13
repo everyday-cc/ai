@@ -104,20 +104,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Myth of Artificial Intelligence"
-    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
-    publishedDateTime: 2021-12-08T10:08:00Z
-    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 39
-    images:
-      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "DeepMind simulates matter on the nanoscale with AI"
     excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
     publishedDateTime: 2021-12-09T19:34:00Z

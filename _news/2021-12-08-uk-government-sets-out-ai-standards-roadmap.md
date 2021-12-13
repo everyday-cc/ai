@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093242&name=uk-gover
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "CDEI published the roadmap to an AI assurance ecosystem"
-    excerpt: "The UK government’s Centre for Data Ethics and Innovation (CDEI) has recently published the world first roadmap to the AI assurance ecosystem. By doing so, the UK is aiming to develop effective, trustworthy,"
-    publishedDateTime: 2021-12-08T10:45:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/cdei-published-the-roadmap-to-an-ai-assurance-ecosystem/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 39
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/12/harry-shelton-n0oTttl9CFI-unsplash.jpg"
-        width: 640
-        height: 962
-        isCached: true
   - title: "The steps required for the UK’s AI assurance ecosystem"
     excerpt: "The CDEI has established the steps essential to building the UK’s AI assurance ecosystem, ensuring the effectiveness and compliance of AI"
     publishedDateTime: 2021-12-08T11:35:00Z

@@ -41,22 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tampa International Airport hopes self-driven wheelchairs for travelers paves way for future"
-    excerpt: "TPA is testing out a pilot program that allows passengers to use self-powered wheelchairs that can be driven instead of pushed. They hope to make it a permanent option."
-    publishedDateTime: 2021-12-08T10:44:00Z
-    webUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future"
-    ampWebUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 48
-    images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/12/932/470/P-TPA-AUTOMATIC-WHEELCHAIRS_WTVTc054_186.mp4_.00_01_26_07.Still003.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
 
 secured: "8Vk1c3ZleM03BdJOkyZ2GqId9KgI9mw7zI3+rNkSSo/RQWxwJJhgnq73RoBnnTKaN1nf8f2sDZPbevgDIKtTPFxb+ZIjfVe39yuMETTWT89UAA9sFvW1SvF6xD+Oyvr7TpqKLIDxdlO0WS5sS7tnUC0uIJl8ZIKijP98n4bRDexapc6GmLBFRFmw+7ka3lXkynbNM79Cu8Yu4rlLe+K5CZ59czlAyhqflk+pqUOhwlsrytjf28YNOEhlp06Gopf2c72qOGL9YRjYiwn6Dg0MjlHSb8yoMtE98cETyGMhUAgbtDmjseHTpES3fFKjKQ9xCMWRmJotMeXuFl7c8tHs2bFi6wlPs62YYD+UJVJtPbRAY++WyKkop44m97SpsF8Agx6B2lxenXXkc38MuD5r2bunNEtnHW1MrKIr1lvkrJ3J83xr9PBABDoM4ys5TSxUo/CrzEBDpzjCnlcVs+LPat94hi01ccMxtoO3F0GZBVFksuEvYG3NaSxhPWLpEdGLftK1qAa6MZ8Y6x/yNbRfmA==;8L33e3b51P/E0U7a1hnJFg=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Artificial Intelligence Will Extend Human Healthspan"
-    excerpt: "Fountain Therapeutics is developing therapeutics using artificial intelligence that restore the resilience of your cells and healthspan."
-    publishedDateTime: 2021-12-08T09:09:00Z
-    webUrl: "https://longevitylive.com/anti-aging/how-artificial-intelligence-will-extend-human-healthspan/"
-    type: article
-    provider:
-      name: Longevity LIVE
-      domain: longevitylive.com
-    quality: 39
-    images:
-      - url: "https://longevitylive.com/wp-content/uploads/2021/12/Artificial-Intellegence-and-Fountain-Therapeutics.jpg"
-        width: 1693
-        height: 932
-        isCached: true
   - title: "Hydrogen Health banks on texting, AI in crowded virtual care market"
     excerpt: "The company's method of virtual care delivery represents a departure from how payers and providers are currently offering digital care."
     publishedDateTime: 2021-12-09T20:28:00Z

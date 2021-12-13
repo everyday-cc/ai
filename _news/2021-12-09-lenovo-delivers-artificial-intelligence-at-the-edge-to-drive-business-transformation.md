@@ -40,20 +40,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Lenovo Delivers Artificial Intelligence at the Edge to Drive Business Transformation"
-    excerpt: "Today, Lenovo (HKSE: 992) (ADR: LNVGY) Infrastructure Solutions Group (ISG) announces the expansion of the Lenovo ThinkEdge portfolio with the introduction of the new ThinkEdge SE450 server, delivering an artificial intelligence (AI) platform directly at the edge to accelerate business insights."
-    publishedDateTime: 2021-12-08T11:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-970f3f0835da49e391acb6227e8ba555"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "5VOzsxNzl0ibSQgwbNAhIbDq3/42AapphShheXJ2O5X5O8zVB0KzqZab0+rG9qng48VFs4M0l8xLqx00pCJI1m5xi0QWHSg3uY4xcbq3rSoJVzg5YZ9BFRaSP6oEm6vVY0bsmAYqct3DoTNjUh+jcRfRNl3/VyfTjz3jdca1NOhLyItL8kQs/q51fL9mTBlrtMr9iwjKphf46Fp2VYDwYGhFOJntT7aZpfjrJ1riVGCyOh4xTqElBy1EXwrsxzeAk+hOQblNySA6fYR84sNmPBo/DSQinXhmp3eVdAIjli22IG1ujNXqa9bomi1yD66J7REbTJOE5O3rhYbiEEA8OSYeZkxWLG88OBd2kCyOs1c=;3R0+raOM9EqjpSsQup5Fbw=="
 ---

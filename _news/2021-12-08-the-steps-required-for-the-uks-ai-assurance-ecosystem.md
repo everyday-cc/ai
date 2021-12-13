@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "CDEI published the roadmap to an AI assurance ecosystem"
-    excerpt: "The UK government’s Centre for Data Ethics and Innovation (CDEI) has recently published the world first roadmap to the AI assurance ecosystem. By doing so, the UK is aiming to develop effective, trustworthy,"
-    publishedDateTime: 2021-12-08T10:45:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/cdei-published-the-roadmap-to-an-ai-assurance-ecosystem/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 39
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/12/harry-shelton-n0oTttl9CFI-unsplash.jpg"
-        width: 640
-        height: 962
-        isCached: true
   - title: "UK publishes roadmap to create an 'AI assurance ecosystem'"
     excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
     publishedDateTime: 2021-12-10T07:58:00Z

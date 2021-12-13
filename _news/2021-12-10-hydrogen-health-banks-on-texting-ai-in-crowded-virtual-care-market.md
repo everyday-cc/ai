@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Artificial Intelligence Will Extend Human Healthspan"
-    excerpt: "Fountain Therapeutics is developing therapeutics using artificial intelligence that restore the resilience of your cells and healthspan."
-    publishedDateTime: 2021-12-08T09:09:00Z
-    webUrl: "https://longevitylive.com/anti-aging/how-artificial-intelligence-will-extend-human-healthspan/"
-    type: article
-    provider:
-      name: Longevity LIVE
-      domain: longevitylive.com
-    quality: 39
-    images:
-      - url: "https://longevitylive.com/wp-content/uploads/2021/12/Artificial-Intellegence-and-Fountain-Therapeutics.jpg"
-        width: 1693
-        height: 932
-        isCached: true
   - title: "Cloud Artificial Intelligence Market Outlook 2027 - Industry Trends, Opportunities and Forecast"
     excerpt: "AMR Logo The global cloud AI market is expected to grow significantly over the forecast period, owing to an increasing adoption rate of c"
     publishedDateTime: 2021-12-10T22:52:00Z

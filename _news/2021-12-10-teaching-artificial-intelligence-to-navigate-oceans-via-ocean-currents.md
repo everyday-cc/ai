@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12651"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12651"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Azorobotics
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Engineers teach AI to navigate ocean with minimal energy"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T13:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
+  - title: "This tiny AI-powered robot is learning to explore the ocean on its own"
+    excerpt: "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,"
+    publishedDateTime: 2021-12-13T02:20:00Z
+    webUrl: "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/"
+    ampWebUrl: "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
+    images:
+      - url: "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI Uses Reinforcement Learning to Navigate Oceans"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are working on an artificial intelligence (AI) that can enable autonomous drones to use ocean currents to aid their navigation. With this approach, the drones don’t have to fight through the currents."
     publishedDateTime: 2021-12-12T23:19:00Z
@@ -50,15 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T09:42:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59343.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "NnqW9zcHJwwbR7XFOtoNX6fD6lsV2RJLpaV4vAbIw0+a+NHlXtqlfQ5H+tSpwrVRBu7LOU9+M+VbA0XP3gBbRoU65V5mVsAL3McJ6EJzKT7bGcedhYx4sl54yhGwxdt1a4K2L0qh7S4dkNwNmCOIX5XMz16hYDGAKxTNZgPV1TzLqQnL4yS0sx5K8iculAekQdiR7UHQ0DqtavfCKc6DpDKlWJL1fpx590y7WEBi9GlDBRwYeL1qT1AEX3oNHSUN+STsLuGIkNvPuAjiROFTpz38NuBR877HhPxvotJ7EhgZe+9aoxNc8Tbr995I4U7kugIRegxz3ysH+Rxv5u2z8qoN98ryHVpu6JT8WRxw7eVDc2ooHPre4wydGP+a5mXqOeTD7cM68mJGYlEQeUD/+b+OAXp9yP6u7de7q8pwS23QhWLEF9xK1REDJmUCU8qWUDd9yQ/OdrP7le6ywd7JMyQ6GWzC47R0dP3tEoQ7Gs6jerD3Ipc2ZKfNUIST1aVXHgapRPYhnpLHTid3Tbv+aQ==;TTSYemWCTPrPKNV9ltbQhw=="
 ---

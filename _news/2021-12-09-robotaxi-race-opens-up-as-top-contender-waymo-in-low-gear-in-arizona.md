@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ..."
-    publishedDateTime: 2021-12-09T09:20:00Z
-    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
     excerpt: "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
     publishedDateTime: 2021-12-08T13:26:00Z
@@ -66,6 +50,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
+    excerpt: "Alphabet Inc's Waymo GOOGL.O risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
+    publishedDateTime: 2021-12-08T17:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
     excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
     publishedDateTime: 2021-12-08T13:32:00Z
@@ -83,6 +78,6 @@ related:
         height: 533
         isCached: true
 
-secured: "8HaigPBtrc5oDi9ZAIQTj+9yIIb+n3lGecCjVeGQqQWMK7AalPitE0RXTYzOMqfTBKM4EHZN/HmRxUjM46m484xXYnVa4shPMjIPskoZ/MKNX53u8act1cUgv443ynI8JhdVbPP4IYIxU4SNh1+XVxkbC4FFnJUCvJMqcAWIg9Rg+3jR/abAtHr/vN9rHJRuWRiWbIW62zZETO+ortBBx4o7LRhq3i/3Jc/+0terIx5bxWp7zRDZgDDG5nVehLqo0Yd1g+pfERNy1qdI8GKRTxzORj1YPQShXothnUgMPyFiwlloxZkxk+BZme1hSqC8Vln+UswKbG5bhpd+TKepVM/x3bFRFdNJtl1EDWIuyIs=;D86qj7JL9mRiMzXFpzYAIQ=="
+secured: "W7Mr9Vr7i57YWFTcGPUnGuscskY/IXq0yTT+7HG85Ee8hRRTEVXaqcegsKIVZeeAztNvbhUbRgN3akolGcN4qCiKHazufXYjlU/el93a3g/5dP4G2TBLTaGDDybL9f7FDkcpelDnTzJTndgwlZc9AKX59JrAHbNw0SvIcZISnFR7AB5tPCsd7OV5ki7H2EqkRRSP8kKf8eDPtJY+KceWVxdyGveDu0TbEHHDHBB0fA2oEuZnsS4v3MyOHoLetdr8/Zzp+xCZq4IVu5tRs2xrl4ioj5Uz8qFlNXNnK61oSA0uxKiK+/9qQX53Sgt7EsQbz6IfbI+xD032GF1CZUktCC67hycPM4sRzxbQrRfjtFE=;gZl6mZTpDuFhVbSVry4adg=="
 ---
 

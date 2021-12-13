@@ -113,20 +113,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "The Myth of Artificial Intelligence"
-    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
-    publishedDateTime: 2021-12-08T10:08:00Z
-    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 39
-    images:
-      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "Pwy85BWzhSj4N+VIIfzB76VtJAfn97DuoSJsyi+t54V8nHTK3ALrmHEa3ZORLSrHc/8QnagIA/1djx31x/vLFJ36h8+02Uv/z1hjp8SC33DFoHKV6MA6l+O2kMfmryeHe1IP4vWD2bu3HDUmc26Ioa1Oy27+LOary9U9rX8nx0O4M7yx/hOIPnhuxs2RQQNDdVgrDHnzW+tIX1o9RpSxmvdDU/266bmri2uv5MtJWUw8PQHh/5G0SvnaiIZJQvLVMKzPa0X6TFc7zmxTY7oyOAAWV6bBxaOcxCQwea8+DM01FwyRu5aTpiClw1luCzmxPOraKNPSdsoGk5kQelr3KMm27eUYy4MWrvrGjX4cHm8=;b8apYADxZd4cbw4H/7/AeA=="
 ---

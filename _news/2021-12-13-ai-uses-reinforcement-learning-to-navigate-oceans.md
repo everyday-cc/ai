@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This tiny AI-powered robot is learning to explore the ocean on its own"
+    excerpt: "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,"
+    publishedDateTime: 2021-12-13T02:20:00Z
+    webUrl: "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/"
+    ampWebUrl: "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
+    images:
+      - url: "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Teaching Artificial Intelligence to Navigate Oceans Via Ocean Currents"
     excerpt: "Successfully navigating the oceans has allowed humankind to explore the world and make countless new discoveries that have contributed to the advancement of civilization. However, pinpointing exact locations and wading through ever-shifting tides and currents has always been a challenge."
     publishedDateTime: 2021-12-09T16:20:00Z
@@ -41,25 +57,7 @@ related:
         width: 333
         height: 499
         isCached: true
-  - title: "Engineers teach AI to navigate ocean with minimal energy"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T13:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T09:42:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59343.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
-secured: "aGUNc4IWyRF21TfOY6eQ2FvwwDTnCq1uqixWOls81bcY1b5E5/kOzdBS2mkUp2tcdGOUEDHKbxsxNYjLY7l169eCuFc8F5rNHke9Uttziu1OFmgOQUpumSOxJc/g6DLiopXeGq0QmzJ0836Bhgcjteq3Xzj0+4/MMwACht+of/vDVv9Juj+5UtREV5nbb17ER3jLPR1gpH1b3gpdPjncNCQotnSMIF8CIxy5JAOBgmyzmsh096j8wEWfK1Bm6m9UdrSWdFqyaiteP1awUxLeD9n5YGSkV/Luzq2LqBpF+QoziBO8CzlZashkh1Hss3QGbrAjY4Fcj1ZXL1tJGle4M3L1+PjVX4bx6kFejsCFe20=;IsVdV6Qq31T0d0WIS1Aizw=="
+secured: "dnzt4YQDQ/gCh8/M0ECel+Leya3I79p+L7XLy6fRxrWRcEHHt3jP6wxuqtUbljlmGbgxk8VVOGG22iaVBdBjaT+dGdMyb/9z58nlSMWIfC1Lm6bjwu/2tGj4sxGFtKioNuJFYzdzWH3ehlMifDEwsSz2dATtUVKmOvrx3rRWn55ndcbMgI1561R36RGgM1VIioGbda8q+cCRhN1HWuHBIy1XP9xwYQC+4hf37Lf4dukhaXpt1zC+lPXrB+RpAqr8B4kRdsTRAaL6csYeHIOAnlZnHyq8gK7KfVNGJiXlTFiBD4uKwVa9wOTTlWaXeuH3daZqaUT0E+w+wY3eclFebf3QIGE38N0plDFIuZBNIIfdKZvCMNKsWUM4lKYckNztnn5bGGJOMfjjafS/Vp0Wav5gO4BrEL8caPxtmzve9d86LNdyfoluyjoGzliWyTuzOYlKtB7qhqu9a/k4mViSYAqDxfORfcFjupZvpJraGT6zevlO879ZywLbvcb8cJIN+SEroWfkrX8FzM5g8Dk+gw==;KIRvQ2UF3g/Z7K2OoFg7ZQ=="
 ---
 

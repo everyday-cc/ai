@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wh
 cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WTSP
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tampa International Airport hopes self-driven wheelchairs for travelers paves way for future"
-    excerpt: "TPA is testing out a pilot program that allows passengers to use self-powered wheelchairs that can be driven instead of pushed. They hope to make it a permanent option."
-    publishedDateTime: 2021-12-08T10:44:00Z
-    webUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future"
-    ampWebUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 48
-    images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/12/932/470/P-TPA-AUTOMATIC-WHEELCHAIRS_WTVTc054_186.mp4_.00_01_26_07.Still003.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Intel plans to take its self-driving wing Mobileye public"
     excerpt: "Intel Corp. plans to take Mobileye, its self-driving arm, public via an initial public offering in the mid 2022 time frame. Intel will remain the majority owner of Mobileye and collaborate on projects for the automotive sector including the advancement of autonomous vehicle technology and the computing that is needed to power these future cars."
     publishedDateTime: 2021-12-08T13:39:00Z
