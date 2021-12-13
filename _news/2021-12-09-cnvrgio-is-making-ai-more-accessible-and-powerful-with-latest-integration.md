@@ -48,15 +48,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 26
-  - title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
-    excerpt: "SANTA CLARA, Calif., Dec. 8, 2021 /PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced that Habana's Gaud"
-    publishedDateTime: 2021-12-08T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/habana-gaudi-ai-processor-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/article_d216fc00-0cf2-5e30-915f-c3553f7132a6.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
 
 secured: "dKZkr0+DMxQD+5ZzGGDPRhfhDY2b2kYbmiqPIo+9scTLQ4rdbdYI2lA++fwRjr38XkTY58/7v114i4cDaZFQTwbTJGu6IvqiDj2JBNA+HOtRn40gVWfUa0XQQTKnjYoavz1ST05WsrcDVH2m0X0hAsaEwZAw84S+e/4vXqvuNKqcR2hHtEws6k0zEodxXwCR1B/aHBDpWxgyPEuhHviVvEngdzd3WcK3rcmam3yw14AyyesqWeDdGw14rvyEC+aPg0OYi+OGffAD+ozUg3W5HLkRv6idUxDNIWUyoCYZN7rT0iSssE7SNQcBulP4QL+ObVT6Zt0Jd0Mh6SYkQLsm666ocH3l7bhqZGnWRnMl1+U=;4f24YdiqHEfWeYKk2QrXfQ=="
 ---

@@ -6,11 +6,11 @@
       "title": "Boffins unveil artificial intelligence that thinks just like we do",
       "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "originalUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "webUrl": "https://www.techradar.com/in/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "originalUrl": "https://www.techradar.com/in/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "publishedDateTime": "2021-12-11T20:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -420,58 +420,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students.md",
-      "title": "UK’s Atom Learning picks up $25M from SoftBank for an AI-based online learning platform aimed at elementary school-aged students",
-      "excerpt": "The Covid-19 pandemic ushered in a new chapter for virtual learning, giving a boost of attention to existing tools and spurring the creation of new services and use cases as students of all ages were ordered to stay home and stay out of classrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "originalUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/atom-learning.jpg?w=1024",
-          "width": 1024,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "publishedDateTime": "2021-12-09T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1427,6 +1375,49 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
+      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
+      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
+      "publishedDateTime": "2021-12-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

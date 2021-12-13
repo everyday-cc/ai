@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
-    excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253"
-    ampWebUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
+  - title: "Tesla self-drove into barrier, report claims"
+    excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
+    publishedDateTime: 2021-12-13T05:00:00Z
+    webUrl: "https://www.autonews.com/manufacturing/tesla-self-drove-barrier-new-york-times-report-claims"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 51
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLAVIDEO-MAIN_i.png"
         width: 800
-        height: 450
+        height: 600
         isCached: true
 
 secured: "GSiL1Pv7PYLoc9tqOdT/4dP9FDCcmsL11/xSc5EzyimJlbvV8rpc0dY7WOKqLb6nxqB57w6O2kLJ/ML5eYvyECgpuCU5ZlBn+LuQ6HPlJarPOQKOaHV/5KsSUJ3UEyQfiqa2AvCbjcmaGGwDvAoYbHxMpNz0mRXA1RZSMna21lFf989b+IhLTEWlz0BBiEvpzx4tcNT4Iq/e1ab21L2JfqfQGc6oDoqVHeyDXMlVlMA39U9WG8Le3KLk4FEQpq8YvK98Lp/Pf6qlj6KKKM7MPoll0CHyoVoKxrQoD8FwtKNEzeiYWMAo7+2NlZtlTEDSyrTnQjomwbc86cbJ8JGIo624X/4ybxwSiPriJluhD0w=;/SZJ9najo9MTRI/ZcC8ySg=="

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-10-camden-yards-to-test-using-artificial-intelligence-for-security-at-orioles-games-next-season.md",
+      "title": "Camden Yards to test using artificial intelligence for security at Orioles games next season",
+      "excerpt": "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg",
+          "width": 2880,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
+      "publishedDateTime": "2021-12-09T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-this-humanoid-robot-is-about-to-fly-like-iron-man.md",
       "title": "This humanoid robot is about to fly like Iron Man",
       "excerpt": "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building",
@@ -338,58 +381,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-09-uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students.md",
-      "title": "UK’s Atom Learning picks up $25M from SoftBank for an AI-based online learning platform aimed at elementary school-aged students",
-      "excerpt": "The Covid-19 pandemic ushered in a new chapter for virtual learning, giving a boost of attention to existing tools and spurring the creation of new services and use cases as students of all ages were ordered to stay home and stay out of classrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "originalUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/atom-learning.jpg?w=1024",
-          "width": 1024,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "publishedDateTime": "2021-12-09T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-education-is-key-to-helping-cees-healthcare-professionals-embrace-ai.md",
       "title": "Education is key to helping CEE’s healthcare professionals embrace AI",
       "excerpt": "Education is the most important factor for the fast adoption of healthcare innovations. In Central, Eastern and Southern Europe, EIT Health and GE Healthcare are making it happen.",
@@ -526,6 +517,58 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
+      "originalUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM",
+      "publishedDateTime": "2021-12-09T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1148,58 +1191,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-the-opportunity-for-ai-in-healthcare.md",
-      "title": "The opportunity for AI in Healthcare",
-      "excerpt": "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
-      "originalUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDKOYsCMB7gg/article-cover_image-shrink_720_1280/0/1638980123840?e=1644451200&v=beta&t=s9NKpDgy5Ym2j712LfpDyOdkavQOuNExrXAO_e176EI",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

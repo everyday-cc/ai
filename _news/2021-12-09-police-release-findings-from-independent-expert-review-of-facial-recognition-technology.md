@@ -51,6 +51,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "New Center for Artificial Intelligence"
+    excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
+    publishedDateTime: 2021-12-09T08:20:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/new-center-for-artificial-intelligence-891725884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1704702/St_Polten_University_of_Applied_Sciences_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
     excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
     publishedDateTime: 2021-12-08T21:44:00Z

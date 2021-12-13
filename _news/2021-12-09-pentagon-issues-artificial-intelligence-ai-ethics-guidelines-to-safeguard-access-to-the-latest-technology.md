@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/computers/article/14215231/artif
 webUrl: "https://www.militaryaerospace.com/computers/article/14215231/artificial-intelligence-ai-technology-ethics"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Best Artificial Intelligence (AI) ETFs to buy in 2021"
-    excerpt: "Find the best AI exchange-traded funds to buy now. This page outlines the top AI ETFs and explains their recent performance."
-    publishedDateTime: 2021-12-08T14:48:00Z
-    webUrl: "https://invezz.com/etf/ai-etfs/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2021/11/profile-photo-1-e1637052169171.jpeg"
-        width: 683
-        height: 1000
-        isCached: true
 
 secured: "xIR5H3E1thojJntym/ORCAYTJZjSzNbAe/byukFJV47TF3rozkGTe2TnmynLn9sri3SBAkFYjCNGPAK9Pp2J5eKGsK4IhGPVnQ/X0Eih1G8bsc6k3ap/FesU1RCVY58XNQAog/oj2ZCu4EZvpW59OLdIsw9TTzLIRrN3QFavRBn/olVLVkpwZsfFSZgmHdM5UpTlbsxMJijCci1JuRreu0weLEHs/8g1liccVtjnbfsGXMhffUO4EYXY5jnotRw2HcMZiwlUDwUh9BG8rUjNZ5o7xIBXAj8NMh+W4+cGopD6FKGjgwzkNQ26VXD3WxjuNYbBpfFDkrKLHU3SUyDU/Ls+wPY2oH2QjK+X3Sfblhjit7n9RN9293wV+EpdEeQhMNdzgGxwGdjKzeYBt7oz5IVCtzC7HmjsLEAXlcgqoHrkkHSMr5HRJfZvsYB8uMrlui3PhFaLs72lIIEccQM+gH3JmtfQ5wLRIeSefU5EDpaKiulqpzbGMsaFkcy1TXYS3JZHJPBK6paDCtbykT1NYA==;qpCB2e398GDQjLmxnOe+Fw=="
 ---

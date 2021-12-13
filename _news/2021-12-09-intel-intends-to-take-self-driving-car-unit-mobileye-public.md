@@ -41,29 +41,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "Intel plans IPO for Mobileye self-driving technology division"
-    excerpt: "Intel on Monday announced plans to take Mobileye public. Intel acquired the Israeli self-driving technology company in 2017 in a $15.3 billion deal, and has since helped grow it to become a market leader in driver-assistance and self-driving systems."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.motorauthority.com/news/1134385_intel-plans-ipo-for-mobileye-self-driving-technology-division"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/mobileye-self-driving-prototype_100818436_h.jpg"
-        width: 1920
-        height: 1088
-        isCached: true
-  - title: "Intel to make Israeli self-driving car unit Mobileye public in US"
-    excerpt: "The deal could value the Israeli unit at more than $50 billion.The post Intel to make Israeli self-driving car unit Mobileye public in US appeared first on JNS.org."
-    publishedDateTime: 2021-12-08T13:37:00Z
-    webUrl: "https://www.clevelandjewishnews.com/jns/intel-to-make-israeli-self-driving-car-unit-mobileye-public-in-us/article_4f0595ae-b269-59e5-beb0-91608382d6b1.html"
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 4
 
 secured: "JWkGrDFQs+DrGrzfguSXXE1GS/S4+4bxhQCzoq4JqdFvJD0HfJZrvFUenLIYlcBHmf3L8XAA3aMCYBoH/3YFERRNh1IPOwkLE0oNXeVVRaP/kB/xZz4W4QiY41OyZKizdsCgVhhtWQI95M/2QfwkB0hQBu5axis0AT5bXEFf6dFMpwKEbPLD12nORABoMXNHdOLp/c6ZFmamtE2NQ50ai8yOdQMAAaVG3n+y/DUH99u90JGPDOkoZzJjlna+H2BDPySIFdJWz4XHqFdRQ6cVcLqslESQVv/haVb4UlHedcucwr2nNazcGc8LK7gTDY0NRBMxYca6j3u5+hzhFiBzXEr6O36vA55Y5Qg4UEdvRrl1h7Iu91ofHDns7WDWN1KgCb5arPk0F0Evn17dkaocTDzjnsgMljL8nkhoVMynB6fa04nYXo1qgrTHiqxNmNWKEFsVnVd1pYiz1CITXePQkqa2Rtyyb0TCfYzJlyrItoqoOGa7Mhti+t/nJSx/pWqJLkRPRSP5clhcof0zCW3yuA==;XtXjPGvBtktFbM9OUiSwxA=="
 ---

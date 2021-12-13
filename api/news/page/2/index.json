@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-11-evolution-gym-sculpts-novel-robot-bodies-and-brains.md",
+      "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
+      "excerpt": "But they usually design an animal-like robot body first and then train an AI to control it. In living creatures, though, the body and brain evolve together to tackle complex tasks. So some researchers are borrowing a page from nature’s playbook to design intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "originalUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/0197E040-CFB2-4AE4-99DF0AE00817D3CA.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "publishedDateTime": "2021-12-10T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-intel-teases-alchemist-graphics-card-in-arc-gpu-gameplay-trailer-at-game-awards-show.md",
       "title": "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show",
       "excerpt": "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,",
@@ -186,7 +229,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1139,49 +1182,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-camden-yards-to-test-using-artificial-intelligence-for-security-at-orioles-games-next-season.md",
-      "title": "Camden Yards to test using artificial intelligence for security at Orioles games next season",
-      "excerpt": "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg",
-          "width": 2880,
-          "height": 1617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
-      "publishedDateTime": "2021-12-09T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

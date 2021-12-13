@@ -26,22 +26,6 @@ images:
     height: 214
     isCached: true
 
-related:
-  - title: "Autonomous tractors are driving sustainability, but hitting regulatory roadblocks in California"
-    excerpt: "As farmers begin to embrace more agtech, worker protection laws remain a hurdle, along with developing the workforce needed to operate and maintain complex new machinery."
-    publishedDateTime: 2021-12-08T14:35:00Z
-    webUrl: "https://www.agri-pulse.com/articles/16915-autonomous-tractors-are-driving-sustainability-but-hitting-regulatory-roadblocks-in-california"
-    type: article
-    provider:
-      name: Agri-Pulse
-      domain: agri-pulse.com
-    quality: 27
-    images:
-      - url: "https://www.agri-pulse.com/ext/resources/California-Bureau/autonomous-tractor-836x627.jpg?height=635&t=1638851798&width=1200"
-        width: 836
-        height: 627
-        isCached: true
-
 secured: "Ts/8ZD4FJ0w5Jx46GYHzjwK5/llnOpnFt/mSeuVDNzq0wAP5QcVUpWFAThV9yrdVB2QrLDktJtQVhEAKLemfVNGUMAS8/uwMZfQBIhVMAtG823k26t3EQ4E8lZT9yDVYVF9NdHiyKpPJFA2BGJr6kDSF9j4bLkU5eRQjmvx673EDJ3OoqqhfN4BxStC5G5s4bEF0gk6QTHX1g07KtwDg9BpJCp+0dJX9OdTW6SIsh6uVLsMwuR6T29AXIAa+GmaY11QCB8hrC0p0zum5pOeMCs8gTjoTvXA7AFEoR+Q7JZ418vOdzMFSnPvd+7/kinp+Az3lTgidpb8YdeYFGzNVOcRpY9FgmlGEPImceuWntnkUgaZ5HbSfFGvtK/s6EgtUbE2iRqF+ucOrqyo2Cgdh60VpT3Wj6aHg0nIEYEWcDv79wDkLOu9z1mlf0WVQiNuI+zjcCzFegMPfEdgBFzl0PIE2+3quLqv38IeATOba+5SC0H/gGhasds3s4WUvG4oMZg3+p+fcw0hFIzYLgNJQJw==;lNzvgF02NGQitmmdu9ghfg=="
 ---
 

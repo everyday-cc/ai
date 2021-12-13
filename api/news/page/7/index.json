@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-06-microsoft-msft-to-support-cvs-healths-digital-transformation.md",
+      "title": "Microsoft (MSFT) to Support CVS Health's Digital Transformation",
+      "excerpt": "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp",
+      "publishedDateTime": "2021-12-06T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
       "title": "AutoML market revenue set to surpass $14 billion by 2030",
       "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
@@ -1132,58 +1166,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-05-aws-reinvent-wrap-up-social-issues-networking-focus-partner-revenue.md",
-      "title": "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue",
-      "excerpt": "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/aws-reinvent-wrap-up/",
-      "originalUrl": "https://www.eweek.com/cloud/aws-reinvent-wrap-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-technology.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-05T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

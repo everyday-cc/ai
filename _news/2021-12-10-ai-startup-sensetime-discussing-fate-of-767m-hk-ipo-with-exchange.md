@@ -7,7 +7,7 @@ originalUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-2-273541/"
 webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-2-273541/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "China’s AI giant SenseTime postpones IPO after US blacklisting"
+    excerpt: "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO."
+    publishedDateTime: 2021-12-13T05:54:00Z
+    webUrl: "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/"
+    ampWebUrl: "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024"
+        width: 1024
+        height: 546
+        isCached: true
   - title: "AI startup SenseTime Hong Kong IPO in limbo after US blacklisting"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is considering whether it can proceed with a planned $767 million Hong Kong initial public offering after the US added it to an investment blacklist,"
     publishedDateTime: 2021-12-12T06:00:00Z

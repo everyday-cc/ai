@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-    excerpt: "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
-    publishedDateTime: 2021-12-08T13:26:00Z
-    webUrl: "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD"
+  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
+    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+    publishedDateTime: 2021-12-09T09:20:00Z
+    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 87
     images:
-      - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y"
+        width: 817
+        height: 545
         isCached: true
   - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
     excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ..."
@@ -50,34 +52,7 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Alphabet Inc's Waymo GOOGL.O risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
-    publishedDateTime: 2021-12-08T17:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
-    excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
-    publishedDateTime: 2021-12-08T13:32:00Z
-    webUrl: "https://www.metro.us/waymos-slow-going-in-arizona/"
-    ampWebUrl: "https://www.metro.us/waymos-slow-going-in-arizona/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymos-slow-going-in-arizona/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
-secured: "wHvfsjAMT2Xh1QSo4QMsQDl5qFCem04YTOmSgdwKN98m9aZu9LWzSLeVIo3ipZc+jfUkOWYrKe73sH2NyhQgub8B0Tg2o1vWi9EFk+xuokQOhEOGOQqXi25EXcJo3N6XLrXsBs3qJl+oen1z3wgFvha4z/FfwWCVyJrhTaW2Rp85//Hatmd3uoMBMuMPo19T/aDwFUSpnc6P0tTYhiVEicQs28IJhYQeY8EP70cN4Pf5suV8ujr1U6xRaWUlwtO0eq6GUdFNXswtJYSvUaYhsg3+DrmKcCNNLNtZJFR5NCmFUhCyt9SK4qOvPl1Sci4vI/GbRcnjqGptQx8xqrcBmzcVxuV3G40kjnFqG4DsN6I=;d7j5hj6EACKDdwFu5rt+Tw=="
+secured: "eZ9zIiYJjPg3Dy0q0i8rmCqKUErc+txvqn0s3C2TJ+AT71hWNXAp9EVA/uWNfUQUc/6WhHJgPKfQd+ZUSj7KLSUCHt2uUI5PEtBCUH4UrsD7K8uW5CYKSG8bLfUJFXgR5u0Yrf4tyBf9tW3WIlW84SUMi6D50eSIR/t9vhgcrf0PadgcbAUJ0jFVPCoxO0hFiaB3mwuKKutT5ASi5/DwU3pFdTc38qA/8YEQfiQ9+pLPh9o05tuNkrhT509t+ZryLkD1ij/TeGRtwxDfVsXP7GF1hYmw8G0cv5gTns9+4cm+qVrUVsOKBpomyi/MXR5NBiWxEzXqmbOH9kws3jlhFSd8MXW0R+UyftaWXfLurtY=;lNlyNQ6fN8xwl1wXTbJqCQ=="
 ---
 

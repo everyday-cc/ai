@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-13-skorea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases.md",
-      "title": "S.Korea to test AI-powered facial recognition to track COVID-19 cases",
-      "excerpt": "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy.",
+      "path": "_news/2021-12-13-coronavirus-south-korea-to-use-facial-recognition-tech-to-track-cases.md",
+      "title": "Coronavirus: South Korea to use facial recognition tech to track cases",
+      "excerpt": "The pilot project in Bucheon will use AI algorithms to analyse footage gathered by more than 10,000 CCTV cameras and track an infected person’s movements.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
-      "originalUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
+      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
+      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/canvas/2021/12/13/a092f16c-0574-45e4-83c5-418e397f24a9_b86010ca.jpg?itok=LfA_R2NU&v=1639368498",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T15:05:00-08:00",
+      "ampWebUrl": "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
+      "publishedDateTime": "2021-12-12T21:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
