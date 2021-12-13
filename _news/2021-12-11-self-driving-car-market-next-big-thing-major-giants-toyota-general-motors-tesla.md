@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
+    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
+    publishedDateTime: 2021-12-13T14:04:00Z
+    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 54
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
   - title: "Tesla self-drove into barrier, report claims"
     excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
     publishedDateTime: 2021-12-13T05:00:00Z

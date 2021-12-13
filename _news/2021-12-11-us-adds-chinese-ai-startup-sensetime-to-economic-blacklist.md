@@ -127,6 +127,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Chinese AI company delays IPO after US blacklist"
+    excerpt: "Chinese AI company, SenseTime is postponing its big stock market debut after once again getting caught up in tensions between the US and China, CNN reported. The Chinese artificial intelligence startup announced Monday that it would delay its widely anticipated initial public offering in Hong Kong,"
+    publishedDateTime: 2021-12-13T16:58:00Z
+    webUrl: "https://news.webindia123.com/news/articles/World/20211213/3872980.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "1pEKgy74Q+Bh5qTTpavm99DM9LixcP6K9OI2QHOCmFe5sIG7D+krpTJ2cOdqx/OUTnjXezIbr7DLAry0NtWm4JatitpFeV6wFZnKDpyxtqtF8Ge/byocZqYFofoccnOlwyUCp+JdQrla+0X267zCUGGQojYkUcVqf0EKlQQ5IiT8/CboMGVIqcVbdRcaHcKL8vfQFcv7SQFNJn7LuhnRwpcijThjq797tyVu8B+QngViaQ7lUAMXO8cc3rH02FO5Pgmy6I8W/b7Ap3xSmqNdZ1A++h1Bg1GerACTDruX8rkI9Cp9Udks/2Z18UTBGnV8hV3uqMTuRR8WvBOyYksrncdhxp5XR8CCS49dseF7Hzc=;HIoBVcVxVnRE7HgcHQj3ow=="
 ---

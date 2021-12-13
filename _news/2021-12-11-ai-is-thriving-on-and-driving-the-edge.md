@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
+    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
+    publishedDateTime: 2021-12-13T16:28:00Z
+    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
     excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
     publishedDateTime: 2021-12-11T11:46:00Z
@@ -45,22 +59,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
         width: 920
         height: 438
-        isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
-    publishedDateTime: 2021-12-08T23:46:00Z
-    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 55
-    images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
     excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."

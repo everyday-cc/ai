@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
 type: article
 quality: 50
-heat: 71
+heat: 70
 published: true
 
 provider:

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report (2021 to 2026) – by Technology, Product, Distribution Channel, Application and Region"
-    excerpt: "Dec 09, 2021 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed ..."
-    publishedDateTime: 2021-12-09T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-to-2026-by-technology-product-distribution-channel-application-and-region-2021-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
     excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
     publishedDateTime: 2021-12-13T12:51:00Z

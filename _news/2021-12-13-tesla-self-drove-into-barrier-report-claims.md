@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
+    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
+    publishedDateTime: 2021-12-13T14:04:00Z
+    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 54
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
   - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
     excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
     publishedDateTime: 2021-12-11T15:56:00Z

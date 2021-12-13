@@ -28,93 +28,77 @@ images:
     isCached: true
 
 related:
-  - title: "Simulating matter on the quantum scale with AI"
-    excerpt: "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry"
-    publishedDateTime: 2021-12-09T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
+  - title: "Why AI is the future of fraud detection"
+    excerpt: "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers."
+    publishedDateTime: 2021-12-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/"
+    ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 189
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "7 ways to make the wider enterprise comfortable with artificial intelligence"
-    excerpt: "The challenge is putting people first in any and all AI projects. AI practitioners provide recommendations for building a people-centric, yet AI-driven culture"
-    publishedDateTime: 2021-12-11T16:55:00Z
-    webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all"
         width: 1200
-        height: 1600
+        height: 600
         isCached: true
-  - title: "The power of AI can be unleashed with a focus on ethics"
-    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
-    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
+    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
+    publishedDateTime: 2021-12-12T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
+    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Simulating matter on the nanoscale with AI"
-    excerpt: "In a paper published today in the scientific journal Science, DeepMind demonstrates how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
-    publishedDateTime: 2021-12-09T19:00:00Z
-    webUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
+  - title: "Common but Different Futures: AI Inequity and Global Emissions"
+    excerpt: "Some researchers and policymakers suggest that Artificial Intelligence or AI will provide the most game-changing solutions to climate change."
+    publishedDateTime: 2021-12-09T06:57:00Z
+    webUrl: "https://www.orfonline.org/research/common-but-different-futures/"
+    ampWebUrl: "https://www.orfonline.org/research/common-but-different-futures/"
+    cdnAmpWebUrl: "https://www-orfonline-org.cdn.ampproject.org/c/s/www.orfonline.org/research/common-but-different-futures/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: Observer Research Foundation
+      domain: orfonline.org
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nanotechnology-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.orfonline.org/wp-content/uploads/2021/12/Pic-002.jpg"
+        width: 347
+        height: 439
         isCached: true
-  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
-    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
-    publishedDateTime: 2021-12-09T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
+    publishedDateTime: 2021-12-10T15:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24548916/ai-to-boost-cancer-drug-combination-studies-and-treatments-of-the-future"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
     images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "DeepMind simulates matter on the nanoscale with AI"
-    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
-    publishedDateTime: 2021-12-09T19:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936901"
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
+    publishedDateTime: 2021-12-10T18:31:00Z
+    webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
 
 secured: "OWsiJV5+e6hUvj98mQZ2/cnuYEDj2jnwXxeEm3fj+MhYchl7pzGZoFde51X4irNk3aZAy6DB2xvBzVz0cx/86Z3jP4QOpR+SkJOORkgYPph/uLJ16AphuKCtF8QJht4Wk14cz8IoQQfJ+WhEsKA63RVWYK4F3Vf6/KwqlVANTwLb1DGHJJ2BKR3isr9XGk73OJK/kqGVov1dk5Ws+Rje3z1T6RH8nzx2Gxk7ZcP7FUqeD3mJ31Mk1gR4plRdwSZ8dCINfmkV5gxGyDfcXbCTHhwb989ukTJtOjBSZfgBt6Zym6l1iyMtcDnu4uT3aDLL7ikRDOFz2e209+3igUnrAgsr2p3IemAc/V608v/RCtA7B/FXViee5pFeKG8+n12V/MLCCeoeU1AziwtZBMh2BVLeXK9cdN5mmZyjQyGJpL75qeNpMF8asbpB+en1u5tn5HBfheztbADzfl9xCg2o9I7dLnZZ8T+9Cvn+p6v7zcQ0rk2S+phEtT7kIcZWFOyaxWM2Ua/uReRrZqJ2vOMDuQ==;YfDsFDO06A6i99VR+4dCQQ=="
 ---

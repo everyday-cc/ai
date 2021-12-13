@@ -35,19 +35,21 @@ related:
         width: 800
         height: 427
         isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "The companies are responding to concerns, backed by an ample body of research, that AI programs can inadvertently produce biased ... figure it out later,’” said Chenault, who was on the Facebook board for two years, until 2020. Corporate America ..."
-    publishedDateTime: 2021-12-09T00:12:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/group-backed-by-top-companies-moves-to-combat-ai-bias-in-hiring/"
+  - title: "7 ways to make the wider enterprise comfortable with artificial intelligence"
+    excerpt: "The challenge is putting people first in any and all AI projects. AI practitioners provide recommendations for building a people-centric, yet AI-driven culture"
+    publishedDateTime: 2021-12-11T16:55:00Z
+    webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
     type: article
     provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=03680FE6-D7CF-48C2-A263-35116FF79BEB&type=primary&q=72&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
-        height: 899
+        height: 1600
         isCached: true
 
 secured: "uQfgo99K04c6lnNsTyQkv9nyI/TVSB9M7mA08tal3uoxhK/3NgSNS3xMVNbna3K5kfiiOQzQOsAHR/ugOJFwYdUOQ9ScyvsYJoh+6ieFAEi+3Nd0cJ0srik6Po0SkCYZlxnK2gwP6C1ibf2s9WNtxSKXc4iSfLHK9NxEYHd51TlI2pP+8KHUMS4UH4wQblDARL8VoVLUAFe1v+v3daiwnoJb6o4VgKrw6SyqPnrrPQO1XJBxq0X+cg4/RYG2kr6kiJGuu/ZJI8IAR+2bK0zTQsXJ/7nxuGJRGv4BT4gEXsZAEM2FyUpxxD/KVv5ZAbGFrU+6m3+dxhIAMjSRUgTaN0uDoOr28OnNRPpbUnr4C3B7k041SCn3c2IbUG/2qf6/Bs25Rck8uUKOLgnwSZWhQNY/CH7KKXaOj7mdqNoKl8IvL1wcY9+ODw3BNOfPKg7PTgWCxCTXYL4il73wNisxOC8MQfyof/WipRJ8kRRZyudz7FBEYZo+7j5Kat1kONZkGASwUe2l5hfywGFCAi527g==;Lfk/dWShDX74bECRwrS0HA=="

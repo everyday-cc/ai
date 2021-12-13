@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Role of artificial intelligence in the evolution of digital marketing"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
+    publishedDateTime: 2021-12-13T03:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
     excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
     publishedDateTime: 2021-12-12T14:00:00Z

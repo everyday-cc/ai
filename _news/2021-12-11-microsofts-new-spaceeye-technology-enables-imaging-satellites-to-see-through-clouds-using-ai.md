@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft and CSIRO partner with Agronomeye for farm digital twins"
+    excerpt: "Australian agricultural technology start-up Agronomeye has collaborated with Microsoft and Australian government agency the Commonwealth Scientific and Industrial Research Organisation (CSIRO) to develop the AgTwin platform,"
+    publishedDateTime: 2021-12-13T16:47:00Z
+    webUrl: "https://www.technologyrecord.com/Article/microsoft-and-csiro-partner-with-agronomeye-for-farm-digital-twins-127522"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10643/img-AgTwin_940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "9TouYwOMrdLsmszFsD79SqJbBwyiNfxtkFh7jc6iAIFXIjICGHOtrONwvYCbF4LbRRstDBiIOnoyhCs+Yyr29Jj7KCqCkSNaRtBZ0n4cxvum7F9is36ZW/NMhkKKcFYzcsGrsHXJy5SQAW5L4Wh3+YSN7ZYbkc3J1gE2ilElHjzo69Qu29sGxe7JGl3E+ThfqsNkUr0CS7Wdlxho5Ix9HjaIGzzlCnX4ztUKVZL5ewfMe3woKm7MlGx7Lx18XtKndWoL4sD9BHeK4tn1v5j+v83NfoQUtlgTtl0zD9G96ofPlM69P0rnd0t43g1PAPTav0e2JhE6L8xxY4UJdt9kozJz9drMEMi0BOHwvrN1xoYKyeVuK2KlZI3HmSiKpxqyK27dsGSzSDYEgL0Fut0OoUXBaWwO8u8DslCp5JpwM5Gc6MaQhOPvBSZIWw1bBxwyTN77IO3WrwAzJopDR0bVGvygkXOcbbjGoTY5jA1Oek1S6AbaWHQe0SibQxB1D3Oafqsu6gyK/I5MUcICAycnEA==;sKw8UeNUZ1XhuWETFbCdUg=="
 ---

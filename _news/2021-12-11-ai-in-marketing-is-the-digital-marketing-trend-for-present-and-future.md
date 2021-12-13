@@ -46,21 +46,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
-    publishedDateTime: 2021-12-08T23:46:00Z
-    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
+    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
+    publishedDateTime: 2021-12-13T16:28:00Z
+    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 55
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
     excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."

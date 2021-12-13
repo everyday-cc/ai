@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/1018EBE71CF573D802213C2786AF95B02A5
 webUrl: "https://www.publicnow.com/view/1018EBE71CF573D802213C2786AF95B02A5182B4"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Russia's MTS buys computer vision specialist VisionLabs"
+    excerpt: "MTS also pledged to invest up to $100,000 in start-ups in its accelerator programme. At the time, Alexey Posternak, CFO of MTS AI, said the investments would focus on start-ups working with language…"
+    publishedDateTime: 2021-12-13T15:12:00Z
+    webUrl: "https://www.totaltele.com/511964/Russias-MTS-buys-computer-vision-specialist-VisionLabs"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 39
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/ai%20head.jpg"
+        width: 450
+        height: 450
+        isCached: true
 
 secured: "l1nmmwf4yX0LlnmNuUkMK/i+VilmzRpD5Bp6jFNk8EB1pAJyVYktAhmiCDcxjtrWZQtUyOtVIiOxsQJPQUWZPzIfUWdn7K5HGEHPs54t2QUhqykWcmJc0wAR+QOBWg08OoKf5Tr0LTESVazvebxCWcyDhpnwYhHv/pCIULTYTqEfn8VrDJIRmnxMHto2eF6VOprWLoE9fLOdeMrZFOvGi0BTRWb6g5AOTu3PBTA52NR4yEakG5nDbcScrk09VoDoRrtklWl3TLiM6mBZuZK2YonGymvRcYKmSz3tdwGmlUZZVrxV607TQWHRgmAPdHvZQCAM0HwlZCYwkEVC7LjPuUwyw3O50kduyjtkNz9zuk4=;NJq+uy3ChBChT2oFEhw31Q=="
 ---

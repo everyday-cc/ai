@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-i
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human-like brain helps robot out of a maze"
+    excerpt: "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,"
+    publishedDateTime: 2021-12-13T15:29:00Z
+    webUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg"
+        width: 1152
+        height: 1536
+        isCached: true
   - title: "A Synthetic Humanoid Robot Might Soon Fly Thanks to Iron-Man Jetpacks"
     excerpt: "Roboticists at the Italian Institute of Technology (IIT) strapped a fully functioning jetpack onto their humanoid robot, called iRonCub, a report from IEEE Spectrum reveals. While several outlets have unsurprisingly drawn comparisons to Iron Man,"
     publishedDateTime: 2021-12-09T16:12:00Z

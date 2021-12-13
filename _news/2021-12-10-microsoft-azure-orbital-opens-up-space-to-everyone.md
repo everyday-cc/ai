@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Microsoft Azure Orbital opens up space to everyone"
-excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
-publishedDateTime: 2021-12-10T10:16:00Z
+excerpt: "“Built on Azure by Microsoft Research, SpaceEye is an AI-based system that generates daily cloud-free optical and multispectral imagery for the planet.” This technology is also enhancing Bing ..."
+publishedDateTime: 2021-12-10T10:30:00Z
 originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
 webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
 ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
@@ -120,6 +120,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "Dml6sExJxjh6XN7EsyJWtncVPameKemkeEKiBtzRG+Cji/tTHkyGtjShDunuclgH1T8627AmxrANxaE8iYMKRtX1iTvrKJacOMe83m+JcLov6hOF6S9jPBq9XjNZ8bnpf28/esw6HBcmSNfX4XxIJMwOAUdJs6Gx4Jvxp1vMeWO0PVm8W4i2zI1Ps8wbUEdEGSdOSxYOS8J9lkLeDBV1wQ9Voxq5mnBWd0LJgFs88oDTrKfm06mn/AYao8j7v1bP3nBG41Sf7xidW5/AXH8pZTu5Kq4Ry3V/XHtzGpNnVEe5nAeh8XRwnAZNPFy08Ka6/HKrKGGxt54W9CwIxtxcPCV+/vy0tZzUSgUL/7dFsnfMtdWAzEDPcU/Y5EJnODcfRRdcUGd/BRfiKnmSEnwwQpELMqyCYyNBEELRvsrvG07RjesgKQ92R0Jss/z5uUpcixd3CmotPgREeCWLMFVQ4aLE4XFTwx/VqWw1oZlveCFHmwAEH+Q1PgssWmE0Js+AjEk3PZkve8CmcJdTbMk6Vw==;xv3XarkP9u/LTmt0Ida9/Q=="
+secured: "XQVr667cnB9CoFKNeqp6OYQkVDdRmvhcOpA2FjXsScyBaYIWmcALiGiIvDsep8PnxgbqBYK7E8mF8x65JMA5HXWTC3HhvwbRwznM/sPna28kreTAohH2QpfIHReCietkiGIv/lygf4eEX+2VC0+aC2FbEWL6Y3tnbOF/5osCWwdxq0rzkIVFNIIJW1JaudvrMFkubTr+ZeEjfVCM5Jnc5rBOdQl2wMap1lxMy8AkUyuCW1msIedFgTtjcCPsksMX71YrjK1PPyojbhmBwuJk5GRpZlp9JuuP08ngJqzzgM1EF1/QJ20onEpt6ic31+tirju2w/cMf5JNuDskqLLVvuRrtrC/U5KYiMWwD5XtAfk=;EBbYW3ej27X/p6ADpXu1eg=="
 ---
 

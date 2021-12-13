@@ -31,93 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Simulating matter on the quantum scale with AI"
-    excerpt: "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry"
-    publishedDateTime: 2021-12-09T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
+  - title: "Headroom launches to combat Zoom fatigue with AI"
+    excerpt: "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings."
+    publishedDateTime: 2021-12-10T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 189
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
-        width: 512
-        height: 288
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/Gestures.png?fit=800%2C427&strip=all"
+        width: 800
+        height: 427
         isCached: true
-  - title: "Role of artificial intelligence in the evolution of digital marketing"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
-    publishedDateTime: 2021-12-13T03:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+  - title: "Group backed by top companies moves to combat AI bias in hiring"
+    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
+    publishedDateTime: 2021-12-09T23:16:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "The power of AI can be unleashed with a focus on ethics"
-    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
-    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Simulating matter on the nanoscale with AI"
-    excerpt: "In a paper published today in the scientific journal Science, DeepMind demonstrates how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
-    publishedDateTime: 2021-12-09T19:00:00Z
-    webUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-simulating-nanoscale-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nanotechnology-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
-    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
-    publishedDateTime: 2021-12-09T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
-    images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
-  - title: "DeepMind simulates matter on the nanoscale with AI"
-    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
-    publishedDateTime: 2021-12-09T19:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936901"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "r0p9CVARL9DuqbSHz7aLMWqEpTsVKS7ZGBx12GepLB2FkQXoBU+2v9mRPRt2IyD+hP2xKq8LXm/5exzyNYHFQ51xvpKcNO0pJSlUk2So4naZmUI9nxNkxIJCACH9lMbxZR8rq8ee6YM0qb3UXqbVOUu1be1fmADSbchjdBY1zfV4zZIZFMl2rnQhjOsSwOA0dmacUY3QnFJLi2SMdsNbZrKfZZtqjSXF6a7j/71LHG7LZYKO8CpYONAyzy44bJM0g/bRY0Gb815Dz5qg9YhHsEDLIR2+OYPS6gVcTqSp9kMiU+avCoTVrkV/gqyB1X1GbzAWKe7zmEBJnVuy0tiEIMvLySIK5nIgxlVkhLqyX5Vocxm1Mo/Ik0wbxDt7vY1TQBuBZk3P1Bbhd+HgKV1Vw2BCPG/Bk/WxcasJG62RJMDLrO50InsG7l+W1xTLCF6/3b7DZXVJew72Eh9HB5ef/dDFSTOTn0oxBiPfM1xP/yI4yUGyk6tp246kOlHnD7znvyo+xU0195LML2Z3Ran/sw==;xAHo5nL8tatYDBJSKSpSVQ=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 414
     isCached: true
 
-related:
-  - title: "SMB Lending Fraud being Combatted with Fintech, AI"
-    excerpt: "After almost a month in service, Linear Financial Technologies has seen success with its machine learning fraud detection program, Linear Defense. The technology is used to help prevent fraud in all stages of small business lending."
-    publishedDateTime: 2021-12-09T00:00:00Z
-    webUrl: "https://debanked.com/2021/12/smb-lending-fraud-being-combatted-with-fintech-ai/"
-    type: article
-    provider:
-      name: deBanked
-      domain: debanked.com
-    quality: 39
-    images:
-      - url: "https://debanked.com/wp-content/uploads/2019/04/onlinefraud.jpg"
-        width: 817
-        height: 586
-        isCached: true
-
 secured: "o5ZmGQjqZnBGCr9n7b8g2KQSbCbyxuPMIfG31S2ZViRL4DcX0nMIjtwJUwa4GAH7PjoWVamJfNigrsWTlaCHUJFImwrj+LLsjoCetM3nkirrvisknL3AG6U8C20hmnpMatCvC4E+EA/mAp9Q6SNpI8BMtmaheImO7yeHqXgO/HDbTUBsgzMeIAFWK7e7QRQyCe8at8yccqO/+Ucd7RaU9O+LXdYBXb6s0qjdv0cZopSRYAPovDikLGBd+I0XtOpj2g67fW4GlaPoFUshd8CQ944alPIwnKtg16uviYjpyHQ45AO4dmBpe2jnmdzvz9fXOY+rPI93oANOJP1blal5L0g6f9Ox1mgnpBnjTlEWQFE=;/c+R0zVJnkBGhu31Y0QkvQ=="
 ---
 

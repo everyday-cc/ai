@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS brings no-code to Amazon SageMaker machine learning"
-    excerpt: "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required."
-    publishedDateTime: 2021-12-09T00:04:00Z
-    webUrl: "https://www.arnnet.com.au/article/693654/aws-brings-no-code-amazon-sagemaker-machine-learning/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 71
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_m_166316213_2.jpg"
-        width: 472
-        height: 315
-        isCached: true
   - title: "Amazon Introduces SageMaker Canvas. Just Another ML No-Code Platform?"
     excerpt: "Amazon SageMaker Canvas aims to help business analysts build their own ML systems without dependence on data engineering teams."
     publishedDateTime: 2021-12-09T08:30:00Z

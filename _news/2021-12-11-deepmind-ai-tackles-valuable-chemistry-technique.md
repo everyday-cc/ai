@@ -123,6 +123,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind simulates matter on the nanoscale with AI"
+    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
+    publishedDateTime: 2021-12-09T19:34:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
   - title: "DeepMind neural networks open new window to understanding electron interactions"
     excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
     publishedDateTime: 2021-12-09T19:14:00Z

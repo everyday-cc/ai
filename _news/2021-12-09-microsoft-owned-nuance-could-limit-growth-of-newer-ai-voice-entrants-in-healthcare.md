@@ -41,8 +41,8 @@ related:
         height: 3105
         isCached: true
   - title: "Microsoft Azure Orbital opens up space to everyone"
-    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
-    publishedDateTime: 2021-12-10T10:16:00Z
+    excerpt: "“Built on Azure by Microsoft Research, SpaceEye is an AI-based system that generates daily cloud-free optical and multispectral imagery for the planet.” This technology is also enhancing Bing ..."
+    publishedDateTime: 2021-12-10T10:30:00Z
     webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
     ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"

@@ -44,6 +44,22 @@ related:
         height: 800
         isCached: true
   - title: "Human-like brain helps robot out of a maze"
+    excerpt: "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,"
+    publishedDateTime: 2021-12-13T15:29:00Z
+    webUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg"
+        width: 1152
+        height: 1536
+        isCached: true
+  - title: "Human-like brain helps robot out of a maze"
     excerpt: "A maze is a popular device among psychologists to assess the learning capacity of mice or rats. But how about robots? Can they learn to successfully navigate the twists and turns of a labyrinth? Now,"
     publishedDateTime: 2021-12-10T22:28:00Z
     webUrl: "https://www.eurekalert.org/news-releases/937565"
