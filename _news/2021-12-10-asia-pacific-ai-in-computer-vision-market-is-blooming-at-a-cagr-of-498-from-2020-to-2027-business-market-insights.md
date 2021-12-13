@@ -21,6 +21,34 @@ topics:
   - AI
 
 related:
+  - title: "Global Edge Computing AI Chips Market 2021 Business Overview, Size Estimation, Research Strategies with Share Analysis and Forecast to 2027"
+    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Edge Computing AI Chips Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Edge Computing AI Chips market."
+    publishedDateTime: 2021-12-13T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Research Report (2021 to 2026) – by Technology, Product, Distribution Channel, Application and Region"
+    excerpt: "Dec 09, 2021 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed ..."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-to-2026-by-technology-product-distribution-channel-application-and-region-2021-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
     excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
     publishedDateTime: 2021-12-10T10:46:00Z
@@ -48,20 +76,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/10/EP_a6ed0image_story.jpeg"
         width: 480
         height: 400
-        isCached: true
-  - title: "Worldwide Facial Recognition Industry to 2026 - Players Include 3M, Aware and Ayonix Among Others"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market reached a value of US$ 3."
-    publishedDateTime: 2021-12-08T19:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-facial-recognition-industry-to-2026---players-include-3m-aware-and-ayonix-among-others-301440515.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Artificial Intelligence In Genomics Market expected to drive growth through 2026 made by top research firm"
     excerpt: "Global Artificial Intelligence In Genomics Market Research reports published by MarkNtel Advisors, provides a complete analysis of the market and is"

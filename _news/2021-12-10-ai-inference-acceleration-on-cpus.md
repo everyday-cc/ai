@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/"
 ampWebUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all"
@@ -39,7 +40,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.digitimes.com/newsshow/20211213PD201_files/2_2b.jpg"
         width: 1280

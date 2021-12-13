@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "South Korea to test facial recognition to track Covid cases"
+    excerpt: "Human rights advocates and some South Korean lawmakers expressed concern over the use of facial recognition - Click the link for more details."
+    publishedDateTime: 2021-12-13T07:29:00Z
+    webUrl: "https://www.i24news.tv/en/news/technology/1639379665-south-korea-to-test-facial-recognition-to-track-covid-cases"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/d9/8d/79/6f/32/1f/ee/5c/34/e8/ec/7c/6b/f5/35/7e/d98d796f321fee5c34e8ec7c6bf5357e.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "lL9Oe6OrIQwvDioOg3rdHXKgOUzxWf6XCsF6+p2IvEzEI1l1auuAOfbim8A6yMLtoXZdxP7BTCqClvMVM4Evofk+KrzIGAPRqWzzbPRBpEoOpOOWeQgRM4jcrjM+2sFVsnZ5AomN91WfL4ZbjEroWXdJvlrMGfOqdFCou7o0HXuCWaVvXp/3dz9cD+8jrVpzMVKS5zX1n28p31bMs30bODRY/lxjIevSv+QAJrd5q69b1o89VwNSAIBKkHkQAIZ3wpgjPllxBb2D0RV/9BzJDuT8uS1H+tJ8N4jGkLdF9CbZ1HZ8FGPTAKS+ScQvVLYrqFnPoQE7OqVCx1YoWVEzo/8Kqqvi/iZvN8uIZ+WjdvujHDwoNFfZ4CBBPSVOGOt2EhsjvT0T1HTxBR5MbNLYVKDNaLqJc5iIviYPtuDEhqrSMh/Rf4M0tE1wR7OERTH3LIks8m95HJwbhr8W2Oav76rNbt7Q2/JyB8/elw+xoyUjyNWBN3d0IEcYrvwUqraEu6+WVbAj4t6OyxSzSlpULg==;erGkScQRLjc+r4xJzO80oQ=="
 ---

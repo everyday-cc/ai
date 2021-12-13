@@ -10,7 +10,7 @@
       "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -229,19 +229,19 @@
     {
       "path": "_news/2021-12-08-rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention.md",
       "title": "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention",
-      "excerpt": "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology. This technology enables quick and accurate reconstruction of the coronary vasculature during angiography into a 3D model.",
+      "excerpt": "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -251,11 +251,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:06:00-08:00",
+      "publishedDateTime": "2021-12-08T06:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

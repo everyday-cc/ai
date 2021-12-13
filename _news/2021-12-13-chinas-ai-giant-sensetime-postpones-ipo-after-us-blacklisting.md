@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpone
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 109
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-13T07:47:00Z
 originalUrl: "https://www.digitimes.com/news/a20211213PD201.html"
 webUrl: "https://www.digitimes.com/news/a20211213PD201.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.digitimes.com/newsshow/20211213PD201_files/2_2b.jpg"
@@ -35,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all"
         width: 1200

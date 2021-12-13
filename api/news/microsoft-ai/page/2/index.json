@@ -89,6 +89,40 @@
       ]
     },
     {
+      "path": "_news/2021-11-30-atento-introduces-xtrabot-an-omnichannel-solution-for-automation-of-voice-and-text-customer-interactions.md",
+      "title": "Atento introduces Xtrabot, an omnichannel solution for automation of voice and text customer interactions",
+      "excerpt": "Atento's new automated omnichannel platform allows conversations to seamlessly flow across all channels without the customer noticing, introducing voice and text bots at the first level of interaction to solve common and/or simple queries Atento designed Xtrabot to be integrated into any cognitive platform available on the market while allowing continuous development of the platform's intelligence and related capabilities without limitations According to Gartner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
+      "originalUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "publicnow.com",
+        "domain": "publicnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-new-azure-ai-vms-immediately-claim-top500-supercomputer-rankings.md",
       "title": "New Azure AI VMs Immediately Claim Top500 Supercomputer Rankings",
       "excerpt": "Visual Studio coders who dabble in artificial intelligence projects can now take advantage of new Azure virtual machines (VMs) featuring 80 GB NVIDIA GPUs that immediately claimed four spots on the TOP500 supercomputers list,",
@@ -1308,49 +1342,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-cognitivescale-enables-explainable-ai-at-enterprise-scale-for-informed-decision-making.md",
-      "title": "CognitiveScale enables explainable AI at enterprise scale for informed decision-making",
-      "excerpt": "“The problem is very difficult for them,” said Robert Picciano (pictured, left), chief executive officer of Cognitive Scale ... healthcare and financial services, with evidence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
-      "originalUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Robert-Picciano-and-Shay-Sabhikhi.png",
-          "width": 919,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

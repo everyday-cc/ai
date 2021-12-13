@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
-    excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
-    publishedDateTime: 2021-12-08T18:47:00Z
-    webUrl: "https://techstory.in/suki-ai-raises-55-million-in-series-c-round/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Suki.Ai_.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
     publishedDateTime: 2021-12-09T06:00:00Z

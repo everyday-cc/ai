@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mobile World Live
@@ -40,20 +40,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Ann Arbor AI chip startup hires Qualcomm exec as CEO"
-    excerpt: "An Ann Arbor startup founded by two University of Michigan professors aiming to make microchips for artificial intelligence applications has lured a new CEO from among the top executive ranks of chipmaking giant Qualcomm Inc."
-    publishedDateTime: 2021-12-08T18:33:00Z
-    webUrl: "https://www.crainsdetroit.com/technology/ann-arbor-ai-chip-startup-hires-qualcomm-exec-ceo"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Keith%20Kressin_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "kLNx1q7YS70GMDFizmvPXxRy5xsbLMirOd91gVo50wkg6gxkXYNH0MJtyhWyQ0yGAf+ZKQL3/WKFy4zqcJXK4+Kh4SWyZhSjZigvDjJwY9/bSwZcngKkkO5/jTEnN4NroPMRYOP+jESkmde09R+p/JkPiqb/6nslyzlWZFp6gZXztY4wVEIaCaB6CeAkpITIeQZQvVPHBAQCw310QQB6yUEL+sYlDkWX9Yfpqt6MoxaoFHCpazq7N6s/3FDeUaJo8800j6aTRnDf1DVWUx7gpf01/XMU7PV07i+I6ID0aV0EuXnI1vL+bcsLjYsAa32NT0ovxs+WxL5NxmdVULpkMwiovwWqWV9+DMqNU8RK49bkDXHAxreAqPfGTbSV4VHygcPGcJt2IsGH9ZrXUNzFMXMQdjrqI9rKrtcD+lRJj3LiCCiJ7uLQZBHDQExc0p3v/rVykZcxWyTt1WDdteK0vsz/QcyEttdUwb0D+7zTc2/xzJQOJ4dbBKLd7cj4tPPaje/k8NgiQhuEjIS/Bx2urw==;0SlbGzrsXOceWXU0Om/fPg=="

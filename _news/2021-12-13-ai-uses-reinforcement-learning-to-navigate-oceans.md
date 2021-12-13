@@ -57,6 +57,20 @@ related:
         width: 333
         height: 499
         isCached: true
+  - title: "Making robots nearly as nimble as human hands, with tech powered by AI"
+    excerpt: "New technology was developed by Eureka Robotics, a spin-off from Nanyang Technological University.. Read more at straitstimes.com."
+    publishedDateTime: 2021-12-13T10:21:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/making-robots-nearly-as-nimble-as-human-hands-with-tech-powered-by-ai"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/12/13/mi_eurekarobotics_131221.jpg?itok=SPl-Jv8L"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "dnzt4YQDQ/gCh8/M0ECel+Leya3I79p+L7XLy6fRxrWRcEHHt3jP6wxuqtUbljlmGbgxk8VVOGG22iaVBdBjaT+dGdMyb/9z58nlSMWIfC1Lm6bjwu/2tGj4sxGFtKioNuJFYzdzWH3ehlMifDEwsSz2dATtUVKmOvrx3rRWn55ndcbMgI1561R36RGgM1VIioGbda8q+cCRhN1HWuHBIy1XP9xwYQC+4hf37Lf4dukhaXpt1zC+lPXrB+RpAqr8B4kRdsTRAaL6csYeHIOAnlZnHyq8gK7KfVNGJiXlTFiBD4uKwVa9wOTTlWaXeuH3daZqaUT0E+w+wY3eclFebf3QIGE38N0plDFIuZBNIIfdKZvCMNKsWUM4lKYckNztnn5bGGJOMfjjafS/Vp0Wav5gO4BrEL8caPxtmzve9d86LNdyfoluyjoGzliWyTuzOYlKtB7qhqu9a/k4mViSYAqDxfORfcFjupZvpJraGT6zevlO879ZywLbvcb8cJIN+SEroWfkrX8FzM5g8Dk+gw==;KIRvQ2UF3g/Z7K2OoFg7ZQ=="
 ---

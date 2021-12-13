@@ -63,20 +63,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Windows 11 Insider build 22518 brings new Voice Access experience and more"
-    excerpt: "The Windows 11 preview build 22518 introduces Voice access, a new experience allowing people with mobility disabilities to control their PC and author text with their voice."
-    publishedDateTime: 2021-12-08T17:32:00Z
-    webUrl: "https://www.onmsft.com/news/windows-11-insider-build-22518-brings-new-voice-access-experience-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 22
-    images:
-      - url: "https://blogs.windows.com/wp-content/uploads/prod/sites/44/2021/12/ime-switcher-ui.png"
-        width: 618
-        height: 622
-        isCached: true
 
 secured: "kWxdRY0V9kYt7DDm97iTAgF/kBz4Xl85rFZ41HDhVQVStK0vE6nZ0kZL1MRkJKZ81DIpny+bg5BiS6NDNAfY18fYbdtZ2pQ/9Lg/t/wbQCvixPjczLYZ+26gn1aNN/hwixCeMbZpaEG2YqtqSNv43TvRkz4UZmn2FPDkih+g+iy9+QVCpliCzGmktbUPEsa8kCiRznlSSLJ5hegx8+FO5k4efRM1yofZeuB/v/NSvSJpHbO9Yw3EUENQ37CoNB9+8/N4YfBpQogiPpvdZyqTasGy9cSW5XpfOAA3PvSl2kzcDHi09Rmt1fotOQ2wFWmFSQUi8h4uuufevpPC73Z/QHk7aJC/ZfEuTgigY6+pnqT3Q104NPaZBxfNSvM0lZWNjN709UwIC9njku7I/I4ysuYnL0piw2d7WyzBndfkSziyCmzfAaEKEODpxUUw5YAFx/eCjSg/qXJtGQ6DqbCYXjVv6LKzZpSn6gyCJshk/KMmA2y6bQO2EellEb3j8t0swNSHZb/gqo+9qkW+YZ+igQ==;gbNHR0melbxOtHz9CuPT4Q=="
 ---

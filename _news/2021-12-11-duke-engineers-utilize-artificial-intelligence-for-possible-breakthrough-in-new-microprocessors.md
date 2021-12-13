@@ -42,6 +42,20 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "AI driven APOLLO predicts processor power consumption"
+    excerpt: "Engineers have developed APOLLO, a new AI method for predicting the power consumption of any type of computer processor over a trillion times per second."
+    publishedDateTime: 2021-12-13T08:21:00Z
+    webUrl: "https://www.theengineer.co.uk/ai-driven-apollo-processor-power-consumption-duke-university/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2021/12/processor-2217771_1280.jpg"
+        width: 940
+        height: 529
+        isCached: true
 
 secured: "OQ89pOCVOOWWKT8W18j4T4aYyuPy3oO0eVzA71OQUfXK8Jtb0/MoygYWJa5dWYQeK8P3Oz2DEkJqWQRO/JbxcJzqPV6Jre+PZ4jRS3zKXzz1lsGp85lamfmaLx5lhluzlMtjNwPd3MWu48fVzfbQvNjUHPJA0ifPWc8Es+gvoeem9Ttd3xVSt+avhQu3HsEh0TEJPZY6o1MdIBuL05VsPlIRZPVxArdXySIJ2uHPitNiZ66VCbCQ1McOpQ50TyBPFo8qWQcUxxOvE4T3pN6Y5+hJki0kqr1jdYkLmtptIScF/g5nbd11wkgHZ3JtAiGlwwZ+Oqnp4lTxDlNqvXRz7coRW+4tW6Ujv0wwKvuHLgRTgil1VWUJ8PrjNYWHqSemIRIKFk43mjFrRoT/cG5JY1ndOfKpMungRTIglpCQuRWYZVeVj/fodHYrxNYXT/jwKp9Z8PcxP2btIwBsP8X4Z2/74EvoQnejnWsmJdzeYIbqpT8gUe4ArBMtLPbdM7lPubRWk4nnKPnDpwq21FtnWg==;ISRy1rS7VLIA+edlx235tQ=="
 ---

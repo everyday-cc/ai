@@ -42,20 +42,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "Ann Arbor AI chip startup hires Qualcomm exec as CEO"
-    excerpt: "An Ann Arbor startup founded by two University of Michigan professors aiming to make microchips for artificial intelligence applications has lured a new CEO from among the top executive ranks of chipmaking giant Qualcomm Inc."
-    publishedDateTime: 2021-12-08T18:33:00Z
-    webUrl: "https://www.crainsdetroit.com/technology/ann-arbor-ai-chip-startup-hires-qualcomm-exec-ceo"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Keith%20Kressin_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "QgoIUZHlZaKJ644RMWSoucRLNe8hnqx6wZkkyZOx/rZ2SEEqQGfitSJKd6ZEO08CLFhlPZ1wcJsMv4fajClp65pJKr1afbYqAqcZ1f300s0924WBPXXX/Mwg/0CRaixfqFjhJmCJE9rr0qKRZ8aEb6dbgB/sheVeZL8F3VYfvAtS412KyARUpMexnBJgpcy07h3z0GoZt+nfVjvgEduncI5fuQHz8/Ky/o5ALHe9xZNLXJoVIUQqw3XUFtFn4HweHIfEO1oAXiZm3ichXn2RRdmZSCrtHiPqHxH2TSWpcboUAL1Hz6Pf0wcNTUsSgiJAxeSLGuL9L3gSrrUMPIyVs+T/mnjLiPwv+DfDminSCqw=;RMF60PCyTouijdDZffh0Ow=="
 ---

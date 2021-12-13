@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -42,6 +42,20 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2021/12/duke-circuitboard-e1639152035805.png"
         width: 732
         height: 412
+        isCached: true
+  - title: "AI driven APOLLO predicts processor power consumption"
+    excerpt: "Engineers have developed APOLLO, a new AI method for predicting the power consumption of any type of computer processor over a trillion times per second."
+    publishedDateTime: 2021-12-13T08:21:00Z
+    webUrl: "https://www.theengineer.co.uk/ai-driven-apollo-processor-power-consumption-duke-university/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2021/12/processor-2217771_1280.jpg"
+        width: 940
+        height: 529
         isCached: true
 
 secured: "NVcRjoNhFv7gZWQqsvXUIV1ijro0OuW0S6JhYcGN27AmL+quGEAq7h5VX2E/rJQMVC4ia8GCVL9vdSmpbzxEHD/VUgMkYkKw3+EgG11+yvWOYOkDDKBi/ZdkTYKuOEv5/8kOmiy4l1B7c4ge55lK3rs+1A8w6hOmc0/MUnVW2MiXObssNG/U0ebuDy1vDexcEnPqS2UfX0AsmHOMC6RAS8kKXoHsUWV4ZazEUyHOhQxBBQbQzz50bV/FjaD/nxtpV95BkScJKKuhhP6UmlnwMlSoQhzaVxS1v/0H4ZYqt5bGq/Vpb4vqC4FExYpvyL+DbROWr3PmHCUz9sPZk0bwa63eQuMJ6NxD+H7+Qbj+Xs1i/v7x0loU19JZ5yW4HWoG8NXrhHKSWu+2K3zMwG2GtpC563eHKedt+iq0dMeuY6RwgsmwXJ9MuiYs+xI38Wp4dFMrYmIQut/i1YCp+8zDfZWX1LLUD18mqa7AJpkWP33f8qb2AqeQHTjtgZY4cdKcikD20EqAu2COg4D9golNHA==;K/btatFPS6steScxIB/KKw=="

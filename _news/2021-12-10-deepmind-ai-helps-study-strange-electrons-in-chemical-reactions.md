@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind says its new language model can beat others 25 times its size"
-    excerpt: "RETRO uses an external memory to look up passages of text on the fly, avoiding some of the costs of training a vast neural network"
-    publishedDateTime: 2021-12-08T18:33:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 159
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "DeepMind makes bet on AI system that can play poker, chess, Go, and more"
     excerpt: "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games."
     publishedDateTime: 2021-12-08T22:30:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all"
         width: 1200
         height: 820
-        isCached: true
-  - title: "DeepMind tests the limits of large AI language systems with 280-billion-parameter model"
-    excerpt: "This is one of the topics that Alphabet’s AI lab DeepMind is tackling in a trio of research papers published today. The company’s conclusion is that scaling up these systems further should ..."
-    publishedDateTime: 2021-12-08T18:35:00Z
-    webUrl: "https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 96
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/f1IZ-bMNnRDmDTmMpOzYTQ4Xnbw=/47x217:1934x1351/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70244595/acastro_200730_1777_ai_0001.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
     excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
@@ -121,6 +89,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "In breakthrough, DeepMind's AI has cracked two mathematical problems that have stumped experts for decades"
+    excerpt: "For the first time, the technology has been used to identify mathematical connections that have eluded researchers for decades."
+    publishedDateTime: 2021-12-10T03:19:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://imgk.timesnownews.com/story/iStock-1284335972.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
     publishedDateTime: 2021-12-10T15:48:00Z
@@ -149,6 +133,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind Now Wants To Study The Behaviour Of Electrons, Launches An AI Tool"
+    excerpt: "DeepMind solves delocalization and spin symmetry-breaking with neural network and training the dataset to capture electron behaviour"
+    publishedDateTime: 2021-12-13T09:43:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-now-wants-to-study-the-behaviour-of-electrons-launches-an-ai-tool/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/562010-plexus-animation.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "DeepMind AI Tackles Valuable Chemistry Technique"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
     publishedDateTime: 2021-12-11T06:00:00Z
@@ -158,15 +156,6 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 34
-  - title: "DeepMind neural networks open new window to understanding electron interactions"
-    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
-    publishedDateTime: 2021-12-09T19:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936923"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
 
 secured: "phpsfFMlt3loazR8rUwzK+tIu/QzOKrwgRnpbQnIBkDWtnwxXAWuX8TT6qsyKJDDH5rgmKZIjRHyyQhUR53NcsweeBTFrFyiK9YvctYloKS1WYahHoqNPrary0I6UcVI4sE/ne32wyDF2YG6xVXc/mE3eImeE6H6Vx6EJuPtsyBj3CyNdmQWxp+rCkZhlqb2XOpTyOJWZnqCNYHwbW9I15Le6t/9jOJU/YFN2XtsFo+GgIPLE7Q8xXAenjpUBI4oLKIYPcNdngSXuj8HA3mWcznuiUvAOkFjoXSAUV402b88m2VxlaDGnAqcBQ9DbxI+jiRdqsN5XBhWvp30RyUt7Zpo+8MaB+3v2J8TmGKQrHQB1PkiTbB3EEckaCL6iZ0KyGmBwLyzmmoRWwa633l7Kgih65TyXBgfDu8VrCyFQ/GR+cBd4TxXnjDN0MMbDxSLQaTiPH4Pwc5yJytGc8M7eX3/AECup0d/mnBkG6SCiQOQc02rjIijJEiTJp063jgsMvRscF8gCHAA6Y7ydYEdVw==;sdkEEF3jvFxon3o4DjLkRg=="
 ---

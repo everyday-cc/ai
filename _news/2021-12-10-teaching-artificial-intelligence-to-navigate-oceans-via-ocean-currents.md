@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Making robots nearly as nimble as human hands, with tech powered by AI"
+    excerpt: "New technology was developed by Eureka Robotics, a spin-off from Nanyang Technological University.. Read more at straitstimes.com."
+    publishedDateTime: 2021-12-13T10:21:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/making-robots-nearly-as-nimble-as-human-hands-with-tech-powered-by-ai"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/12/13/mi_eurekarobotics_131221.jpg?itok=SPl-Jv8L"
+        width: 763
+        height: 509
+        isCached: true
   - title: "AI Uses Reinforcement Learning to Navigate Oceans"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are working on an artificial intelligence (AI) that can enable autonomous drones to use ocean currents to aid their navigation. With this approach, the drones don’t have to fight through the currents."
     publishedDateTime: 2021-12-12T23:19:00Z

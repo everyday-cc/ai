@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/558293/new-windows-11-build-tests-vo
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2021/12/11/1600x900/f5985478-2de3-11ec-8712-a64d0e3a1eeb_1634458457338_1639207766271.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Windows 11 Insider build 22518 brings new Voice Access experience and more"
-    excerpt: "The Windows 11 preview build 22518 introduces Voice access, a new experience allowing people with mobility disabilities to control their PC and author text with their voice."
-    publishedDateTime: 2021-12-08T17:32:00Z
-    webUrl: "https://www.onmsft.com/news/windows-11-insider-build-22518-brings-new-voice-access-experience-and-more"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 22
-    images:
-      - url: "https://blogs.windows.com/wp-content/uploads/prod/sites/44/2021/12/ime-switcher-ui.png"
-        width: 618
-        height: 622
         isCached: true
 
 secured: "fjylHD4UFJwE2tubovoZcslmZocd/v8J+z5YKtuKxSAvAb7pSqUcSoFHA3I3xksNIhlnxy1e29iOtiEJHoM1jVEbUeV5HbCvKiFZkWzbMgNrdU2GiF69co2BAuAkBnKpG/iLObhqFTvXwvOE8CZx7awEQ7GacmiMhsiGGTwz4ba3Ib4tc+WF5AKbaTVngp4t2XBLBxtKRanOzUWOhtPuT+Vxkl+359tWlmeNX5IFVx9JLRQYoKdG/qNgfSrjyRK2xCVDr2VmzhIGo95WlVGkAs0WYoUox1o5GpCBe3vRWL0T3nWA5XiqfDTqVkL423acXzsXwdmdB2Rw0CUkEbfqkzp21rbv5mkWZkvDRuifilYZKSanNpDHkKC71d3PY03V9QbNS1uPoJ5Q1rSeWZzTETrEMFPl70G1uUl1qPju49lIG2Nv+lcgTuuRiODV1ukT6XtG4X/PwSVGq4l5fE5TUGBGYV4e2+7GJ3K1jDX9gReB03zFgPjuTQsuH1bNmSVwRXGbt3n4lo4pc+h2XXzHjQ==;7DBaXIeWMhe9V6lNvL1TAw=="

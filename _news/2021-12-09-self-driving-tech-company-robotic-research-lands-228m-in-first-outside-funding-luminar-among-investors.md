@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
-    excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
-    publishedDateTime: 2021-12-08T18:47:00Z
-    webUrl: "https://techstory.in/suki-ai-raises-55-million-in-series-c-round/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Suki.Ai_.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Trucks catch up in self-driving vehicle race"
     excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
     publishedDateTime: 2021-12-11T16:00:00Z

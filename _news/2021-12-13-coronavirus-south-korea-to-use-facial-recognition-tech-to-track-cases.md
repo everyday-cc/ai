@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://content.api.news/v3/images/bin/79cca39fb87818408995242365d7a910"
         width: 1280
         height: 720
+        isCached: true
+  - title: "South Korea to test facial recognition to track Covid cases"
+    excerpt: "Human rights advocates and some South Korean lawmakers expressed concern over the use of facial recognition - Click the link for more details."
+    publishedDateTime: 2021-12-13T07:29:00Z
+    webUrl: "https://www.i24news.tv/en/news/technology/1639379665-south-korea-to-test-facial-recognition-to-track-covid-cases"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/d9/8d/79/6f/32/1f/ee/5c/34/e8/ec/7c/6b/f5/35/7e/d98d796f321fee5c34e8ec7c6bf5357e.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "ZF/ZRg49LCw/GxxE8FrnWnHBmj01LZfne4ewliHdGaGLjWYLrELxQpBC+bxdDoiicfNfgDg6Ss9uFdHVIO48KGncYwwjEgJTANHlQuGTOwpxI6jhrYc21EDhcQ5+Zvixcfy52WSfqRHo/Gbb8LofkOFfNhbn1H8wQPpEywiF10kTL7EVhi/YT8OqJaHjwaqwSNWel9Qko72KdvKls02/CE3QuMDbYIHdTY21VIdhzIV/AUTe0tKy5h1EKjFPsJYyuNrZa1D1H6vUhB0ofKHaoNuwQ5C8lbiJVJ4kHJN4U5rwHkoEm8rE+dBOl6JS0V3m4MVPIFD8l72YOrsEd5tCMHoF/dz0qs7MJvIbyZ59fFF68c/4tE2T3BDXO3F1OxYjL+rLvoCIZ5lnYFpQ/oUp77UkQLSvwEB95rZGDVZU7JOhVC/yU5Y6xP4dsZ+XVVRnwTQ0y7sLAkWxdncg8yUSCZ8AcUxN1s2nNiHoc61X05d27pJQ4k6VQhcT4Zrh2+T7Aug17bCi6B7al1k5tkcfeQ==;xsnOgJZLyhsXRwFzgjilxw=="

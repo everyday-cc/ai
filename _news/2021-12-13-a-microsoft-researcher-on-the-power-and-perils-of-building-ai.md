@@ -1,0 +1,42 @@
+---
+category: news
+title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
+excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
+publishedDateTime: 2021-12-13T10:11:00Z
+originalUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
+webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Inc
+  domain: inc.com
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek"
+    excerpt: "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of."
+    publishedDateTime: 2021-12-10T13:13:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+
+secured: "LbIMKgs8qG0fi7AVuEFXiYkE0/Gj+IIFTco+uSleYUErcbToXHsxL3+Xa2P5EUqGTuTMRNJYe60lt/Y7xlAxgvueVjrHnfsuNeE8k0sPTmXQ1uqCgXUTDdNW1zPaA9b1z0H7Rf9q31U7nyBrFcQu/ure/VDcUqvHPgEovYWyCDUkojfcK/5G3ZlFIc1hacv5XpUlDGUD+gQVUg31JskUnYs4Ed49W99O/ZtTXbfDeIEBFi6WJ/TZrrp7kUoE2sL+ToYnDP04npA9XLz/y5ouqOLJ0nxpQ8SG1V1UhEcdLzYcTioRHWkFdtSm02p7qUm5IbyEoqLHz/ed5jasDXPXRYPjP/+gUkDV0NOwVTTeKWY=;viwXlFjAalyk9NAUw8usSQ=="
+---
+
