@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Fueling Research Or Another Publicity Stunt? The Truth Behind Zuckerberg-Funded AI Institute"
-    excerpt: "Zuckerberg and Chan have committed $500 million over the next 15 years towards the Kempner Institute for the Study of Natural and Artificial Intelligence."
-    publishedDateTime: 2021-12-09T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/fueling-research-or-another-publicity-stunt-the-truth-behind-zuckerberg-funded-ai-institute/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 28
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ai-chan-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ZUcur9Cbhp65uP9sARox8FthE0gtY5XPtNVsla9DSluDi+KwL4LP6LOFM9RLbzOKUX76NgeEe6ZD0mcVEZIlJl3stxRmGZLn6XohASNmL/RXrp7wCJtLYvuBfgd0LSIWE1QXUU3da6FL92Bm38Hp8GIWCelcXNnKAYY62Bl+rmAYt+PGugrQApq1bDy7wu1h8xDMhMRiA1RURR8U0LOrkvWnRVJhYbqF4ruz8JRoPLnA06Sb7r1VqbU3TUjWjpFwGIbVaEt924hRAyjedyk5TAFPJ42GhIeBCfKavMx0DxNQe6g+gTxafUpYVCftfIatVBDk079Ffn1XsO1zurdNTsgoWQURC+0iKjaPJYwQg5s=;mndb3OkxlhJxjLick6jiyQ=="
 ---

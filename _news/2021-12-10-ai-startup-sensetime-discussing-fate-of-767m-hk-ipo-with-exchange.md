@@ -98,6 +98,17 @@ related:
         width: 1152
         height: 768
         isCached: true
+  - title: "SenseTime Delays Hong Kong IPO After US Investment Ban"
+    excerpt: "Chinese artificial intelligence company SenseTime Group Inc. on Monday told the Hong Kong stock exchange that it is indefinitely postponing an estimated $767 million initial public offering three days after it was placed on a U."
+    publishedDateTime: 2021-12-14T03:22:00Z
+    webUrl: "https://www.law360.com/technology/articles/1448107/sensetime-delays-hong-kong-ipo-after-us-investment-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1448107"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1448107"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "F1IwYFE5yo/pEDCikFd963Pld6ZNdGs3SYmyaAek4aet9tsec4Lu5z2uHLwC/Y/BiOMcqsD9Z+IKPiLQFyJ9X2UVaAj+C1csgRmS4SCABQlKTo3mGEliwOAJH0GrP45ckjkyGNO0fSWvTajvgI+s0xcpWw9TE7/15LFBKkxqUSnvg8T95u1/M1IXrcs6ymIYMegTBpaxDVsb996tCrgwuLnFLqUusNQtpACG3SjNaDmsRuHui4+MYfR1EeTC0vXItsBQlGHE0CUFI8Kqu3gNFBnTRma4TsfEeZ4yGLtDelL+zW0PvEWVzKmoaGNS4Vs3CGTxhSx+gNU0x/aTC5ne8JPmH5dLUJ5R+va5/pPmYNk=;u3q8b1IsmfaRmbF8+kYZoA=="
 ---

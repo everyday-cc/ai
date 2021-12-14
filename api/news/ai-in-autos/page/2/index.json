@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
+      "title": "Pony.ai begins paid autonomous robotaxi services in China",
+      "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "originalUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/486/17486/Pony.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event.md",
+      "title": "Optus deploys 5G standalone on AWS DeepRacer vehicles at e-racing event",
+      "excerpt": "Optus also reports that the AWS DeepRacer is the first autonomous 1/18th scale car specifically developed to help people of all skill levels get hands-on with reinforcement learning, an advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
+      "originalUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
       "title": "Robotaxis approved to start services in Beijing",
       "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
@@ -1247,101 +1325,6 @@
         "name": "Money Morning",
         "domain": "moneymorning.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
-      "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
-      "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "originalUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "publishedDateTime": "2021-11-21T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
-      "title": "Best new cars cheaper than $40,000",
-      "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/kGrbx7FCExYNdGnJvXn5pKDbKxg=/2021/11/19/783f4edb-3cff-46b4-8346-0e6a9679761a/ogi-rdx.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
-      "publishedDateTime": "2021-11-19T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

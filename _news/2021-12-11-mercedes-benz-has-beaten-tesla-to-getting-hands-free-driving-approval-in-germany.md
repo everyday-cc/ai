@@ -29,8 +29,8 @@ images:
 related:
   - title: "Mercedes Gets First Approval for Truly Self-Driving Car"
     excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
-    publishedDateTime: 2021-12-10T03:46:00Z
-    webUrl: "https://www.barrons.com/articles/mercedes-gets-first-approval-for-truly-self-driving-car-51639093613?siteid=yhoof2"
+    publishedDateTime: 2021-12-10T03:52:00Z
+    webUrl: "https://www.barrons.com/articles/mercedes-self-driving-car-51639093613"
     ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
     type: article

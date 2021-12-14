@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
+      "title": "AI models microprocessor performance in real-time",
+      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
+      "publishedDateTime": "2021-12-10T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
       "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
       "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
@@ -669,7 +712,7 @@
       "originalUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -921,6 +964,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
+      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
+      "excerpt": "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "publishedDateTime": "2021-12-09T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions.md",
       "title": "DeepMind AI helps study strange electrons in chemical reactions",
       "excerpt": "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix",
@@ -1116,82 +1193,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-self-driving-cars-will-talk-to-pedestrians.md",
-      "title": "How self-driving cars will 'talk' to pedestrians",
-      "excerpt": "Road safety relies on all types of communication between people and vehicles, and most importantly on a psychologist-coined term, \"communicating intent.\" As pedestrians and fellow drivers we're constantly indicating what we're about to do,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/auotnomous-vehicles-talking-to-pedestrians",
-      "originalUrl": "https://mashable.com/article/auotnomous-vehicles-talking-to-pedestrians",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02wJ36TpcwSH4cCKBYYDNyW/hero-image.fill.size_1200x675.v1638922501.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/auotnomous-vehicles-talking-to-pedestrians?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/auotnomous-vehicles-talking-to-pedestrians?amp",
-      "publishedDateTime": "2021-12-09T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai.md",
-      "title": "WisdomTree Launches Artificial Intelligence and Innovation Fund, ‘WTAI’",
-      "excerpt": "WisdomTree Investments launched the WisdomTree Artificial Intelligence and innovation Fund (WTAI). WTAI is a targeted investment strategy focusing on constituents involved in the development and deployment of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai",
-      "originalUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai?amp",
-      "publishedDateTime": "2021-12-09T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

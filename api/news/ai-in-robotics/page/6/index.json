@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
+      "title": "Cobi robot autonomously performs needle-less vaccinations",
+      "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "originalUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "publishedDateTime": "2021-11-04T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-flippy-2-kitchen-robot-can-singlehandedly-work-a-fast-food-fry-station.md",
       "title": "Flippy 2 kitchen robot can singlehandedly work a fast food fry station",
       "excerpt": "Flippy the burger-flipping robot has received an upgrade as Miso Robotics rolls out its Flippy 2 model. Taking on board feedback from a pilot program with the White Castle hamburger chain that started in Chicago in September 2020,",
@@ -1308,50 +1360,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-luxsecurity-luxembourg-sa-and-smp-robotics-collaborate-on-security-robots-deployment-in-luxembourg-and-the-eu.md",
-      "title": "Luxsecurity Luxembourg SA and SMP Robotics collaborate on security robots deployment in Luxembourg and the EU",
-      "excerpt": "They will be able to control the work of robots, located in different protected areas ... With video analytics, how would this scenario play out? It’s pretty mind-blowing. As soon as security is alerted, they can work with the video analytics tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/video-surveillance-ai-infared-camera.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
-      "publishedDateTime": "2021-10-29T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

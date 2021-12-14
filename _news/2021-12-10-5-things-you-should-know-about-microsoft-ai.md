@@ -103,15 +103,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "M2GEN Announces Collaboration with Microsoft to Advance Bioinformatics Solutions for Oncology"
-    excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through superior data and analytics, today announced it is partnering with Microsoft to advance and scale its unique data-driven solutions for the discovery,"
-    publishedDateTime: 2021-12-09T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-collaboration-with-microsoft-to-advance-bioinformatics-solutions-for-oncology-1031035161"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
     publishedDateTime: 2021-12-10T19:02:00Z

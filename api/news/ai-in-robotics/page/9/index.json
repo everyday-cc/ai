@@ -2,6 +2,60 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
+      "title": "A beginners guide to Artificial Intelligence",
+      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
+          "width": 1060,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
       "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
       "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
@@ -1315,49 +1369,6 @@
       "provider": {
         "name": "WBAY",
         "domain": "wbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-leonardo-the-skateboarding-slacklining-walking-flying-robot-that-im-deathly-afraid-of.md",
-      "title": "Leonardo: The Skateboarding, Slacklining, Walking, Flying Robot That I'm Deathly Afraid Of",
-      "excerpt": "I know humans are capable of building robots, but why do we need to? Has anybody ever stopped and asked that question before? I’ve seen those scary-ass Boston Dynamics robots that can dance,",
-      "sourceUrl": null,
-      "webUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/",
-      "originalUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://unofficialnetworks.com/wp-content/uploads/sites/88/2021/10/Capture-15.jpg?w=1000",
-          "width": 1000,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/amp/",
-      "cdnAmpWebUrl": "https://unofficialnetworks-com.cdn.ampproject.org/c/s/unofficialnetworks.com/2021/10/07/leonardo-robot/amp/",
-      "publishedDateTime": "2021-10-07T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unofficial Networks",
-        "domain": "unofficialnetworks.com",
         "images": null,
         "publishers": null,
         "authors": null

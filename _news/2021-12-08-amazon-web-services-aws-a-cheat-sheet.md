@@ -2,11 +2,11 @@
 category: news
 title: "Amazon Web Services (AWS): A cheat sheet"
 excerpt: "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ..."
-publishedDateTime: 2021-12-07T17:35:00Z
-originalUrl: "https://www.techrepublic.com/article/amazon-web-services-cheat-sheet/"
-webUrl: "https://www.techrepublic.com/article/amazon-web-services-cheat-sheet/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-web-services-cheat-sheet/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-web-services-cheat-sheet/"
+publishedDateTime: 2021-12-08T01:44:00Z
+originalUrl: "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/"
+webUrl: "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 899
     isCached: true
 
-secured: "N19RJO98SWuL+Jo1v+XuwZHM/jLbIhS9exahInK0G4Ll89a4S+RKpZJumas9vODSrWUOhrf4SeJxUiiDhoKWSEASGXjdseZ88SoLyK5vD3M1BhNuSiZ2oXN4i1HIdPpnmO+dznF9A5eUSpyUaO/1JzV1DZ/TIP8YntYmjTQ+fsjvWcSGWz59UMLSnv19a6bkQhn5DuZUqRfK6U4cJ/QKC3CYarUncnKnaIhHQW/fQYrTg52WlP2aYJBYCbM/jgo5W6/knc5CvpevpqP7cOT+BXEfyPSS+I1BzEhLXinmEn2+OuAqAHcgOwQCo94pRXjzJP9gj4WzPAuxN0vXCrlpVMI1YRG6/GJ3TEPYVsowQMs=;idR/JaveqajEOgTn0V8FYA=="
+secured: "qZsYNf3PMIoOD5h6Lsu77yQ5DcAKWvXJIh6lzpUcVaiz+w6auatmQm8nQIq/YccSBOGKFMZ4aCAdJDF6W4op43hunVTmjkdPr3hKR/GS8u6W8DiR5vM4UAQavU9WszO22gnmRZ09T3lbVss5UyreVs2XYTXufw//kgKhCR/6XDMFrvychSVysrEAaUvDoYckexmI6NipAnNWun626NmNwLnmXgQn45UaPmeCHYgkNyrNAJVpDmNz6WQQPDm2ApZuQ0qzj2VuqPuDWePLCahN9pVzWe8HxB9raUIeEbmmtOjRnfhTCn2RUHqqocLDOQKc8D7WpeAIoS8AmnKvV6ozKMw19zyysCcCz+UMmD7MS4U=;HiBzt3oOtKgEQM2NMRgiOA=="
 ---
 

@@ -138,6 +138,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Chinese AI company SenseTime postpones HK IPO after US ban"
+    excerpt: "It added, \"Our AI ethics council, comprising both internal and external experts, ensures that our business strictly adheres to recognised ethical principles and standards. We have developed a code of ethics for AI sustainable development, and we ..."
+    publishedDateTime: 2021-12-14T03:22:00Z
+    webUrl: "https://www.marketing-interactive.com/chinese-ai-company-sensetime-postpones-hk-ipo-after-us-ban"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/hk/content-images/sensetime.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
     excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
     publishedDateTime: 2021-12-10T16:57:00Z
@@ -162,6 +176,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "0PEMvNmh67t6+KW6Gg4Yr7pSMBtrPSh5iqKnlaaE/z0v3oyiUn4u1uqCVcDlDXbLylxhbWKRHitOE2VAgKq333JTFXWkp3ueK7bi7Xn6+CXr1kxNal8V+Tfer2p+i8eQUY6KY6jDiMCcSC1X1ciBnYvdNMqlfW1SHN1CMt4brza1KviUfBxtsLWoVVc3OaaWauBWa4aKygbFlMDCMfXbb3KDX6T+Lsn9LASmcIwpr6EGXMV5lPNXWDFEdgjzP8HNXqPO7rshxSuHPSllxPtNwPOTDsOgIxG3MtkH16u1XvAdf0DtonMTOjNWfZHU1gw6HuPmx82m5CloTJJK5gIO/Rxsu2mtZ1o6JwMzClwLz0A=;MLTBgEUaRFqbdCpxs3C3Fg=="
+secured: "mS/hbFofO+BrvRCIrds1qC0SboekJ/kb2FndFz9IpPq29aBU98j1BaIgNJzR03VN5agCxGNDRf2iCBFlMWQUtRKM4ghN4eylneTQ9eqdf0kNEhCsM8SGAk8z0UVO24E/jClBt7ldGaXNtDP3IT79xkUFsyzbddQ1doxKhKyOpK4FP17hd5kxdHB+lYwrxrO1Uw7mMYkJnnBVPNl43RGOY4s4g/USW8IpZLQLPTpAj9EuAgIg4aixntVwNde+hiVfoyB7fb7uU2/fXlhB3+haiHZlPmBHKEKsoaN5B/puF3CWwnmmoLcDoJUoB/aVWCWlQF0NtdY1F6F+1jP5PfPTWinfN3IKV/7n0TSi2YOlCI/5JoRnlj74uFJzKoVF6MuVU6O75dq5/ZFabx5p6RTg5YwvhdWePavQLs3BuQzgQS2onoAdx8ducCcJTxx+CmNi/5QoTVgrlnXRRJioDadnZK2Qybj9I26yT+ftMz9JX4IB8Ox0rpBULTQpGp1L37Hl0oHghh5z57+nA10ifPXg6Q==;d2W28e0WjPMZHzoSGCbMWw=="
 ---
 

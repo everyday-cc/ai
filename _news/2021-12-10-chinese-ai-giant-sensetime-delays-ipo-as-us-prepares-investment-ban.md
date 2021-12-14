@@ -124,6 +124,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Chinese AI company SenseTime postpones HK IPO after US ban"
+    excerpt: "It added, \"Our AI ethics council, comprising both internal and external experts, ensures that our business strictly adheres to recognised ethical principles and standards. We have developed a code of ethics for AI sustainable development, and we ..."
+    publishedDateTime: 2021-12-14T03:22:00Z
+    webUrl: "https://www.marketing-interactive.com/chinese-ai-company-sensetime-postpones-hk-ipo-after-us-ban"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/hk/content-images/sensetime.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
     excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
     publishedDateTime: 2021-12-10T16:57:00Z

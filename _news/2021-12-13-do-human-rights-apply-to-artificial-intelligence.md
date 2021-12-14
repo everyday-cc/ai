@@ -28,19 +28,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Could artificial intelligence violate human rights?"
-    excerpt: "Every day, humans interact with some form of artificial intelligence. But could AI actually violate our human rights? Some world leaders are already sounding the alarm."
-    publishedDateTime: 2021-12-09T12:32:00Z
-    webUrl: "https://www.fox5ny.com/video/1010805"
-    ampWebUrl: "https://www.fox5ny.com/video/1010805.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1010805.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 37
-
 secured: "reko/FeElJzZrTM1pqlzF3sy3LXAlHo/w/AjxCcr2GK+8ausBmQru3QqwmQLsUpEFVo7DoDIlfvZnbSBVrSvJEHcWvTkVWe0EjL9waalREEzTHJReIcGyRRjJLf0zgEiS/2EHiqWDyhYfKLXaKHLnMmPDlm80LqST1ohlKlO9OP3ThFD0sjvwSbhBRGVvzCnp7DzuoklwG/uYv1wBIaDwVDhrvqXKt3t5J9+qqwmlkehsmtIboKvc5HdzqEQR3HVeDF7pi7cdJOXSgFr+PAZvbfWWYWsUghjiIH/uUOkLwQXu96nH2kY69urNOMpbnNIMNSLY9jw2V3Cnk+FIg1TmUNPsxv5HF2vw2WwwJYWkK8stydWCKeiHOSwPcyG9elm9pprBgfNsaVU2nFjcpwrQ5xUTj1WuTUnq8GbYH1s0wCyBoXG17PjIisJ6vNfXufKDloLEksTq8xXxja8QE16qthsp/LPIBuN+bebOMbYIY10/l/zCfD3vhQsg0qJAIshwSCKsVYSnpLv777M2Sv/dg==;ELT7nFJeApXBmsjtAmTsjg=="
 ---
 
