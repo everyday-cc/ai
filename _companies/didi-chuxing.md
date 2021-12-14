@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "DidiGlobal"
   url: "https://twitter.com/DidiGlobal"
-  followers: 4106
+  followers: 4107
 
 size: 5,001-10,000 employees
 yearFounded: 2012
