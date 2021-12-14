@@ -1,10 +1,10 @@
 ---
 category: news
 title: "To see proteins change in a quadrillionth of a second, use AI"
-excerpt: "But, for scientists, “an instant” is not unquantifiable—the changes in the protein’s structure happen in the remarkably short amount of time known as a femtosecond, or a quadrillionth of a second. A second is to a femtosecond what 32 million years is to a second,"
+excerpt: "Then the AI extracts the complete 3D image from this group of snapshots and learns what the entire movement should look like, creating a sort of animated “movie” of it. “Using artificial intelligence at each time point,"
 publishedDateTime: 2021-12-12T12:37:00Z
-originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1&start=0"
-webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1&start=0"
+originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
+webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "1gDdAdjnSP5KrIoSYpyi5jzTfbnzbc+XP2TXcPV2IXu9OPm5GbLhneEbW1gpY+n9nzHuJcaPGnhS0+nvzLLv8NFUQUVUJZ1B5rTfIQH6dl59RHcEHCcmcsxj4QoXJyEx8wD4MKweEE5LUHX+exIsjBH7JUc5JaMuVW1hfCleWfdTY6oYv4dNJEnsDNL1wZsAGmOBquEnJefu3cqFnguHHJ2SLL7CQl2i7AmW08S0Gsgx8o2i63o6DRT7ykbIZlNUA/1aZspKH//Dc8VuPI1L+2Y8d6xmUQKFGb1xa18yd08HXk5YUZfYO3F+003YjbgR1abyPtRcn+KQafDaMktD0Q5gk3g4ONOfdfzz9V0khxM=;Qt83+KwjLaCRb/fmvFCozg=="
+secured: "MwI1WsXx9bBE+98G60xQFLhw9Q2dFzfqqwmM5NTEl/AUf2FQGNPcCN8d3tHh+vTVs8ubX1y1Q1Lbz1n4JaOG/4TO3EFqqz0gxgSDMho8S4XEV3nnGjqy6ZxEwhTlvWY58DBxvNxTTq6A6hC9P/ByFXTfswe2MoLv035dgmNLobZrSS81dxsfZnogIegzqSvPwERELSdKWYGBlQGkwohgMiF2vY//BxgMlq6myYBWugG5Xk/9FafSt78NMOXC2Stj+4qnJlPfI9PaNnMM/N2vrDD5poF48X1klmcDh7kSLZ+AlwiEJW4UWj2P3x2yn/VWXgQWmxHZIO1qJvHYgZwTeeE9b1FI0J9gsYbFc158Lu4=;mR41b5UBO8yMU9oRzLCY+Q=="
 ---
 

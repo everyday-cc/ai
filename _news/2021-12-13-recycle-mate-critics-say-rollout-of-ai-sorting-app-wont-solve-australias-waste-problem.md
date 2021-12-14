@@ -3,8 +3,8 @@ category: news
 title: "Recycle Mate: critics say rollout of AI sorting app won’t solve Australia’s waste problem"
 excerpt: "Minister says $2m app will reduce plastic going to landfill but experts warn the recycling industry remains under-resourced"
 publishedDateTime: 2021-12-13T04:57:00Z
-originalUrl: "https://www.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem?share=twitter"
-webUrl: "https://www.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem?share=twitter"
+originalUrl: "https://www.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem"
+webUrl: "https://www.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem"
 ampWebUrl: "https://amp.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/dec/13/recycle-mate-critics-say-rollout-of-ai-sorting-app-wont-solve-australias-waste-problem"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "i7k4inwBRKkXycMAHZYK1bfhxDq2T7JeTkqF35/SJdV34ppjR0SH2MQB3+Qfjko3sqmhBZ6l29wJaJbejSO9NPdsboQu2WpzqRMohbk7ryQ0WIib8FDZ9u4sa+ouACjgoXFI53BWeTdKvKI4jXFbkb1xrKM87CzC9MnI6khZpRVIj1u5RMZT9B8QfjkdviT0x6ZbiZEUHLe3Ii20ZSCp67hP2p/zyDsI02cA1A02AVdcIRj5UPzqcBzDO6JxRJA2pL3IJETKkHZA0mfRiKh3PWZHavxI7PuafqKzN/ET8DeI4TCzgLEweCu0PBZP7drHtwKHu0Sc6vwHr5+m8+lgb5zJ2X43RjSv1qMs/hQ3wv4=;cVnooil5j72V3wrQ6nl0Yw=="
+secured: "wFTaD42ORn2dSMyinxXByvQIg63kAdjfJfkxgAOB/Tas5JLW0gmv075wRHFPSRP0hLWAXP2/OFVj+zaOE1khMVrGDCRgdg0bJQfmccEZ4veCxbR7MjKOwAIzIi/Sr03QjCrbYQ6KHkn21zN6Qr2qo0WiSk8TM0FrHDs3iXtd0m4EHqwDKWLoD45Gyue0asb70etmDCayuo9kFmSiEM9Lf6+L0GbI46sNbeHyYeb8rck1ircoU7piFGAeOrGXXpG2BpTvnIPiXHaQ/911EBCfNcDfectItxFYNmwwP9ut8iWeWDTgQDJqPlxhTJaipJ08q+vDG8TJ9flIDohyoTa0WY/fY7+er/HURTlvFgQtlpU=;cTrmq/MxcSTrhzErFWkQaA=="
 ---
 

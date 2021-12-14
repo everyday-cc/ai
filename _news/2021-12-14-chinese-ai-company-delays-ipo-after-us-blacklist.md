@@ -142,6 +142,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Chinese AI-startup delays $767m IPO"
+    excerpt: "Chinese AI start-up SenseTime postponed its $767 million Hong Kong IPO after being placed on a U.S. investment blacklist, according to a Reuters report. Chinese AI start-up SenseTime 商汤科技 postponed its $767 million Hong Kong IPO after being placed on a U."
+    publishedDateTime: 2021-12-13T06:15:00Z
+    webUrl: "https://www.linkedin.com/news/story/chinese-ai-startup-delays-767m-ipo-4608713/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQFj8oIfSqsHNw/storylineheaderimage-shrink_400_400/0/1639375921097?e=1639540800&v=beta&t=sg6Pk97W7n0oy25CJfktHu1rh30eqPf7PxXEQnEJwv4"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "BDd6DhUqkErr1rEmPSu1cug+UNpXB48Sm6QlKcv8yppVwtVjBCFiK3F4RrJ3bTkcvlLczIISKdqd3qTU6PB8WiTnY5DSB5XWzG67ak9tct7VWsJgpv9/vFu1Z19FfoZaI1DVOGh1BVb+FDa4YkHkR8iC0+L7SmKoWUQrxb4YAvry2ljKZGoQBassI0oOn2jW+pi+larzduMzBvYFmnp/Glw5fClSOSDu4YswLVE6rQHB8D2vIxQIk8Z0yjMCZTP9K3YPLoln/yyroEBrBolHGllYV9xjfsq0IY22mXdBh5tJWK0wj7OREmbOu6Vn8junn6y37PzAqnGDWjq4HthpP5aXKDMj7MLboInwQGcl1z0=;NmorWckib85qA5SwhZuSXw=="
 ---

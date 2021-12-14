@@ -1,26 +1,28 @@
 ---
 category: news
 title: "New artificial intelligence centre opens"
-excerpt: "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The National Artificial Intelligence Centre has"
-publishedDateTime: 2021-12-13T22:39:00Z
-originalUrl: "https://www.canberratimes.com.au/story/7550471/new-artificial-intelligence-centre-opens/?cs=14264"
-webUrl: "https://www.canberratimes.com.au/story/7550471/new-artificial-intelligence-centre-opens/?cs=14264"
+excerpt: "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,"
+publishedDateTime: 2021-12-13T23:58:00Z
+originalUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/"
+webUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/"
+ampWebUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
+cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 87
+published: true
 
 provider:
-  name: The Canberra Times
-  domain: canberratimes.com.au
+  name: The New Daily
+  domain: thenewdaily.com.au
 
 topics:
   - AI
 
 images:
-  - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0a079703-e677-46c6-b848-2859736486e4.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
-    width: 800
-    height: 452
+  - url: "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/1639439534-Artificial-intelligence-centre-960x540.jpg"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -52,21 +54,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pentagon adds new role to lead, coordinate AI efforts"
-    excerpt: "AI & Analytics.. By Lauren C. Williams; ; The Pentagon is creating a new position to lead its artificial intellig"
-    publishedDateTime: 2021-12-13T17:18:00Z
-    webUrl: "https://defensesystems.com/articles/2021/12/13/ai-office-osd-dod.aspx"
+  - title: "CSIRO appoints inaugural National Artificial Intelligence Centre Director"
+    excerpt: "Following a competitive global search, CSIRO - Australia’s national science agency - has appointed Stela Solar as the inaugural Director of the National Artificial Intelligence (AI) Centre."
+    publishedDateTime: 2021-12-13T22:37:00Z
+    webUrl: "https://www.csiro.au/en/news/News-releases/2021/CSIRO-appoints-National-AI-Centre-Director"
     type: article
     provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 39
+      name: CSIRO
+      domain: csiro.au
+    quality: 36
     images:
-      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
-        width: 760
-        height: 368
+      - url: "https://www.csiro.au/-/media/Newsroom/Media-release-images/Stela-Solar/Stela-Solar-2.png?mw=500&hash=C80FC9B1652CDBE374647E685C9F8B5B"
+        width: 500
+        height: 334
         isCached: true
 
-secured: "gvYSJ0Evc7HZhBy8BbTNZJkdnAYf1w+1Z5ZllukjbTqFUuY4Fov5lEY+iY3RkKlGj5KYHW44Jg8uJLSrT1U03rw5+XlTKAAWpsGO4EPitKOdwANKoq3gjVuL40V7Bcef7cTYnq9PbeDb537mqhOf3QvhG+E2omJNP68Hh2oGkh1j0A4fH13VWfQ5p2E4OCiWwKMWaRpYu0GGGmd9M1QTvdoNw5cAflAKdT62uCVUUd+OsgLhtjfLnFgEK53k0/NEtvgSL6BST7L9EwsGNvK2p9YHL2j6QIozSaSegpM95mW68tR91lXIFOAHE1RyacTJBaL2kNFwgd6nskCMik2fmzNSOfFyiK3X0QmKFxSAp4Q=;JdLlSMuS4JRvvcOsAoUQhg=="
+secured: "F9oAVcDm3Yp1Z+5iowNLeL8Q8jUZT+a0cS8Qrx8TGyayEP/extJpR8W28f5fJWqFQkBnBr9+YZZ1OYTODfl2hOqUkMR2kClId/u6YSOsculvufbsrFAyNlcj5N79kfVv7hy2yKb3ZXVGofDe3ZwoH8pn8aktJTopJqFVQG4veyS8jpyuBBpIBYF5jfyal+SrB0E1HPILGNpyaNBIYIGqgFoBhwv5mdPOSY1htICJgG3G/2n/8Lq+1DKQYbQI9maB+fCc0I1/Cn9RsRuTDD2qLTBKtQO/KYwYDHYg3IjZbET/XtaSZ+tSr4xfbVUjLacN3OgKUNTYklc4bbSnZcDdotSZSokoF6QjerPbH9XMYDo=;f5aJqmiYrNAd3x18gFaZwA=="
 ---
 

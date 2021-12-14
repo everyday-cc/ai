@@ -7,7 +7,7 @@ originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 900
     height: 658
     isCached: true
-
-related:
-  - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
-    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-    publishedDateTime: 2021-12-09T09:42:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59343.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "WSosVbGZOwkswdXHPDg3kDOS9X1QYmDc8ECVekHWaNmQnk4AmBsf6gprrk9Me6hkT7MPr8fNff4RGRXaAaz0XFW5uyBFD6h1nzJR+GhGj7E8mFyn/MFuzxU79Xh3DVdm2HjoZQZOusVarPXLgtILnxCRcfPS43m5JvSu10wtUEjkacj8U7ZMNpd32EBCVdvqwdRgVhNaY9Y+kb+LH6nwzzaNAylCCPP371QT56L9bIQ2yXnEFiRwmitRgOykyAJDIuYRaRqv35OcFE+xzZu4tKfD/hu0EZgbvejBphXlYYz3b70t10nzfXY8PHb6uPo1Iso9tqoqIg1OmlxNQ01g8n+luoF4tCbsYb1GAC98A7JoeH2kW9bu/ZxaQVQaMM/a8qjs0WAKl3R46rws02aCsFrTqZvii5WjSwKaaiBC0qgRKuqVzsKGtfihejU0Cm5LZRb7jPFig+dl/5h0+hIWMK7I2RfZOx+ud8Sm6aUjPP0524h5Ln7WAvmr4V17xF6BSeh7KCh9q2jFgFwVjCfDcA==;5D8OY1xsQslzQQ/YLsHpYQ=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "A South Korean city will test facial recognition as a way to track the virus."
-excerpt: "A city in South Korea plans to test a system that uses facial recognition technology and data from over 10,000 surveillance cameras to track people infected with the coronavirus. The system will be tested in January in Bucheon,"
-publishedDateTime: 2021-12-13T13:03:00Z
-originalUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.html"
-webUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.html"
-ampWebUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
+excerpt: "Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier."
+publishedDateTime: 2021-12-13T14:16:00Z
+originalUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html"
+webUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html"
+ampWebUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
 type: article
 quality: 86
 heat: -1
@@ -152,6 +152,6 @@ related:
         height: 1109
         isCached: true
 
-secured: "ts7sXPT9lkh4XsKQ0Jj3K0jeRKaKGbs1NnrwdCAwsBKbKK8OSjS+eLknzaE9e/6uw+5jFN3vjGLQ3pMnFBmWVJteUeFuUEjWQS+x8zev9fz+ckreCroPW6T9BDWEOY4pOBUobn6LFbZZ3Pi4Y+aWCeEaxxGrjZA2OaOJyruc3xuEPXXGmRAiCzCZ8jN1WuxBLCsuVMecCAlt/o23HzBxqtzMMBVyBFXr67KASRWvlZI9HFuRcdYGzp4dszmz4cNkZKD/sdBUImLok9L2ut+Gnd3PrzakGJ+927fJH6el6nn1MaMpxpbohWUAHWDk7MF0XFo3TcZ30UmlyhQ3kjSSZCrWNNHxlr7hA94F5uYNAKeHhsiBXg2K/43Aw7PtG4grh2fWyUMHtt730edfKe34A5yt0T+L0mnX5y5mpt1j2VIsq6IX0nLwKslmGdd2ebtI0tc6YRgR/dj9YahLbSN2Yj2nYX1HFUn9Zs/mgN8SN+SSRhihqjuQfuKGIetK6ylPywFfqh/bAmM8qTek80PBHA==;ifP2KpFWGegK3/fMaWgbVA=="
+secured: "cdxDIUHcGvbFjXapiqgsdmdXZ8ps6v7kuu1aW33ryDFnUWPadpzx25Yh84GZvEZ9BqnfY3x6HLPqFpAwDQBhv8dr2PqxLBILhg/LrUeQ0/ToP0ziUxxOnoNtOD92oc0fdoGXzMKJSo0OtpqxBvGb+d3HrfH2Yfo8A8614wvf/emkuNrkH5sSNh6ciiM42VjHTcOVHJzEKShUzsZ3JhR7Mhjhp9TAVDQlC65+4V92c88L1tyc0e7MBPRGyaw4JwH6YNevdAKErXEk3hLArpw0wAWMm8lrgW8qwcUJNmPy4x3zLv5lRr3wYkFQY+x1Ws76s+LXxl1YmUTfBICDGhT25Ck1Yqoj35Jd9Y57OGntb/s=;58vPxnGKUUm09m2OmBcXMw=="
 ---
 

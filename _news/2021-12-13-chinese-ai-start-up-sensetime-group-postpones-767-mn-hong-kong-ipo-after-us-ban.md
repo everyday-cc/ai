@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "US blacklist puts China AI into local mode"
+    excerpt: "Artificial intelligence startup SenseTime is delaying its $800 mln Hong Kong IPO after the mid-deal shock of Washington’s investment ban. Foreign backers can be mostly replaced by mainland money. But the boycott ends the sector’s global ambitions and accelerates tech decoupling."
+    publishedDateTime: 2021-12-14T00:39:00Z
+    webUrl: "https://www.reuters.com/markets/asia/us-blacklist-puts-china-ai-into-local-mode-2021-12-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI startup SenseTime discussing fate of $767m HK IPO with exchange"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is discussing the fate of its planned $767 million Hong Kong initial public offering (IPO) with the city’s stock exchange"
     publishedDateTime: 2021-12-10T13:58:00Z

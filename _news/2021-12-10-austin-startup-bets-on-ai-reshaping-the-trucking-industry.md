@@ -49,20 +49,6 @@ related:
         width: 300
         height: 379
         isCached: true
-  - title: "Artificial intelligence revolutionizes modern art"
-    excerpt: "Artificial intelligence is affecting artistic fields and cultural projects, leading to a boost in investments in the UAE because of the special natur"
-    publishedDateTime: 2021-12-09T09:43:00Z
-    webUrl: "https://menafn.com/1103331479/Artificial-intelligence-revolutionizes-modern-art"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_74_menafn.jpg"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "GdlhF1gs/cNcTCJIuGQVkOCzDm6yhF8h/Eh4UhbaWnOn6EbxzKmoekYtjQCorGc0LMM0fcXA35uTL2oi3SCJJe1oAtECh1rjzLenxi14W5aTWLCbmFyYbzzwAjGHrVUx6J0t5ABmIUb/bfpVM+DeiFOaN1r3VnpsNDpCHouLEMLiFlYME1A7c84ZbBWiMBUFMUOHYlHgYKSdRslL/9zwDuMb0nz5Mh/RJOy+SEwCQ+t9gs80R6IOLb02OnjXvxElzXTbOP/MUkXE2j7/YR3ZWdQMad/uoRky7Mv8sTu/C7RYHQmvXpO94Td8gpoLd0uJUeJ6kt0+JAwKMLuu47vYEW8mjW4yHjzqId9fUZUAJ49iQ1b6KBaI5GXtt0Hn5HgMAPrm69YmdV4fTpimX8DyeZELQ2+b0TXhPK2vYqIZYLojpigM5iTXrATcK+M3baBlx+Elx+i3SGm4vSccpmauW9W57R8Tdx2KOi5XcvFOnyR1J0LfEPn+0ua1UpQbrbfnuFmrNQEgZ5bdzUSvGRtdow==;06uppqaKq34MkcYTbos7mQ=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud-related roles take up 10% of total jobs in November: Monster.com"
-    excerpt: "With ongoing digitization and adoption of emerging technologies across sectors, India is at the forefront of cloud adoption, and cloud-related roles are taking up nearly 10% of total jobs with 3 lakh active job seekers in November 2021, according to online ..."
-    publishedDateTime: 2021-12-09T10:30:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/cloudrelated-roles-take-up-10-of-total-jobs-in-november-monstercom-11639045267322.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/cloudrelated-roles-take-up-10-of-total-jobs-in-november-monstercom/amp-11639045267322.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/cloudrelated-roles-take-up-10-of-total-jobs-in-november-monstercom/amp-11639045267322.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/12/09/600x338/Monster_jobs-cloud_1639045696164_1639045696335.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Cloud related roles take up 10% of total jobs: Monster"
     excerpt: "Data from the online recruiting platform Monster.com indicates that the demand for cloud professionals has seen an uptrend with cloud-related roles taking up nearly 10% of total jobs with 3 lakh active job seekers in November 2021."
     publishedDateTime: 2021-12-09T12:20:00Z

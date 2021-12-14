@@ -45,11 +45,11 @@ related:
         height: 630
         isCached: true
   - title: "A South Korean city will test facial recognition as a way to track the virus."
-    excerpt: "A city in South Korea plans to test a system that uses facial recognition technology and data from over 10,000 surveillance cameras to track people infected with the coronavirus. The system will be tested in January in Bucheon,"
-    publishedDateTime: 2021-12-13T13:03:00Z
-    webUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/a-south-korean-city-will-test-facial-recognition-as-a-way-to-track-the-virus.amp.html"
+    excerpt: "Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier."
+    publishedDateTime: 2021-12-13T14:16:00Z
+    webUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
     type: article
     provider:
       name: New York Times

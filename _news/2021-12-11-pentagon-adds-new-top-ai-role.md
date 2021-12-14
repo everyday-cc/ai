@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New artificial intelligence centre opens"
+    excerpt: "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,"
+    publishedDateTime: 2021-12-13T23:58:00Z
+    webUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/"
+    ampWebUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
+    type: article
+    provider:
+      name: The New Daily
+      domain: thenewdaily.com.au
+    quality: 57
+    images:
+      - url: "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/1639439534-Artificial-intelligence-centre-960x540.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Pentagon adds new top AI role"
     excerpt: "Deputy Secretary of Defense Kathleen Hicks, shown here at a September 2021 press briefing, announced the creation of a new top AI post at the Pentagon. (DOD  U.S. Air Force Staff Sgt. Brittany A. Chase) The Pentagon is creating a new position to lead its artificial intelligence efforts."
     publishedDateTime: 2021-12-09T18:08:00Z
@@ -39,33 +55,19 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "Pentagon adds new role to lead, coordinate AI efforts"
-    excerpt: "AI & Analytics.. By Lauren C. Williams; ; The Pentagon is creating a new position to lead its artificial intellig"
-    publishedDateTime: 2021-12-13T17:18:00Z
-    webUrl: "https://defensesystems.com/articles/2021/12/13/ai-office-osd-dod.aspx"
+  - title: "CSIRO appoints inaugural National Artificial Intelligence Centre Director"
+    excerpt: "Following a competitive global search, CSIRO - Australia’s national science agency - has appointed Stela Solar as the inaugural Director of the National Artificial Intelligence (AI) Centre."
+    publishedDateTime: 2021-12-13T22:37:00Z
+    webUrl: "https://www.csiro.au/en/news/News-releases/2021/CSIRO-appoints-National-AI-Centre-Director"
     type: article
     provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 39
+      name: CSIRO
+      domain: csiro.au
+    quality: 36
     images:
-      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "New artificial intelligence centre opens"
-    excerpt: "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The National Artificial Intelligence Centre has"
-    publishedDateTime: 2021-12-13T22:39:00Z
-    webUrl: "https://www.canberratimes.com.au/story/7550471/new-artificial-intelligence-centre-opens/?cs=14264"
-    type: article
-    provider:
-      name: The Canberra Times
-      domain: canberratimes.com.au
-    quality: 37
-    images:
-      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0a079703-e677-46c6-b848-2859736486e4.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
-        width: 800
-        height: 452
+      - url: "https://www.csiro.au/-/media/Newsroom/Media-release-images/Stela-Solar/Stela-Solar-2.png?mw=500&hash=C80FC9B1652CDBE374647E685C9F8B5B"
+        width: 500
+        height: 334
         isCached: true
 
 secured: "sJun+csx1nsdrBWPuAOR6uyv6cV2AayL479MjCOpT7pveAcmYyG1gbTQipn/K0/Vi32mzGYB5KtC3td/pLKiafybpX1pSMYQRMqgZWqa3T5ICw+pyHpA5owQ5jhlaAf25KOSdwv04otzQEzFbuL8I9qBUUa/e/nUzi0L1BvjW61ZIyEP5Lv1IH+bNXnHzoKxeN6ZCcla5owa7ZK7hYlICRDQ3rzcswOsjGQAa1mgJVeBDEylYREnQCmYLbFG+K7rDQdoIuRIWgQIyzNsUrp0AK0n20nA7NpG0h3qitjQtdOt38e80KRiGJ75kCtFQJU+Shy6+Z8iq0Igbw1ZlLenoTuUHqJN/miOCVDF2MvliGE=;5TAwtjCiVRqwb3WJ9nItvQ=="

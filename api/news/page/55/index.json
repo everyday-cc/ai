@@ -2,6 +2,203 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-11-02-global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape.md",
+      "title": "Global Machine Learning as a Service (MLaaS) Market Drivers, Strategies, Applications and competitive Landscape",
+      "excerpt": "this market research report draws attention to key market dynamics of the sector. Increasing need to understand the customer behaviour, growing adoption of machine learning as a service (MLaaS) solutions by small and medium scale organisations and surge in ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape/",
+      "originalUrl": "https://chipdesignmag.com/global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-google-cloud-artificial-intelligence-ai-portfolio-review.md",
+      "title": "Google Cloud Artificial Intelligence (AI) Portfolio Review",
+      "excerpt": "These include artificial intelligence (AI) offerings that are increasingly ... Cloud Natural Language: Allows users to extract information from unstructured bodies of text. Media Translation (beta): Users can add real-time audio translations directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/google-cloud-artificial-intelligence-ai-portfolio/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/google-cloud-artificial-intelligence-ai-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
+      "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
+      "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
+      "originalUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners.md",
+      "title": "'Cooperative Perception' Could Help Autonomous Vehicles See Pedestrians Around Corners",
+      "excerpt": "New technology developed by researchers in Australia could help self-driving vehicles steer clear of pedestrians and cyclists without a direct line of sight, according to researchers from University researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/ar-AAQcvuB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/02/16eedec7efe894e56e6d335cb51ef357-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
+      "publishedDateTime": "2021-11-01T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+        "domain": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
+      "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
+      "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
+      "publishedDateTime": "2021-11-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-ai-powered-camera-surveys-scenes-to-auto-capture-memorable-moments.md",
       "title": "AI-powered camera surveys scenes to auto capture memorable moments",
       "excerpt": "Canon turned to the Japanese crowd to fund development and production of an AI-powered photo/video camera that automatically captures scenes unfolding in front of it. Now the company has launched the device in Europe as the PowerShot PX.",
@@ -963,239 +1160,6 @@
         "Machine Learning",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-intel-habana-ai-accelerator-becomes-available-on-amazon-ec2.md",
-      "title": "Intel Habana AI Accelerator Becomes Available On Amazon EC2",
-      "excerpt": "The Amazon EC2 DL1 instance type delivers up to 8 Gaudi accelerators with 32 GB of high bandwidth memory (HBM) per accelerator with 400 Gbps of networking throughput and 4 TB of local NVMe storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "publishedDateTime": "2021-10-31T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-huawei-ai-speaker-2e-launched-available-for-purchase-in-china-for-199-yuan-31.md",
-      "title": "Huawei AI Speaker 2e launched; available for purchase in China for 199 yuan ($31)",
-      "excerpt": "As it has become difficult for Huawei to focus on the smartphone business because of the sanctions imposed by the United States, the Chinese giant has been focusing on other products. In line with that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/Huawei-AI-Speaker-2e-Featured.png",
-          "width": 726,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/01/huawei-ai-speaker-2e-launched-china/?amp=1",
-      "publishedDateTime": "2021-10-31T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-denmark-emerging-as-a-serious-player-in-the-game-of-ai.md",
-      "title": "Denmark emerging as a serious player in the game of AI",
-      "excerpt": "A focus on business Artificial intelligence has many uses such as diagnosing diseases and controlling driverless cars. However, the DCAKI will focus less on the science fiction and more on the humdrum reality of the business world, assisting small ...",
-      "sourceUrl": null,
-      "webUrl": "https://cphpost.dk/?p=92746",
-      "originalUrl": "https://cphpost.dk/?p=92746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cphpost.dk/wp-content/uploads/2017/11/artificial-intelligence-698154_960_720-630x390.jpg",
-          "width": 630,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Copenhagen Post",
-        "domain": "cphpost.dk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-importance-of-ar-adoption-in-education.md",
-      "title": "Importance Of AR Adoption In Education",
-      "excerpt": "The object recognition and text recognition feature in AR help teachers to overlay information, visuals, and different forms of content on an ordinary chalkboard Augmented reality in education ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
-      "originalUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-01T114655.545.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
-      "publishedDateTime": "2021-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-real-time-object-recognition-at-low-costpowerlatency.md",
-      "title": "Real-Time Object Recognition At Low Cost/Power/Latency",
-      "excerpt": "But we find that the number one neural network of interest for most customers is real-time object recognition, such as YOLOv3. It’s not possible to do comparisons here because nobody shows a YOLOv3 benchmark for their inferencing. But it’s very ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
-      "originalUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2018/10/Flex-Logix_NMAX-benchmarks-fig2-YOLOv3.png?fit=1380%2C509&#038;ssl=1",
-          "width": 1380,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a"
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wilmington robotics maker going public in $5.5 billion SPAC deal"
+    excerpt: "Symbotic, a maker of warehouse robots, said Monday that it plans to merge with a blank check company sponsored by Japanese investing giant SoftBank. Its customers include Walmart and Albertsons."
+    publishedDateTime: 2021-12-13T20:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 74
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jQtjgogdek3pE7KOlPw7otrQiRc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZFQOUR573H2QNWDZJKC6C26X6U.JPG"
+        width: 506
+        height: 284
+        isCached: true
   - title: "Walmart-backed warehouse robot vendor Symbotic to go public"
     excerpt: "Move will raise $725 million for firm through SPAC merger, help it build more autonomous, AI-powered “Symbots.”"
     publishedDateTime: 2021-12-13T21:58:00Z
