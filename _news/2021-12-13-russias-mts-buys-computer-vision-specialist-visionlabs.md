@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/511964/Russias-MTS-buys-computer-vision-
 webUrl: "https://www.totaltele.com/511964/Russias-MTS-buys-computer-vision-specialist-VisionLabs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Intema by MTS AI to Acquire AI Computer Vision Leader VisionLabs"
+    excerpt: "Intema by MTS AI, an AI subsidiary of Russia’s largest telecoms agency MTS PJSC (NYSE: MBT, MOEX: MTSS), is delighted to announce that the company has signed a definitive agreement to acquire a 100% stake in VisionLabs for approximately $100 Million,"
+    publishedDateTime: 2021-12-14T06:51:00Z
+    webUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.html"
+    ampWebUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
+    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 54
   - title: "MTS to Acquire AI Computer Vision Leader VisionLabs"
     excerpt: "As a result of the deal, VisionLabs will become the largest asset in the portfolio of Intema, which was established by MTS AI as a new brand aimed at developing, launching, and marketing AI-based products on the global arena."
     publishedDateTime: 2021-12-13T12:24:00Z

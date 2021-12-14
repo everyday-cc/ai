@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 604
         isCached: true
-  - title: "FlyFin Raises $8 Million in Funding to Scale First AI Tax Engine for Freelancers and Self-Employed"
-    excerpt: "FlyFin, a fintech provider, announced that it raised $8 million total in a seed and pre-Series A round. Its namesake offering, FlyFin is the first A.I.-powered tax engine that combines the human expertise of CPAs to deliver a cutting-edge,"
-    publishedDateTime: 2021-12-09T13:41:00Z
-    webUrl: "https://www.lelezard.com/en/news-20148966.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 25
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "NdUlb/U1fxLH8MmuqsvgsSVXg2E3wn5IHhmB2c62KoK6/S3d1aH+ywz+LWFL31otoUQIM59jDq9wMbpn6YO9ntkfpTR0X1k9NJ7qLxf8ndLQ8N70pc9NvgsgZDVmMSzUktb/ziEobMkAEhlDL7ZjEkDVYLcpPf2POYO69GYTA7aKwNkqbbwok1bf9BSZJdicXibkRUOfLIv71HosVeb9VcVyPl5OvIaHxweXUhDfzGKeVd0xaQEKgLuEHq3BM1IhYQ3i/ccoQKMEuevW151eubuhUchp+wjwJtORERer9kRcNkNo0vv0PgmLCTRX0L1ehfrVBaHpardMJVkmtp+TcZxXpqg2VXsQ5oa9nBTYeJw=;LaHewVoFurpyTRw5r8/mxA=="
 ---

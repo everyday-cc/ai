@@ -43,22 +43,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Will self-replicating xenobots cure diseases, yield new bioweapons, or simply turn the whole world into grey goo?"
-    excerpt: "In 2020, scientists made global headlines by creating \"xenobots\"—tiny \"programmable\" living things made of several thousand frog stem cells."
-    publishedDateTime: 2021-12-09T14:00:00Z
-    webUrl: "https://phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.html"
-    ampWebUrl: "https://phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 23
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/will-self-replicating.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "EPXEN4AxPXnQxOt1bJcMm7rGILX5s3DCnsMTeLoguLCEo0PeC+p8MTstTOn7rx8L2jc/VzCyCGp4Hne6fT7sp8w8LO4HsF9v9qBH/LCAblKhcTMPvxThLTeI5egoIroftnsYckV0wWD6e+rcpSMDqvSKCoyXAMIi15paTIOW4+nbFP348y16oXt5Ca6IC599ZLPfsfilThsQbqyiNZxmXjEFwQdvYlUkttM8LqiFJtpogEliWeJRP1PY1xYZXyg4ZEwU6n6uF3WRTrXZ5dt0QNbeK9nP7xmqu9sBMsqvaY2UTvne1G5phUUVVbzQiIKuIh9ImnhgwDFIN+098pDT/uY9hl17aVySoxpiPChRpZ1ZZhb6W+uwHBWkT8BixKR6JdqumiUKNiuDZrOjot8zk0XBt2IOmHl0+wZ53TV6KJHE8qNcauA/faaIEqIkgCQq2TwpodvgvUUlYNnYFLLWqrktyTGWGLs/sex989UNE5FeVzNZBjNBVbtLRZVyY8Rvfvj2IrudCHLZ4bDtAEcIJw==;k9vBopSvJGElYxXDDyzaug=="
 ---

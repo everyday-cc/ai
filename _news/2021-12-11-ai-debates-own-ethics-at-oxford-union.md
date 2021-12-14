@@ -75,6 +75,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
+        isCached: true
 
 secured: "9gMr9Pd7m4J/xgXwZw3JP+jmE3Og4Wdtp3v68O3GXfM6IPVcnSY1jVlfl9ux0Si0kKrpFSWKyraBN707f5shnsWJDn8WEu4tA2djp7McqivG1REwc82P6+lMQD+9S8SbFE1i4OZlKxOTIOIzIcX3jHAIs7XIvBbVIxGtTYaPN5WLsM9EqLBuGRuA0Og0KotQ7CgoY7VWsMj4MfWxsoApQWPOMk135PG+NwPE17MJbvfFz9olvJAiQ7qg8/97oZrQK0Hr9jg8bBlqqrRJrOrrDF1wRNR4aoMpcXBJ5zyAUWFFKKDtUpnArYroZRB//Tz++dnxAMjiRAR/7RHyQTCvOY2QAFnKwUaleylOhelb/aOroNcp4CDDiylnY1/8HOJKNjCp3noGVd01mmZKOPLPhSeZtbNdF8mOBZ1dEkYSnzvUOEhMc3sAgBmWgpW1jJQsWCPwht6avzWd7Q2j+gSFgR/m9LcOiyL7bMytJY7AR6VbZTF9iU5LkT264XMUD4yLorf2bMBk4oM7vhOw4bVMPw==;pzbSd7ZtGv0eyPsu/rIW3g=="
 ---

@@ -27,65 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details its next steps with Azure Space; adds Airbus as a partner"
-    excerpt: "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies"
-    publishedDateTime: 2021-12-09T14:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 117
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
-    excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
-    publishedDateTime: 2021-12-09T14:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 91
-  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
-    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
-    publishedDateTime: 2021-12-10T20:05:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 89
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
-    excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
-    publishedDateTime: 2021-12-09T17:37:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 81
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/12/azure-space-clouds.jpg"
-        width: 800
-        height: 370
-        isCached: true
   - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
     excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
     publishedDateTime: 2021-12-10T10:52:00Z
@@ -101,20 +42,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Microsoft and CSIRO partner with Agronomeye for farm digital twins"
-    excerpt: "Australian agricultural technology start-up Agronomeye has collaborated with Microsoft and Australian government agency the Commonwealth Scientific and Industrial Research Organisation (CSIRO) to develop the AgTwin platform,"
-    publishedDateTime: 2021-12-13T16:47:00Z
-    webUrl: "https://www.technologyrecord.com/Article/microsoft-and-csiro-partner-with-agronomeye-for-farm-digital-twins-127522"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10643/img-AgTwin_940x443.jpg"
-        width: 940
-        height: 443
         isCached: true
 
 secured: "9TouYwOMrdLsmszFsD79SqJbBwyiNfxtkFh7jc6iAIFXIjICGHOtrONwvYCbF4LbRRstDBiIOnoyhCs+Yyr29Jj7KCqCkSNaRtBZ0n4cxvum7F9is36ZW/NMhkKKcFYzcsGrsHXJy5SQAW5L4Wh3+YSN7ZYbkc3J1gE2ilElHjzo69Qu29sGxe7JGl3E+ThfqsNkUr0CS7Wdlxho5Ix9HjaIGzzlCnX4ztUKVZL5ewfMe3woKm7MlGx7Lx18XtKndWoL4sD9BHeK4tn1v5j+v83NfoQUtlgTtl0zD9G96ofPlM69P0rnd0t43g1PAPTav0e2JhE6L8xxY4UJdt9kozJz9drMEMi0BOHwvrN1xoYKyeVuK2KlZI3HmSiKpxqyK27dsGSzSDYEgL0Fut0OoUXBaWwO8u8DslCp5JpwM5Gc6MaQhOPvBSZIWw1bBxwyTN77IO3WrwAzJopDR0bVGvygkXOcbbjGoTY5jA1Oek1S6AbaWHQe0SibQxB1D3Oafqsu6gyK/I5MUcICAycnEA==;sKw8UeNUZ1XhuWETFbCdUg=="

@@ -1,22 +1,20 @@
 ---
 category: news
 title: "California halts Pony.ai's driverless testing permit after accident"
-excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident."
-publishedDateTime: 2021-12-14T01:17:00Z
-originalUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-webUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension."
+publishedDateTime: 2021-12-14T02:01:00Z
+originalUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
+webUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
 type: article
-quality: 104
-heat: 104
+quality: 84
+heat: 84
 published: true
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,11 +23,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265"
-    width: 4134
-    height: 2757
+  - url: "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "OHFps2xZDCHIzD6rTfRceY5/Ima1FUiXM94vvj2W+XojErArXxEftClojhEd8zvWCv+PCFlkQ8VRh57lYXn9iCQqrF6vpyq0zz7ai9XSNBVnur39dCpQdpDQtFrV2hQP4/mmssetQ2UOwDxiNVlzgTug8wc4iuwfYcoZ/Mv9o+up0g7msO7iZZYH//dadocIYMfib0aolE+rUTBR4xxjJHgYc8WbuERV6gbn9BFqPDRAnOJLZ3h15Be8ZzWxv9wBTn/4zc3Pp8lEXwX0DDX5n9BDEq+KNRgjamlQ6IzuAfmSlRhnoitNNeikxrLU8wAjWzLa6Z18UaUqOBWHCIL4f/ygiVBNaklKfYkefmV6ddE=;a9spsCV1Nnk51oxvZOyCYg=="
+secured: "96w3vXgaOkza/FFt8uZFnx+qiXiyd7PTv4B4mUl1DEIGow4/yU6t82dbc6XUr3HZGPRHZI/eWsQWSrUNXhqkTIRuwQ6pp5h3tmwBGqQqg0cdCurcFHWN1Ui+602q3LqnIWlmNCUW8gTFBuVbWJBFV6ngZOu9qTxKtWcOOeKJR+Nr9b9LeQNsgeYqlj851BsMCWAKcgScBQCwzfAD9Cqd8V1EBLyYEF3R8rujFwBEgOoJFkm+wn4GkU3XrIw1TTbXfX81ICnFgZg6aBELqlhF+gyhg74eNLKrV6FQGV0vZcJ/5WVuzkzrGFSF3RwXWTTmpeE7FG5nD8hlLOkXlKk4xnNeiWwhdPRrwMhpCABhnFo=;Ez7QMPdQAxiQ9NRzUORj3w=="
 ---
 

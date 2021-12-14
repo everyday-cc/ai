@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcn
 webUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/"
 type: article
 quality: 104
-heat: 115
+heat: 116
 published: true
 
 provider:

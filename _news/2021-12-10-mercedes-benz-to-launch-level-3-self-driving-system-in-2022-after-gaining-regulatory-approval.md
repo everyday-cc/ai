@@ -57,17 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Mercedes-Benz self-driving car technology approved for use"
-    excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
-    publishedDateTime: 2021-12-09T14:31:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
 
 secured: "ZBLhsieSEuX3wppp28KP1z2TsI9FXVEBB8c+K+Iy0rFttJptACzwHijWYnqNWJEHXoAb5L8T+vlsIXVycnhErGVrytCWk23ZkEQ1GiWJORX9AHT9lRlTeg2G1vmqu1pYq/cbStxWGVG0MwNC3gXPTwFwTjF9k0GRsPI/mIu6ChwM9A5zET9E1kexhRgmi6fYt0a5m85bd8zNvT9ggO4tnEUq81gsMDp89JfWZmudJ68khXucR1FOQBxG3rEg6jfzfPXtdGhG0VHkeBPykbIVeOMw8/MZdSpO8DtpTT6WQAi+0O5RhKrFuAs5DAxKQqY/73BBbOpwGLpe98xZWFYdCOu58Hpul2cbSrisvXOcKDJDL+YkCMsq/ev5SESsyI2FMOchzXOvcoNyGqIuj7e+lbIfLGvHIVokLxCHGOcCHArCTleUSjuk1/T/4SbS7U9lqB3rr3pfIXnqz/plNMEDSFo/ZX0U0hp6huEaCKzKoXjGibJVVFOp+g6XhC7xHOz5ghnUbglbtrb9/pdo/Rsc7Q==;ccffpfwEDwhAH+EkijJqjw=="
 ---

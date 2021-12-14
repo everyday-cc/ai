@@ -40,6 +40,15 @@ related:
         width: 600
         height: 345
         isCached: true
+  - title: "Machine Learning-Backed Planning of Rapid COVID-19 Tests With Autonomous Vehicles With Zero-Day Considerations"
+    excerpt: "The COVID-19 pandemic has stretched public health resources to the limits, and the only realistic way to keep the infection rates low is effective testing to prevent community transmission. In this research study,"
+    publishedDateTime: 2021-12-14T05:48:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9647946"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "zWMBhlMZ31KcT1KN2RliN9CEoP4nkC4YxhuVTHL9B9JJLanFQTUkdzgCEmU/WVMFfQTzFn1JQYBtiMfYtnF+KXNWeoSETM/iEjtD3A6Cdj9yNxJEbn58CiWhn7tZMShXs71/zichoiKNi70NE13Wi2aUa7plSKDMdViblYtMOr4dq11LwMXaxjpeaitrs42Ne7S0d8ccbzplKEfSov11Vw0mmGGEbncmqIf1y7f5APHLUv3FbRVuvR5i73Zw3/TRqgaPMqYSbKj/t+NdkwtEZQgYiicDbDj4u3Vg0pqBCkOrcm9vzuKWfC8TQ6ebg2AHPTKxx/R29UQ0D0a+p7rJp6jGqHbzN71y5zLH6mLvkft1gBQ4VCwNznv2CHG18leCIOrJNt54lKzw/K6pUTUhtWrMpnV/qMFz8tGgTH4hqiPJ0K2PUxdl7hta3ROqSLyM6nkMvRStoNvgC4stzktfhl3TeRxIsetNv8o9pG2osnoPDK723ZzKBPBZtxpVl6q6/f0m9tE/G5Lbzd3LLYoAog==;BKXM3ovoclE+cQMHqAqVlg=="
 ---

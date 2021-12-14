@@ -39,6 +39,22 @@ related:
         width: 682
         height: 1023
         isCached: true
+  - title: "UN head calls for action on 'killer robots' as Geneva talks start"
+    excerpt: "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva."
+    publishedDateTime: 2021-12-14T05:36:00Z
+    webUrl: "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
+    ampWebUrl: "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
+    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
+    type: article
+    provider:
+      name: Geo News
+      domain: www.geo.tv
+    quality: 59
+    images:
+      - url: "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg"
+        width: 700
+        height: 390
+        isCached: true
 
 secured: "KhVqm+Zg+wX35kKQEhNdMt6oA/cKX0Z5nVIQsN4fD4Igazlj4gAGUAzK46JUeRkBLNaW5z2eNRa20QaXOH2GjIY8V7rhaVvQmr3vIQNer1rV26oWfUu6lOG+wWjmSbvNDUrLFGRk8HhEMBEDFssAqoZ3SpoG887EoURpKTrGX5n/74qKAfX7HrsovM9nO8lpZMd0BRdzaiuIPHswhaMvltx9NpOdHNVoYitVU6/nApGDfx9pgZYxgl/WN2CGcePf7vCRUSQA+FySCuCIZXUpYtTMdJI8CcoOdSMp0qXjfQwgsdmMjIq7B+ZQDDyWISVfWIorIqu+/CtTD6mkGqWc3VpCz07w4hLKZgOOBNpXEbXpmAkDGit8bRLev8d7afePcXRGOtAfi5vq7tLmMKnCSgpBcv86gKa4jhXK+CY8qWvAh/x6zRPHD3cNAHC2Zmu2CWoKlKnJOBxFsNT/vkQJAKhgcH4kn3aV4W2P9YYmU9T5IphX5M46QL1iK8dK3wRzCRUNzaK1EByoKKN10LCgQA==;BHVhJbTu6BAHyFMjxHe1RQ=="
 ---

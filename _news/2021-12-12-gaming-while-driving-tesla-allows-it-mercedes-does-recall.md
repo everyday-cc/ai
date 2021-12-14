@@ -85,20 +85,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Trucks catch up in the self-driving vehicle race"
-    excerpt: "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,"
-    publishedDateTime: 2021-12-09T14:58:00Z
-    webUrl: "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
     excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
     publishedDateTime: 2021-12-13T14:04:00Z

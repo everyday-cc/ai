@@ -9,8 +9,8 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Windows Central
@@ -28,33 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details its next steps with Azure Space; adds Airbus as a partner"
-    excerpt: "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies"
-    publishedDateTime: 2021-12-09T14:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 117
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
-    excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
-    publishedDateTime: 2021-12-09T14:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 91
   - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
     excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
     publishedDateTime: 2021-12-09T17:37:00Z
@@ -71,51 +44,30 @@ related:
         width: 800
         height: 370
         isCached: true
-  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
-    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-    publishedDateTime: 2021-12-10T10:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+  - title: "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek"
+    excerpt: "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of."
+    publishedDateTime: 2021-12-10T13:13:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft's new SpaceEye technology enables imaging satellites to 'see' through clouds using AI"
-    excerpt: "Microsoft has announced significant expansions to its Azure Space ecosystem. Microsoft is adding SpaceEye, which lets users 'see' through clouds, and delivering AI-enhanced imagery to make satellite photos have as much detail and fidelity as traditional aerial photography."
-    publishedDateTime: 2021-12-10T16:13:00Z
-    webUrl: "https://www.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space"
-    ampWebUrl: "https://m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+  - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
+    excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
+    publishedDateTime: 2021-12-13T10:11:00Z
+    webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 62
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1077091689/microsoft-azure-orbital-space-bts.png"
-        width: 590
-        height: 316
-        isCached: true
-  - title: "Microsoft and CSIRO partner with Agronomeye for farm digital twins"
-    excerpt: "Australian agricultural technology start-up Agronomeye has collaborated with Microsoft and Australian government agency the Commonwealth Scientific and Industrial Research Organisation (CSIRO) to develop the AgTwin platform,"
-    publishedDateTime: 2021-12-13T16:47:00Z
-    webUrl: "https://www.technologyrecord.com/Article/microsoft-and-csiro-partner-with-agronomeye-for-farm-digital-twins-127522"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10643/img-AgTwin_940x443.jpg"
-        width: 940
-        height: 443
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "8k5nZwksHjW9Ey9oHaoRHcFbzsjG7aZnv6B7NFMXMmgPp8e4C2qP8em7gKo8PhuAyLY58ijwZewNYu8otj+biZg6qYEwopj5z/X0qMuKjQCWtiyTJCdesNuYNenWAyb5M/MaqVbXcTU0jsnNqLDQnJG6BRV7jinu0N1V+nqQvTfBInisC5H9WA15hOo+qaYwEeBX7voUhgYzAGr4ZVozXoIizrW/1OeE+5OvRHVkTNoMXMdv6JLwhTiarX05CZPD1Vu6fKmeZqoRGu2Ip4OyW6QT2vlz+FRqCsFM1qauClD5NO5ibimWBz2jY//VA+WkQeH4bUIhn0xVg57gE548PbNqGaaYK3xktvR8tHU8h0M=;acBy9MD9tN4g9sjd8K6qhA=="

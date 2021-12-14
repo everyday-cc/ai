@@ -75,6 +75,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
+        isCached: true
 
 secured: "A/jZCanjRCviOW32PpfkDcG3NKC5AxsKFI69FrA6F6kXva/eEOr7OPsk8zYIVXXwRj+DubKDQKlV4yxbOr1LUpWO17hz3TE64fG8AqdFy6GbTpLr4BBOpKbutNG1tK/lb3r2jtchAM9LTgYa/9HABGjkw0o+qXbmKZllCGN+6HL06tu4ueI5/0X7mFOO/VifulEZLz/8qfDxMBU2I7STolM16+kzHjnydaJ6Od4MC5M4phYLmD58J/mxpAfbt2se60npODFwsnUo/R33CGEHmJ+5TRHluLvWoMGHtENixYKhY9sPOmRFafFZkhwux7tkf7awjhCTtrPRaKIy8UXTp/DsG0ZkfdPxc2+VjSDSbb0=;88Hz/en8ANmRNoUUsjJu6g=="
 ---

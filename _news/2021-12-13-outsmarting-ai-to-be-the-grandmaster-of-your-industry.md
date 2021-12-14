@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 37
-  - title: "From Mystery to Mastery: How to Get the Most from Artificial Intelligence"
-    excerpt: "In this special guest feature, Lloyd Humphreys, Principal Product Manager for Data & Analytics, Tradeshift, suggests that you change your mindset, forget about relinquishing complete control, and you’ll soon discover that AI can give you a competitive advantage in areas of your business you barely gave a moment’s thought to before,"
-    publishedDateTime: 2021-12-09T14:00:00Z
-    webUrl: "https://insidebigdata.com/2021/12/09/from-mystery-to-mastery-how-to-get-the-most-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 16
 
 secured: "xHto5xCbL3Jz/j/l56fW+RhgnIXOgLPEW3v8izszWrishuDirwDloykYBkdvfsT4UuPOFQNufd0xwLnM5IYqvGcGOVi08U7Gdos6v+I4XVYhIpzCQ9lpj1HSZIUHRYtDDbpP3OnnVAY7HLrmcdN3qL1eOzZjTz8pT2NjcvypHTLS6Ltzjl4v1oVscoPESlh/TEAJRVNtyP3tucEWT37K2Dw2IbnxuUDwRxWKhYPvxgnhZCnPZCaSVzGYzgOTFLkpDeDZ/eCdNFcASV3KiFnqov0MbUVhIKwF/4A5wD9FD1qG1MzmvJ7w58d9/eibbRasJf3CWN2R9//kt62VuRtUrqt0dcL5C37OPQTGT6d5ietCktgcc0cf5bFoCtSfAzlTcbw0Z1rE77epz6s00tUnXzJm/QMtSW2hgKxrWzKNt84x2oKTZx30xMhjm+G3uV/oEiTpniUu+teyGO3c2TVnWHsubTU7Zz+iqXI2thV34CfFneCiaFbDwQOeOF2I8qNwE75EcLK6y/Vr7/IxGA8RQQ==;0prF8WD7ZaCOxMM66yjT3w=="
 ---

@@ -75,6 +75,22 @@ related:
         width: 823
         height: 549
         isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
+        isCached: true
 
 secured: "6EujaTC/Ft6DALUgG647EoDtTv9+SmwYjGmMn/VpgCOUWaM+ptFIHyP3tvB4lhJLWoUtB56kL8gkvR0ZA3lYom5PNsX/hdQWOEUJDH1eRsO1imrI3iY6kNANAmT7gKbgAxEbqtDuIv3Rc5cYsE58Iu9mpyMeqjjRO0RQe4umVdyM6x9EoUIgq9pbBfWs0fjtnZ7j9VfQm+caqAoj6kbwZyAckTXO8jUNKC9/7qNB5LYX9pHjgAsNqct8gxm7h/kFt1aDSeLmh2cB/GO/9ae7gP924bNgI77diq7Ol6Qw5yK1ZrQO9OmMgq1Kv7DbdqzPM5KaNZLeX7fWgIuyULFEu7aSt9ZCccd6LjpaGP2SelS0pDQb76MPMLkqH1MwM1T8iNni9bWIwEUpsULQPFE87rAx4PuWk1mHhMcsqn4P3oVSgTUccyEC5ezhHClUXgXScE7RCmAdgB/qS7m8lbb3OS9ZsaJyu1a9LjN0ReVOiphzVk6ACiimUSuDvNoRLMh9b8w1ekQTmKTuyXf72+p7hQ==;z25nukD+nEB3cHazwCfVdA=="
 ---

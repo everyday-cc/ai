@@ -3,8 +3,10 @@ category: news
 title: "Intel plans to take self-driving car unit Mobileye public"
 excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
 publishedDateTime: 2021-12-07T07:37:00Z
-originalUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
-webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+originalUrl: "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010"
+webUrl: "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2IM010"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2IM010"
 type: article
 
 provider:
@@ -20,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB600M"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "Ymo+GcKd1xepBzcHLiXQJpOt2VZmuGDFhdS39aSw920n/sAQw9JySdGJcnwiANU65GwEFscWjX2eg/gG1Z0W6ZORcouedLaqED2ah6FNwC4BhQVQRw4Gy6DF22O4XJ0ADcznVQL7icadxUSyrJ8it4uZF2vIc3y+i9D0YBi/tq9h7iztg2eNvqpevKK05jsTivcEjIE9Sk/rOMdO0F848fXyrzhX7I9vAxtuTLI5cWemoUDdRdwi2PXn4Xv57c9r9sRaGKu0w2jrxWnMFV8/UZRQgyNGd6L3l9P3ewZgk6av0CUdiImZCTERpv9O39sP7XAKfhFVnnFUIty5Tt7y4Dh76rU1XbTKRLMteEQcOzM=;bqjOwHCpOnQB0qict74oZA=="
+secured: "fx70qo3y6GAJhH8ij8BZuBOH87jXf8rtMXM6j/FuA7ihKGy9cvHyDf4EJ/9SeCgdvZHFODCuDAv0/z8Re2YiUQTk+gDIdsc88ExqfgvayJaRd/eTbgCOiMHBpUWi46oL88yVxbMBPryACPsNqiFewYyDxNKMHzFC9cuuF7/qSSyb5tOfMrdVOkaGwS/fIXp34anxfetuTx4Xfv8lfH/0eEHDIU+VC5yVQvGbr3uXQeGu5nMGKLKTbBraou0NcaHmCO5B+2rJKlm8BVfi292MdFJsYrkxNcznD+Mg6xoKQZZU6y5Yy09sptOr9qHv3w2FyKPzYRtbsbT3rt9eW7Eoxt3SZxx22qy/bgDdiuHwktw=;810KjzSk96xFAqjnLp/61w=="
 ---
 

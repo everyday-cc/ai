@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "From Mystery to Mastery: How to Get the Most from Artificial Intelligence"
-    excerpt: "In this special guest feature, Lloyd Humphreys, Principal Product Manager for Data & Analytics, Tradeshift, suggests that you change your mindset, forget about relinquishing complete control, and you’ll soon discover that AI can give you a competitive advantage in areas of your business you barely gave a moment’s thought to before,"
-    publishedDateTime: 2021-12-09T14:00:00Z
-    webUrl: "https://insidebigdata.com/2021/12/09/from-mystery-to-mastery-how-to-get-the-most-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 16
 
 secured: "4jWUpNzTYt8R5nn6u4Szoe0FUbsOuPoKsq2t4QQ3HzUpRhC8LhHT9kuncBaUEYllH66a7iQfNv9CBfpJX7mb7Nem+Vd+4180a35Fi0f0mnKQDZY2LfckIBjbTFMQ4hVueo6NXI7m5TGiWqBzEb9NaaoZ1ulyVvAJV9UP0Bo1egVRdzFfGJkxSyt5wWZbRBsLK/pzzAXhqRE1i+GEJu1uUxRsoSloGnHDkW+h7AeGPFz4C2+46OCiESAsLAnCmxE5gln+B6Onb60Wgmvs4HDFffUHdrUAS3gFVaPAb9px3EsBnpxs2BlWC7t9LWXal8pQsgdlKpriGmdBpXVrYsdCCegZZNgbrcy5GKLXgfuJOJWoTqe96ba16TMtTs9/R+6U0I/62+ga6eCQwb/mrS8Zb5yNlsDjxfxpoZdstWDQ3jzduodFj9j+rUqCYruL+EIb52XYsLRZwJr9jzt7Fg397Ho8tQQ29kxSdjn6+9/6xhZA8QdnOv8Z9eLcZg0gB/od16qo9WLu2wjLbYsgQMznCg==;aPWykqFGikMvmXO0Q32CFA=="
 ---

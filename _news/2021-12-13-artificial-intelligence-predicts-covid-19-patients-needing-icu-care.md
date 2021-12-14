@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predi
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Analytics
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Machine Learning-Backed Planning of Rapid COVID-19 Tests With Autonomous Vehicles With Zero-Day Considerations"
+    excerpt: "The COVID-19 pandemic has stretched public health resources to the limits, and the only realistic way to keep the infection rates low is effective testing to prevent community transmission. In this research study,"
+    publishedDateTime: 2021-12-14T05:48:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9647946"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "2C9HRzqzkVhDad96inJ252ODoSEKEvIbrWWPSCFOyIrQyNqsZ/X8dL9l7QSUIJKYuVWbaqbu4PxXWpwkf33/qwtNb7wC4OeLNfis6vf1u9Sm3bZfyfOwKcsY1wwpkUZLNHwTyHoFC0CyqUJWLuUlhHRulQNfmFMw6c4fwyUHEuRZjsRUrx2NsF2SOSCLZ1PXzCAN85Tltz++euYORZxPzs/SfFrl8ule/MbpyDmeyJAz2/bcUwIJhunDc9mcruqhnUd1fTIunfuaQJSIXbStU3gJViR9hpTQoLSJ9ALVtDigkGryywhr2SlXrrCYexNRpTV96anDcyROHNeMsGViwY9MLYcbU35fwQ8Zp8JV+S5dkRrss8pK5SiiR0h1bZyFVg9hN1hJ+QYSDmpwhJEe3hU2hWZkItTpfxg8X95PDcS0NwCJ3h8+WrCyoAEfiK1qfjfzRvqUvdsD5rUHhDyPuxXRWCJEUCWONsI2t+jM+d4N+L4Wy2QWWne32ZPjJrcUNXhYlpI5VuSUu4F8pSRmwA==;o5ynhgIruute6K14JuXrsA=="
 ---
