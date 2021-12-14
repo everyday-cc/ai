@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Mass Fintech Hub doubles membership"
-    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a global leader in fintech, has more than doubled its membership and received hundreds of requests to join its growing programming geared towards developing fintechs."
-    publishedDateTime: 2021-12-09T17:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90686/mass-fintech-hub-doubles-membership"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "e8MP/j+o9qBlFmizyf+MVv7hfqftGz/y26jLrCcqgyN5+eDDCazfPIkcr8PLeZ3uw1dCsCCgPxwD9v6p67raeKRTsn1dqSN34e6x0WdmgcTsW6BAxR5DEG/I9Malx3Oaskpdjw5qQfbIrNrbOB2TGSNP9FsLikP/GOYNmuZVLbei88kkJJw6gNYpDKLBGT54YODEPSOJ/HYIzLPwSQPuM0x4UEie4A5vtX1pCSFOlqpG8YQOtNdVDCnTc8kopwMxhRXpn3eWMVE5EHKQ1wHmktuQ5GzUQanRq6mDRPdCieiUtuWKS5Cti2CBl93t6hQg5Be7XnAP5kgspMsxFO92i96gTyxXMQYtMZIyoqqfz9VkkaVuYNY6TL56MVKuRWrog6RR3zaC2XaIx/X6ZaihZ/3FRkee8tsYTBvBVEX78W6xzmWaAXZ1zu6Vtg3HfX4dpXOCRDrQ6XiXedLdM4NLp6J9QVUrYqRqO4posU9x6sXPN0B26Xz4Wch67s8WWd58AWvQuFVmP+KH0h50/AuvyQ==;UsCu0+iwyK3bOGgHGSvDGw=="
 ---

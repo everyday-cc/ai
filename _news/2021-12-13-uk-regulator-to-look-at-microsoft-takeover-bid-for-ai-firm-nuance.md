@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft expands Azure Space ecosystem"
-    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
-    publishedDateTime: 2021-12-09T15:40:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
-        width: 879
-        height: 349
-        isCached: true
   - title: "5 Things You Should Know about Microsoft AI"
     excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
     publishedDateTime: 2021-12-10T15:07:00Z

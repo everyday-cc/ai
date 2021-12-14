@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
         width: 620
         height: 372
-        isCached: true
-  - title: "Microsoft expands Azure Space ecosystem"
-    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
-    publishedDateTime: 2021-12-09T15:40:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
-        width: 879
-        height: 349
         isCached: true
   - title: "5 Things You Should Know about Microsoft AI"
     excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."

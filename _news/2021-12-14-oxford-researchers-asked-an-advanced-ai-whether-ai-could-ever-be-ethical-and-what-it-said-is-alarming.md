@@ -60,6 +60,22 @@ related:
         width: 620
         height: 388
         isCached: true
+  - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
+    excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 74
+    images:
+      - url: "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
     excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"
     publishedDateTime: 2021-12-13T12:00:00Z
@@ -93,6 +109,6 @@ related:
         height: 315
         isCached: true
 
-secured: "iQS6nFl+GGXB2BLsfaKYC0Mx9tNtQ6qKem2bKq4/0PeLFrdofNM0AitLwecPSCuKlfN6+2OjcesiKI70ADpJ4kTAK10MOeZDO4V/fVyFj7XODjpJbR+gnadh0AIoofRyi9kSLp5It53/uriubC7gjX+BoeCPjNgoM7uFDU9DvxaAAmEak1o9J/RJ30ydlAWllQawIj2zeyStxopDhTjbhsuruBE4FfTNP/ddyR4PcOhh4+lConaLxgxAY21rHMBWiUQpfBD6ysBqtKyMNgni6q2GXrEdaoRahOJ5rW4u0SddC39t+52OJERLkfjmCmQXL0JufsOlHNgDCuOPSXMChOzaX95gezMGHLdYiWBaMHg=;6kAmUV96wqIvNzWGrSNdSA=="
+secured: "YzFJqmxpVk5nkp9IIWLAe1xFv4u/OQgnY6YP1geBsLCq0An+0owgoDACffseBpR8ilM+04SpFAGFN+ExKyaN4kGh37excElDFc9ONvULklEXWIlC1a3CulhYSBAVEef101OtVB1788VweHSfSibM0J+R9zzRRknpxIbSYR6kCZekwXr1QKKJCLsR4OHFFavQajw9NhgnsYQ76bjzlMBnI59piCb7495SBBPcNGQ9Y/P0pTasxzYJrjteEQICSe5kl9qUHqM/Z9ka/1sLUA1rVM03DHGDq2oAxt4Oc/eGdyPk2oUPY5vnGtKF92Xlsq26WVd8syFKOSnlEZ9HrNsybkDoFETzbcaT4R2rCzIpXCWavj9Rs8iBRYXxqzsTQb6fXcjuqNgtGJYzD+blqWOfzMt6dmEMhZLRcgTC+OavhukJ766FiEhiB5OkAI6lG7tpXRI4ZMjll5zvsKXxujhorT0QfAB7dqtD1gnSgZm5zbZ12lbzCt+PtuBA1CrZ+WsSOnIUxhWneWtoZQTqWG/S4w==;j6AWGB6xe6V9unZ4WTlopA=="
 ---
 

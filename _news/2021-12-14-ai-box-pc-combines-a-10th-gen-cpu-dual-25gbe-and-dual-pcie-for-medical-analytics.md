@@ -35,6 +35,20 @@ related:
         width: 1004
         height: 568
         isCached: true
+  - title: "AWS launches AI for data analytics partner solutions"
+    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "pswE8Wia1elZYP14iN/9ViaqNuinbV/5l3RE3pbDGcFaYy5j8qB5nVW1KibthsetlDrHRmAQAAfgs6kjTQJ+xf8fGT4Hnk+/ibGTD+e1eMSOrBHDB82qcJNgm/5kaKR2pBbHSLB1MX30DkD5MMD/Oz1kdsWgDKYMYvGN0FG802eBZxyc3P9jD3tliQBmX1mHtEDA4l7CJTQsN2TE2yWdezjaQK5qkHWUKr6GctwU+WvZVXlFrCVTx3s/aNoynuF+D8/QyKuh6SVXehioX3+gGUIqvpAsKjQK9MROEmOm/hQV9QsHUb1Lf32uNMGXO9z+8FQTlE2MueOCnEpOhzM0ngwNqdnMA98DezYRVhu9N23NFyy/O1/4otueUHvbsm/VI+VuaKehA2Jt3Z3PCZFTFIxOLTlhCga0DZo/DLEcalWrli27ExK03TQvzzVzQg3F60rUmLPaOQRDxtIqRFWe4gXU91nKTTJ0KCu0G4UJ3tJzzxcsI6L2aTrUlEoj3Tx/T/f/KraQs5kfHZm1a/puvQ==;8B10Semqs/GqeYU21eCQKA=="
 ---

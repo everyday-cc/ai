@@ -51,27 +51,11 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg"
         width: 1152
         height: 1536
-        isCached: true
-  - title: "A Synthetic Humanoid Robot Might Soon Fly Thanks to Iron-Man Jetpacks"
-    excerpt: "Roboticists at the Italian Institute of Technology (IIT) strapped a fully functioning jetpack onto their humanoid robot, called iRonCub, a report from IEEE Spectrum reveals. While several outlets have unsurprisingly drawn comparisons to Iron Man,"
-    publishedDateTime: 2021-12-09T16:12:00Z
-    webUrl: "https://interestingengineering.com/a-synthetic-humanoid-robot-might-soon-fly-thanks-to-iron-man-jetpacks"
-    ampWebUrl: "https://amp.interestingengineering.com/a-synthetic-humanoid-robot-might-soon-fly-thanks-to-iron-man-jetpacks"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-synthetic-humanoid-robot-might-soon-fly-thanks-to-iron-man-jetpacks"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/bjOLkVmpwe/sizes/robot-jetpack_resize_md.jpg"
-        width: 744
-        height: 419
         isCached: true
 
 secured: "DO5E4ubr5pe7d/dXSDjGIBQLZ8q5IgtHjurZHImec5d9yKWY52LCadC36+flwkMz5FWJT9dKUJtblRahWzVY+ObPsqGR5vxEPl2HRp5qw0noEdH/WbErKyznMOIhV8sOi70ZqR2lykp399xombBQqsy6GxDDVnrIHGucf8HLV+mrDbe6HqGAH+ltg8J8yDjozuA0ExSdWrfA4P28kGKowkIyEpUS1LXHCF19UBru9oaL6nZEtIEeLKLa0sMVlSSJMAUrnKw40O5l7zybmVxHyMtmE1jvE3gEf9vl2hRvk9WafXza5GKxJMWX/JcC6zk/F9lA5M3DEtXyVQvlUxTIM6ytMElwPkwGirEK2VKVSfo=;uCiwmnqzu9oA7YVr7Q8Y0w=="

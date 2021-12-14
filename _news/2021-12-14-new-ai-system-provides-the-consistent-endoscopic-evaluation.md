@@ -1,48 +1,63 @@
 ---
 category: news
 title: "New AI system provides the consistent endoscopic evaluation"
-excerpt: "Researchers at Tokyo Medical and Dental University (TMDU) have developed an artificial intelligence system for detecting and characterizing disease conditions using real-time clinical video imaging, r"
-publishedDateTime: 2021-12-13T17:40:00Z
-originalUrl: "https://medicalxpress.com/news/2021-12-ai-endoscopic.html"
-webUrl: "https://medicalxpress.com/news/2021-12-ai-endoscopic.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-endoscopic.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-endoscopic.amp"
+excerpt: "Researchers at TMDU developed an artificial intelligence system called DNUC that can identify and characterize areas of inflammation in patients with ulcerative colitis from colonoscopy videos in real time."
+publishedDateTime: 2021-12-13T19:22:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/937732"
+webUrl: "https://www.eurekalert.org/news-releases/937732"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-system-provides.jpg"
-    width: 2880
-    height: 1620
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/88422cb7-5426-4094-84ec-1fbe27a45102/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
 related:
-  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
-    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
-    publishedDateTime: 2021-12-09T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+  - title: "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do"
+    excerpt: "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense."
+    publishedDateTime: 2021-12-11T12:21:00Z
+    webUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/"
+    ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 55
     images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg"
+        width: 777
+        height: 532
+        isCached: true
+  - title: "New Machine-Learning System Flags Medical Remedies That Might Do More Harm Than Good"
+    excerpt: "The system could help physicians select the least risky treatments in urgent situations, such as treating sepsis. Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly,"
+    publishedDateTime: 2021-12-12T12:03:00Z
+    webUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/"
+    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-System-Scores-Medical-Treatments-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
 
-secured: "EJasbUTIVSHCGDwvsrlYmt4B//D0OlV7/bnnm//9kIw8p5Bw1dEYq5Mkf7BoyAsT0DOsgN4wnQvwmwzKbIeCjsv6A0cSXZnvKqvexKpgA0pMdtz2l/A6++RDYkWekGtfsV/mVJYX2RwjQTqkNKXWMBeQFnDAn+HOrI204Fmiftd3BoEtIS+FFm0+58O3+MfLyscE6QJH/yVRVl85fjIJKc15bRkewyQgpBoNlFjo+bo0iKrJTzcuHYRwlr0PAXCuz0zo8PnfGEgW1cPT4ElRuS37zCUjEK1jWPEQW4uHukCdIOoIGQS4Hpo118/j0GwgqQP2h/UtqKAwlwYuz4HWLWTPa7hSiPNBcLJ7axcVE9M=;PjYrSh+mWYsZxW97Q5QocQ=="
+secured: "WaQd/hlUEw5PAl6mS1EGkD6pa65GOtshSAWMXhMNF6kemmWboxaXVzcb/jj6z9Gz0xpjSy9zXCx5MWV7iVxlmwQ47hIrrz5S56SxXRqFJtPSzUEq4521Vlgya5vjL317Ba05q20nZd1k8vjBJnCx2P95o39ey9PrUPI+9GwOAaOg8HDGWLrpvMLZ6RB5MmLEt2lXJAehlM017Xb3QkAuY393tcnotw4Dv6WzTmHFJDl2pVXAK8gwoE9TZG7Op+nz6TOSWAcRxdUeyxG4+2HcOsZArtTG61Lyr28gUmVF0YxdEk3QuA0+JTKo1EY06AZbs6khL54Ius7pwh+hGUdRYLRV4PaPSouhpLPntzhRHRA=;jCtz77l/pFpu+b4OX+QQiQ=="
 ---
 

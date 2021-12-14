@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-13T13:28:00Z
 originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.nanowerk.com/news2/robotics/id59360_1.jpg"

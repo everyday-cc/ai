@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
-    excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
-    publishedDateTime: 2021-12-09T16:48:00Z
-    webUrl: "https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/mercedes-autonomous-main-1200.jpg?itok=ffVFiJGm"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
     excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
     publishedDateTime: 2021-12-10T18:39:00Z

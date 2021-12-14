@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-fin
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2021/12/Travel_AI_safe.jpg"
         width: 300
         height: 379
-        isCached: true
-  - title: "Austin Startup Bets on AI Reshaping the Trucking Industry"
-    excerpt: "Austin-based trucking startup AI Fleet is betting that using artificial intelligence technology and focusing on drivers could help transform the trucking industry."
-    publishedDateTime: 2021-12-09T16:45:00Z
-    webUrl: "https://www.ttnews.com/articles/austin-startup-bets-ai-reshaping-trucking-industry"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aifleet-main-1200.jpg?itok=5u4LzHSE"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "LlGFna6ySw8rMCziHmoSxgUbe1fLkqT4S0l3XUQmQ1tdhnWzoUPK9fMlRSehHb0J+5M3PC/qZ3fbWRYIIXOzFsu6cumFVA9NH+rFGzwjZ6tdYAbWdg3wZhqj7X2/dBoxOrMTHp9lnD5Kkohu6f/zwfn6nBXwW4gZAmg3ArwKMbBiwGNLWHnqXuk3YKGl/u3sHWqhSqpcE6U1FbAZwqAr+Os411Ucu8FDianjBPM9ottv6cYnvJrT2KSeK4jz4YPYsnRUmOMQSpGKQSpuXaVS7jztIdc0gIKFV/UCYAym2D0Iw/nF/b7/qiVwBRjQozs2tZWmaLjkdNcQFcZNra5yGQS5mF/xPL8YLpWpvTbo7Vw=;pzTUq7lduakr6wY9e0NMKw=="

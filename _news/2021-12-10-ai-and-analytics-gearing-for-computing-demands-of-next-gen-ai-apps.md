@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-deman
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Dataquest
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches AI for data analytics partner solutions"
+    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
     excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
     publishedDateTime: 2021-12-13T17:26:00Z

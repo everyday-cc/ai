@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligenc
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
         width: 620
         height: 388
+        isCached: true
+  - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
+    excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 74
+    images:
+      - url: "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
     excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"

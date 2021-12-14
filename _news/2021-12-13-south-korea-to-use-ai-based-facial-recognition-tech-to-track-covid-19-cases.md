@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Movement of COVID cases in this country to be tracked by AI-facial recognition"
+    excerpt: "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,"
+    publishedDateTime: 2021-12-14T07:28:00Z
+    webUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition"
+    ampWebUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Coronavirus: South Korea to use facial recognition tech to track cases"
     excerpt: "The pilot project in Bucheon will use AI algorithms to analyse footage gathered by more than 10,000 CCTV cameras and track an infected person’s movements."
     publishedDateTime: 2021-12-13T05:20:00Z
@@ -90,6 +106,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Predicts COVID-19 Patients Needing ICU Care"
+    excerpt: "To assist in allocating resources during the COVID-19 pandemic, artificial intelligence can identify patients likely requiring ICU care."
+    publishedDateTime: 2021-12-13T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-538998185-67199ff8dd2aaa686fbbb8d60359499a.jpg"
+        width: 600
+        height: 345
+        isCached: true
   - title: "How facial recognition technology will be used to track positive Covid cases"
     excerpt: "If you thought being asked to check into a cafe with your smartphone was “a step too far”, this new development in coronavirus tech might rustle your feathers."
     publishedDateTime: 2021-12-13T08:15:00Z
@@ -105,6 +137,22 @@ related:
       - url: "https://content.api.news/v3/images/bin/79cca39fb87818408995242365d7a910"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
+    excerpt: "Other events along with the conference will include IEEE 5G Summit, Women in Technology, Industry Summit, Africa AI and IoT Challenge, Triple Helix Exhibition"
+    publishedDateTime: 2021-12-13T07:15:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Global_Conference_on_Artificial_Intelligence__Internet_of_Things_to_spot_light_on_life_after_COVID19-WAM20211212200110956/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20211212200110956/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211212200110956/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 41
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/180620130009QIRF.jpg"
+        width: 1199
+        height: 800
         isCached: true
   - title: "South Korea to test facial recognition to track Covid cases"
     excerpt: "Human rights advocates and some South Korean lawmakers expressed concern over the use of facial recognition - Click the link for more details."
@@ -134,6 +182,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI To Help Predict The Use Of ICU Beds During Covid-19"
+    excerpt: "The researchers at the University of Waterloo and DarwinAI have developed an AI to predict the necessity of ICU admission"
+    publishedDateTime: 2021-12-14T06:18:00Z
+    webUrl: "https://analyticsindiamag.com/ai-to-help-predict-the-use-of-icu-beds-during-covid-19/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gettyimages-1214357163.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
     excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
     publishedDateTime: 2021-12-13T18:48:00Z
@@ -148,6 +210,29 @@ related:
         width: 1600
         height: 1109
         isCached: true
+  - title: "Artificial intelligence could provide a way forward in treating COVID-19 | Video"
+    excerpt: "The answer remains fluid in the face of a constantly evolving threat, with new data on therapies emerging almost every week. As Sherlyn Seah finds out, tapping artificial intelligence could be one way forward."
+    publishedDateTime: 2021-12-13T15:27:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-could-provide-way-forward-treating-covid-19-video-2377041"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 32
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--q06_-mw1--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/12/13/4c6cbea1-f52f-4626-b9ab-649c8d35da46.png?itok=ZyQNEfNu"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Group backed by top companies moves to combat AI bias in hiring"
+    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
+    publishedDateTime: 2021-12-09T23:16:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "/3JX1O5V5LfOmnYRZuLTymyUyjCNR6meeh43N6iVQDB3GeG6MrmYvN+ScSDdgiAPUaBP1v75YVb+73HCbX/25eNSjr4NrTTI849zgsXO6JkvMxDoo4xKo9Hv9RN6WcbZVm7xSsA9Sfyy9XPZK6Uw+fLFxqPGESe3SD6+FykE1x0ggPifahN0g+iGavjki0yvbKEDHnR5ksNaK09z/23KTFKnwK+MyM2q+QADx3HuoJG6OqXTQ/orR8ByvVHUEQb335MwnIIrFLfqrAMNvxdVf6gaM/gnii19rFjaqCVQNT8aUUBh2C923Kn0YzTGT5JvQbjd2+JszuUVqMAGqBYGvfZNfszsDbKeE7nHpJoleWI=;i5ZCRNkjmQfRqesmJzu3Fw=="
 ---

@@ -61,20 +61,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft expands Azure Space ecosystem"
-    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
-    publishedDateTime: 2021-12-09T15:40:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
-        width: 879
-        height: 349
-        isCached: true
   - title: "5 Things You Should Know about Microsoft AI"
     excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
     publishedDateTime: 2021-12-10T15:07:00Z
@@ -113,6 +99,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "ew3TkqPuhKiuXRBotFGn6YHgAXd9Ap5p4zPL73CyA/hIKQF1U/hxeY/IVRSIXCv/aa9mp2pDza8ok9o/ehOgZ0KY4bdwXcaMLFHI0ZXKATuLIwBMOne7mGgPtCC+OiN++6wVcyGQcSVFtLbJp7vOtXIJemxTnZ/YW9WUzPsWpUN5saB1S/qUQtbhIj59KphBOrb44TAAOE4iId7PVJ8Jso8+k5OkdQWoXr/8IP4KnqsEbb/Kk1ixt+R1GVX2RSYa1KEOYF7G+XG+YHUrkMrQl3o40iBBOOmVLzEkp2eyg2oBb35L+frWGkbsrBdo+BxZI71VvgeDx+esWLSwtqOZoc2JGIgQ5zST4WIeX2Iohmg=;nbbT10hlbtGuTVKIQwJBnA=="
+secured: "w7hrj4uyy08KCn9qStscW0sPdmC9RKHjn8FjM3+aqekm36EHk0q/D71jeE8osdLx19UNb68pTIv6LcVMBNXp0Hi4khtwRB6zN5sj1dY0zFNTqI11zzBIPfnNXFHa/A1HenWcc7QYK84LhBzRUz9f4sZ/XzwdonWJt1CCByp12zgjSksC8ncM/WvjiY9hzofkH7cvTvMjNhgE4VsHYE77S1ZqqxKwy4YxZIeZF5x+Z2Voc5/6RnRESC3gjDwl6aVXzPozqjlCpknaqAGetF42exbALBGPackNFOfdaCKm1hAZE/d6uAcuXN4SX0xXACFZLO5k/8pt6eJsJbv0qMz8poSQTXZWJLcYHG99RVhJgDKATr18BP7FjklfRel5y82wJSqf036mHrC8bUyPPwPt5oRyxBCtbCMhqq//mXGR64srD/BXEDwk5V9YaRdfTlYD/Vy6pfkVVR+D1A1S4TWR4PE165VDNQFjNiNVc/s3ua/X2wm3traYnKyjo6616Q4Y0zrrcEvMQbrrvrrQDD6zwg==;+IUXI3x2M1OSrjKHl5tHbw=="
 ---
 

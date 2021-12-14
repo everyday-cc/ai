@@ -43,21 +43,19 @@ related:
         width: 777
         height: 532
         isCached: true
-  - title: "Machine-learning system flags remedies that might do more harm than good"
-    excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
-    publishedDateTime: 2021-12-09T15:25:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
+  - title: "New AI system provides the consistent endoscopic evaluation"
+    excerpt: "Researchers at TMDU developed an artificial intelligence system called DNUC that can identify and characterize areas of inflammation in patients with ulcerative colitis from colonoscopy videos in real time."
+    publishedDateTime: 2021-12-13T19:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/937732"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 43
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
-        width: 900
-        height: 600
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/88422cb7-5426-4094-84ec-1fbe27a45102/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "HsTlscRIKrGbYLqee/zreJaGyTa5iU4NSFHgimRhq1zeBAUYEkuewUsoz064tddphidkQK65jVXQcrxOJU/Qdxy+JicEZW62Xi7BsVLEVm6/SitNL4tlk+Sme08m1zR14E/A3jsPxr/E6CvW1Du8PAfzOjw4lwMw2yNH+rsqMIwVeeRIywuYdutSgNn4Z8gpMsoCQhZUBX4I/aauAIFDRGoBgd5/PyEs6v70T0jy+z59JlHWo/63rCmdn30KGc9WgqSrkan51CfNXQUOdvo4S85utPa6U3nzYIZsDjdIXl54KoMajzpSHGVkNC19oUgRRnMOqljs0JpQYy6QeG1nCr6ya2k5XrzamfGP2jTeeC4NacB2ti1eyrkjDAhUVZwtoPgmq6s8LALxrYB9jU4snHr+ShHDaX9fe1byWu3pOmdYLWxtq+emiAtREr9cI5rz7wsMzDAyQ8rq4C6eD7EXFsGoS7KfDEMbKIp8bpGd48nSm0B55U1I/WcWtrDh2CAAOwzuPgTsSs5oZxAkBhH2vQ==;Ipb7X28HdLuuzv9Eeb6pIA=="

@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine-learning system flags remedies that might do more harm than good"
-    excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
-    publishedDateTime: 2021-12-09T15:25:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
+  - title: "New AI system provides the consistent endoscopic evaluation"
+    excerpt: "Researchers at TMDU developed an artificial intelligence system called DNUC that can identify and characterize areas of inflammation in patients with ulcerative colitis from colonoscopy videos in real time."
+    publishedDateTime: 2021-12-13T19:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/937732"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 43
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
-        width: 900
-        height: 600
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/88422cb7-5426-4094-84ec-1fbe27a45102/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
   - title: "New Machine-Learning System Flags Medical Remedies That Might Do More Harm Than Good"
     excerpt: "The system could help physicians select the least risky treatments in urgent situations, such as treating sepsis. Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly,"

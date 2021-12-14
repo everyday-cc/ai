@@ -59,6 +59,22 @@ related:
         width: 620
         height: 388
         isCached: true
+  - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
+    excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 74
+    images:
+      - url: "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Researchers Asked an Advanced AI Whether AI Could Ever Be Ethical, and It Said No"
     excerpt: "Is AI inherently good, or inherently bad? Students at Oxford Business debate the Megatron AI about its ethic. \"AI will never be ethical,\" it said."
     publishedDateTime: 2021-12-12T15:39:00Z

@@ -2,26 +2,35 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-14-intema-by-mts-ai-to-acquire-ai-computer-vision-leader-visionlabs.md",
-      "title": "Intema by MTS AI to Acquire AI Computer Vision Leader VisionLabs",
-      "excerpt": "Intema by MTS AI, an AI subsidiary of Russia’s largest telecoms agency MTS PJSC (NYSE: MBT, MOEX: MTSS), is delighted to announce that the company has signed a definitive agreement to acquire a 100% stake in VisionLabs for approximately $100 Million,",
+      "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
+      "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
+      "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
       "sourceUrl": null,
-      "webUrl": "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.html",
-      "originalUrl": "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.html",
+      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
+      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 114,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html",
-      "cdnAmpWebUrl": "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html",
-      "publishedDateTime": "2021-12-13T22:51:00-08:00",
+      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
+      "publishedDateTime": "2021-12-14T00:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FinYear",
-        "domain": "finyear.com",
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -36,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-13-coronavirus-south-korea-to-use-facial-recognition-tech-to-track-cases.md",
-      "title": "Coronavirus: South Korea to use facial recognition tech to track cases",
-      "excerpt": "The pilot project in Bucheon will use AI algorithms to analyse footage gathered by more than 10,000 CCTV cameras and track an infected person’s movements.",
+      "path": "_news/2021-12-14-movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition.md",
+      "title": "Movement of COVID cases in this country to be tracked by AI-facial recognition",
+      "excerpt": "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
-      "originalUrl": "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
+      "webUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
+      "originalUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 240,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/canvas/2021/12/13/a092f16c-0574-45e4-83c5-418e397f24a9_b86010ca.jpg?itok=LfA_R2NU&v=1639368498",
-          "width": 1200,
-          "height": 630,
+          "url": "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg",
+          "width": 770,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,23 +67,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases",
-      "publishedDateTime": "2021-12-12T21:20:00-08:00",
+      "ampWebUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "publishedDateTime": "2021-12-13T23:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
