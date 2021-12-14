@@ -38,20 +38,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Moderna Launches AI Academy in Partnership with Carnegie Mellon University"
-    excerpt: "Moderna, Inc., a biotechnology company pioneering messenger RNA (mRNA) therapeutics and vaccines, today announced the launch of its Artificial Intelligence (AI) Academy, an innovative initiative that will bring to life an immersive"
-    publishedDateTime: 2021-12-09T20:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20149261.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "3zsfbroZzrWeB3BQy1AThh8xKLZ0E4smbKjB+nXHPWF9jZpYedobWpNXxH1CAj+r0dewkazIs91/NRdz+NNkVdX7EUK29VJFrOoH8RXM1KPdW7Uo+ZdsRo9FtEnfGx6BwQxnb/kAxQ/xCKiCofj8dpjmTG/AC7WvJdLXxD1CRlUAZk9xNYSxOYDLSGDauZBM3beYl6Qmj/2WURi701q+lvtO3JKiSiSvfqe5Tm1KjW3LGPL+N6AheVkQEq1CFvKLZrtLO91FuU7vPEA9m1UkdZdeNkLKfLfDtfFRxAyAI8vJZacIbRnOJO2K1Hd7r7W0IoAH80bprSOH48aCV+BrSecWS6mCyFH1dTHmq1MJG2wnAW6E8igEe6/seVg91QT1dCdmMesBf06amBBOXSYxZt2ru1rovovLVAM2l3kiGfnNnvfaGVISziyQ0w/SBTtK9qSaoKUcmqwrQ/z9NU3ZHmI4WesgSjORW6bV+tdCn1Vk/GLGaKWH+u2No85Pv71R4pZFgvYq0yjh00dgdbwGIg==;hK7HmH3urhrIlDLT08Kylg=="
 ---

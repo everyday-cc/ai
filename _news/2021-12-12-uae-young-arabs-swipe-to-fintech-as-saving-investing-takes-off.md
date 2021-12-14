@@ -24,6 +24,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "5 Green Fintech Startups in APAC Worth Following"
+    excerpt: "Though green fintech remains a nascent space in Asia-Pacific (APAC) compared to Europe, the ecosystem is evolving rapidly. To get a sense of the region’s climate fintech industry, we’ve compiled a list of startups and projects that are making waves and which are worth following very closely."
+    publishedDateTime: 2021-12-14T04:43:00Z
+    webUrl: "https://fintechnews.sg/57968/fintech/5-green-fintech-startups-in-apac-worth-following/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/12/5-Green-Fintech-Startups-in-APAC-to-Follow-5.jpg?x86795"
+        width: 2048
+        height: 1136
+        isCached: true
+
 secured: "Uu7niaSlFESxOtzfAd8l5CzfRz/8mTmRQP/i1f4e+9nfr61BdcFhDRN7J78/Z5IA9TVsRheOrpQEEDnlIcKFR/LJrQ6K8eZNszmY8bQNwsk9KMO1AgWUhk7oEVN+YMPZwFmiE2zCktKZG8Kc2rGSIg0R4Hw3w9DXKQMmPCfSwoLYGG6GMeD3Rq7I53CNmqpZjcAPeRcVbL7MjzlYJTohYLSuMWHbA0uv1v0GYFC4ORHhU04t0kXGelz4LyFMcVzOMI9CxDXfR7gTHSCkX8HcpSV75VY8rp0lmrkxYekr1SjbPduNgLYCSdivkVSLNqPzm2M6T4LV/rcNtmpqmMGcqtveL8EHtrv3T3z5bb9gox//QyP4Kh2jwplb47hIp3gh26D17O64A8S0xUsbuLzYLwyMuPRUzP67HINviTN2bCGcfEDeqVurcX+AljDH3GjzfWWLi2R9yeXXo1Md4hSix65BIdSW8EpC2pASBGdbMVC5A2rfga4TxZJN5QgtOGQmrfnzUaLmjaFC/wlTp8OYng==;th9H3Kg3KHRuw4iCIpS6rg=="
 ---
 

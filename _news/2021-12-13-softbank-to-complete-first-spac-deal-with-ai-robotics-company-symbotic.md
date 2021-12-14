@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a"
 type: article
 quality: 89
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jQtjgogdek3pE7KOlPw7otrQiRc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZFQOUR573H2QNWDZJKC6C26X6U.JPG"
         width: 506
         height: 284
+        isCached: true
+  - title: "Two Firms Aid SPAC Merger With Symbotic Warehouse Robotics Firm"
+    excerpt: "Sullivan & Cromwell is advising Symbotic LLC, a warehouse robotics firm that has Walmart, Target and Albertsons as customers, on its go-public merger with a special purpose acquisition company."
+    publishedDateTime: 2021-12-14T11:55:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/two-firms-aid-spac-merger-with-symbotic-warehouse-robotics-firm"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 69
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Walmart-backed warehouse robot vendor Symbotic to go public"
     excerpt: "Move will raise $725 million for firm through SPAC merger, help it build more autonomous, AI-powered “Symbots.”"

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-12-artificial-intelligence-lightning.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-artificial-intelligence-lightning.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1580
     height: 900
     isCached: true
+
+related:
+  - title: "Machine learning can now forecast lightning sooner than other methods"
+    excerpt: "University of Washington researchers have created a new machine-learning algorithm to predict lightning strikes sooner than ever."
+    publishedDateTime: 2021-12-14T11:00:00Z
+    webUrl: "https://www.tweaktown.com/news/83390/machine-learning-can-now-forecast-lightning-sooner-than-other-methods/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "WH41R/oGBlGKhnXUi379cwstbXEVnZq/nORhuhOGE/ZC0HSRhXn/VJmbDIspHkzX6UUCnHOfS8FwqINYadFqcfarv8hHw4Y+9xjHtZ1Xz4lrsAFjcvruz9VikA0TSQZfF+eOmmDLLFKn6NvF6TahrJiFPCK8Q4NgDRDEeBwRFoErMkwh+WgNSpIoILcq7lMnNd0fYfMlRtqPpejHnoGGqk4W8NKCf/eKbEjvb3NO2mIXYxLT724hY+8OmUyjLk98RD5g8H8+3g5jPdM/rBbR2/KPAW2UjnNC9U0CHIkFCbKCr91rx9c5XJGwU8IG+gGh4156lQEdTnXw1DB5icECF+gLbIMuf4U55d6LI1sH79HV95ZucZctI7RlAADBn7+pkn1jWdNvM7vYzx5XxI6WyzdPH7pJksggVKWYOLggXAOJKJxQ7ItYUnrw14eHVAgx7kSkoStWWJXBMOkK1XsCb3sF0LW9megwAVhLQshyqDnv8uf9bnuU9yluI8MFiLYbg35zf1I6YNghORSQ0mhxhQ==;5Z1Hccqh+j1iLO0h48YbqQ=="
 ---

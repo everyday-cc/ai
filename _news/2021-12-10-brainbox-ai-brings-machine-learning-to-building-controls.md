@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "How AI Is Enabling Self-Learning Factories"
-    excerpt: "This is where new technologies come into play, especially autonomous self-learning systems that can immediately respond to changes and individual specifications with the help of artificial intelligence (AI)."
-    publishedDateTime: 2021-12-09T19:54:00Z
-    webUrl: "https://hbr.org/sponsored/2021/12/how-ai-is-enabling-self-learning-factories"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/12/Picture1.png"
-        width: 735
-        height: 410
-        isCached: true
 
 secured: "tMc9rATn1CSzIu6iflci12qlomiv3+6HxiSh2BiAuopfxWt7kVukEs0KdHPRzKdbDkbtsMvbSqQrTr04SyyAKBDCCb2BXnwT1Ka2u0oXuKFSQqYiTnkTs7K+GUlQO2+HYeg7egkLwv57qngPJD801iiuVlkSJ8upTiM5u1omZ1rLImU3uXLkrewuAR1RPJp0qrwCqY7o8/EFs8Pj/36AsabhiONTU3Sl9zGgmyA04G72tFPHuHQyZXQEDxP6OGjdjwsqNhH1kZzk2Gu/eQ4NlzcUuERUxxQDn62/bTGoN5R48pI467v32mzIpUpLts2TqyF8ZKGULo5kPT4TtA59MUTPSNvctYXO7hFsJN3tlAi0JcTDS1iCx7uZm9wzcLOhyOvR8T3yqhruZEdXg1oYRJ8W9T99e8rBsPZqyjtzVpXwOd+ZeHye59vXXmpT4ubJLXLFEgmgy76N+gB6IeJ5QxGhHzB775VRebwUoXSFzHsqSu9pxrhqtKVLJ5rEIXyq+tbjbZUvgrE9Wpm+qBLIOg==;e08wOzB/oop52Hp3CsDp/A=="
 ---

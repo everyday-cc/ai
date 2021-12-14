@@ -37,19 +37,28 @@ related:
       domain: benzinga.com
     quality: 39
   - title: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research"
-    excerpt: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research. LONDON, Dec. 13, 2021 /PRNewswire/ -- According to Brandessence Mar"
-    publishedDateTime: 2021-12-13T15:22:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/13/9509797.htm"
+    excerpt: "According to Brandessence Market Research, the warehouse robotics market reached USD 4518.4 million in 2020. The warehouse robotics market analysis promises a robust growth, at CAGR of 13.2%, promising a valuation of USD 10912."
+    publishedDateTime: 2021-12-13T13:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
         width: 400
         height: 400
         isCached: true
+  - title: "Predictive Maintenance Market Size Worth $10.84 Billion, Globally, by 2027 at 15.1% CAGR - Exclusive Report by The Insight Partners"
+    excerpt: "According to the new market research report \" Predictive Maintenance Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component (Solution, Services), Deployment Type (Cloud, On-premise),"
+    publishedDateTime: 2021-12-14T10:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/12/14/9510464.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "UEm7itWeL09WpfDK+mZvOQsOqP/yLBtdOMv7Hipn4zpDdgjc3+etKxowk4WE3x5u1P0ll71En7T4b3w9y/rPMOo0MitTDtAnkz5MKOYOcRTrdzzqx5g0q6HdW1PPB6IgAZ85reOpXsuVC7aGxSoIZUpelPpRlae0MO33A1QDS1BzMz/qVU5NhAH5zUbdNq84erI//MP5CbNJS/8paUVm0IIT4WCsyLWcuts8IC5JwHknU1BIkQucaMn7v+64l6YNHEuDMeqaK2p2CgMuaehQrrG4EHbxlgZvDr0EMsKtT61Ryqo2HoUAXef3S16MIXo8lFhTSfLsMFwEkliLPZSdVC2x/taQfSLDJeW/C0+kW6mxqPWFz3sU0DebIG05msIqSvvzKz9e07rRGeq+xPxwoWYGlQdOuIXNMVvlN1F2RX/OwDw5ruBEkYCVGqCGrMo5HwGxdESHkHNSR7cicAUHvV4AauNjqUA6bNShEjT6m4fAwteu+qj1oNoZpBlk8ytCjj4DLaVQQ2zK2EAJ/Tvq8w==;ou19RxbAhE0hXQg9t4bL4A=="
 ---

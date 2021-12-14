@@ -41,20 +41,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facial Recognition Tech Perpetuates Racial Bias. So Why Are We Still Using It?"
-    excerpt: "This unregulated technology has served to enhance discriminatory practices by law enforcement and further endanger the lives of communities of color."
-    publishedDateTime: 2021-12-09T19:39:00Z
-    webUrl: "https://www.yesmagazine.org/opinion/2021/12/09/facial-recognition-software-racial-bias"
-    type: article
-    provider:
-      name: YES! Magazine
-      domain: yesmagazine.org
-    quality: 35
-    images:
-      - url: "https://www.yesmagazine.org/wp-content/uploads/2021/12/Facial-Recognition_1400x840.jpg"
-        width: 1400
-        height: 840
-        isCached: true
 
 secured: "oLzMhI/3uBuMhk0Zdu227KIzBn3KJaGeMYxrrgo1SyofuAsgEvsmeqjjhwodY3PeX9ZAI/9KMkvEfhoL2VwOMfXicQ9wqCLIUU9cYT1tPRcIm7pKoHmIw0xkxGkQ0A+JBKHqVjnXjrNu93K16A41pwTEJ51bE75U1D04A1PIK2lvnEdgAZAKyVLbTo/wvFJBs/aKBmtR039Itu9ZuG9HQWPfcTkdvv2Wpg2WN/tToPHu5fILk6UDNgajJixu0osxib6hX9FPlkDptgy3PFWFpjAWRq0cWZw/IT7/V+9AC7xW+o8duf3XUL1CAs4Bf57AqZzLcmFF7QKSfjgRJ0nABSr+dCYejiH3v3TwJOXq3QDASLxx5uwxHnW4pSZnRGGL+XKhqiSeXFUSNb9wRJ/+MpqUmUoqOltlAOE67qFw6k3L6rQuWwMbyyo9EFKmUNvdorB2eoqw5FqcWWm+G1+5ixWU76071+i6X9oZIkadtgC9E/nQFZHKGbc2fV7CP3Wn2vdGJSvJAntU1/EpXYABQQ==;IZ3iMPvv6d3djtxhHt/Opg=="
 ---

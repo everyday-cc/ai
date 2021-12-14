@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/12/microsoft-partnerships-capabilities-azure-space.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "AI in Fashion Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
+    excerpt: "Advance Market Analytics published a new research publication on “AI in Fashion Market Insights, to 2026” with 232 pages and enriched with"
+    publishedDateTime: 2021-12-14T10:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fashion-market-may-set-a-new-epic-growth-story-microsoft-ibm-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-re
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hZ2GrME6o5cydqcoV2T9PK-1200-80.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Apple Loses Three Key Engineers in Self-Driving Car Project"
-    excerpt: "Apple has reportedly has lost a number of key engineers in its self-driving car project to a pair of Silicon Valley air taxi companies in recent weeks."
-    publishedDateTime: 2021-12-09T19:10:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-engineers-car/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/archer-640x427.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "N77+3VUDVoplQ3AeVVHeUWjbNRft6wE6aDNRxw/hJcPX5gLqSlpgEyyiN9zGXPO97FhZSk2n2huCPsi6EB7BMukKQDcBgswpvCrs06Zyu5FLNzW5TWJepUzycVArotYdom0+0y3fZiGPliZmTnTb0Ua0tF0do4hZa63QFbedcZ92iHLnYoANUAEFFod+VFR6ZsOzraYR9tW27hPRX9Cw6YGBwQoHtmr/gP1c9TEmb9LaCzFeDUW6fhOqLvA1CCSMpdgLOLlNw0PnMScMVK1FMefoBg5KFraO7SQOuwrAtaOCQJ6xd6OoE+OH+i0S63kFjhTTyK0vbG1PjWMQcUIgxz98jefXkrhGHxZvNBzIM5lUh5LgFNR+6IdkgMVGs2b4BCplrdVN6KvIGRjiZxEQZ2qdxnulhOdv35h/XaRpOz1pwS5FE7ZXibSh3H3p61pjlA0j8FHPIPle8kdZFxitOmqJZRMRvh0lhq8oDGTjWXzYVNivLM2+gDAKU5x4RpcfFhjeCDlRjuA/ZUoTHtDSpQ==;M8tthKrV+EowJ4Q3mfaq2w=="

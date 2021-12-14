@@ -1,23 +1,47 @@
 ---
 category: news
 title: "DRDO adding new chapters like IT, AI, Robotics in technological warfare, says Rajnath Singh"
-excerpt: "We're adding a new chapter in technological warfare like IT, AI, and robotics, every day,\" said Singh at a DRDO seminar on 'Preparing for the Future' in Delhi. \"DRDO now has a new role. It will not only provide service for defence research and development but will also be a facilitator for the in-house research & development of private sectors,"
-publishedDateTime: 2021-12-14T10:49:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/India/20211214/3873400.html"
-webUrl: "https://news.webindia123.com/news/Articles/India/20211214/3873400.html"
+excerpt: "Defence Minister Rajnath Singh on Tuesday said that Defence Research and Development Organisation DRDO is adding new chapters like information technology art"
+publishedDateTime: 2021-12-14T11:11:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271940481/drdo-adding-new-chapters-like-it-ai-robotics-in-technological-warfare-says-rajnath-singh"
+webUrl: "https://www.bignewsnetwork.com/news/271940481/drdo-adding-new-chapters-like-it-ai-robotics-in-technological-warfare-says-rajnath-singh"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Sf30jVgohwBSaYErDs8XIf04Z+IsYTavudViD0jT+0+5V0IbcZtLfUNrKVRnGcg21d9LRStL9x236SVUuxvjamxOczn+v07nO5vicoKtQ2dqquiTHgM0VCHD8OJV2zVtShmD9h8BgGieUc4dGoSRi4EMqOh+anNY2v85StclAmryVG2vZVzQDXwxS3/hk57ETGjVDNsrA7rnGEeh3G5WrLF2BhdPsGP4VUtXJztBtBz2zZg0AFlZRuolkDtw69u559Ks3+7JS12gL6Fk3z7cQC16Y87eCnIFlMxLplPyWzY9wUTEgzTt3xQXu4GmvWYLCe6bS/mNJkIbSUMTVwloZWFWq2AXsqLgvq1h6hxTfQk=;l0B2rh200PLBYPMC6vhkkg=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1639479708.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+related:
+  - title: "DRDO adding IT, artificial intelligence, robotics in tech warfare: Rajnath"
+    excerpt: "Defence Minister Rajnath Singh on Tuesday said that the Defence Research and Development Organisation (DRDO) is adding new chapters like information technology (IT), artificial intelligence (AI) and robotics in technological warfare."
+    publishedDateTime: 2021-12-14T11:17:00Z
+    webUrl: "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 87
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/14_tue/img_1639478703391_58.jpg?"
+        width: 1080
+        height: 634
+        isCached: true
+
+secured: "V0wV6I9jGXU+EKsyoknFc+MHh3F+ROJRdXRHcHG9NWc/SIS9mFS/k4aWFvAncOlm/h3AGiF1YjVkGqZxlyfl96XSOv/62LXImjDHeWBq1y/eDHcpcpfXK0Nov1xtxX8mJPZw6y4Q3v68wdQR/eCVVdVI0k5XcwpbO8yI1Qk9+bqksLHsI19gyUASfFXxtxDmecI5eTNwa2Wwg0PqZq7WtO25BvDHR+N/ncNJtPLTmgM7U8XjWgo7BrzCgPUNRr5lpDITGKWDZryvILbpuYYKfPeNEZnNFvW6UWSK69YeFasW1LGkWHX+S+dcABBE7iI/uQb7d1/aQK5vtV6mad60CFX0hrDrcwReu44eXeBQ35U=;PDCm4UqqQOtPVMUEUcA93Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/2022-transformations-promise-bett
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 949
     height: 610
     isCached: true
+
+related:
+  - title: "10 Transformative Fintech Predictions: The Future of Finance"
+    excerpt: "Discover the future of finance with these transformative fintech predictions, from exponential computing power to the rise of AI-powered finance assistants"
+    publishedDateTime: 2021-12-14T10:47:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-transformative-fintech-predictions-future-finance"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/future-of-fintech-2030.jpg.png?itok=k5tq3KIp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8mJG3QQfSgbjK1SXXfO0ZjFJMNnYo35QnuTgLmStjA6qkREEv6NuAw0BHNSq2dtWXf5ecPpbUHs9M9vOdGCsADbWbuhZibEmqhxWfQyRT6XScEAp3ugZA1gQjQ9n06lHEDdCJA/MiVlYcD69Nq/H8ENislErDTul4GgxhIZan4ezmsGjntxACOjN7ZDzMsWIKN2NZS9eRFnECb9Cd/4EYdyCtokV23reGqSJS8WmisKVgLLnNwUbqpjE2ZpciQi8i1JQc38JTWmiTSgKE1QrLIwkG5jOoKZtMZ2zf/J4PWtI3gFKHKCojraMrmGsa8hqMExeb/Q3/TGSBkfa8r2QsIGzLbNQyihQFT64zxCT5jQ=;2fyq8PQb2PpMREo3rkFLAQ=="
 ---

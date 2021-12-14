@@ -118,6 +118,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "S Korea to test AI-powered face recognition to track COVID-19 cases"
+    excerpt: "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,"
+    publishedDateTime: 2021-12-14T11:46:00Z
+    webUrl: "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/13_mon/img_1639399210184_127.jpg?"
+        width: 1080
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Predicts COVID-19 Patients Needing ICU Care"
     excerpt: "To assist in allocating resources during the COVID-19 pandemic, artificial intelligence can identify patients likely requiring ICU care."
     publishedDateTime: 2021-12-13T13:30:00Z

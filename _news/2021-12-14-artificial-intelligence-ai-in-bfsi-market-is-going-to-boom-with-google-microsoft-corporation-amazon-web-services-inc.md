@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfs
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
 type: article
 quality: 81
-heat: 81
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "XOtHJ+/+Yp2Hrk1mc0vXIErOLBt+HVx1didGPPs5ndG2hPmisK9ew9ZimEaSg/3KGdm0n47gyvfDwT+2raAR4qgKnEN/IylPN9EJwIUOg4bNNjtJ1GPZWOa/1Wl+tAItq04x/lSrSAsEg/6tGPhz+BdmJUzeFaKyqM+SO4AjJkt/3PScLjXw7P3RLawd9P2ov3avuz7Vbh6k6MNVR97uGofqLzLkE4BmCYPNPOp9e85/DKMAUYa2TfWHs3iVtr5rwFXdHDQA8Hn8rSfVZG4vTYprVBsFgxIIYSY0HfcGVzIDNdzhVgQRRwpoNWDPA9YhO10dJVunPW2lTgRUeoK0jJiB8pXyhHsI46x5yNc/Cvs=;dtMGGAazWJp4rIMtn58uuw=="
+secured: "90L3dyk89oNkBzQqOrDeGeWGIL6qSBoFodYbsWDUqRiw+byxU1Fu9XwkylL4IwN3dq3pKD2J8E2WDF6CkXuggIClqEzLzND9YdkFp0RvADS/I2/jskrrPPqLaNmt6g5ZTzarf9w7GKLO8UUjwx6hz7p7ymrI/eQIG7pofbU4E0nvqvTFsrlcW06dWtYDDvJw1W3ApLnTexnoSH3wvPFjsbYwIjtJw5nyZ45C98SjCzgAaVupUqrI9hRiNBjdZLyy/oEJN+x5cS+ypSrtdwyfY3fYKfXYgh+M+7Al7Cgu2IUXjOMPJT6GVUXv1s2CXFnD3LfN0/eG/D0qGChy4aGiQARX6goNdOz98wMLj1FpYzniGWJqrdFurJdepOlquXMQJlzP9tmX1Nb0rGL2Rsm95eCPBftrRf9ILmSlE+22HfJaDHuuiWzG5utqeDzD9F6zAkpc9zmbwIaSfx//09FD1Sq/kRToiCJ/OiOtGH2eV7yYid8ShVJZZM76BAd1NM7maqRk15vPksSMxaxn6jnhuw==;zPIw9/IHjA4Wx08t12IJkA=="
 ---
 

@@ -93,6 +93,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AI in Fashion Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
+    excerpt: "Advance Market Analytics published a new research publication on “AI in Fashion Market Insights, to 2026” with 232 pages and enriched with"
+    publishedDateTime: 2021-12-14T10:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fashion-market-may-set-a-new-epic-growth-story-microsoft-ibm-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "G3ZC6gNligXvsHQelQmFOg6a7W3orRZpq7RdA3sStg5UgcHGeUC1n7rYkHkxOKv2l4ZWPDqr4ZV9fIAqIA7ZfdjaH2bpSTuxmwJPgMPCIxDXWN+hi8jh+Bi29avfqvZ3CsDrEYBZ7mf3xf50rSIj4REbODokvk6ajNaqPaNJlhsvWCy+3oyCFozTYp4QzPkSrYDoUgQoSrT1mYPaIlYlMcAdQUheDV8XeUNfwsuwBseDMv4k9zQ4kbDRRqTKWwnixYI4mPhRA6a2RpqoJamOA+Jj04IZBDLEXqdXTpTO6qoPLVhgVCwZipd8JcywPR4WWLOvDsYS5faODS1SCwaB642E3jn2BzA7Gm5G/fvVVwnu4hn5zXrBzh2je74lINoxOuvpxenAyYcxkL9ak+reTxbMtcmSiF+wUvBxpeoNTbGDl2Jc6tOwrf1y4VPSZBn1byAq1Ydug5dGOgwdI9nOOi4pB/4Igv0mCq1eGUiRtrM0Z5/E36GNtyEutV2SL6fqPVaXvAf5lOOIDa0EkArH1Q==;w8Lw6SC0sub4T9gZAiwD5A=="
 ---

@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-21-want-ethical-ai-hand-the-keys-to-middle-schoolers.md",
+      "title": "Want ethical AI? Hand the keys to middle schoolers.",
+      "excerpt": "An innovative curriculum developed at MIT takes aim at eliminating the biases inherent in our algorithms—by teaching the concept to youngsters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
+      "originalUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/11/19/210817_PopSci_9121-811x1024.jpg",
+          "width": 811,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
+      "publishedDateTime": "2021-11-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-a-robot-wrote-this-book-review.md",
       "title": "A Robot Wrote This Book Review",
       "excerpt": "In “The Age of AI,” Henry Kissinger, Eric Schmidt and Daniel Huttenlocher explore how far artificial intelligence has come.",
@@ -1139,49 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis.md",
-      "title": "AI in Computer Vision Market New Emerging Trends & Technology Standards, Revenue Impact, Objectives Studies & Estimation Analysis",
-      "excerpt": "London, UK — (SBWIRE) — 11/19/2021 — This report provides an overview of current global AI In Computer Vision based on segmented Types, Applications and key regions. It focuses on major ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/48390f2af271ef50423df694c8ef0835d356e1e8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

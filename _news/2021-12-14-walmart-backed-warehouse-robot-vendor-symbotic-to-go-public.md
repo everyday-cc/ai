@@ -57,6 +57,20 @@ related:
         width: 506
         height: 284
         isCached: true
+  - title: "Two Firms Aid SPAC Merger With Symbotic Warehouse Robotics Firm"
+    excerpt: "Sullivan & Cromwell is advising Symbotic LLC, a warehouse robotics firm that has Walmart, Target and Albertsons as customers, on its go-public merger with a special purpose acquisition company."
+    publishedDateTime: 2021-12-14T11:55:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/two-firms-aid-spac-merger-with-symbotic-warehouse-robotics-firm"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 69
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Warehouse robotics company set to become public via $5.5B reverse merger"
     excerpt: "The latest tech company to migrate to the public markets through a deal with a special purpose acquisition company, or SPAC, is Wilmington-based Symbotic LLC. The 14-year-old warehouse robotics specialist and Walmart Inc."
     publishedDateTime: 2021-12-13T16:34:00Z

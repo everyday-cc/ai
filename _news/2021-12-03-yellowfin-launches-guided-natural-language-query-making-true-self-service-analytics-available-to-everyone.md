@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
-publishedDateTime: 2021-12-03T14:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
+excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
+publishedDateTime: 2021-12-03T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "csYtLxQD+S9Ch0YEnI8Px/m5aU9xLySGZrNp2oP4DHtdSNpZh4JcxX8WjsDD48M2aiRP+eeJN7U4YMMMOeWrSUc5IY+rC5woUv59nyUTMcpgkGDB0yw+z6n/yqW4RZgOzShJSv1v03szK2O5Df2mmNI+//7vnxoMrm8dIJsPBJ0DyQT/92ty/4b5zk9PLlDTFBfGeOguflzHpPhLy97Gecyaw0rxFhufyaypomsSs2xOT2TAQvhmfrRWtlQDgGd3i5Mxwu4DLq6e2yDuW1893f8H+fJF5rZ3JE8LE5EHc+PZoWpaqv0NAV0aIB4qA4i9H+SIKv/YmcDo+THkZ/2d32KIRLXtzm8tVGGJe6NqFBc=;nkbAuSOGQTGHprB64QuJjw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "7UPz/U3kSg1kvVpd8XPKtFZkSmxyFMu9QM6ewlqGOZ9lQWj/BGv38UdMo7ndv1iyjjU4WcR9U64c9LaauneskMQAHSSETPVWn9+q49dHXm24wQO7ewpDu/nWxsByGDNq91psF6wJL892277xg35E/GjtFT7ruRtqtCTzRzQnQLm29tz0TJOGKDrTf0fWy3M6HGFmFQoq0YcqYk7/W2fbSCsw4wUIGkewucfc+EtlpYcP1Mo/2MjNhdJpyETZZJZ7sKiiavOodDD+4NnB9xT85qpfPpnVRTVwnWeEq14jZhBiVhx93RGl33LuWOX32Fh8IreAcYyi1mxc5DF4zpZo/7q/zm/1p4uI/Ywz3istdkY=;OWGcR4UkwOz+apRmYLaGdw=="
 ---
 

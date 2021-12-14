@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-10298385/amp/Police-using-h
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Daily Mail
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Facial Recognition Tech Perpetuates Racial Bias. So Why Are We Still Using It?"
-    excerpt: "This unregulated technology has served to enhance discriminatory practices by law enforcement and further endanger the lives of communities of color."
-    publishedDateTime: 2021-12-09T19:39:00Z
-    webUrl: "https://www.yesmagazine.org/opinion/2021/12/09/facial-recognition-software-racial-bias"
-    type: article
-    provider:
-      name: YES! Magazine
-      domain: yesmagazine.org
-    quality: 35
-    images:
-      - url: "https://www.yesmagazine.org/wp-content/uploads/2021/12/Facial-Recognition_1400x840.jpg"
-        width: 1400
-        height: 840
         isCached: true
 
 secured: "DhtEEalw4p+vSRJ5yDDvPkQocqVgl+wayG7xtr9jd3mDxbxwLOApiK7ZBVIWFH7+a1FwnKVmCzaqWTZAAr0NbBFbu5j6dC5O4i7McS1L6jRT9VtmW5vZDYKnKVXJkwatkxqLl+L1Vl/uzgCGw6p2uesiaNSaxEAIgJCUHhnqFiVO43ETWTM+HUa0soERshOLQ08yu2Lk6LkvjtMGJoXElSNfY91se6ff1tDEi3PbQd2KT8D5g2RNOdae4EMCFwgDwEmAytsuLy91bTMMlbjMCa1gYZMM+EWYTmRn1tXgHdvNM/aWFjvXEMYllP6W7Hhvyve6rQHi0R4otFeCCyoENKbpth6vWc/3yO3fJh3hzWVzKvmz5DfUcDFAOn8vQqmJV73ES2fQjT73B+pQKj+PLrfdiYFGAESoZfk4LIzmR8WSnqXsO/IEAvcy9GNwMKIrDvpD9UGgt+jQmQ8Hq/Wor0CmesiUjiiNNCXpGVJ3FJpsqFSbZvk9Ne8hMSTJ9rRoQGg68DFs/6OOArDngvu9AQ==;2rh09toaGrBSEGp92UGhoA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
+  - title: "Artificial Intelligence in Accounting Market to Witness Massive Growth by Microsoft, AWS, Xero"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Accounting Market Insights, to 2026” with 232"
+    publishedDateTime: 2021-12-14T10:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-to-witness-massive-growth-by-microsoft-aws-xero"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 59
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
     excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
     publishedDateTime: 2021-12-13T10:11:00Z

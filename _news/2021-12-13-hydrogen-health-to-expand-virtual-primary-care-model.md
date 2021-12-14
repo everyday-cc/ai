@@ -9,7 +9,7 @@ ampWebUrl: "https://mhealthintelligence.com/news/amp/hydrogen-health-to-expand-v
 cdnAmpWebUrl: "https://mhealthintelligence-com.cdn.ampproject.org/c/s/mhealthintelligence.com/news/amp/hydrogen-health-to-expand-virtual-primary-care-model"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Hydrogen Health banks on texting, AI in crowded virtual care market"
-    excerpt: "The company's method of virtual care delivery represents a departure from how payers and providers are currently offering digital care."
-    publishedDateTime: 2021-12-09T20:28:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/hydrogen-health-banks-texting-ai-crowded-virtual-care-market"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/iStock-1129146997_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "FzlgQ+VPDLkbPf6STIybQFJDtsUKCX+UV7ryU4W5Cozf5cSsUXIOrI64DiE6s8Zt9xTDYXJnAK7THxqoIzFo6YYkr8Ddypl1aHx4z5z7n0CkChfcNxejqSK0fO5dFHe468dUAtTQ2kFzZcaQX2N/0Y4uCUypdvWrTikMi5K7dbSeMZJti3l+VP47MnsEZBU+7ZJjQU8TfcBrlPhwD21Xmz3VMFNRHntePzWDphT7MhDlD5wnrGHo8+ajrR9HYsp2hZUP/w+TUu1nFdvvu+jBapHBV/SuAez8SuQQA1zBCGDfcP7O7Cik309KpYtnuDTggw1Cn6Bifb+1JqomuwIVeWHhMBJu4nEF0e5jv8lkHW4gMcpfApDvpiuB0iK8OjJja5fPDMz2/El0e46udxDvNi0VUa36kfWbeR/XACJTJDdA1Y4O+j/z07NnexRreKScX6bba1wFjURd7f9IF40OsPa4gediDeVDqJbORHruXz3R/qLXCm8gFlHdt79H5rOaMgtPfDehTBY0axToNMcHgg==;Dh2qi2WMIeOOYZXKFMAsgA=="
 ---

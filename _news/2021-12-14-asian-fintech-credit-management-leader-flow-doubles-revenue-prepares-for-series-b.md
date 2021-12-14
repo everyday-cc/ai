@@ -30,7 +30,7 @@ related:
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
     publishedDateTime: 2021-12-13T05:41:00Z
-    webUrl: "https://www.altfi.com/article/8625_london-based-startup-launches-bookkeeping-app-for-side-hustlers"
+    webUrl: "https://www.altfi.com/article/8625_london-based-startup-launches-bookkeeping-app-for-side-hustlers?mc_cid=df34f72749&mc_eid=69c4e3bee5"
     type: article
     provider:
       name: altfi.com
@@ -42,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "/cN2kUprU8Cmnd0DeSaFEmzXREa7Z3wNOFweyboM93wEvFO8yUkTQm/NQtTxgrQOiZTvgu3EpTR2AkI+PlnZqN1NJ74KuIWnuwptWj64tY1YEqZmtlLd6qFvkipAzvXDMAj6sAkroxpSppWD60215sW4c5ZbIJMcxdPrLCWlG9u8B8NaPgt6I9MXOBzNk2IsTNKD4NiTLMwzAUI/xMU4m/HBv4f6S1xCJrfN8A/mbFoKIF48MFk8hpfuJdQ9Se0kRZLim1DKMQznnu9Qz8RHXetq3ZVtJZKrjI89YRdsWoODG7nCb2dZOz/Lim0Zi34ukdadAFjDceNvi1BQmzL0G05kF5DbYlZ0yeNfbniM3sE=;/WfU4smr4Zwxnf+ygWWfbw=="
+secured: "Fg7L/0gLb2LfFebLxWcwZQynyjL0iRRGJUCbfOtd9bEcAY9PKz3Kay8yqN0zJtGE6C7OICh2X2vIexoRM6HM3z/v8pRMwTgmZuozLaelMNw9zD1YO/cVIQD8s2aEuNZOL8sT74XXL4UjBFwXQfnmYsG45lhrydEiCuTNjszHQZi3QTJAffXH85EXT8oJzs71OvNT3ztFZeaGKrFfirIJfg7MLKYSckTJtcmN4rkRHx3MI/LtfE0AUNm5bLSVzh3dkQO8v9xCv7kdWYdBrtTIzwx3fr9c58KJnEjRMNW5tbdpqtowHlCQGrWMdzMeg73QsmhWDqwgQk4GlE8GbMtXzbHSkM/PHJohDDYDIFfPa/hFbyMjXK1ijUaXClqwZP9P3izdiSQNcbxonuejFdmuF8FUDL30C9R7HfDCtKYB3A8u2uwtwu2bmgJPAVb7AMBSRSeKOHcLcHc9pM9WDLj277Obnl7uwVKm+vFq1KsC/pgZZ91edUP8WBRvIJs3oB+UCso4Wd/FigHL4e6G0f1ZoA==;YXNiCL/BHeIUVlZnp5RBcg=="
 ---
 

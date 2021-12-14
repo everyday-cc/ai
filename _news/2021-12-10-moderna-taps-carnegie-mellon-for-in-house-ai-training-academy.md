@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moderna Launches AI Academy in Partnership with Carnegie Mellon University"
-    excerpt: "Moderna, Inc., a biotechnology company pioneering messenger RNA (mRNA) therapeutics and vaccines, today announced the launch of its Artificial Intelligence (AI) Academy, an innovative initiative that will bring to life an immersive"
-    publishedDateTime: 2021-12-09T20:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20149261.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Moderna partners with Carnegie Mellon to teach employees about AI"
     excerpt: "The biotech firm Moderna and Carnegie Mellon University created an artificial intelligence education program so employees can use AI in their work, CMU executive education program director Nicholas Hamilton-Archer told EdScoop."
     publishedDateTime: 2021-12-13T22:38:00Z

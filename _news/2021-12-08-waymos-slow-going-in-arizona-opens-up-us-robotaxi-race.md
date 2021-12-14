@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
-excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
-publishedDateTime: 2021-12-08T13:32:00Z
-originalUrl: "https://www.metro.us/waymos-slow-going-in-arizona/"
-webUrl: "https://www.metro.us/waymos-slow-going-in-arizona/"
-ampWebUrl: "https://www.metro.us/waymos-slow-going-in-arizona/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymos-slow-going-in-arizona/amp/"
+title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
+excerpt: "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+publishedDateTime: 2021-12-08T13:33:00Z
+originalUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
+webUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
 type: article
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "95RCJ2HrrnrD39fX3+kmNlJnEAGk5btdIax0YJW166HuB/SlTPHYYJwWwHATMQstL7QxQq1zVlSH4ZUqu9+5gE4vbn3ChWONhvUsw5JOoyu8yFW2mHesMSdFgGH2qdhSS2f9gyTcQyjcTk2FarFZ5+rJKQyaSu/W2/ni7eq4Ah8fU5/482Kdc6g9z5l4jHaIMBMG8DwjHs/SJPuLfsPaJhbI0/r9Whv/OxKDoyCM0FowBDNIRrW2qkXZ9yD0/5o1BTTcqxgficrhklaT8nAQdWv0L6kUnDEkUwAzD1PWsJa3GzzJUrmfWzj8mXqzZqIrHl6U9yxBv4XQz1Qu9hDerWj7vSt16enZPfDm0xYqFyA=;5GLt0ILmj1mcT8PlT6AhlA=="
+secured: "yFqiotlyWrVd2zD0U8/2XGL1j/zYf4c1/v9e/q7fBrvCV+/C70E1eWNJHIKeqaT3FvJF661Qp+cHfWcz9GUJpSwYzA+EoHFBeMzQmmEaZfQkQCoiOmxmyx7OqEhWIjlRWWAeghRBP/jJ16HqixveRRKznUfWC/PboADuhkevQsfXcyyB08Fj4kI3kWhtdCpqosyZkOguwGpW3yGd4ILJIazqopfaPGlR/PIc8MtWz7lfSb8KOdEbvm3gJwjCqBlA1mpOzzFGERBLX7JoD1vxncO+lObHaXFNL+63G8/1hUZmnC0br+f9Piys1r9dvonFl38j0CfKRVPxoXTOuoFWzENb9cmOmIdlc+nc7h/hRt0=;3k7uufbuAgWemtEheHpP1w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverl
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 2757
     isCached: true
 
-secured: "S9LNPb7ksp4N14vT0sybsR9D9AE+vj4kxGr++/YvEZSli6DpTcVrohCD25TS9AHn7PZ9u2Pq9Fi1cTSgJSjtin0zLDvZOWlC1NVgB9NRH+u9xiFN/04wLSVG7HV4Tul0D5bNtKvj1njlA0OuTLs+O6PGGG6cIzv2ZxxUwSytp608sEPBx/ocJTyPAf1MOHefR66gacaKtT77a3kdkFhFmiaNWOBpUKVJ8tLbWg1DPucauY4kUVVf9Ed3yMySMsk+SFuSiWaGC7FpcxpSkZcP3uom4jrcGlbFPLqqq55YTR84nVXp5HN6n+kmCYBruqvlOwe+Ake6lO2fcDuKxxmvbfcJZm5Ubtd4Ugo0R1zSiMc=;knTcQTnTn+kdtOx6fEIgXA=="
+related:
+  - title: "Pony.ai's driverless testing permit halted by Calif. after accident"
+    excerpt: "Accidents during driverless testing are not uncommon. It was unclear what aspect of this incident prompted the suspension."
+    publishedDateTime: 2021-12-14T12:01:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ponyais-driverless-testing-permit-halted-calif-after-accident"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "to8JaW8bZeRgrK3dZaKpCSweXFBtmRC4cEKBAw8S+GRunMagYsP+1cusUWWdmlAcHOWnh8K6NBRORueE6EiOzTVyKrO7Xd1+toeE4uXh7FM3oPOWQm9TyiQYpz0bLJz2N2Vl4Yv66fvOkMnyu4+e0OEOGqkbGSh++aHaxpDj5YrwgDseGTHMuuP3FdLnzn6CX/nDjmaeOBufm+qibK2Gi+InlrssEYesdjAGv6RfRufboLUTuc+HMWZs/gQraMILs/ke79qR4Lu2kFW/KgkA+SU0gk+emJf3udE/aGxS7pKwDVFHPJEbdlG1a1LCmITcJkiMu1o11BtZ6Zjd86tUb/X15IufzNxLJ9cYaC6rhGmbpIlICTmj0wjbL9oya1tIQVxT9KlLZr7uyPI7tFcFJyqoCtELE6tSO8W016RFW9wj5bOJIJ3/+e4vXboh64wBnoJ1jBbDsygKtfX+f6O7NvblQmVjx+4KGL1dEMfwDbDBBNE9dgl80A23w/OSd/QiA8jUBjARez0wEx52jPnp4w==;HuXjPOx7+EtUpkKbAA7rjQ=="
 ---
 
