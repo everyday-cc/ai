@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-13-next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die.md",
+      "title": "Next-gen GPU’s from AMD to contain a stacked accelerator die",
+      "excerpt": "If it can assist enhance performance, it's an intriguing technology that we'd like to see included in our gaming GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
+      "originalUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cgc8hK4UL6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
+      "publishedDateTime": "2021-12-12T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-12-digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations.md",
+      "title": "Digital Diplomacy: AI As A Tool To Strengthen International Relations",
+      "excerpt": "Steady international relations are necessary to maintain world peace and a stable global financial market. However, diplomacy should ideally also bridge the gap between the wealthy and poor countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b5f38d64a905653f6a2ed4%2F0x0.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
+      "publishedDateTime": "2021-12-12T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
       "title": "Tega Industries to debut on December 13. What could be listing premium?",
       "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-debut-on-december-13-what-could-be-listing-premium-7816661.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 112,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -43,7 +137,7 @@
       "originalUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -451,58 +545,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-10-hierarchical-forecasting-using-amazon-sagemaker.md",
-      "title": "Hierarchical Forecasting using Amazon SageMaker",
-      "excerpt": "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ml-3943-image017-742x630.png",
-          "width": 742,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T14:19:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
       "title": "AI is thriving on and driving the edge",
       "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
@@ -713,7 +755,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -764,7 +806,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -859,7 +901,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -1133,41 +1175,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-will-ai-and-ml-revolutionize-the-financial-services-industry.md",
-      "title": "Will AI and ML Revolutionize the Financial Services Industry?",
-      "excerpt": "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "publishedDateTime": "2021-12-10T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

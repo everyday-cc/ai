@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 1600
         isCached: true
+  - title: "Argo AI Launches AV Safety Guidelines to Curb Crashes with Bicyclists"
+    excerpt: "In 2020, traffic fatalities of cyclists increased 5% in the U.S. Developers of self-driving technology can do their part to reduce collisions by following new safety guidance."
+    publishedDateTime: 2021-12-13T22:58:00Z
+    webUrl: "https://www.automotive-fleet.com/10157766/argo-ai-launches-av-safety-guidelines-to-curb-crashes-with-bicyclists"
+    type: article
+    provider:
+      name: Automotive Fleet
+      domain: automotive-fleet.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/automotive-fleet/content/news/2021-12/argo-ai_pexels-samson-kattweb-__-1200x630-s.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "uQfgo99K04c6lnNsTyQkv9nyI/TVSB9M7mA08tal3uoxhK/3NgSNS3xMVNbna3K5kfiiOQzQOsAHR/ugOJFwYdUOQ9ScyvsYJoh+6ieFAEi+3Nd0cJ0srik6Po0SkCYZlxnK2gwP6C1ibf2s9WNtxSKXc4iSfLHK9NxEYHd51TlI2pP+8KHUMS4UH4wQblDARL8VoVLUAFe1v+v3daiwnoJb6o4VgKrw6SyqPnrrPQO1XJBxq0X+cg4/RYG2kr6kiJGuu/ZJI8IAR+2bK0zTQsXJ/7nxuGJRGv4BT4gEXsZAEM2FyUpxxD/KVv5ZAbGFrU+6m3+dxhIAMjSRUgTaN0uDoOr28OnNRPpbUnr4C3B7k041SCn3c2IbUG/2qf6/Bs25Rck8uUKOLgnwSZWhQNY/CH7KKXaOj7mdqNoKl8IvL1wcY9+ODw3BNOfPKg7PTgWCxCTXYL4il73wNisxOC8MQfyof/WipRJ8kRRZyudz7FBEYZo+7j5Kat1kONZkGASwUe2l5hfywGFCAi527g==;Lfk/dWShDX74bECRwrS0HA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-deman
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Dataquest
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Komprise adds support for AWS analytics services"
-    excerpt: "Komprise embraces new AWS innovations to accelerate file migrations to the cloud and maximize the use of cloud-native data analytics services"
-    publishedDateTime: 2021-12-09T07:55:00Z
-    webUrl: "https://www.ciol.com/komprise-adds-support-for-aws/"
-    ampWebUrl: "https://www.ciol.com/komprise-adds-support-for-aws/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/komprise-adds-support-for-aws/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
-  - title: "Komprise Adds Support For New AWS File Storage And Analytics Services"
-    excerpt: "Komprise announced expanded support for new Amazon Web Services (AWS) file services to accelerate petabyte-scale file data migrations to the cloud, while enabli"
-    publishedDateTime: 2021-12-09T07:51:00Z
-    webUrl: "https://technuter.com/tech/komprise-adds-support-for-new-aws-file-storage-and-analytics-services.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 39
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft-390x205.jpg"
-        width: 390
-        height: 205
-        isCached: true
   - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
     excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
     publishedDateTime: 2021-12-13T17:26:00Z

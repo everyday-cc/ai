@@ -53,6 +53,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "New artificial intelligence centre opens"
+    excerpt: "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The National Artificial Intelligence Centre has"
+    publishedDateTime: 2021-12-13T22:39:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7550471/new-artificial-intelligence-centre-opens/?cs=14264"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 37
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0a079703-e677-46c6-b848-2859736486e4.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+        width: 800
+        height: 452
+        isCached: true
 
 secured: "0jZu+8A81YnfKx6VqOZOSAmTklsSrl3u6IFTa54II3SUizDcRhknW9fptrcp0lSOy5sCkhRJNUSpYVJYnBTkcoMIjwM/xn03qqVqYOepluaFRUU0GYdbqk9xaiGSyoZ6BP82wHwqy8K4Nerta9tfgs9Oua00Y/9zj+Gw0zQcmFJlDyxVJOdMoyA3lmoHX3r3Kjxj0ftmwJs3YakC5Zi0624AzpPWe+xHtfodLR/SdDnCVKK429Y5GqWUNvgotWFkl9P3+hbBzKD0f6Fv/uuJZMP+gDvGKkwD6aYAt8GnviAdaHILFF2M9PRBvRCetn/zI7YZTs/uAzVrhynAFhvqQa5UWDeMCN3zymYuCbH8u+jswc/BisGobKzzM84b59m6YRAlaLsSE/3q9EEzpP9LcZ/pVyaexdPSIw9/M6uMyg18vgodeVu0biyVCEhYm78nKfKHCHZaPsGSh+RvcXnESVkwSuuJTzY5m+ehZtch0b7x/AVibXtvaviGzWWDgQyCgGy4P6AS8c8V7FglE1muRA==;5JDfjRVPkWUMMD7Fp8ll8w=="
 ---

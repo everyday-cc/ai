@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
+      "title": "Does the right to bear arms cover AI guns and killer robots?",
+      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ai-just-designed-the-worlds-first-living-robot-that-can-make-babies.md",
+      "title": "AI Just Designed The World’s First Living Robot That Can Make Babies",
+      "excerpt": "People have philosophized about this forever,” says Joshua Bongard, senior author and computer scientist at the University of Vermont. “But now you can actually do experiments to create biological machines,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a2ddf3713ca3529d70c192%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D234%26cropY2%3D2578",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
+      "publishedDateTime": "2021-11-29T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-why-ghana-needs-robotics-industry-for-national-development.md",
       "title": "Why Ghana needs robotics industry for national development",
       "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse, anticipations, and concerns about robotics and its ability to ensure positive transformation in every sector around the world.",
@@ -1346,92 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
-      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
-      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "publishedDateTime": "2021-11-20T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
-      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
-      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "publishedDateTime": "2021-11-19T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

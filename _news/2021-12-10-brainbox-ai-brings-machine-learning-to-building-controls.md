@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nothing to fear about artificial intelligence"
-    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
-    publishedDateTime: 2021-12-09T07:52:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI Is Enabling Self-Learning Factories"
     excerpt: "This is where new technologies come into play, especially autonomous self-learning systems that can immediately respond to changes and individual specifications with the help of artificial intelligence (AI)."
     publishedDateTime: 2021-12-09T19:54:00Z

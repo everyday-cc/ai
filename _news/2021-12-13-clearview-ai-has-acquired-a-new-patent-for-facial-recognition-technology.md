@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-pat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "New Center for Artificial Intelligence"
-    excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
-    publishedDateTime: 2021-12-09T08:20:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/new-center-for-artificial-intelligence-891725884.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1704702/St_Polten_University_of_Applied_Sciences_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
-        isCached: true
 
 secured: "+388zJNHvUAcRZo4GEPkDoCXS+Zu9RriBwUz8YvXVUZQDG/XVNdaTz7iULF/+Q2engYIQCwCtM6UDSdAbw3lRwhQckG+cCU8Ju4uq+jO0xljR+G+/oqmgGlKKwy79jyeUQkUe/XmFMM/6FBLmP0NUuT/M9WpcgKCwcS5XaPL5u/2xiEAkFopFL794uLMfciRDd3msTIpMYQsPwmnWzxBlVVtiVJy81S0/0lzJNyJhWRxSqL2z6+BU6yvVLXUXIiXgIncy8UccZ4WKieagX4oNKOjyOStKkR6cHz6vzzRfdKgDGyjQw2aWwZUHhn2EKB0Vy34E6zu79HSWrP8cR8naieYlFl5aOGftVyVNKocqnfygruJjzgbWWegWf9rLYSULTc0gprprUsqqvspimUO4xYvjYjjJZlLaabiIe1CQo1QZ2Qv+XyGGYu7nyh60Gb8oYu0q6z/sEkOBGaG25rl6eIw+aLw7qFzf6xNWaWn9OqmkW0PWKDw+A5cZOR1yEJwPndnk00hiD8uUUyxm59T1g==;BYUrYP0AAbwvcFAGpmVCQQ=="
 ---

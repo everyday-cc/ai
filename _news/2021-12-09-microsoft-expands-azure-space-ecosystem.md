@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
+    excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
+    publishedDateTime: 2021-12-13T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "5 Things You Should Know about Microsoft AI"
     excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
     publishedDateTime: 2021-12-10T15:07:00Z

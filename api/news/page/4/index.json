@@ -6,15 +6,15 @@
       "title": "How K–12 Schools Can Use Artificial Intelligence in Education",
       "excerpt": "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible.",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
+      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
+          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
       "publishedDateTime": "2021-12-09T08:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -346,7 +346,7 @@
       "originalUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -572,6 +572,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-insight-trucks-catch-up-in-the-self-driving-vehicle-race.md",
+      "title": "INSIGHT-Trucks catch up in the self-driving vehicle race",
+      "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
+      "originalUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
       "title": "Self-driving startup Robotics Research raises $228 mln in funding",
       "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
@@ -604,6 +638,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
+      "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
+      "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
+      "sourceUrl": null,
+      "webUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "originalUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2021/11/Yoga.png",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multiple Sclerosis News Today",
+        "domain": "multiplesclerosisnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1090,100 +1167,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
-      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
-      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "publishedDateTime": "2021-12-08T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
-      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
-      "excerpt": "Companies including Ford Motor Co's Argo AI and General Motors Co's Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
-      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

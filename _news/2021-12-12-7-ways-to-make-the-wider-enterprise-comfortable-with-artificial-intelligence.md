@@ -47,6 +47,20 @@ related:
         width: 800
         height: 427
         isCached: true
+  - title: "Argo AI Launches AV Safety Guidelines to Curb Crashes with Bicyclists"
+    excerpt: "In 2020, traffic fatalities of cyclists increased 5% in the U.S. Developers of self-driving technology can do their part to reduce collisions by following new safety guidance."
+    publishedDateTime: 2021-12-13T22:58:00Z
+    webUrl: "https://www.automotive-fleet.com/10157766/argo-ai-launches-av-safety-guidelines-to-curb-crashes-with-bicyclists"
+    type: article
+    provider:
+      name: Automotive Fleet
+      domain: automotive-fleet.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/automotive-fleet/content/news/2021-12/argo-ai_pexels-samson-kattweb-__-1200x630-s.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Group backed by top companies moves to combat AI bias in hiring"
     excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
     publishedDateTime: 2021-12-09T23:16:00Z

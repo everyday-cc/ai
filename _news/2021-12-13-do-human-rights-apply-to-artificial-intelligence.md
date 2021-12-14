@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-13T14:28:00Z
 originalUrl: "https://www.linkedin.com/pulse/do-human-rights-apply-artificial-intelligence-michael-spencer-"
 webUrl: "https://www.linkedin.com/pulse/do-human-rights-apply-artificial-intelligence-michael-spencer-"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGu-d0zUXNaSQ/article-cover_image-shrink_720_1280/0/1639404563239?e=1645056000&v=beta&t=-KnmagGj2WE3jfJxTahfNc8R8VHog56VYwRdBvYfIkE"
@@ -40,6 +41,6 @@ related:
       domain: fox5ny.com
     quality: 37
 
-secured: "wFZEalXC4XL9ARWWf/e+RICDFoNJzeoxB9Azzf47hgpdvEel6qsbL2e6Vut1mt01+nZb5mpeexnvA6oiMkK1BjHE6G/66foqesTreFqjvVD+ydA9QU7Z6XCyvm4ZV1sQUNfyLcWp5Wpao0GqCbsSWehJAAcJzV2Gd63EkpguOvelguHLzVgAZPBd1VgzxqhC3UVX+zFAYeJg0u32IBwixnIgHntG22EoyslY0wLEb9sGhPqCtH2lzRPhjvN8uYRazHrCBTjZACZdVAPdSaqoSRRgkJOcAZ+b+AddtjMmB+Q8R468uX1L8HZ0Orr7vDgKt37hjoqLrXzBr4TQABiYMMql2vpQ6GO+NUyHoZrzEac=;UGW1SaWWUcAAnTmzh6eNwQ=="
+secured: "reko/FeElJzZrTM1pqlzF3sy3LXAlHo/w/AjxCcr2GK+8ausBmQru3QqwmQLsUpEFVo7DoDIlfvZnbSBVrSvJEHcWvTkVWe0EjL9waalREEzTHJReIcGyRRjJLf0zgEiS/2EHiqWDyhYfKLXaKHLnMmPDlm80LqST1ohlKlO9OP3ThFD0sjvwSbhBRGVvzCnp7DzuoklwG/uYv1wBIaDwVDhrvqXKt3t5J9+qqwmlkehsmtIboKvc5HdzqEQR3HVeDF7pi7cdJOXSgFr+PAZvbfWWYWsUghjiIH/uUOkLwQXu96nH2kY69urNOMpbnNIMNSLY9jw2V3Cnk+FIg1TmUNPsxv5HF2vw2WwwJYWkK8stydWCKeiHOSwPcyG9elm9pprBgfNsaVU2nFjcpwrQ5xUTj1WuTUnq8GbYH1s0wCyBoXG17PjIisJ6vNfXufKDloLEksTq8xXxja8QE16qthsp/LPIBuN+bebOMbYIY10/l/zCfD3vhQsg0qJAIshwSCKsVYSnpLv777M2Sv/dg==;ELT7nFJeApXBmsjtAmTsjg=="
 ---
 

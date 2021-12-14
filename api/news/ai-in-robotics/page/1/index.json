@@ -585,6 +585,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
+      "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
+      "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
+      "sourceUrl": null,
+      "webUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "originalUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2021/11/Yoga.png",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multiple Sclerosis News Today",
+        "domain": "multiplesclerosisnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-bad-robots-arley-sorg-and-josh-pearce-discuss-eternals.md",
       "title": "Bad Robots: Arley Sorg and Josh Pearce Discuss Eternals",
       "excerpt": "Thousands of years ago, the godlike Celestial Arishem (voiced by David Kaye) sent a squad of immortal, humanoid Eternals to Earth to hunt down alien monsters called Deviants, and to provide",
@@ -1046,6 +1089,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
+      "title": "We love technology, until it starts loving us back.",
+      "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
+      "originalUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEv42_PJI7xVg/article-cover_image-shrink_720_1280/0/1638885502860?e=1645056000&v=beta&t=mkCaj3AXTLeEVnl3BWlo4Du6y_3PzeWTv5tz1WqkvsY",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-ameca-the-future-face-of-robotics-is-as-freaky-as-youd-expect.md",
       "title": "Ameca, \"the future face of robotics,\" is as freaky as you'd expect",
       "excerpt": "UK robotics firm Engineered Arts has offered a sneak peek at its new humanoid robot ahead of a full reveal next year, and the preview is as incredible as it is unsettling. Ameca is presented as \"the world's most advanced human-shaped robot,",
@@ -1268,102 +1363,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
-      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
-      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "publishedDateTime": "2021-12-06T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-smart-robot-market-2021-2028.md",
-      "title": "Smart Robot Market 2021-2028",
-      "excerpt": "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "originalUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc06500488_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "publishedDateTime": "2021-12-06T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

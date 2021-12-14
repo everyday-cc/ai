@@ -2,9 +2,9 @@
 category: news
 title: "Mercedes Gets First Approval for Truly Self-Driving Car"
 excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
-publishedDateTime: 2021-12-10T03:52:00Z
-originalUrl: "https://www.barrons.com/articles/mercedes-self-driving-car-51639093613"
-webUrl: "https://www.barrons.com/articles/mercedes-self-driving-car-51639093613"
+publishedDateTime: 2021-12-10T03:46:00Z
+originalUrl: "https://www.barrons.com/articles/mercedes-gets-first-approval-for-truly-self-driving-car-51639093613?siteid=yhoof2"
+webUrl: "https://www.barrons.com/articles/mercedes-gets-first-approval-for-truly-self-driving-car-51639093613?siteid=yhoof2"
 ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
 type: article
@@ -69,6 +69,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "cI3efFVr/2hZMZjonIYHCVPNidlLfforWMScYNfVZRtlw1hAkiZ9yF6GPdwrviMVEw5xoI/BJuuShzfcu/bRp8d0zEhIcaqJy50he6te5X75bYpD3xZuBS2+TIN2JX42+CuzEe/BDMy6mEdetisp4hCFZ5ceF+8T848cAJeFyUhUUhT76PCPhuBuuB5Gd1A9MW80biN8Kd9a3YMB8rk55JC5Ule+rI3vGNI7qJxMLGc5DdtDPek6/ymKrWQ9JOkNjGnlDm9NAF5q9G/icb1eTZAH6ighlLDB2l5uTQ8ts5rHsvR1UZW6cDrgRBxPOXhiU5h/jtc26sZa7fQTOot6b8UUOJTUpn8KEH3cUALg1XIE0MroFCRsMa4xwd/BrkxKV8XYw6itOQyrmvwvQpSieEQkS8ggGyawqWU0Ku+Ys8Kqagb3QVmveok4W5Q8NItkCQRbq1pIXL9xX2UQ2sWAcrlRk3gXsw1M+Vrr57+x2YgS9GmDbfzVbAirPiqmIyqUAzOJPotZrtzhmapyPjiy2g==;6EDOX/tVwE/tSH87kPrUdg=="
+secured: "hKdvznO8hXQJM4WU7EqG6K9+WqBsR+JaURZeebhuBb2Q6e8uIFncbnjssxwqBz2gdzLY7+Kcd4L63qd+mYfoKmc+s1s07BfwxBo4MgsCGJiRnEYQl71Wq4A7XHrmNM1R+5DcasbH8NkVLjgf5DIDrrNwSI7klMkM7NEUlwsCGSpy+Fmfu9yIt4XbYy1RH/P+Upxi0K4nt6hbRJo8YkuCySstN/bOEecdewDYvWT6icukvLeSYf0VOuRXfRPz6YtZ7QjBIlzj+TeJIM1ViyWbAZhnlExadbaZPDJMPrMbVx3uSRTpOtDAR1X/bwq8twIivSKx0AT+ojgsGnJ4sOykmztPFJIqmiJk1XPEJKYroiA=;HE4koPDUWYwo2GfLYMIgdw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5ny.com/video/1010805.amp"
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1010805.amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,7 +28,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGu-d0zUXNaSQ/article-cover_image-shrink_720_1280/0/1639404563239?e=1645056000&v=beta&t=-KnmagGj2WE3jfJxTahfNc8R8VHog56VYwRdBvYfIkE"
         width: 1080

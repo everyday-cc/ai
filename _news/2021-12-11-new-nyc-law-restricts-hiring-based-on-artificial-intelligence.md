@@ -29,7 +29,7 @@ related:
   - title: "NYC Targets Artificial Intelligence Bias in Hiring Under New Law"
     excerpt: "New York City has a new law on the books—one of the boldest measures of its kind in the country—that aims to curb hiring bias that can occur when businesses use artificial intelligence tools to screen out job candidates."
     publishedDateTime: 2021-12-10T10:41:00Z
-    webUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
     type: article
     provider:
       name: Bloomberg Law

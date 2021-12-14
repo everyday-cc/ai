@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-
 webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
 type: article
 quality: 102
-heat: 114
+heat: 112
 published: true
 
 provider:

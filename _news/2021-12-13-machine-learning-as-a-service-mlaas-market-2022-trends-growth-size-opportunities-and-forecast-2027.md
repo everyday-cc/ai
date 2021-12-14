@@ -97,6 +97,15 @@ related:
         width: 366
         height: 250
         isCached: true
+  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
+    publishedDateTime: 2021-12-14T00:08:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "4OXk39lt0R3Glwh6dOPoiPYqml5cC13cVOSrwJ+l2md3Et23C/V0dRaSnDXdQf2oVcmHgSn4YGvmWkye0yup20P1GRbn3J6XxYDEOOrA8xbk9+60vqFop6rPZ+W04zQs+OBduk3+z82WpDwwCA3KeSiQyDnPt5xtra93jWCHSpRdAPQ7IRyN/gw/e2dA4xjb1UhYOMsayYSFWl6qkNhdPpPWESmf7u05u8/pXKaHqFPH+gjSFRFLLgfHoXuXFB1IyQpvDqTnhGqUERxJSOuH6eNnJir0rI6+MrFS+zFYvHrjDrTmxBSL1/zXOVx9MNCqLgMuPTUMyLP+JcX55UB7hGcLM7VYf0bEUh3wCo5BIBc=;uYAblcQQ9dyTDWL2uEj76w=="
 ---

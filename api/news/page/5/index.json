@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
+      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
+      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "publishedDateTime": "2021-12-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "originalUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/robotaxi-race-opens-up/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/",
+      "publishedDateTime": "2021-12-08T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-new-windows-11-build-tests-voice-access-spotlight-backgrounds.md",
       "title": "New Windows 11 build tests Voice Access, Spotlight backgrounds",
       "excerpt": "Microsoft's Windows 11 Insider Build 22518 adds Voice Access for controlling your PC with your voice. Plus a new \"Spotlight\" background feature has been added, and Widgets has been reworked.",
@@ -993,6 +1087,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-08-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-keith-kressin-as-ceo.md",
+      "title": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO",
+      "excerpt": "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-uk-government-sets-out-ai-standards-roadmap.md",
       "title": "UK government sets out AI standards roadmap",
       "excerpt": "The UK’s Centre for Data Ethics and Innovation (CDEI) has published a roadmap for building an “assurance ecosystem” for artificial intelligence (AI).",
@@ -1033,136 +1170,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
-      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
-      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "publishedDateTime": "2021-12-08T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
-      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
-      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "publishedDateTime": "2021-12-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
-      "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
-      "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "publishedDateTime": "2021-12-08T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

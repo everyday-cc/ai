@@ -57,20 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Apple loses key engineers from self-driving car project"
-    excerpt: "Apple’s self-driving car project has lost three key engineers in recent weeks, adding to a rash of departures from a tumultuous business with daunting ambitions. Eric Rogers, billed as Apple’s chief engineer for radar systems on the project,"
-    publishedDateTime: 2021-12-09T08:27:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/apple-loses-key-engineers-from-self-driving-car-project-1.4750969"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4750968&origw=1275"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Lyk4SrPk19/L2QdVzTqSomsYcfnUhsxlZNrL1totdNijrGRc4j0tWa4sZ3OBHoda1GCEpFSY0SU0+88tx43XyKPQ+Jw39gLpTNNXirEd9nGCnexnVG+oq+quod383SyIimjJdrrSdkLggrzj39UtQuXvXZFr2gq24qZCdBMpV6+FMhvAVOmoG2LQ9xGGITHNCyVNuh8b4/kmyCjDFfEX2bB5Y9tQOf1cTV6kA7aVSAMxoWRTj7VrTttdp/Tuv31aOsix5j042JNHqnk3pav4Pnt8ocRm9dQc7Wy1A459ynh1IaLeSk9boXe3KGGXxcmt4uNreLYzITKqVM5HzFT1zN9oByPjipXiXjsd2BDw14s=;XbHUhToNqCBrs6HTDkxcqA=="
 ---

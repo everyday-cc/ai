@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

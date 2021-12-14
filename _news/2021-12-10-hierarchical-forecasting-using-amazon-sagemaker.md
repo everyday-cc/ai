@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Introduces SageMaker Canvas. Just Another ML No-Code Platform?"
-    excerpt: "Amazon SageMaker Canvas aims to help business analysts build their own ML systems without dependence on data engineering teams."
-    publishedDateTime: 2021-12-09T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-introduces-sagemaker-canvas-just-another-ml-no-code-platform/"
+  - title: "Distributed Mask RCNN training with Amazon SageMakerCV"
+    excerpt: "Computer vision algorithms are at the core of many deep learning applications. Self-driving cars, security systems, healthcare, logistics, and image processing all incorporate various aspects of computer vision. But despite their ubiquity, training computer vision algorithms, like Mask or Cascade RCNN,"
+    publishedDateTime: 2021-12-13T23:57:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/sage.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/01/ML-6187-image003-1120x630.png"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "w9054nQEr2pDCTVq+9i3QicETJ77MwXorj++kAHziCv5AEvyqNzI5kb+pcBGO04oEe5XxH9RBMB2/I531cfy+cPfoaUnn/1GHbfRnNFXLsearTQ0ptVNAaXZ0rQGeaDv0q8S2W0kXO8T6owmt4bZp1T5yha86i9VfCnEWnoGP39W/1Siwy6YOdv9JSVmqf71TnfVjxgxHx0Hd8AcyfVIxN9t6znl6B9CYwsI5fFAyjB2MH6VkdknyVBPxw4L5RcPYcISaNilrprG34tyr+sYysHzkQJHonSvoXcXQ1g/wBLruJhuGCaigdUSZH5BD9zwszkn7F7DKJgHk7F3x4Xf2lDER2gWPXHLDFHJTpawAjM=;hq5MxxrPT5mknuOlaQuXpw=="

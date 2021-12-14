@@ -2,6 +2,240 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
+      "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
+      "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
+      "publishedDateTime": "2021-11-19T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-google-releases-tf-gnn-for-creating-graph-neural-networks-in-tensorflow.md",
+      "title": "Google releases TF-GNN for creating graph neural networks in TensorFlow",
+      "excerpt": "Google today released TensorFlow Graph Neural Networks (TF-GNN) in alpha, a library designed to make it easier to work with graph-structured data.",
+      "sourceUrl": null,
+      "webUrl": "https://dataconomy.com/2021/11/google-releases-tf-graph-neural-networks-tensorflow/",
+      "originalUrl": "https://dataconomy.com/2021/11/google-releases-tf-graph-neural-networks-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dataconomy.com/wp-content/uploads/2021/11/google-releases-tf-graph-neural-networks-tensorflow.jpg",
+          "width": 930,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dataconomy.com",
+        "domain": "dataconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition.md",
+      "title": "Meet The Boundary-Breaking Jewelry Artists Showing Alongside Ai Weiwei In Force Of Nature Exhibition",
+      "excerpt": "Open today at Elisabetta Cipriani Gallery in London, Force of Nature brings together 17 contemporary artists who have vaulted the barrier between art and jewelry. Curated by jewelry editor and author Melanie Grant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
+      "originalUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619778742c2e9fcf3d8aedae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D126%26cropY2%3D1532",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
+      "publishedDateTime": "2021-11-19T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles.md",
+      "title": "Baidu, Swiss Re ink partnership to explore insurance for autonomous vehicles",
+      "excerpt": "Swiss reinsurance company teams up with Chinese tech giant Baidu to develop insurance services that cover the entire value chain of autonomous driving, spanning producing pricing, claims, and underwriting data standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
+      "publishedDateTime": "2021-11-19T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-automation-ai-key-to-optimising-application-performance.md",
+      "title": "Automation, AI key to optimising application performance",
+      "excerpt": "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
+      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
+      "publishedDateTime": "2021-11-19T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-trending-report-on-very-edge-ai-chipset-market-2021-to-2026.md",
       "title": "Trending Report on Very Edge AI Chipset Market 2021 to 2026",
       "excerpt": "Portland United States Big Market Research newly added a research report on the Very Edge AI Chipset Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario",
@@ -917,222 +1151,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle.md",
-      "title": "Apple accelerates work on car project, aiming for fully autonomous vehicle",
-      "excerpt": "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-commerceai-launches-in-aws-marketplace.md",
-      "title": "Commerce.AI Launches In AWS Marketplace",
-      "excerpt": "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-ai-powered-marketing-copy-generator-anyword-secures-21m.md",
-      "title": "AI-powered marketing copy generator Anyword secures $21M",
-      "excerpt": "Anyword, a company developing an AI-powered platform that generates marketing copy, has raised $21 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/",
-      "originalUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1221479433.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
-      "originalUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-radical-transparency-what-healthcare-can-learn-from-fintech.md",
-      "title": "Radical Transparency: What Healthcare Can Learn From Fintech",
-      "excerpt": "With the line between healthtech and fintech increasingly blurring, it’s high time for the healthcare industry to find ways to deliver a better consumer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61950aa37300a4ab02b17a66%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

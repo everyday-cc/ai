@@ -34,17 +34,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy"
-    excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR AwardsHONG KONG, Dec 9, 2021 - (ACN Newswire) - CITIC"
-    publishedDateTime: 2021-12-09T07:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/a24517618/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterp"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24517618"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24517618"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "Q9vjuWwxLR4OHM+FT7VB3rzXLNOfhaBPglZsoa97B2Z1xjsFuXR79F7U8Wfdvykl+HsSb0T1KwJUOuSXqn+q8b+WEV2tmzRpA1e6MZw/c7QwI9h2xxjUdCGgRRcIIle+uaNlxo7gbQXBNjWwmOLfgeP6OQK0R/5797TH1duVjSnPwFbmKEHKd9kS/1tGKsF/6FrezCGq7nv//nx7pJD0mSM0QrCj+7j5RWsAIAdOode/was2a6uaNgkFKsDUQehn4zUF/nHkPwCMFzAgZ0Ou80ukuWebRbQ7UsMJ1z5EtHrwLDVE3jVCizrsy6nqLOvf5B6ui52mDGdI05rciDvSF7OFrCpdLXJnf5KPVycq/us=;+xo+40VQalhlrj3vhsOQ5w=="
 ---

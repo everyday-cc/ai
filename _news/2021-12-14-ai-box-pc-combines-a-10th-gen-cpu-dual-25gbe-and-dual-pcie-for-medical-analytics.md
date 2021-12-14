@@ -35,31 +35,6 @@ related:
         width: 1004
         height: 568
         isCached: true
-  - title: "Komprise adds support for AWS analytics services"
-    excerpt: "Komprise embraces new AWS innovations to accelerate file migrations to the cloud and maximize the use of cloud-native data analytics services"
-    publishedDateTime: 2021-12-09T07:55:00Z
-    webUrl: "https://www.ciol.com/komprise-adds-support-for-aws/"
-    ampWebUrl: "https://www.ciol.com/komprise-adds-support-for-aws/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/komprise-adds-support-for-aws/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 39
-  - title: "Komprise Adds Support For New AWS File Storage And Analytics Services"
-    excerpt: "Komprise announced expanded support for new Amazon Web Services (AWS) file services to accelerate petabyte-scale file data migrations to the cloud, while enabli"
-    publishedDateTime: 2021-12-09T07:51:00Z
-    webUrl: "https://technuter.com/tech/komprise-adds-support-for-new-aws-file-storage-and-analytics-services.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 39
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft-390x205.jpg"
-        width: 390
-        height: 205
-        isCached: true
 
 secured: "pswE8Wia1elZYP14iN/9ViaqNuinbV/5l3RE3pbDGcFaYy5j8qB5nVW1KibthsetlDrHRmAQAAfgs6kjTQJ+xf8fGT4Hnk+/ibGTD+e1eMSOrBHDB82qcJNgm/5kaKR2pBbHSLB1MX30DkD5MMD/Oz1kdsWgDKYMYvGN0FG802eBZxyc3P9jD3tliQBmX1mHtEDA4l7CJTQsN2TE2yWdezjaQK5qkHWUKr6GctwU+WvZVXlFrCVTx3s/aNoynuF+D8/QyKuh6SVXehioX3+gGUIqvpAsKjQK9MROEmOm/hQV9QsHUb1Lf32uNMGXO9z+8FQTlE2MueOCnEpOhzM0ngwNqdnMA98DezYRVhu9N23NFyy/O1/4otueUHvbsm/VI+VuaKehA2Jt3Z3PCZFTFIxOLTlhCga0DZo/DLEcalWrli27ExK03TQvzzVzQg3F60rUmLPaOQRDxtIqRFWe4gXU91nKTTJ0KCu0G4UJ3tJzzxcsI6L2aTrUlEoj3Tx/T/f/KraQs5kfHZm1a/puvQ==;8B10Semqs/GqeYU21eCQKA=="
 ---

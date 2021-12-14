@@ -257,7 +257,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -396,6 +396,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-insight-trucks-catch-up-in-the-self-driving-vehicle-race.md",
+      "title": "INSIGHT-Trucks catch up in the self-driving vehicle race",
+      "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
+      "originalUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
       "title": "Self-driving startup Robotics Research raises $228 mln in funding",
       "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
@@ -433,19 +467,19 @@
     {
       "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
       "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
-      "excerpt": "Companies including Ford Motor Co's Argo AI and General Motors Co's Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ...",
+      "excerpt": "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
-      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "webUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "originalUrl": "https://www.metro.us/robotaxi-race-opens-up/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
-          "width": 1200,
-          "height": 676,
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -453,13 +487,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "ampWebUrl": "https://www.metro.us/robotaxi-race-opens-up/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/",
+      "publishedDateTime": "2021-12-08T11:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
+        "name": "Metro US",
+        "domain": "metro.us",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1320,21 +1354,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-01-supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise.md",
-      "title": "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise",
-      "excerpt": "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop.",
+      "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
+      "title": "Robotaxis approved to start services in Beijing",
+      "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
+      "webUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "originalUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681",
-          "width": 1021,
-          "height": 681,
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/11/081_AFPS14105-450x300.jpg",
+          "width": 450,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1342,65 +1376,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
-      "publishedDateTime": "2021-12-01T07:30:00-08:00",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "publishedDateTime": "2021-12-01T18:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-using-artificial-intelligence-to-advance-energy-technologies.md",
-      "title": "Using artificial intelligence to advance energy technologies",
-      "excerpt": "Hongliang Xin, an associate professor of chemical engineering in the College of Engineering, and his collaborators have devised a new artificial intelligence framework that can accelerate discovery of materials for important technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/68-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
-      "publishedDateTime": "2021-11-30T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
         "images": null,
         "publishers": null,
         "authors": null

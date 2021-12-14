@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-09T15:19:00Z
 originalUrl: "https://circuitcellar.com/research-design-hub/tech-trends/intelligent-vision-systems-leverage-embedded-tech/"
 webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/intelligent-vision-systems-leverage-embedded-tech/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Robotics
 
 images:
   - url: "https://circuitcellar.com/wp-content/uploads/2021/12/375-Jeff-SF-Figure-1-web.png"

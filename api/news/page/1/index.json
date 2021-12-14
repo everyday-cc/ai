@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-13-distributed-mask-rcnn-training-with-amazon-sagemakercv.md",
+      "title": "Distributed Mask RCNN training with Amazon SageMakerCV",
+      "excerpt": "Computer vision algorithms are at the core of many deep learning applications. Self-driving cars, security systems, healthcare, logistics, and image processing all incorporate various aspects of computer vision. But despite their ubiquity, training computer vision algorithms, like Mask or Cascade RCNN,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/01/ML-6187-image003-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T15:57:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now.md",
+      "title": "AI 50 2022 Nominations: Is Your Company Transforming An Industry Using Artificial Intelligence? Apply Now",
+      "excerpt": "AI is essential to nearly every industry, but it’s not easy to identify the companies that are using it in truly transformative ways from marketing hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/13/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/13/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7c1bf2c1756cad7ff75e6%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-tectona-releases-ai-generated-nft-collection-in-major-metaverse-move.md",
       "title": "Tectona releases AI-generated NFT collection in major metaverse move",
       "excerpt": "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs.",
@@ -148,7 +251,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -536,7 +639,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -950,7 +1053,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1089,7 +1192,7 @@
       "originalUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1120,100 +1223,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die.md",
-      "title": "Next-gen GPU’s from AMD to contain a stacked accelerator die",
-      "excerpt": "If it can assist enhance performance, it's an intriguing technology that we'd like to see included in our gaming GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
-      "originalUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cgc8hK4UL6s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
-      "publishedDateTime": "2021-12-12T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations.md",
-      "title": "Digital Diplomacy: AI As A Tool To Strengthen International Relations",
-      "excerpt": "Steady international relations are necessary to maintain world peace and a stable global financial market. However, diplomacy should ideally also bridge the gap between the wealthy and poor countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b5f38d64a905653f6a2ed4%2F0x0.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
-      "publishedDateTime": "2021-12-12T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai
 webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
         width: 366
         height: 250
         isCached: true
+  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
+    publishedDateTime: 2021-12-14T00:08:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "7bBZHVNjebOlnH1EG0pqU9UCvB6Y1h7p0fzIanm2D3FX6C+NxK3i39Rk3bAmv02bp1kIzVhit6at4oAle/R6UO1P0eL/h1bsS7J1Al3n1A51XuEXD82C+0/iMaYSfsruAKkaMHDy+nPuhhJnO3Z/Ix71UkJb8m8kqyyRfjSe3J52xgaRTq7WCH2JQwedjoudYtZ+EuiWh7WRrEXjF2xYDBZZBj/VOFDBCf28HUECtRA9NdeSZO3hsqmCHmL/C1GUw9zB3b8p5jEcXJH377n7nd4tZTWLFTsZ1z0a8fEEcnbVMWMNjO13XzFf3F09ml8DrhyfW+9nDGczzzyzeNB8K6aDOxYH2ukXCZLUhJPqgGk=;2AjN4eAyJ+mty2fd3sU6rw=="
 ---

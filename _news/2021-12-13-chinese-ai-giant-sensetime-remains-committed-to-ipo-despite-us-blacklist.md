@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "US to shut all doors for Chinese chip manufacturer, AI Giant"
+    excerpt: "Officials want to close regulatory loopholes that have allowed SMIC to buy critical US technology, despite being on the banned list. Separately, Americans"
+    publishedDateTime: 2021-12-14T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/smic_afp_2018-6-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
     excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
     publishedDateTime: 2021-12-10T16:57:00Z
@@ -123,15 +139,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
-    excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
-    publishedDateTime: 2021-12-09T07:49:00Z
-    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Chinese AI company delays IPO after US blacklist"
     excerpt: "Chinese AI company, SenseTime is postponing its big stock market debut after once again getting caught up in tensions between the US and China, CNN reported. The Chinese artificial intelligence startup announced Monday that it would delay its widely anticipated initial public offering in Hong Kong,"
     publishedDateTime: 2021-12-13T16:58:00Z

@@ -40,22 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Nothing to fear about artificial intelligence"
-    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
-    publishedDateTime: 2021-12-09T07:52:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YHHNIaTvC0v4ZlUiCMW5HWdfoRSTHxFbPKeUAmgZBzJqOwh4VuECJ5Xika7nV7QPCZpLlPETGv8VOFE/FqYRz6FmPYMBryDfVOBG8dTPGa5tIf/A8BbcfBUvsctuZFkHBLAa3ud3lLE8rJgeC37m2TlKCpOrCxF54R/Mi+sfJeE7tM/0prv2BZxQ8lGjpbfVcE0h8+QOpKxynldTPx6EPblHjmqWUgQo0znTRsWEpXCiYY4UzQA/wHK21XM4Bb8Fd5GwSpPvN2ZQXdpPLdXjkqtaJg4JL1Zj80h7pY12JA9XXEJ/hl5MG+WZAOUhmRM8QUhmkJ1VTPGlBgZVZg5vFwqQEqEp7LOSPqtIXc2W9E4ZFQDmMiI2l65yjv2DV8KUrqBlMSb//yDu1rC6lDIkfseGS/lAvQ3SaLf8umpZFPCTczc1ny5kR8b+XulsnIkI6W1Sb9C3bh3s2FXdYzCCRC3XVvRPSw33H/qCSCsruvvzqn6qZpm+oiOoixNxYqZ9gNH6UdhjSOX3Z+cAqArCVg==;JPEaRSwRH7Eh8G9fBtWyOg=="
 ---
