@@ -24,6 +24,22 @@ images:
     height: 368
     isCached: true
 
+related:
+  - title: "A To-Do List for the Pentagon’s New AI Chief"
+    excerpt: "As three AI-related agencies prepare to merge, there is a chance for a fresh start—and a better approach to competing with China."
+    publishedDateTime: 2021-12-14T22:10:00Z
+    webUrl: "https://www.defenseone.com/ideas/2021/12/list-pentagons-new-ai-chief/359757/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/12/14/6917540/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "HoeEYGiO/ozqOHDV9KSvjt8KuVTl9pMWSdwrDvzKXzrQck4m8oppTY/oG9TxdKXDWNxs0fUHkDMp5uSbFKnLLBJmbPUJ8lZYpZ+GpF+c20I/4/7xm1TQ+z6EMrYT2pzncj5mvEmfaqxkYanHdHKTKrrJtNE7tb5D9dSzbAAG0p5BMUHhFs3OXe0uyih+uQjEqH0CtPdL3bRkHyXBCcAi7nJ1qHlJKEBQXTO/hdnnDK00srBOUBe6wDj3W5AXpk1FmNLxv4flGlZo7OMc5P9E33qV0h8iM4vfkgQFQLrhSQPFNYSLDFzNdsJMXcZQiLtBCoIOZdga3zGNsuhU+deCYolk7FVrkTDFO5+FKBRN4HuykK1dpI3Cqvt7ipQ6GCqb63nBc2r39uHWXUZKn7glKXScS8Z75vYiAj+PFSEJ4cn0JB25na3AMbLvS0GH+dzyQX1fRJtn8x+vENCVSpd8disnpCQVkNpLR/X8Zx8bFsdGBeT0Hb7jdmsiH2cKZyiPOU7wP3A/rbbnwH7/js5Bqw==;LDAApUzXK74PQkSw1PGFcA=="
 ---
 

@@ -97,6 +97,20 @@ related:
         width: 1812
         height: 1356
         isCached: true
+  - title: "Four Trends Driving Artificial Intelligence Innovation"
+    excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
+    publishedDateTime: 2021-12-14T22:23:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/dec/14/four-trends-driving-artificial-intelligence-innova/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
+        width: 294
+        height: 382
+        isCached: true
 
 secured: "A8DZzv8CXyM2L93bn13kS7ZDisHO2XLh6xD0EIsgCIU+6Jnblt+Tiq8ej8sP1rLJMd52lLkB3TVLkV1PanpTqfFj8Koj3wE8c4E3myth3ihvvzAB8cabLTwiPp1s7bBxWMcC/R4v/pRNxY5AAgikrC9ZeAHfW8qxY4dqJiwUM0hGCZ+Fyb+ICryxgDlopguitlzGRctVveat+g8YFo+5SMyrXoMT9HjRRNHvgqdxVetj4RhUbF/t3CAucXqDZzw3EqJhQz7Z86jxrZRpydt6cXlkYyEkqxpcS6H7tvEPb310x5vcaMHB5eKm8ehcAV8x5+EFbugftq1uUX1lnXkslpU/XWXAmqgjxPV2Zt9HlpxrvRQ0VcOXZ7RucMOzzdCC3P0VkgW0hQdj/IoelpQcJjdanmP51uy+xPRDe7tIQkwsNa5yM4JBef7wm9Nj0Sr/7/vfRTwdaefwn1jqodulK5Rqygv8drkpj98TFL8EleZx3lEL+nxyy2H7RmwD+WYVGXCpwThrCQVhy/wpOMbaww==;HBkgmKUchCGdrQ33zPCEDw=="
 ---

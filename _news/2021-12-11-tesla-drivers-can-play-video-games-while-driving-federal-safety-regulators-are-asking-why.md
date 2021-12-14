@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla's Self Driving Beta Software Shows Humans How To Drive This Dangerous Road"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its self driving software, dubbed FSD Beta, for over a year now with a small set of public volunteer testers. Recently,"
+    publishedDateTime: 2021-12-14T19:46:00Z
+    webUrl: "https://www.benzinga.com/tech/21/12/24600482/teslas-self-driving-beta-software-shows-humans-how-to-drive-this-dangerous-road"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24600482"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24600482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model3_02_7.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
     excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
     publishedDateTime: 2021-12-13T14:04:00Z

@@ -2,6 +2,154 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
+      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
+      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
+      "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
+      "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "publishedDateTime": "2021-12-02T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks.md",
+      "title": "Can Intel-Powered, Evo-Certified Laptops Challenge Apple’s M1 MacBooks?",
+      "excerpt": "Another feature central to the new processors is Artificial Intelligence ... thanks to the hardware-based Intel Gaussian and Neural Network Accelerator 2.0, as well as Intel Iris Xe integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619cb8d35251bb3caba8855d%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
+      "publishedDateTime": "2021-12-02T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-ambarella-booming-on-ai-based-chip-demand-strong-earnings.md",
       "title": "Ambarella Booming on AI-based Chip Demand, Strong Earnings",
       "excerpt": "Ambarella has recently experienced significant growth, fueled by rising demand for its artificial intelligence (AI)-based silicon products, particularly in the automotive and home security industries.",
@@ -982,144 +1130,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-qualcomms-new-pc-chips-are-good-but-they-still-cant-match-apples-m1.md",
-      "title": "Qualcomm’s new PC chips are good, but they still can’t match Apple’s M1",
-      "excerpt": "The Snapdragon 8cx Gen 3 is Qualcomm's latest Arm-based PC chip. But can it compete against Intel and the Apple M1?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
-      "originalUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/Qualcomm-Snapdragon-laptop.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/",
-      "publishedDateTime": "2021-12-01T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml.md",
-      "title": "Tenders2Bid – Revolutionizing Tenders & RFP discovery with AI & ML",
-      "excerpt": "Tenders2Bid has been in the news for developing world's largest aggregator platform of Tenders, RFPs. Tenders2Bid is the latest & hottest startup in the AI & ML",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24396560",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24396560",
-      "publishedDateTime": "2021-12-01T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
-      "title": "Dataiku releases new version of unified AI platform for machine learning",
-      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -1,29 +1,26 @@
 ---
 category: news
-title: "New Translated Study Reveals ?Hyper-Localization' of Languages Will Be Key for Global E-commerce Success in 2022 and Beyond"
-excerpt: "English will lose its importance as the de facto language for business in the world of e-commerce, as languages such as German, Spanish, Korean, and Vietnamese significantly rise in importance. That's just one of"
-publishedDateTime: 2021-12-09T15:18:00Z
-originalUrl: "https://www.lelezard.com/en/news-20149279.html"
-webUrl: "https://www.lelezard.com/en/news-20149279.html"
+title: "New Translated Study Reveals ‘Hyper-Localization’ of Languages Will Be Key for Global E-commerce Success in 2022 and Beyond"
+excerpt: "Over the next few years, English will lose its importance as the de facto language for business in the world of e-commerce, as languages such a"
+publishedDateTime: 2021-12-09T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/theme/lezard2.png"
-    width: 500
-    height: 414
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "e6UqDV2fPxb3cVumDTa+xSKHCAKsubKlwt+xqKWvujsWtr5pmenRBfQu26tVKmeMniIrLrkZglELL6ziSMeB1euulavmLtdqUNtOQ7ObHOjeJIcz+mWzT5sJzAGxQrSG6pJwevtSe6YgAm/3k8YkWKDAPnNuNayAkmqkpGMoijMOKcWltFUgoBcWWJWpqgCvbThSkn/x/opCk4IbIQXv6F8Qx/1xGflkcdRe6T288fD13ex3mV3jU84LL1+iNJdd3N7jFiNpvHBTV0NetbusPDlVdAsVbbLIvU+Dc09QfEcUs+9u93w8FTX1Zcm5XOt/iCppxXjBQ3A30verrpWTWz+10p3i8blFnyu6ixZFYI4=;ro62pShk6HtskoSJe10D4w=="
+secured: "vH1yDHU2bpAAAARHNnFeDdjAqdlMMQhOdE0wgwtYGiE/Ihq3T4ugOTF2ZzAsA5pFsQzyv/kRv7rTq6bBe+Dl3XKqlmknzNr9eOg1HyQ8GveLKAmuYjs7WoxTPdQs/7GMLcSUqIrdTw+J/llawPb7Ztglniq+u+UDOpX1l33MpD9WSeuipJbK9T+g8HYbDAuZd5VhVHVCdwtvWUK2xRyn6gPr7Dq/McZU5dvnYgmAM6swJTpFML4iyGWl0Z99lhfCBIS43ExOknT3nvdONPmP/NIzIMby00oeEPwH20cWdYtkHQWwcdKQ6OE87aCgWKlYl/HZqIfvbBU/4z5kWTn3ZtpcxlTGvchrjSMur5yxLng=;wvvURi208lpu7OmpwbSCJA=="
 ---
 

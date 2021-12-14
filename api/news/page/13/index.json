@@ -2,6 +2,156 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
+      "title": "Facebook Exiting The Facial Recognition Game",
+      "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
+      "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
+      "publishedDateTime": "2021-12-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
+      "title": "Could Google's DeepMind AI Transform Healthcare?",
+      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
+      "title": "Fordham University Hosts Global Ethical Vision AI Conference",
+      "excerpt": "On November 29th, Fordham University hosted a conference entitled, “ Ethical Vision Artificial Intelligence: Creating an Effective AI Com",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
       "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
       "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
@@ -824,6 +974,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
+      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
+      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
+      "sourceUrl": null,
+      "webUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "originalUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "publishedDateTime": "2021-12-02T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Domestic",
+        "domain": "shethepeople.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
       "title": "AWS brings no-code to Amazon SageMaker machine learning",
       "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
@@ -977,180 +1170,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
-      "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
-      "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
-      "originalUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
-      "publishedDateTime": "2021-12-02T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
-      "title": "That radio DJ you hear might already be a robot",
-      "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
-      "originalUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/robot-radio-dj-ai-voice-01.jpeg?quality=90&strip=all&w=809",
-          "width": 809,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
-      "publishedDateTime": "2021-12-02T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
-      "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
-      "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
-      "publishedDateTime": "2021-12-02T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
-      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
-      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
-      "sourceUrl": null,
-      "webUrl": "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "originalUrl": "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "publishedDateTime": "2021-12-02T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Domestic",
-        "domain": "shethepeople.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

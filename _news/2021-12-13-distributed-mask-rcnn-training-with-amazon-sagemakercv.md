@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcn
 webUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/"
 type: article
 quality: 104
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ml-3943-image017-742x630.png"
         width: 742
         height: 630
+        isCached: true
+  - title: "Add AutoML functionality with Amazon SageMaker Autopilot across accounts"
+    excerpt: "AutoML is a powerful capability, provided by Amazon SageMaker Autopilot, that allows non-experts to create machine learning (ML) models to invoke in their applications. The problem that we want to solve arises when, due to governance constraints, Amazon SageMaker resources can’t be deployed in the same"
+    publishedDateTime: 2021-12-14T22:40:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-automl-functionality-with-amazon-sagemaker-autopilot-across-accounts/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-4196-img1.png"
+        width: 641
+        height: 241
         isCached: true
 
 secured: "/lSG3hLmyEW36d/Ne5jeI6Rt7q3/XARF7Q8PML5brBNr0IKEYtqZBKbltpuiHl6gXg1qWt7LhdXJepG8O9kAQ2VW8Y/fh+1PSZcEw0NVdjmVo002J8VbpJF6DhEni2QQtIIt908JgIWfjJ8mSQdv77H/I3R+mZjln1pV3EHTZJNv5teTZZAqywhrknKS5FxlWj/9OgU3+Z8GMU6IXvr2iX5BucYAAHI6mTQpE522NGUP/jTkBhHTqah7qVlGRvtd17jk+3Mphe5mrLrgXsfFWibBsoQFpmd5WfETLW6oafdFPI7CAMCIO+M+kInoItwt86jnti5KhaeyYAbfLF7EIOCgoNOlsKARUFNW7dHw4pE=;HPAsbnjLvjwM1mB5TEpR4w=="

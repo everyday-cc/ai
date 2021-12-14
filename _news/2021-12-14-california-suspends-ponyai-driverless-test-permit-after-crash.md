@@ -61,6 +61,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
+    excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
+    publishedDateTime: 2021-12-14T20:56:00Z
+    webUrl: "https://www.autoevolution.com/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 52
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Pony.ai's driverless test permit suspended after Fremont accident"
     excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
     publishedDateTime: 2021-12-14T14:34:00Z
@@ -70,6 +84,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
+    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
+    publishedDateTime: 2021-12-14T20:25:00Z
+    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 26
+    images:
+      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
+        width: 800
+        height: 476
+        isCached: true
 
 secured: "Z9aAAKBFpQugkYKVfhKEqJ6x56DyE+WssRcJZBg0doMq5m4EpQBNBHmLijQQrs/gqTOYW7QAnzBnRKoql+WrNXG2vju2g7mq2j9axQc87Mx+r2UJmC+HG+FobVa5T9csD1ytuLwuLCOg5NWBN875quG9UAEBx1HSGehYcF8q/qjtrT4z9HycqcT5zqgmcEIzhmeGUte+EdOM8jBkjg66gYlZk0sfLemFf0kBjeQlv1QM1+odAb4PjyxSrla7fUum7RF8XedBCDlfTln0QdIZtbOraxc0MH/5bhP6tujeZSVThbJF+zqpD3U0AdlgIDjS2pJ9EBnUyc8FpXkJO5lrMUhAz09uJeAxAKb2FnRADa9KEgiTN7Ym/oohf02zJgff/hAXOEFCNhyAKibSqW2vQqh6b/NFs/i/3M1d8wCvNI5oyILLEOMsMkM8mMzk18corFFJXDINNXwk9DHtsraBADr0t5FZpckABHs15roUK2yEoAzi3s99qSGmW2Eg5V90yRW3Q18atcSw4Q1YpjuCXg==;nRwcagcH6XNzK//8CDG7Kg=="
 ---

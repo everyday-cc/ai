@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-wall-climbing-hb1-robot-could-find-work-in-high-places.md",
+      "title": "Wall-climbing HB1 robot could find work in high places",
+      "excerpt": "It's safe to say that any task which involves going up high is at least somewhat dangerous. The HB1 robot was designed with this fact in mind, as it climbs walls and even scuttles across ceilings so people don't have to.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "originalUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b6d7f43/2147483647/strip/true/crop/2106x1404+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F88%2F06%2F18a9f5864ede8ee531a4a3883785%2Fscreenshot-2020-07-22-at-08.44.19-5.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "publishedDateTime": "2021-12-14T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
       "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
       "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
@@ -255,7 +307,7 @@
       "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1309,58 +1361,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-data-labeling-will-fuel-the-ai-revolution.md",
-      "title": "Data labeling will fuel the AI revolution",
-      "excerpt": "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "publishedDateTime": "2021-12-07T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

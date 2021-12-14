@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
+      "title": "You can now get £150,000 if you let a robot use your face and voice",
+      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
+          "width": 647,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "publishedDateTime": "2021-12-02T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Her",
+        "domain": "www.her.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-translation-and-localization-services-for-blockchain-and-cryptocurrency.md",
+      "title": "Translation and Localization Services for Blockchain and Cryptocurrency",
+      "excerpt": "Blockchain technology and Cryptocurrency are selling like hotcakes in recent times. People are eager to switch to digital currency and a system that is decentralized, secure, and transparent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
+      "originalUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract.md",
       "title": "Announcing support for extracting data from identity documents using Amazon Textract",
       "excerpt": "Creating efficiencies in your business is at the top of your list. You want your employees to be more productive, have them focus on high impact tasks, or find ways to implement better processes to improve the outcomes to your customers. There are various ways to solve this problem, and more companies",
@@ -1270,111 +1366,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient.md",
-      "title": "How AI and NLP are helping healthcare call centers to be more efficient",
-      "excerpt": "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "publishedDateTime": "2021-11-17T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-the-future-of-ai-powered-document-processing.md",
-      "title": "The Future Of AI-Powered Document Processing",
-      "excerpt": "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

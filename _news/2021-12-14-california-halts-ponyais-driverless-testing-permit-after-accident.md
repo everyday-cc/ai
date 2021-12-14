@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverl
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
 type: article
 quality: 104
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
+    excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
+    publishedDateTime: 2021-12-14T20:56:00Z
+    webUrl: "https://www.autoevolution.com/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 52
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Pony.ai's driverless test permit suspended after Fremont accident"
     excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
     publishedDateTime: 2021-12-14T14:34:00Z
@@ -70,6 +84,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
+    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
+    publishedDateTime: 2021-12-14T20:25:00Z
+    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 26
+    images:
+      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
+        width: 800
+        height: 476
+        isCached: true
 
 secured: "to8JaW8bZeRgrK3dZaKpCSweXFBtmRC4cEKBAw8S+GRunMagYsP+1cusUWWdmlAcHOWnh8K6NBRORueE6EiOzTVyKrO7Xd1+toeE4uXh7FM3oPOWQm9TyiQYpz0bLJz2N2Vl4Yv66fvOkMnyu4+e0OEOGqkbGSh++aHaxpDj5YrwgDseGTHMuuP3FdLnzn6CX/nDjmaeOBufm+qibK2Gi+InlrssEYesdjAGv6RfRufboLUTuc+HMWZs/gQraMILs/ke79qR4Lu2kFW/KgkA+SU0gk+emJf3udE/aGxS7pKwDVFHPJEbdlG1a1LCmITcJkiMu1o11BtZ6Zjd86tUb/X15IufzNxLJ9cYaC6rhGmbpIlICTmj0wjbL9oya1tIQVxT9KlLZr7uyPI7tFcFJyqoCtELE6tSO8W016RFW9wj5bOJIJ3/+e4vXboh64wBnoJ1jBbDsygKtfX+f6O7NvblQmVjx+4KGL1dEMfwDbDBBNE9dgl80A23w/OSd/QiA8jUBjARez0wEx52jPnp4w==;HuXjPOx7+EtUpkKbAA7rjQ=="
 ---

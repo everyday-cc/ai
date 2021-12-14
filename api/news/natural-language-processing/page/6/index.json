@@ -2,6 +2,103 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
+      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
+      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 413,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "publishedDateTime": "2021-10-11T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-get-started-with-speech-recognition.md",
+      "title": "Get Started With Speech Recognition",
+      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg",
+          "width": 356,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape.md",
       "title": "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape",
       "excerpt": "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ...",
@@ -1243,101 +1340,6 @@
       "provider": {
         "name": "Diginomica",
         "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review.md",
-      "title": "Contract management startup ContractPodAI nabs $115M for AI-driven legal review",
-      "excerpt": "ContractPodAI, a company developing a platform for AI-powered legal review, has raised $115 million in a funding round led by SoftBank.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "publishedDateTime": "2021-09-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fidelity-among-others.md",
-      "title": "Insights on the Natural Language Processing Global Market to 2025 - Featuring 3M, Apple and Health Fidelity Among Others",
-      "excerpt": "15.2. Amazon Web Services, Inc. 15.3. Apple Inc. 15.4. Automated Insights, Inc. 15.5. Bitext Innovations, S.L 15.6. Conversica, Inc. 15.7. Dolbey Systems, Inc. 15.8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23162501",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23162501",
-      "publishedDateTime": "2021-09-29T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

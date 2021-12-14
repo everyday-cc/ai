@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Relevance AI raises $3m from Insight Partners to build a developer-first vector platform"
-excerpt: "Relevance AI, the Australia based start-up founded in 2020, has introduced a powerful developer-first vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors."
-publishedDateTime: 2021-12-14T20:36:00Z
-originalUrl: "https://www.lelezard.com/en/news-20156755.html"
-webUrl: "https://www.lelezard.com/en/news-20156755.html"
+excerpt: "Relevance AI, the Australia based start-up founded in 2020, has introduced a powerful developer-first vector platform to help developers"
+publishedDateTime: 2021-12-14T19:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24607415/relevance-ai-raises-3m-from-insight-partners-to-build-a-developer-first-vector-platform"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24607415/relevance-ai-raises-3m-from-insight-partners-to-build-a-developer-first-vector-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/24607415"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24607415"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "EffvcViyfU+cWSgxnGQWUAJqHiFNk7FvKtBD/PYa2wO+Nmn51/Vlqcz6v9Bygm8KyWb6u6UsdFcnqMTdg6oVlVLd/JU5EThrfGn4VpOLjG/BTO7Y94DVOTJKSSPp3ryqPM4/LRv+fpD2OGg1N1GYdSQMkoSm0QZs6lGA91U2B09jRKr83EjUaksX2+JUHjYUIYLT+MIpvVOGkUPferRLtec4lmE5pta7D9Ql6i1BAXCXo0zdcBtMVO5gpr+BMJWUW6zy11egrQA8nJimnUYqs3Gc/4Fdjjx9Zlzlqi/9z3zQw2ecF41gYwscqD/bTZXMM8q1cyCSCrGcdicCqSWe35PGalEwTGwv7bEMqWTad3w=;AMriyLiwNc4Jm4ZK3TbNvA=="
+secured: "CYdL6rcimB3+3TdLajt1SdwIyf4OYlJEbTRqRoRUjHMq/um0DSOtJIpNThacFa1ZS6hmJ+HrUUxZGbQEGVPJ7SvNCeV11u6auaTVd2JyYxfQCBThcjcnZtky1CS56E7Xs6ApetItvIr9ad5UBt9bgOXbuZj5yeCIvN76REo0S19lKHOtZb6wO9SqYJ3Gv4hAOdBZjei3O7lKYejoVatfAg9djLWshhsNEvBvcD6YXFfd2dyFIdFBkDHNPXSlNUymlGk80b78gWgYkmbcFQ3m7oX7d5Bwdk4OBITgViopyjOc1bU8aK36L22afHcbpa9Fk3DDd4PpjMFt5YfRdRp1WyPvr2DHZsVwYALzGtJ8gv8=;kUsVvctrjJaZQRk4s0QFDw=="
 ---
 

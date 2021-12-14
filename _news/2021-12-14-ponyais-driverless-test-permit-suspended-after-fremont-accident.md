@@ -65,6 +65,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
+    excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
+    publishedDateTime: 2021-12-14T20:56:00Z
+    webUrl: "https://www.autoevolution.com/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 52
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
+    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
+    publishedDateTime: 2021-12-14T20:25:00Z
+    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 26
+    images:
+      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
+        width: 800
+        height: 476
+        isCached: true
 
 secured: "YD+75VPbputwNkOTW3Qp2BAmy7Y2HxNuL1abw3XKYHpV588mc61sELGswFfBcAOB1kBA1mkPaxL6Qfk/y9vd8d697y8s9uZ3/BOT5o9AYRwPeT/UJZhU728jCPk4DYtfJKqHr16wIfLhJ7XDUtSoZ3Z7uvnzSJjb6ONpVzRYQ6u3m55g9ye4SxbqgS1w1fdyr+qjoEhGr2ShQPWIkKE0/Yr6k4TQ2aqlsotnhC2DV+0na2l/1wbAAXSBhYOYLDBUV/FsN1RETYXT19UUFR78ABThF2MpINCMs0fSTm7CbobSxWv0zyB6NXwhMkd0JEm/6N/E48XRk8nfhqDBGyVZNAW+Q42/4twv8TCvHAhuVm3ttdJTjguLzc0U5cLTZtlDZhiBi28mMO/M2/SsA5OwEsCmGB862feo7Ju0aj3FfEPjjxmvrHL5WgoJecmgB38LUXwF0WL3BWa/JoPYlXDUrYd8wPMjuouQhIDzM0FlDUg1C3Eah1NxG/k8NsOxV8t1CisrQeKZKD5e+cdZFcgzDQ==;zVuglLt3s/+ReIYEOf/y6g=="
 ---

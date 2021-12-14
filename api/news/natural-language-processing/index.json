@@ -47,6 +47,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-14-voice-tech-leans-on-ai-to-humanize-customer-service-and-experience.md",
+      "title": "Voice Tech Leans on AI to Humanize Customer Service and Experience",
+      "excerpt": "Raghu Ravinutala, CEO of customer experience automation firm yellow.ai, discussed the dynamic AI-driven changes that are impacting conversational commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
+      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
+      "publishedDateTime": "2021-12-14T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
       "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
       "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
@@ -255,6 +298,49 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce-success-in-2022-and-beyond.md",
+      "title": "New Translated Study Reveals ‘Hyper-Localization’ of Languages Will Be Key for Global E-commerce Success in 2022 and Beyond",
+      "excerpt": "Over the next few years, English will lose its importance as the de facto language for business in the world of e-commerce, as languages such a",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -645,8 +731,8 @@
       "title": "3 Impacts of AI in the Machine Translation Industry",
       "excerpt": "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
-      "originalUrl": "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
+      "webUrl": "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
+      "originalUrl": "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -665,11 +751,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T14:13:00-08:00",
+      "publishedDateTime": "2021-12-07T15:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "Times Union",
+        "domain": "timesunion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1094,6 +1180,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
+      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
+      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
+      "sourceUrl": null,
+      "webUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "originalUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "publishedDateTime": "2021-12-02T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Domestic",
+        "domain": "shethepeople.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
       "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
       "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
@@ -1136,49 +1265,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
-      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
-      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
-      "sourceUrl": null,
-      "webUrl": "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "originalUrl": "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "publishedDateTime": "2021-12-02T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Domestic",
-        "domain": "shethepeople.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1301,102 +1387,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
-      "title": "You can now get £150,000 if you let a robot use your face and voice",
-      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "publishedDateTime": "2021-12-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Her",
-        "domain": "www.her.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-translation-and-localization-services-for-blockchain-and-cryptocurrency.md",
-      "title": "Translation and Localization Services for Blockchain and Cryptocurrency",
-      "excerpt": "Blockchain technology and Cryptocurrency are selling like hotcakes in recent times. People are eager to switch to digital currency and a system that is decentralized, secure, and transparent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
-      "originalUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
-          "width": 1400,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

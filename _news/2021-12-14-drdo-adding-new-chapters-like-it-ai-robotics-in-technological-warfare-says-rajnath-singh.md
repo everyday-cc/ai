@@ -41,6 +41,15 @@ related:
         width: 1080
         height: 634
         isCached: true
+  - title: "DRDO adding new chapters like IT, AI, Robotics in technological warfare, says Rajnath Singh"
+    excerpt: "We're adding a new chapter in technological warfare like IT, AI, and robotics, every day,\" said Singh at a DRDO seminar on 'Preparing for the Future' in Delhi. \"DRDO now has a new role. It will not only provide service for defence research and development but will also be a facilitator for the in-house research & development of private sectors,"
+    publishedDateTime: 2021-12-14T22:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20211214/3873400.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 39
 
 secured: "V0wV6I9jGXU+EKsyoknFc+MHh3F+ROJRdXRHcHG9NWc/SIS9mFS/k4aWFvAncOlm/h3AGiF1YjVkGqZxlyfl96XSOv/62LXImjDHeWBq1y/eDHcpcpfXK0Nov1xtxX8mJPZw6y4Q3v68wdQR/eCVVdVI0k5XcwpbO8yI1Qk9+bqksLHsI19gyUASfFXxtxDmecI5eTNwa2Wwg0PqZq7WtO25BvDHR+N/ncNJtPLTmgM7U8XjWgo7BrzCgPUNRr5lpDITGKWDZryvILbpuYYKfPeNEZnNFvW6UWSK69YeFasW1LGkWHX+S+dcABBE7iI/uQb7d1/aQK5vtV6mad60CFX0hrDrcwReu44eXeBQ35U=;PDCm4UqqQOtPVMUEUcA93Q=="
 ---

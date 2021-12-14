@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
       "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
       "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
@@ -1381,49 +1434,6 @@
       "provider": {
         "name": "The Engineer",
         "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-covid-19-impact-on-professional-service-robots-market-to-witness-impressive-growth-during-2020-2025.md",
-      "title": "Covid-19 Impact on Professional Service Robots Market to Witness Impressive Growth During 2020-2025",
-      "excerpt": "keeping in mind the interest of all the stakeholders across the value chain. Following are the ways in which the market is segmented. Professional Service Robots Market Size, Share, & Forecast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "originalUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24791230_g.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "publishedDateTime": "2021-11-23T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

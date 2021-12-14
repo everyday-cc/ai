@@ -57,6 +57,20 @@ related:
         width: 608
         height: 491
         isCached: true
+  - title: "Add AutoML functionality with Amazon SageMaker Autopilot across accounts"
+    excerpt: "AutoML is a powerful capability, provided by Amazon SageMaker Autopilot, that allows non-experts to create machine learning (ML) models to invoke in their applications. The problem that we want to solve arises when, due to governance constraints, Amazon SageMaker resources can’t be deployed in the same"
+    publishedDateTime: 2021-12-14T22:40:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-automl-functionality-with-amazon-sagemaker-autopilot-across-accounts/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-4196-img1.png"
+        width: 641
+        height: 241
+        isCached: true
 
 secured: "w9054nQEr2pDCTVq+9i3QicETJ77MwXorj++kAHziCv5AEvyqNzI5kb+pcBGO04oEe5XxH9RBMB2/I531cfy+cPfoaUnn/1GHbfRnNFXLsearTQ0ptVNAaXZ0rQGeaDv0q8S2W0kXO8T6owmt4bZp1T5yha86i9VfCnEWnoGP39W/1Siwy6YOdv9JSVmqf71TnfVjxgxHx0Hd8AcyfVIxN9t6znl6B9CYwsI5fFAyjB2MH6VkdknyVBPxw4L5RcPYcISaNilrprG34tyr+sYysHzkQJHonSvoXcXQ1g/wBLruJhuGCaigdUSZH5BD9zwszkn7F7DKJgHk7F3x4Xf2lDER2gWPXHLDFHJTpawAjM=;hq5MxxrPT5mknuOlaQuXpw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cdn.nextgov.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
         width: 1812
         height: 1356
+        isCached: true
+  - title: "Four Trends Driving Artificial Intelligence Innovation"
+    excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
+    publishedDateTime: 2021-12-14T22:23:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/dec/14/four-trends-driving-artificial-intelligence-innova/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
+        width: 294
+        height: 382
         isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-wall-climbing-hb1-robot-could-find-work-in-high-places.md",
+      "title": "Wall-climbing HB1 robot could find work in high places",
+      "excerpt": "It's safe to say that any task which involves going up high is at least somewhat dangerous. The HB1 robot was designed with this fact in mind, as it climbs walls and even scuttles across ceilings so people don't have to.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "originalUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b6d7f43/2147483647/strip/true/crop/2106x1404+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F88%2F06%2F18a9f5864ede8ee531a4a3883785%2Fscreenshot-2020-07-22-at-08.44.19-5.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "publishedDateTime": "2021-12-14T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m.md",
       "title": "TealBook to power supply chain visibility with AI and latest $50M",
       "excerpt": "TealBook, a startup that leverages AI to update and maintain a database of supply chain data, has raised $50 million in capital.",
@@ -844,7 +896,7 @@
       "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -920,6 +972,49 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-voice-tech-leans-on-ai-to-humanize-customer-service-and-experience.md",
+      "title": "Voice Tech Leans on AI to Humanize Customer Service and Experience",
+      "excerpt": "Raghu Ravinutala, CEO of customer experience automation firm yellow.ai, discussed the dynamic AI-driven changes that are impacting conversational commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
+      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
+      "publishedDateTime": "2021-12-14T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1017,7 +1112,7 @@
       "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1100,90 +1195,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
-      "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
-      "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/walmart-backed-symbotic-will-ipo-via-softbank-spac-for-2455b/ar-AARMzFP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg",
-          "width": 1000,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "domain": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-new-artificial-intelligence-centre-opens.md",
-      "title": "New artificial intelligence centre opens",
-      "excerpt": "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
-      "originalUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/1639439534-Artificial-intelligence-centre-960x540.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
-      "publishedDateTime": "2021-12-13T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Daily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

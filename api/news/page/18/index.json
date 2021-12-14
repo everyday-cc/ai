@@ -2,6 +2,136 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
+      "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
+      "excerpt": "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize",
+          "width": 659,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-why-a-robotics-industry-is-important-for-national-devt.md",
+      "title": "Why a robotics industry is important for national dev’t",
+      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse about robotics and its ability",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/",
+      "originalUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebftonline.com/wp-content/uploads/2021/12/Julien.jpg",
+          "width": 545,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/?amp",
+      "publishedDateTime": "2021-12-01T00:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-twitch-to-detect-people-evading-bans-with-machine-learning.md",
+      "title": "Twitch to Detect People Evading Bans with Machine Learning",
+      "excerpt": "Twitch is advancing its efforts to reduce bullying with a new tool that makes use of machine learning to detect people who might be trying to evade bans. Suspicious user detection will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "publishedDateTime": "2021-11-30T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-qualcomm-and-google-are-partnering-to-provide-a-better-ai-experience-on-smartphones.md",
       "title": "Qualcomm and Google are partnering to provide a better AI experience on smartphones",
       "excerpt": "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms",
@@ -1024,154 +1154,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-chinese-province-plans-face-recognition-surveillance-for-journalists.md",
-      "title": "Chinese province plans face recognition surveillance for journalists",
-      "excerpt": "Security officials in China's Henan province have commissioned a surveillance system they say they want to use to track journalists and international students among other \"suspicious people\", Reuters reported.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
-      "originalUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/30_tue/img_1638292436536_567.jpg?",
-          "width": 960,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
-      "publishedDateTime": "2021-11-30T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models.md",
-      "title": "AWS introduces new Trn1 chips to speed up training of machine learning models",
-      "excerpt": "As more companies move to custom silicon for their customer’s workloads, Amazon has been busy on this front. They introduced the Inferentia chip in 2019 to help speed up inference learning. Then last year the company launched a second Trainium chip,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.02.09-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
-      "publishedDateTime": "2021-11-30T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aws-launches-its-graviton-3-processor.md",
-      "title": "AWS launches its Graviton 3 processor",
-      "excerpt": "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
-      "publishedDateTime": "2021-11-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     }

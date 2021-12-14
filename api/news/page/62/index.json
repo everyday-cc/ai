@@ -2,6 +2,152 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-10-28-google-cloud-microsoft-azure-revenues-drive-strong-growth-to-tech-giants-earnings.md",
+      "title": "Google Cloud, Microsoft Azure revenues drive strong growth to tech giants' earnings",
+      "excerpt": "Microsoft and Google have revealed robust quarterly earnings results, with Azure and Google Cloud leading the way ... the platform's \"leadership in real-time data analytics and AI.\" Google Cloud comprises both Google Cloud Platform (GCP) and Workspace ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "originalUrl": "https://www.techspot.com/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-27-image-21.jpg",
+          "width": 1600,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91967-google-cloud-microsoft-azure-revenues-drive-strong-growth.html",
+      "publishedDateTime": "2021-10-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
+      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
+      "excerpt": "an Advanced Consulting Partner for Amazon Web Services (AWS), developed a content moderation plugin that integrates Amazon Rekognition directly into Mux. When developers stack tools and services like these on top of Mux, they’re able to create incredible ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
+      "originalUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/141144-DataDriven21-ORG.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
+      "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
+      "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
+      "publishedDateTime": "2021-10-27T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-github-updates-copilot-ai-pair-programmer-and-codespaces-online-vs-code.md",
       "title": "GitHub Updates Copilot 'AI Pair Programmer' and Codespaces (Online VS Code)",
       "excerpt": "Microsoft-owned GitHub announced several updates to its sprawling development and code repository platform, including two fairly new offerings: GitHub Copilot, described as an 'AI pair programmer,' and GitHub Codespaces,",
@@ -1052,144 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads.md",
-      "title": "Dubai to soon have regulation to pave way for driverless cars on roads",
-      "excerpt": "Dubai: Dubai expects in 2022 to complete the regulation needed to allow self-driving cars on the roads by 2023, a senior official said on Wednesday. Ahmed Hashim Bahrozyan, CEO of the Public Transport Agency of Dubai’s Roads and Transport Authority (RTA) told reporters: “We are quite fast compared to other cities in issuing the regulation [to govern self-driving cars on the roads].",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
-      "originalUrl": "https://gulfnews.com/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/10/27/neolix-driverless-delivery-car-rta-2021-challenge-winner-1635335845846_17cc19cb7f4_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/dubai-to-soon-have-regulation-to-pave-way-for-driverless-cars-on-roads-1.83247378",
-      "publishedDateTime": "2021-10-27T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-what-do-sae-automated-driving-levels-mean-anyway.md",
-      "title": "What Do SAE Automated Driving Levels Mean Anyway?",
-      "excerpt": "There is a lot of confusion surrounding SAE Level 0-5 autonomy, so we’ll take a crack at clearing it up. Social media hyperbole has combined with somewhat opaque industry standards to create a level of misunderstanding about nascent autonomous driving systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
-      "originalUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/BlueCruise_technology_02.jpg",
-          "width": 3080,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028.md",
-      "title": "Speech and Voice Recognition Market Key Drivers, Industry Size, Regional Investments and Top Segments Data till 2028",
-      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
