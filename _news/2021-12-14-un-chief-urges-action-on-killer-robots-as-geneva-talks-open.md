@@ -1,29 +1,27 @@
 ---
 category: news
-title: "UN chief urges action on ‘killer robots’ as Geneva talks open"
-excerpt: "But pressure has increased in part due to a U.N. panel report in March that said the first autonomous drone attack may have already occurred in Libya."
-publishedDateTime: 2021-12-13T17:25:00Z
-originalUrl: "https://nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/"
-webUrl: "https://nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/"
-ampWebUrl: "https://nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/amp/"
+title: "UN Chief Urges Action on ‘Killer Robots’ as Geneva Talks Open"
+excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the UN talks have"
+publishedDateTime: 2021-12-13T18:52:00Z
+originalUrl: "https://english.aawsat.com/home/article/3357466/un-chief-urges-action-‘killer-robots’-geneva-talks-open"
+webUrl: "https://english.aawsat.com/home/article/3357466/un-chief-urges-action-‘killer-robots’-geneva-talks-open"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: الشرق الأوسط
+  domain: aawsat.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/Robot-2.jpg?quality=90&strip=all&w=682"
-    width: 682
-    height: 1023
+  - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/12/13/un_chief_reuters.jpg?itok=gJRUqPq9"
+    width: 480
+    height: 316
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "ZH0QdpZCUepNY9qPUiRggC4V4R+5Ic4NRVaceXKnLn5fjU3TJNRvx+wtRzQxjIurerrHSsaTpLv5gI4RCayh3d4j3mEhunP+UpG22dPQ34AoSf1GEIJH2lhNJqUTC7u92SCBfXaJFGCUoEoq0NfeWyipfl/rwflvfnvOUfkASKsm6sIKUPJmUJ6EW2t0NfDQgWFxh/8neOqkHVvxLEVYRHj1iloF8dgvJU2NDRizEPk+uv9St96lTGKdYk9cVjIJFu6IH9Wm319jASulUQZPIw6tPDdyoSEexwfsyzntZjpiVgtQZAa/4bdfbgu5HKPLLop6ksjJCCXiDFvlETRegWpMd4Y2Rzkk92k7p7MI7U8=;OROVYFQMj+XhAcOtywhR0w=="
+secured: "KY0R8hazYSctwcKVzXxr+2vHP43+A01kqKD1zMrN8fTl4/7W5RJPZzeyK6anG4ZTYBvvfnQmYpp4BAkLuoXyeFoHZxSnREJ8K/zKr0XaUoAoWd9aAo8K2p+GZZ9AVYPCyzYSGXk97wTvRS7Up6QEKj91KellxJHxtolMAa9GG62/j77oeQNdfELs14TQek25nrrabsvJy8EdKPgVJ3UOSaA59M+Ub+Z6SckizBxO/ko8YLfbSfSd0Nks0gHGhGS8fncQUnZhaAXOoMRT+H027u72n+GIqzbaktJdtxNeOl+R820F+l8DLPplw2votN59vBKeMSjVs+XYb+3T6WPYw51D7iyMoWzmmrqdlK6xcjQ=;YBU3BYE1yGl5FPTjB/NqPA=="
 ---
 

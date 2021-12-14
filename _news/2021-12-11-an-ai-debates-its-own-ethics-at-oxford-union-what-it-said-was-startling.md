@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling"
+    excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
+    publishedDateTime: 2021-12-10T14:21:00Z
+    webUrl: "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 166
+    images:
+      - url: "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop"
+        width: 320
+        height: 280
+        isCached: true
   - title: "We invited an AI to debate its own ethics – in the Oxford Union"
     excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
     publishedDateTime: 2021-12-10T14:21:00Z
@@ -57,21 +73,37 @@ related:
         width: 1212
         height: 606
         isCached: true
-  - title: "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling"
-    excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
-    publishedDateTime: 2021-12-10T14:21:00Z
-    webUrl: "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
-    ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+  - title: "AI debates own ethics at Oxford Union"
+    excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
+    publishedDateTime: 2021-12-11T07:00:00Z
+    webUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union"
+    ampWebUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 66
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
     images:
-      - url: "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop"
-        width: 320
-        height: 280
+      - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
+        width: 620
+        height: 388
+        isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
         isCached: true
 
 secured: "oltw7BEbln5BM1yFzflgKk6oxYGoJXgrd0PPpVeNaI0pQ6Wo+8MClFp6G/Rs3XeZPag7OaJFSKR0/iDiFhZN5yeVQglhgRSe8ho4AMXlG6+2evwtkOjWdJcz2hfF2+k9rG41koCFCuZp28rJ96IQmsVNr+3ar87FEZR8a6HRA3e/w2vEoWPSGatxLGHuRYpNsb9MY5ZeLq2d+QDG+ckT9M9HNQpNIjnAiGNJ8MoIUXLO67djZfQnTua340MufMUD73k28l2yWPhdjWNVw4hOfC5dAJGrN4zpr7GNIRksg5As7pVq93lHh/Aj5Hei3fCAD5QnImNGVEQGElaqANCdh0/xc91uIrdslb6E17y8kSWt2C+ypHC6GSO7LyBghc4KJUWkDfxuGtMZTN+bHA9xu0/Sn2qr3VY7YjLJlX4Pcc9mD8Nqr5ACSkB4nPoFlbPFiu4wZx4JucDtDShNAoQsitxFZEhhuyTFw99pRzLY8VIZcGQwkgurZDrorW0DsAw/OxXe5c5jHDzI7emOcR0KMQ==;y6Pywsnp3GR83/CZBTrvcQ=="

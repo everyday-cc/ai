@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
         width: 620
         height: 372
+        isCached: true
+  - title: "Microsoft grabs Nuance as latest healthcare bet"
+    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
+    publishedDateTime: 2021-12-14T06:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 56
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
+        width: 884
+        height: 543
         isCached: true
   - title: "5 Things You Should Know about Microsoft AI"
     excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."

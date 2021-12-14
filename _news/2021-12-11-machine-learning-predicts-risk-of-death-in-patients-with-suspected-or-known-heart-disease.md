@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Predicts Coronary Artery Disease Mortality"
+    excerpt: "Artificial intelligence was able to determine the likelihood of death in coronary artery disease patients by identifying risk factors, promoting preventive care."
+    publishedDateTime: 2021-12-14T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
+        isCached: true
   - title: "Machine Learning Predicts Death Risk in Heart Disease Patients"
     excerpt: "A new machine learning/artificial intelligence score provided an accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years."
     publishedDateTime: 2021-12-11T17:02:00Z
@@ -38,15 +54,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Title: Machine learning predicts risk of death in patients with suspected or known heart disease"
-    excerpt: "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide."
-    publishedDateTime: 2021-12-11T09:16:00Z
-    webUrl: "https://www.publicnow.com/view/1D6F960D05748FBFBD346E71DA67447820F06550"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 6
 
 secured: "TjNFFhEDplkkL8g/p6QqL5YvRws1H14ASGWLJ1FsS70twUo+Tv0KU1kpi5e6A1ZQt39keGcdwfLBjI+BrzmjvVf+65RkodI6JDXsAiWkenxVlVpsodBnNflEDg4MXxOOdUj4uGSmR87t7lbiADKApGI1SvnfIF0zaUpN+UlogutRnfGHoRnTx4AboCH92RblhZjFVPHW4J0VJ5dyqyfYesPPUsAQORN+cNfHFSQUk8gq3/vo8WuF+LQVfXgo+neuq3sFdyEIrW2N4tmrdSZWh+vgFLKLb8uwJQ+HjZJGlsCHxeVZbVI9pNvNx3jrUC6aS0I/5BvcbfX8lmCyxF8Gp3bdTxMi1imG3suOvO3KS23dsFTkLgY8Nqwvf3BqoFQlbrmPoPZhQmEHMOZ9AtDxGJnWA0AJfpO4dpIS9eXcfOcljJ4SbGjlcxvz695rXy3x7tBf5A6EBnqEcZp1S6O7So+hvAk17lazSBcAyggGJYAJSf1pb7en8j9lufd7z0DPI3hcvZwGHgnZG5Y2KYFi5A==;fT2Tss9CgqHv2Z3cGEGbWA=="
 ---

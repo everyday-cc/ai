@@ -27,69 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides"
-    excerpt: "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us."
-    publishedDateTime: 2021-12-13T19:00:00Z
-    webUrl: "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
-    ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
+  - title: "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling"
+    excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
+    publishedDateTime: 2021-12-10T14:21:00Z
+    webUrl: "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 83
+      name: The Conversation
+      domain: theconversation.com
+    quality: 166
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop"
+        width: 320
+        height: 280
         isCached: true
-  - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
-    excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html"
+  - title: "We invited an AI to debate its own ethics – in the Oxford Union"
+    excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
+    publishedDateTime: 2021-12-10T14:21:00Z
+    webUrl: "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
+    ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 74
+      name: The Conversation
+      domain: theconversation.com
+    quality: 76
     images:
-      - url: "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg"
-        width: 600
-        height: 337
+      - url: "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop"
+        width: 320
+        height: 280
         isCached: true
-  - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
-    excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"
-    publishedDateTime: 2021-12-13T12:00:00Z
-    webUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical"
-    ampWebUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
+  - title: "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling"
+    excerpt: "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process."
+    publishedDateTime: 2021-12-12T15:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
     type: article
     provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 72
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 76
     images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg"
-        width: 823
-        height: 549
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03"
+        width: 1212
+        height: 606
         isCached: true
-  - title: "Researchers Asked an Advanced AI Whether AI Could Ever Be Ethical, and It Said No"
-    excerpt: "Is AI inherently good, or inherently bad? Students at Oxford Business debate the Megatron AI about its ethic. \"AI will never be ethical,\" it said."
-    publishedDateTime: 2021-12-12T15:39:00Z
-    webUrl: "https://futurism.com/the-byte/ai-ethics-debate-oxford"
-    ampWebUrl: "https://futurism.com/ai-ethics-debate-oxford/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-ethics-debate-oxford/amp"
+  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
+    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
+    publishedDateTime: 2021-12-11T04:47:00Z
+    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
+    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
     images:
-      - url: "https://wp-assets.futurism.com/2021/12/ai-ethics-debate-oxford--600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
     excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"

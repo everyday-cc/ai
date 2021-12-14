@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots
 cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Geo News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN chief urges action on ‘killer robots’ as Geneva talks open"
-    excerpt: "But pressure has increased in part due to a U.N. panel report in March that said the first autonomous drone attack may have already occurred in Libya."
-    publishedDateTime: 2021-12-13T17:25:00Z
-    webUrl: "https://nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/"
-    ampWebUrl: "https://nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/13/un-chief-urges-action-on-killer-robots-as-geneva-talks-open/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/Robot-2.jpg?quality=90&strip=all&w=682"
-        width: 682
-        height: 1023
-        isCached: true
   - title: "U.N. Chief Urges Action on 'Killer Robots' as Geneva Talks Open"
     excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the U.N. talks have for eight years been discussing limits on lethal autonomous weapons,"
     publishedDateTime: 2021-12-13T12:50:00Z
@@ -52,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "UN Chief Urges Action on ‘Killer Robots’ as Geneva Talks Open"
+    excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the UN talks have"
+    publishedDateTime: 2021-12-13T18:52:00Z
+    webUrl: "https://english.aawsat.com/home/article/3357466/un-chief-urges-action-‘killer-robots’-geneva-talks-open"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 39
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/12/13/un_chief_reuters.jpg?itok=gJRUqPq9"
+        width: 480
+        height: 316
+        isCached: true
 
 secured: "4cR6LgW6gM13sBn8wMeUzjb+ooEDfr7JdN2ZBoUzA+Xw5wg7O4jJr+rU7/Rded4Ujuaxr2BpEHjFVek1Ec/Bd9aW9XT6OfJXH8xUQKgcMhgCGpMhn6cGw6oIO9/h/NgeTWngNuWDWAD//kSoTj2jwau6vW/9snM9mlE7oB2vluHHUvxkAJkVLbNFSASNFGqgbkQB2GNyaB4C7JueYjd52cLKglvYBFhOwAgBd1M8OmSe5TsT8TXHhgWx5k+1aaTlX0pSEpDvLDyQsv/uXJ/u/quRSKUxa6hTIp7cWyKGwTkeghLHAWP2ufDIM1LfIiFFsW8ibf1IO+zBwA5CeYHKwDug/noHcdRYyVOuCYr8AoHEgpYz+v+YmskaVwvb2iO89ry53b2xsVaLflY2mdf5HwTTZl4wcwYlOfSpRIYRpWSL2t4sU6e5IPgTEjr0xjmiEVHNo+f34/vEkOTzX8JOxbs0mSyzgDrPQmYgvAQ+ZRX9TsWmxJQdT1LpTdQgbVLPLzRj57FXEa+Zhq+oR4oypA==;UbH14b+yLdZWQDbaJ7G0Aw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Austin Startup Uses AI to Streamline Trucking Industry"
-    excerpt: "The trucking industry faces high turnover among drivers because its business model isn’t driver-centric. A tech company uses artificial intelligence to determine which routes are best for both the driver and revenue generation."
-    publishedDateTime: 2021-12-09T21:34:00Z
-    webUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry"
-    ampWebUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
 
 secured: "xHto5xCbL3Jz/j/l56fW+RhgnIXOgLPEW3v8izszWrishuDirwDloykYBkdvfsT4UuPOFQNufd0xwLnM5IYqvGcGOVi08U7Gdos6v+I4XVYhIpzCQ9lpj1HSZIUHRYtDDbpP3OnnVAY7HLrmcdN3qL1eOzZjTz8pT2NjcvypHTLS6Ltzjl4v1oVscoPESlh/TEAJRVNtyP3tucEWT37K2Dw2IbnxuUDwRxWKhYPvxgnhZCnPZCaSVzGYzgOTFLkpDeDZ/eCdNFcASV3KiFnqov0MbUVhIKwF/4A5wD9FD1qG1MzmvJ7w58d9/eibbRasJf3CWN2R9//kt62VuRtUrqt0dcL5C37OPQTGT6d5ietCktgcc0cf5bFoCtSfAzlTcbw0Z1rE77epz6s00tUnXzJm/QMtSW2hgKxrWzKNt84x2oKTZx30xMhjm+G3uV/oEiTpniUu+teyGO3c2TVnWHsubTU7Zz+iqXI2thV34CfFneCiaFbDwQOeOF2I8qNwE75EcLK6y/Vr7/IxGA8RQQ==;0prF8WD7ZaCOxMM66yjT3w=="
 ---

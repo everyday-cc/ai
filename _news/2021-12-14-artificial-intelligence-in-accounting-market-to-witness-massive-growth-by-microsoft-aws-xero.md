@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-14T10:44:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-to-witness-massive-growth-by-microsoft-aws-xero"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-to-witness-massive-growth-by-microsoft-aws-xero"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"

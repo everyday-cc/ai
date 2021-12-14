@@ -75,6 +75,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Microsoft grabs Nuance as latest healthcare bet"
+    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
+    publishedDateTime: 2021-12-14T06:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 56
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
+        width: 884
+        height: 543
+        isCached: true
   - title: "Microsoft announces new partnerships and capabilities for Azure Space"
     excerpt: "Microsoft has announced new capabilities and partnerships for Azure Space, the company’s cloud computing platform that connects satellites and services across industries."
     publishedDateTime: 2021-12-10T13:04:00Z

@@ -49,7 +49,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
         width: 600

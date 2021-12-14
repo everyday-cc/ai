@@ -9,8 +9,8 @@ ampWebUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
 type: article
 quality: 100
-heat: 250
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
+    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
+    publishedDateTime: 2021-12-12T23:05:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 184
+    images:
+      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Coronavirus: South Korea to use facial recognition tech to track cases"
     excerpt: "The pilot project in Bucheon will use AI algorithms to analyse footage gathered by more than 10,000 CCTV cameras and track an infected person’s movements."
     publishedDateTime: 2021-12-13T05:20:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
-    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
-    publishedDateTime: 2021-12-12T23:05:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "South Korea to test AI-powered facial recognition to track COVID-19 cases"
     excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
@@ -239,15 +239,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
-    publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "v2ruoZMuv1ulumbzcTdv0e+ookqd7BDa/wjYyRZI4Sppn5ZojGHa6EMYDPX8bADtVNjU9wA4XHGP2eaYfXF3zQ4/q6mLDfU+q5G98rzv0zSKHQXjBHWYk0XSrBLuxuENqWkvz1iCbknJEudR9pVzrIwiSYbgexTdZBYpzHH/FJEM1zDNrV/sx4gt6cANmTY/UceLLMq3nbjosP8QqWd10xAfpa80Gczs52ZavOp7WIIzxY8xvhwqzMy5hEEvhOFPZiB+d/bQR1yEHxJ647Ua5kZT0AL9vEnEuYeL1Zxk+2/jd3qZasX1c91nyuerJQYd355Y7lRIhQKz9OIhu0vgCnlG69TqcN8GtcMiz9ueY17zx1D6j5979BfMRSGxHYzJ8uJ0y15UMtox6pg7P4hR56KusVxZjDQb+HWbYO6NJjG74eJCZ+JKda8NauYzVu+vzDrui6jmyYt2YAYTYNodQdmm4FXrFF2VqigylXjvTaogoGVixVMB+JasTON1iSxDSTDNSnmQiHqDMZi1o9/sfA==;MRYlwbBC+Avgz15uMAP4fg=="
 ---

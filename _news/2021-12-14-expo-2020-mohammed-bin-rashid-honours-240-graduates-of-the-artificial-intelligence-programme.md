@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "UAE - Mohammed bin Rashid honours 240 graduates of 'Artificial Intelligence Programme'"
+    excerpt: "His Highness Sheikh Mohammed bin Rashid was briefed on several Artificial Intelligence (AI) projects developed by the graduates during their training to enhance government performance and efficiency."
+    publishedDateTime: 2021-12-14T14:40:00Z
+    webUrl: "https://menafn.com/1103359301/UAE-Mohammed-bin-Rashid-honours-240-graduates-of-Artificial-Intelligence-Programme"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/14/ENA(_92268image_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "WhN0TrjUY6k/FNKgKWoK+kOWhILPQok5jW+rJtI7TRpNMf1RpsJehaY0nVIQK7FpXrZdqDDR8OgInMWY4NVD+gZchiuGmre2MMc/yxxKf02ENyMpg3XxQGvn3o9Rp9bN/NNEr7gO/4PZkELdeh4Wk3vN0jYPMZrP9fw8BJ1+4a2OjaVz+0LFtYQD/7fBbGsU0TAb33jO5W433swS1tJYon4SnHyWr8+kOXqzTBQmEi9HLPfO2Z31JdLA4G7PZ+Kq/2c7e9VZKVaJpbc5jtMZnsyehZF6gwkSwLX0Uy8sx+t39h73UTMNQkibl5kVCqiRCuDnhooDao4iFMyRPM5MgYajRLU7B2qsHmsDDQYUo/8=;Ut8G7Uz3rhq3zi1Q1h/JKw=="
 ---

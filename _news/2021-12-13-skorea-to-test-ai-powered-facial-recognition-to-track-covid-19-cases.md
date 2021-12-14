@@ -6,9 +6,9 @@ publishedDateTime: 2021-12-12T23:05:00Z
 originalUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
 webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 184
+heat: 324
+published: true
 
 provider:
   name: Reuters
@@ -243,16 +243,7 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
-    publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
-secured: "lL9Oe6OrIQwvDioOg3rdHXKgOUzxWf6XCsF6+p2IvEzEI1l1auuAOfbim8A6yMLtoXZdxP7BTCqClvMVM4Evofk+KrzIGAPRqWzzbPRBpEoOpOOWeQgRM4jcrjM+2sFVsnZ5AomN91WfL4ZbjEroWXdJvlrMGfOqdFCou7o0HXuCWaVvXp/3dz9cD+8jrVpzMVKS5zX1n28p31bMs30bODRY/lxjIevSv+QAJrd5q69b1o89VwNSAIBKkHkQAIZ3wpgjPllxBb2D0RV/9BzJDuT8uS1H+tJ8N4jGkLdF9CbZ1HZ8FGPTAKS+ScQvVLYrqFnPoQE7OqVCx1YoWVEzo/8Kqqvi/iZvN8uIZ+WjdvujHDwoNFfZ4CBBPSVOGOt2EhsjvT0T1HTxBR5MbNLYVKDNaLqJc5iIviYPtuDEhqrSMh/Rf4M0tE1wR7OERTH3LIks8m95HJwbhr8W2Oav76rNbt7Q2/JyB8/elw+xoyUjyNWBN3d0IEcYrvwUqraEu6+WVbAj4t6OyxSzSlpULg==;erGkScQRLjc+r4xJzO80oQ=="
+secured: "dmxYZphDS553to+4BVsFIkbNwaizVATjphSI07k2YfduBsox6BsyVc3TIxadgG8Kh+/Qzg/87Wal6qESsjWa/DBEV/HQ1xfYwGRkSk0SWk65P2mAqpopL75b2Cd1gRTF7BVHRe7EHvqx1g4kNgl1m5jKo14DyUuZcTEGRVV5Fl0BCL61HxUV6jGnD8FqEyAflCD8R7yMcjgpUOUIPawwoATCJlbWVPfYoLu0Ci7thMIhVxQ6UIDdEAoV3QvxNVGCN9Km4UmJokc2NCZPgF4Psq0GP+qFcJewaDR8oeXO+hUlyQtk1jTHqKidhvpX+asr7EJjRoj00SbuJmj6yPue1Yf4Tz7CPhG21mu3t2Msc7O83p9z8zt4RocgwDE7880smnY9tIwty0QgE0UOriarqBlRu1ULV+kZl5EJhyHsONm3zsgX7PS/8IT7LoLOEJiGIaa8MV2p4GM1uqTv7KrLwk1bui4wiEVKJ3Pkgyw37mFnf5vmzFK1iRrzFrAK9aR5S55bL8q7DgUOTwtkc3ArBX1ROrlSxumzl/7+/ThKAgE=;RaATQmCReuBOL/BRqiFUWA=="
 ---
 

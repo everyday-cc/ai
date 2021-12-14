@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
-publishedDateTime: 2021-12-03T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
+excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
+publishedDateTime: 2021-12-03T14:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "7UPz/U3kSg1kvVpd8XPKtFZkSmxyFMu9QM6ewlqGOZ9lQWj/BGv38UdMo7ndv1iyjjU4WcR9U64c9LaauneskMQAHSSETPVWn9+q49dHXm24wQO7ewpDu/nWxsByGDNq91psF6wJL892277xg35E/GjtFT7ruRtqtCTzRzQnQLm29tz0TJOGKDrTf0fWy3M6HGFmFQoq0YcqYk7/W2fbSCsw4wUIGkewucfc+EtlpYcP1Mo/2MjNhdJpyETZZJZ7sKiiavOodDD+4NnB9xT85qpfPpnVRTVwnWeEq14jZhBiVhx93RGl33LuWOX32Fh8IreAcYyi1mxc5DF4zpZo/7q/zm/1p4uI/Ywz3istdkY=;OWGcR4UkwOz+apRmYLaGdw=="
+secured: "+rgaH2ni8iCIeIkkFM+YByNKCzLGdaU6l/F0iyBLqFRbzpE6VwKRKKeIc828Y3PitaW1ny8+haQt2fG13CNmu1U2e7tvw164Lpj3r63w6AiiB0hdtn1nXkqVLPQt3G8aEsYVdJL7ohtFDdboeqxiz0hpyh8wJFkMlI9BxjdnOdK7nPKtDmVNJoFaPIzdL2X3qF7bhu9sUu6Tc27d3RSDrdlc+7AvjN/ly2W1ISgWcMutk4rdJbOyIMC8mPl5aKKUF7ogNN+zs3oOEXNUSipP692iYbgflDxhI+KsTJ8raIPAaUrTP3KMxeCNtjGcQX/l+Xf5ErCJUCYMStyJ++T57MAC6NNQaRC/rm2u/E1Dz4s=;lS3THxRTbuid7XsjPwUkeQ=="
 ---
 

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B"
+    excerpt: "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,"
+    publishedDateTime: 2021-12-14T00:07:00Z
+    webUrl: "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/"
+    type: article
+    provider:
+      name: therobotreport.com/symbotic-going-public-via-softbank-spac/
+      domain: therobotreport.com/symbotic-going-public-via-softbank-spac/
+    quality: 122
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg"
+        width: 1000
+        height: 595
+        isCached: true
   - title: "SoftBank to complete first Spac deal with AI robotics company Symbotic"
     excerpt: "SoftBank is set to complete its first Spac merger by taking public a Walmart-backed artificial intelligence robotics company in a deal valued at $5.5bn. Symbotic, an AI start-up that focuses on improving supply chains for retailers,"
     publishedDateTime: 2021-12-13T14:24:00Z
@@ -71,15 +85,6 @@ related:
         width: 600
         height: 473
         isCached: true
-  - title: "Warehouse robotics company set to become public via $5.5B reverse merger"
-    excerpt: "The latest tech company to migrate to the public markets through a deal with a special purpose acquisition company, or SPAC, is Wilmington-based Symbotic LLC. The 14-year-old warehouse robotics specialist and Walmart Inc."
-    publishedDateTime: 2021-12-13T16:34:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/12/13/symbotic-reverse-merger-softbank.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
   - title: "San Carlos-based SoftBank SPAC to take warehouse robotics company public via $5.5B deal"
     excerpt: "Symbotic's AI-powered software manages a fleet of autonomous robots that move products around the warehouse. It has partnered with retail giant Walmart."
     publishedDateTime: 2021-12-13T16:48:00Z

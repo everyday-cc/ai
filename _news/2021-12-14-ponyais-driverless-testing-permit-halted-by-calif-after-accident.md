@@ -41,7 +41,23 @@ related:
         width: 4134
         height: 2757
         isCached: true
+  - title: "California suspends Pony.ai driverless test permit after crash"
+    excerpt: "Pony.ai, a Chinese autonomous driving startup with an office in the U.S., has paused its driverless pilot fleet in California six months after it was approved by local regulators to test autonomous vehicles without a human safety driver."
+    publishedDateTime: 2021-12-14T14:00:00Z
+    webUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/"
+    ampWebUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
+        width: 1023
+        height: 536
+        isCached: true
 
-secured: "nh6OKmUOEI7EpfsEjRvF9fuY6noSA1C1OCsj07jp+EoSLUPTms9hTju47O0ujbjrnDKSdPKEcV0b1Qgf/9SMwQ8whYCGAPaHn+WdFSCi7rivzgC8rlUJnZd9XaiIGOfdNa46rPaIYgSIl2W76boL7nJcnxCxsW3t72G1MMihrwq7OPb7rC1jHB45YkibPLZvUM+M+SL0342ZFXNjiPCR6wJXSK7ddjaaRQmCIfs68LBHi0WEUSe3cbxs763lWGweRayNUG5CuRKzt+7oA/CBXdYFAo43INyFVGcQERgy3A45XAPFr0rg4YeFgwZzty4Vb4pI2PwOJjpx29GQvgH5fyMtVQSIz864+HoDt6hGR9w=;BS/+EmyqNAEIg5oSYyzBQA=="
+secured: "b6cnpSIXpdAazjgjhdc+OJa5SLnT3z+O8NxSprabnJrVm8Myz/ybSXPTa547qJMNgzMisUtkwRfEaEdl+OYmMMul8zP8AvNAAaWEn4RWTH2ZuCRKjVaHnOMNg402eZllv3HrbdNqj96Kh2/v+SBfioWCVb+2GZ79RxAXWeDp5UUim4ql5U7YxAJOOVF1sv/GeqmzV1+mfRbKFBkBzvUyKdiGTeem/QGu0qNufc/1jgP5R8MxKAO2wmpsT9xeezNFSHGB1tsPPRswe82Rp8DwqJtP8fbh4kPPA4RTqZ5rjkPS0GWB/I6ir7odEby6+aaLhgq9qnSgNGK8PzMh54oNYin6wtIeZaNeu/rYbR3a7q71/gDSXH1sJLxmB6vexSz/HcfbYaotnXlcfyXyir30usHVL8Wj0IqGMzQ4qvx3+08fqgL6pzRFBcD2YcLE2z2IHSQQ0pokNjR0IWiik8vMDrT2msBVmoYlWhVvO8PJW76ZFp33nkfPuyyT5J1G9pSMfnfklIkbgnYPQOnl5lhhhA==;PQzJ5y4LFxzKKjaBE7hpGw=="
 ---
 

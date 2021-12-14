@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
+    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
+    publishedDateTime: 2021-12-12T23:05:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 184
+    images:
+      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Movement of COVID cases in this country to be tracked by AI-facial recognition"
     excerpt: "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,"
     publishedDateTime: 2021-12-14T07:28:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
-    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
-    publishedDateTime: 2021-12-12T23:05:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "South Korea to test AI-powered facial recognition to track COVID-19 cases"
     excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
@@ -239,15 +239,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
-    publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "AAaQyJ7dOeLCqOfZkJqBrS78kz/k4xljN9Jj4udd1Q06zIGZNzB3axl1r2TCU2MHH1cZ+l1E/p9SoNCVarz0bUr/y/xSm2XrMX7ztGybKkyDBKQSTBd3E5+fwHSj6zTwNt+idE4lMRulpY6lyImRkdqsX+ngmic9ymkzd7sOHNmWAX4Zt/0uLLTYat6h5jLsL+C+Dd0VAVUeSF3Xv3uo0rjEDrd0MtVBfjL0lz2HS+27t4lZwhVINajv+v7kdx/nov6kSnTxRPNeDppTwT6Uu2o6U8GmLre5XT3zuEYy4zxZDPg1K9yr7juSStbKp48zKHf2SMR2FsZnNQvutW8oCHn7BLG+yrv5KJpjZTuP0iA=;/trLAjnh/GGSUFcmWNtgbw=="
 ---

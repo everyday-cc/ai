@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New, Innovative Fintech Aids Credit Union in Rapid, Billion-Dollar Growth"
+    excerpt: "Datava, a new innovative fintech, and American Heritage Credit Union, a $3.8 billion asset, Philadelphia based credit union, recently presented at the NACUSO Networking Conference about their successful CUSO partnership that aided in the"
+    publishedDateTime: 2021-12-14T14:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-20155491.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 38
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "What Trends are Driving the Fintech Revolution in India?"
     excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
     publishedDateTime: 2021-12-12T13:12:00Z

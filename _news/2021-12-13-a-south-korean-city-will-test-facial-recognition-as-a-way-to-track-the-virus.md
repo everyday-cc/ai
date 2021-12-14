@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
+    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
+    publishedDateTime: 2021-12-12T23:05:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 184
+    images:
+      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Movement of COVID cases in this country to be tracked by AI-facial recognition"
     excerpt: "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,"
     publishedDateTime: 2021-12-14T07:28:00Z
@@ -62,20 +76,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/canvas/2021/12/13/a092f16c-0574-45e4-83c5-418e397f24a9_b86010ca.jpg?itok=LfA_R2NU&v=1639368498"
         width: 1200
         height: 630
-        isCached: true
-  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
-    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
-    publishedDateTime: 2021-12-12T23:05:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "South Korea to test AI-powered facial recognition to track COVID-19 cases"
     excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
@@ -243,15 +243,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
-    publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "SvK07vSzkuTEZApI05ZRabM6gUSQ8u8INLNW3m+6pGEWpg4Ub8UPMwcc2TgBD/I4ujNtuoKDK6GqQAcAoooa/vEdW4kHYE+SZi2545HzAy++o5mb8MfxJW81mk5g8w6bhpuZ0AVPFkc+kjOvFuKXFNwCKdSy6eo3xGG9HSQEL1GQDr8MoR9w+2e0Z6YtaEh/vM0/SDWHIQ3E4I6heYWpaRVCrC5VBTdKB0bukNgpF8m0b6bMopZh29JzOwTz1grj+344sEHQ9HAZhob6Lk/h4mwH3OVCYQ0SpFz4noxVxttPKno4AyykNux32e0TPHAkRnangKwmyG/YqCTyE2bf8aK5TYKgoDQzrsccuNTt41XmAksLcJL9hq7kowTZaSv6RPuUx2on5vPGAxumwjd7PoZaia8yYqnCx0qb77fraGhaLau7w4J1A4W8d35W1fMxwF8pDLxsqKPmG5/qCgyGhr5xApExuMYi0hH0O4FZT6GiMf04MWVKG/SzYbPAtbAP9W4VDEoPzPSiLpR8XLHBgw==;x5KtwKw6wdD6AWTbieOQCw=="
 ---
