@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-ex-tesla-impossible-foods-lawyer-takes-top-legal-job-at-robot-farming-startup.md",
+      "title": "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup",
+      "excerpt": "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/ex-tesla-impossible-foods-lawyer-takes-top-legal-job-robot-farming-startup-2021-12-07/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/ex-tesla-impossible-foods-lawyer-takes-top-legal-job-robot-farming-startup-2021-12-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
       "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
       "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
@@ -1329,49 +1382,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
-      "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
-      "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

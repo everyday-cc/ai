@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
+      "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
+      "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
+      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/2JujMcBEEQgmJwUsT2xmKd0PYH8=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZM3E67HFFFDRDI23WEKRKHETY.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
+      "publishedDateTime": "2021-12-14T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
       "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
       "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -154,7 +197,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -209,7 +253,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/402549",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -251,7 +295,8 @@
         "AI in Robotics",
         "AI",
         "AI in Autos",
-        "Facebook AI"
+        "Facebook AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -833,7 +878,7 @@
       "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1063,7 +1108,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1115,7 +1160,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/13/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1154,49 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-tectona-releases-ai-generated-nft-collection-in-major-metaverse-move.md",
-      "title": "Tectona releases AI-generated NFT collection in major metaverse move",
-      "excerpt": "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "originalUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "publishedDateTime": "2021-12-13T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

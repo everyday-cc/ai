@@ -39,6 +39,20 @@ related:
         width: 1767
         height: 1178
         isCached: true
+  - title: "Apollo seeks digital transformation with Amazon service"
+    excerpt: "Apollo Tyres is seeking improved production efficiency and enhanced customer experiences. Amazon Web Services will help the tire maker do just this."
+    publishedDateTime: 2021-12-14T15:43:00Z
+    webUrl: "https://www.rubbernews.com/non-tire/apollo-tyres-taps-amazon-web-services-digital-upgrades"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Apollo-India-Chennai-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "r9D9gwLOEeLBBLRTDjQW/5g8V+JIMa9MBQCXhsHYzoFyic849N+4vNBe1zFiWA4AVWEycSAVpbH/sHwpOUI+80x0pVzfOsEOlAj1KlslrT0OIcIqUXCp2NpoC64jp387ePfpAFtIAQ5U/e1f3ZXmxbYOBNukjyHGRpi4aoE33Gg98Qq4CpOe9POerPUESWsGXkARxOi54Hyz85FF1zxrQl8MVacFymbGw32l7Ct7v0gumKtmpMfkmvKEY7hZoGyPTkzUWGX5SeEuQM44TTniSe/tIY7n5hCzQ3Ls8c6SdXu6sVQ0M1o2yCO5ATF+r/rYtcxuRR/oMUdnELwJpX0b0SOcwx3IKAX+7nEMdfXcvzAGnkgaUNTVtRSkjMLQT2iUF7R5rKkL6eON/BByLKgEhODH9nEfVUdTggqug09Zn2mWUKZ+nJLBpVuu8aBBz1JCralMhRCVTjXpnNYolP2wDQwsOxdhWqu5JmD8SmdFHOiHkIePCh5tHdnwIPx/OYCM8eqIFU3x/F23S4AQdS6MNg==;NBB8LcpYgivGDvUZmZ/UPw=="
 ---

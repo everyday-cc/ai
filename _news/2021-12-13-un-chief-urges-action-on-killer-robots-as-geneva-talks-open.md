@@ -53,6 +53,20 @@ related:
         width: 480
         height: 316
         isCached: true
+  - title: "Biden Administration Rejects Calls to Ban Killer Robots While UN Urges Action"
+    excerpt: "As human rights activists, backed by dozens of countries, call for an outright ban on the use of lethal autonomous weapons or “killer robots” ahead of"
+    publishedDateTime: 2021-12-14T18:08:00Z
+    webUrl: "https://www.visiontimes.com/2021/12/14/stop-killer-robots.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 36
+    images:
+      - url: "https://img.visiontimes.com/2021/12/GettyImages-1324244548.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "KhVqm+Zg+wX35kKQEhNdMt6oA/cKX0Z5nVIQsN4fD4Igazlj4gAGUAzK46JUeRkBLNaW5z2eNRa20QaXOH2GjIY8V7rhaVvQmr3vIQNer1rV26oWfUu6lOG+wWjmSbvNDUrLFGRk8HhEMBEDFssAqoZ3SpoG887EoURpKTrGX5n/74qKAfX7HrsovM9nO8lpZMd0BRdzaiuIPHswhaMvltx9NpOdHNVoYitVU6/nApGDfx9pgZYxgl/WN2CGcePf7vCRUSQA+FySCuCIZXUpYtTMdJI8CcoOdSMp0qXjfQwgsdmMjIq7B+ZQDDyWISVfWIorIqu+/CtTD6mkGqWc3VpCz07w4hLKZgOOBNpXEbXpmAkDGit8bRLev8d7afePcXRGOtAfi5vq7tLmMKnCSgpBcv86gKa4jhXK+CY8qWvAh/x6zRPHD3cNAHC2Zmu2CWoKlKnJOBxFsNT/vkQJAKhgcH4kn3aV4W2P9YYmU9T5IphX5M46QL1iK8dK3wRzCRUNzaK1EByoKKN10LCgQA==;BHVhJbTu6BAHyFMjxHe1RQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-29-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.md",
+      "title": "Ascertainment of Veterans With Metastatic Prostate Cancer in Electronic Health Records: Demonstrating the Case for Natural Language Processing.",
+      "excerpt": "Prostate cancer (PCa) is among the leading causes of cancer deaths. While localized PCa has a 5-year survival rate approaching 100%, this rate drops to 31% for metastatic prostate cancer (mPCa). Thus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "originalUrl": "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/132619-ascertainment-of-veterans-with-metastatic-prostate-cancer-in-electronic-health-records-demonstrating-the-case-for-natural-language-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/journal_issues/EU-Vol-5-Issue-4-cover2x.jpg",
+          "width": 472,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
       "title": "Vice President calls for AI solutions in agriculture, health, education",
       "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive..",
@@ -1322,49 +1365,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-timekettle-m2-language-translator-earbuds.md",
-      "title": "Timekettle M2 Language Translator Earbuds",
-      "excerpt": "Timekettle has launched the next-generation Timekettle M2 Language Translator Earbuds with advanced features and capabilities. The Timekettle M2 Language Translator Earbuds provides support for 40 languages and 93 accents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1627492/product_picture.jpg",
-          "width": 400,
-          "height": 247,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AlmaLinux Delivers First HPC CentOS Replacement on Microsoft Azure"
+    excerpt: "The AlmaLinux OS Foundation, the nonprofit that stewards the community owned and governed open source CentOS alternative, today announced availability of the first AlmaLinux high-performance computing (HPC) image for deploying HPC workloads on Microsoft Azure."
+    publishedDateTime: 2021-12-14T17:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-almalinux-delivers-first-hpc-centos-replacement-microsoft-azure-/2021/12/14/9511264.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "9TouYwOMrdLsmszFsD79SqJbBwyiNfxtkFh7jc6iAIFXIjICGHOtrONwvYCbF4LbRRstDBiIOnoyhCs+Yyr29Jj7KCqCkSNaRtBZ0n4cxvum7F9is36ZW/NMhkKKcFYzcsGrsHXJy5SQAW5L4Wh3+YSN7ZYbkc3J1gE2ilElHjzo69Qu29sGxe7JGl3E+ThfqsNkUr0CS7Wdlxho5Ix9HjaIGzzlCnX4ztUKVZL5ewfMe3woKm7MlGx7Lx18XtKndWoL4sD9BHeK4tn1v5j+v83NfoQUtlgTtl0zD9G96ofPlM69P0rnd0t43g1PAPTav0e2JhE6L8xxY4UJdt9kozJz9drMEMi0BOHwvrN1xoYKyeVuK2KlZI3HmSiKpxqyK27dsGSzSDYEgL0Fut0OoUXBaWwO8u8DslCp5JpwM5Gc6MaQhOPvBSZIWw1bBxwyTN77IO3WrwAzJopDR0bVGvygkXOcbbjGoTY5jA1Oek1S6AbaWHQe0SibQxB1D3Oafqsu6gyK/I5MUcICAycnEA==;sKw8UeNUZ1XhuWETFbCdUg=="
 ---

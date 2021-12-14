@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-ma
 ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8b79833d0ee727bc20e82%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 343
     isCached: true
 
-secured: "FDnYRv5VmBmK36+4ACeEPGCMmR00To2ItgfitlOxUPofyDpoe8/tx4I8f5i6EIWmjOCsZGK7gSapOwBPkmeWl2i+Y3ynb4sX+FhrK57pBJW7DrTjrYRwxd7hxTEAVs12ALTiM3ZBggcIudlN0x4h0SbZaP/qgIvQWqkQpGUsfmap64E4TDsiJiJA+Ifj5bY01Hij0zz5nfK/cMrYeIUQQ/XjCBKXP2m6MnKA/mK/fmc2OfIK9UGCrFrTo3SxZYJlwwdeobdnD+wTy4iUTpRL+0H4PBDgICY1wWvzsb2RlLCHysqylzXwYzp2FgGRopy9v9/vY+0k51d64qpM0Y7mhL6vN9IsTEDe6jrGlsKJQnQ=;qvxyAbKMa2bhl4BHmY2PKw=="
+secured: "9vxMZhLXh2GdDFcF3OtJep9DCLpDyvgHdxOleHEaTCJERxnrKNxbZjHJ+/Pt8uGHGa9eSpyqQSfx9LVLv0BBiqg87sWjd74jHsONuHXjtg24wYAsoSiu53+Ibf/DufJByJU5QSFvWcLiMLGKzh8dj8z94e/5bSkvN19EkI1qwQphcXupm34aOjbcYh6Bme+dqHSqiSr873uH41Mh1fnZa1OAWzGfQfrAIFHRkxMJ42uXDXgOo4CtZquYmYRRgPD0hnzus6lek6cs+nQ5FBSmZz5WRrP8p6ILxS6bd3+K1bGozR/DzUqvDJ6Li8krddBN9hFQR4um4AnTf5wxuIF45OM4h/MrV8tGFCrYH20a+VvzNdKrcyGGIRQm3LXm5cLhRg9QbEAFTqdXVZy6Zqe3rBJt9o3MGzr8nZW5RbqnRJfLbD2lhImGhNVMeX3PI+G72fRiC8xL5b5SWAEKP/4NAHqqlcMIu8JYW4MbZkn68x16rCd43CWGsWbHl4G+L6XFuhTANY1sXvigYeCd1ObUgg==;qpX7BGl/5qhFt6fR584g0Q=="
 ---
 

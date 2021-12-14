@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 590
         height: 316
         isCached: true
+  - title: "AlmaLinux Delivers First HPC CentOS Replacement on Microsoft Azure"
+    excerpt: "The AlmaLinux OS Foundation, the nonprofit that stewards the community owned and governed open source CentOS alternative, today announced availability of the first AlmaLinux high-performance computing (HPC) image for deploying HPC workloads on Microsoft Azure."
+    publishedDateTime: 2021-12-14T17:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-almalinux-delivers-first-hpc-centos-replacement-microsoft-azure-/2021/12/14/9511264.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "uw6nITf7HTw8OmbnUQg/zhY85moKmuqo50sN/6b6xla6As9JsCO/O2oZ//Zk0yoAHV4o5Dot4tUEfL7xgO1OPcI5X9QRPe6ka5iwHpV7IaFKByP/bq67Ksrxr4+PF1Ho/u41tLFHhHMN585d5w395gi0ZwmS/x0dxc4g7SwI8jfl5LkCaTigoqk0DeYyAUoNKz15k7ZhU6Q8frnjgIb2bXMyG0GrKSyflcTovYWwWVa0BAkctTpyA08WKsiVcWt39HpxJlxsQWe92H3eOuOx6RBgFGQGDwSPVLQ/4/tzWOvamruUF/SEKJLMfCJPx9RCrvXFgnwN+7jZwqPAdIJkxlpB6ixEPnfEAF+Px4GV7oZDZQAXpdc4v+8NHlsINcN1PoOj18YXGV1I0Y3Az7hLpKAwqDRwbGGoaF+GY3acHjFky28OD1zSSU9ckE4e/5fIP/LkMINadr6iTJToayttyw+ohM809pImTzsp19RDDZ77U8NR5eUr2KHmjFqI6eT9+I9cjx86BIkJ+IbNQmCxZA==;8oef2mihODhLbnQlyrNBvA=="
 ---

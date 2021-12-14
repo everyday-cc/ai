@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots
 cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/12/13/un_chief_reuters.jpg?itok=gJRUqPq9"
         width: 480
         height: 316
+        isCached: true
+  - title: "Biden Administration Rejects Calls to Ban Killer Robots While UN Urges Action"
+    excerpt: "As human rights activists, backed by dozens of countries, call for an outright ban on the use of lethal autonomous weapons or “killer robots” ahead of"
+    publishedDateTime: 2021-12-14T18:08:00Z
+    webUrl: "https://www.visiontimes.com/2021/12/14/stop-killer-robots.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 36
+    images:
+      - url: "https://img.visiontimes.com/2021/12/GettyImages-1324244548.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4cR6LgW6gM13sBn8wMeUzjb+ooEDfr7JdN2ZBoUzA+Xw5wg7O4jJr+rU7/Rded4Ujuaxr2BpEHjFVek1Ec/Bd9aW9XT6OfJXH8xUQKgcMhgCGpMhn6cGw6oIO9/h/NgeTWngNuWDWAD//kSoTj2jwau6vW/9snM9mlE7oB2vluHHUvxkAJkVLbNFSASNFGqgbkQB2GNyaB4C7JueYjd52cLKglvYBFhOwAgBd1M8OmSe5TsT8TXHhgWx5k+1aaTlX0pSEpDvLDyQsv/uXJ/u/quRSKUxa6hTIp7cWyKGwTkeghLHAWP2ufDIM1LfIiFFsW8ibf1IO+zBwA5CeYHKwDug/noHcdRYyVOuCYr8AoHEgpYz+v+YmskaVwvb2iO89ry53b2xsVaLflY2mdf5HwTTZl4wcwYlOfSpRIYRpWSL2t4sU6e5IPgTEjr0xjmiEVHNo+f34/vEkOTzX8JOxbs0mSyzgDrPQmYgvAQ+ZRX9TsWmxJQdT1LpTdQgbVLPLzRj57FXEa+Zhq+oR4oypA==;UbH14b+yLdZWQDbaJ7G0Aw=="

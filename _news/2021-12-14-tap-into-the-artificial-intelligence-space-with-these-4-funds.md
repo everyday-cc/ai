@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-14T14:01:00Z
 originalUrl: "https://www.entrepreneur.com/article/402549"
 webUrl: "https://www.entrepreneur.com/article/402549"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Autos
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg"
@@ -30,6 +31,6 @@ images:
     height: 413
     isCached: true
 
-secured: "/94vT5F0E5BXxqUSFBoRB2NzArWlVsvhXKV22p8KGjo+iUUsy6hsrvZoOq031FSLH+S+6U0zmoIei8DNt6sBpfQsBSKRrf1MbVC2jvzxi3OALcgkFqv3VQWCd1SWba0ZeB7Rb8s+069xbZPSGRNVvAadlyS/w538hprKgKaGrkRlibJEk1xXnFmjIYy1Hdaus6eu9cPZXQTDooG6k9KM5go/PSQ/Lra3NVd1KZLkMeLXbcD+Ig+5QYwi2KfASJdl3+PcexP40/I24qmbmAdiTz0raYDtNHNOTlz/qoyzab7y42ROHQGBn+LNDenbBCUIuoRp3QkSAycMqSlsXuy2lWrJo4htvtqMxpJ00QKS1sQ=;SqhIlIxTVSpeun0NGA/yag=="
+secured: "dYY7Dfh9UHR18ntc/UAdZeucfidqIojPk71bK0TDFLv9l/Cf7zOM3i1Jwy48NejN/cNHb96g1R/a+Or0moD837twk8U8d3OQmpI2h8L5RNooiflytyxz2Xxdz/IRbocujMYLGMjI/A7vCbPUNp+Pf5RPGSbsJzUXMHh2ba7KN4JpUxOOvwppESBfEUKYJW1Fx5F8ljqPU2EWlOzjyfTBR3Oasf8MCiy1pK502QiOG5FhyNg3G3SAo5MSdB5Q1vlYEu5j8dYcLpvyCjEFbO/J6arkOMAaR8YqthzOBF+hk2zugfMoA0rEo0/FMa0yVJXBmbMNQnqfsdn7ehlqrE0K3G7M3u61SNmC5F71eGI0ImKIE2tKLB4O29fAbdVxmk3e8tjzUuf1Jzo4yPeL6qROyilAPrtAfCCh1cw3piQf2/6OhzxuRj1e7b+FWvAfrVvZJOtJ7G2P6Q2CnZCmDgxzHXcjubkDD/+mmaBgxwdreMpqtFT7U7/XqoecYFQ3n+bRxWGKU8F5XeCveYFcf9eQyw==;0b/HfacsBOV/0/hb3YMJ9Q=="
 ---
 

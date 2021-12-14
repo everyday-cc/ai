@@ -89,6 +89,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "An AI was invited to Oxford Union to debate its own ethics. What it said was startling"
+    excerpt: "It’s natural, therefore, that we would include the ethics of AI in our postgraduate Diploma in Artificial Intelligence for Business at Oxford’s Said Business School. In its first year, we’ve done sessions on everything from the AI-driven automated stock trading systems in Singapore,"
+    publishedDateTime: 2021-12-14T18:00:00Z
+    webUrl: "https://scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    ampWebUrl: "https://amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 66
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/167478-qfytmltrpc-1639390280.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
     excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
     publishedDateTime: 2021-12-14T06:06:00Z

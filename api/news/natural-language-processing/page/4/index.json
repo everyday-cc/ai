@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-04-toward-speech-recognition-for-uncommon-spoken-languages.md",
+      "title": "Toward speech recognition for uncommon spoken languages",
+      "excerpt": "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp",
+      "publishedDateTime": "2021-11-04T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-see-the-10-slide-pitch-amberscript-a-transcription-startup-that-aims-to-tackle-europes-vast-array-of-languages-used-to-raise-10-million.md",
       "title": "See the 10-slide pitch Amberscript, a transcription startup that aims to tackle Europe's vast array of languages, used to raise $10 million",
       "excerpt": "The series A raise was led by growth capital firm Endeit Capital, which will help the startup scale internationally.",
@@ -1392,58 +1435,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
-      "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
-      "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
-      "originalUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp-e1634938579138.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
-      "publishedDateTime": "2021-10-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

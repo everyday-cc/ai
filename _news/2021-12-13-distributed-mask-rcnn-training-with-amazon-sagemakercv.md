@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcn
 webUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/"
 type: article
 quality: 104
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Train and deploy a FairMOT model with Amazon SageMaker"
+    excerpt: "Multi-object tracking (MOT) in video analysis is increasingly in demand in many industries, such as live sports, manufacturing, surveillance, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
+    publishedDateTime: 2021-12-14T18:00:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-a-fairmot-model-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/17/ML-5167-image001.jpg"
+        width: 608
+        height: 491
+        isCached: true
   - title: "Hierarchical Forecasting using Amazon SageMaker"
     excerpt: "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows"
     publishedDateTime: 2021-12-10T22:19:22Z

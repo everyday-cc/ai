@@ -2,6 +2,101 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
+      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
+      "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-increasing-usage-of-artificial-intelligence-in-bfsi-for-fraud-prevention-is-driving-growth-of-the-market.md",
+      "title": "Increasing usage of Artificial Intelligence in BFSI for fraud prevention is driving growth of the market",
+      "excerpt": "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028, according to latest analysis by Emergen Research. Artificial Intelligence (AI) helps in predicting future trends based on analysis of past behavior of customers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-size-by-2027-industry-segmentation-by-type-application-regions-key-news-and-top-companies-profiles-key-players-are-amazon-web-services-aws-inc-google/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-size-by-2027-industry-segmentation-by-type-application-regions-key-news-and-top-companies-profiles-key-players-are-amazon-web-services-aws-inc-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-competitive-analysis-3-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-bfsi-market-size-by-2027-industry-segmentation-by-type-application-regions-key-news-and-top-companies-profiles-key-players-are-amazon-web-services-aws-inc-google/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-bfsi-market-size-by-2027-industry-segmentation-by-type-application-regions-key-news-and-top-companies-profiles-key-players-are-amazon-web-services-aws-inc-google/?amp=1",
+      "publishedDateTime": "2021-09-19T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-artificial-intelligence-robotics-market-growth-2021-global-key-leaders-segmentation-analysis-business-revenue-and-forecast-to-2026.md",
       "title": "Artificial Intelligence Robotics Market Growth 2021: Global Key Leaders, Segmentation Analysis, Business Revenue and Forecast to 2026",
       "excerpt": "Global “Artificial Intelligence Robotics Market” report provides a complete analysis of market size, share, growth drivers, challenges, competitive situation, trends and COVID-19 impact is ...",
@@ -1070,101 +1165,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024.md",
-      "title": "Deep Learning Chipset Market Size Soaring at 38.5% CAGR to Reach 4296.1 million USD by 2024",
-      "excerpt": "As per the estimations of analysts, global Deep Learning Chipset market valuation is reckoned to surpass USD 4296.1 by 2024, soaring from USD 1167.7 million in 2019, growing at a CAGR of 38.5% over the study timeframe of 2019-2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024-2021-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024-2021-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-hyundai-to-feature-facial-recognition-in-electric-vehicles.md",
-      "title": "Hyundai to feature facial recognition in electric vehicles",
-      "excerpt": "South Korean carmaker Hyundai Motor announced it will include a new facial recognition system in its forthcoming GV 60, the first electric sport utility vehicle from its Genesis brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5491631899253/2021/1/16318995983256/v1.5/Hyundai-to-feature-facial-recognition-in-electric-vehicles.jpg",
-          "width": 571,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "publishedDateTime": "2021-09-17T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

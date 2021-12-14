@@ -50,6 +50,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Biden Administration Rejects Calls to Ban Killer Robots While UN Urges Action"
+    excerpt: "As human rights activists, backed by dozens of countries, call for an outright ban on the use of lethal autonomous weapons or “killer robots” ahead of"
+    publishedDateTime: 2021-12-14T18:08:00Z
+    webUrl: "https://www.visiontimes.com/2021/12/14/stop-killer-robots.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 36
+    images:
+      - url: "https://img.visiontimes.com/2021/12/GettyImages-1324244548.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "KY0R8hazYSctwcKVzXxr+2vHP43+A01kqKD1zMrN8fTl4/7W5RJPZzeyK6anG4ZTYBvvfnQmYpp4BAkLuoXyeFoHZxSnREJ8K/zKr0XaUoAoWd9aAo8K2p+GZZ9AVYPCyzYSGXk97wTvRS7Up6QEKj91KellxJHxtolMAa9GG62/j77oeQNdfELs14TQek25nrrabsvJy8EdKPgVJ3UOSaA59M+Ub+Z6SckizBxO/ko8YLfbSfSd0Nks0gHGhGS8fncQUnZhaAXOoMRT+H027u72n+GIqzbaktJdtxNeOl+R820F+l8DLPplw2votN59vBKeMSjVs+XYb+3T6WPYw51D7iyMoWzmmrqdlK6xcjQ=;YBU3BYE1yGl5FPTjB/NqPA=="
 ---

@@ -106,6 +106,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "An AI was invited to Oxford Union to debate its own ethics. What it said was startling"
+    excerpt: "It’s natural, therefore, that we would include the ethics of AI in our postgraduate Diploma in Artificial Intelligence for Business at Oxford’s Said Business School. In its first year, we’ve done sessions on everything from the AI-driven automated stock trading systems in Singapore,"
+    publishedDateTime: 2021-12-14T18:00:00Z
+    webUrl: "https://scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    ampWebUrl: "https://amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 66
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/167478-qfytmltrpc-1639390280.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "YzFJqmxpVk5nkp9IIWLAe1xFv4u/OQgnY6YP1geBsLCq0An+0owgoDACffseBpR8ilM+04SpFAGFN+ExKyaN4kGh37excElDFc9ONvULklEXWIlC1a3CulhYSBAVEef101OtVB1788VweHSfSibM0J+R9zzRRknpxIbSYR6kCZekwXr1QKKJCLsR4OHFFavQajw9NhgnsYQ76bjzlMBnI59piCb7495SBBPcNGQ9Y/P0pTasxzYJrjteEQICSe5kl9qUHqM/Z9ka/1sLUA1rVM03DHGDq2oAxt4Oc/eGdyPk2oUPY5vnGtKF92Xlsq26WVd8syFKOSnlEZ9HrNsybkDoFETzbcaT4R2rCzIpXCWavj9Rs8iBRYXxqzsTQb6fXcjuqNgtGJYzD+blqWOfzMt6dmEMhZLRcgTC+OavhukJ766FiEhiB5OkAI6lG7tpXRI4ZMjll5zvsKXxujhorT0QfAB7dqtD1gnSgZm5zbZ12lbzCt+PtuBA1CrZ+WsSOnIUxhWneWtoZQTqWG/S4w==;j6AWGB6xe6V9unZ4WTlopA=="
 ---
