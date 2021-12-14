@@ -45,6 +45,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "5 AI and machine learning trends to watch in 2022"
+    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
+    publishedDateTime: 2021-12-14T16:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "m165Cf5wJxoUJ4DpKDGx3nlfiqy0WOqcy8JdwPJWfAcAKouWqYzCIp6TtJhUuzEkJwZLEJppHrXld0b9rYy/7tf3zZddpfEX2B2UrGgp4ZTIKe2IkiEFwOFmEly5AJGNiQGdgRoHq1JCti6GvaOnsjT0o1sdDDKGScmziqoI7sL2iZyvmyzIao56+zaLqwl0Ii9DokwtiACNiQ7NiBJu878jgw4eKV6kGJMt8dUoWOtVAnRLjVTnxDTyT/an4OsvesdhYyd9864OjsS3i5SDkuLu/XIx8AbNk6betshPyLgUJDkQRv8ITrKujlyoMH5uNTaeMpimw+ILdeYP8orBDhRy2TWqqgJzcjYUT2dSBNA=;n3411wU5CrAS+x8LlgKWrQ=="
 ---

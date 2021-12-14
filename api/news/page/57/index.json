@@ -2,6 +2,352 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-11-01-using-conversational-ai-to-support-employees-psychological-needs.md",
+      "title": "Using conversational AI to support employees’ psychological needs",
+      "excerpt": "Healthcare workers put on a brave face each day to serve those who are suffering, and in doing so they often put aside their personal self-care. The pressures of the job can lead to mental health issues, which are sadly compounded by caregivers’ feelings of guilt around needing care themselves. Sometimes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employee-care/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/11/conversational-ai-employee-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/WA__Eastern_Health_blog_2000x1006_V2b.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T05:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-facebook-battles-the-challenges-of-tactile-sensing.md",
+      "title": "Facebook battles the challenges of tactile sensing",
+      "excerpt": "Facebook detailed its efforts to overcome challenges in tactile sensing, which include developing new sensors and modeling techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
+      "originalUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 734,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/facebook-battles-the-challenges-of-tactile-sensing/amp/",
+      "publishedDateTime": "2021-11-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup.md",
+      "title": "The Station: Amazon reveals Rivian stake, the Tesla FSD saga continues and Aurora snaps up a CIG startup",
+      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your spooktacular central hub for all past,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/01/the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup/",
+      "originalUrl": "https://techcrunch.com/2021/11/01/the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/rivian-getty-ces.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/01/the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/the-station-amazon-reveals-rivian-stake-the-tesla-fsd-saga-continues-and-aurora-snaps-up-a-cig-startup/amp/",
+      "publishedDateTime": "2021-11-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-three-ways-a-causal-approach-can-improve-trust-in-ai.md",
+      "title": "Three Ways A Causal Approach Can Improve Trust In AI",
+      "excerpt": "If they win the trust of their workforce and customers, organizations will be well on the road to successfully adopting AI and automation — and delivering the business transformation they’ve aspired to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/three-ways-a-causal-approach-can-improve-trust-in-ai/amp/",
+      "publishedDateTime": "2021-11-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-ai-and-the-project-manager-rise-of-the-machine.md",
+      "title": "AI and the Project Manager: Rise of the Machine",
+      "excerpt": "Thousands of years before machine learning and self-driving cars became reality, the tales of a giant bronze creature called Talos, an artificial woman named Pandora and their creator god, Hephaestus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-project-manager-rise-machine-peter-taylor",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-project-manager-rise-machine-peter-taylor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH_5mtfcAg0LA/article-cover_image-shrink_720_1280/0/1635762771229?e=1641427200&v=beta&t=cDsnqfwMlpalp1J7WdDjYpYkyl8GqEEeNUUvMIQsObY",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-a-new-way-to-train-brain-inspired-ai.md",
+      "title": "A New Way To Train Brain-Inspired AI",
+      "excerpt": "A new study by German-Swiss researchers has shown a route towards training brain-inspired artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355317/a-new-way-to-train-brain-inspired-ai-355317-1280x720.jpg?cb=11484601",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
+      "publishedDateTime": "2021-11-01T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-arv-hosts-ai-robotics-hackathon-2021-open-house.md",
+      "title": "ARV hosts AI & Robotics Hackathon 2021: Open House",
+      "excerpt": "AI and Robotics Ventures (ARV), the technology development and venture building spin-off from PTTEP, organized special panel discussion sessions at AI & Robotics Hackathon 2021: Open House in two topics: Quantum Cryptography: The Future of Cyber Security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/LN9T",
+      "originalUrl": "https://www.newswit.com/en/LN9T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswit.com/img/f/20211101/59222587f864878b9c7a2675a06c13bd-0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
       "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
       "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
@@ -828,343 +1174,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-a-robot-to-top-up-your-tesla.md",
-      "title": "A Robot To Top Up Your Tesla",
-      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
-      "title": "Security AI is the next big thing",
-      "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "publishedDateTime": "2021-10-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-ai-is-keeping-watch-over-government-spending.md",
-      "title": "AI Is Keeping Watch Over Government Spending",
-      "excerpt": "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "publishedDateTime": "2021-10-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-ai-weiwei-traces-a-century-of-making-authorities-squirm.md",
-      "title": "Ai Weiwei Traces a Century of Making Authorities Squirm",
-      "excerpt": "A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "originalUrl": "https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-426503/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000",
-      "publishedDateTime": "2021-10-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
-      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
-      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "publishedDateTime": "2021-10-30T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-from-a-hidden-picasso-nude-to-an-unfinished-beethoven-ai-uncovers-lost-art-and-new-challenges.md",
-      "title": "From a hidden Picasso nude to an unfinished Beethoven, AI uncovers lost art — and new challenges",
-      "excerpt": "Artificial intelligence is being used to bring lost works from the likes of Picasso and Beethoven back to life, but not everyone is celebrating the achievement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
-      "originalUrl": "https://www.nbcnews.com/news/world/lost-picasso-unfinished-beethoven-ai-uncovers-lost-art-new-challenges-rcna2905",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-10/211013-picasso-2x1-mb-1520-a88fbc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna2905",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna2905",
-      "publishedDateTime": "2021-10-30T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-boston-dynamics-boasts-spot-robots-dance-moves.md",
-      "title": "Boston Dynamics boasts Spot Robot’s dance moves",
-      "excerpt": "Boston Dynamics is one of the leading engineering companies in the world that specialises in building robots and human simulation software. Spot Robot is one of its best or rather most popular agile mobile robots,",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
-      "originalUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/10/maxresdefault.jpeg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-30T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

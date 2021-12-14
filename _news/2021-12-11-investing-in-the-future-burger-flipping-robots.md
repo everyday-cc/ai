@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-
 webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
+    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
+    publishedDateTime: 2021-12-12T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
+    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
   - title: "Autonomous future: Self-driving taxis under trial in UAE"
     excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
     publishedDateTime: 2021-12-13T11:07:00Z

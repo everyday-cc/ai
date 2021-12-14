@@ -57,6 +57,15 @@ related:
         width: 1023
         height: 536
         isCached: true
+  - title: "Pony.ai's driverless test permit suspended after Fremont accident"
+    excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
+    publishedDateTime: 2021-12-14T14:34:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/14/ponyais-driverless-test-permit-suspended.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "b6cnpSIXpdAazjgjhdc+OJa5SLnT3z+O8NxSprabnJrVm8Myz/ybSXPTa547qJMNgzMisUtkwRfEaEdl+OYmMMul8zP8AvNAAaWEn4RWTH2ZuCRKjVaHnOMNg402eZllv3HrbdNqj96Kh2/v+SBfioWCVb+2GZ79RxAXWeDp5UUim4ql5U7YxAJOOVF1sv/GeqmzV1+mfRbKFBkBzvUyKdiGTeem/QGu0qNufc/1jgP5R8MxKAO2wmpsT9xeezNFSHGB1tsPPRswe82Rp8DwqJtP8fbh4kPPA4RTqZ5rjkPS0GWB/I6ir7odEby6+aaLhgq9qnSgNGK8PzMh54oNYin6wtIeZaNeu/rYbR3a7q71/gDSXH1sJLxmB6vexSz/HcfbYaotnXlcfyXyir30usHVL8Wj0IqGMzQ4qvx3+08fqgL6pzRFBcD2YcLE2z2IHSQQ0pokNjR0IWiik8vMDrT2msBVmoYlWhVvO8PJW76ZFp33nkfPuyyT5J1G9pSMfnfklIkbgnYPQOnl5lhhhA==;PQzJ5y4LFxzKKjaBE7hpGw=="
 ---

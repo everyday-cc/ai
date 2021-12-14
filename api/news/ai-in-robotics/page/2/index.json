@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
+      "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
+      "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
+      "originalUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
+      "title": "A system for designing and training intelligent soft robots",
+      "excerpt": "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp",
+      "publishedDateTime": "2021-12-07T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
       "title": "We love technology, until it starts loving us back.",
       "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
@@ -1276,103 +1372,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
-      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
-      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "publishedDateTime": "2021-12-01T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-adt-commercial-introduces-humanoid-robotics-to-security-industry.md",
-      "title": "ADT Commercial introduces humanoid robotics to security industry",
-      "excerpt": "DALLAS—ADT Commercial prides itself on delivering innovative commercial security, fire, life safety and risk consulting solutions for its customer base throughout the United States. That focus on",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
-      "originalUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/uploads/blog/968733cf011da9e33bf470bf2926d7d8.jpg",
-          "width": 260,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

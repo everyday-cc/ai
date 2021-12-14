@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverl
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Pony.ai's driverless test permit suspended after Fremont accident"
+    excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
+    publishedDateTime: 2021-12-14T14:34:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/14/ponyais-driverless-test-permit-suspended.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "to8JaW8bZeRgrK3dZaKpCSweXFBtmRC4cEKBAw8S+GRunMagYsP+1cusUWWdmlAcHOWnh8K6NBRORueE6EiOzTVyKrO7Xd1+toeE4uXh7FM3oPOWQm9TyiQYpz0bLJz2N2Vl4Yv66fvOkMnyu4+e0OEOGqkbGSh++aHaxpDj5YrwgDseGTHMuuP3FdLnzn6CX/nDjmaeOBufm+qibK2Gi+InlrssEYesdjAGv6RfRufboLUTuc+HMWZs/gQraMILs/ke79qR4Lu2kFW/KgkA+SU0gk+emJf3udE/aGxS7pKwDVFHPJEbdlG1a1LCmITcJkiMu1o11BtZ6Zjd86tUb/X15IufzNxLJ9cYaC6rhGmbpIlICTmj0wjbL9oya1tIQVxT9KlLZr7uyPI7tFcFJyqoCtELE6tSO8W016RFW9wj5bOJIJ3/+e4vXboh64wBnoJ1jBbDsygKtfX+f6O7NvblQmVjx+4KGL1dEMfwDbDBBNE9dgl80A23w/OSd/QiA8jUBjARez0wEx52jPnp4w==;HuXjPOx7+EtUpkKbAA7rjQ=="
 ---

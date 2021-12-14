@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-03-chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijings-goal-of-reining-in-big-tech.md",
+      "title": "Chinese AI gets ethical guidelines for the first time, aligning with Beijing’s goal of reining in Big Tech",
+      "excerpt": "China has revealed its first set of ethical ... Beijing's goals of reining in Big Tech's influence and becoming the global AI leader by 2030. Humans should have full decision-making power, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijing-s-goal-of-reining-in-big-tech/ar-AAP4O4N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/30/a076ab7c-21ed-11ec-83d0-b8338c7f9150_image_hires_224915.jpg?itok=wPPO-EZd&v=1633013362",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
+      "publishedDateTime": "2021-10-02T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
+        "domain": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
       "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
       "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
@@ -1355,50 +1398,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethical-artificial-intelligence-is-focus-of-new-robotics-program.md",
-      "title": "Ethical Artificial Intelligence is Focus of New Robotics Program",
-      "excerpt": "Ethics will be at the forefront of robotics education thanks to a new University of Texas at Austin program that will train tomorrow's technologists to understand the positive — and potentially negative — implications of their creations.",
-      "sourceUrl": null,
-      "webUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "originalUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cns.utexas.edu/images/easyblog_shared/2021/b2ap3_large_ethicalAI-robotics700.jpg",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The University of Texas at Austin",
-        "domain": "utexas.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

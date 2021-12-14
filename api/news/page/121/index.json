@@ -2,6 +2,308 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
+      "title": "Bosch DRIVERLESS: the journey begins",
+      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
+      "sourceUrl": null,
+      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "publishedDateTime": "2021-09-15T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motorsport",
+        "domain": "motorsport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
+      "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
+      "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "originalUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "publishedDateTime": "2021-09-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
+      "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
+      "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "originalUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1501769132-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "publishedDateTime": "2021-09-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-china-roundup-softbank-leads-200m-round-of-robotics-company.md",
+      "title": "China roundup: SoftBank leads $200m round of robotics company",
+      "excerpt": "Foxconn has also put its electric vehicle collaboration with Byton on hold, while JD.com is set to open its first offline shopping center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "originalUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month.md",
+      "title": "What Are Raymond James Financial Stock’s Prospects Over The Next One Month?",
+      "excerpt": "Raymond James Financial stock (NYSE: RJF) lost 1.9% in the last five trading days and currently trades close to $136 per share. Raymond James Financial is a financial holding company that provides services such as investment management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6141a79d0275b8f7ca5f28da%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "publishedDateTime": "2021-09-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ai-edge-hardware-startup-deep-vision-nabs-35m.md",
+      "title": "AI edge hardware startup Deep Vision nabs $35M",
+      "excerpt": "Deep Vision, a company developing an AI accelerator chip and software suite for edge computing workloads, today announced that it closed a $35 million series B financing round led by Tiger Global, with participation from Exfinity Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-Vision-U.2-PCIe.png?w=600&resize=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "publishedDateTime": "2021-09-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
       "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
       "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
@@ -791,317 +1093,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-dish-taps-ibms-ai-powered-automation-and-intent-driven-network-orchestration.md",
-      "title": "DISH Taps IBM’s AI-powered Automation and Intent-driven Network Orchestration",
-      "excerpt": "DISH Network has selected IBM to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable, and fully virtualized, benefitting enterprise customers across all industry verticals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/20784-dish-taps-ibm-s-ai-powered-automation-and-intent-driven-network-orchestration",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/20784-dish-taps-ibm-s-ai-powered-automation-and-intent-driven-network-orchestration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/5dbc5e7a4122c498f69337eae537e568.jpg?t=20210920_020148",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.md",
-      "title": "Mendix low-code PaaS adds Industry Clouds for key business sectors",
-      "excerpt": "At its Mendix World event, the low-code vendor announced ways for ISVs and partners to sell on its marketplace, as well as new AI, automation and Data Hub capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/691237/mendix-low-code-paas-adds-industry-clouds-key-business-sectors/",
-      "originalUrl": "https://www.reseller.co.nz/article/691237/mendix-low-code-paas-adds-industry-clouds-key-business-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/derek-2.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T19:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ten-key-technology-considerations-in-delivering-the-future-of-education.md",
-      "title": "Ten key technology considerations in delivering the future of education",
-      "excerpt": "Events over the past 18 months have highlighted just how inherently valuable technology has become for educators. From the remote delivery of classes and classwork notes and facilitating communication and collaboration between isolating students,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
-      "originalUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.idgcdn.com.au/article/images/800x800/dimg/aubuy-mwf_feature_module-3-800x450ci.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Good Gear Guide By PC World Australia",
-        "domain": "idg.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
-      "title": "Behringer Deepmind 12 Editor/Librarian",
-      "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
-      "originalUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34864_389.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T18:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-how-to-invest-in-artificial-intelligence.md",
-      "title": "How to Invest in Artificial Intelligence",
-      "excerpt": "Learn how to invest in the growing artificial intelligence market, which is projected to reach nearly US$1 trillion in value by 2028. Artificial intelligence (AI) has been pegged by some as the fourth industrial revolution,",
-      "sourceUrl": null,
-      "webUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investingnews.com/app/uploads/2020/07/how-to-invest-in-artificial-intelligence.jpeg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing News Network",
-        "domain": "investingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-11-power-players-leading-artificial-intelligence-at-microsoft-helping-guide-ceo-satya-nadellas-grand-pivot-to-ai.md",
-      "title": "11 power players leading artificial intelligence at Microsoft, helping guide CEO Satya Nadella's grand pivot to AI",
-      "excerpt": "But it also has a thriving business reselling its AI capabilities to other developers, through its Azure Cognitive Services platform, where it sells core algorithms for natural language processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-executives-ai-power-players-cloud-2021-9",
-      "originalUrl": "https://www.businessinsider.com/microsoft-executives-ai-power-players-cloud-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6140fa0d2db0850019a9716b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ai-driven-robotics-key-to-recyclings-challenges.md",
-      "title": "AI-driven robotics key to recycling’s challenges",
-      "excerpt": "“At the start of a new installation the vision system is installed ... founder and CEO at AMP Robotics. “AMP Robotics’ AI has to learn many different material types, and deformations – as well as customer-specific material types, which vary in ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/09/ai-driven-robotics-key-to-recycling-s-challenges/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/09/ai-driven-robotics-key-to-recycling-s-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/16732/ai-waste-man_recycleye-robotics-recycleye.jpg?crop=0.22710440751445102,0.40555285856213896,0.33936958092485503,0.38107105762283205&cropmode=percentage&width=1200&height=450&rnd=132759180770000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

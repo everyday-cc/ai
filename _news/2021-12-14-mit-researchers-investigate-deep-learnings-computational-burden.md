@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-14T14:26:00Z
 originalUrl: "https://www.infoq.com/news/2021/12/mit-deep-learning-burden/"
 webUrl: "https://www.infoq.com/news/2021/12/mit-deep-learning-burden/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://res.infoq.com/news/2021/12/mit-deep-learning-burden/en/headerimage/generatedHeaderImage-1637519241013.jpg"

@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: India Times
@@ -28,61 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI is the future of fraud detection"
-    excerpt: "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers."
-    publishedDateTime: 2021-12-09T23:50:00Z
-    webUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/"
-    ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
+  - title: "The Evolution of AI: How Enterprises Grow to AI 2.0"
+    excerpt: "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development."
+    publishedDateTime: 2021-12-13T19:38:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
+        width: 1920
+        height: 1152
         isCached: true
-  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
-    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
-    publishedDateTime: 2021-12-12T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
-    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+  - title: "AI and 5G: Evolution in Construction"
+    excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
+    publishedDateTime: 2021-12-14T06:32:00Z
+    webUrl: "https://constructech.com/ai-and-5g-evolution-in-construction/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
-    publishedDateTime: 2021-12-10T15:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24548916/ai-to-boost-cancer-drug-combination-studies-and-treatments-of-the-future"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
-    publishedDateTime: 2021-12-10T18:31:00Z
-    webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
-        width: 845
-        height: 396
-        isCached: true
+      name: Constructech
+      domain: constructech.com
+    quality: 17
 
 secured: "OWsiJV5+e6hUvj98mQZ2/cnuYEDj2jnwXxeEm3fj+MhYchl7pzGZoFde51X4irNk3aZAy6DB2xvBzVz0cx/86Z3jP4QOpR+SkJOORkgYPph/uLJ16AphuKCtF8QJht4Wk14cz8IoQQfJ+WhEsKA63RVWYK4F3Vf6/KwqlVANTwLb1DGHJJ2BKR3isr9XGk73OJK/kqGVov1dk5Ws+Rje3z1T6RH8nzx2Gxk7ZcP7FUqeD3mJ31Mk1gR4plRdwSZ8dCINfmkV5gxGyDfcXbCTHhwb989ukTJtOjBSZfgBt6Zym6l1iyMtcDnu4uT3aDLL7ikRDOFz2e209+3igUnrAgsr2p3IemAc/V608v/RCtA7B/FXViee5pFeKG8+n12V/MLCCeoeU1AziwtZBMh2BVLeXK9cdN5mmZyjQyGJpL75qeNpMF8asbpB+en1u5tn5HBfheztbADzfl9xCg2o9I7dLnZZ8T+9Cvn+p6v7zcQ0rk2S+phEtT7kIcZWFOyaxWM2Ua/uReRrZqJ2vOMDuQ==;YfDsFDO06A6i99VR+4dCQQ=="
 ---

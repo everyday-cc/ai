@@ -41,6 +41,17 @@ related:
         width: 2120
         height: 1415
         isCached: true
+  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
+    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
+    publishedDateTime: 2021-12-12T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
+    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
 
 secured: "CbWDAcXA4s3H6Wd1Ca15h6PoWFUl9JzW+EI6Zof86P1EvuvV+RKAsNysRBZZKn83MLmgmnsXgwnIH49g19giHjiz4mj7KafCmYPosUeaXlwqtRj72r3j3uYMaqXxRZEk/v4SZfWEbs8ILvEAaTxaCyqjfsuh8h7XrkNyKl8z0jx8qxRSbXPvYIG7DxxvURYk1+udjdotgXRWnzRe/MYIhPlhLCR9h+4+a0Lvkng3lcTH47t2WEgHHA+KUPKRTJIHKRQQMvLVtgrLJ09wpJEExXj8dwxsNY55+lcyYOlN0Hz09D/chhKgxZQmOszheOm53IVXuJFpkSaMF4UHZmyVCuDHWFrPaMXiQLzi8q3SnuE=;U28i+F9EjqcF6uFGQ42agw=="
 ---

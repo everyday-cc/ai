@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acq
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 116
 published: true
 
 provider:

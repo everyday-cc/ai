@@ -2,6 +2,211 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
+      "title": "Tega Industries to debut on December 13. What could be listing premium?",
+      "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
+      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-debut-on-december-13-what-could-be-listing-premium-7816661.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-12-boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do.md",
+      "title": "Boffins unveil artificial intelligence that thinks just like we do",
+      "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "originalUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zVspGAPHrMjv8jn8sGkvPC-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "publishedDateTime": "2021-12-11T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-the-human-like-ai-robot-desires-to-be-a-mother.md",
+      "title": "The Human-Like AI Robot Desires To Be A Mother",
+      "excerpt": "Sophia is a social AI robot created by Hanson Robotics, a Hong Kong-based business.Sophia made history in 2017 when she became the first humanoid AI robot to be awarded legal citizenship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235",
+      "originalUrl": "https://www.thehansindia.com/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/11/1130931-robot.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235",
+      "publishedDateTime": "2021-12-11T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
+      "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
+      "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "publishedDateTime": "2021-12-11T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company’s RR.AI commercial unit was now capitalising on it. “That’s one of the reasons we have sought investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
+      "originalUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2SS196",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196",
+      "publishedDateTime": "2021-12-10T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
       "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
       "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
@@ -113,7 +318,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -271,7 +476,7 @@
       "originalUrl": "https://futurism.com/deepmind-ai-reading-comprehension",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -411,7 +616,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -928,7 +1133,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -971,238 +1176,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
-      "title": "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling",
-      "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop",
-          "width": 320,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "publishedDateTime": "2021-12-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-cyber-daily-us-to-bar-investment-in-chinese-facial-recognition-firm.md",
-      "title": "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm",
-      "excerpt": "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "originalUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-to-see-proteins-change-in-quadrillionths-of-a-second-use-ai.md",
-      "title": "To See Proteins Change in Quadrillionths of a Second, Use AI",
-      "excerpt": "Researchers have long wanted to capture how protein structures contort in response to light. But getting a clear image was impossible—until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "originalUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b24d2b315dad96cfe1db53/master/pass/Science_protein_GettyImages-934883946-(1).jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "publishedDateTime": "2021-12-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
-      "title": "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital",
-      "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "publishedDateTime": "2021-12-10T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
-      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
-      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New, Innovative Fintech Aids Credit Union in Rapid, Billion-Dollar Growth"
-    excerpt: "Datava, a new innovative fintech, and American Heritage Credit Union, a $3.8 billion asset, Philadelphia based credit union, recently presented at the NACUSO Networking Conference about their successful CUSO partnership that aided in the"
-    publishedDateTime: 2021-12-14T14:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20155491.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "miCJJjiQXO6dIFmZ/rG1OQSJ8PDoR61LBMKXKM/H/viCrOKK9S30yjYtHRkR7fvXnlTr5tsh4cKolFFUphatlAh9FwvyjmO05+RBo9KQLN1sdJojq4fjRkI4QuFavmvEVmWD+n0Npz/q0smCH5Dq8VwJSF5u/Mk5gqpXbWBf1GBS9cm0ee7bAd3v6Rfr4/O5pNzcBN50rflgKMl/TkwPhFmqFzoL3KGL12OW9PpQ6SN8W3OuFPhWJ0rxf0nmW209d8fqKRriGjXy1COwjnkelkkFOoLBHiibvSiUOywKUK0iyzWThZ1wZ+/fy/WsN+APro1wXTZEFdHXtS+hthnXdvgm5HeY6KGWUUnbUPORk1cSM1fR+TfNwP5j0dfElBq6H/PC9jGF/hrKEotW6OyFzkcC7pSzmInOlElOIF64kYznDm4AOryWfFISBHZr5LxYnS6/BHIa41k+DZmi4aMfEmAbBsZv9W6hHQskhkRitx/VRsjFuzNDNcEhWLk3MmMjlItBMBjbr494vidEUrxuPg==;DbksngCtCUDuk1kKyjUMpg=="
 ---

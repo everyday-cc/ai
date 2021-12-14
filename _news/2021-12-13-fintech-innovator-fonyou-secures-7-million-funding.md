@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Platform fonYou Acquires €7M from Banco Santander Smart Fund"
-    excerpt: "Fintech platform fonYou has announced that it has acquired €7 million in capital from Banco Santander’s Smart Fund, as part of a financing transaction that will aim to support fonYou’s future tech dev"
-    publishedDateTime: 2021-12-10T15:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/amp/"
+  - title: "Find A Pain Point, Don’t Follow Your Passion And Seek Out An Unsexy Sector Are Some Of The Keys To Building An $8.3 Billion Fintech Unicorn Company"
+    excerpt: "Tipalti is an Israeli-based accounts payable fintech company. Their name comes from the Hebrew expression—we handled it. The fintech company raised $270 million at a valuation over $8.3 billion in an effort to transform and disrupt this sector."
+    publishedDateTime: 2021-12-14T13:47:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 51
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Banco-Santander-Boston-Massachusetts.jpeg"
-        width: 960
-        height: 1280
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8acc0a8d284aaa665c72d%2F0x0.jpg"
+        width: 1200
+        height: 1138
         isCached: true
-  - title: "Cloud Fintech innovator fonYou secures €7 Million growth funding from Banco Santander’s Smart Fund"
-    excerpt: "Banco Santander financing agreement will support fonYou’s ambitious growth strategy and accelerate international market expansion"
-    publishedDateTime: 2021-12-10T09:55:00Z
-    webUrl: "https://www.totaltele.com/511936/Cloud-Fintech-innovator-fonYou-secures-7-Million-growth-funding-from-Banco-Santanders-Smart-Fund"
+  - title: "New, Innovative Fintech Aids Credit Union in Rapid, Billion-Dollar Growth"
+    excerpt: "Datava, a new innovative fintech, and American Heritage Credit Union, a $3.8 billion asset, Philadelphia based credit union, recently presented at the NACUSO Networking Conference about their successful CUSO partnership that aided in the"
+    publishedDateTime: 2021-12-14T14:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-20155491.html"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 10
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 38
     images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
-        width: 500
-        height: 500
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "YGJkvS2XU6lgrdlWie9s6lVJrawmx9+z6i4oR9ouaeOgWeyt2ykRydpNA0F0tYDR847XfrEHCYdFI/obqtf5I8CLcdfyMryujYhM5VMtCJExHh19KlYNcOGd6sr05fBRHAJWgDLznykfGSOmvxeAiu9OwijbL7AQ0vRXXGAodyfcg31g6bPq8Dpf/Lv/pe9s3rgiMNBO/g7l2djOMz23piRfhsjceQ5pdfjDvvwOuVlyn3ACUblKLfdZmmUtwJfb2xn3l0UiCS70LRdYqPTG5cAVWgscGffQDnTn9ujBWgEXXeM/419lHZvff22yG2uuKxEAhKqKr37VrUwhje3bZ0y43L9bKYLauasi7x+ZCTfxNKiHQzzBIzCTNWwWjZePEoy3aQv3dRGI/w7ruHeN5bcFzIsyG4K4/+0z9yqnqXahkwsR9NWwUNaeCqnoHzjD20cV3hfAkByN4WkYfn2JP41jaHyj8726OUMaIEJ/q9exVE73DOzL9lLaFonbqvyoZq03z37nAlxaoJsYdxDT9w==;/0tMbULw+iagK4o+9aZCuA=="

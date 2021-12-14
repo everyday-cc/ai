@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Ex-Apple / Tesla Leaders Raise $1,000,000 in 1 Hour From Retail Investors, On Track to Release World’s First Artificial Human Arm"
-excerpt: "The Atom Limbs Regulation CF Offering raised $1,000,000 in 1 hour, and is just shy of $2,000,000 raised in total. Atom opened its latest investment round in anticipation of a 2023 release of the company’s first product,"
-publishedDateTime: 2021-11-30T15:12:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-79a711c7ad0a4a8b95ba4105e7517025"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-79a711c7ad0a4a8b95ba4105e7517025"
+excerpt: "Atom Limbs, a technology company combining breakthroughs in neural interfacing and human-scale robotics to create mind-controlled bionic limbs, launched its regulation CF equity crowdfunding ..."
+publishedDateTime: 2021-11-30T15:24:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
@@ -20,11 +17,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "5J+16WoAbLSkUvD+UgottfGiQ2b6f+BIwIFtNTVMXrrO41zZtM7U9am6MXLPU34bL1IWE2QqxTZxL4edKJadNvceZZVN973N88LHXz7gyqOQ2FGznROcTiBpSro+XydTS5bDtHpJkPwqmoiXro/ZKLMi5NGypOlaQBxwSJUHQIuOgu8nVBHzNbnmDknIxJpGxzphfq57mqk8wPSIAd3tDTVi6/z+h4xIC+oR1iZKotaOmgLM6iHdS4kM2BZtZns/fxoGVyX8aOfU0W/irK9XvB2UZf3X+fziHjyzxYf8tyWNMvWN0EiEeEngJBW0ZOpjyp3FzPHyypQOcQaCTBrEf4EvTr0zSL4bBKPDTViH2Ik=;+iO67IBtgOr/Z72wetemtQ=="
+secured: "+feQVSHN++GCdh+MX5awYGQkduiO0wkTCOrQzyLBEskoldYM0Q5nGEQ8wqN6WMqEr7ds6DCo7y3yv/M10paubF/FEtUEhq1AP7sGamL2YsA2GorZuN7Q6RFEmA9ojlVyF4FjG/l+p7y5/SItAoYg0Y+S+2fjJhcnSQNO51bTcqlbHQuffVmJ7EREXaZOJ8lxF3NkrLl5fiMTeyPwHHHOUxxY/Rj1wVWBzifLRSN3u47IfidLQKqq55PXpO256lbzzjWeyO7Ikeu7mP2Dc4bpXiKj9EcW/445Qc5CCSkeYnbT75VOYUKdPtKkHaR3V6g5Kkq+/drDGUCSgv+dL8n/1nassOj7Y52OcDbYdjf11xc=;lLatbVXOeFdN1Z0xSoDhfA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-14-mobility-software-startup-apexai-lands-supplier-giants-continental-zf-as-investors.md",
+      "title": "Mobility software startup Apex.ai lands supplier giants Continental, ZF as investors",
+      "excerpt": "The four years that Apex.ai spent rewriting — and then safety certifying — the robot operating system to give automakers and other mobility companies a toolkit to integrate software applications into vehicles has paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "publishedDateTime": "2021-12-14T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
       "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
       "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
@@ -42,6 +94,60 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/402549",
+      "originalUrl": "https://www.entrepreneur.com/article/402549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Facebook AI"
       ]
     },
     {
@@ -399,7 +505,7 @@
       "originalUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -442,7 +548,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1264,102 +1370,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
-      "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
-      "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "originalUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "publishedDateTime": "2021-12-07T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

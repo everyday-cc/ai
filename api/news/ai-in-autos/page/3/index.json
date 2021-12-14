@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-23-stocks-to-buy-now.md",
+      "title": "Stocks to Buy Now",
+      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast.md",
+      "title": "Abu Dhabi’s G42 to start first driverless car trials in Mideast",
+      "excerpt": "The company will start running a small number or vehicles in two years and plans to have 4,000 driverless Origin ... to healthcare G42 is as an artificial intelligence and cloud computing firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
+      "originalUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2021/11/Abu-Dhabi-Skyline-1-1-1-768x512-1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-stocks-to-buy-now.md",
+      "title": "Stocks to Buy Now",
+      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/tag/stocks-to-buy./",
+      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy./",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
+      "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
+      "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
+      "originalUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
+      "publishedDateTime": "2021-11-21T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
       "title": "Best new cars cheaper than $40,000",
       "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
@@ -1237,198 +1391,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-one-autonomous-taxi-please.md",
-      "title": "One autonomous taxi, please",
-      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... The control algorithms — similar to ones used for self-driving cars — function a little like a coxswain giving orders to rowers, by translating a given path ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
-      "originalUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/roboat_0.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ajman-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing.md",
-      "title": "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing",
-      "excerpt": "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "originalUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "publishedDateTime": "2021-11-16T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
-      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
-      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
-      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
-      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "publishedDateTime": "2021-11-15T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

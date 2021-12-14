@@ -2,6 +2,197 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-06-tagalong-robots-follow-you-to-learn-where-you-go.md",
+      "title": "Tagalong robots follow you to learn where you go",
+      "excerpt": "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/robot-trailing-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits.md",
+      "title": "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits",
+      "excerpt": "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
+      "originalUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FRacist_AI.jpg",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
+      "publishedDateTime": "2021-11-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
+      "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
+      "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
+      "sourceUrl": null,
+      "webUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
+      "originalUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://decider.com/wp-content/uploads/2021/11/Finch-robot-voice.jpg?quality=90&strip=all&w=680&h=450",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
+      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
+      "publishedDateTime": "2021-11-05T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Decider",
+        "domain": "decider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster.md",
+      "title": "Can Artificial Intelligence Save America From The Global Supply Chain Disaster?",
+      "excerpt": "Leveraging AI to its maximum potential in supply chain technology is paramount in our race to solve the crises of the day. Big wins will help companies around the world to build more resilient, agile",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61853070a9d6a56144f276a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
+      "publishedDateTime": "2021-11-05T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-here-are-the-top-10-ways-robotics-is-benefiting-brick-and-mortar-stores-in-2021.md",
       "title": "Here are the top 10 ways robotics is benefiting brick and mortar stores in 2021",
       "excerpt": "The utilization of robots in the logistics and production network empowers retailers to accomplish sizeable reserve funds. Here are the top 10 ways robotics is benefiting brick and mortar stores.",
@@ -1195,190 +1386,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-the-best-robot-vacuums-let-you-clean-up-without-lifting-a-finger.md",
-      "title": "The best robot vacuums let you clean up without lifting a finger",
-      "excerpt": "Keep in mind, some vacuums have different power ... care of itself after taking care of your floors. Do you want to control the robot vacuum with your phone? The best robot vacuums pair with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
-      "originalUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/07/03/best-robot-vacuums.jpg?auto=webp",
-          "width": 1000,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/story/reviews/best-robot-vacuum/?amp",
-      "publishedDateTime": "2021-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
-      "title": "DeepMind takes next step in robotics research",
-      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
-      "publishedDateTime": "2021-10-31T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
-      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
-      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
-          "width": 1024,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "publishedDateTime": "2021-10-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lowell Sun",
-        "domain": "lowellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-a-robot-to-top-up-your-tesla.md",
-      "title": "A Robot To Top Up Your Tesla",
-      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

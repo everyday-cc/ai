@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-06-2021-ai-predictions-what-we-got-right-and-wrong.md",
+      "title": "2021 AI Predictions: What We Got Right And Wrong",
+      "excerpt": "With 2021 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today. As of the beginning of this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a99e630d8e961cf36b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1048%26cropY1%3D38%26cropY2%3D628",
+          "width": 1048,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/",
+      "publishedDateTime": "2021-12-05T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-05-china-chongqing-begins-autonomous-buses-operation.md",
+      "title": "China: Chongqing begins autonomous buses operation",
+      "excerpt": "Chinese technology behemoth Baidu, who created three autonomous buses has begun advertising trials in Chongqing Municipality in southwest China.<br /",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103307522/China-Chongqing-begins-autonomous-buses-operation",
+      "originalUrl": "https://menafn.com/1103307522/China-Chongqing-begins-autonomous-buses-operation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_105_menafn.jpg",
+          "width": 512,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-05T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
+      "title": "Pony.ai begins paid autonomous robotaxi services in China",
+      "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "originalUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/486/17486/Pony.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event.md",
       "title": "Optus deploys 5G standalone on AWS DeepRacer vehicles at e-racing event",
       "excerpt": "Optus also reports that the AWS DeepRacer is the first autonomous 1/18th scale car specifically developed to help people of all skill levels get hands-on with reinforcement learning, an advanced ...",
@@ -172,6 +312,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ex-apple-tesla-leaders-raise-1000000-in-1-hour-from-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple / Tesla Leaders Raise $1,000,000 in 1 Hour From Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "Atom Limbs, a technology company combining breakthroughs in neural interfacing and human-scale robotics to create mind-controlled bionic limbs, launched its regulation CF equity crowdfunding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1172,160 +1356,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast.md",
-      "title": "Abu Dhabi’s G42 to start first driverless car trials in Mideast",
-      "excerpt": "The company will start running a small number or vehicles in two years and plans to have 4,000 driverless Origin ... to healthcare G42 is as an artificial intelligence and cloud computing firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2021/11/Abu-Dhabi-Skyline-1-1-1-768x512-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
-      "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
-      "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "originalUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "publishedDateTime": "2021-11-21T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

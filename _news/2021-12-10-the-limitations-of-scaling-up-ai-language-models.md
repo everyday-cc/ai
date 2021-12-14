@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "4 Types of Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) is continually evolving, with new technologies always pushing the limits of what’s possible. Despite the astonishing progress that’s been made over the past few"
+    publishedDateTime: 2021-12-14T16:12:00Z
+    webUrl: "https://www.labmate-online.com/news/news-and-views/5/breaking-news/4-types-of-artificial-intelligence/56857"
+    type: article
+    provider:
+      name: labmate-online.com
+      domain: labmate-online.com
+    quality: 39
+    images:
+      - url: "https://www.labmate-online.com/assets/file_store/pr_files/56857/thumbnails/images/600w_pexels-tara-winstead-8386422.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "J6RhmKYeHMvjlAKKmNPNmmNR9/1OUkD3qouh4jCEjIFfprUgSePU6/7su55E0GUmpbSy8gfFMJ0lw40DvwIATqmKn0MhGR0dX/cUXAXXkei17fl6fxQAlgWGhO6Ezybx7xI6GnnEwUWtPrI+UijwNvCr05TmreC6YWEjZ7f1l2n+kb06kaNCZcMvXqr1qjP0byGqHjtbL0SYHL/z+pHM1RaC7AkgODK8YS5wTufkgz3IBYr1b64ZBzaXsf7g90qDFPYONi3kpkp2xNGIgx/1N8gpJMYHI9gP4KQSmNBWHqtd3ve6k9lTWVOoegOjrOpz9548OaBHBnTC8Xcm8Jfn3Yz8vzlWGVXA3qmrqMi2rHGUql3fCxpdC5MKXayHlPm1XLw9eXUjvZOXpLuQeTT4pzyqr44FRFsYi2aCSUlgsBxm8rpiP8GB3Ekb222qaq3tnaic2CYS9c7bqRT/eSPZ9bJLhpaQO6x5jWe5Vc/gJoZ0XB5Do+5lFWvSUA//pF1VZfHsEFw6UD6KkgFDD0p/2g==;rITR18JZ0cP+BI5iGFMw7A=="
 ---

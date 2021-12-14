@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/machine-learning-trends-fo
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 AI and machine learning trends to watch in 2022"
+    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
+    publishedDateTime: 2021-12-14T16:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Hot Skills for Digital Marketers in 2022"
     excerpt: "The digital marketing landscape is constantly changing and evolving. Skills that were in demand last year may not be in demand this year, and vice versa."
     publishedDateTime: 2021-12-14T13:48:00Z

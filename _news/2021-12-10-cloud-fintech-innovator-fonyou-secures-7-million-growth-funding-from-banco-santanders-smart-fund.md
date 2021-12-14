@@ -41,20 +41,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Fintech Innovator fonYou Secures €7 Million Funding"
-    excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
-    publishedDateTime: 2021-12-13T01:01:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/21719-fintech-innovator-fonyou-secures-7-million-funding"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/ace6ed98a255c1c5c5522c8ad446dfd3.jpg?t=20211213_005950"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "eXaB0saWh71RG/QVNSlHM6ZgheajlvZa64TuZqZS4sLjVPTsO00dPty1iGpnhirPsUOS9lOb5hS8TZpYGZxZI+YRdlWDYqDwmIIevB0XJSPSUNtqzdP8PsRr1lO5rzhugnhltpFQc21ajK3Zm+jYTq/ZkXXe3XetcEfc1DWO51WMzITVpdY+jK4QWNzlllfHpwi99AYcr/4bjSpAF6Im9jA3Rg9Q5dhSArvjrZMabFW2Q4eRJMdbasUtwL9ZN9f939tMCm4SRscFYgx3hc8y0ArWXyfYJjLv6PO43yGDnBL+61OphEFfgjPij/N5yCSgHuDM6l6Yp1jDYs1hk5/cJYuDAJ1KDbDwEEXu2vUS4uE=;qwiPhJr/Ti4q1Psk0oBuHg=="
 ---

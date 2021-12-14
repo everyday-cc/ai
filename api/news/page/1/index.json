@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
+      "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
+      "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mobility-software-startup-apexai-lands-supplier-giants-continental-zf-as-investors.md",
+      "title": "Mobility software startup Apex.ai lands supplier giants Continental, ZF as investors",
+      "excerpt": "The four years that Apex.ai spent rewriting — and then safety certifying — the robot operating system to give automakers and other mobility companies a toolkit to integrate software applications into vehicles has paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "publishedDateTime": "2021-12-14T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-can-ai-help-make-social-media-more-accessible-inclusive-and-safe.md",
+      "title": "Can AI Help Make Social Media More Accessible, Inclusive And Safe?",
+      "excerpt": "In the latest edition of our “On AI Ethics” series, we caught up with Ramit Sawhney, Lead AI Scientist at Sharechat. Learn more about how the India-based social media unicorn leverages machine learning to to further its mission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8b79833d0ee727bc20e82%2F0x0.jpg",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/",
+      "publishedDateTime": "2021-12-14T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
       "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
       "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
@@ -42,6 +198,60 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/402549",
+      "originalUrl": "https://www.entrepreneur.com/article/402549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Facebook AI"
       ]
     },
     {
@@ -143,6 +353,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company.md",
+      "title": "Find A Pain Point, Don’t Follow Your Passion And Seek Out An Unsexy Sector Are Some Of The Keys To Building An $8.3 Billion Fintech Unicorn Company",
+      "excerpt": "Tipalti is an Israeli-based accounts payable fintech company. Their name comes from the Hebrew expression—we handled it. The fintech company raised $270 million at a valuation over $8.3 billion in an effort to transform and disrupt this sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8acc0a8d284aaa665c72d%2F0x0.jpg",
+          "width": 1200,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
+      "publishedDateTime": "2021-12-14T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -337,57 +599,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-14-zf-takes-stake-in-mobility-software-startup-apexai-as-it-raises-565-mln.md",
-      "title": "ZF takes stake in mobility software startup Apex.AI as it raises $56.5 mln",
-      "excerpt": "Germany's ZF Friedrichshafen, one of the world's largest suppliers of auto parts, has acquired a 5% stake in Silicon Valley mobility software startup Apex.AI in a fundraising round led by investment firm Orillion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/europe/zf-takes-stake-mobility-software-startup-apexai-it-raises-565-mln-2021-12-14/",
-      "originalUrl": "https://www.reuters.com/markets/europe/zf-takes-stake-mobility-software-startup-apexai-it-raises-565-mln-2021-12-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Jx2D1PTBvxXvo2PrhT78DuYkIBU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGEUAY6ICFLQ5GIF4WGZZQFJQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
       "title": "2022: A major revolution in robotics",
       "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
@@ -579,7 +790,7 @@
       "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -665,7 +876,7 @@
       "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -852,7 +1063,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-mask-rcnn-training-with-amazon-sagemakercv/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -987,189 +1198,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
-      "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
-      "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "publishedDateTime": "2021-12-13T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
-      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
-      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
-          "width": 1028,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T10:44:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
-      "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
-      "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "originalUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/13/Expo-2020-Dubai_17db5173489_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "publishedDateTime": "2021-12-13T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
-      "title": "Machine Learning Trends for Marketers to Watch in 2022",
-      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "publishedDateTime": "2021-12-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

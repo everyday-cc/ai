@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/europe/zf-takes-stake-mobility-sof
 webUrl: "https://www.reuters.com/markets/europe/zf-takes-stake-mobility-software-startup-apexai-it-raises-565-mln-2021-12-14/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -38,8 +38,13 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 60
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024"
+        width: 1024
+        height: 723
+        isCached: true
 
-secured: "4fbpbgSXSD92eDoAWo3LWBCbr6y0vJfTge3T7YapOVKZwdNXLofI2EbPX8aUGvWq5VfHaF+B+hdvzz8uwD8MLp9BfgZ8iJwUy5SV1HL7omN0WMfuqVTojAB9ffELnsPnMgUwDgxNkIoGj3GLxC3mwLwGUDIJRaRz5T3SDECKD9gKkyoHimAvhQo4k+U6JopNk6kgM7E8t2TLrAZEbdagpUBnU5SWGtrC7eIzbMIGm0gWGwjVwqZpBlV8y7IHbKQkfCG1wNCUYt7yphSAdqBhqv81ZQi+MZlGyYctGCFsl0hTrlhAyRT+BhkllqTQdcA+GbjytF3cVRPiE3rPD6YhheS2giURqOzU8sBSeaaj+Y4=;KLOUJsyICj1eMSNcrehqkQ=="
+secured: "bc4D74ynwffUKeqretcVuALTjv92KGZVWAdNFk9E24f1gBdZFQAhOfxf9cPGL4TAAsLJadUsacd/pDhnjCwL6kDMecfGYf2Js0ko0hIH+zd59FQw4XmX5iTb5C+rtAmO+dz/V4VTBrUfYxSfR93+hEBxfIiDSqncFa7JGyzd6kFR/XYz94aKdzF8G6pySTdEEmUGO0hCDSWLHG/mEYPioHfh1ZAt3YHVUwYoCMRbAa1Icw+FWMwEphRy+jVNKA9RZq5CF5eKLIZRE9laifeuNzZ96MuBFLj494Wi9NFFmIsG6UoGNMQAkAsCUxrci4FyrX4HI5wkeG0XXIQ7QOsXKvgf8DO2eSDP2odhQ3sa3RtU6VatFYF8wBXpy+NKNSBjEJcRwiCEMXjO9YmrM3ejVWTEEaVUx1CC569OIadYC6U5gvHcekYAnNrzdQwDdbPTOySBFBRyit61GYcfJ9ffqWHo39E40BOk9dLg4B5hqD83pre/2D8IL0+aaEk8FZIuZYdVk9OfEtAzOD0cyrfpUg==;UIzT3qyA97f5UXg1sj87Mw=="
 ---
 

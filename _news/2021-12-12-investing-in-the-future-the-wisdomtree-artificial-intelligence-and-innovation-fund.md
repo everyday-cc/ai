@@ -21,65 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Why AI is the future of fraud detection"
-    excerpt: "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers."
-    publishedDateTime: 2021-12-09T23:50:00Z
-    webUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/"
-    ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
+  - title: "Investing in the Future: Burger-Flipping Robots?"
+    excerpt: "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers."
+    publishedDateTime: 2021-12-10T23:49:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg"
+        width: 2120
+        height: 1415
         isCached: true
-  - title: "Role of artificial intelligence in the evolution of digital marketing"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
-    publishedDateTime: 2021-12-13T03:10:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+  - title: "Autonomous future: Self-driving taxis under trial in UAE"
+    excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
+    publishedDateTime: 2021-12-13T11:07:00Z
+    webUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae"
+    ampWebUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 44
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
-    publishedDateTime: 2021-12-10T15:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24548916/ai-to-boost-cancer-drug-combination-studies-and-treatments-of-the-future"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
-    publishedDateTime: 2021-12-10T18:31:00Z
-    webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
-        width: 845
-        height: 396
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/13/thumbs/800x531/166958.jpg"
+        width: 1600
+        height: 1062
         isCached: true
 
 secured: "zH7GYNeVdDWnxt/p08pCnlyqnCfpwBslc0yCfNZIx7i1+QBhVvUnAvTyEOEOzPoZdg1Jvxgm8oIKI0Jlg37qRKI2jkidyo1xjUxJAkQ9fj7uiRKMgUf6xN5ckKXNndxuBlKzLcLffJ0V/bPfStENcEppPuw8eTFO9+YpCZT9XwjqYxc0ogqAfLk5CqSwvPtlH4jYoMENT4RXvacuckEg2cYbtFPVhc6uH3wvNigx7pJgAmAaXxdi5toLGCHc91RoM5iPLW+y6xRpdy8EAOBOKPU8aeawNTWtAgjqpxRRLT11/DmLzB9qQ8Y4Rv/jhwOZr1XhleqJO+2BIt4aVkQqIwyoPufMNi4xR1ZEEQrohFad80EM6LapX0U/DqBZx/i2ShoS9HJ1mZtlncSNsulEK+4LKkD4pnMbaMbn0OJDaDVIYCr6Bd08+0f//GsxBwEnUHcSkR98Wa1KI9E6JEvNY7Pm5BGhpNmJ4kr7M8HqrZ1AUkF+sEvOtIIg4v2WiwlcYab1V3ZlH3fF47X6rpdiEA==;VQhEztfK0BRHz4ATzCJX2Q=="

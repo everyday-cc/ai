@@ -2,6 +2,306 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-11-03-waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping.md",
+      "title": "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping",
+      "excerpt": "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping/ar-AAQh7LJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/yFp0rPyytEXZW7lJ5JWeDYebgLg=/0x0:1600x898/1400x933/filters:focal(672x321:928x577):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70085227/O0CtGcQE53rLMZODMK_XXR4sEcsD73_ZALIzuuhdA8Rv_XdvjlUgAraW_KzZ0W7he97FRwrbUjdA9K65kh6OqW7IXHNYaPUnz6_Klq2c1c3Wz4GioI7WdAutNZd2d1PsxDgZebJSRQ.5.jpeg",
+          "width": 1400,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+        "domain": "theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure.md",
+      "title": "Informatica Announces Program with Microsoft to Launch Modern Cloud Analytics on Microsoft Azure",
+      "excerpt": "Informatica (NYSE: INFA), an enterprise cloud data management leader, today at Microsoft IGNITE, announced a joint Modern Cloud Analytics program with Microsoft Azure to provide customers with one of the fastest,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure-1030931860",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure-1030931860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
+      "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
+      "excerpt": "As concerns grow over racial bias in artificial intelligence, Black Lives Matter co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in systems such as facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03",
+      "originalUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03?amp",
+      "publishedDateTime": "2021-11-03T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-in-the-hotel-of-the-future-josh-is-ready-to-serve-you.md",
+      "title": "In The Hotel Of The Future, Josh Is Ready To Serve You",
+      "excerpt": "An exclusive interview with Alex Capecelatro, CEO of Josh.ai, about the new automated voice assistant at the Kimpton Rowan in Palm Springs, Calif.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christopherelliott/2021/11/03/in-the-hotel-of-the-future-josh-is-ready-to-serve-you/",
+      "originalUrl": "https://www.forbes.com/sites/christopherelliott/2021/11/03/in-the-hotel-of-the-future-josh-is-ready-to-serve-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618282bf1c91d361581c7a9b%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christopherelliott/2021/11/03/in-the-hotel-of-the-future-josh-is-ready-to-serve-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherelliott/2021/11/03/in-the-hotel-of-the-future-josh-is-ready-to-serve-you/amp/",
+      "publishedDateTime": "2021-11-03T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice.md",
+      "title": "As the Arctic Warms, AI Forecasts Scope Out Shifting Sea Ice",
+      "excerpt": "Global warming is making it harder to predict the movement and location of the ice cover, crucial information for fishing and global shipping.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
+      "originalUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61815c5652f8603efdd43b1d/master/pass/Science_boat_GettyImages-1281894263.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
+      "publishedDateTime": "2021-11-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-archtis-nc-protect-data-connector-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "archTIS NC Protect Data Connector Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "TIS Limited , a global technology provider of innovative solutions for secure collaboration of sensitive information, today announced the availability of the NC Protect Data Connector for Azure Sentinel in the Microsoft Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20080682.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20080682.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-zillow-just-gave-up-on-ibuying-whats-the-deal-with-the-algorithmic-home-sales.md",
+      "title": "Zillow just gave up on ibuying. What’s the deal with the algorithmic home sales?",
+      "excerpt": "Zillow, OpenDoor and similar companies pledge a fast, hassle-free way to sell or buy a home. Are they raising home prices, and can technology keep up?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zillow.com/",
+      "originalUrl": "https://www.msn.com/en-us/finance/realestate/hi-or-bye-to-ibuyers-algorithmic-home-sales-growing-in-popularity-hit-early-hurdles/ar-AAQgQ35",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T04:00:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "zillow.com/",
+        "domain": "zillow.com/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
       "title": "3 ways robots won in 2021",
       "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
@@ -837,332 +1137,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-process-and-add-additional-file-formats-to-your-amazon-kendra-index.md",
-      "title": "Process and add additional file formats to your Amazon Kendra Index",
-      "excerpt": "If you have a corpus of internal documents that you frequently search through, Amazon Kendra can help you find your content faster and easier. These documents can be in different locations and repositories, and can be structured or unstructured. Amazon Kendra is a fully managed service backed by machine",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-and-add-additional-file-formats-to-your-amazon-kendra-index/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-and-add-additional-file-formats-to-your-amazon-kendra-index/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/01/ML-4922-image001.jpg",
-          "width": 1011,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T14:28:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected.md",
-      "title": "Automate model retraining with Amazon SageMaker Pipelines when drift is detected",
-      "excerpt": "Training your machine learning (ML) model and serving predictions is usually not the end of the ML project. The accuracy of ML models can deteriorate over time, a phenomenon known as model drift. Many factors can cause model drift, such as changes in model features. The accuracy of ML models can also",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-model-retraining-with-amazon-sagemaker-pipelines-when-drift-is-detected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/22/ML-4030-image001.jpg",
-          "width": 1895,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T14:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.md",
-      "title": "New artificial neural network detects radiographic sacroiliitis with accuracy",
-      "excerpt": "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg",
-          "width": 2880,
-          "height": 1916,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
-      "publishedDateTime": "2021-11-02T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-study-uses-artificial-intelligence-to-detect-colorectal-cancer.md",
-      "title": "New study uses artificial intelligence to detect colorectal cancer",
-      "excerpt": "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/colorectalca.jpg",
-          "width": 850,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "publishedDateTime": "2021-11-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-why-teslas-full-self-driving-software-is-so-controversial.md",
-      "title": "Why Tesla's Full Self-Driving software is so controversial",
-      "excerpt": "Tesla's prototype Full Self-Driving software is going out to more and more drivers. But critics say it isn't ready for primetime.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/60ef4a6661b8600019f17258?format=jpeg",
-          "width": 751,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-zillow-says-its-closing-homebuying-business-cutting-25-of-workforce-earnings-miss-estimates.md",
-      "title": "Zillow says it's closing homebuying business, cutting 25% of workforce; earnings miss estimates",
-      "excerpt": "Zillow, the digital real estate company, said on Tuesday that it’s exiting Offers, its business that buys and flips homes, and eliminating 25% of its workforce. The announcement was attached to Zillow’s third-quarter earnings report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/zillow-says-its-closing-homebuying-business-cutting-25-25-of-workforce-earnings-miss-estimates/ar-AAQf3Lv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105753836-1550783800780barton.jpg?v=1596836143",
-          "width": 2762,
-          "height": 1841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "publishedDateTime": "2021-11-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-        "domain": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-in-surprising-announcement-facebook-says-its-shutting-off-facial-recognition-technology.md",
-      "title": "In surprising announcement, Facebook says it's shutting off facial recognition technology",
-      "excerpt": "Facebook will no longer use facial recognition technology and will delete over a billion users’ facial recognition templates.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
-      "originalUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_facialrecognition_getty.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
-      "publishedDateTime": "2021-11-02T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

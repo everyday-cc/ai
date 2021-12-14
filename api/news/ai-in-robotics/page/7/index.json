@@ -2,6 +2,190 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-01-the-best-robot-vacuums-let-you-clean-up-without-lifting-a-finger.md",
+      "title": "The best robot vacuums let you clean up without lifting a finger",
+      "excerpt": "Keep in mind, some vacuums have different power ... care of itself after taking care of your floors. Do you want to control the robot vacuum with your phone? The best robot vacuums pair with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
+      "originalUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/07/03/best-robot-vacuums.jpg?auto=webp",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/story/reviews/best-robot-vacuum/?amp",
+      "publishedDateTime": "2021-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
+      "title": "DeepMind takes next step in robotics research",
+      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "publishedDateTime": "2021-10-31T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
+      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
+      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
+      "sourceUrl": null,
+      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
+      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
+          "width": 1024,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
+      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
+      "publishedDateTime": "2021-10-31T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lowell Sun",
+        "domain": "lowellsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-a-robot-to-top-up-your-tesla.md",
+      "title": "A Robot To Top Up Your Tesla",
+      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-boston-dynamics-boasts-spot-robots-dance-moves.md",
       "title": "Boston Dynamics boasts Spot Robot’s dance moves",
       "excerpt": "Boston Dynamics is one of the leading engineering companies in the world that specialises in building robots and human simulation software. Spot Robot is one of its best or rather most popular agile mobile robots,",
@@ -1167,196 +1351,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025.md",
-      "title": "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
-      "title": "What automation, AI, AR, robotics mean for the future of work in mining",
-      "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it.md",
-      "title": "“AI 2041” Co-Author Kai-Fu Lee Talks About AI’s Sweeping Future And How He Invests In It",
-      "excerpt": "Kai-Fu Lee has been sizing up the implications for decades. The former Google executive turned venture capitalist looked at U.S.-China competition in his 2018 book, “AI Superpowers.” His new book, “AI 2041,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "publishedDateTime": "2021-10-24T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

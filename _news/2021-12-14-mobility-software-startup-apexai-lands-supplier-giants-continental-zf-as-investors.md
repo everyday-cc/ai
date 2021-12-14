@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lan
 ampWebUrl: "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/"
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 82
+heat: 92
+published: true
 
 provider:
   name: TechCrunch
@@ -22,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024"
+    width: 1024
+    height: 723
+    isCached: true
 
 related:
   - title: "ZF takes stake in mobility software startup Apex.AI as it raises $56.5 mln"

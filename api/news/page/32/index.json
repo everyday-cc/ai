@@ -2,6 +2,317 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-18-nvidia-crypto-mining-chip-sales-drop-60-overall-revenue-growth-strong.md",
+      "title": "Nvidia Crypto Mining Chip Sales Drop 60%, Overall Revenue Growth Strong",
+      "excerpt": "Nvidia has released its financial results for the third quarter of the 2022 fiscal year. While overall revenue has grown considerably, the sales of its 'Cryptocurrency Mining Processors' have experienced a sharp decline.",
+      "sourceUrl": null,
+      "webUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "originalUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/08/BIC_nvidia_blockchain_AI.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "publishedDateTime": "2021-11-18T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//beincrypto.com",
+        "domain": "beincrypto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
+      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
+      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
+          "width": 800,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "publishedDateTime": "2021-11-18T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
+      "title": "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study",
+      "excerpt": "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "originalUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
+      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
+      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
+          "width": 803,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "publishedDateTime": "2021-11-18T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline News",
+        "domain": "deadlinenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
+      "title": "sureCore designs multi-port memory for Semidynamics AI chip",
+      "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/242258/surecore.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-the-race-for-the-domination-of-ai-chips.md",
+      "title": "The race for the domination of AI chips",
+      "excerpt": "the impact of AI chips on the global technology landscape will gradually evolve in the coming decade PREMIUM The market for AI chips has consistently increased in the last decade, with AI chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "originalUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/11/18/1600x900/e4167cbe-4843-11ec-aba3-fad0c0ca5ea6_1637221919824.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "publishedDateTime": "2021-11-17T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-corrected-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
+      "title": "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
+      "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
+      "originalUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20211118&t=2&i=1581774667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHAH08L",
+          "width": 858,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL8N2S85QE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL8N2S85QE",
+      "publishedDateTime": "2021-11-17T23:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.md",
       "title": "Congratulations to Prof Shaogang Gong who has been elected an ELLIS Fellow in the ELLIS Program Multimodal Learning Systems.",
       "excerpt": "ELLIS Fellows are leading scientists in the European ML/AI community who advance science, and also act as ambassadors of ELLIS, thus giving a voice to data-driven AI research in Europe. Further information about the Ellis fellowship can be found here.",
@@ -798,364 +1109,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
-      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
-      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "publishedDateTime": "2021-11-17T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
-      "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
-      "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg",
-          "width": 801,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T11:43:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-in-a-5g-future-physical-work-wont-require-your-physical-presence.md",
-      "title": "In A 5G Future, Physical Work Won’t Require Your Physical Presence",
-      "excerpt": "It’s from here that the operator remotely pilots the machine via a 5G connection—protected from the dirty, dangerous work outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
-      "originalUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192aa14af7232fadbf0f689%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
-      "publishedDateTime": "2021-11-17T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
-      "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
-      "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "originalUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/finch_photo_featire.jpg",
-          "width": 2000,
-          "height": 1506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "publishedDateTime": "2021-11-17T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-fortanix-reveals-confidential-ai-for-seamless-app-development.md",
-      "title": "Fortanix reveals confidential AI for seamless app development",
-      "excerpt": "The development of AI applications is usually hindered by the inability to use highly sensitive private data for AI modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1637172595387.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "publishedDateTime": "2021-11-17T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
-      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
-      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "publishedDateTime": "2021-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it.md",
-      "title": "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it",
-      "excerpt": "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "originalUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cathie-wood-ai-stocks_financial_hero_1_564x423_v202111121130.jpg",
-          "width": 564,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "cdnAmpWebUrl": "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "publishedDateTime": "2021-11-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edmonton Sun",
-        "domain": "edmontonsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

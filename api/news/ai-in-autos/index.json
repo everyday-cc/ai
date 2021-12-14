@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
+      "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
+      "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/402549",
+      "originalUrl": "https://www.entrepreneur.com/article/402549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
       "title": "A Need For Speed Is Driving CX Expectations",
       "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
@@ -62,7 +168,7 @@
       "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -208,6 +314,50 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.md",
+      "title": "Role of artificial intelligence in the evolution of digital marketing",
+      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "publishedDateTime": "2021-12-12T19:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -1266,146 +1416,6 @@
       "provider": {
         "name": "Yicai Global",
         "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-2021-ai-predictions-what-we-got-right-and-wrong.md",
-      "title": "2021 AI Predictions: What We Got Right And Wrong",
-      "excerpt": "With 2021 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today. As of the beginning of this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a99e630d8e961cf36b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1048%26cropY1%3D38%26cropY2%3D628",
-          "width": 1048,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/",
-      "publishedDateTime": "2021-12-05T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-05-china-chongqing-begins-autonomous-buses-operation.md",
-      "title": "China: Chongqing begins autonomous buses operation",
-      "excerpt": "Chinese technology behemoth Baidu, who created three autonomous buses has begun advertising trials in Chongqing Municipality in southwest China.<br /",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103307522/China-Chongqing-begins-autonomous-buses-operation",
-      "originalUrl": "https://menafn.com/1103307522/China-Chongqing-begins-autonomous-buses-operation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_105_menafn.jpg",
-          "width": 512,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-05T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
-      "title": "Pony.ai begins paid autonomous robotaxi services in China",
-      "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
-      "originalUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/486/17486/Pony.jpg",
-          "width": 752,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
         "images": null,
         "publishers": null,
         "authors": null

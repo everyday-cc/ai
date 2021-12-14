@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-pat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

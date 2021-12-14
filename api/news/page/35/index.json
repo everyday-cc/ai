@@ -2,6 +2,343 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-11-17-one-autonomous-taxi-please.md",
+      "title": "One autonomous taxi, please",
+      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... The control algorithms — similar to ones used for self-driving cars — function a little like a coxswain giving orders to rowers, by translating a given path ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
+      "originalUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/roboat_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-cognitivescale-enables-explainable-ai-at-enterprise-scale-for-informed-decision-making.md",
+      "title": "CognitiveScale enables explainable AI at enterprise scale for informed decision-making",
+      "excerpt": "“The problem is very difficult for them,” said Robert Picciano (pictured, left), chief executive officer of Cognitive Scale ... healthcare and financial services, with evidence and ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
+      "originalUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Robert-Picciano-and-Shay-Sabhikhi.png",
+          "width": 919,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-how-artificial-intelligence-could-revolutionize-the-insurance-industry.md",
+      "title": "How Artificial Intelligence Could Revolutionize the Insurance Industry",
+      "excerpt": "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
+      "originalUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
+      "publishedDateTime": "2021-11-16T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-fintech-lender-oportun-to-buy-online-banking-platform-digit.md",
+      "title": "Fintech Lender Oportun to Buy Online Banking Platform Digit",
+      "excerpt": "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion.md",
+      "title": "As cloud threats inundate businesses, Cado Security aims for rapid expansion",
+      "excerpt": "Cado Security reports big demand for its cloud-native digital forensics platform, supporting cloud security investigations for AWS and Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/cloud_security-shutterstock_new.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
+      "publishedDateTime": "2021-11-16T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
+      "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
+      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "originalUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1NDUyMzY2ODM1NzU0NTEx/file-20211109-15-ll83na.jpg",
+          "width": 620,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "publishedDateTime": "2021-11-16T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-windows-10s-forgotten-november-feature-update-is-rolling-out-now.md",
+      "title": "Windows 10’s forgotten November feature update is rolling out now",
+      "excerpt": "Microsoft began shipping the Windows 10 November 2021 Update (21H2) today, which PC users can begin asking for via Windows Update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
+      "originalUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2021/11/windows-10-fading.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
+      "publishedDateTime": "2021-11-16T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
       "title": "AI Trends For 2022 - How Will AI Affect You?",
       "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
@@ -845,317 +1182,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment.md",
-      "title": "SVT Robotics nabs $25M to simplify industrial robotics deployment",
-      "excerpt": "SVT Robotics, a company developing products to automate robotics deployment, has raised $25 million in a funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1309328951-e1631103778206.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
-      "publishedDateTime": "2021-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot.md",
-      "title": "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot",
-      "excerpt": "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company ... \"At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T05:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem.md",
-      "title": "Bringing AI To A/B: OfferFit’s Founders Solve A MarTech Problem",
-      "excerpt": "This idea of automated AI-driven experimentation is something that every single large company in the world needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
-      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192a35c0a9b64037c834d26%2F0x0.jpg",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
-      "publishedDateTime": "2021-11-16T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ajman-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing.md",
-      "title": "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing",
-      "excerpt": "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "originalUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "publishedDateTime": "2021-11-16T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-concentric-ai-becomes-member-of-microsoft-intelligent-security-association-misa.md",
-      "title": "Concentric AI Becomes Member of Microsoft Intelligent Security Association (MISA)",
-      "excerpt": "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it has joined the Microsoft Intelligent Security Association (MISA). The Microsoft (News - Alert) Intelligent Security Association is an ecosystem of independent software vendors and Managed Security Services providers that have integrated their security products with Microsoft's to better defend against increasing cyber-threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-encrypted-data-for-predictive-modeling-in-the.md",
-      "title": "Cape Privacy Forges Partnership with Snowflake, Enabling Financial Services Organizations to Use Encrypted Data for Predictive Modeling in the Cloud",
-      "excerpt": "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24121501",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24121501",
-      "publishedDateTime": "2021-11-16T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
-      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
-      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
