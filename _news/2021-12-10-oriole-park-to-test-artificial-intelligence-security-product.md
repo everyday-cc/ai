@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kentucky.com/news/business/article256457406.html"
 cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256457406.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Camden Yards to test using artificial intelligence for security at Orioles games next season"
-    excerpt: "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats."
-    publishedDateTime: 2021-12-09T17:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg"
-        width: 2880
-        height: 1617
-        isCached: true
   - title: "Camden Yards to test using artificial intelligence for security at Orioles games next season"
     excerpt: "If you’re heading out to a ball game at Oriole Park at Camden Yards next spring, you’ll likely become a test subject for a new a security technology"
     publishedDateTime: 2021-12-12T00:10:00Z

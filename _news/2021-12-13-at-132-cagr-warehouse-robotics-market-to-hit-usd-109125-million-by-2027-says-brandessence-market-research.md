@@ -1,18 +1,18 @@
 ---
 category: news
 title: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research"
-excerpt: "According to Brandessence Market Research, the warehouse robotics market reached USD 4518.4 million in 2020. The warehouse robotics market analysis promises a robust growth, at CAGR of 13.2%, promising a valuation of USD 10912."
-publishedDateTime: 2021-12-13T13:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
+excerpt: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research. LONDON, Dec. 13, 2021 /PRNewswire/ -- According to Brandessence Mar"
+publishedDateTime: 2021-12-13T15:22:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/13/9509797.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/13/9509797.htm"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Robotics
@@ -51,6 +51,6 @@ related:
         height: 300
         isCached: true
 
-secured: "5ZXgZXoSRxGLjnh/2qaZFNC1Y4WEyq28lR6C+eTZueAccK9vUIkr314ZggFRgR6jdrPhVA4C2kC+JMP4VHX69hDdX8BDr3yjYR+2IkWGOEVO3QV4hPSk83mrfTGE2SxMizWtM02o60qWEZdHRmjiWD0MCzOKgezlLIGFuJ39mABstv6tGUZfX8ONkMzxlCZyhzAqHGg1pG4s4tyaLTsJJoSdgFxTRNyBlwiHmlyjZ+xP5Z8ylCP8FakjAS4HWF6LvAQnsbx7FOg4ZyssP7Gla9T4i/XM3wfQ+wRu4sJESqB+wD/yFQ/Bc0uA5T9PmULgvw26GIRFHcmV+fSvwoz9mxfYxltiYZ35+cDoMeZC8GtLd36R9A5zOSvGtkCfSnFEiER+jBwvssH31oCuc9DjUXYOeJLIto5ZxEhJP5jrSigulAdDzpQdwOK0/roTlriguPAmqQGxJyz2KZvNCBvedvfxqEKps61I1dOMriuQPY1Z+s2PnfIaBzWCSjwAXdAV3v+am8fHrOABVRBV6Ty/Lw==;pgcfzHJFuImA/Bq8fagd3g=="
+secured: "Nu3jnhsX88a+YCi+Kbn07MVoaTQ318lnzl6nai4egO+g/J3ddEdPQNdQs8+OmNcoiQCd7/9XCQQ7ap0KoEq3cK82VaKbCrTNrMpTWOrI7xRm6Qk/fiAKST9+4qja9XLgqoFigx8PC4l/NNsBwQs7OC6MN6W9IvtpLOGSuNtpyA3qngTHVfkMHkpA0WepLGLE29kvNjlSQZagMGMvXBOSRx80CF/8fgOXjZHW0DT4EbRheJh1typUnt7NewKccBQOWUG+nvLr6I/d/Oy5ixCuz4n3IDkDJhJBxyprow1C4hMtS3FJFBW3pwMNPbGcqsrFRRfCoJmSOvkDGqyNWdrS1rU218W57lRUKMcxuw2TtLQ=;9Aj2Hr4oUpckpi+QD1SNIA=="
 ---
 

@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
       "title": "California halts Pony.ai's driverless testing permit after accident",
-      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension.",
+      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
-      "originalUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
+      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
+          "width": 4134,
+          "height": 2757,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T18:01:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "publishedDateTime": "2021-12-13T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -258,49 +258,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-mercedes-benz-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany.md",
-      "title": "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany",
-      "excerpt": "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
-      "originalUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/",
-      "publishedDateTime": "2021-12-10T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-we-now-know-what-the-self-driving-apple-car-might-look-like.md",
       "title": "We now know what the self-driving Apple Car might look like",
       "excerpt": "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like.",
@@ -309,7 +266,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1400,6 +1357,49 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
+      "title": "Pony.ai begins paid autonomous robotaxi services in China",
+      "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "originalUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/486/17486/Pony.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
         "images": null,
         "publishers": null,
         "authors": null

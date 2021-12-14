@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
+      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "publishedDateTime": "2021-12-14T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
       "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
       "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
@@ -90,19 +134,19 @@
     {
       "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
       "title": "California halts Pony.ai's driverless testing permit after accident",
-      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension.",
+      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
-      "originalUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
+      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
+          "width": 4134,
+          "height": 2757,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,16 +154,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T18:01:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "publishedDateTime": "2021-12-13T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -148,7 +192,7 @@
       "originalUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -666,6 +710,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
+      "title": "Human-like brain helps robot out of a maze",
+      "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg",
+          "width": 1152,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
+      "publishedDateTime": "2021-12-13T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-heres-why-you-should-retain-change-healthcare-chng-stock.md",
       "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
       "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) efforts, and a robust payment accuracy business. However, stiff competition remains a concern.",
@@ -1094,108 +1182,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase.md",
-      "title": "Deepfake anyone? AI synthetic media tech enters perilous phase",
-      "excerpt": "\"Do you want to see yourself acting in a movie or on TV?\" said the description for one app on online stores, offering users the chance to create AI-generated synthetic media, also known as deepfakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase-2021-12-13/",
-      "originalUrl": "https://www.reuters.com/technology/deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase-2021-12-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/n9c5Fe8dDxuTnzYE9nHJcZ3KrlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WQPT4K2CBLXNDG62KK2I2U4DE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
-      "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
-      "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
-      "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
-      "publishedDateTime": "2021-12-12T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

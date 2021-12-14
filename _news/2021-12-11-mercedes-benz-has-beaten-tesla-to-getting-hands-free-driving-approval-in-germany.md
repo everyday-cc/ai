@@ -9,8 +9,8 @@ ampWebUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-gettin
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Wonderful Engineering
@@ -42,20 +42,6 @@ related:
       - url: "https://images.barrons.com/im-425789/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
-    excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
-    publishedDateTime: 2021-12-09T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134400_mercedes-benz-to-launch-level-3-self-driving-system-in-2022-after-gaining-regulatory-approval"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 28
-    images:
-      - url: "https://images.hgmsites.net/hug/mercedes-benz-drive-pilot_100818541_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "s2HfAtkuOXcn9HYDJT8bonBSnyC1lY8ldLe45qLTjHTJBDgT4PS2ILmS9IINcw5ikVGFcCp5PYnTM4maa+RanNS5KoG4GxmEn5FJnafe83fZ2IIffZi3suzCK0dWfgxOrfovHakQwQkEN3uqkV4QpSVel5og3FNXW550lyqq9GEfXY++7xcbFrpjbzIK1qIYt1rDUQ779VS6v9EaaSLDF2DZMCTbiHZPLIo4iDJcLNnkV04UDAScAejep/BplhOfVj+zELJVDXQQn40U51dbBK+FqqrYkvxGob1+CAnwhGos4ZkHgbs7nzTV4r6IOgWJOWaF3tNyVXvVpHqOWXpqn7vdUaBIaRw5sFrbs5568pE=;1O1KGTgnsJYC0iCqGDgkUg=="

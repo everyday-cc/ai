@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This humanoid robot is about to fly like Iron Man"
-    excerpt: "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building"
-    publishedDateTime: 2021-12-09T17:11:00Z
-    webUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/"
-    ampWebUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/12/ironcub-original-crop.jpg"
-        width: 1440
-        height: 800
-        isCached: true
   - title: "Human-like brain helps robot out of a maze"
     excerpt: "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,"
     publishedDateTime: 2021-12-13T15:29:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg"
         width: 1152
         height: 1536
+        isCached: true
+  - title: "Human-like brain helps robot out of a maze (w/video)"
+    excerpt: "It's been known for some time that organic neuromorphic robots can learn. Now they can move too. Autonomously."
+    publishedDateTime: 2021-12-13T13:28:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 56
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id59360_1.jpg"
+        width: 900
+        height: 658
         isCached: true
 
 secured: "DO5E4ubr5pe7d/dXSDjGIBQLZ8q5IgtHjurZHImec5d9yKWY52LCadC36+flwkMz5FWJT9dKUJtblRahWzVY+ObPsqGR5vxEPl2HRp5qw0noEdH/WbErKyznMOIhV8sOi70ZqR2lykp399xombBQqsy6GxDDVnrIHGucf8HLV+mrDbe6HqGAH+ltg8J8yDjozuA0ExSdWrfA4P28kGKowkIyEpUS1LXHCF19UBru9oaL6nZEtIEeLKLa0sMVlSSJMAUrnKw40O5l7zybmVxHyMtmE1jvE3gEf9vl2hRvk9WafXza5GKxJMWX/JcC6zk/F9lA5M3DEtXyVQvlUxTIM6ytMElwPkwGirEK2VKVSfo=;uCiwmnqzu9oA7YVr7Q8Y0w=="

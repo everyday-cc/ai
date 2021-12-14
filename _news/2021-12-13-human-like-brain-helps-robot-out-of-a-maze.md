@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: techxplore.com
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "This humanoid robot is about to fly like Iron Man"
-    excerpt: "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building"
-    publishedDateTime: 2021-12-09T17:11:00Z
-    webUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/"
-    ampWebUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
+  - title: "Human-like brain helps robot out of a maze (w/video)"
+    excerpt: "It's been known for some time that organic neuromorphic robots can learn. Now they can move too. Autonomously."
+    publishedDateTime: 2021-12-13T13:28:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 56
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/12/ironcub-original-crop.jpg"
-        width: 1440
-        height: 800
+      - url: "https://www.nanowerk.com/news2/robotics/id59360_1.jpg"
+        width: 900
+        height: 658
         isCached: true
   - title: "Human-like brain helps robot out of a maze"
     excerpt: "A maze is a popular device among psychologists to assess the learning capacity of mice or rats. But how about robots? Can they learn to successfully navigate the twists and turns of a labyrinth? Now,"

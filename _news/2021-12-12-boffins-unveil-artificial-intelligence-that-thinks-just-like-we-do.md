@@ -3,10 +3,10 @@ category: news
 title: "Boffins unveil artificial intelligence that thinks just like we do"
 excerpt: "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care."
 publishedDateTime: 2021-12-12T04:48:00Z
-originalUrl: "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
-webUrl: "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
+originalUrl: "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
+webUrl: "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
+ampWebUrl: "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
 type: article
 quality: 89
 heat: 109
@@ -60,6 +60,6 @@ related:
         height: 2727
         isCached: true
 
-secured: "7EyKU4XxWY0uVUP3AUCjxCy8VaY7wF2hdaFtDAKIU3l6GTmQs8s9059OanR+kmJ4gpGDBGibLQgcBE7jqlAvWPCC/WXh3BosAbtmloTaRGeiwV5E69L2wmIn3R4hvjPs1KXMvNAHnNewLmai2D99RKXCy/j0SrSGYt1jfF/iBXMtRchjWmQVIgWYgNRwskfkCRP5faJaut1dsAtQguTepcZCgcGf0NwHBewPdbHaOYcQ2mpsixcNRUSXpWCIAsJcpsiSU3uUWzih7KhD4McI1MPdeAZ0VvDy1RwcmdT0P8Uz0rJHi0skiB4Lpk+qQgaczJq0U4vkRbQ4nzAF6pntC8qPNK9X/57BeJrJsb3JRGM=;D96xQAddVZaCuetMCh/KvQ=="
+secured: "JHRH6RO+lY7NTyJ4GkTZ7V+3q21nq12OXEpLTcGvKRTLiI3TAGz3lAxeR36JypCyhP6zPSBgVVxc2uH0W6UXe8R5d2AnQYxnRcSbvsm0i/984jZ14b+AOOSpZ6pUZ8uUMGu7SJAESdQK5BIbu6bpIP+s0u+7/2Yuloi3N7npRs8yFKDTPgbFuWwWWNOHmRGtY+UNqsbSQEIJb50uNj3p1MTVaipTA4fkQK4E1kblz8J+HilxuVHuEWEm49jDr4WG0TPX3rG4ax0hXhVoDBU8wiCfFFCHIziInF3AZNv3hcU4wHoolj8U+f5+AsCLJCy6Kunh0ok7k1bGx35USYbk2otEoQjSQ9NgBdfro2PXbnw=;gZDhry8cTdjY3z3FmuIW/A=="
 ---
 

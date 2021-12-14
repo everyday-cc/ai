@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
+      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "publishedDateTime": "2021-12-14T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-distributed-mask-rcnn-training-with-amazon-sagemakercv.md",
       "title": "Distributed Mask RCNN training with Amazon SageMakerCV",
       "excerpt": "Computer vision algorithms are at the core of many deep learning applications. Self-driving cars, security systems, healthcare, logistics, and image processing all incorporate various aspects of computer vision. But despite their ubiquity, training computer vision algorithms, like Mask or Cascade RCNN,",
@@ -1425,42 +1469,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

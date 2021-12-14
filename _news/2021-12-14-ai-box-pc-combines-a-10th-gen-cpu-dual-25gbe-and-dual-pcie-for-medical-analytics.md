@@ -49,6 +49,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
+    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
+    publishedDateTime: 2021-12-14T09:03:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "pswE8Wia1elZYP14iN/9ViaqNuinbV/5l3RE3pbDGcFaYy5j8qB5nVW1KibthsetlDrHRmAQAAfgs6kjTQJ+xf8fGT4Hnk+/ibGTD+e1eMSOrBHDB82qcJNgm/5kaKR2pBbHSLB1MX30DkD5MMD/Oz1kdsWgDKYMYvGN0FG802eBZxyc3P9jD3tliQBmX1mHtEDA4l7CJTQsN2TE2yWdezjaQK5qkHWUKr6GctwU+WvZVXlFrCVTx3s/aNoynuF+D8/QyKuh6SVXehioX3+gGUIqvpAsKjQK9MROEmOm/hQV9QsHUb1Lf32uNMGXO9z+8FQTlE2MueOCnEpOhzM0ngwNqdnMA98DezYRVhu9N23NFyy/O1/4otueUHvbsm/VI+VuaKehA2Jt3Z3PCZFTFIxOLTlhCga0DZo/DLEcalWrli27ExK03TQvzzVzQg3F60rUmLPaOQRDxtIqRFWe4gXU91nKTTJ0KCu0G4UJ3tJzzxcsI6L2aTrUlEoj3Tx/T/f/KraQs5kfHZm1a/puvQ==;8B10Semqs/GqeYU21eCQKA=="
 ---

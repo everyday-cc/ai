@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Camden Yards to test using artificial intelligence for security at Orioles games next season"
-    excerpt: "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats."
-    publishedDateTime: 2021-12-09T17:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg"
-        width: 2880
-        height: 1617
-        isCached: true
   - title: "Oriole Park to test artificial intelligence security product"
     excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
     publishedDateTime: 2021-12-10T10:08:00Z

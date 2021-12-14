@@ -83,6 +83,20 @@ related:
         width: 480
         height: 400
         isCached: true
+  - title: "Computer Vision Technologies Market is Progressing At a CAGR of 7.9% During the Forecast Period 2021-2028"
+    excerpt: "The top notch Computer Vision Technologies Market report provides essential information, objective insights regarding international market trends and"
+    publishedDateTime: 2021-12-10T12:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-technologies-market-is-progressing-at-a-cagr-of-7-9-during-the-forecast-period-2021-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market expected to drive growth through 2026 made by top research firm"
     excerpt: "Global Artificial Intelligence In Genomics Market Research reports published by MarkNtel Advisors, provides a complete analysis of the market and is"
     publishedDateTime: 2021-12-10T16:43:00Z
@@ -96,6 +110,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?148258"
         width: 366
         height: 250
+        isCached: true
+  - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
+    excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
+    publishedDateTime: 2021-12-14T10:08:00Z
+    webUrl: "https://www.wboc.com/story/45435814/global-self-driving-submarine-market-2021-top-companies-research-strategies-future-growth-and-geographical-regions-to-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"

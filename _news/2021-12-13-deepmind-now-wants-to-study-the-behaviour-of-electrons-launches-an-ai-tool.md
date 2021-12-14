@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI helps study strange electrons in chemical reactions"
-    excerpt: "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix"
-    publishedDateTime: 2021-12-09T19:00:00Z
-    webUrl: "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/"
-    ampWebUrl: "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
     excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
     publishedDateTime: 2021-12-10T20:21:00Z
@@ -102,20 +86,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Move Over GPT-3, DeepMind’s Gopher Is Here"
-    excerpt: "DeepMind has introduced a 280 billion parameter transformer language model called Gopher DeepMind’s research went on to say that Gopher almost halves the accuracy gap from GPT-3 to human expert performance and exceeds forecaster expectations."
-    publishedDateTime: 2021-12-13T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/move-over-gpt-3-deepminds-gopher-is-here/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gopher.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind simulates matter on the nanoscale with AI"
     excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
     publishedDateTime: 2021-12-09T19:34:00Z
@@ -134,15 +104,6 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 34
-  - title: "DeepMind neural networks open new window to understanding electron interactions"
-    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
-    publishedDateTime: 2021-12-09T19:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936923"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
 
 secured: "909Ad6v1h077VFZD1PmcoPSkgZMaS/29sahcgtr/uQgbqMo2yPSGAvbC0k89xZ1a7TH4dEVGCfwyhZ8Cyd1DUj1dlYZckD/Oiv6MS4l8JsHKHFZeydnf5JzCikKeH6BmpbPhOIW+4h6o3hpwoTmAWeXT+A9fu8Ebab9PucGbneB9XIIIUnQP3nqcjEVZtKLRY7BQEGxN++XGQjYyf82R0U5haDT1fYZ8pgsUGBfB4ECcLCpeOPZ5D5VwS87kq2Jt3qSXjby6nTvL19xesKjTdy2uezYi3UBE8GDHWcdKwPX67fwq7GQ0ppGB4kevrXKxjsqBeHstjJcxABcGVuEFf9QOLc8/8EPUZ6lEDivPEv4=;Kk1KWpdz/Qs9+dPv1/iysg=="
 ---

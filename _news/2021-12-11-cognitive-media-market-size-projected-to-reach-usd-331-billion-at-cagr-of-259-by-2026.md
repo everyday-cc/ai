@@ -37,13 +37,13 @@ related:
       domain: benzinga.com
     quality: 39
   - title: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research"
-    excerpt: "According to Brandessence Market Research, the warehouse robotics market reached USD 4518.4 million in 2020. The warehouse robotics market analysis promises a robust growth, at CAGR of 13.2%, promising a valuation of USD 10912."
-    publishedDateTime: 2021-12-13T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
+    excerpt: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research. LONDON, Dec. 13, 2021 /PRNewswire/ -- According to Brandessence Mar"
+    publishedDateTime: 2021-12-13T15:22:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/13/9509797.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
     quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"

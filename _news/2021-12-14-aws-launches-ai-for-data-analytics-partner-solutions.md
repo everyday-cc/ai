@@ -41,6 +41,22 @@ related:
         width: 1004
         height: 568
         isCached: true
+  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
+    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
+    publishedDateTime: 2021-12-14T09:03:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
     excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
     publishedDateTime: 2021-12-13T17:26:00Z
@@ -51,6 +67,6 @@ related:
       domain: linuxgizmos.com
     quality: 13
 
-secured: "InyCtuE1l4Y1kQSNgg2EdV3pvX4Rpq5RoX80hCdybu5lDhK2rSkfmpy21NIYxILn8pfcwSFuj06DEH5yP1bKmcfm89vXc8JF0UXJ6olEaHUuGw9M9av9BGf0JPsT2MjZTrRBwbb8HlMPw8fga81Iez3Dv4b9HLPGZ8j3tLcwG1x0GvWdTiwIR9uIRkLERfhetJuyPNcS2h4hR2OxDkZknLcVVnwUu5m94zGRcWXB5IvMbQn8MTZbiU/LCyFevKIH1He8jSQ+QqnPDwL+S3ahCj/tScash0ZdpXwjOu8lohBuEAV3nTXWw9MdJFNOCe0Nd1HBbCYbCOcVQ7IsOCwkqA7CYmD+LQluwx+kE4fSHfM=;ZeZ3NEKNhAGwxLpq4oAtFA=="
+secured: "mJQHfxwqoMESOaOPUBUQOm7b79doKookjnVujED7t/E8cWulfWsThb7HOdpsbSTM5mrpQRg5qPbMxuXps3cAfw8ydKrlsOlsk95dn2ojg98wk1skoKz8BTONg04l+Yk6E6UMDhiBomU6CWLRMMh+MTTAEiOEIPBRh9D6+THOG+Dlfc/WS0tK3DcvM5y64/YvMLaIWsFzjq59T8GsaXImGYgvifgLH82OBKZZrgMyBHA7IaL/At/6jtYo1qBNOTJti7MV1rUKGLSzT6/uXyJ51Xr9nUQ6mkYX0eaZxAKbQlMxSjEmEu3ohI2cUBjpFUTlNuM3dcBlNsjXpOz3qM3LypOfVfmMmNDsT7T++GYIaupyayy+vgD0N1u29gfNV1gfnCkE0YO65lfvvYg5Rh78dWv2tU4dhibBDXaKmD0hH8IzA/trgBlUbESYARn2q1VW8oOlRD0kv+EPdQZoBUzYDq4REEvLK7leLhQjI8xdW0RgTUV8QbgVDoP5iZLw0lb/VDCu82AT/6h+hb9uqYOlmA==;p4JOc3WMrUelv6V2NPu5vw=="
 ---
 

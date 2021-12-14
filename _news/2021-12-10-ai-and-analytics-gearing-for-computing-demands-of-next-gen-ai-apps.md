@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-deman
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
+    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
+    publishedDateTime: 2021-12-14T09:03:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
     excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."

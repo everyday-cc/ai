@@ -43,6 +43,22 @@ related:
         width: 757
         height: 407
         isCached: true
+  - title: "The future of self-driving cars – What lies ahead?"
+    excerpt: "When will self-driving cars be mainstream? In order to better predict this, we must first understand how AI systems work. For AI systems to learn, they must be fed relevant training data. To do this at scale,"
+    publishedDateTime: 2021-12-14T09:00:00Z
+    webUrl: "https://www.itproportal.com/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hZ2GrME6o5cydqcoV2T9PK-1200-80.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Apple Loses Three Key Engineers in Self-Driving Car Project"
     excerpt: "Apple has reportedly has lost a number of key engineers in its self-driving car project to a pair of Silicon Valley air taxi companies in recent weeks."
     publishedDateTime: 2021-12-09T19:10:00Z

@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-07-we-cant-let-robots-control-nuclear-arsenals.md",
+      "title": "We can’t let robots control nuclear arsenals",
+      "excerpt": "When brilliant individuals nearing their 100th birthdays write a book, it is a good idea to read it. Two years ago, the scientist James Lovelock celebrated his",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
+      "originalUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3e818130-56b3-11ec-81f2-17f963b74220.jpg?crop=1361%2C765%2C30%2C117&resize=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
       "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
       "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
@@ -1118,101 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet.md",
-      "title": "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet",
-      "excerpt": "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-05/sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-446639?width=860&height=573",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "publishedDateTime": "2021-12-05T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth.md",
-      "title": "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth",
-      "excerpt": "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "originalUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/brain-study-background-mental-health-care-medical-technology-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "publishedDateTime": "2021-12-05T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -55,12 +55,56 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
+      "title": "Human-like brain helps robot out of a maze",
+      "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg",
+          "width": 1152,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
+      "publishedDateTime": "2021-12-13T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do.md",
       "title": "Boffins unveil artificial intelligence that thinks just like we do",
       "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "originalUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "webUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "originalUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "featuredContent": null,
       "highlight": null,
       "heat": 109,
@@ -77,8 +121,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "ampWebUrl": "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "publishedDateTime": "2021-12-11T20:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -204,7 +248,7 @@
       "originalUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1352,49 +1396,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-artificial-intelligence-has-probably-already-made-decisions-about-you-heres-why-that-matters.md",
-      "title": "Artificial intelligence has probably already made decisions about you. Here's why that matters",
-      "excerpt": "Artificial intelligence has probably already ... Most people often only pay attention to exciting new uses of AI, like the \"neural network\" that creates bizarre artworks prompted by key words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2021-11-30/why-you-should-care-about-artificial-intelligence/100591684",
-      "originalUrl": "https://www.abc.net.au/news/2021-11-30/why-you-should-care-about-artificial-intelligence/100591684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/f91475c2c0766446c49d5b3731c62265?impolicy=wcms_crop_resize&cropH=320&cropW=480&xPos=0&yPos=108&width=862&height=575",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/100591684",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100591684",
-      "publishedDateTime": "2021-12-05T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null

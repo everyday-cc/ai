@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2SS196"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving startup Robotics Research raises US$228 million in funding"
-    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised US$228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-    publishedDateTime: 2021-12-09T18:14:00Z
-    webUrl: "https://www.channelnewsasia.com/business/self-driving-startup-robotics-research-raises-us228-million-funding-2368901"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 71
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Self-driving startup Robotics Research raises $228m from SoftBank, others"
     excerpt: "The fundraising round also included an investment from Luminar Technologies, which makes lidar sensors used in self-driving cars."
     publishedDateTime: 2021-12-10T00:18:00Z

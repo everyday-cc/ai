@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
+      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
+      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "publishedDateTime": "2021-12-06T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
       "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
       "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
@@ -1310,49 +1353,6 @@
       "provider": {
         "name": "The Logical Indian",
         "domain": "thelogicalindian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-why-a-robotics-industry-is-important-for-national-devt.md",
-      "title": "Why a robotics industry is important for national dev’t",
-      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse about robotics and its ability",
-      "sourceUrl": null,
-      "webUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/",
-      "originalUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebftonline.com/wp-content/uploads/2021/12/Julien.jpg",
-          "width": 545,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/?amp",
-      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2021/12/01/why-a-robotics-industry-is-important-for-national-devt/?amp",
-      "publishedDateTime": "2021-12-01T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business",
-        "domain": "thebftonline.com",
         "images": null,
         "publishers": null,
         "authors": null

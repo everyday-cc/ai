@@ -26,6 +26,24 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "New Windows 11 features: Faster Input switcher, Voice Access and more"
+    excerpt: "The next feature update for Windows 11 is not expected until October 2022, but the improvements will slowly start surfacing in the preview builds. Microsoft is currently working on a few new features and user interface (UI) tweaks for the OS,"
+    publishedDateTime: 2021-12-14T09:16:00Z
+    webUrl: "https://www.windowslatest.com/2021/12/14/new-windows-11-features-faster-input-switcher-voice-access-and-more/"
+    ampWebUrl: "https://www.windowslatest.com/2021/12/14/new-windows-11-features-faster-input-switcher-voice-access-and-more/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2021/12/14/new-windows-11-features-faster-input-switcher-voice-access-and-more/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 44
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2021/12/Windows-11-upcoming-features.jpg"
+        width: 1600
+        height: 840
+        isCached: true
+
 secured: "cNmOmX9xjhO+4T/UZVpPn8ncuU8O84p2VCR3S4G3W1gKTkluTQogjIKLR+XM5JyUj2hOsechYnPvLWS8nZLzn7QaJUuZhM70+q5LEZEnDzlEa871ci3FWBlyizf4Z45zxz/lrE7zrWsDTdRshir7XxF8cdkUTGlmK6xE4tX8QwYNbXX/GvVr6fe8cqRHsXdsEXD2cEhsPzTQHwo6kL244y4Q2+e+VMLZ5qMKQmNJgha3i9ELtG+6x0aAMN5R0+pBfQ6Qhi3yFzvZApWqk6u3qyvsMQGSiETBoBjrwSo72p2nWCKdleSvPiP0EY1iLk4wQjsZyMgycFKJgqQsHE/IVkpjfpEMsgn7QW8uiyMwaDeZBhQhkzVbr47lX2bqmJceLDpPyKqrNeeJ1WFVMEThP0RIoZh2yzezCWntvwSowxSY0Hx8Cc1jqsT1rSAR8afAzYmPs5JTtLBdHW+goKNofFYl1TYHQQNcrSw48q15iHwTMqPohwWUTKgoQaB0eWG2c5XhGHkGYKV/Su7XIty3mg==;CSO+SwhANqaREYwBUqXNyw=="
 ---
 

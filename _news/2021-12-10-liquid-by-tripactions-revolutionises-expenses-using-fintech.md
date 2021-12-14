@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "What Trends are Driving the Fintech Revolution in India?"
-    excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
-    publishedDateTime: 2021-12-12T13:12:00Z
-    webUrl: "https://www.india-briefing.com/news/what-trends-are-driving-the-fintech-revolution-in-india-23809.html/"
-    type: article
-    provider:
-      name: india-briefing.com
-      domain: india-briefing.com
-    quality: 24
-    images:
-      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
-        width: 900
-        height: 506
-        isCached: true
-
 secured: "Crc5cyKkKR6SBOtSxjdIeLZIqcrMQDAgT6duLYNV3baoWrvMl5ZdihELTjd9PemwhOQyg3qaIzTV2I8KgYv7kLi2T39A8qjDmSCWDATFlQYLfnqS/w8a08pMPNTlO4RTO4hD0vVNr0K7/nhINNKjjBDk7SnJ6eyrEN3mWNuvWbPtnNMY2VOpoU8dxYusriAGjbozqyoTohs8kUr/gRdqBkdaxwTa+3IT+PDW26h0V9gEb7/rjbf71ZXWOtO/q+k+E+6QkKrJU91BgANA+mbpUfIrsr+g2NvURVgW12Tmv9CsIe6iqgb/2H3YktSlx08y+41p0i/LsBwoneEHTpx/A8n+ZOKRjnUEIGPV7sVwsbTAXqh3B1PTXR0vMF1YFXgsW6MDeAYvAHUM/BUtW5Cww2oFuRFw+H3En6vWsxlU4oHdyyfPTMmTdeNIAOkdwZw1+cNyI4ok7XOHi0WZwpx7Zs3NDBOvxhQOtnFr6w8JvujRfYf2p7MPZvOhDG++s6LTvvUmKIObFEf9Kv0rlvtR6g==;Op19AcoqKv/75pcHHZXOyA=="
 ---
 

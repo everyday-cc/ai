@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "The future of self-driving cars – What lies ahead?"
+    excerpt: "When will self-driving cars be mainstream? In order to better predict this, we must first understand how AI systems work. For AI systems to learn, they must be fed relevant training data. To do this at scale,"
+    publishedDateTime: 2021-12-14T09:00:00Z
+    webUrl: "https://www.itproportal.com/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-future-of-self-driving-cars-what-lies-ahead/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hZ2GrME6o5cydqcoV2T9PK-1200-80.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Lyk4SrPk19/L2QdVzTqSomsYcfnUhsxlZNrL1totdNijrGRc4j0tWa4sZ3OBHoda1GCEpFSY0SU0+88tx43XyKPQ+Jw39gLpTNNXirEd9nGCnexnVG+oq+quod383SyIimjJdrrSdkLggrzj39UtQuXvXZFr2gq24qZCdBMpV6+FMhvAVOmoG2LQ9xGGITHNCyVNuh8b4/kmyCjDFfEX2bB5Y9tQOf1cTV6kA7aVSAMxoWRTj7VrTttdp/Tuv31aOsix5j042JNHqnk3pav4Pnt8ocRm9dQc7Wy1A459ynh1IaLeSk9boXe3KGGXxcmt4uNreLYzITKqVM5HzFT1zN9oByPjipXiXjsd2BDw14s=;XbHUhToNqCBrs6HTDkxcqA=="
 ---

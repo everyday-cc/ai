@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
-    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
-    publishedDateTime: 2021-12-12T09:40:00Z
-    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
+  - title: "Asian Fintech Credit Management Leader Flow Doubles Revenue, Prepares for Series B"
+    excerpt: "Flow, the Asian fintech credit management leader, announced today that it has been observing a strong recovery of consumer credit collection revenue from the"
+    publishedDateTime: 2021-12-14T07:52:00Z
+    webUrl: "https://www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b"
+    ampWebUrl: "https://www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b?amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_1379.jpg?itok=pxWCsnQW"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "wpDknZNncaLQaAuvyuCVe7XRuiuEkkxQiJT5sFQraKAa5Zk3H0VZF5Uun1NEorS4ZllQ7Y9zIincWoS7g1puJUfmVQCkrga+Ok81sq4hedVOA++1zNN6aWQvofovnulcPr1XSkhWBDNeWGrlJZuvSJo62PPEl1tXkETyvRJOXKG0CWzqGE+ubTK917QDadAW3yEDh/cEl+NVNcaHreI42Hr9qtMra7VkDpPeFz2t+bNG+drn5gtNAjOcwkOJjRzUl88G/SmMBiAjKpEgCYoHrlOv8q5Gw1ohOqJ3LJmNQPorxWFWqhu7e/3bX3KM+lWt/VLQH22UIzj/G0xBS+zKYtDn5NebKXdXHQMyW8ljaDIQn1wKjSoht354jOZj5fJ4ezkyzqeHLwAU4mO8FG7oo70nAl+shH6lRimQl/QWA1+FZziRfnbFJsGqQMWyo1DVeqbBxjkykj56foQYT7Blpgtzm2LadYfGWL6H977UoT3vN0JX+r6rU4aQenQmw/PNvi3P1CNBdl5CCGZ5NY36HQ==;3R7OfrIDPxkEeOlsZ7bTWA=="

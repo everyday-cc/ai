@@ -1,20 +1,22 @@
 ---
 category: news
 title: "California halts Pony.ai's driverless testing permit after accident"
-excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension."
-publishedDateTime: 2021-12-14T02:01:00Z
-originalUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
-webUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
+excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident."
+publishedDateTime: 2021-12-14T01:17:00Z
+originalUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+webUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
 type: article
-quality: 84
-heat: 84
+quality: 104
+heat: 104
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,11 +25,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg"
-    width: 1200
-    height: 628
+  - url: "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265"
+    width: 4134
+    height: 2757
     isCached: true
 
-secured: "2UkQCUg85UuVdzQAQnV2K0d7d+8ieZHFY7chMCBkePqDkfCb4RrLLXqIhx/Qcee+o5fv/PBDevPWzRSXkkWa8oSKSfYn52/E8hry9aZ1HJhHtxgE0JAfLgKauZakRXTqMkZTduj/djAonQ5q5xTkcBL15YJ9HZQqw+oBH0JjifVjjkAjYuBuLQaTCBIRSKQJWZRtfcw9rRNTJJO30UgHBEwM2kJlIVkM28qnDtvSQB94iUVooCDCALpVZEqjdjmhMwKbdNRqlK8gFRwbACDbzVLnAQZ7b0VtvX0LKEVbzH0XY35fXcmjVHVdutuztE/MxIawoSO+33dgiabOsKbWeQF9nBXqYSUemAkr44KKjakDzTlsDu97fgkpVukQSwIK3niVBt1XmLDUH/4oROcp8N6iwgS5riDmv8x0hmVbHsvVNxH5/Y3lzMrBuP8MdGDMB1UZPsNXXtiAuJRYottYFgWiNe8frvxNKOOYL4lNtOASrxDPPnV4fDem7ElJ7cXa7evFPEBxCJCNhTuUOLrDIA==;8r3DhRUuuDsa1PY9dlOvFg=="
+secured: "S9LNPb7ksp4N14vT0sybsR9D9AE+vj4kxGr++/YvEZSli6DpTcVrohCD25TS9AHn7PZ9u2Pq9Fi1cTSgJSjtin0zLDvZOWlC1NVgB9NRH+u9xiFN/04wLSVG7HV4Tul0D5bNtKvj1njlA0OuTLs+O6PGGG6cIzv2ZxxUwSytp608sEPBx/ocJTyPAf1MOHefR66gacaKtT77a3kdkFhFmiaNWOBpUKVJ8tLbWg1DPucauY4kUVVf9Ed3yMySMsk+SFuSiWaGC7FpcxpSkZcP3uom4jrcGlbFPLqqq55YTR84nVXp5HN6n+kmCYBruqvlOwe+Ake6lO2fcDuKxxmvbfcJZm5Ubtd4Ugo0R1zSiMc=;knTcQTnTn+kdtOx6fEIgXA=="
 ---
 

@@ -41,20 +41,6 @@ related:
         height: 540
         isCached: true
   - title: "Pentagon adds new top AI role"
-    excerpt: "Deputy Secretary of Defense Kathleen Hicks, shown here at a September 2021 press briefing, announced the creation of a new top AI post at the Pentagon. (DOD  U.S. Air Force Staff Sgt. Brittany A. Chase) The Pentagon is creating a new position to lead its artificial intelligence efforts."
-    publishedDateTime: 2021-12-09T18:08:00Z
-    webUrl: "https://fcw.com/Articles/2021/12/09/ai-office-osd-dod.aspx?p=1"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Pentagon adds new top AI role"
     excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
     publishedDateTime: 2021-12-10T21:29:00Z
     webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
