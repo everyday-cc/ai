@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
-excerpt: "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."
-publishedDateTime: 2021-12-07T14:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
+excerpt: "NDS Cognitive Labs (NDS ... partnerships with leading global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ndscognitivelabs.com."
+publishedDateTime: 2021-12-07T13:32:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b18bee67-1956-5633-9bb2-3a0e3fd5034c.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b18bee67-1956-5633-9bb2-3a0e3fd5034c.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "Aw2WvDhAaD6AdEQTZpsyKbQt0N76btksUN0JKuvOewXBD5BNHyrGUZQOr9eIPbfygvLUNBn8cZMmqMvTrbVGpSLOxDndtwW8hD7AgLrsI3BhrWRc2B47yn6Hn9Ws64t5HT4nORnyCg8tUSHGtxOL5HTbPrM+1l90K3iPA56NM1AmUjjYpREGG2meawCdUBPgZxtsS689U228KZe42bCgOmlMSGjBWxjNPpgdxRHsThw+mU7nXwmAKS7VEY07eqPpYkewx3XU1+kbuuZj6fRfvfJkof5ex1sd4zaHAatayIVtAFXfC5hB9sc8d3oEJRojDKsIBtg0s0U+t2dNK+d8EfRZriZ2Sv14IGPTTXNBiO4=;u9JAjK1pEt5rY9xC62i80A=="
+secured: "b2C6leXnWaFO+angrHAv2yyViBZt5IXb9NYm/SbSir8oBmmSXbGY/kBojcpIDrwdyDv/oK0s8H8w8NeOb+KLCbBetfGgQdoT76867tZ1kfjsR1S8MOTHp6fMtqrd9HM0ChVJLGNtIgv2OCKOVd4ueUR3XdSp4/87XvMZLNZHUPdqsIBOBg8TiXie/gx66Yt8vnEbIIuLYFhuIUQTsfyyEGNqm8v7kSoVFinEmJcE4r+SEq0AaUQHtJ6wYC/tN4Fkjn1JbY8zu62q88iz56Onaj/4glXMAd4at/z3YeaRJ8YdypOmJ8nd9Sf9J6Wretu5dCVduJXapP+QbmNfOfiWbzzNFrHvOk8lBRh1NkVfGh4=;3Y08aOW48bHzre3PyBESCA=="
 ---
 

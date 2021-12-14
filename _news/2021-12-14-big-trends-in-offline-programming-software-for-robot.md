@@ -3,8 +3,8 @@ category: news
 title: "Big Trends in Offline Programming Software for Robot"
 excerpt: "In the world of robotics, Offline Programming (OLP) has come a long way in a short time, and the global pandemic has jumpstarted more innovation. Industrial robots have evolved to collaborative robots (“cobots”) that work side by side with their human counterparts."
 publishedDateTime: 2021-12-14T14:07:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17846"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17846"
+originalUrl: "https://www.roboticstomorrow.com/article/2021/11/big-trends-in-offline-programming-software-for-robot/17846"
+webUrl: "https://www.roboticstomorrow.com/article/2021/11/big-trends-in-offline-programming-software-for-robot/17846"
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AW8LKHcYOOrtNv4f45KoL54rBdy8+JQx9kuTSuKnM0ffL87m5YmPawTbhPOwEcVxBNdel9CW3Vlx2Hbs+I/GGUNVTW7tCOIeV3vrzFu4znxgQ6rbcmNHv1ue53igv1oUGJjsvUdmDZO7wTcvLRQQ6buxbdleRoap081Yp8gc9EQN7jvrrqjrxl3FIgFm4s1kcUOrTTvVFYib5hR0BSiQMEQ6XItXO92G1M6mEwhD8BnfJ9NMeH/7NwXoDR1kwGV4Xvr7yLKL9H2u5FXx93qPAmkItVVUM8mKcsf1RgyMWPFKpdKDC0E4nWfMGHGH0jxKv+WAcydUvBU7HxN3tvmHfH6tRGuhTKzrPksE/EaKAcE=;5eJgwOktscNlg1p8vG/RCQ=="
+secured: "kHstLsyE6C92JEvUnmTaBELKvlidzHy6Yt2f9277jUVeuxQYl4Wkq5x93+d+w9f9Lcc+kgOQFKalrljy36cs/rmbCI7wRqKNVc7Uigsbky7Xk89k3rWTjMvoX8+xdYgzlkOU1u3qP5efazNbGSLFst+0OGnad1pDl5YFKZsHVLZsBbERFAHb+K6J99i0oeG0bvRaQnweRjcWobUIaGcUxT5WfgfPP1RcioNhZJhE2xh1Bk6ZuxgqedMSRgKyrkcVPj+ol7ktg9ya7wkUEy7QT9J1qgwAW5dtnB5KPppFzAqbhRIOd7DItSww6xxY3DNp1uZeLllzGjur7/sB7eqjb6OCtn2JXAVewwDPTaqAdRM=;4m9+b4qjzCwvA5FRDytjyw=="
 ---
 

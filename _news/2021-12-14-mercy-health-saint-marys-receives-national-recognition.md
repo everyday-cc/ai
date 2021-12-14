@@ -39,6 +39,20 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "Laredo council awards recognition to LPD officer"
+    excerpt: "During today’s Special City Council Meeting, Mayor, Pete Saenz, and Members of Council recognized Laredo Police. Officer Velasquez was awarded the 2021 Honorable Mention TOP COP Award from the National Association of Police Organizations."
+    publishedDateTime: 2021-12-14T20:21:00Z
+    webUrl: "https://www.chron.com/local/article/Laredo-council-awards-recognition-to-LPD-officer-16701717.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/20/33/21825224/3/rawImage.png"
+        width: 1912
+        height: 1082
+        isCached: true
 
 secured: "FzzrMgQIG5edA676QS52Dn2n8uEACr0e06KJ3bfErPtg6e6QmBgAabaORe1j2g99V729Sdt7adp46A7mLIR7w42BB2SeELIXkMhZG/Ke8br2qvi4bWyuAmo2OztLF0AI34Nzb4jNo73cT3uvI4xoGLCWrYG+Ncqd8zSM+85iPHF2iQC1sBezSBQVxbvmj/tCApLOsl6EZeLK0tH3oUUtGfechxSvSDPt2tQ10mefErU61mGHCR0WqoCuDKHfaN1aDMafdXAWmjiW+RWgfmQFnOshExkAD5ioQ5QOiw3W/SubcGHyBpoQjN1O9hPjwCUDvLCsBfNG612KDUpS55LsRYn2mDq8oVmvdVQh7LzBpdg=;nz2aqefKWB2uTkrtRNZoog=="
 ---

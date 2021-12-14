@@ -42,22 +42,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "In breakthrough, DeepMind's AI has cracked two mathematical problems that have stumped experts for decades"
-    excerpt: "For the first time, the technology has been used to identify mathematical connections that have eluded researchers for decades."
-    publishedDateTime: 2021-12-10T03:19:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
-    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 56
-    images:
-      - url: "https://imgk.timesnownews.com/story/iStock-1284335972.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
   - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
     publishedDateTime: 2021-12-10T15:48:00Z

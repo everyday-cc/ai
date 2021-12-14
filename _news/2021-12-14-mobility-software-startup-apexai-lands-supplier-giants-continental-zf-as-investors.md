@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.reuters.com/resizer/Jx2D1PTBvxXvo2PrhT78DuYkIBU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGEUAY6ICFLQ5GIF4WGZZQFJQA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "ZF takes stake in mobility software startup Apex.AI as it raises $56.5 million"
+    excerpt: "Germany’s ZF Friedrichshafen, one of the world’s largest suppliers of auto parts, has acquired a 5% stake in Silicon Valley mobility software startup Apex.AI in a fundraising round led by investment firm Orillion."
+    publishedDateTime: 2021-12-14T11:10:00Z
+    webUrl: "https://www.euronews.com/next/2021/12/14/autos-autonomous-apex"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 33
+    images:
+      - url: "https://static.euronews.com/articles/wires/806/63/8066356/1000x563_xiwfko.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "OOkDfMBc1iC7D0nT2Eaplieo9Fg20llvPG1rFZWtn83xL3VaOhI3t88GDZZ17ZyeYIKaT7KvyK/Y8jd2riw7CE+bnVjHN5jQD+HE4kOevSaqLakXq0b7llIkenLi9192iRjyMR8k8q9mrUF5eyrt+ktfhwF9i/MjvmC6VTgwfJmXJwhErEeMaw9JBSlrKAMLeYliGn14ixHz9aA9dK1QCYqQkNkVEtekgMjphUUgBnyWgDgOEw04bfOLjJFmSDJBguObl4ae5sSiXz7V0OBE5GfReiLrUsAqyIVVRS+PcbITWys/EAtZS2/WkDck0WHh/s71XtU+jNj0lBpYPfJ7P+hpYKS9/H0FeKB+9pOnXKs=;2pbW1oe6iE9N1s30W84onw=="

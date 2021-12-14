@@ -50,15 +50,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Predictive Maintenance Market Size Worth $10.84 Billion, Globally, by 2027 at 15.1% CAGR - Exclusive Report by The Insight Partners"
-    excerpt: "According to the new market research report \" Predictive Maintenance Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component (Solution, Services), Deployment Type (Cloud, On-premise),"
-    publishedDateTime: 2021-12-14T10:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/14/9510464.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "cmW7YE+7dyKvu0s5Z8trj0TmS9UUhxFrh7ZS00z+/7dnTon2XL2ZLhlejDPlR6lEkzbg+Qf2i4SUN6qT390z2DJsNWEf6Pf40DWcIiQPmbvNxRm/l/Dwk7hYj7n+jThbGKPFu+9Tf2L5o0Egmaa4IJwkDeh131M1NkdtqWUR0gQxBT2Bvcg6DPwMbtQ+N0dKJM4hSM5A8nHfwN4l/UcVkwFjJLrvjKFhIzOfxmApB6k/iOuTkRX+9eg3A2pRowEC/ny+HloTAqiDfKMIOE95zxovnd2Wdqa9J43dPs+3SCDGHyY31VP45SEIg4a3pLXyKtinnnR0ld3duBgtkINJIwRrsjRP7RJV+eblpWeQ1dA=;vUqwXNJ3CI7MIJ2z9btIow=="
 ---
