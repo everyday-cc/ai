@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Information is key to public support for police use of facial recognition technology"
+    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
+    publishedDateTime: 2021-12-15T03:47:00Z
+    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
@@ -67,6 +83,6 @@ related:
         height: 456
         isCached: true
 
-secured: "fvnxLURpmO7Yi7YL0jixvXUJ6cymxdNI7cLodxF3B6x51Cugy9Zaap53UC70z32Qqf3bYZst6mCAp6nNXPjLmbHfQvmJtA7/eoll0H7J+aqbtT6J26wmobp3TT78tLAtfHu45WcNv+LpG9hY7b+VVj/1OUFOq4OOggj2QmjH2kqLJkWTLTXjFdlrvUqlUTAUeTmzAE0YY95pe/QonysOREtezOMItYg0EIVxVUx+qJREJcFpHbEkQtVKyHsu/tfgTwycOOGmnh+OFMlLp70lLPTMahuP3hMJDdfXOJifUV35IMioh6CDaVPAodyI2gvlxirGr7b31TBGvAOBC1pF6oE1NPb35lpvCw3HxMCMOB0=;vqyRSDDnnQ0HB2SdMMqZvw=="
+secured: "73zpsrgQIBPDSq8t035LWvOt8dufyQfxwAzkHMOzMVuK+sjNi9AMlGH7kG3y/BEITn0PXLbwpqF1VEQlXoqPKONMbFhIhFku1pDiD2zV2x547JSGakMz08kBD4Zs/e9nai5kQIMfXgmlgKyAwf/ykkXKid145GRgln7suOniFBuMrjOsOcfRmfGU8wNVYTUHwelYIcEHRfnsywlpZMM+TAu71HWkqHzbz0JPimJbwsVej2+Z0FC2GL7HNYzoJgItXQ3+D5cEJKd4bw85NO4CuA20P3L2HoH03QadpOsbNKGar9nS9iMvpGLzQyYwwLhdgSR5wNGjkd+9zDUuQjO+6DXsA8TpOqQZiYnrt4qA+5pAJqUYcjoYVLHAYd60ijR8SxLuG3i42uKZISa8bm0sA2YD8AxIGG6bOr7cM86eJjVOegxLHe6oYhgkn8lJ1stiq/zurLjza1iQCm+YIKSRREatjHn9ww5F2BPRJa5Nrq12n9O94Jm/IZApPfPiV6piZyGn1VKYQB+A1LR/83CTrw==;Ozw32avjyxgpRLGlKnyPuA=="
 ---
 

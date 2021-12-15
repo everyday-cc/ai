@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-pat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Information is key to public support for police use of facial recognition technology"
+    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
+    publishedDateTime: 2021-12-15T03:47:00Z
+    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z

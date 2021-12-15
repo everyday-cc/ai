@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Information is key to public support for police use of facial recognition technology"
+    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
+    publishedDateTime: 2021-12-15T03:47:00Z
+    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
     excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"
     publishedDateTime: 2021-12-14T23:34:00Z

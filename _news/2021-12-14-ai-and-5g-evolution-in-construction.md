@@ -48,6 +48,22 @@ related:
         width: 1920
         height: 1152
         isCached: true
+  - title: "AI is not a panacea: The pitfalls of AI"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour By Kamal Das \"Let use AI in this project\" has become a common refrain from managers."
+    publishedDateTime: 2021-12-15T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88290514,imgsize-10898,width-1200,height-628,overlay-etcio/ai-is-not-a-panacea-the-pitfalls-of-ai.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "rWSMrzjb0q9ZYm0phGB0fsoRWV0/5aBMu0+q7aWzmBO2aIr0qvO6ECfHK+tWe2fqUWKgG4toPYaV4dM0Cl6iqpEWHmQFZIMVUJDyLbh4GkhyJNSA29/dn9dfWTTqX6wXXne6X1+ZASdcX+ZvIBZyioGLTHq8K1qCbPy/SbjZNcRVV/sOV+vxqZyhUbxaTSsbJ69BinAxTNKvjHQ45/MZfkFcqrSYq/ifDvyN0Sq4hy5IjI5XVNKKg/ATQ6r27lCOPBMIQAKx07uuMM1E6l/vkQ5+SvdZ5RFGONhSib5qLR0PfUeHqrBS+IN5dQvG+QedHMGVA5JUVOCHNVtM2LUVAx1UpEh+us3GCVjzhxpOwx0VFMhX39AGroQq0YcrIb2cbAsWQQ+67U9SK2Er1LA/opIdMR4bCniJqJ21ckIeSH11YM5pO1Kv95goZLr0OeWelwR7/mvXa3BAM6hJ14UJ4+POiMVCpDbwn6ztloQlGKHKFw8tRPyijTCbi2kJPC5SwqIukByjKwTpZoxbEDCBtQ==;hDxJUAnYCCwnMTawQnEGNA=="
 ---

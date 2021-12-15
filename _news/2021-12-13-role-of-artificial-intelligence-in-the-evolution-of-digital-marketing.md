@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
         width: 1920
         height: 1152
+        isCached: true
+  - title: "AI is not a panacea: The pitfalls of AI"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour By Kamal Das \"Let use AI in this project\" has become a common refrain from managers."
+    publishedDateTime: 2021-12-15T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88290514,imgsize-10898,width-1200,height-628,overlay-etcio/ai-is-not-a-panacea-the-pitfalls-of-ai.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AI and 5G: Evolution in Construction"
     excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."

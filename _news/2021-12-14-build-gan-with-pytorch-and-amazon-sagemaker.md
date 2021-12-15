@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-gan-with-pytor
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-gan-with-pytorch-and-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 156
+heat: 157
 published: true
 
 provider:
