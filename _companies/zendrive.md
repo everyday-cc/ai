@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zendrive"
   url: "https://twitter.com/zendrive"
-  followers: 2118
+  followers: 2117
 
 size: 51-200 employees
 yearFounded: 2013
