@@ -62,20 +62,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 36
-  - title: "Cloud Artificial Intelligence Market Outlook 2027 - Industry Trends, Opportunities and Forecast"
-    excerpt: "AMR Logo The global cloud AI market is expected to grow significantly over the forecast period, owing to an increasing adoption rate of c"
-    publishedDateTime: 2021-12-10T22:52:00Z
-    webUrl: "https://menafn.com/1103338457/Cloud-Artificial-Intelligence-Market-Outlook-2027-Industry-Trends-Opportunities-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/10/EP_a6ed0image_story.jpeg"
-        width: 480
-        height: 400
-        isCached: true
   - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
     publishedDateTime: 2021-12-14T00:08:00Z

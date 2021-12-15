@@ -86,6 +86,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Machine Learning in Education Market is Grabbing New opportunities by Top Key Players - IBM, Microsoft, Google, Amazon"
+    excerpt: "Global Machine Learning in Education Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information The data which has been looked upon is done considering both the existing top players and the upcoming"
+    publishedDateTime: 2021-12-15T12:36:00Z
+    webUrl: "https://www.openpr.com/news/2499957/machine-learning-in-education-market-is-grabbing-new"
+    ampWebUrl: "https://www.openpr.com/amp/2499957/machine-learning-in-education-market-is-grabbing-new"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2499957/machine-learning-in-education-market-is-grabbing-new"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
 
 secured: "bRnknQM1i5O/XuONDgHcnlS/eai3/8MvhYN4rmKcNg11tteq/k2hfh06cq4F+amSqo0UHoaZ7+deiJGqC+kvln/qmAHVEv14jM7/jii3Pvg19A6RV2kJ4isplFQxoVWwsW14hAuLmEiCFJ88HA63loKmsii4xjBr6/kJve76xeAx/x/5KIy9Lnr5CT2vk8RasWGBBpxQ1xGnx0vvxmM9HQWuIYqUeEL7O71cAJOrBlg8GjS4lbxknvw4HNOwLskQtFw7Xp5z9RLQCWIOEuEKs3Wue35gXjln+bW9HyqYKob/IenTOGtQZIJfCO/APbDAD9E57jhbT5OwwEl+ocLQCseOYBbAZMltaWRXYCkguhc=;GyhTShiVcvDb6dowqgv1KQ=="
 ---

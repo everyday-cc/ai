@@ -28,21 +28,77 @@ images:
     isCached: true
 
 related:
-  - title: "Mobility software startup Apex.ai lands supplier giants Continental, ZF as investors"
-    excerpt: "The four years that Apex.ai spent rewriting — and then safety certifying — the robot operating system to give automakers and other mobility companies a toolkit to integrate software applications into vehicles has paid off."
-    publishedDateTime: 2021-12-14T14:55:00Z
-    webUrl: "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/"
-    ampWebUrl: "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/"
+  - title: "Apex.AI raises over $56 million in Series B funding round"
+    excerpt: "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date."
+    publishedDateTime: 2021-12-14T13:00:00Z
+    webUrl: "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/"
+    ampWebUrl: "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
+      name: Electrek
+      domain: electrek.co
+    quality: 187
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024"
-        width: 1024
-        height: 723
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI-powered business intelligence platform Signal AI raises $50 million"
+    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
+    publishedDateTime: 2021-12-15T13:12:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-business-intelligence-platform-signal-ai-raises-50-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
+        width: 960
+        height: 545
+        isCached: true
+  - title: "AI-powered decision augmentation platform Signal AI raises $50 million"
+    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
+    publishedDateTime: 2021-12-15T12:13:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-decision-augmentation-platform-signal-ai-raises-50-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
+        width: 960
+        height: 545
+        isCached: true
+  - title: "Relevance AI Raises $3M in Funding"
+    excerpt: "Relevance AI, a Sidney, Australia-based startup that has introduced a vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors, rais"
+    publishedDateTime: 2021-12-15T10:42:00Z
+    webUrl: "https://www.finsmes.com/2021/12/relevance-ai-raises-3m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/12/relevance.png"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Xmachina-AI Inc. Closes $2.4 Million in Funding on Over Subscribed Seed Round"
+    excerpt: "Xmachina-AI Inc. (\"Xmachina\" or the \"Company\") is pleased to announce the successful closing of the Company's seed round. Initially slated for $2 million, the seed round was over-subscribed by 20% to just over $2."
+    publishedDateTime: 2021-12-13T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20152636.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "ZF takes stake in mobility software startup Apex.AI as it raises $56.5 million"
     excerpt: "Germany’s ZF Friedrichshafen, one of the world’s largest suppliers of auto parts, has acquired a 5% stake in Silicon Valley mobility software startup Apex.AI in a fundraising round led by investment firm Orillion."

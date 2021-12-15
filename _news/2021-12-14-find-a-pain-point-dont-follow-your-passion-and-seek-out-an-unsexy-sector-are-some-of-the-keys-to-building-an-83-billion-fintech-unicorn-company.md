@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Top 3 trends of software development for FinTech"
+    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
+    publishedDateTime: 2021-12-15T14:16:00Z
+    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
+    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 24
 
 secured: "KnRAXkPbMm4sGUSbx/UaX4sh1zW+fedVDEAeop7qwHlMx9+jM8emJHuEOzHxoIwnvM+m4xJLrmi8af6LHYsDyJql5UETFe5HInMbplmEvzISNTQ3KkC5uC7TpGZADfjzanlVI7d+X6lReeANAG7mPF2oOhbmffiCiOrHqK0PVK9mDyah8jNBRDBo/FtRnr9yYGvAla3egLniqJEGAMWvCUNUPs6CzmPOMPh7oI+LCtJK7Lc9HqfTYUw4lg+bVhfR5cKktuWfWNpCtX35z62cpH4X+61TJ/Tbsqe6QzZWDAHM/WI+ylApjzVCYrw0p6vHyDDIMsCmWqLzhTqLgEY1TEEf7aYqn2wn0a12RAzf2luNHMVuQ7MIe/Zt48QGcFIps/PPLnS1J1V2izd+Tkfbx29h+fmWhh/f26v3oOT+zs9xMy+RPk9VurdwOncDZuvXAcMb5jCzqw16aKEoC4PJjk1myUd1g+LIjItLJfBmh7TOr7a6MQ88Dtq/vKSQDaUbrp4L9NrVYX7dfrlnfcXBGg==;1AJs5FJjL0e7QfK0UCEMCA=="
 ---

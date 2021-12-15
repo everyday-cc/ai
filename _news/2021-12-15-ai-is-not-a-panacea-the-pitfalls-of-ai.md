@@ -57,6 +57,20 @@ related:
         width: 920
         height: 438
         isCached: true
+  - title: "Improving quality management in digital production through artificial intelligence"
+    excerpt: "ETH researchers are using artificial intelligence to improve quality management in digital production processes. The team has succeeded in halving the proportion of defective products in an experiment with the semiconductor manufacturer Hitachi Energy."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://techxplore.com/news/2021-12-quality-digital-production-artificial-intelligence.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-quality-thro.jpg"
+        width: 930
+        height: 620
+        isCached: true
   - title: "AI and 5G: Evolution in Construction"
     excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
     publishedDateTime: 2021-12-14T06:32:00Z

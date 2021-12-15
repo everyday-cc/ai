@@ -42,20 +42,6 @@ related:
         width: 1152
         height: 1536
         isCached: true
-  - title: "Human-like brain helps robot out of a maze"
-    excerpt: "A maze is a popular device among psychologists to assess the learning capacity of mice or rats. But how about robots? Can they learn to successfully navigate the twists and turns of a labyrinth? Now,"
-    publishedDateTime: 2021-12-10T22:28:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/937565"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2ea4ecab-ab57-4255-baea-2f82bcd95e48/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "WSosVbGZOwkswdXHPDg3kDOS9X1QYmDc8ECVekHWaNmQnk4AmBsf6gprrk9Me6hkT7MPr8fNff4RGRXaAaz0XFW5uyBFD6h1nzJR+GhGj7E8mFyn/MFuzxU79Xh3DVdm2HjoZQZOusVarPXLgtILnxCRcfPS43m5JvSu10wtUEjkacj8U7ZMNpd32EBCVdvqwdRgVhNaY9Y+kb+LH6nwzzaNAylCCPP371QT56L9bIQ2yXnEFiRwmitRgOykyAJDIuYRaRqv35OcFE+xzZu4tKfD/hu0EZgbvejBphXlYYz3b70t10nzfXY8PHb6uPo1Iso9tqoqIg1OmlxNQ01g8n+luoF4tCbsYb1GAC98A7JoeH2kW9bu/ZxaQVQaMM/a8qjs0WAKl3R46rws02aCsFrTqZvii5WjSwKaaiBC0qgRKuqVzsKGtfihejU0Cm5LZRb7jPFig+dl/5h0+hIWMK7I2RfZOx+ud8Sm6aUjPP0524h5Ln7WAvmr4V17xF6BSeh7KCh9q2jFgFwVjCfDcA==;5D8OY1xsQslzQQ/YLsHpYQ=="
 ---

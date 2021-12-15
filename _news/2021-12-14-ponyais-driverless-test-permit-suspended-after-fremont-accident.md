@@ -20,20 +20,18 @@ topics:
 
 related:
   - title: "California halts Pony.ai's driverless testing permit after accident"
-    excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident."
-    publishedDateTime: 2021-12-14T01:17:00Z
-    webUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+    excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension."
+    publishedDateTime: 2021-12-14T02:01:00Z
+    webUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 184
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265"
-        width: 4134
-        height: 2757
+      - url: "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "California suspends Pony.ai driverless test permit after crash"
     excerpt: "Pony.ai, a Chinese autonomous driving startup with an office in the U.S., has paused its driverless pilot fleet in California six months after it was approved by local regulators to test autonomous vehicles without a human safety driver."
@@ -65,6 +63,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California suspends Pony.ai’s driverless permit after crash"
+    excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
+    publishedDateTime: 2021-12-15T13:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17537/california-suspends-pony-ai-s-driverless-permit-after-crash"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 54
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/537/17537/Beijing_Driverless_Photo_1.jpg"
+        width: 752
+        height: 501
+        isCached: true
   - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
     excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
     publishedDateTime: 2021-12-14T20:56:00Z
@@ -78,6 +90,36 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
+    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
+    publishedDateTime: 2021-12-11T15:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
+    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
+    publishedDateTime: 2021-12-14T21:52:00Z
+    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
+        width: 540
+        height: 420
         isCached: true
   - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
     excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."

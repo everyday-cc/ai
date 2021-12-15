@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,40 @@ images:
     width: 1024
     height: 575
     isCached: true
+
+related:
+  - title: "Papaya raises $50M for computer vision that facilitates bill payment"
+    excerpt: "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital."
+    publishedDateTime: 2021-12-15T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/"
+    ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all"
+        width: 1200
+        height: 620
+        isCached: true
+  - title: "TealBook to power supply chain visibility with AI and latest $50M"
+    excerpt: "TealBook, a startup that leverages AI to update and maintain a database of supply chain data, has raised $50 million in capital."
+    publishedDateTime: 2021-12-14T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/"
+    ampWebUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yer2YqW42EMiF+IQn0KMmMCUaqW5GhvA8zvPkKBN3CzG06nlDdQZB4QhwlP/g7rTSV8Z2pr2WpgSceVUWqb9Dd4X/dofBdDE92/ME9Tmz+KxqT8u5CgUMz7UXxEXo4uelEbQOlvKZOLld+rFppiX0A8wo2GXT7JAQczp6B/S9OprGJzCr9ZTA99dYXP5kX1U6xip3AjyobwWfChjerTdiqVsZ/4qiRvyseTqaZgN0kybicvoyfa4OTGlnUiMXygt+DaJhirRr1+yiNFxMMzZOsGlXa+lS12ERFf1h+UXhTc1Z7qzjDBSosXbW4oNbsIPhsh2Z6vaejb/adSvOnVmGZhhzEktdJBK7UBFWoDy+pd6UKfw8Jq/tu4RhqpkAW7YCTIJvCUITLQ9rELgt0oL8OA33oDIdxP+crtZ31dLSBLYAi9RJpod0nSI5QTdaVPXGI9fvaM9wpLORvJq2YG3tQQYkNlUJ6ZjJ7wPOBQbRlgwXQlqFMC/17XcoYEuDL1fPT9YVvLVuq5J1XS+64fM9Q==;1yKJFm1HrhyGsQI+EvozTg=="
 ---

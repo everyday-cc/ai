@@ -40,20 +40,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Pentagon adds new top AI role"
-    excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
-    publishedDateTime: 2021-12-10T21:29:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CSIRO appoints inaugural National Artificial Intelligence Centre Director"
     excerpt: "Following a competitive global search, CSIRO - Australia’s national science agency - has appointed Stela Solar as the inaugural Director of the National Artificial Intelligence (AI) Centre."
     publishedDateTime: 2021-12-13T22:37:00Z

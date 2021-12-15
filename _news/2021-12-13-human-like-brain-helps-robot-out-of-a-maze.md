@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.nanowerk.com/news2/robotics/id59360_1.jpg"
         width: 900
         height: 658
-        isCached: true
-  - title: "Human-like brain helps robot out of a maze"
-    excerpt: "A maze is a popular device among psychologists to assess the learning capacity of mice or rats. But how about robots? Can they learn to successfully navigate the twists and turns of a labyrinth? Now,"
-    publishedDateTime: 2021-12-10T22:28:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/937565"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2ea4ecab-ab57-4255-baea-2f82bcd95e48/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "ChILKOPTRU1KYZ3bRyP/ryhJMLn3TaJgC/1WEv1c4LKSBEXbvipJsU0zRsej31qob09iTv9Xq3Au8ZJbJsIm0aAU0R9lgDFJFoj715YbGbAeNnBI+0BL5CvwvIg2VlbtTWzORlgKTcqW38wUgpKDpuaKZPvtCjciAla61Web8UijpnnUvSfD6jsXXu89LAmBdRDIF7Yp8DxgSXuNh4gY2XoUyXsqL+oY29YY+kJdA06Z3Hy0XsiFP1F8MeTvePXWkxPTGJF/dnTPxb0JUMjF9uCGAq9Eezy5Q1uQNJ8ABn6E14ovOOymuaeS8EuNzoLWwbZVAN/eHsJ7JuazFBYVYwVOZLFrm3/FsYyRoP+kEwrIDvVxNqUyXJ4o7UoAGQyXjPBKBzKEVg58qU20coJ8jveT3lLS88IK2K+EAFiBSpbA2pz3apkM8sD8atq7hGxQJcmCjLdKqXYzh/B2s0rfX38ruWkOmncfMtLu1OIprX94E2WejQL7tOhpiwNgrKrvpGP/xpm4M5sCIguJRpZDMw==;1OFlYrNK6k3HxlVk4mjZRw=="

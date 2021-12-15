@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-lea
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Using Cloud and AI to Transform Service Delivery"
-    excerpt: "Data-driven technologies delivered through the cloud let governments scale innovation. The Google Cloud Government and Education Summit brought together government, education and industry leaders to demonstrate how jurisdictions are putting these powerful tools to work."
-    publishedDateTime: 2021-12-14T17:03:00Z
-    webUrl: "https://www.govtech.com/accelerategov/news/using-cloud-and-ai-to-transform-service-delivery"
-    ampWebUrl: "https://www.govtech.com/accelerategov/news/using-cloud-and-ai-to-transform-service-delivery?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/accelerategov/news/using-cloud-and-ai-to-transform-service-delivery?_amp=true"
+  - title: "Forethought nabs $65M Series C to improve customer service with AI"
+    excerpt: "Forethought, a startup looking to put AI to work across customer service, won the TechCrunch Disrupt Battlefield and soon after landed a $9 million Series A. Well, three years later that company just landed a $65 million Series C,"
+    publishedDateTime: 2021-12-15T14:00:00Z
+    webUrl: "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c8cbc06/2147483647/strip/true/crop/3840x2002+0+79/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F72%2F86%2F3b8b2d8648359e618e97c1c8289b%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNjYxNjYzNDc5L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2Mzk0NjY3NzEsICJtIjogMX0sICJpVER5NEFCQ3FEK1pvaXVTNU93NGVPL21pUkkiXQ%3D%3D%2Fshutterstock_1661663479.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "How Is Focus on Better Customer Experience Strengthening AI in Fintech Market?"
-    excerpt: "A number of factors, such as the increasing adoption of the artificial intelligence (AI), machine learning (ML), and internet of things (IoT) technol"
-    publishedDateTime: 2021-12-14T21:10:00Z
-    webUrl: "https://menafn.com/1103359096/How-Is-Focus-on-Better-Customer-Experience-Strengthening-AI-in-Fintech-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/14/pr_11875_eb33aeb9_image_story.png"
-        width: 900
-        height: 522
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1210502593.jpg?w=1024"
+        width: 1024
+        height: 819
         isCached: true
 
 secured: "0YhzUHukyrpOa9l6wzaNid9jKK6FNYi+TKJtob1cM2Lf5CgRyYchWOk0Z1UXEU2vAoMyHHg35L4bGd/rdsEbxlLyNH5VUpbdZD1+hkAyI3lmGPqIfDtec4ByigAqFesF1UUhB9r6l7StJ+lDqIv/9hcO91hmzOohTLhSNZC6Vo8T0KypkVBKtxewqLyHNAP6YsqOnrEkrxmHKLSBuKtVjNJYRGej2V4IzcxYQ1IolpMsTGZvQKjYln0PDkZC+OlBBN2I8W7wGcUOV42rdorhYXPBsgHnPP8D6BpBaV8GcrYCkugccod3jlltn+9QpXPXYyu3Un2fAp1NAS0Q/lrPdbzuFrCO6/+I9VvlPvOyylB7hvBYsvB4XV8fXY0vK4bmxuI0ela2jaTCw1MwFx50NyH0lFFs+lL+eJU7QRg1Aibx+sSemyj5b0mHP7H+cJOq7VedVw0J9gVtpTKIIPoFWHTKvVb2ZjY59Km2OIeFTvaS3gYt403ztP6HX+DMwUhPDLqfI5avWDCedr+jiKxg2g==;qtk8DH72frCxo6H9fZLkCA=="

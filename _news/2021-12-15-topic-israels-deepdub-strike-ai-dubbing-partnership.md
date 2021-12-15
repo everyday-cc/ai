@@ -24,6 +24,22 @@ images:
     height: 1000
     isCached: true
 
+related:
+  - title: "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform"
+    excerpt: "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based"
+    publishedDateTime: 2021-12-15T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/topics-streaming-service--deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform-301444670.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1709649/Deepdub_AI_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
 secured: "SsnqLIYjWSDHc6xIcMopeC6xmgcCxOpyB4kJ5FZuYN+0dOJubWCfJQ9YVwN7e2n2z+b4IWtT1qYq9F6ChP1+U+EDBTYpEdagbJntD5roWyLDMSPTVmT/jThqsgoNeN+gRd2+EABxiMYmVvS3R/vdKgd3hKQb+BdbRDMb2UVSSP3yLCpKi0ED1gyOhXtiTXHvc1BAz97aQHwhWSYbhZJUxt+7hYIH8/F6j8EI2lo9uo+8/DJxtw5w6xsSRYS3aQUP+Dbr6sBzPeoryWzi8P4arx08dNEy4kyowi5T2FyBY79r54qlBz7HYX5T1/PHK38C9xNxre9Z4206QdD1hzGLoC9+VZ4kmnHBXERpRZq8Dqc=;HiKr6X8ett64mFJwci+kIQ=="
 ---
 

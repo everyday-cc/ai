@@ -45,6 +45,20 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 76
+  - title: "The Use Case Podcast: Storytelling About Interviewer.AI With Sunny Saurabh"
+    excerpt: "Sunny Saurabh and William Tincup talk about how practitioners make the business case or the use case for purchasing Interviewer.AI."
+    publishedDateTime: 2021-12-15T14:03:00Z
+    webUrl: "https://recruitingdaily.com/podcast-episode/the-use-case-podcast-storytelling-about-interviewer-ai-with-sunny-saurabh/"
+    type: article
+    provider:
+      name: Recruiting News and Views @ RecruitingDaily
+      domain: recruitingdaily.com
+    quality: 35
+    images:
+      - url: "https://recruitingdaily.com/wp-content/uploads/2021/12/the-use-case-podcast_-storytelling-about-interviewerai-with-sunny-saurabh.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "KbfOYryI0674bpXULaTnnCQR0CxWUptocraG/2tPEjsIOSRkrwLySP0RAKQdh3XcJBLpfVh+iev8qZkZ3M/j6F4PdhJGObAT0qd/Y/q9qkg6+AUUPgcmDIb09VhjYHOXPuU4x9vYtuhXAuYyi8C4IYUvOH2D67gFjwVJQAteA42vHV6hFNO5JpMRFLRaEuWCCBGuW9n0ZLO3RYATZgZcX/Yz7uL6QJ4oqAZ7rN5CT8pcTTEb6j//5bRtRTRCPneZSt7PP5vdBruKU3Tnc/DtCyY3+AJyWAflAebuaL0S4MyAisBfM2qgRR3XjPDi+4qPEgtBX7ctq/bIIcVxL3rxMT9+c5M0m+3ECmGK7d9xEBU=;h7L61rh80d/5UF1/J6TU8A=="
 ---

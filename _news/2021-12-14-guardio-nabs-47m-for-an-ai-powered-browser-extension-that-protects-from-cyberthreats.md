@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-b
 ampWebUrl: "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 180
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "fJ1FyQa1Gp5e/4OOhW23Qri8aKi7bh5RvwFXrhXF5Km+hra/F6tJ0gG6OkWSZkyx24WxU4bNMQ7QnsfWAweJF1EMlodziwS5z/HuuwbsMzz/z0n5XnWg5bLiv3LWu6H6U2U8B67MpWT7Q/ceE4T1FVrtlbRInngOMjJjbDf5M2lZ5Y8W3G9WAzjNFv5HWN8SRVeEuKtNNM1RHJE2vERGYWUKe1Tec7QcChq4LkEDvtTleefzEYZ3/Or2QVAGfIYrXBr24dzdmd9udsHgtVEVcEE/wN99NfgPOMnRwb3JpLVbecVjDExJ8fXfBDJP0d4qCGjbS9TpGSy1RZDtvhHZuHBiH/fBl9am/7hqz/KcXUSJgiYEnOQAQ5tpO5Qda64+7rbfikXlUYpEqmzlTT4q9EJSK0DOmDDjrP7wv08JVhyef4YDGbqtIyop3SHXaZ7L2uIZFAT+UVeY0JsFIALyr6K0m8oWJyqKb0DU7cZl8Kq2aiSgz96l9RHl13Kcxae756WUaG2aLa4gqYJCmLZzDA==;2/QJe+HoU5mg1NMGT5PJQg=="
+secured: "P+j0Qarx9bMCEUd7KMIA8f4BGZQCtGwsAO5Q6U/6ZIe4k11rKj1F3ej9reUfIqob7suhHabrNSCGbzl4/F+sF5DN+sUndRFqX/nDrXO9P2xnXzsv2nXUeLOP5eaudE0LeHEfiCOLZb7Qngy80k5juodEh+Zmedm1suLM7NmrFYrBdyq2yAOEeM4DBR3VUlM/YqQdMezIGK/koYGt3kyJ29qmUfzs694PXHSAPyX2rDrdnpMoP3N4tb7NcFGmg877ty/UolgQgK2DYH/3+VkGtSCA/Kn7bfdD4w8IvDM65KJuhkO6jtSN+odadMnlQkggBS4Aab+BQuPXwUr6R/I2jZoIlslFZbUbKpmFPdKmzXK7QyjoO9HfjHHjtEKrSCgssVO2CGXo+pgb1oeajOAqtfrkCfxIMAzzFDn/p+BraA9vYagjPbEkDhLomsbr6q6AKGO3KW/Yqb/kNQ/HPUdCO1HEjcmv/vgvaEW14AtOLXE0OrZG/A4J1nsJo3SF9XT+IkdSL1ku9FdDXqrdlWYsqepAkalvoYtpaf3vxFUZXOg=;w/2GG2jh7mTNzzJvkUMPcA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
         width: 920
         height: 438
+        isCached: true
+  - title: "Improving quality management in digital production through artificial intelligence"
+    excerpt: "ETH researchers are using artificial intelligence to improve quality management in digital production processes. The team has succeeded in halving the proportion of defective products in an experiment with the semiconductor manufacturer Hitachi Energy."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://techxplore.com/news/2021-12-quality-digital-production-artificial-intelligence.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-quality-thro.jpg"
+        width: 930
+        height: 620
         isCached: true
   - title: "AI and 5G: Evolution in Construction"
     excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."

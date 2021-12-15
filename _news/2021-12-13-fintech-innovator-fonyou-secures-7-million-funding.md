@@ -55,6 +55,17 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Top 3 trends of software development for FinTech"
+    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
+    publishedDateTime: 2021-12-15T14:16:00Z
+    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
+    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 24
 
 secured: "YGJkvS2XU6lgrdlWie9s6lVJrawmx9+z6i4oR9ouaeOgWeyt2ykRydpNA0F0tYDR847XfrEHCYdFI/obqtf5I8CLcdfyMryujYhM5VMtCJExHh19KlYNcOGd6sr05fBRHAJWgDLznykfGSOmvxeAiu9OwijbL7AQ0vRXXGAodyfcg31g6bPq8Dpf/Lv/pe9s3rgiMNBO/g7l2djOMz23piRfhsjceQ5pdfjDvvwOuVlyn3ACUblKLfdZmmUtwJfb2xn3l0UiCS70LRdYqPTG5cAVWgscGffQDnTn9ujBWgEXXeM/419lHZvff22yG2uuKxEAhKqKr37VrUwhje3bZ0y43L9bKYLauasi7x+ZCTfxNKiHQzzBIzCTNWwWjZePEoy3aQv3dRGI/w7ruHeN5bcFzIsyG4K4/+0z9yqnqXahkwsR9NWwUNaeCqnoHzjD20cV3hfAkByN4WkYfn2JP41jaHyj8726OUMaIEJ/q9exVE73DOzL9lLaFonbqvyoZq03z37nAlxaoJsYdxDT9w==;/0tMbULw+iagK4o+9aZCuA=="
 ---

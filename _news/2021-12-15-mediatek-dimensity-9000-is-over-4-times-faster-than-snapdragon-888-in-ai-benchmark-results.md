@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 915
         isCached: true
+  - title: "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1"
+    excerpt: "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s"
+    publishedDateTime: 2021-12-15T14:52:00Z
+    webUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png"
+        width: 1024
+        height: 497
+        isCached: true
 
 secured: "tJo/oO62s+69izoQNG64Vky2QEkQAmZoRbvtgGrTizj02iS+YNo/wKOU/Pa3CXq5CBDiFLCEkJWiE37jD8YBBTnYo1Gc7fZUriWIW+gwkbpI62x6G97G8usKL1n7sXQb+EAZ+W/yZr7/uUs10OIQYcYZn7xulmLxW91m/NduU+s3Aw/rdH1GnK8nCWJY/mAnhqLANk/C7Tvo6FKvsXnvM/OqUD0EN8Qk63e/EgUuybKFHUz/cgllm/JI7IbqkIqpTwS+Du6CucR91+6GU1BJMlIlhtwZ8LDyEJUNA3mF1M84m9XkYsuBB2ihBehdbQctivtC5ODGVZEt1rYmhFxOW/rIVWTSYJhlB49v5oAdshILo79Je11E1Oss9U9lsV5vcvORpLiP/F3lDcy4bCL13+WE/WU4LT9dn2frAJum3bAcXL2NkBcJf8+3xK9os293To5K41ORjfIZDr19cT+azFPkEyH2cewm+cQT54nFj9HWWxRQ3x9NqhwDGC6fQ8mIfca9H/l7TkIuXAAJH6uGYg==;g4nnjyBDRQaH8t23hV8GQw=="
 ---

@@ -1,22 +1,20 @@
 ---
 category: news
 title: "California halts Pony.ai's driverless testing permit after accident"
-excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident."
-publishedDateTime: 2021-12-14T01:17:00Z
-originalUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-webUrl: "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
+excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension."
+publishedDateTime: 2021-12-14T02:01:00Z
+originalUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
+webUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
 type: article
-quality: 104
-heat: 154
+quality: 184
+heat: 264
 published: true
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265"
-    width: 4134
-    height: 2757
+  - url: "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -61,6 +59,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California suspends Pony.ai’s driverless permit after crash"
+    excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
+    publishedDateTime: 2021-12-15T13:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17537/california-suspends-pony-ai-s-driverless-permit-after-crash"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 54
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/537/17537/Beijing_Driverless_Photo_1.jpg"
+        width: 752
+        height: 501
+        isCached: true
   - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
     excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
     publishedDateTime: 2021-12-14T20:56:00Z
@@ -74,6 +86,36 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
+    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
+    publishedDateTime: 2021-12-11T15:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
+    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
+    publishedDateTime: 2021-12-14T21:52:00Z
+    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
+        width: 540
+        height: 420
         isCached: true
   - title: "Pony.ai's driverless test permit suspended after Fremont accident"
     excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
@@ -99,6 +141,6 @@ related:
         height: 476
         isCached: true
 
-secured: "to8JaW8bZeRgrK3dZaKpCSweXFBtmRC4cEKBAw8S+GRunMagYsP+1cusUWWdmlAcHOWnh8K6NBRORueE6EiOzTVyKrO7Xd1+toeE4uXh7FM3oPOWQm9TyiQYpz0bLJz2N2Vl4Yv66fvOkMnyu4+e0OEOGqkbGSh++aHaxpDj5YrwgDseGTHMuuP3FdLnzn6CX/nDjmaeOBufm+qibK2Gi+InlrssEYesdjAGv6RfRufboLUTuc+HMWZs/gQraMILs/ke79qR4Lu2kFW/KgkA+SU0gk+emJf3udE/aGxS7pKwDVFHPJEbdlG1a1LCmITcJkiMu1o11BtZ6Zjd86tUb/X15IufzNxLJ9cYaC6rhGmbpIlICTmj0wjbL9oya1tIQVxT9KlLZr7uyPI7tFcFJyqoCtELE6tSO8W016RFW9wj5bOJIJ3/+e4vXboh64wBnoJ1jBbDsygKtfX+f6O7NvblQmVjx+4KGL1dEMfwDbDBBNE9dgl80A23w/OSd/QiA8jUBjARez0wEx52jPnp4w==;HuXjPOx7+EtUpkKbAA7rjQ=="
+secured: "JhZCH5FYoq9gEqJK1NA8wbF5ImzPitps5j+/cz9fzDPnVsiQFCpjfYI7gfH77LEwvfTnIr5cbAtFO2hBakGVrPhmHk5RzoyUMzT3jIhiJsoG95BN2DBzrHCcdYS5oNWkim1euyZ1WUz0vQex2b8PdVsKI1e28TrwVnMCNGKy9IKBc0H3RAHY3PrakbVN/S7GC+Bc7AoNFWZUxZ34wwqC9j1EJ/GCN9Z9Mg6VtpRbk97EVkeL5e+ZpzxzyNK+Ikv2QZE28fq2boRqvS1OW94UVRYTSkl5c7mLWKrRvTu0mXZZVijjtx3USXJh+1Rrhd4AN1xUL+l+nTwzIk7zU6kdlGiXiMfL8Aj+1ueZYjqT2sI=;uB79aixu3IwfnaMKnEaPaw=="
 ---
 

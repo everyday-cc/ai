@@ -3,12 +3,9 @@ category: news
 title: "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing"
 excerpt: "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law."
 publishedDateTime: 2021-12-07T09:01:00Z
-originalUrl: "https://www.business-humanrights.org/my/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
-webUrl: "https://www.business-humanrights.org/my/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
+originalUrl: "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
+webUrl: "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
 type: article
-quality: 12
-heat: -1
-published: false
 
 provider:
   name: 洗護用品和肥皂
@@ -18,38 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?"
-    excerpt: "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology."
-    publishedDateTime: 2021-12-08T07:15:00Z
-    webUrl: "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 74
-    images:
-      - url: "https://www.gizbot.com/img/2021/12/4-1638947408.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
-    excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
-    publishedDateTime: 2021-12-08T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-
-secured: "64/GFLDiT7zeYXVbLjTIXpeU/YJhs7cdubFN5sHq7+yqv/qNjEfaxYilAweCC3ydnOda36HgAEJszEzr+GPUUo1epKS67IgtdrC46SYoed5MEgnRaZOsgxjq1vvqsOqpLa3uZsQRtKPGVl71rhn4qow2S5+TwyxeTHn4iujxVbOJix24a+wrjpDpwHl1hk2van5WmUCWFsJz1EP/ceK3seVrtfjE7idPBhqyLL4PDfWdtnGqpN1uPK/x4CpQQPN5gNgZJyRjH6JlqRMElihDDXRnZi81Xq04gOEfkXNYWSPfGXwdes3JQ4rJKsZdCPF35VBLlCuw/x+upgfSdpE2A8RgUk6/xLF0mx50gmYtP30=;vppwDZvxaQTXSQiP5hAEJA=="
+secured: "zLX0hEX/4Cc7J/BZP7SRVFaHmO7+XXGPdbwQstPYUut6/o11WgPT0tURLoc0M2QTKBxFghz1GDVSFGEyvCdIq5j7/IonPFQLz4pRudMdXQALJneCHZt7y85dQh6FXFfLP3ZRXuoR4lKksl3kQAeH6qVvtz89orgJIhXC4Uw70Z1zzWTkO6HdcgJZJSeR+NEGiXKfxWDnuycUYivgwYnmrb836kYdTkrS+VOFJftH4el4KgyZ1GNc0mpV7zk6SARpuplwIiqQoQQxbeuj3UZLP0ledyeh2j61rudw1H729GWDDbPNgFK/gldm5ZT16wiDHcn8H3cFk5jhV1++l//cWXw/sNrvFikFhehbuVzPQWc=;48lZlXPEOuobPx1Xg9oPMQ=="
 ---
 

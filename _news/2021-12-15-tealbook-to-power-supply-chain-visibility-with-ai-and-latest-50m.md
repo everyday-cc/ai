@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,40 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Papaya raises $50M for computer vision that facilitates bill payment"
+    excerpt: "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital."
+    publishedDateTime: 2021-12-15T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/"
+    ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all"
+        width: 1200
+        height: 620
+        isCached: true
+  - title: "Signal AI, a ‘decision augmentation’ startup, raises $50M for a platform that extracts insights from the internet and other public content"
+    excerpt: "Signal AI, an artificial intelligence startup that trawls the vast sea of internet and other publicly available data to provide organizations with sentiment insights and other information to make better business decisions,"
+    publishedDateTime: 2021-12-15T10:38:00Z
+    webUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/"
+    ampWebUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 53
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-959508862.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "wM3axCCJigkfAVyQaehKmOK6hsDRu3sR+EvlCuSXeQU2euFymgl6B4iCXamKDkANBOxGeByOLokvbQVuDrBOgpnWamwAyMnAHYKt9KZ2GT//HDBon8p75QQxVGqj5v2uVDhrLYf2pec7l/jbH+0nlIyPP8wD73ZbJ9SI238eYYnkHfdMVUter5CG57SL28Boof6JuRHrd07Elcd2hT9H+0qK0kBxYkcQhtbsQgeUZt5GTOAFlcy3OeBSFrK/cZiUyn/pyaeBVQ10iORpbC2JxVkFYFvdU4cR9rlmHbfxRIU1qaHvfiDQfS2St/j5YrxkajtTn2e9xxXYrnau1EMJaCt5XIpXmrJa5hU7rQ8wHKl6kndUEHVRExCPY3xfI1YVv03fTyPX8zefy/z4aLky3wEZaiyMagJ8AJemM9sp1bd2PTw6egEj7zbiDnK+7bNo7q1NQMQXw9IU5ONVsKulvCOitLuqnghRDWOQL4FHBfYq0mmxkXOKbt05zdXd5G8gP9MPIivjGzHsBbgtlmujCA==;3f/tDqEkGlm7H4R6Xclj/A=="
 ---

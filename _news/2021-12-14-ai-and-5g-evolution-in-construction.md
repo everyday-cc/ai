@@ -64,6 +64,20 @@ related:
         width: 920
         height: 438
         isCached: true
+  - title: "Improving quality management in digital production through artificial intelligence"
+    excerpt: "ETH researchers are using artificial intelligence to improve quality management in digital production processes. The team has succeeded in halving the proportion of defective products in an experiment with the semiconductor manufacturer Hitachi Energy."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://techxplore.com/news/2021-12-quality-digital-production-artificial-intelligence.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-quality-thro.jpg"
+        width: 930
+        height: 620
+        isCached: true
 
 secured: "rWSMrzjb0q9ZYm0phGB0fsoRWV0/5aBMu0+q7aWzmBO2aIr0qvO6ECfHK+tWe2fqUWKgG4toPYaV4dM0Cl6iqpEWHmQFZIMVUJDyLbh4GkhyJNSA29/dn9dfWTTqX6wXXne6X1+ZASdcX+ZvIBZyioGLTHq8K1qCbPy/SbjZNcRVV/sOV+vxqZyhUbxaTSsbJ69BinAxTNKvjHQ45/MZfkFcqrSYq/ifDvyN0Sq4hy5IjI5XVNKKg/ATQ6r27lCOPBMIQAKx07uuMM1E6l/vkQ5+SvdZ5RFGONhSib5qLR0PfUeHqrBS+IN5dQvG+QedHMGVA5JUVOCHNVtM2LUVAx1UpEh+us3GCVjzhxpOwx0VFMhX39AGroQq0YcrIb2cbAsWQQ+67U9SK2Er1LA/opIdMR4bCniJqJ21ckIeSH11YM5pO1Kv95goZLr0OeWelwR7/mvXa3BAM6hJ14UJ4+POiMVCpDbwn6ztloQlGKHKFw8tRPyijTCbi2kJPC5SwqIukByjKwTpZoxbEDCBtQ==;hDxJUAnYCCwnMTawQnEGNA=="
 ---

@@ -54,20 +54,6 @@ related:
         width: 1158
         height: 518
         isCached: true
-  - title: "Pentagon adds new top AI role"
-    excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
-    publishedDateTime: 2021-12-10T21:29:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8y5bMn/a/I1JznolwaZ1JSlnhSyt0DpRVQDy58sEeKxqnC0PwwP0iPuAhjV7ikDsG83u34mzK/qraRHvkD1RtePh5U4KsHEpx7PNgUn/s/oWLAp2F/BWCxyUxj4/R/MPugCI8ZfzxJNhad57X9pV0WmoURViqmz2c2VuawNMD1sglts34nwfG0qYKs2pH1JJERQLxuNDQM927zl/KTWyR0BzQ5oDiPXxkkotX5kqDVoxYBlHm8n4s14wFvGtAG74hXdDVfwpyVpKfkk3a2mgi/6iROasyBmAF6Ns6kviap4aEn/H/d7vVLdsV5mNa8+K/sEsKQ36CQiAsONv/beW08TyztTkk7e/Ecgho2kIxVE=;V/kBmr/J01oEqVf0IJggPg=="
 ---

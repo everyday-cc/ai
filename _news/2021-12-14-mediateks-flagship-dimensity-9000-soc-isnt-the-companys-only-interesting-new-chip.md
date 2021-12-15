@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flags
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg"
         width: 4949
         height: 2775
+        isCached: true
+  - title: "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1"
+    excerpt: "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s"
+    publishedDateTime: 2021-12-15T14:52:00Z
+    webUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png"
+        width: 1024
+        height: 497
         isCached: true
 
 secured: "6y0HpoCYUuUMSJlbL3bdX/HDlNjTkaA6HfRmkV2pYHi+NlUerZhlf7H8YROqNRiWFDV24OdfAFP19WKNPSSBcrdOK+h9ErDseo8awB3GkBve1o04vKXwziqoRRfosf/ggIsWnx2rXiNWjC8TRe55iE8WG2RBqGibAzsQUfKrQESxGBDIUhO8HWKp+TIDRtCkAtmBF1/Bpm5L3HtCxujrW/u11YNFiAihaGeE9hR7wjL2BlihpLeOsGTvs5BbKAEQgyM4hK+ObYs6LtnLUZd5BDnBHUxRvoxN+1WucXaTnFYUPB+Lfxv+Klgg0Yr3B+uFCLKXNmjD4ldRteRdRW9WRLEwp57e/8vd+LTojHBn1K8T0CSrW/ZAZFp+KoQBEIpPRYT/1Imr4q0VFEHtP/c+OrML+jhr7y/wp1GJSNZN7uhsEL8KYNuG0hlBHJqL66fJsSJ7/pkqzCt/YSzS6fYaENhlj+4hex9FtjHyu3j62wbihEQwl3YZeOhVgydFDlI712RFOaTszNT+kTsLzq7pRA==;b63DLUwYn9ck4os81u62Xw=="

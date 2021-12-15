@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-i
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://pacetoday.com.au/wp-content/uploads/2021/12/CDDD9F9F-0644-459E-97F7-191F1187ABED_1_201_a.jpeg"
         width: 1158
         height: 518
-        isCached: true
-  - title: "Pentagon adds new top AI role"
-    excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
-    publishedDateTime: 2021-12-10T21:29:00Z
-    webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CSIRO appoints inaugural National Artificial Intelligence Centre Director"
     excerpt: "Following a competitive global search, CSIRO - Australia’s national science agency - has appointed Stela Solar as the inaugural Director of the National Artificial Intelligence (AI) Centre."
