@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
-excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"
-publishedDateTime: 2021-12-14T21:24:00Z
-originalUrl: "https://www.thestar.com/politics/2021/12/14/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent.html"
-webUrl: "https://www.thestar.com/politics/2021/12/14/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent.html"
+excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
+publishedDateTime: 2021-12-14T21:35:00Z
+originalUrl: "https://www.princegeorgecitizen.com/national-news/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent-4864296"
+webUrl: "https://www.princegeorgecitizen.com/national-news/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent-4864296"
+ampWebUrl: "https://www.princegeorgecitizen.com/amp/national-news/provincial-watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-4864296"
+cdnAmpWebUrl: "https://www-princegeorgecitizen-com.cdn.ampproject.org/c/s/www.princegeorgecitizen.com/amp/national-news/provincial-watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-4864296"
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: The Prince George Citizen
+  domain: princegeorgecitizen.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.thestar.com/WJLmOwgTcit2f_vgi7Pwnton-0g=/1280x1024/smart/filters:cb(1639521850220)/https://www.thestar.com/content/dam/thestar/politics/2021/12/14/provincial-watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg"
-    width: 1280
-    height: 1024
+  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/12/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg;w=650;h=456;mode=crop"
+    width: 650
+    height: 456
     isCached: true
 
 related:
@@ -41,7 +43,21 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
+    excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
+    publishedDateTime: 2021-12-14T23:26:00Z
+    webUrl: "https://www.nsnews.com/national-news/provincial-watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-4864296"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 51
+    images:
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/12/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg;w=650;h=456;mode=crop"
+        width: 650
+        height: 456
+        isCached: true
 
-secured: "9qJn01zRe8hOIccY55p8lvDGiyUuOacKN3PsD9S0EnqqZbH3/nEoqLUJRb3q89S53ZFP05t5zsgpnVot1depfzKYDnVzZ880dMAoQ6q5x8UxudqfJbBx5Lqpco4xiFExUgRMUIQ8btSEeA/GgLbD9st+K0jRbAZ3uyPHEJxsG4DIzhp0ZUC8PUhR79LUAiTE2rA0mtz33JTKbMBOrLhdQgtlkTrOeE5RkR07ubyloOwunjfEB7BK6sr9SGiMAly4e3poPMYogbxae7bpWRm2ovj2lTMXWjUE7rxEdeUjWp5CUHebGBSi8BngZcFMW69sjA9xKEw5zKNA/Khel4FqkN1IHjiDGAWzvGXgQnsWGR0=;ZcC475KxP/hsoxybA+i/6w=="
+secured: "S5cu0udG6eJZDqNRbm5NG5+FMk2yGUgW10S2jzuDpFz64icuxU305nTIZ1YWJNx644yi7rQDBay8xu4in8EcIIutfbxD4FB3jaCdNAW3jwJV4RYd36c9D1LQFixqMWlEn3gwjqTyJz1wqNmicEdUfjeRrBrqPFZk2u+TlFUL11g1uJmK0uQK1C3X8f5EDzdBqyaz4z8dqjh0mGzQCX1dRITGJaQle642NW9Cgitxk/nlbBPayxSw1tO5KpXG0JmkZPMAuNjad6pm8LG0L2tIIiCBBjjVZGf4u0ooyyVQjvgiyNY2ZQq6uxpDanFgLl3wnNjQjMQst6QUNjIw1bls7uzZ5cHyXN3owGg7BPujRJ4=;cBPwWfWnD4GtaS3QJvsvLg=="
 ---
 

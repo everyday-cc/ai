@@ -7,7 +7,7 @@ originalUrl: "https://www.freshplaza.com/article/9382109/kubota-invests-in-us-ba
 webUrl: "https://www.freshplaza.com/article/9382109/kubota-invests-in-us-based-agtech-startup/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Kubota invests in plant growth monitoring start-up"
-    excerpt: "Bloomfield Robotics is a US start-up company that uses image analysis technology and AI to assess plant growth and detect pests on grape, blueberry, and"
-    publishedDateTime: 2021-12-10T08:40:00Z
-    webUrl: "https://www.futurefarming.com/crop-solutions/kubota-invests-in-plant-growth-monitoring-start-up/"
-    type: article
-    provider:
-      name: futurefarming
-      domain: futurefarming.com
-    quality: 24
-    images:
-      - url: "https://www.futurefarming.com/app/uploads/2021/12/IMG_20211209-1.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "vEbfuwQJhBzqDCNagn8OGLz2zpWnpkdYai/CjuTuIOVoJfD9sADXhnsGTcLNUvFaWOt9SSusoP216yNvm3GEPJNHplVjVUqJqCAdFUIUx1ZhNSwcGQjJwdnBPlZkDq9pm7BruCGcv+/lOvJ64W0B4Rb4lrSIbOFGZMyO8BytQXbQaMhd6DrgbUUJbDQX7X53GuyIB7Jn8F6Wy1k4byNJ8TdO+AcKuV/FarjkgBMFEbommzVuCqe1JFCGxCMeJr8XwVWajHoecq5nhJ1ZDCVmPr49EtkVrkr/nEWXNIybYY2q8Y/STP1gokc8zK5hSp2H3YoAFlVNKzcVzxB8qfnp59Q752oWHxm8pRHmWjOxoS0H6jVgt/YWSklcJ0hzBJPRfiUPBPEoGY2dB4/SqDYqxAz+Pg1QRCZoYHhrJUqoVRJqjKJKfXpZz/n+yDeFMvzGrABVZVm8n+0x0fVF8Gmya8uDeEaAViEp4Pn2VVf9DdNvJUqiItIjZ8LQAr0byBi1TeVciKUWbDaV/gyHs5JpHw==;I4eJdwp8L9hSz8SFw9EwLQ=="
 ---

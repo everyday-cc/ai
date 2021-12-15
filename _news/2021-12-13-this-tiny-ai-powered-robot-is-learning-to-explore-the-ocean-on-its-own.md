@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?a
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp"
 type: article
 quality: 76
-heat: 98
+heat: 96
 published: true
 
 provider:

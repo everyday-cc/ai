@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big
 cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "SARS Moves To Increase And Expand The Use Of Data, Machine Learning"
-    excerpt: "SARS efforts to increase and expand the use of data to improve the integrity of outcomes and enhance its capability to detect instances of .."
-    publishedDateTime: 2021-12-10T08:07:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/12/10/sars-moves-to-increase-and-expand-the-use-of-data-machine-learning/"
-    ampWebUrl: "https://www.techfinancials.co.za/2021/12/10/sars-moves-to-increase-and-expand-the-use-of-data-machine-learning/?amp"
-    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/12/10/sars-moves-to-increase-and-expand-the-use-of-data-machine-learning/?amp"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 61
-    images:
-      - url: "https://www.techfinancials.co.za/wp-content/uploads/2020/05/SARS-Boss.png"
-        width: 680
-        height: 366
-        isCached: true
   - title: "SARS uses machine learning to nail tax-evaders"
     excerpt: "Using the data from various domestic and international sources, as input into machine learning models, risk profiling and case selection, a number of trends have already been observed with positive outcomes in a number of instances,"
     publishedDateTime: 2021-12-10T09:42:00Z

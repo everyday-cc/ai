@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-i
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "National Artificial Intelligence Centre to unlock AI potential"
+    excerpt: "The government has launched the National Artificial Intelligence Centre to help unlock the potential of AI for business in Australia."
+    publishedDateTime: 2021-12-14T23:04:00Z
+    webUrl: "https://pacetoday.com.au/national-artificial-intelligence-centre-unlock-ai-potential/"
+    type: article
+    provider:
+      name: Process And Control Engineering Today
+      domain: pacetoday.com.au
+    quality: 52
+    images:
+      - url: "https://pacetoday.com.au/wp-content/uploads/2021/12/CDDD9F9F-0644-459E-97F7-191F1187ABED_1_201_a.jpeg"
+        width: 1158
+        height: 518
+        isCached: true
   - title: "Pentagon adds new top AI role"
     excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
     publishedDateTime: 2021-12-10T21:29:00Z

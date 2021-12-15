@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 233
+heat: 243
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 28
+  - title: "Association for Advancing Automation Announces Speakers from NASA, Verizon, HP, Microsoft and More for 2022 Business Forum"
+    excerpt: "More than 500 executives in robotics, vision, imaging, motion control and industrial AI will gather Jan. 31-Feb. 2, 2022, as the Association for Advancing Automation’s A3 Business Forum, the leading networking event for the automation industry,"
+    publishedDateTime: 2021-12-14T21:15:00Z
+    webUrl: "https://www.automation.com/en-us/articles/december-2021/association-advancing-automation-speakers-nasa"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 15
+    images:
+      - url: "https://www.automation.com/getmedia/69f5111c-14e3-41c9-a7d0-097d6be4990e/a3-news-dec-14-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "hmJkjYyshB3C2bWcYVii1GqOOAtNft9sE7zsXQncgUbrgG6kCJAMKi1fdGM6ypZDDrfTjvVzbn6x21Js7EvMdZc3zr0FNd4I39YGOWyV7q5tf1qQ8C1atwYmILZqbuwByjn1L1XPNmO1CHOjAZAgadaGmHF3RvxAyXviWCVsMbjk6gY8+36yHAu8Ki1jbFqW+H2XRfbfh08eF0/+v8zU6dNpVU+eU26x3JFaYxW3lfwaVz3o9ncZSptKBHLHE0dEeoPJf8yQRHr+3YnbZeAMNsncc9iz/wNdHs4CiniGySoEmKAJjPYgYrk1fvraJ1nprWobW3e3Py9lAE00NvJm0sEZc65E/OIdMx7p62426w/9SFvoxbhQY+sIisQYSAXpay1n3g1FTSwOwgz8sjcqeeFiOEFIPmVF5hj9RRzpFftDeRSSlW6m1kyRKWvADsGebv8BsBinWU4Iwg/h83bK+Vo92ygQzIe8+3WFTDAAvPZ3tiidWtPGujFtXfMZses/g9cFexZfyV8SMrpy25+1YeRFAQFH46yZ12TCkcnbysA=;u/9Tne5W9lNyYFz9TyntRg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-14T21:20:00Z
 originalUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-customized-versions-gpt-3/"
 webUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-customized-versions-gpt-3/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/openai.png"

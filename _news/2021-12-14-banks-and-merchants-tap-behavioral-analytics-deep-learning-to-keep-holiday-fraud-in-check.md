@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and analytics — Gearing for computing demands of next-gen AI apps"
-    excerpt: "There was a session on AI and analytics — gearing for computing demands of next-gen AI apps, at the India Mobile Congress 2021. The participants were: Xavier Kuriyan, Director Solutions and Alliances,"
-    publishedDateTime: 2021-12-10T08:44:00Z
-    webUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/"
-    ampWebUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/AI.jpg"
-        width: 1004
-        height: 568
-        isCached: true
   - title: "AWS launches AI for data analytics partner solutions"
     excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
     publishedDateTime: 2021-12-14T07:19:00Z
@@ -56,6 +40,34 @@ related:
       - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Teradata Advances Analytic Integration with Dataiku to Speed Data and AI Initiatives"
+    excerpt: "and scalable AI and analytics programs. Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale."
+    publishedDateTime: 2021-12-14T14:27:00Z
+    webUrl: "https://pressofatlanticcity.com/news/science/teradata-advances-analytic-integration-with-dataiku-to-speed-data-and-ai-initiatives/article_cdd8dfda-f645-5a90-8b55-de23c9674d96.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/6/4f/64fb182d-a191-579d-8004-0ffeda39d1c6/61b8a72d1db0b.image.jpg?crop=613%2C322%2C0%2C52&resize=613%2C322&order=crop%2Cresize"
+        width: 613
+        height: 322
+        isCached: true
+  - title: "Cybersecurity Startup ActZero Partners with Measured Analytics and Insurance"
+    excerpt: "ActZero, a cybersecurity startup whose AI-driven platform makes best-in-class security accessible for businesses of all sizes, today announced a strategic partnership with Measured Analytics and Insurance,"
+    publishedDateTime: 2021-12-14T15:29:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/cybersecurity-startup-actzero-partners-with-measured-analytics-and-insurance"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 19
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
     excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."

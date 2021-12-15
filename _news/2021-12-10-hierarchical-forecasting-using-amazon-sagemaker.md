@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build GAN with PyTorch and Amazon SageMaker"
+    excerpt: "GAN is a generative ML model that is widely used in advertising, games, entertainment, media, pharmaceuticals, and other industries. You can use it to create fictional characters and scenes, simulate facial aging, change image styles, produce chemical formulas synthetic data, and more. For example, the"
+    publishedDateTime: 2021-12-14T23:37:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-gan-with-pytorch-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ML-6149-image013.png"
+        width: 1158
+        height: 599
+        isCached: true
   - title: "Distributed Mask RCNN training with Amazon SageMakerCV"
     excerpt: "Computer vision algorithms are at the core of many deep learning applications. Self-driving cars, security systems, healthcare, logistics, and image processing all incorporate various aspects of computer vision. But despite their ubiquity, training computer vision algorithms, like Mask or Cascade RCNN,"
     publishedDateTime: 2021-12-13T23:57:03Z
@@ -70,6 +84,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-4196-img1.png"
         width: 641
         height: 241
+        isCached: true
+  - title: "Process Amazon Redshift data and schedule a training pipeline with Amazon SageMaker Processing and Amazon SageMaker Pipelines"
+    excerpt: "Customers in many different domains tend to work with multiple sources for their data: object-based storage like Amazon Simple Storage Service (Amazon S3), relational databases like Amazon Relational Database Service (Amazon RDS), or data warehouses like Amazon Redshift. Machine learning (ML) practitioners"
+    publishedDateTime: 2021-12-14T23:07:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/process-amazon-redshift-data-and-schedule-a-training-pipeline-with-amazon-sagemaker-processing-and-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "w9054nQEr2pDCTVq+9i3QicETJ77MwXorj++kAHziCv5AEvyqNzI5kb+pcBGO04oEe5XxH9RBMB2/I531cfy+cPfoaUnn/1GHbfRnNFXLsearTQ0ptVNAaXZ0rQGeaDv0q8S2W0kXO8T6owmt4bZp1T5yha86i9VfCnEWnoGP39W/1Siwy6YOdv9JSVmqf71TnfVjxgxHx0Hd8AcyfVIxN9t6znl6B9CYwsI5fFAyjB2MH6VkdknyVBPxw4L5RcPYcISaNilrprG34tyr+sYysHzkQJHonSvoXcXQ1g/wBLruJhuGCaigdUSZH5BD9zwszkn7F7DKJgHk7F3x4Xf2lDER2gWPXHLDFHJTpawAjM=;hq5MxxrPT5mknuOlaQuXpw=="

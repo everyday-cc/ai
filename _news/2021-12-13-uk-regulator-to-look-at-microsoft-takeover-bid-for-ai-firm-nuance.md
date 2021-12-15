@@ -126,6 +126,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 28
+  - title: "Association for Advancing Automation Announces Speakers from NASA, Verizon, HP, Microsoft and More for 2022 Business Forum"
+    excerpt: "More than 500 executives in robotics, vision, imaging, motion control and industrial AI will gather Jan. 31-Feb. 2, 2022, as the Association for Advancing Automation’s A3 Business Forum, the leading networking event for the automation industry,"
+    publishedDateTime: 2021-12-14T21:15:00Z
+    webUrl: "https://www.automation.com/en-us/articles/december-2021/association-advancing-automation-speakers-nasa"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 15
+    images:
+      - url: "https://www.automation.com/getmedia/69f5111c-14e3-41c9-a7d0-097d6be4990e/a3-news-dec-14-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "9sVZmo+ZoipKrLikhiuvoMSTqJIfp0btnx/yebpqwZN4/C4J/00J8tdKfcIUkSdS1e5EGiUOA11PKvrTZVndBmy1AwxwRjjV9phnt0LHqGQVc0GLYl6PPrmUbY4F3GMEpng7jPf/VhIFBeqAnez9zuW69mF1LhmbjdWii+hhJuxB1e+25urXYz6GA1OeoiDhOPwqEkQrgjiP0vaSrncP4VkaaOO6fVteOPLFXhIt82x/20Pmbu61X4aJxLbRBnbcI06ySLUJQu96amz2XG6jQXVFnEVAr+rmZseobYu5lKliuSZKr/ckBvAjknfUg264kBf53TIZ1dFO2COsFrU/kevDaJdceqaYnci3HdhUgM4m0orzWQcXgzOO8+LbKOq3TpM33wZBFiRlD/eWn/1LoHl8EJ0b7VII0Lro+sto0ku/hb60dVXlHO2tfxUSnQlcSXX9Dji9ng6IUtYsxFocfRoXdAl0mc2QUEohDTtGqobxRaOGNVycZUVFwbe4qEGrwlOeqWF6yrhuma6HgIcQIA==;h1Jsr65c9L5Z+mzS5JKKKw=="
 ---
