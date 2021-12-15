@@ -25,77 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI is thriving on and driving the edge"
-    excerpt: "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed."
-    publishedDateTime: 2021-12-10T20:45:00Z
-    webUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
-    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
-    publishedDateTime: 2021-12-13T16:28:00Z
-    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
+  - title: "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling"
+    excerpt: "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process."
+    publishedDateTime: 2021-12-12T15:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
     type: article
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 69
+    quality: 76
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
-        width: 1280
-        height: 640
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03"
+        width: 1212
+        height: 606
         isCached: true
-  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
-    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
-    publishedDateTime: 2021-12-11T11:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
+  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
+    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
+    publishedDateTime: 2021-12-11T04:47:00Z
+    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
+    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
-        width: 920
-        height: 438
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
         isCached: true
-  - title: "Four Trends Driving Artificial Intelligence Innovation"
-    excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
-    publishedDateTime: 2021-12-14T22:23:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/dec/14/four-trends-driving-artificial-intelligence-innova/"
+  - title: "An AI was invited to Oxford Union to debate its own ethics. What it said was startling"
+    excerpt: "It’s natural, therefore, that we would include the ethics of AI in our postgraduate Diploma in Artificial Intelligence for Business at Oxford’s Said Business School. In its first year, we’ve done sessions on everything from the AI-driven automated stock trading systems in Singapore,"
+    publishedDateTime: 2021-12-14T18:00:00Z
+    webUrl: "https://scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    ampWebUrl: "https://amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1012722/an-ai-was-invited-to-oxford-union-to-debate-its-own-ethics-what-it-said-was-startling"
     type: article
     provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
+      name: Scroll
+      domain: scroll.in
+    quality: 66
     images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
-        width: 294
-        height: 382
-        isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
-    publishedDateTime: 2021-12-13T00:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
-        width: 1240
-        height: 827
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/167478-qfytmltrpc-1639390280.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "qrWjxByzI9n7dNMdgnnXu3YlJLMYL/Rpq29eyXZVyjimFDe6z6XY7AnCCUpk/hay7qcuyHYfghKwk0JJgFzefKdat3EGkjKJ0Bfa/1N66Sw2FurTgerFb2lb3QTSaZK8fwtWNjDPC31YhMHno1yssp1J/dWswJgajoIj0d8MnGOtFOY8HyKoFpghYdA6c4JTzVI9zXJM+MhXeqrLifPqcafG3dhve1fVCNp4L2btRLd9I7IYLci0ISo0640JY8204n+Kxid6GgHL4daJbELyhbdfVPaos4tDKkQFs3yi3pY8uqVtEzy7WcjPW25sXqmowj0ezQ008KCiwR97OtLa/AX4/K0iItWVsKyPQ69+Dd4=;wtgItlnS3RMVwjEYr1m/rA=="

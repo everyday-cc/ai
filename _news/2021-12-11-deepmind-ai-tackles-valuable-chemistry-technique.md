@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
-    excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
-    publishedDateTime: 2021-12-10T20:21:00Z
-    webUrl: "https://futurism.com/deepmind-ai-reading-comprehension"
-    ampWebUrl: "https://futurism.com/deepmind-ai-reading-comprehension/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
-    images:
-      - url: "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "DeepMind Now Wants To Study The Behaviour Of Electrons, Launches An AI Tool"
     excerpt: "DeepMind solves delocalization and spin symmetry-breaking with neural network and training the dataset to capture electron behaviour"
     publishedDateTime: 2021-12-13T09:43:00Z

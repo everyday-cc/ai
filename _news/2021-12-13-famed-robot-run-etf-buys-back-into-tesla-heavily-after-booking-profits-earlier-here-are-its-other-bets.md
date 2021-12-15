@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24564217"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564217"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 6000
     height: 4000
     isCached: true
+
+related:
+  - title: "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding"
+    excerpt: "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ: TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding."
+    publishedDateTime: 2021-12-15T11:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding-1031046687"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "NoDIvEoBACP075lxj0tK6w20ARDqJ3I8MT4o/HVKZVeRRXT4Ra09VRiBMTkDFBfNoQRYbm7n4fzU4ez34yJHNq84EWl/5OSYHczysvA7cCR6viqquxSEwkjoZT3qd6C4kVPBxQnwHhXMQjM9oEePjPBhhbRS7WVOZVDSzDKhJb98STyPFLRSO53ZRocpCDxR2Vn2JlJn9B7Q4RAJEk+slKDsjPoiCCk7GYlEY7/AS0uinU0uvJQoCFcy6NU2I7Ak/Slv6HSyLqljcJxWrNS1+vTSayoAPB4mT4XlLdPVLMbz0Q8Ull2LLIFJyNJ/+Ehe+2mvADe1nZMaaGYMXKqcrIGkMoIHOCDpEkvhrP3xrSU=;EiOg37UVb6kCGDbNe7QpCA=="
 ---

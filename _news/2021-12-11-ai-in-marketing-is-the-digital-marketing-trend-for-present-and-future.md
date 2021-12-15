@@ -30,78 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI is thriving on and driving the edge"
-    excerpt: "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed."
-    publishedDateTime: 2021-12-10T20:45:00Z
-    webUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
+  - title: "Role of artificial intelligence in the evolution of digital marketing"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life."
+    publishedDateTime: 2021-12-13T03:10:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
-    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
-    publishedDateTime: 2021-12-13T16:28:00Z
-    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
+  - title: "AI is not a panacea: The pitfalls of AI"
+    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour By Kamal Das \"Let use AI in this project\" has become a common refrain from managers."
+    publishedDateTime: 2021-12-15T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
-        width: 1280
-        height: 640
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88290514,imgsize-10898,width-1200,height-628,overlay-etcio/ai-is-not-a-panacea-the-pitfalls-of-ai.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
-    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
-    publishedDateTime: 2021-12-12T16:28:00Z
-    webUrl: "https://www.nextgov.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
+  - title: "AI and 5G: Evolution in Construction"
+    excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
+    publishedDateTime: 2021-12-14T06:32:00Z
+    webUrl: "https://constructech.com/ai-and-5g-evolution-in-construction/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 41
-    images:
-      - url: "https://cdn.nextgov.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
-        width: 1812
-        height: 1356
-        isCached: true
-  - title: "Four Trends Driving Artificial Intelligence Innovation"
-    excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
-    publishedDateTime: 2021-12-14T22:23:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/dec/14/four-trends-driving-artificial-intelligence-innova/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
-        width: 294
-        height: 382
-        isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
-    publishedDateTime: 2021-12-13T00:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
-        width: 1240
-        height: 827
-        isCached: true
+      name: Constructech
+      domain: constructech.com
+    quality: 17
 
 secured: "HcHE8699FORI2VWLIa3R+vfFxFcFPd6AQShrLcvsLn9AJVRZ5uhrA8WDvpLnYYyVx/O4WUwt+dYTB/tClYjYXwugqQ0yVPCsXyY2P9ir5GgaRRdO3n4bvNdrYuaYTPBidBlDL3zVsTZMiVXSHNboMqtqIEFJM5uV1l+mzgFlXNZdqWWe9pCCmzhtLA0pSlKYewJXFSo4HZ1UFNOq8hDD39R5n7y7uvgyMFteUy9yMSnGESRaD6X0oFXLx7u8IlSI88pxPv8FatVy+BK7Zn5voYR8SQ/Nap84NRrIcbQv3W8bQgKQABCncAlBEastIE0Hm9UKbQBOVoU9GKJ1DB51CLcxyWAhLSLU1KYEMZGC4rSRgyh9vbLqeVTjBYyIt/+dsohI5AO7X47R5qSqppmWIIUCSXnoejpVfQQ/jhQ3xHzzAfGuVWUT4dk1fopvGEGeS/OUJ1PS+71ZmBT9eTzIYMN0eM2RSEMq22EpPqacQX7NIZjVxEJTfbBLEpABZNNSIVohWqMTsuOi73AAfk4EVA==;5uM5uWS17aFY2u9NyvdXCw=="
 ---

@@ -26,65 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
-    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
-    publishedDateTime: 2021-12-10T20:05:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+  - title: "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure"
+    excerpt: "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the"
+    publishedDateTime: 2021-12-13T14:23:00Z
+    webUrl: "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 89
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
-    excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
-    publishedDateTime: 2021-12-13T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market to Witness Massive Growth by Microsoft, AWS, Xero"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Accounting Market Insights, to 2026” with 232"
-    publishedDateTime: 2021-12-14T10:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-to-witness-massive-growth-by-microsoft-aws-xero"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: SourceSecurity
+      domain: sourcesecurity.com
     quality: 61
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
-    excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
-    publishedDateTime: 2021-12-13T10:11:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
-        width: 1024
-        height: 576
+      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/synectics-security-wins-ip-video-security-system-contract-for-irish-rail-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "OhvwZM6z1JqW2OTvRr2qbE5V8GkeWRrjO7nl/bfFl+We5x+ouS4R7LSuhVmUr25DXh/JyskBcihQpZFIqkkcUDiihb9HnL/9Gi1+pd5Y/bmHWhRCrdEFXsTpeqfFmTI2Hsi/aGPcke7NSQcflECW28Jnl/Dir02osfx8a9zJyozId3HhcBlC37D+ucM51Rmf5b+E7DWjQ4m5mCEDS8UajBCedA0vWpMsNfRbFrYKwmD0PhJTBNSvN+J6MuDpWau1abHw3l2hdoUu1bgIJkSq/qJhOZ/d1DisUiyXqNTIVjsOr/RHLMr1o5sDknuKo/Lhl9pqV/QhyH6hNk2xg9rwgQXFXY5rccLLJQjJkTlf0oKvjGmHN5b5F8SmiGM/8tMWNwjHQuDl3HRcg3RTinRKfpq1hslrbqgVF9ZIc6uuSx5kU8nulxO+BptFR3+vkYh10kFnU516O3BGhvn4UmJ6pML5gPknViVJBTDsoN67EkSYd6bsFGlBRXaIungScEf2b5T8xJbdOHLZvfXpWV5usA==;M2LMKxIYJZH1VXfuOEibFA=="

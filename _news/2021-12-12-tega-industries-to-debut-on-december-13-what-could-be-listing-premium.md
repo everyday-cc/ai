@@ -18,17 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "5 Artificial Intelligence Stocks To Watch In December 2021"
-    excerpt: "Hot Artificial Intelligence Stocks To Check Out This Month. As adoption of artificial intelligence (AI) rises, artificial intelligence stocks could be among the biggest benefici"
-    publishedDateTime: 2021-12-10T19:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
+  - title: "vivo Y55s available for pre-order in China at $220, sales start on December 17th"
+    excerpt: "Last week, vivo took to its website to announce the Y55s 5G, the latest addition to its mid-range device offerings. The Chinese smartphone maker revealed the hardware and software specifications of the Y55s,"
+    publishedDateTime: 2021-12-15T12:32:00Z
+    webUrl: "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/"
+    ampWebUrl: "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/?amp=1"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 99
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/12/vivo-Y55s-3.png"
+        width: 748
+        height: 748
+        isCached: true
 
 secured: "B9owGnlNuyj/q4IT5bXxralfYhyqHm+vmHsaU2Nu0BtRy6EpA2vZRv651FuklxUQXHe/gVZIypc2kEf7xJRuqL0FYVIWbsNLdE81MTnhn7IEv57YEliYHvu8zHvtjpLc9hXgK+GYgzankW/WiYhs/SVS38QHGEBiIo2lNS7ahpfNyEfEplOBdItd6iZa/lNZZS/BBZK36wkX3p4DlB2nB+6jsK2nTDLXiBDLysjJ1VjkmiE0V/1LUDf3WNjQNCOpNLSmMFK1UrHdmbP0Czd0HvvJGZX4xkSR/86WV+hRRCboyis+EMwmP93ymlFxTuFnK42rR3Zel50UdyrwG/9DDnBVHh8IrcqSLTa9sRtKsbk=;XY1TjXJLEAPrlyxR4b1xSA=="
 ---

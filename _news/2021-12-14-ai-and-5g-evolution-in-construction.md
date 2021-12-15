@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
+    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
+    publishedDateTime: 2021-12-11T11:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
+        width: 920
+        height: 438
+        isCached: true
 
 secured: "rWSMrzjb0q9ZYm0phGB0fsoRWV0/5aBMu0+q7aWzmBO2aIr0qvO6ECfHK+tWe2fqUWKgG4toPYaV4dM0Cl6iqpEWHmQFZIMVUJDyLbh4GkhyJNSA29/dn9dfWTTqX6wXXne6X1+ZASdcX+ZvIBZyioGLTHq8K1qCbPy/SbjZNcRVV/sOV+vxqZyhUbxaTSsbJ69BinAxTNKvjHQ45/MZfkFcqrSYq/ifDvyN0Sq4hy5IjI5XVNKKg/ATQ6r27lCOPBMIQAKx07uuMM1E6l/vkQ5+SvdZ5RFGONhSib5qLR0PfUeHqrBS+IN5dQvG+QedHMGVA5JUVOCHNVtM2LUVAx1UpEh+us3GCVjzhxpOwx0VFMhX39AGroQq0YcrIb2cbAsWQQ+67U9SK2Er1LA/opIdMR4bCniJqJ21ckIeSH11YM5pO1Kv95goZLr0OeWelwR7/mvXa3BAM6hJ14UJ4+POiMVCpDbwn6ztloQlGKHKFw8tRPyijTCbi2kJPC5SwqIukByjKwTpZoxbEDCBtQ==;hDxJUAnYCCwnMTawQnEGNA=="
 ---

@@ -61,22 +61,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
-    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
-    publishedDateTime: 2021-12-10T19:56:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 79
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
     excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
     publishedDateTime: 2021-12-13T08:15:00Z
@@ -208,6 +192,17 @@ related:
         width: 540
         height: 420
         isCached: true
+  - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
+    excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
+    publishedDateTime: 2021-12-15T12:03:00Z
+    webUrl: "https://interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
+    ampWebUrl: "https://amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
   - title: "Trucks catch up in self-driving vehicle race"
     excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
     publishedDateTime: 2021-12-11T16:00:00Z

@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "MLCommons Makes 2 Large Speech Datasets Freely Available"
+    excerpt: "To advance speech technology, the MLCommons Association has made MSWC and People’s Speech Dataset available to develop ML models"
+    publishedDateTime: 2021-12-15T11:58:00Z
+    webUrl: "https://analyticsindiamag.com/mlcommons-makes-2-large-speech-datasets-freely-available/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/1639507057983.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "0hSa0CFD+ZY0ECIV0JhlTwRMhW6ol8Lg5xJSpUrkS68H/zjF7vDEyVKLuTHD1auNpd5rkxyOplHgEXwHGkTuf2F1H1tjFyA/r6So071jH8K3FDqeH1k7PA+zexEznjFuNlR1E7KT0JA9kOMXGn9TQ6YJW/NgQkAPH0chnTO2VtLblezm9YZQqlrpu0auzRLxSb/wqteSKHV7CtYBu0RjqpzYYdHMo0TrNZriUAXArNP/ZZ1Kz61dBovWI7SrnAWHNcmK/5wiOyT50pmgJshf63ARmIp83ArQHOxLvCFDEHaX8Ly2VabLyvM3OZP128DzmO0d4cvkXWamPh6deW8F//7rwZaIJqeM0YKF2xpTU0s=;PZ2aLRfm2qOb44ry7kEUwQ=="
 ---

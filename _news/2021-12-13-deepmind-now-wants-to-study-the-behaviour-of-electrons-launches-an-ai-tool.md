@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/deepmind-now-wants-to-study-the-beha
 webUrl: "https://analyticsindiamag.com/deepmind-now-wants-to-study-the-behaviour-of-electrons-launches-an-ai-tool/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
-    excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
-    publishedDateTime: 2021-12-10T20:21:00Z
-    webUrl: "https://futurism.com/deepmind-ai-reading-comprehension"
-    ampWebUrl: "https://futurism.com/deepmind-ai-reading-comprehension/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
-    images:
-      - url: "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "DeepMind AI Tackles Valuable Chemistry Technique"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
     publishedDateTime: 2021-12-11T06:00:00Z

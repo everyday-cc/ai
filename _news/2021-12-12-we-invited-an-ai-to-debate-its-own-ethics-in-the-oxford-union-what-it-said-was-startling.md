@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
 webUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/167478-qfytmltrpc-1639390280.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
+    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
+    publishedDateTime: 2021-12-12T16:28:00Z
+    webUrl: "https://www.nextgov.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
+        width: 1812
+        height: 1356
         isCached: true
 
 secured: "u/WLEx4z2Ne1ToiVvqu2gX7LmtCdOjHLokWnMyFW0zp4FPGzttYqKmhRnR2sHsOkkslYupLpZr9cFh80sfAK6AeHcZdUi+/jmdcqTaYAx33d9kA9lExNs+fPNmGziOMNdyN7tHw2rxiKRPHjqd6LTAmtg/KllaGjd8C2V8x4FKmLg/9QHWXjCAmU1zxdCsrIgf7rDOx52t7TmqHn6HmKaP4LpLzQSjaiZIcmpYJ85v9stsL2DYzY8vBZOxMq94G5chTITFoZ9dh2p41MDvjSAUF2FMC3YuHYYeqYuwSESWK/0/lhP7Gvw3WGVzuJRxrL3a7zJCSGgnJRbqOBQY+ITs0MJAtDq+ZLaEbuBV5Egm3ZDfLStJguERLUynkCoRN/NYIs0RcPtK79XXLRy7Ltmekyu2OJzRWzMmLGPxMsm6tQqxmN9h1ZwobFXKpIPhkDS8KWZVlxIVtAXnZlfbiYyZSJQdEwZlVoz60Evitib1IPDEBOmyLNR10lbvZ0n+5f5ETZuzK51X+S5m2yQKEQig==;WyqnPoaGCR1YwSbTwL9fgw=="

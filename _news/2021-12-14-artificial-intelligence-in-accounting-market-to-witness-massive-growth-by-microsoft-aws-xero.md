@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
-    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
-    publishedDateTime: 2021-12-10T20:05:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+  - title: "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc"
+    excerpt: "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players"
+    publishedDateTime: 2021-12-14T09:31:00Z
+    webUrl: "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
+    ampWebUrl: "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 89
+      name: openpr.com
+      domain: openpr.com
+    quality: 81
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.openpr.com/U/c/Uc14789977_g.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
     excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
@@ -59,20 +59,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft grabs Nuance as latest healthcare bet"
-    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
-    publishedDateTime: 2021-12-14T06:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 56
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
-        width: 884
-        height: 543
-        isCached: true
   - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
     excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
     publishedDateTime: 2021-12-13T10:11:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AI in Fashion Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
+    excerpt: "Advance Market Analytics published a new research publication on “AI in Fashion Market Insights, to 2026” with 232 pages and enriched with"
+    publishedDateTime: 2021-12-14T10:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fashion-market-may-set-a-new-epic-growth-story-microsoft-ibm-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "RhwHb6PRA0fm57DdNA+Cp3kl/xjt17mDqTmdvQOvn/6oFkFB2PK8b6UzzVQSP5LYgovYOp/DVkbXgXzmkWVWifEkMsZGtwGbulmIrgXwRBc6Vd1ZR9vX2HwJTxcF1LOnxZIMVX16Vq3Rhzx/P3q7398fLIwB1k9Uc9L5/Sla8SNeBY4zaiJQAIljLMXN2x6FTPABhQJ7zBVeHTSmtp1Y4rgptsU7s94a3nmwlsDJn28Hgf6jRUvcKcMeCvGD0JU6g1D+bi61gGFJER7ukDaOMbkDr+hbIDIWbp5Kce5ZG9/qHUGgXyVs8G1kt761ERys/44UIK9i/vknTDECGEdtnq6wXJwh4K2aWqknJQ518jw=;LCF8Fpi1XwAtquFijFVs3A=="
