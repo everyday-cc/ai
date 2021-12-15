@@ -84,20 +84,6 @@ related:
         width: 1120
         height: 720
         isCached: true
-  - title: "Microsoft announces new partnerships and capabilities for Azure Space"
-    excerpt: "Microsoft has announced new capabilities and partnerships for Azure Space, the company’s cloud computing platform that connects satellites and services across industries."
-    publishedDateTime: 2021-12-10T13:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-capabilities-azure-space"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/12/microsoft-partnerships-capabilities-azure-space.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
     publishedDateTime: 2021-12-10T19:02:00Z

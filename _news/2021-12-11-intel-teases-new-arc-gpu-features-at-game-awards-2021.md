@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show"
-    excerpt: "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,"
-    publishedDateTime: 2021-12-10T15:03:00Z
-    webUrl: "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer"
+  - title: "Leak Compares Alleged Flagship Intel Arc GPU Die Size To NVIDIA Ampere, How It Stacks Up"
+    excerpt: "Die area comparisons can be illuminating, and in this case, they corroborate earlier leaks regarding Intel's upcoming discrete Arc GPUs."
+    publishedDateTime: 2021-12-13T19:36:00Z
+    webUrl: "https://hothardware.com/news/alleged-flagship-intel-arc-gpu-die-size"
+    ampWebUrl: "https://amp.hothardware.com/news/alleged-flagship-intel-arc-gpu-die-size"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/alleged-flagship-intel-arc-gpu-die-size"
     type: article
     provider:
       name: HotHardware
       domain: hothardware.com
-    quality: 67
+    quality: 50
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57017/content/small_intel_arc_alchemist_setup.jpg"
+      - url: "https://images.hothardware.com/contentimages/newsitem/57043/content/small_intel-arc-alchemist-card.jpg"
         width: 708
-        height: 398
+        height: 340
         isCached: true
 
 secured: "VR7yzq9wH8x0WSrMeHKERIS9IxPoJA8R1fDmc+V+o9cFLfhKOQ2nWNc1DV/euP6mEEIGNPkR8Gwob5PD5pnuAT8NO/NnfUWf/uzCaaIC0yA6jG9+Y2Yczkm3+Vh/UZKNoJ7Yhg2OXFgmLyHTEl3CMsKEeUXFQAi4kTrEpkH/p28VOG6PAMOW6v2pB6U3cg86mo5FVpx1LNIrQzYAKKBU6F18X/KxROMekHg26WEw3lPOZ/gC37o0SPd4WE+uwNwMmtV/Bfd9MAnLOitd3TCaWIzQO9+o9tzEdEl475toOd6tU0qO3qXIRYHLR6uOedU55WdLMrW1EyYluUoFkzRR4WuiLyjXziigccdL9wTyzZOA94VctPQr5Vki2jqZ98Gix2dvGnDtT7rWpz15VNokGIab/Rkysl4byHj99u9ipnsX91HMeY1q9VXhE4Bqx9uVm5EkSPfqOOjd+mnBlgAh+d8d31KhqoyJYiE7ySNYXTq16KK1ImvZT9vNqG+gPRM65l/r57WJoxmZkyUPBnbuyQ==;BEr1q+sjk/QyxCrYQ+Qfrw=="

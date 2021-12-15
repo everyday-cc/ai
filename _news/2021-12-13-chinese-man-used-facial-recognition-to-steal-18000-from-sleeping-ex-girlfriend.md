@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
-    excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
-    publishedDateTime: 2021-12-10T13:06:00Z
-    webUrl: "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216"
+  - title: "Man steals $23K using ex’s phone through facial recognition while she slept: report"
+    excerpt: "According to police, Huang transferred the equivalent of $23,500 out of his ex-girlfriend’s cash and line-of-credit accounts."
+    publishedDateTime: 2021-12-13T12:52:00Z
+    webUrl: "https://nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/"
+    ampWebUrl: "https://nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: New York Post
+      domain: nypost.com
+    quality: 53
     images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/newspress-collage-20467292-1639403383269.png?w=1024"
+        width: 1023
+        height: 682
         isCached: true
-  - title: "US Treasury sanctions Chinese face recognition company for rights violations in Xinjiang"
-    excerpt: "On Friday, World Human Rights Day, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) designate"
-    publishedDateTime: 2021-12-11T09:41:00Z
-    webUrl: "https://menafn.com/1103342225/US-Treasury-sanctions-Chinese-face-recognition-company-for-rights-violations-in-Xinjiang"
+  - title: "Man Pulls Up Sleeping Ex-Girlfriend's Eyelids, Steals $23K From Her Phone Using Facial Recognition"
+    excerpt: "A man in China has been jailed for stealing around $23,500 from his ex-girlfriend by pulling up her eyelids and using the facial recognition feature of the banking app to access her accounts while she was asleep."
+    publishedDateTime: 2021-12-14T10:40:00Z
+    webUrl: "https://www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107"
+    ampWebUrl: "https://www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107?amp=1"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?92631"
-        width: 374
-        height: 250
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/woman-gd1f09615c640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "+MyWBjwN6RWVGucAHnkj4Z2UDUEFqFbOghBq68RPlP6YNeTG7U65JkuGoYj1dZgO9JdhxA4KnLXia3ok116nBTexA4IxHfyUdsTS4NZp1vA30pUFbzWh5jmxbmGffDf/WXi/+w9fk//wdoJC+pRIeuHe25nmkUNoHTgkwlfa7gYWK1CV/iEDjp2zJSoq92k+Fy2QihUR544TFfGwj+5Vyn9r0KxX6ZXpkahAzQNMVZuN/XMHMdIdBGX4CKI01CxU7Wic/pnspqQEklxlkeSPvb5KEyIAcbWqJfRkzVbYCnOwunftgeH88bAFYlVdQ7fs3eDEOQTcLBtCcVbRGvkDehCybjTpYCijiZIVu4dhuUk=;Ow/vy0XKZLIf4XGJQtSS4w=="

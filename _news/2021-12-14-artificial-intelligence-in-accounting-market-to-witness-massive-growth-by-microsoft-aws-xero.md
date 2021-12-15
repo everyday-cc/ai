@@ -43,17 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek"
-    excerpt: "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of."
-    publishedDateTime: 2021-12-10T13:13:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
   - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
     excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
     publishedDateTime: 2021-12-13T10:11:00Z

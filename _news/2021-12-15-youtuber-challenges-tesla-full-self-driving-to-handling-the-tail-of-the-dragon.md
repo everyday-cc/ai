@@ -1,0 +1,238 @@
+---
+category: news
+title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
+excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
+publishedDateTime: 2021-12-15T03:52:00Z
+originalUrl: "https://www.autoevolution.com/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560.html"
+webUrl: "https://www.autoevolution.com/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560.html"
+type: article
+quality: 65
+heat: -1
+published: false
+
+provider:
+  name: autoevolution.com
+  domain: autoevolution.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://s1.cdn.autoevolution.com/images/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560_1.jpg"
+    width: 2389
+    height: 1331
+    isCached: true
+
+related:
+  - title: "Why Are Tesla’s Self Driving Software Sales Slowing Down?"
+    excerpt: "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars."
+    publishedDateTime: 2021-12-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Mercedes Beats Tesla to Hands-Free Driving"
+    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
+    publishedDateTime: 2021-12-11T02:45:00Z
+    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
+    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
+    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
+    publishedDateTime: 2021-12-10T19:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 79
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
+    excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
+    publishedDateTime: 2021-12-13T08:15:00Z
+    webUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/12/Tesla-HERO-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Tesla's Self Driving Beta Software Shows Humans How To Drive This Dangerous Road"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its self driving software, dubbed FSD Beta, for over a year now with a small set of public volunteer testers. Recently,"
+    publishedDateTime: 2021-12-14T19:46:00Z
+    webUrl: "https://www.benzinga.com/tech/21/12/24600482/teslas-self-driving-beta-software-shows-humans-how-to-drive-this-dangerous-road"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24600482"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24600482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model3_02_7.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
+    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
+    publishedDateTime: 2021-12-13T14:04:00Z
+    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 54
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
+  - title: "Tesla self-drove into barrier, report claims"
+    excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
+    publishedDateTime: 2021-12-13T05:00:00Z
+    webUrl: "https://www.autonews.com/manufacturing/tesla-self-drove-barrier-new-york-times-report-claims"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLAVIDEO-MAIN_i.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
+    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
+    publishedDateTime: 2021-12-11T15:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
+    excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
+    publishedDateTime: 2021-12-11T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/12/11/tesla-mercedes-recall-touch-screen-video-gaming-driving/6476758001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6476758001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6476758001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/0328bf59e8b67856ba597e7cd83ab33a26761265/c=0-140-3978-2387/local/-/media/2017/07/18/USATODAY/USATODAY/636359798759324563-Daimler.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-10T18:39:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/12/10/gaming-while-driving-tesla-allows-it-mercedes-benz-does-recall/"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
+    publishedDateTime: 2021-12-10T18:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T17:51:00Z
+    webUrl: "https://www.kansas.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
+  - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
+    excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
+    publishedDateTime: 2021-12-11T09:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-car-market-next-big-thing-major-giants-toyota-sutar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 32
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVG4bCGPTTGw/article-cover_image-shrink_720_1280/0/1639215105558?e=1644451200&v=beta&t=zR0p2DGL0tPnfA0bHNHIV-MPdfbnyHZUai6zCmEaytY"
+        width: 1084
+        height: 720
+        isCached: true
+  - title: "Trucks catch up in self-driving vehicle race"
+    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
+    publishedDateTime: 2021-12-11T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "f0KUb0EZAIbkpn2GZMj6Pp+Ji6a3g/Nic6PV6Z1857KGI45dYU7FNkJmQ71+Xlz0Q+SMux9jX0GJQ7L5Ly/jdQkMGAUYsGY+GcmjJM3S1fQfAB/LyGpejwawD48SxXvmVJ89KPuaLtqCpCNcF0AM9Lc32FVm/R+h4KCsv2bmX9UU2afKMDWWlejkHLzkRe6p3fLSkKRi8fQhhHBObXBNyXCdP9l/Hv0+n5hgZpr+ihiY9M2yPwCcqnmW1eJYUab8DPiOPe+V79H3B25WCyJ49HWqMUIUla/KJfo9GPB+DJtGhPrsP9rsZMqzKS616mzeed2V+B3V3HE9GfChsFjKfT+/nC5964OeNoDlhsqNJg0=;cRCQw9/+v48POEvW4QVk1g=="
+---
+

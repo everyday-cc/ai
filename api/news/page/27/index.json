@@ -2,6 +2,203 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
+      "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
+      "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+      "originalUrl": "https://www.msn.com/en-us/finance/technologyinvesting/target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know/ar-AAR2gQ4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6196f7a3432ef900197cd4cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+        "domain": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-1-disruptive-ai-stock-to-put-on-your-watchlist.md",
+      "title": "1 Disruptive AI Stock To Put on Your Watchlist",
+      "excerpt": "Docebo is bringing AI and modern technology to the learning management system (LMS) space, allowing businesses to quickly develop pieces of training. Creating training can be extremely time-consuming and difficult to develop and the results can be dull and boring for a subset of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F654221%2Fai-artificial-intelligence-training.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "publishedDateTime": "2021-11-23T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-clearview-ai-does-well-in-another-round-of-facial-recognition-accuracy-tests.md",
+      "title": "Clearview AI does well in another round of facial recognition accuracy tests.",
+      "excerpt": "This time, a federal agency assessed the ability to pick the right person out of millions of photos. Clearview’s app still faces legal hurdles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/23/multimedia/23clearview-photo/23clearview-photo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html",
+      "publishedDateTime": "2021-11-23T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding.md",
+      "title": "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding",
+      "excerpt": "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
+      "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
+      "publishedDateTime": "2021-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
       "title": "Robots for the win during ecommerce holiday crunch",
       "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",
@@ -929,187 +1126,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-fda-joins-other-regulators-in-focus-on-ai-and-machine-learning.md",
-      "title": "FDA Joins Other Regulators in Focus on AI and Machine Learning",
-      "excerpt": "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
-      "originalUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
-      "publishedDateTime": "2021-11-22T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-amazon-web-services-aws-a-cheat-sheet.md",
-      "title": "Amazon Web Services (AWS): A cheat sheet",
-      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-web-services-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-web-services-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-web-services-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-web-services-the-smart-persons-guide/",
-      "publishedDateTime": "2021-11-22T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-why-enterprises-should-build-ai-infrastructure-first.md",
-      "title": "Why enterprises should build AI infrastructure first",
-      "excerpt": "Looking forward, it’s clear that AI infrastructure will be more than just a competitive advantage, but an operational necessity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/11/infrastructure.jpg?w=1200&strip=all",
-          "width": 558,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
-      "publishedDateTime": "2021-11-22T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
-      "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
-      "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

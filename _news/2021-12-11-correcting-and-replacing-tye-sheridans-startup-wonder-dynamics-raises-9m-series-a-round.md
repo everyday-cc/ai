@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20151916.html"
 webUrl: "https://www.lelezard.com/en/news-20151916.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
-    excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic, that aims to lower the cost and level the playing field for visual effects, raised $9"
-    publishedDateTime: 2021-12-10T14:00:00Z
-    webUrl: "https://deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/"
-    ampWebUrl: "https://deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 42
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2021/12/Nikola-Todorovic-Tye-Sheridan-2.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
     excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic that aims to lower the cost and level the playing field for visual effects, raised $9 million in a Series A funding round that included Epic Games and Samsung as investors."
     publishedDateTime: 2021-12-10T16:02:00Z

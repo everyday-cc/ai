@@ -2,6 +2,185 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
+      "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
+      "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html",
+      "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
+      "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
+      "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "originalUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/dd2dba0/2147483647/strip/true/crop/1620x1080+597+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F76%2F52fc0bd94744bc076553e9b6fa34%2Fhonda-evtol.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/honda-future-focus-evtol-telepresence-robot-space/?amp=true",
+      "publishedDateTime": "2021-09-30T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-brief-exscientia-announces-pricing-of-3047-million-upsized-initial-public-offering-and-1600-million-concurrent-private-placements.md",
+      "title": "BRIEF-Exscientia Announces Pricing Of $304.7 Million Upsized Initial Public Offering And $160.0 Million Concurrent Private Placements",
+      "excerpt": "Sept 30 (Reuters) - Exscientia PLC: * EXSCIENTIA ANNOUNCES PRICING OF $304.7 ... ITS UPSIZED INITIAL PUBLIC OFFERING OF 13,850,000 ADSS REPRESENTING 13,850,000 ORDINARY SHARES AT AN IPO PRICE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/brief-exscientia-announces-pricing-of-3047-million-upsized-initial-public-offering-and-1600-million-concurrent-private-placements/ar-AAP13Ws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo",
+        "domain": "thepharmaletter.com/article/exscientia-prices-304-7-million-upsized-ipo",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid.md",
+      "title": "Qlik acquires Big Squid",
+      "excerpt": "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/strategy/qlik-acquires-big-squid.html",
+      "originalUrl": "https://itwire.com/strategy/qlik-acquires-big-squid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg",
+          "width": 375,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-choose-chicago-introduces-ai-tool-named-after-beloved-attraction.md",
       "title": "Choose Chicago Introduces AI Tool Named After Beloved Attraction",
       "excerpt": "The Bean has also become the name of a new online system to help users learn more about what to do in the Windy City.",
@@ -999,195 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed.md",
-      "title": "Yes, robots are coming for your job, but you might like the new one more (if you're still employed)",
-      "excerpt": "For decades, a speculated wave of job-stealing technologies has stirred debate about the role of humans in the labor force alongside automation and AI adds a new wrinkle to the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "originalUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/30/7a07b8cb-59d6-437e-8545-6e201f357d11/resize/1200x/4118c23f5db2dbd1621784b3792dbad2/gettyimages-gremlin.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "publishedDateTime": "2021-09-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030.md",
-      "title": "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030",
-      "excerpt": "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "originalUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "publishedDateTime": "2021-09-30T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amazon-amzn-bolsters-aws-portfolio-with-new-managed-service.md",
-      "title": "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service",
-      "excerpt": "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

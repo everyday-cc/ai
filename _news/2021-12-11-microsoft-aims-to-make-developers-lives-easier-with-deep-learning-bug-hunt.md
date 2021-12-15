@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek"
-    excerpt: "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of."
-    publishedDateTime: 2021-12-10T13:13:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
   - title: "Artificial Intelligence in Accounting Market to Witness Massive Growth by Microsoft, AWS, Xero"
     excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Accounting Market Insights, to 2026” with 232"
     publishedDateTime: 2021-12-14T10:44:00Z

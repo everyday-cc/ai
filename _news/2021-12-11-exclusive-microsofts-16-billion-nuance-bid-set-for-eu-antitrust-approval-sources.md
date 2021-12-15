@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 233
+heat: 223
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHusGPlRHcrrQ/article-cover_image-shrink_720_1280/0/1639146122835?e=1644451200&v=beta&t=_xowkWg9sPAcqdMvYfiK5iT_D5h0EMfuNH7p90Px8rQ"
         width: 1120
         height: 720
-        isCached: true
-  - title: "Microsoft announces new partnerships and capabilities for Azure Space"
-    excerpt: "Microsoft has announced new capabilities and partnerships for Azure Space, the company’s cloud computing platform that connects satellites and services across industries."
-    publishedDateTime: 2021-12-10T13:04:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-capabilities-azure-space"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/12/microsoft-partnerships-capabilities-azure-space.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "AI in Fashion Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
     excerpt: "Advance Market Analytics published a new research publication on “AI in Fashion Market Insights, to 2026” with 232 pages and enriched with"

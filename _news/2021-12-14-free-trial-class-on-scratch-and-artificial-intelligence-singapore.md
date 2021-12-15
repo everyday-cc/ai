@@ -23,6 +23,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Female Conversations Online in Singapore: What is She Talking About?"
+    excerpt: "What is She Talking About? - GitHub - lukachua/female-conversations-sg: Female Conversations Online in Singapore: What is She Talking About?"
+    publishedDateTime: 2021-12-15T04:41:00Z
+    webUrl: "https://github.com/lukachua/female-conversations-sg"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 24
+    images:
+      - url: "https://opengraph.githubassets.com/6753c00322a81eb273bff2b7ae917108b966763f1e0b19b15276439f1e9a10cf/lukachua/female-conversations-sg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "aHyRnLCEk/lpaLl5Rp2ELJvGWk0uHqHCgFTm1+lVLzFKKpdJvhIpR6SKFzfcs9pKR5unVtJDaX/HmJ9s+PYJFDAvasPn2G3NMk8P9Xjs2IXXdcI1XG/Kwn6ly0R/o0jXk0EDW5l6b7r3levlhJ1jPHb01D5kfW6WEMbDh8OWnLUyJSCMKv+zK4A5rH/oAKSgOoWzUnSbGNungkK0sJGJEEhmGOLae1vLuC5aFbRaHq6yKL4ZBK+icMzkfO+mPA6a1OvBqE9SgQNrqsDEwaiMUBTthSlycwESkhC5fziDo/bmVNB8J5QpXu/P4n/D4GWcQmPpZFgoitfMBAeTe2bh/ci29AJL34n6I7Zw6wCIsfI=;dBRKtOPP2f/FMXCod2kHTw=="
 ---
 

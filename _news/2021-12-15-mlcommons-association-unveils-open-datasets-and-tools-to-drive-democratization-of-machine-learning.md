@@ -3,8 +3,8 @@ category: news
 title: "MLCommons™ Association Unveils Open Datasets and Tools to Drive Democratization of Machine Learning"
 excerpt: "The MLCommons Association, an open engineering consortium dedicated to improving machine learning for everyone, today announced the general availability of the People’s Speech Dataset and the Multilingual Spoken Words Corpus (MSWC)."
 publishedDateTime: 2021-12-14T18:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-engineering-0260d4cc951788d865bdfc7dda966294"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-engineering-0260d4cc951788d865bdfc7dda966294"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-engineering-0260d4cc951788d865bdfc7dda966294"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-engineering-0260d4cc951788d865bdfc7dda966294"
 type: article
 quality: 40
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "pLXiSjuaumAyheNjX8l8cf28oU1gFHly+yn6dzI9f/N+V1daE+u9Iz6bQ+eeUnpXqpzjT0VbyMavarhqkOJ6qHR5wR6cEAni8WXLfQwIsZUbJc4atkq7KA9MiCpJbuolew0hYvlTegBFAG/64vOhP7SACiBNKDFbLAVBcgoW5IQq3Yu5EvCIT/hQumIxqevLrFbrrU8BkJ2TVALMKxxjKik4UZYUcKf4YJJReEUEBOlW4qeHoWtKw4haIOZ6JDXcVV/giSNNqemR7bEuUZgbcQv0Pbwdpgah0SHvWClUDsRDKH7hK1RiECjnZF9EqlzQz+vGBxwAQ1zcN6D4ji69SDI4OqldqOK4ODhppmWEg3Y=;e1nWQ38bjQwDsALI+k0nOA=="
+secured: "0hSa0CFD+ZY0ECIV0JhlTwRMhW6ol8Lg5xJSpUrkS68H/zjF7vDEyVKLuTHD1auNpd5rkxyOplHgEXwHGkTuf2F1H1tjFyA/r6So071jH8K3FDqeH1k7PA+zexEznjFuNlR1E7KT0JA9kOMXGn9TQ6YJW/NgQkAPH0chnTO2VtLblezm9YZQqlrpu0auzRLxSb/wqteSKHV7CtYBu0RjqpzYYdHMo0TrNZriUAXArNP/ZZ1Kz61dBovWI7SrnAWHNcmK/5wiOyT50pmgJshf63ARmIp83ArQHOxLvCFDEHaX8Ly2VabLyvM3OZP128DzmO0d4cvkXWamPh6deW8F//7rwZaIJqeM0YKF2xpTU0s=;PZ2aLRfm2qOb44ry7kEUwQ=="
 ---
 

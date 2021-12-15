@@ -2,6 +2,178 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-08-no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper.md",
+      "title": "No animals harmed in new chip drug tests that are faster and cheaper",
+      "excerpt": "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "originalUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
+      "title": "How AI powered banking is impacting revenue",
+      "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "originalUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
+      "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
+      "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "originalUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/12/4-1638947408.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "publishedDateTime": "2021-12-07T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
+      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
+      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "publishedDateTime": "2021-12-07T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-nec-facial-recognition-can-check-for-vaccination.md",
       "title": "NEC: Facial recognition can check for vaccination",
       "excerpt": "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status.",
@@ -584,49 +756,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "publishedDateTime": "2021-12-07T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-identity-verification-startup-incode-raises-220m.md",
       "title": "Identity verification startup Incode raises $220M",
       "excerpt": "Incode, a company developing an AI-powered identity verification product, has raised $220 million in venture capital.",
@@ -725,6 +854,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
+      "title": "A system for designing and training intelligent soft robots",
+      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have designed “Evolution Gym,” a large-scale testing system for co-optimizing the design and control of soft robots,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
+      "originalUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202112/Evolution-Gym-CSAIL.jpg",
+          "width": 950,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1017,203 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations.md",
-      "title": "AI-powered customer engagement platform MoEngage raises $30M to grow operations",
-      "excerpt": "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "publishedDateTime": "2021-12-07T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
-      "title": "We love technology, until it starts loving us back.",
-      "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "originalUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEv42_PJI7xVg/article-cover_image-shrink_720_1280/0/1638885502860?e=1645056000&v=beta&t=mkCaj3AXTLeEVnl3BWlo4Du6y_3PzeWTv5tz1WqkvsY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-mid-2022.md",
-      "title": "Intel plans to take self-driving car unit public in the U.S. in mid-2022",
-      "excerpt": "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "publishedDateTime": "2021-12-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites.md",
-      "title": "Bookmark Introduces AiDA: An Artificial Intelligence Design Assistant for Websites",
-      "excerpt": "Bookmark ( bookmark.com) is the world’s first and fastest Ai-powered website builder. By building revolutionary artificial intelligence algorithms over the past six years, their proprietary technology AiDA (Artificial Intelligence Design Assistant) is now available for anyone who needs a website or online store.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "originalUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/12/44.jpg",
-          "width": 1799,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "publishedDateTime": "2021-12-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

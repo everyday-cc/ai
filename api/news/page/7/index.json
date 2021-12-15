@@ -2,6 +2,196 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-09-hospitality-facial-recognition-tools.md",
+      "title": "Hospitality Facial Recognition Tools",
+      "excerpt": "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "originalUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg",
+          "width": 622,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/zoox-pass",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass",
+      "publishedDateTime": "2021-12-08T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-the-opportunity-for-ai-in-healthcare.md",
+      "title": "The opportunity for AI in Healthcare",
+      "excerpt": "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
+      "originalUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDKOYsCMB7gg/article-cover_image-shrink_720_1280/0/1638980123840?e=1644451200&v=beta&t=s9NKpDgy5Ym2j712LfpDyOdkavQOuNExrXAO_e176EI",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
+      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
+      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "publishedDateTime": "2021-12-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard.md",
+      "title": "Zuckerberg And Chan Pledge $500 Million Of Their Facebook Fortune To Create An AI Institute At Harvard",
+      "excerpt": "Zuckerberg and Chan, who met at a Harvard fraternity party in 2003, have already given $42 million to Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "originalUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0e1baf0550134f0c07bcd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "publishedDateTime": "2021-12-08T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
       "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
       "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
@@ -944,178 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper.md",
-      "title": "No animals harmed in new chip drug tests that are faster and cheaper",
-      "excerpt": "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
-      "originalUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Israel21c",
-        "domain": "israel21c.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
-      "title": "How AI powered banking is impacting revenue",
-      "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
-      "originalUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Insight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
-      "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
-      "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "originalUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/12/4-1638947408.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "publishedDateTime": "2021-12-07T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
-      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
-      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
-      "publishedDateTime": "2021-12-07T21:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

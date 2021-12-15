@@ -105,6 +105,20 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
+    excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
+    publishedDateTime: 2021-12-15T03:52:00Z
+    webUrl: "https://www.autoevolution.com/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 65
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560_1.jpg"
+        width: 2389
+        height: 1331
+        isCached: true
   - title: "Tesla self-drove into barrier, report claims"
     excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
     publishedDateTime: 2021-12-13T05:00:00Z

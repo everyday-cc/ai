@@ -43,6 +43,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "AI debates own ethics at Oxford Union"
+    excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
+    publishedDateTime: 2021-12-11T07:00:00Z
+    webUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union"
+    ampWebUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
+        width: 620
+        height: 388
+        isCached: true
   - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
     excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
     publishedDateTime: 2021-12-14T07:19:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg"
         width: 823
         height: 549
+        isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
         isCached: true
 
 secured: "6EujaTC/Ft6DALUgG647EoDtTv9+SmwYjGmMn/VpgCOUWaM+ptFIHyP3tvB4lhJLWoUtB56kL8gkvR0ZA3lYom5PNsX/hdQWOEUJDH1eRsO1imrI3iY6kNANAmT7gKbgAxEbqtDuIv3Rc5cYsE58Iu9mpyMeqjjRO0RQe4umVdyM6x9EoUIgq9pbBfWs0fjtnZ7j9VfQm+caqAoj6kbwZyAckTXO8jUNKC9/7qNB5LYX9pHjgAsNqct8gxm7h/kFt1aDSeLmh2cB/GO/9ae7gP924bNgI77diq7Ol6Qw5yK1ZrQO9OmMgq1Kv7DbdqzPM5KaNZLeX7fWgIuyULFEu7aSt9ZCccd6LjpaGP2SelS0pDQb76MPMLkqH1MwM1T8iNni9bWIwEUpsULQPFE87rAx4PuWk1mHhMcsqn4P3oVSgTUccyEC5ezhHClUXgXScE7RCmAdgB/qS7m8lbb3OS9ZsaJyu1a9LjN0ReVOiphzVk6ACiimUSuDvNoRLMh9b8w1ekQTmKTuyXf72+p7hQ==;z25nukD+nEB3cHazwCfVdA=="
