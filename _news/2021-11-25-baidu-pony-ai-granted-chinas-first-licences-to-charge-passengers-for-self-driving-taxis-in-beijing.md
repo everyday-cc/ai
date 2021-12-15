@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing"
-excerpt: "The two companies can now charge fees for their so-called robotaxis in a designated area of the capital covering 60 sq kmThe taxis will have a human ‘security officer’ behind the wheel, ready to inter"
-publishedDateTime: 2021-11-25T08:02:00Z
-originalUrl: "https://www.thestar.com.my/news/regional/2021/11/25/baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing"
-webUrl: "https://www.thestar.com.my/news/regional/2021/11/25/baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing"
+excerpt: "Pony AI is an autonomous driving technology company founded in late 2016 by James Peng and Lou Tiancheng, formerly two key developers and engineers at Baidu’s self-driving unit. Pony started ..."
+publishedDateTime: 2021-11-25T07:50:00Z
+originalUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+webUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+ampWebUrl: "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381274.jpg"
-    width: 1240
-    height: 697
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Tds/tI451qY+WvgeICDNzgBEqKxxomacwkNnO6NlKsHjVNRiee4o6amlNEGM07LSH5Z7v1Nw+lXVUMZya5mAyoJNi+AyazYVTHvVBgZ+Xwkxa9N++Rwy/xHTiTUK6f+3qtwPMqmHsqYpfZViFnwqSgBjwrQXmCmJm8q9nEgSS82q/cixNXZLc9iwdfEoF2z9496rpjBG8prCPLGH4WTpOcJoPkptc3dgOzmM3+E0Y7T3wrczo18djr0qr+h0dEN3763GI2GkeWNuUg9yQOkJG9TSBPjcxy1mDCCa9EfnoyoyZ6Xs0WLqpA9YhqTZKyo/+Y3xj0Y1xPuLSFfbC3AWeerfbknJHHZ8DsIGw4D3y6PKARpGMFjQ0D2NJf6Zrb3YhE1j3SHg0TYO4G99YaHIVl4V9RSupUELlqJiQKb8cu/T8x3pCC73gbN2YaUuW+57so/eI+5FS0H2pt2nsi4As4eIqem9OIHzL9ChVN76VoQ1EIljpri6btBQ/KEGX1KywLXIt4jm0NADCnvQqbve9w==;GMHOKOxFtRngsvY+t0hl1Q=="
+secured: "LtlzCJ8PNRewR9S+nLeVzMJBOYYpT5VohedB9oUZcVos8o45BsEkg/TsOiigr1I5zoLA74PufOr82TRKOS+EDYREhleG9EOwUvzMz6kIqL/TiGTeWzadQcfBm7dD8uWhhxiMn1H0N/24YLAIGhu/1X+Avu70XYWder24b7lsR97n+SVnzMkoOSVcQz1Vh2Yp4ATKRzv/ogqsjrST3sqTIcf14mZqMvIYDx3XmuQ5w9zbYE8OwVcMUWDEN2oVgZM6bJx4JPe4n80rnvpeVSAzLqXx2gyO3Kcrhw7/7CKK+L0640IJlyulkhIuXYfEnxwoPbeCub+SW9LLirMpQSzFLKKAPxzgiTtNjy805ZKzTcQ=;DUhancqkhH/fZGL6l11YXQ=="
 ---
 

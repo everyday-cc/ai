@@ -118,6 +118,20 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-12-15T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off-delays-ipo/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/fintechs-banks-1.jpg"
+        width: 1050
+        height: 694
+        isCached: true
   - title: "AI Developer SenseTime Pulls Stock Sale Due to U.S. Sanctions"
     excerpt: "The Hong Kong-based company SenseTime protests its inclusion on a U.S. sanctions list for supplying AI software to the Chinese surveillance state."
     publishedDateTime: 2021-12-13T10:22:00Z

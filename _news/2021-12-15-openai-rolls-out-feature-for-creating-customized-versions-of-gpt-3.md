@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-
 webUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-customized-versions-gpt-3/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 859
     height: 478
     isCached: true
+
+related:
+  - title: "OpenAI begins allowing customers to fine-tune GPT-3"
+    excerpt: "OpenAI has launched a new capability that allows users of the OpenAI API to fine-tune GPT-3 models for specific use cases."
+    publishedDateTime: 2021-12-15T00:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/"
+    ampWebUrl: "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1157449117.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "vDzcEdCe828DLN5L8Y8zsiUo+V7w6Ymdf2hCduhHN6oUiZJJ3HcvWUmpWoEKBX09p7bFxqO92Eg6ABwuq6E0tOmcEoK3i8bPbQqkx/N7SoG9gUCQMceTrAiDolzL6g8mzAcDqI7WTIrFd6PAaC9aAXHeHmp4286hHprgF+ja16f+KQuFTluf+kFITZZSQa/MJufUqEZPAcld2W+qv3G/Rpej0MP7Hj/l/bGychgbuwBMRRaZzeLRue5lkOtc2QXMTuZdBjwYuryq3sNEbYyKEXm/ZK74El2HGi7+qCmF19on+QR81xvIvs0g5ReCXNvEy5x3RgYA3RrFEDMXIH4pr315kGNt7tUsFD3OHUHlgWo=;rRW4EfmmmNh58eEgRdNmtg=="
 ---

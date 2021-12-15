@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
-    excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
-    publishedDateTime: 2021-12-10T19:02:00Z
-    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/12/10/forward-edge-ai-gets-funding-from-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
 
 secured: "8k5nZwksHjW9Ey9oHaoRHcFbzsjG7aZnv6B7NFMXMmgPp8e4C2qP8em7gKo8PhuAyLY58ijwZewNYu8otj+biZg6qYEwopj5z/X0qMuKjQCWtiyTJCdesNuYNenWAyb5M/MaqVbXcTU0jsnNqLDQnJG6BRV7jinu0N1V+nqQvTfBInisC5H9WA15hOo+qaYwEeBX7voUhgYzAGr4ZVozXoIizrW/1OeE+5OvRHVkTNoMXMdv6JLwhTiarX05CZPD1Vu6fKmeZqoRGu2Ip4OyW6QT2vlz+FRqCsFM1qauClD5NO5ibimWBz2jY//VA+WkQeH4bUIhn0xVg57gE548PbNqGaaYK3xktvR8tHU8h0M=;acBy9MD9tN4g9sjd8K6qhA=="
 ---

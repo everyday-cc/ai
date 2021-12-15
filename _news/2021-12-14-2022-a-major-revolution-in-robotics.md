@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-rev
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

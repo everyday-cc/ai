@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Evolution of AI: How Enterprises Grow to AI 2.0"
-    excerpt: "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development."
-    publishedDateTime: 2021-12-13T19:38:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "AI and 5G: Evolution in Construction"
     excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
     publishedDateTime: 2021-12-14T06:32:00Z

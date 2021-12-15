@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biometric Onboarding Seen as Must-Have in FinTech Fight Over Identity Theft"
+    excerpt: "The latest in AML/KYC 2. A discussion with Upgrade on leveraging compliance in digital banking 3. Exploring how AML/KYC is evolving growth in digital banking"
+    publishedDateTime: 2021-12-15T09:01:00Z
+    webUrl: "https://www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/"
+    ampWebUrl: "https://www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/AML-KYC-Digital-Fraud-Biometrics-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
     excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
     publishedDateTime: 2021-12-12T09:40:00Z

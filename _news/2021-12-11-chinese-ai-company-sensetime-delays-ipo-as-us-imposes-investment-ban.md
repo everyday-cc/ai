@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-i
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://micdn-13a1c.kxcdn.com/images/hk/content-images/sensetime.jpg"
         width: 800
         height: 444
+        isCached: true
+  - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-12-15T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off-delays-ipo/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/fintechs-banks-1.jpg"
+        width: 1050
+        height: 694
         isCached: true
   - title: "AI startup SenseTime Hong Kong IPO in limbo after US blacklisting"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is considering whether it can proceed with a planned $767 million Hong Kong initial public offering after the US added it to an investment blacklist,"

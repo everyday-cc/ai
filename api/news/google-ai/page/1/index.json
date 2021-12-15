@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-ai-decoded-algorithmic-management-deepminds-language-model-dont-hate-the-player.md",
+      "title": "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
+      "publishedDateTime": "2021-12-15T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
       "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
       "excerpt": "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler.",
@@ -1401,58 +1444,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet.md",
-      "title": "Yes, DeepMind crunches the numbers – but is it really a magic bullet?",
-      "excerpt": "DeepMind’s software has made major advances in the study of protein folding. Photograph: DeepMind/PA Sat 13 Nov 2021 11.00 EST The most interesting development of the week had nothing to do with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_85_1760_1056/master/1760.jpg?width=620&quality=85&auto=format&fit=max&s=44b095b8f14186a19743b0bbff158550",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet",
-      "publishedDateTime": "2021-11-13T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

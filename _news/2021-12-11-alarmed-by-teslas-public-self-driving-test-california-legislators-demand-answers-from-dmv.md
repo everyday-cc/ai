@@ -165,34 +165,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-    publishedDateTime: 2021-12-10T18:39:00Z
-    webUrl: "https://www.clickorlando.com/business/2021/12/10/gaming-while-driving-tesla-allows-it-mercedes-benz-does-recall/"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
-    publishedDateTime: 2021-12-10T18:16:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
     excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
     publishedDateTime: 2021-12-11T17:51:00Z
@@ -204,6 +176,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 39
+  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
+    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
+    publishedDateTime: 2021-12-14T21:52:00Z
+    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
+        width: 540
+        height: 420
+        isCached: true
   - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
     excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
     publishedDateTime: 2021-12-11T09:36:00Z

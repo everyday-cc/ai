@@ -36,20 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Cognitive Media Market Size Projected To Reach USD 3.31 Billion at CAGR of 25.9%, By 2026"
-    excerpt: "USD 0.52 Billion in 2018, Market Growth - CAGR of 25.9%, Market Trends – The advent of AI in workflow automation. NEW YORK, NY, UNITED STATES, December 10, 2021 /EINPresswire.com / -- The development of media industries owing to the rise in demand for consumers and is propelling the market growth."
-    publishedDateTime: 2021-12-10T19:01:00Z
-    webUrl: "https://menafn.com/1103338443/Cognitive-Media-Market-Size-ProjectedTo-Reach-USD-331-Billion-at-CAGR-of-259-By-2026"
+  - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
+    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
+    publishedDateTime: 2021-12-15T09:46:00Z
+    webUrl: "https://www.medgadget.com/2021/12/artificial-intelligence-in-healthcare-market-to-reach-usd-61-59-billion-by-2027-with-cagr-of-43-6-reports-and-data.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/10/EP_afa05image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 11
 
 secured: "cmW7YE+7dyKvu0s5Z8trj0TmS9UUhxFrh7ZS00z+/7dnTon2XL2ZLhlejDPlR6lEkzbg+Qf2i4SUN6qT390z2DJsNWEf6Pf40DWcIiQPmbvNxRm/l/Dwk7hYj7n+jThbGKPFu+9Tf2L5o0Egmaa4IJwkDeh131M1NkdtqWUR0gQxBT2Bvcg6DPwMbtQ+N0dKJM4hSM5A8nHfwN4l/UcVkwFjJLrvjKFhIzOfxmApB6k/iOuTkRX+9eg3A2pRowEC/ny+HloTAqiDfKMIOE95zxovnd2Wdqa9J43dPs+3SCDGHyY31VP45SEIg4a3pLXyKtinnnR0ld3duBgtkINJIwRrsjRP7RJV+eblpWeQ1dA=;vUqwXNJ3CI7MIJ2z9btIow=="
 ---

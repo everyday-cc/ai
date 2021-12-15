@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predi
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

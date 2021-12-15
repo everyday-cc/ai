@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Evolution of AI: How Enterprises Grow to AI 2.0"
-    excerpt: "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development."
-    publishedDateTime: 2021-12-13T19:38:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "AI is not a panacea: The pitfalls of AI"
     excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour By Kamal Das \"Let use AI in this project\" has become a common refrain from managers."
     publishedDateTime: 2021-12-15T03:59:00Z
