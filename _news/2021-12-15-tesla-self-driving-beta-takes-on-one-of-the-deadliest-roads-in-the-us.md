@@ -138,6 +138,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
+    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
+    publishedDateTime: 2021-12-11T15:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
     excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
     publishedDateTime: 2021-12-11T17:12:00Z
@@ -165,6 +181,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 39
+  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
+    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
+    publishedDateTime: 2021-12-14T21:52:00Z
+    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
+        width: 540
+        height: 420
+        isCached: true
   - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
     excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
     publishedDateTime: 2021-12-11T09:36:00Z

@@ -90,19 +90,19 @@
     {
       "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
       "title": "California halts Pony.ai's driverless testing permit after accident",
-      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension.",
+      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
-      "originalUrl": "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/",
+      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
+          "width": 4134,
+          "height": 2757,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,16 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T18:01:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "publishedDateTime": "2021-12-13T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -326,7 +326,7 @@
       "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -924,6 +924,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-artificial-intelligence-chip-market-significant-demand-foreseen-by-2027.md",
+      "title": "Artificial Intelligence Chip Market Significant Demand Foreseen by 2027",
+      "excerpt": "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Chip market by type, application, end use, and region: industry forecast and market potential analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-chip-market-significant-demand-choudhari",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-chip-market-significant-demand-choudhari",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF83vbzQ2-Hsg/article-cover_image-shrink_720_1280/0/1639400662647?e=1645056000&v=beta&t=m5nf5mJfXk_yhWsK90xuldycwuQ5F0gKp61crBwRoCo",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
       "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
       "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
@@ -1087,7 +1139,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1129,57 +1181,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase.md",
-      "title": "Deepfake anyone? AI synthetic media tech enters perilous phase",
-      "excerpt": "\"Do you want to see yourself acting in a movie or on TV?\" said the description for one app on online stores, offering users the chance to create AI-generated synthetic media, also known as deepfakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase-2021-12-13/",
-      "originalUrl": "https://www.reuters.com/technology/deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase-2021-12-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/n9c5Fe8dDxuTnzYE9nHJcZ3KrlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WQPT4K2CBLXNDG62KK2I2U4DE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

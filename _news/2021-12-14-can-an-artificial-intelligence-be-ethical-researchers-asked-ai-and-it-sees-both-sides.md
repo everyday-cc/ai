@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligenc
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI debates own ethics at Oxford Union"
-    excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
-    publishedDateTime: 2021-12-11T07:00:00Z
-    webUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union"
-    ampWebUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
-        width: 620
-        height: 388
-        isCached: true
   - title: "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You"
     excerpt: "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries."
     publishedDateTime: 2021-12-14T07:19:00Z

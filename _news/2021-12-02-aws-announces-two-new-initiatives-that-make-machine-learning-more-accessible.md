@@ -12,10 +12,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -23,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "D59f61TdPPNbsgb8f4yhceHRvZvsLh+3bCOMxnDYPYEDh/rXpdcquhqNLu3Z4YeiqQx6f6KiH9u3iKL5HOXNQrHBa7TNkSYeKmqSY0mVb8hc/V58eddx4OgPIxF4EnFZaOQLhkbx8ZaUn3/jap3m6fzgPlWkrrvED8oWix1Xc368jiRRLDlbf+rNv3tYKkod6jXFI0QioLlEl8r/gn9ESlsv0An/v3wPdcWKmLFadG/Mnlo6pOYHy7RalGvj6sYwOfW603V9gy/woyb+qkvINDSqKRQZmHtt8/NXpWNFoWmLU5UcUKkZXJirlAoJPONkmFCQCQtsuH0Kv49RRdAEl4Y8p6+llBU3ELgGUM2xnBw=;8lkhI4mI0Mxef75+3kRlJw=="
+secured: "SJOoSCbpxBVx28an9GvxFk5upa9BoQraagVrBYzB91YGfgm5Y10FYcYDYFxYR2FNvRUCiiMHOYdcszGZzPjKktvKBUvgVroEnIcIBQ3SqrqKU+8U339dZaEAzzK4Kx7yikVwDITzPDyKxrNu2G1XiU68RLckH7ZqSqw8m3kHhFNjPmYR9PXwasqKpKMEyfhPxq48zcrF1eRCrlQ7pGL0voeIh8eLDrJ9EFBb266y47NsprdCtr5nT0ogBbGlXFVYAZwhY+BnSoPvGJ14o6V8dO2d0UdW2pACQnhyEnzQbqFXX+XOuuESOlYjpL+RMd3oeRnlQ3Cx5UXVbH5WHgile7LDXma6xN12DB+rEaZPzUY=;MD3hx/tPyswjkZlbzNdzjQ=="
 ---
 

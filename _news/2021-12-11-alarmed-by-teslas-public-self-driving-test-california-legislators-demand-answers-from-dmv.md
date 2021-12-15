@@ -27,78 +27,150 @@ images:
     isCached: true
 
 related:
-  - title: "California halts Pony.ai's driverless testing permit after accident"
-    excerpt: "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident - the first time it has issued such a suspension."
-    publishedDateTime: 2021-12-14T02:01:00Z
-    webUrl: "https://www.reuters.com/markets/commodities/california-halts-ponyais-driverless-testing-permit-after-accident-2021-12-14/"
+  - title: "Why Are Tesla’s Self Driving Software Sales Slowing Down?"
+    excerpt: "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars."
+    publishedDateTime: 2021-12-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 184
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://www.reuters.com/resizer/r_x21uLdpvse9PX1M4qd8KVOXHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GPKLIQST6JLZZGJ4RPQPJTJKVM.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 798
         isCached: true
-  - title: "California suspends Pony.ai driverless test permit after crash"
-    excerpt: "Pony.ai, a Chinese autonomous driving startup with an office in the U.S., has paused its driverless pilot fleet in California six months after it was approved by local regulators to test autonomous vehicles without a human safety driver."
-    publishedDateTime: 2021-12-14T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/"
-    ampWebUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
+  - title: "Why Are Tesla's Self Driving Software Sales Slowing Down?"
+    excerpt: "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ..."
+    publishedDateTime: 2021-12-15T10:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
+  - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
+    excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
+    publishedDateTime: 2021-12-13T08:15:00Z
+    webUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
-        width: 1023
-        height: 536
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/12/Tesla-HERO-1-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Pony.ai's driverless testing permit halted by Calif. after accident"
-    excerpt: "Accidents during driverless testing are not uncommon. It was unclear what aspect of this incident prompted the suspension."
-    publishedDateTime: 2021-12-14T12:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ponyais-driverless-testing-permit-halted-calif-after-accident"
+  - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
+    excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
+    publishedDateTime: 2021-12-15T15:05:00Z
+    webUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141"
+    ampWebUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla's Self Driving Beta Software Shows Humans How To Drive This Dangerous Road"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its self driving software, dubbed FSD Beta, for over a year now with a small set of public volunteer testers. Recently,"
+    publishedDateTime: 2021-12-14T19:46:00Z
+    webUrl: "https://www.benzinga.com/tech/21/12/24600482/teslas-self-driving-beta-software-shows-humans-how-to-drive-this-dangerous-road"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24600482"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24600482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/model3_02_7.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
+    excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
+    publishedDateTime: 2021-12-15T03:52:00Z
+    webUrl: "https://www.autoevolution.com/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 65
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560_1.jpg"
+        width: 2389
+        height: 1331
+        isCached: true
+  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
+    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
+    publishedDateTime: 2021-12-13T14:04:00Z
+    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 54
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
+  - title: "Tesla self-drove into barrier, report claims"
+    excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
+    publishedDateTime: 2021-12-13T05:00:00Z
+    webUrl: "https://www.autonews.com/manufacturing/tesla-self-drove-barrier-new-york-times-report-claims"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 54
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLAVIDEO-MAIN_i.png"
         width: 800
         height: 600
         isCached: true
-  - title: "California suspends Pony.ai’s driverless permit after crash"
-    excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
-    publishedDateTime: 2021-12-15T13:33:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17537/california-suspends-pony-ai-s-driverless-permit-after-crash"
+  - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
+    excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
+    publishedDateTime: 2021-12-11T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/12/11/tesla-mercedes-recall-touch-screen-video-gaming-driving/6476758001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6476758001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6476758001"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 54
+      name: USA Today
+      domain: usatoday.com
+    quality: 46
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/537/17537/Beijing_Driverless_Photo_1.jpg"
-        width: 752
-        height: 501
+      - url: "https://www.gannett-cdn.com/-mm-/0328bf59e8b67856ba597e7cd83ab33a26761265/c=0-140-3978-2387/local/-/media/2017/07/18/USATODAY/USATODAY/636359798759324563-Daimler.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
-  - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
-    excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
-    publishedDateTime: 2021-12-14T20:56:00Z
-    webUrl: "https://www.autoevolution.com/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549.html"
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T17:51:00Z
+    webUrl: "https://www.kansas.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 52
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
     excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
     publishedDateTime: 2021-12-14T21:52:00Z
@@ -113,28 +185,44 @@ related:
         width: 540
         height: 420
         isCached: true
-  - title: "Pony.ai's driverless test permit suspended after Fremont accident"
-    excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
-    publishedDateTime: 2021-12-14T14:34:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/14/ponyais-driverless-test-permit-suspended.html"
+  - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
+    excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
+    publishedDateTime: 2021-12-15T12:03:00Z
+    webUrl: "https://interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
+    ampWebUrl: "https://amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
-    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
-    publishedDateTime: 2021-12-14T20:25:00Z
-    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+  - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
+    excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
+    publishedDateTime: 2021-12-11T09:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-car-market-next-big-thing-major-giants-toyota-sutar"
     type: article
     provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 26
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 32
     images:
-      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVG4bCGPTTGw/article-cover_image-shrink_720_1280/0/1639215105558?e=1644451200&v=beta&t=zR0p2DGL0tPnfA0bHNHIV-MPdfbnyHZUai6zCmEaytY"
+        width: 1084
+        height: 720
+        isCached: true
+  - title: "Trucks catch up in self-driving vehicle race"
+    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
+    publishedDateTime: 2021-12-11T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
         width: 800
-        height: 476
+        height: 533
         isCached: true
 
 secured: "Ts/8ZD4FJ0w5Jx46GYHzjwK5/llnOpnFt/mSeuVDNzq0wAP5QcVUpWFAThV9yrdVB2QrLDktJtQVhEAKLemfVNGUMAS8/uwMZfQBIhVMAtG823k26t3EQ4E8lZT9yDVYVF9NdHiyKpPJFA2BGJr6kDSF9j4bLkU5eRQjmvx673EDJ3OoqqhfN4BxStC5G5s4bEF0gk6QTHX1g07KtwDg9BpJCp+0dJX9OdTW6SIsh6uVLsMwuR6T29AXIAa+GmaY11QCB8hrC0p0zum5pOeMCs8gTjoTvXA7AFEoR+Q7JZ418vOdzMFSnPvd+7/kinp+Az3lTgidpb8YdeYFGzNVOcRpY9FgmlGEPImceuWntnkUgaZ5HbSfFGvtK/s6EgtUbE2iRqF+ucOrqyo2Cgdh60VpT3Wj6aHg0nIEYEWcDv79wDkLOu9z1mlf0WVQiNuI+zjcCzFegMPfEdgBFzl0PIE2+3quLqv38IeATOba+5SC0H/gGhasds3s4WUvG4oMZg3+p+fcw0hFIzYLgNJQJw==;lNzvgF02NGQitmmdu9ghfg=="

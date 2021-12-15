@@ -43,6 +43,20 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
+    publishedDateTime: 2021-12-15T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7bBZHVNjebOlnH1EG0pqU9UCvB6Y1h7p0fzIanm2D3FX6C+NxK3i39Rk3bAmv02bp1kIzVhit6at4oAle/R6UO1P0eL/h1bsS7J1Al3n1A51XuEXD82C+0/iMaYSfsruAKkaMHDy+nPuhhJnO3Z/Ix71UkJb8m8kqyyRfjSe3J52xgaRTq7WCH2JQwedjoudYtZ+EuiWh7WRrEXjF2xYDBZZBj/VOFDBCf28HUECtRA9NdeSZO3hsqmCHmL/C1GUw9zB3b8p5jEcXJH377n7nd4tZTWLFTsZ1z0a8fEEcnbVMWMNjO13XzFf3F09ml8DrhyfW+9nDGczzzyzeNB8K6aDOxYH2ukXCZLUhJPqgGk=;2AjN4eAyJ+mty2fd3sU6rw=="
 ---

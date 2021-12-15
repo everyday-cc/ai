@@ -2,6 +2,110 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-11-11-what-tech-challenges-are-facing-the-financial-services-sector.md",
+      "title": "What tech challenges are facing the financial services sector?",
+      "excerpt": "Jenny Darmody wrote this piece Silicon Republic following our discussion that I thought I'd share on here, link to original piece is below. InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline operations using tech,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
+      "originalUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMEpYBOEmzBA/article-cover_image-shrink_600_2000/0/1636567453241?e=1642636800&v=beta&t=sQB3Rwff8qvYY-GrdVPIusKiMss1wGNN-tILnLh00fs",
+          "width": 900,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-samsung-exynos-2200s-amd-gpu-exhibits-34-peak-performance-improvement-over-predecessor.md",
+      "title": "Samsung Exynos 2200’s AMD GPU exhibits 34% peak performance improvement over predecessor",
+      "excerpt": "A reliable leakster has shared that the AMD GPU on the Samsung Exynos 2200 exhibits 34% peak performance improvement over its predecessor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Samsung-Exynos-Logo-Featured.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "publishedDateTime": "2021-11-11T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
       "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
       "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
@@ -1088,109 +1192,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech.md",
-      "title": "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech",
-      "excerpt": "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/0N5A4946-e1596208218299.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
-      "publishedDateTime": "2021-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-googles-project-relate-aims-to-help-people-with-atypical-speech-communicate.md",
-      "title": "Google's Project Relate Aims to Help People With Atypical Speech Communicate",
-      "excerpt": "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them.",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
-      "originalUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

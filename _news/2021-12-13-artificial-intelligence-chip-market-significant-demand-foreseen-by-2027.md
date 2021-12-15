@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-chip-market
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-chip-market-significant-demand-choudhari"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: LinkedIn
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
+    publishedDateTime: 2021-12-15T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

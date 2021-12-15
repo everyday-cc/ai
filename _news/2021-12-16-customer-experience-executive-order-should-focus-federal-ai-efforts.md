@@ -1,0 +1,45 @@
+---
+category: news
+title: "Customer experience executive order should focus federal AI efforts"
+excerpt: "The recently signed customer experience executive order will help agencies refocus efforts to deploy artificial intelligence across critical services, the director of federal AI implementations said Wednesday."
+publishedDateTime: 2021-12-15T21:07:00Z
+originalUrl: "https://www.fedscoop.com/cx-executive-order-ai-efforts/"
+webUrl: "https://www.fedscoop.com/cx-executive-order-ai-efforts/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: FedScoop
+  domain: fedscoop.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+    width: 629
+    height: 607
+    isCached: true
+
+related:
+  - title: "How Is Focus on Better Customer Experience Strengthening AI in Fintech Market?"
+    excerpt: "A number of factors, such as the increasing adoption of the artificial intelligence (AI), machine learning (ML), and internet of things (IoT) technol"
+    publishedDateTime: 2021-12-14T21:10:00Z
+    webUrl: "https://menafn.com/1103359096/How-Is-Focus-on-Better-Customer-Experience-Strengthening-AI-in-Fintech-Market"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/14/pr_11875_eb33aeb9_image_story.png"
+        width: 900
+        height: 522
+        isCached: true
+
+secured: "L3pa3fQC/5sXZWF74bWEL9RFRCrE3e1cM65XqSZvlpc43jSjG0O48o8Rk+RSlNlwB6l/GxpdEZey0GOVZuTHfAZG/Wqb7vEBsgkhw/l2YbG2nzFiicnBtk++7Vjoparc9YLpsVvNtJOjPtExcaPE0G3OpauzhkoPHzDwnZosOJdvqUt5BhwWbwUkos9h9Fx1+cmhrR0oB0k6wepkkCyXCZF1+h3aR5beYemqtBMsZpGl5jTi3RnVooVrxgS9asledvNerTySj8Y+j9LBUgptNR0kfvhj3BFV5ZP07T7herxFZUmdkaSEXmiDtwRo4Ekfs3Y7o92GW3PQNEdzkpvorKMm3i3gKyjOmwdit5n1Q7w=;dagzfSMNJ3N45f+GK2WX+A=="
+---
+
