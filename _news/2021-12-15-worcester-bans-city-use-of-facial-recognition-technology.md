@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Worcester bans city use of facial recognition technology"
+    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government. The Worcester City Council voted Tuesday night to prohibit city departments from acquiring or using the technology."
+    publishedDateTime: 2021-12-15T18:53:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
   - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
     excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
     publishedDateTime: 2021-12-14T18:02:00Z

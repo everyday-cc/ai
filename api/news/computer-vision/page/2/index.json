@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
-      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
-      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
       "title": "AAI working on facial recognition-based passenger boarding system: Government",
       "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
@@ -1348,6 +1314,58 @@
         "name": "Scoop",
         "domain": "scoop.co.nz",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
+      "title": "Computer Vision in Agriculture",
+      "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
+      "originalUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGLbK4229LvLg/article-cover_image-shrink_720_1280/0/1637252530672?e=1643241600&v=beta&t=7Suuvkau68tBE8YHvNNqyoIY-j0y7-cODF49bx0teME",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

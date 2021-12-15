@@ -2,6 +2,203 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
+      "title": "How bias creeps into the AI designed to detect toxicity",
+      "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "publishedDateTime": "2021-12-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience.md",
+      "title": "Startup Bedding Company Viscosoft is Slated to Develop AI-Driven Sleep Experience",
+      "excerpt": "SAN FRANCISCO, CA / ACCESSWIRE / December 9, 2021 / The award-winning startup, Viscosoft, has swiftly solidified its place as an industry leader",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/676183/sGd37fPbL0JLnpolywOMvhFt6axnr6XdLROpajLiq3QxEhg1M_VdmjiWdFB04-_m7Sk65W-5zL-VLCcFEvKg4HCP0rBSHmUnw9PlZk6hxGWzAe8BdqGXZNRULsc85tqcN9bLuYt_.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions.md",
+      "title": "DeepMind AI helps study strange electrons in chemical reactions",
+      "excerpt": "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
+      "originalUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
+      "publishedDateTime": "2021-12-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-why-companies-should-be-using-ai-to-fight-cyberattacks.md",
+      "title": "Why companies should be using AI to fight cyberattacks",
+      "excerpt": "Cyberattackers use AI, so why not apply it as a defense? One expert explains why AI can take your cybersecurity to the next level of protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "originalUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/23/3e7446b6-3dd6-449f-8ed1-58422c4cbce8/resize/1200x/e9ca5d6441bc53fb4766cfe5fc5c7482/istock-1162361864.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "publishedDateTime": "2021-12-09T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai.md",
       "title": "Blockchain indexing firm The Graph awards $60M grant to Semiotic AI",
       "excerpt": "The Graph, an indexing and querying layer for Web3, has awarded a grant worth $60 million to California-based Semiotic AI.",
@@ -410,6 +607,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-trucks-catch-up-in-the-self-driving-vehicle-race.md",
+      "title": "Trucks catch up in the self-driving vehicle race",
+      "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-selfdriving-freight-insight-idTRNIKBN2IO0C4",
+      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-freight-insight-idTRNIKBN2IO0C4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211209&t=2&i=1584108376&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB804V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idTRNIKBN2IO0C4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN2IO0C4",
+      "publishedDateTime": "2021-12-09T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -929,204 +1178,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-the-power-of-ai-can-be-unleashed-with-a-focus-on-ethics.md",
-      "title": "The power of AI can be unleashed with a focus on ethics",
-      "excerpt": "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics",
-      "originalUrl": "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1",
-      "publishedDateTime": "2021-12-08T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-insight-trucks-catch-up-in-the-self-driving-vehicle-race.md",
-      "title": "INSIGHT-Trucks catch up in the self-driving vehicle race",
-      "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
-      "originalUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-trucks-catch-up-in-the-self-driving-vehicle-race?amp",
-      "publishedDateTime": "2021-12-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
-      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
-      "publishedDateTime": "2021-12-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
-      "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
-      "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
-      "sourceUrl": null,
-      "webUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
-      "originalUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2021/11/Yoga.png",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multiple Sclerosis News Today",
-        "domain": "multiplesclerosisnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-bad-robots-arley-sorg-and-josh-pearce-discuss-eternals.md",
-      "title": "Bad Robots: Arley Sorg and Josh Pearce Discuss Eternals",
-      "excerpt": "Thousands of years ago, the godlike Celestial Arishem (voiced by David Kaye) sent a squad of immortal, humanoid Eternals to Earth to hunt down alien monsters called Deviants, and to provide",
-      "sourceUrl": null,
-      "webUrl": "https://locusmag.com/2021/12/bad-robots-arley-sorg-and-josh-pearce-discuss-eternals/",
-      "originalUrl": "https://locusmag.com/2021/12/bad-robots-arley-sorg-and-josh-pearce-discuss-eternals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://locusmag.com/wp-content/uploads/2021/12/Eternals-poster-2.jpg",
-          "width": 540,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Locus Online",
-        "domain": "locusmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform"
-excerpt: "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based"
-publishedDateTime: 2021-12-15T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/topics-streaming-service--deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform-301444670.html"
-webUrl: "https://www.prnewswire.com/news-releases/topics-streaming-service--deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform-301444670.html"
+excerpt: "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based entertainment localization, are thrilled to announce their partnership to use Deepdub's innovative AI-based dubbing platform to bring Topic's catalog of streaming foreign language series and TV shows to English."
+publishedDateTime: 2021-12-15T13:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-topics-streaming-service-deepdub-partner-localize-dozens-foreign-/2021/12/15/9511742.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-topics-streaming-service-deepdub-partner-localize-dozens-foreign-/2021/12/15/9511742.htm"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1709649/Deepdub_AI_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "Topic, Israel’s Deepdub strike AI dubbing partnership"
@@ -40,6 +34,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "aYHmtFU9+G74rt94zFZw6UEjejoBDkZZmTEfRhTgJ/1w0TOUBsvuL+jZ022DpcQ4divHPRw9VoUSZ566Xsk5uFfKY7TYn6H0M8/2EiZwarbMVmbSyxD81VNi1+bruY792aUAwRnvR6wjWPipaUaCEA+HFbSi0EDLt2Eaff2FihCwah7B/jKy5JPs2hsrKDZhsBffSeGehVBK30019ctwZU22p1jg6vwTNpSqLk27bK5jPURmaKIOfiRzUM7WaOBgRnvC4VZulhF+mqe/99swZyLePaK5t8neCXk6k9wsaAevgV21ZFE4ten86al/fhJ56y/s/jX0Hk4T9vvZU7Bzk5q+FJs/yLXnVqT7p9eVubMgwkE7IA1MVxzNh7jTKIG665q7O7tKW8/3PPAsoO/gHXRL0jl5NBFUNtISx9XG3OnjafT1p1/sOd2T7bvMY2gc+wCGiRbOnowOFi0sQP4wR+cHGNLBs2v0cue5xOHqyAbMotqpaKNaOjalVQThtPelE/Jm4Ahygb7mI69CxZQPjg==;h/ThGVAVxIgBaySFfLPXfg=="
+secured: "PBw6vdDWl86PrPLeXhQ4IhJREbRbr3cCSQN7cxa/Eu6zbJS5yQKJBmRRy6qNxX2QSi8yXTlEgAZh5PhmrPX/PtqLjV95URCyOe7KeLCrmjNFIbHp0iGqMnEfSaeXnYd5PGqTExseUeoKV7q/TS3qSHDeA9F5XEsB4mmxLDGBUQpwEiZ4sg0oDR6SNlOLuc8nNVTaF2XKb677zNmL7VYSP7JDNCo/m6DufU6D6hyUg1yAHgK94ipM/FRtTXhuKVdiJLIWqZB8JbCVtY6casIc/T+55AxmroXDFBEPY/O5iycDClgZcezbM/AHtRVLt9EEQxE39haNDYdf/bUEMfcPLyClQsFJpDbaB+SUjoWB4hE=;2QxItjBZ7NndlDd21KGryg=="
 ---
 

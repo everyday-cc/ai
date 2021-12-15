@@ -2,6 +2,300 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-15-sbers-ai-journey-conference-tech-development-must-be-human-centric.md",
+      "title": "Sber’s AI Journey Conference: Tech development must be human-centric",
+      "excerpt": "Sber’s international online conference ” Artificial Intelligence Journey ” culminated in a discussion titled “AI Technology to Address Social Issues”, in which the President of the Russian Federation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-vladimir-putin-russia-europe-4e5a09064d8d0d9f6b9b87282ba25ea7",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-vladimir-putin-russia-europe-4e5a09064d8d0d9f6b9b87282ba25ea7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
+      "title": "Report: 80% of fintech execs worry about authentication security tools",
+      "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
+      "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
+      "publishedDateTime": "2021-11-14T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028.md",
+      "title": "Global Computer Vision Market Research, Clinical Study and Business Guidelines till 2028",
+      "excerpt": "Comprehensive Information Portrayed in The Global Computer Vision Market Report Outline: As per the report published by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028-2021-11-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028-2021-11-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028.md",
+      "title": "Passenger Vehicle Voice Recognition: Market 2021 Qualitative Insights, Key Enhancement, Share Analysis To 2028",
+      "excerpt": "Passenger Vehicle Voice Recognition Market Size, share 2021 by Global Demand, Regional Analysis, Market Trends, Top",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-unity-moves-robotics-training-to-the-metaverse.md",
+      "title": "Unity Moves Robotics Training to the Metaverse",
+      "excerpt": "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
+      "originalUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
+      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
+      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "publishedDateTime": "2021-11-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
       "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
       "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
@@ -915,283 +1209,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
-      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
-      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T09:09:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-when-doctors-become-too-reliant-on-artificial-intelligence.md",
-      "title": "When Doctors Become Too Reliant on Artificial Intelligence",
-      "excerpt": "Human error can confound algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
-      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-434048/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
-      "publishedDateTime": "2021-11-12T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-the-ethics-of-digital-technology-in-the-food-sector.md",
-      "title": "The ethics of digital technology in the food sector",
-      "excerpt": "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/supermarket.jpg",
-          "width": 1920,
-          "height": 1104,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
-      "publishedDateTime": "2021-11-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-stori-raises-200-million-for-financial-services-for-the-underserved.md",
-      "title": "Stori Raises $200 Million for Financial Services for the Underserved",
-      "excerpt": "Mexico-based Stori landed $200 million this week in combined debt and equity. The investment, which bring the company’s total funding to almost $250 million, will help the fintech provide financial services to its region’s underserved customers.",
-      "sourceUrl": null,
-      "webUrl": "https://finovate.com/stori-raises-200-million-for-financial-services-for-the-underserved/",
-      "originalUrl": "https://finovate.com/stori-raises-200-million-for-financial-services-for-the-underserved/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finovate.com",
-        "domain": "finovate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-ai-eye-podcast-ibm-bringing-nlp-enhancements-to-watson-discovery-nvidia-announces-omniverse-replicator.md",
-      "title": "AI Eye Podcast - IBM Bringing NLP Enhancements To Watson Discovery, NVIDIA Announces Omniverse Replicator",
-      "excerpt": "Stock News, podcasts - AI, Biotech, Cannabis ... \"The stream of innovation coming to IBM Watson from IBM Research is why global businesses in the fields of financial services, insurance and ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5662367-ai-eye-podcast-ibm-bringing-nlp-enhancements-to-watson-discovery-nvidia-announces-omniverse",
-      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5662367-ai-eye-podcast-ibm-bringing-nlp-enhancements-to-watson-discovery-nvidia-announces-omniverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2021/11/12/776842-16367465627058547.jpg",
-          "width": 387,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5662367-ai-eye-podcast-ibm-bringing-nlp-enhancements-to-watson-discovery-nvidia-announces-omniverse",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5662367-ai-eye-podcast-ibm-bringing-nlp-enhancements-to-watson-discovery-nvidia-announces-omniverse",
-      "publishedDateTime": "2021-11-12T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-promotedai-takes-in-fresh-capital-to-grow-your-marketplace.md",
-      "title": "Promoted.ai takes in fresh capital to grow your marketplace",
-      "excerpt": "The company is answering the question of how you fairly come up with a way to share the attention between big and small sellers",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "originalUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211368784.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "publishedDateTime": "2021-11-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

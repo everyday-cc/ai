@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind Now Wants To Study The Behaviour Of Electrons, Launches An AI Tool"
-    excerpt: "DeepMind solves delocalization and spin symmetry-breaking with neural network and training the dataset to capture electron behaviour"
-    publishedDateTime: 2021-12-13T09:43:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-now-wants-to-study-the-behaviour-of-electrons-launches-an-ai-tool/"
+  - title: "2021 in review: AI firm DeepMind solves human protein structures"
+    excerpt: "DeepMind announced that its AlphaFold model had worked out how most of the proteins in our bodies fold. Pushmeet Kohli tells New Scientist that there is more to come"
+    publishedDateTime: 2021-12-15T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/562010-plexus-animation.jpg"
-        width: 700
-        height: 394
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/14115744/PRI_2139177911.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "+nAg+HIiBa7KeGEdfXZDtoWk+OqcLvFVHfZAx4mad/ilYkEfJkAiZjg4O9tetM2SB96dVZ60phEU17gJ3DJB7SqvsBt5XOOJr8/wzrFqMoZukJZ4tdKAWDH3s2vtt5w3vrWznqbSHY97pnqCMZZLYcU3TPkI4x2Lu7BqQIBiJx6oaEaVTOtwRtteRuJ5hEq8uH/EuoyhQ11Q4yUZF4j+UlWFSrD3CFOTuO1FD+Prvmb/vgB9sijF+giOW0vaXeqndWvcxS39/rYO6gjLAMpAprTFOv3fINzkNRHc+UfyN/dUpIz8Wp7PZWBKsctqWwL281LZaXyjk/QV/mSDimR/vWe2jC0JGXhkIE1K8qnu3TSvnZa2eH+gm4tYkNAUDFULdoKxAk5Duc1d5xSfj0cPBGe527UaeCGkuI/oR2SJmzgJle3EF5RhRHfRP3g5ES93uJR+hnLullJulPXR6z3lBMzcHn7agrGA11/RHFkKSs7L3g0plbwOVuy2nQmZv5+hoSEOnCHOMsKtoegUSXnmPw==;mojmtXwDklkSbYy5cttPDg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flags
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png"
         width: 1024
         height: 497
+        isCached: true
+  - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
+    excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
+    publishedDateTime: 2021-12-15T18:15:00Z
+    webUrl: "https://www.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-news-52302.php"
+    ampWebUrl: "https://m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 52
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/12/dimensity-9000-tops-ai-benchmark/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
         isCached: true
 
 secured: "6y0HpoCYUuUMSJlbL3bdX/HDlNjTkaA6HfRmkV2pYHi+NlUerZhlf7H8YROqNRiWFDV24OdfAFP19WKNPSSBcrdOK+h9ErDseo8awB3GkBve1o04vKXwziqoRRfosf/ggIsWnx2rXiNWjC8TRe55iE8WG2RBqGibAzsQUfKrQESxGBDIUhO8HWKp+TIDRtCkAtmBF1/Bpm5L3HtCxujrW/u11YNFiAihaGeE9hR7wjL2BlihpLeOsGTvs5BbKAEQgyM4hK+ObYs6LtnLUZd5BDnBHUxRvoxN+1WucXaTnFYUPB+Lfxv+Klgg0Yr3B+uFCLKXNmjD4ldRteRdRW9WRLEwp57e/8vd+LTojHBn1K8T0CSrW/ZAZFp+KoQBEIpPRYT/1Imr4q0VFEHtP/c+OrML+jhr7y/wp1GJSNZN7uhsEL8KYNuG0hlBHJqL66fJsSJ7/pkqzCt/YSzS6fYaENhlj+4hex9FtjHyu3j62wbihEQwl3YZeOhVgydFDlI712RFOaTszNT+kTsLzq7pRA==;b63DLUwYn9ck4os81u62Xw=="

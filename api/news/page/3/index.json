@@ -2,6 +2,184 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-14-us-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant.md",
+      "title": "US to shut all doors for Chinese chip manufacturer, AI Giant",
+      "excerpt": "Officials want to close regulatory loopholes that have allowed SMIC to buy critical US technology, despite being on the banned list. Separately, Americans",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/",
+      "originalUrl": "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/smic_afp_2018-6-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/",
+      "publishedDateTime": "2021-12-13T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
+      "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
+      "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/walmart-backed-symbotic-will-ipo-via-softbank-spac-for-2455b/ar-AARMzFP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg",
+          "width": 1000,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
+        "domain": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-new-artificial-intelligence-centre-opens.md",
+      "title": "New artificial intelligence centre opens",
+      "excerpt": "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
+      "originalUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/1639439534-Artificial-intelligence-centre-960x540.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
+      "publishedDateTime": "2021-12-13T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Daily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now.md",
+      "title": "AI 50 2022 Nominations: Is Your Company Transforming An Industry Using Artificial Intelligence? Apply Now",
+      "excerpt": "AI is essential to nearly every industry, but it’s not easy to identify the companies that are using it in truly transformative ways from marketing hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/13/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/13/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7c1bf2c1756cad7ff75e6%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
       "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
       "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
@@ -297,7 +475,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -771,7 +949,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -848,6 +1026,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
+      "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
+      "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "publishedDateTime": "2021-12-12T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -952,240 +1181,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-samsung-promotes-robotics-as-future-growth-driver.md",
-      "title": "Samsung promotes robotics as future growth driver",
-      "excerpt": "Samsung Electronics Co. named its newly merged unit for mobile and appliances the device experience (DX) division, the company has said, in a sign of its resolve to provide its customers with new, meaningful experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/a9c0dc257eb940bc83ed532915ba59f5.jpg",
-          "width": 980,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
-      "publishedDateTime": "2021-12-12T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-skorea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases.md",
-      "title": "S.Korea to test AI-powered facial recognition to track COVID-19 cases",
-      "excerpt": "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
-      "originalUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology.md",
-      "title": "Clearview AI Has Acquired A New Patent For Facial Recognition Technology",
-      "excerpt": "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage.",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
-      "originalUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-ojipHOC4CfCX.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-12-12T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die.md",
-      "title": "Next-gen GPU’s from AMD to contain a stacked accelerator die",
-      "excerpt": "If it can assist enhance performance, it's an intriguing technology that we'd like to see included in our gaming GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
-      "originalUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cgc8hK4UL6s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
-      "publishedDateTime": "2021-12-12T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
-      "title": "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling",
-      "excerpt": "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
-      "originalUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03",
-          "width": 1212,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

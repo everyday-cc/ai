@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-25-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk.md",
+      "title": "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K.",
+      "excerpt": "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg",
+          "width": 400,
+          "height": 277,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
       "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
       "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
@@ -1360,51 +1412,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
-      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "publishedDateTime": "2021-11-17T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

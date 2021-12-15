@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Elliptic Labs Brings AI Virtual Smart Sensor Platform™ to the PC Market"
-excerpt: "Elliptic Labs’ AI Virtual Smart Sensor Platform utilizes ultrasound, sensor fusion, and proprietary machine learning (ML) tools to make devices smarter. The platform is a softwa"
-publishedDateTime: 2021-12-15T06:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-norway-oslo-7f149e6565bc4cbc8ebe686dc4e5ff36"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-norway-oslo-7f149e6565bc4cbc8ebe686dc4e5ff36"
+excerpt: "Elliptic Labs announces its collaboration with Intel, enabling the AI Virtual Smart Sensor Platform™ to work with Intel-based PCs and IoT devices."
+publishedDateTime: 2021-12-15T10:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211214006406/en/Elliptic-Labs-Brings-AI-Virtual-Smart-Sensor-Platform™-to-the-PC-Market"
+webUrl: "https://www.businesswire.com/news/home/20211214006406/en/Elliptic-Labs-Brings-AI-Virtual-Smart-Sensor-Platform™-to-the-PC-Market"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Elliptic Labs Brings AI Virtual Smart Sensor Platformtm to the PC Market"
@@ -40,6 +34,6 @@ related:
         height: 480
         isCached: true
 
-secured: "p2vbUMdwckqZp4PePTR9413J9mneLtW7FWicA2WSF2q607/pU/SUIGzjefstF7snpCX0G/h4pxdglV6GsiYg3WNjGmpG8HnEVMjQ+wFtOeKrHDipbzDI0jzHZfMQ/RKF7Lw2BEpr/jjLQvyVvZxdGorNg+vZXw7VuOsARV4me1mjaYY57OSd2dc43co5kbl3jLVxCHbR4jkVJP7TqDkMc0oElPXN0G6rQgmFSmbmPcHSl9a94SG5W3OyDuh1Hnbc6VtasVKP3aer7bXPu/ycHzjyhaow0dvN8Q4k1j+Q6WeLknsRa/wQy7604g+SIHCNQ3csOpmHa7QbF1nwJZrkk7M5y5e/yX9/ecsggf6T/Fk=;zPtp8rBPxJfGgpvlMDH8Uw=="
+secured: "Uy+40fQMJXFUTkrsi2+khnIYIKJwcvTwm7cdUlmJQU3I2WHtm6I8rNuO667LfU7UhbMljQvIVVG+4BlAw84SlVFWOqFxh8I8/tkKrWIoaZit1Egt2qOml780IcH9qypzUCx5zHUfEWcbwUvWah8I7RYZygwJk13v6/ZHZUSIP2fdYAPd2nG1tTo8Co49oa4optVyJ/o1zFD9EhQUqAb2kzrLjn8zBbdl5hpVIM758vnFEGhuueRa9aD4p01gX4d08bqdALxai+8z2rJgNwEe1wRexlAQx947rMc6FZxcv+U9SOxk8sJRfD74UaTGfPU8ZRMq33dTFXo0b5FCvfuGE36tcN8+UNoQB1uzP9bQCzA=;JjZs9Ttf8bDbxDhcZqBA+w=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-16-2021-in-review-ai-firm-deepmind-solves-human-protein-structures.md",
+      "title": "2021 in review: AI firm DeepMind solves human protein structures",
+      "excerpt": "DeepMind announced that its AlphaFold model had worked out how most of the proteins in our bodies fold. Pushmeet Kohli tells New Scientist that there is more to come",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/",
+      "originalUrl": "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/14115744/PRI_2139177911.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/",
+      "publishedDateTime": "2021-12-15T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-ai-decoded-algorithmic-management-deepminds-language-model-dont-hate-the-player.md",
       "title": "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -1391,59 +1434,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-a-decade-in-deep-learning-and-whats-next.md",
-      "title": "A decade in deep learning, and what's next",
-      "excerpt": "Twenty years ago, Google started using machine learning, and 10 years ago, it helped spur rapid progress in AI using deep learning. Jeff Dean and Marian Croak of Google Research take a look at how we’ve innovated on these techniques and applied them in helpful ways, and look ahead to a responsible and",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/",
-      "originalUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/decade-deep-learning-and-whats-next/amp/",
-      "publishedDateTime": "2021-11-18T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

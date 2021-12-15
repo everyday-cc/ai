@@ -2,6 +2,231 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
+      "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
+      "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "originalUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/12/4-1638947408.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
+      "publishedDateTime": "2021-12-07T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
+      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
+      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "publishedDateTime": "2021-12-07T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-nec-facial-recognition-can-check-for-vaccination.md",
+      "title": "NEC: Facial recognition can check for vaccination",
+      "excerpt": "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
+      "publishedDateTime": "2021-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
+      "title": "Natural language processing: time is now to advance human language insights for finance industry",
+      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations.md",
+      "title": "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations",
+      "excerpt": "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic, environmental, and national security understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/4b/e4bc99db-b225-569e-9c54-7a882c1f592d/61b04eca9c26a.image.jpg?crop=796%2C418%2C80%2C0&resize=796%2C418&order=crop%2Cresize",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-amazon-web-services-aws-a-cheat-sheet.md",
       "title": "Amazon Web Services (AWS): A cheat sheet",
       "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
@@ -990,228 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-mid-2022.md",
-      "title": "Intel plans to take self-driving car unit public in the U.S. in mid-2022",
-      "excerpt": "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "publishedDateTime": "2021-12-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites.md",
-      "title": "Bookmark Introduces AiDA: An Artificial Intelligence Design Assistant for Websites",
-      "excerpt": "Bookmark ( bookmark.com) is the world’s first and fastest Ai-powered website builder. By building revolutionary artificial intelligence algorithms over the past six years, their proprietary technology AiDA (Artificial Intelligence Design Assistant) is now available for anyone who needs a website or online store.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "originalUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/12/44.jpg",
-          "width": 1799,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "publishedDateTime": "2021-12-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments.md",
-      "title": "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments",
-      "excerpt": "NDS Cognitive Labs (NDS ... partnerships with leading global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ndscognitivelabs.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b18bee67-1956-5633-9bb2-3a0e3fd5034c.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b18bee67-1956-5633-9bb2-3a0e3fd5034c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-algorithms-are-making-many-of-your-decisions-and-you-might-be-ok-with-that.md",
-      "title": "Algorithms are making many of your decisions, and you might be OK with that",
-      "excerpt": "The odds are good that at least a few algorithms helped you find this article. After all, algorithms—which are essentially systems or processes that help make a choice—have been around nearly forever.",
-      "sourceUrl": null,
-      "webUrl": "https://news.arizona.edu/story/algorithms-are-making-many-your-decisions-–-and-you-might-be-ok",
-      "originalUrl": "https://techxplore.com/news/2021-12-algorithms-decisions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_card_image/public/images/people/kyle.jpeg?itok=xLpRSRj7",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
-      "title": "Facial recognition isn’t working for some Windows 11 users",
-      "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "originalUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "publishedDateTime": "2021-12-07T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

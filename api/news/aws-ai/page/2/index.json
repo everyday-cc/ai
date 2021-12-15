@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Six New Amazon SageMaker Capabilities",
-      "excerpt": "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ...",
+      "excerpt": "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html",
+      "webUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/",
+      "originalUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:07:00-08:00",
+      "ampWebUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/",
+      "publishedDateTime": "2021-12-01T15:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "01Net",
+        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,6 +42,148 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract.md",
+      "title": "Announcing support for extracting data from identity documents using Amazon Textract",
+      "excerpt": "Creating efficiencies in your business is at the top of your list. You want your employees to be more productive, have them focus on high impact tasks, or find ways to implement better processes to improve the outcomes to your customers. There are various ways to solve this problem, and more companies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/3-6671-Passport.jpg",
+          "width": 800,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T15:25:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
+      "originalUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch.md",
+      "title": "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch",
+      "excerpt": "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/ML-6937-image001-782x630.png",
+          "width": 782,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:26:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {
@@ -85,42 +227,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     },
     {
@@ -225,40 +331,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meta-selects-aws-as-key-long-term-strategic-cloud-provider.md",
-      "title": "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
-      "originalUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1351,40 +1423,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-amazons-amzn-aws-clientele-expands-with-adidas-selection.md",
-      "title": "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection",
-      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "publishedDateTime": "2021-11-23T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

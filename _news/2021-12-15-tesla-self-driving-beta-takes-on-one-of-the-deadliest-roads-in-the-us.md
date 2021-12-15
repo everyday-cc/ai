@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Mercedes Beats Tesla to Hands-Free Driving"
-    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
-    publishedDateTime: 2021-12-11T02:45:00Z
-    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
-    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
     excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
     publishedDateTime: 2021-12-13T08:15:00Z

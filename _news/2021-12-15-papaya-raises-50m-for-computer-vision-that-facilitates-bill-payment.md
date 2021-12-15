@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-959508862.jpg?w=1024"
         width: 1024
         height: 575
+        isCached: true
+  - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
+    excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."
+    publishedDateTime: 2021-12-15T18:18:00Z
+    webUrl: "https://siliconangle.com/2021/12/15/signal-ai-raises-50m-decision-augmentation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Image.png"
+        width: 936
+        height: 524
         isCached: true
 
 secured: "ezU0PsFcoQJgDfJB0qh7EdVXIJ6TN5OeXYvX+C64K1x83PseXH+xFcqvldQMr1Dg6QGIHXYPArTv0S4qjB2Aqh10/YvKv8933b0xYZ4cJkootFQkNhHFOYRmYo1SfRkgAdAIn5Gf1mzQrQ5rMcCCGTwcI9g2XJujox+7bML5UtyzVdIkajkVyiiZrTqrCaw3+JYCnia5J11kYpSxVko1rsm69ybbkBJZFViMwKnooA+66HZfkpLwA78CDC1YXu2QoQ/tKsnlHtK/WWQp6o9qJCyTHvICkeuYH2h9WT0ezxMwrCB5vBSmVZb6avSiY0m8zYCiHXDtpSzg9V7/3onlkJ3uEoT8vtWCnLGA+uP6Ir7AuCxZxmVXOTUO2BeMelqVXsOPCvfiajhq49N9eTkq7ANu4DXkQauuu0TY1cFZiDy/yANLcOWIiCpnG1ljsG6niQ3czEeI0dFW2RDl9LRN1vR7E3QHeac5ApN7jT3ZAV1P+Py7v4kTedgUiGXcy9lhqBWpNElbiy0+QEFGk2/xQQ==;GDroY8bCMo7SiVqC00W3iA=="

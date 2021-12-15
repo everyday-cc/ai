@@ -69,6 +69,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "UNESCO Forum on AI and Education engages International Partners to Ensure AI as a Common Good for Education"
+    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
+    publishedDateTime: 2021-12-15T17:07:00Z
+    webUrl: "https://www.zawya.com/uae/en/story/UNESCO_Forum_on_AI_and_Education_engages_International_Partners_to_Ensure_AI_as_a_Common_Good_for_Education-AFPR151220212782/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR151220212782/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR151220212782/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 58
+    images:
+      - url: "https://www.africa-newsroom.com/files/large/ef4fd0d8777c22d"
+        width: 673
+        height: 573
+        isCached: true
   - title: "Autonomous future: Self-driving taxis under trial in UAE"
     excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
     publishedDateTime: 2021-12-13T11:07:00Z

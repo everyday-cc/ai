@@ -59,6 +59,22 @@ related:
         width: 4949
         height: 2775
         isCached: true
+  - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
+    excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
+    publishedDateTime: 2021-12-15T18:15:00Z
+    webUrl: "https://www.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-news-52302.php"
+    ampWebUrl: "https://m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 52
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/12/dimensity-9000-tops-ai-benchmark/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
 
 secured: "k+ccPuVG1Yfqc/ZXtQvLb1y+MtVkPJNO69HH29GtXwsAF0I4//Xz5W1KSaPH/em+EyvtnkZJX2QORHmkyWeSt64ekBe8x0DtdBQRCP41anekupFwOdan1KqhNDkuwSduhOgFecwr9e9GDMdoBqhLBQBZ8dRPq9w/MdggeLC+zC41CdhkC+dX3244aQJkWHodCy0jUevsmBr/Iun9u5ub81Ksat/R+YPZ6LbBQsx+PF8cwWSLQIFWaxk+s6aSEmSJZM/9+g4U23Ru+HTc6amNfNR6SUofTCDpOcLyZtbJ3t59YRCO4Ss0hLRvZTpMyASPvL975mynqnscXaaiw7mMSHsmASz25EH5JZvdTvJLava3AUt2dlqVZ6uYVm5SvfeI7WhvYqM8z1f+XElLUoCcUVvpHNbqN59mxgvOyOfkyJ/PrxNLTZpVC48tsXcJbX0MRsFDlRWrOFcjpCPp+LujkCyaofk9hfpnxoJTP+cV/z+TfmNSCGQWetQgq9qsx9dHYFWoEENPuzvGtSMbC4NCag==;T1YtpdL63IgQUPkaOu79yw=="
 ---

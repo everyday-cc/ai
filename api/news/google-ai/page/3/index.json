@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-12-ai-tool-promises-a-medical-revolution.md",
+      "title": "AI Tool Promises A Medical Revolution",
+      "excerpt": "A new Artificial intelligence AI tool called AlphaFold correctly predicted the 3D structure of over 98 percent of all human proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cybersecurityintelligence.com/blog/ai-tool-promises-a-medical-revolution-5783.html",
+      "originalUrl": "https://www.cybersecurityintelligence.com/blog/ai-tool-promises-a-medical-revolution-5783.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cybersecurityintelligence.com/files/upload/htmleditor/protein%20molecule%20pixabay.jpg",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cybersecurityintelligence.com",
+        "domain": "cybersecurityintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-stacking-our-way-to-more-general-robots.md",
       "title": "Stacking our way to more general robots",
       "excerpt": "Introducing RGB-Stacking as a new benchmark for vision-based robotic manipulation.",
@@ -1441,58 +1484,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-generate-music-with-an-rnn.md",
-      "title": "Generate music with an RNN",
-      "excerpt": "This tutorial shows you how to generate musical notes using a simple RNN. You will train a model using a collection of piano MIDI files from the MAESTRO dataset. Given a sequence of notes, your model will learn to predict the next note in the sequence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
-      "originalUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

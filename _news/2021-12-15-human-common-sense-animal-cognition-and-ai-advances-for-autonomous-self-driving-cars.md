@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "UNESCO Forum on AI and Education engages International Partners to Ensure AI as a Common Good for Education"
+    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
+    publishedDateTime: 2021-12-15T17:07:00Z
+    webUrl: "https://www.zawya.com/uae/en/story/UNESCO_Forum_on_AI_and_Education_engages_International_Partners_to_Ensure_AI_as_a_Common_Good_for_Education-AFPR151220212782/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR151220212782/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR151220212782/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 58
+    images:
+      - url: "https://www.africa-newsroom.com/files/large/ef4fd0d8777c22d"
+        width: 673
+        height: 573
+        isCached: true
   - title: "Autonomous future: Self-driving taxis under trial in UAE"
     excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
     publishedDateTime: 2021-12-13T11:07:00Z
@@ -104,6 +120,6 @@ related:
         height: 800
         isCached: true
 
-secured: "4yBfU88GsXhO/CMlVH2ETK78I3QXcrWpZLQjY/ELSolDesEMO7YMu2vz8J/jGVDaNNVrS8gM7RoM0loN/L7Ca/QirsjN9ZQLjc9nDmG+SeFaxEIrHcXNYBdED82f8mXLbXpGcnbW71JzQCUKZ889kLM0GJ56DvddvKm0SDTKgNMK2A+CK08oXKgMoVKh6B9eT520AlvYoBOQmGY87Exjo7ScjaFRGK7KacKzQ7jPZIjzUtapavR+jhz+XlGx7waBBspJedhX4CIGrqr3XijG+r24CMySJQGdmAqEGe/deaWU/ZOzS48ZpZDQU5JR4jwk9r/+3KhaxldWbCyuHXjCteYApAyU5gye449eZpwpZL8=;0H98sbAbzAtOC/c3o6UREg=="
+secured: "jbmVt6eyNBMAfbFaOC6srpmSmhIcgmu0dSg1jb2FWzVjPNXk1/+A9qO2G48gdWPcRoE7ZFEaBpFIwZJWG8V0j+NV1s31hP6AFWfRWm9fOB4vaTxoYoGikSY44NxeWV+72UgX6u0M6sioO3eC971hTi/1PMZxJiCco38uAPWzhONLZWQdfpWJUMNX9V4b1UfYwu2Hq4wKeabeVX96rkOFmTgsvXwiXO1EGKwKsMEgIBgHZ0BjtIwb9r37YG0svNVQcTXnpBZtuoIvEKU4lU1MDD6WmOQDVAaDDoxK2JSYziqnoh1BE9jFQ1KQJKaxtyVwfzM62XcZHdPgFCRVxftpS+jgqU+ONJN7biD5eI96JNbH/LyaUckwrQDDAsI5E9VlaivobU0b1uPmVgRl7z6cuqEV2zElSJq3jgV9BRyzFFk6FTiscHm60mHOPbQborCyz9+etyurFTPiTpQ55wMTwKwgv34St9GqKA3XN21dl3DjSdJT4mz8y/elJ4p+gz4GZofmAP9WZCrk07s7ND0+vw==;ikj4jJeD52X9p/PjcTEueA=="
 ---
 

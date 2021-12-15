@@ -62,6 +62,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
+    excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."
+    publishedDateTime: 2021-12-15T18:18:00Z
+    webUrl: "https://siliconangle.com/2021/12/15/signal-ai-raises-50m-decision-augmentation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Image.png"
+        width: 936
+        height: 524
+        isCached: true
 
 secured: "wM3axCCJigkfAVyQaehKmOK6hsDRu3sR+EvlCuSXeQU2euFymgl6B4iCXamKDkANBOxGeByOLokvbQVuDrBOgpnWamwAyMnAHYKt9KZ2GT//HDBon8p75QQxVGqj5v2uVDhrLYf2pec7l/jbH+0nlIyPP8wD73ZbJ9SI238eYYnkHfdMVUter5CG57SL28Boof6JuRHrd07Elcd2hT9H+0qK0kBxYkcQhtbsQgeUZt5GTOAFlcy3OeBSFrK/cZiUyn/pyaeBVQ10iORpbC2JxVkFYFvdU4cR9rlmHbfxRIU1qaHvfiDQfS2St/j5YrxkajtTn2e9xxXYrnau1EMJaCt5XIpXmrJa5hU7rQ8wHKl6kndUEHVRExCPY3xfI1YVv03fTyPX8zefy/z4aLky3wEZaiyMagJ8AJemM9sp1bd2PTw6egEj7zbiDnK+7bNo7q1NQMQXw9IU5ONVsKulvCOitLuqnghRDWOQL4FHBfYq0mmxkXOKbt05zdXd5G8gP9MPIivjGzHsBbgtlmujCA==;3f/tDqEkGlm7H4R6Xclj/A=="
 ---

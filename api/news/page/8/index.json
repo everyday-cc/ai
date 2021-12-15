@@ -2,6 +2,255 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
+      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
+      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "publishedDateTime": "2021-12-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard.md",
+      "title": "Zuckerberg And Chan Pledge $500 Million Of Their Facebook Fortune To Create An AI Institute At Harvard",
+      "excerpt": "Zuckerberg and Chan, who met at a Harvard fraternity party in 2003, have already given $42 million to Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "originalUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0e1baf0550134f0c07bcd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "publishedDateTime": "2021-12-08T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
+      "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
+      "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "originalUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024",
+          "width": 1023,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "publishedDateTime": "2021-12-08T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-the-best-smart-home-gadgets-you-can-buy-right-now.md",
+      "title": "The best smart home gadgets you can buy right now",
+      "excerpt": "Here’s a list of the best smart home gadgets, from smart plugs to robot vacuums, that you can get, as chosen by Engadget editors..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/best-smart-home-devices-154557162.html",
+      "originalUrl": "https://www.engadget.com/best-smart-home-devices-154557162.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2020-10/6f4230f0-0be4-11eb-b3f6-db9714009fa4",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts.md",
+      "title": "NewtonX raises $32M for AI that connects customers with subject-matter experts",
+      "excerpt": "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
+      "publishedDateTime": "2021-12-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "According to a market research report \" Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,",
@@ -876,231 +1125,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
-      "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
-      "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "originalUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/12/4-1638947408.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "publishedDateTime": "2021-12-07T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
-      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
-      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
-      "publishedDateTime": "2021-12-07T21:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-nec-facial-recognition-can-check-for-vaccination.md",
-      "title": "NEC: Facial recognition can check for vaccination",
-      "excerpt": "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
-      "publishedDateTime": "2021-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
-      "title": "Natural language processing: time is now to advance human language insights for finance industry",
-      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations.md",
-      "title": "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations",
-      "excerpt": "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic, environmental, and national security understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/4b/e4bc99db-b225-569e-9c54-7a882c1f592d/61b04eca9c26a.image.jpg?crop=796%2C418%2C80%2C0&resize=796%2C418&order=crop%2Cresize",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

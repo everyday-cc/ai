@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban"
-    excerpt: "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company."
-    publishedDateTime: 2021-12-11T02:38:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-449875/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "China’s AI giant SenseTime postpones IPO after US blacklisting"
     excerpt: "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO."
     publishedDateTime: 2021-12-13T05:54:00Z
@@ -66,21 +50,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US to shut all doors for Chinese chip manufacturer, AI Giant"
-    excerpt: "Officials want to close regulatory loopholes that have allowed SMIC to buy critical US technology, despite being on the banned list. Separately, Americans"
-    publishedDateTime: 2021-12-14T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
+  - title: "US blacklist puts China AI into local mode"
+    excerpt: "Artificial intelligence startup SenseTime is delaying its $800 mln Hong Kong IPO after the mid-deal shock of Washington’s investment ban. Foreign backers can be mostly replaced by mainland money. But the boycott ends the sector’s global ambitions and accelerates tech decoupling."
+    publishedDateTime: 2021-12-14T00:39:00Z
+    webUrl: "https://www.reuters.com/markets/asia/us-blacklist-puts-china-ai-into-local-mode-2021-12-14/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/smic_afp_2018-6-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban"
     excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings."

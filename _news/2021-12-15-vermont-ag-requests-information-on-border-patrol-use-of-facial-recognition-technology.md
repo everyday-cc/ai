@@ -39,6 +39,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Worcester bans city use of facial recognition technology"
+    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government. The Worcester City Council voted Tuesday night to prohibit city departments from acquiring or using the technology."
+    publishedDateTime: 2021-12-15T18:53:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Worcester-bans-city-use-of-facial-recognition-16703461.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
 
 secured: "PSLEBtK5IYRBsID0kWl9ItSCSl1c43JJ3URZH2tu5PWwS9wOs4XgX3VssV6bhQSEX6AbSWz5wvQiMNqyEzjdplAy8d5EiOls7wGKXyqfrEPoYrlLXWX8eZfFVsIhAXhR6KOkJc9Mif5TOLRY3Ad1subW9+BJ7v1Gs0DM0XAVZ+BtAWrpGXQU+2pPnzdtvGB1fKqcIGVH138cBf0Nd1GfmH7JoQirAMbzdQgcsnDwlFfRYqLPhufAUqKGMf72l4RpgjZPtbtketWzOiRWAmlKxJf7MXudabxK3RjeQKzzOAW4i+aGfI5zw5Ll+qWMmm7a2JNHasKltHIrKtqARDuYeW9eeEZ0vH8IVmSNWpFssSIPmbcqz/glda6Sm2QdCoDQlfD12m6dBwxh0qxCuejjWpuS2i2haPRKfB5kytlXAcFjLaL4vo6c+UKr6yAWvXp0mJtI7No1suZRdNf7sft3GvpeAr0+5ezLME2okmHMdaz7fZKJAa6xSlDOscuK3C6vQGQHFZ7tZ4AIOc/a/o9VGQ==;+VwpBX5/9G8bSJE34+on+w=="
 ---

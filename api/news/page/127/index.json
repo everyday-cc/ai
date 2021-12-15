@@ -2,6 +2,264 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
+      "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
+      "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-the-mental-health-services-available-to-new-students-in-nottingham.md",
+      "title": "The Mental Health Services Available to New Students in Nottingham",
+      "excerpt": "Your time at university is exciting and rewarding, but it doesn’t come without its challenges. Life as a student can be tough at the best of times, not least without the complications of a global pandemic thrown into the mix.",
+      "sourceUrl": null,
+      "webUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
+      "originalUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.leftlion.co.uk/media/4926260/mental-health-2019924_1920.jpg?anchor=center&mode=crop&width=1200&height=628&rnd=132755022350000000",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Left Lion",
+        "domain": "leftlion.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-qualcomm-technologies-ai-software-broad-and-deep-ai.md",
+      "title": "Qualcomm Technologies AI Software: Broad And Deep AI.",
+      "excerpt": "QTI software supports multiple hardware accelerators in both Snapdragon and the Cloud while making it easy for developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613942cb0d1ab212923a4ecc%2F0x0.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
+      "publishedDateTime": "2021-09-13T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-chinas-baidu-inc-opens-its-apollo-go-robotaxi-service-in-shanghai.md",
+      "title": "China's Baidu Inc. Opens its ‘Apollo Go' Robotaxi Service in Shanghai",
+      "excerpt": "Chinese tech giant Baidu Inc. has opened its Apollo Go robotaxi service in Shanghai, its third major city in China following the launch in Beijing and Guangzhou. With the launch of Apollo Go in Shanghai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
+      "originalUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202109/13/l_613fbff9b6497.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-is-working-on-a-new-transcription-feature-for-voice-notes-but-the-messages-will-be-sent-to-apple-to-be-processed-and-to-help-improve.md",
+      "title": "WhatsApp is working on a new transcription feature for voice notes - but the messages will be sent to Apple to be processed and to help 'improve its speech recognition technology'",
+      "excerpt": "WhatsApp's voice message transcription feature is reportedly still be developed for iOS. The messages will go to Apple but they'll stay encrypted since they won't be directly linked to the user's identity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/13/14/47856553-0-image-a-6_1631541465069.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "publishedDateTime": "2021-09-13T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-c3ai-inc-ai-ceo-tom-siebel-presents-at-piper-sandler-2021-virtual-global-technology-conference-transcript.md",
+      "title": "C3.ai, Inc. (AI) CEO Tom Siebel Presents at Piper Sandler 2021 Virtual Global Technology Conference (Transcript)",
+      "excerpt": "Piper Sandler 2021 Virtual Global Technology Conference Call September 13, 2021 12:00 ET Company Participants Tom Siebel - Chairman and Chief Executive",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "originalUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "publishedDateTime": "2021-09-13T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
       "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
       "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
@@ -836,255 +1094,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
-      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although I continue to believe that Baidu (NASDAQ:BIDU) stock has multiple",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-linux-developers-talk-again-about-an-accelerator-subsystem-or-moving-them-into-the-gpudrm-area.md",
-      "title": "Linux Developers Talk Again About An Accelerator Subsystem - Or Moving Them Into The GPU/DRM Area",
-      "excerpt": "On and off for years has been talk of an accelerator subsystem for the Linux kernel considering that for now most AI training/inference accelerator drivers end up lodged within the \"char/misc\" area of the kernel.",
-      "sourceUrl": null,
-      "webUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
-      "originalUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phoronix.com/assets/categories/linuxkernel.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoronix.com",
-        "domain": "phoronix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
-      "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
-      "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "originalUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/13/deputy_head_of_israel_aerospace_industries_autonomous_systems_division_rani_avni_speaks_during_an_interview_with_the_associated_press_in_an_iai_facility_near_the_central_israeli_city_of_lod_thursday_sept._9_2021._ap.jpg?itok=wjTEX_gd",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "publishedDateTime": "2021-09-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-self-driving-cars-heres-what-the-autonomous-driving-levels-mean.md",
-      "title": "Self-driving cars: Here’s what the autonomous driving levels mean",
-      "excerpt": "Driving will be a thing of the past, and if the tech industry is to be believed so will traffic and road accidents. All because the autonomous car’s computer brain is more connected and aware than any human driver could be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "originalUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qCqAueTrozgVBXDQ6AYvA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "publishedDateTime": "2021-09-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-impact-of-driverless-vehicles-on-society.md",
-      "title": "Impact of Driverless Vehicles on Society",
-      "excerpt": "Introduction The research question I chose was “Could Driverless Vehicles Pose A Negative Impact on Today’s Society?” I chose this research question",
-      "sourceUrl": null,
-      "webUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "originalUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truth",
-        "domain": "studymoose.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
-      "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
-      "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
-      "originalUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U913421287_g.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
-      "publishedDateTime": "2021-09-12T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

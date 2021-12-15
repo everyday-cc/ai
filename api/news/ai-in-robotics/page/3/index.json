@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
+      "title": "That radio DJ you hear might already be a robot",
+      "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "originalUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/robot-radio-dj-ai-voice-01.jpeg?quality=90&strip=all&w=809",
+          "width": 809,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "publishedDateTime": "2021-12-02T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-robot-company-wants-to-give-you-200000-for-your-face-and-voice.md",
       "title": "Robot Company Wants To Give You $200,000 For Your Face And Voice",
       "excerpt": "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot.",
@@ -1350,58 +1393,6 @@
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk.md",
-      "title": "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K.",
-      "excerpt": "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg",
-          "width": 400,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

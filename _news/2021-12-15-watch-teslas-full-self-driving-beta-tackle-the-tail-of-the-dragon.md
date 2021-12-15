@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Mercedes Beats Tesla to Hands-Free Driving"
-    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
-    publishedDateTime: 2021-12-11T02:45:00Z
-    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
-    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
     excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
     publishedDateTime: 2021-12-13T08:15:00Z
@@ -200,6 +184,6 @@ related:
         height: 533
         isCached: true
 
-secured: "v8zYte1a7ESsVMYNRRxTleuG+KxpJl3zXmuO8tPpsm10r8yvcPrwCA/UF5qhonsqfPD7KV9YVsRWx9bMRS7+/bfspkRGCutv/9vvFNmHSQ8UrqroXZmCuD6jBBN0HjVVg7mojzGUokBfMGAEDzHhQtrSReznmg6yuUttIHAc/x5KjSyXOZ0l0Imm9fcY6a9rARF4xJrBxTu5h6qqBP3KEpVuS0jnASqS3NqMeiL/c2RXSWmN/h9jkRBtf+YAfHBrxqH50xJZ/TQ7vbrvaKNyIgeuDLGnUYr0WT10BGLXGQeAffYAjndWvwQrFpMx76hl6fixd7AUIIYXPYNBPxUt9jEFnyihQ2b+Zj/UM7SkRWA=;4hLlSENC+QQYeODk/Vv4XA=="
+secured: "7ZcqRL7XwoJVA850G4uwh3y6vIS4QErNirO5cktfh4oX2mehNLqUsY8lHjye3+fFOL0Obnm8MGJ3xI0ak917jfZNaAms5L0pHpVnxcp7c4DTnrlVIsv4uH2g1vOvyqRymeTYrtEoqNrNkMBlOgOy2uC5IpHNjATKHuCWohtWL24USIpsdI0E6UZqmXffTgc09MsXh+rJSIRHbPfrGU1/VeXi7Amfem9plQlqzCFsx89W1WRamYsdgvQB+kSYNO6D86UADSZYhLed9TuzIkTwlL4Wwf7ubQwtCTNQ0AbiSDAFurDNsWlugSdd4baS5YeNdDs/BszZWRPJ3FdkZLaONA/RayV+GjzkkE42muTSW4vEYBIFL1zN8nM8mXK/3L47r5a8xGXzHzXNFRZfJRzB4a4S2elFgSOsKqtkm6Z2Z3fg+ZoB3M3yVB/jH7G95j4x7IR+wD93vb8rIEJhdqo+6aVV/10QqONLXFF6Jv+Y3tk4ea1n7f/nYcjCdmB0uGIl/bF5crQLmgKDApiv9fcACg==;SOFaKqRUYjIu6XofZyog5Q=="
 ---
 

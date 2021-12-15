@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
-publishedDateTime: 2021-12-01T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
-webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+publishedDateTime: 2021-12-02T08:38:00Z
+originalUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "kX4JLf0FaVIUJeV7TMNo/VxaPu1wOE4A5KRBfJeaLwsqibyPblJcscuKGxIGQF4a+iDlxt8bt6beyClEeeAaBKhnoGp+KKCf8Mtn35v0EulITdWO6SXbar+rupEndy8eexZ2+MPP84c5+bAXoVSgVh+VSW2TCP1Tpevm1I7SRkdw/f82lX2xW8/bewkgM2rE1XBNFQiD5KoHIY92NA4/RlkQkNrIIW+TXmOBXXJBAcoTi0fJDmNh1JkjPS8dJTycsYZzUiK+ernGq06XVulTPyJj1ygEuAguNX4ppAr2PHv8eCbuoMLHob86zjTSUqKODK9wOvtIeYjf1Lru5n5tJFiG+yIpNsZgm0Kh7qYqCdU=;dINunOCYF6J1sRnHmlfAgw=="
+secured: "iaQECZSCc8CWPiG80N9piSATF2NDv7laOVbLnQNSF2rsoy1SdCOJZmMIOjhMWO9PSKlNkSD3xGAgjwkfsInGVdyx/B4a8BRVGezS7nuC7x8vqxFFJIzb6QHMDk787psborf5c7omBrlG/Vc89XXPD9HFyHhS7or28mknVNRmvx8OOCLBFTmZCI0Yrdujx26h1jrawVnYksC+EjBZf34q8OiSxWxLx+xzZo20XvPuiyfkRo7U4yixp3Ic1YAlg/se3KGZcAyI9n17u89KK/fvxcz8BHg6rwClLIT9I5ga9GyfhpCViBiLEUzkMNJVaMLSUVlMH7mhIE50uBJvmr2YA8IpKlKMWpMZbQI+4UylsIE=;Q8lvDrKZ/xXC40hUcCZwgA=="
 ---
 

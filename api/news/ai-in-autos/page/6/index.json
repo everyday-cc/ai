@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
+      "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
+      "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "originalUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/11/XPeng-Smart-Driving-Points.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "publishedDateTime": "2021-11-02T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-why-artificial-intelligence-startups-failed-to-deliver-on-their-promise.md",
       "title": "Why Artificial Intelligence Startups Failed To Deliver On Their Promise",
       "excerpt": "AI-based startups were launching everywhere with the promise ... Depending on the industry you might also need to address privacy and ethics concerns. The next step is to train a model. Think of training as wiring a bot’s brain so a set of attributes ...",
@@ -1342,49 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
-      "title": "TuSimple: Taking Retail Money May Be Too Simple",
-      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
-          "width": 768,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "publishedDateTime": "2021-10-24T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

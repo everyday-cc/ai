@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
-    excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"
-    publishedDateTime: 2021-12-14T14:41:00Z
-    webUrl: "https://menafn.com/1103359289/UAE-Global-Conference-on-Artificial-Intelligence-Internet-of-Things-to-spot-light-on-life-after-COVID-19"
+  - title: "Robots taking more jobs because of COVID-19 pandemic"
+    excerpt: "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year."
+    publishedDateTime: 2021-12-15T16:00:00Z
+    webUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic"
+    ampWebUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
+      name: The San Bernardino Sun
+      domain: sbsun.com
+    quality: 59
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/14/ENA(_c0849image_story.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 681
         isCached: true
+  - title: "Machine Learning-Backed Planning of Rapid COVID-19 Tests With Autonomous Vehicles With Zero-Day Considerations"
+    excerpt: "The COVID-19 pandemic has stretched public health resources to the limits, and the only realistic way to keep the infection rates low is effective testing to prevent community transmission. In this research study,"
+    publishedDateTime: 2021-12-14T05:48:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9647946"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "Ufft6GFSSmJ0u5rwLCOU9MXJNf5X5btblagOj0IG9JlQxTAQfF8FRhV0+pRTFe7XIhXF53vF+n0vFsRJwBwbA4/VraeMhrGhxSqNRkW/U+tKhuRlzxYCiapzGKaDXazHQ2KmozXF9w6/5ytE+shzrVG3pWSLf8yB6CJxoCnjkR8YJXs5mO8Ch9THS03P2ykm8n7WrtnZBvF9vxowmyDwTutpVSV53shSZlZb72ntKr9yEsfO1Gxm3LzA5mdse7nOWHb+fU2x+P3iZXOENqiBr95sBslbQrrlK5pghGWiZw/9VljPSYcjeXKlj1CuhxP9smtrEYpiYWnJ3SbLkGHshLYrCleD2Q1mySxIS9gCjfg=;wu+9rALUdWOSEcrKmbUOBQ=="
 ---

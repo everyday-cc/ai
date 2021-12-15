@@ -2,6 +2,309 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
+      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
+      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "publishedDateTime": "2021-10-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
+      "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
+      "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg",
+          "width": 2001,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-and-pr-how-tech-adoption-could-impact-your-job.md",
+      "title": "AI And PR: How Tech Adoption Could Impact Your Job",
+      "excerpt": "The technological revolution continues to impact public relations (PR) at an impressive speed. Not long ago, many in the PR industry steered away from adopting PR tech powered by artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
+      "title": "Fintech Ecosystems — Some Assembly Required",
+      "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
+      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
+      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
+      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
+      "publishedDateTime": "2021-10-12T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
+      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
+      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
+          "width": 4000,
+          "height": 2693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "publishedDateTime": "2021-10-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
       "title": "AI estimated to provide 10% boost to UK GDP by 2030",
       "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
@@ -854,291 +1157,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape.md",
-      "title": "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape",
-      "excerpt": "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-korean-robo-advisor-fount-bags-334m-to-advance-its-ai-based-platform.md",
-      "title": "Korean robo-advisor Fount bags $33.4M to advance its AI-based platform",
-      "excerpt": "Fount, a robo-advisor startup in South Korea, has raised a $33.4 million Series C round to beef up its machine learning-based platform development and hire staff.   The latest round was led by Hana Financial Investment,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
-      "originalUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Fount_logo.jpg?w=892",
-          "width": 892,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
-      "publishedDateTime": "2021-10-11T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-aris-robotics-on-a-mission-to-reduce-waste-in-the-world.md",
-      "title": "ARIS Robotics: On a mission to reduce waste in the world",
-      "excerpt": "The founders of the startup, ARIS Robotics, are on a mission to reduce waste in the world. Read about their journey right here!",
-      "sourceUrl": null,
-      "webUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "originalUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "publishedDateTime": "2021-10-11T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
-      "title": "AI technology could reshape the U.S. government, but should it?",
-      "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/government_funding-e1633966248930.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
-      "publishedDateTime": "2021-10-11T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
-      "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
-      "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T14:19:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

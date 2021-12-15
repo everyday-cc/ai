@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -41,49 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach.md",
-      "title": "Xpeng Motors fined by Chinese watchdog for facial recognition breach",
-      "excerpt": "Chinese automaker Xpeng has been fined by China’s local market watchdog for collecting customers’ facial data without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
-      "originalUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/03/Xpeng-at-a-mall-in-Beijing.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
-      "publishedDateTime": "2021-12-15T00:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1379,6 +1336,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
+      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
+      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

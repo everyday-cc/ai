@@ -8,8 +8,8 @@ webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/th
 ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
@@ -61,6 +62,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "sMAtIrbU/DNPCrzrUTbqvtGagxzN4WpCTkwxyUmHeSQJafYV1vZ6l4GlAoZuAfaR4JC/WKZolFiyKvTp2+DdV29Ye+p1NeNWjyVLmKhxyBp2qNAS3m67lZLdtBU5xik8A9wPvcMSOLsFS1PmKgmyOaJs1gxGvjOxIbM2flKhrWcGWBosVabE0KykVrzJHU/LG3D1cxOies+fayk44X7yqTin3CmwjxDcg3QUwd6heDHhg1dnNw8idTmXITpvCVBFCTNEoYg+sHa3bhKIXh+tny86H6CpsHrqXFlPNx8WzwiaFZMdsw1kR4yjv70TD2cuUpb2bJaU8WnE+lquxR2d4qwg7GBI1i+j9EY9AqYdEVo=;IplJfTmEWOLEnjgj0hdhHw=="
+secured: "PjKvtLgWE/ueAD6m+oBl4taIfzx9autgwl2mhaHGGNg4vM9Y3Hcys3SQP7liHq/sHmT79pqK5udqTBH8L+korIOJ0QPen9pxrNwUNbWjyHSj6pTmJaK9cai22J+K+UGKU2R6UCMVGuPUJexYypadkDHbv3MazZhBPFrSTtL8QnRe+LMx/qffiwD7lYn4vEhTrKaSXAxycY3NvgC5vSH23ebDZB3/4UVNK1Yu2EBWBTbk9Q+fxGr9j92JmgoZuhsEgj/DyLmHMB2LUEwZYq5jrhLlZV5V0u7S7CGzdpG2aydcrf6G1bfSUOGg890DghDqba0HOeQzHfLqJ4U6g9PIu5KCA1NmNl0BO97ip1uSejPP7ViL1KqQaSJ6aAj7DsRgh9+lq32LXMPKwv7z+1RWP44q9qjtrNrIwmRfZvY7/V7QGcC3Mj6aN3l0dakxetVR/t3cd9bhCe3SFrg0SwHgjqGbK3OSKKj3UAWeq+5v6tx3nMbygU3C8oyfQXoF2SBtxuuxXapjVRixWN/Ss8HoTw==;HTJw/sHWDZ5TgS6NIq7iQQ=="
 ---
 
