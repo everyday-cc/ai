@@ -2,6 +2,142 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-11-18-grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-using-ai.md",
+      "title": "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI",
+      "excerpt": "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
+      "publishedDateTime": "2021-11-17T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips.md",
+      "title": "Advanced Verification: Unlocking the Door to a New Era of AI Chips",
+      "excerpt": "A look at how chip manufacturers will have to adjust hardware architecture in order to accommodate ever-growing demand for increased AI functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
+      "originalUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/11/Synopsys-Kiran-Vittal-featured-image-EDA-tools-.jpg",
+          "width": 600,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-why-conversational-ai-is-now-ready-for-prime-time.md",
+      "title": "Why conversational AI is now ready for prime time",
+      "excerpt": "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
+      "originalUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
+      "publishedDateTime": "2021-11-17T16:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
       "title": "Computer Vision in Agriculture",
       "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
@@ -1068,153 +1204,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-google-launches-bot-in-a-box-to-nudge-along-conversational-ai.md",
-      "title": "Google launches Bot-in-a-Box to nudge along conversational AI",
-      "excerpt": "The new feature from Google Cloud makes it easier for businesses to launch chatbots using existing customer FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3d1e5183f434477463f6546bcdf2e2e2eb8717ac/2021/06/28/554d89ed-c8e3-43bf-b77e-354982cb4942/thumb.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics.md",
-      "title": "Machina Labs emerges from stealth with $16M raised for on-demand manufacturing robotics",
-      "excerpt": "Machina Labs today announced a $14 million Series A for its robotics and AI-based manufacturing. The round, led by Endeavors and featuring Congruent Ventures and Embark Ventures, brings the Los Angeles firm’s total funding to $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.42.34-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-canons-450-camera-uses-facial-recognition-to-automatically-take-photos.md",
-      "title": "Canon's £450 camera uses facial recognition to automatically take photos",
-      "excerpt": "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/11/17/16/50614429-0-image-a-14_1637165765360.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "publishedDateTime": "2021-11-17T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

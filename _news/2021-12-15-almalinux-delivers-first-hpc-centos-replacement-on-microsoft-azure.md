@@ -1,57 +1,23 @@
 ---
 category: news
 title: "AlmaLinux Delivers First HPC CentOS Replacement on Microsoft Azure"
-excerpt: "The AlmaLinux OS Foundation, the nonprofit that stewards the community owned and governed open source CentOS alternative, today announced availability of the first AlmaLinux high-performance computing (HPC) image for deploying HPC workloads on Microsoft Azure."
-publishedDateTime: 2021-12-14T20:59:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/14/9511264.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/14/9511264.htm"
+excerpt: "The AlmaLinux OS Foundation, the nonprofit that stewards the community owned and governed open source CentOS alternative, today announced availability"
+publishedDateTime: 2021-12-14T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211214005526/en/AlmaLinux-Delivers-First-HPC-CentOS-Replacement-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20211214005526/en/AlmaLinux-Delivers-First-HPC-CentOS-Replacement-on-Microsoft-Azure"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
-    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-    publishedDateTime: 2021-12-10T10:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft's new SpaceEye technology enables imaging satellites to 'see' through clouds using AI"
-    excerpt: "Microsoft has announced significant expansions to its Azure Space ecosystem. Microsoft is adding SpaceEye, which lets users 'see' through clouds, and delivering AI-enhanced imagery to make satellite photos have as much detail and fidelity as traditional aerial photography."
-    publishedDateTime: 2021-12-10T16:13:00Z
-    webUrl: "https://www.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space"
-    ampWebUrl: "https://m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 62
-    images:
-      - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1077091689/microsoft-azure-orbital-space-bts.png"
-        width: 590
-        height: 316
-        isCached: true
-
-secured: "1U/7j0h5L16TtqNojRmaX4gR70yH2lrCcOYw7YFmAZjzZLIL6iZzEAq63RE8zop4WbABe39BIpkiO9Sh0LElqBnaE2x55sGylnjgPcObEqufBzV62T4Tqxa/5NA7E487aiLQqGSWjgDs2DSTTmr2YlkS2uqw8P5uuX8lvGmJ6BKVEFk0jFYfHRvmWytKG46SoCsqjpiQHLwO08V4jqkQ/c16/bJIotMTyc8rnb9/yOd/18YHukfs1GFK9HVJ+eT9vWs6RHk21z4BJ5kBcj65gQLYT/U4KmEC4merAEGxA82XjkVdi6rcE3YdD19LKz/S0u50AiZxPw1UuVaXTo3dArim/qM4rfAHiQEMdal5a+k=;QNjTAhg3TiIKBVwGd1K+tA=="
+secured: "Tdh+N9alCJwrqtXnJHGO+s6qPOk2PUtw66PF6SqpIqJovJeWcf03gCxsVWsbCTo1/M6Q6FXs7WgPHHZloIHPXCoGbePAYSB7nJN+mSJp5Qe4Y1ldCqT1pvH+LZcCCT0/sSAUwVxW3OBk0i6scUkM4i8GRAVGI4NitFmygTqZ+9kdqcK6M7r9dFuwzDO5mxxcyCYCJMJ6EF7ZQi58r7NtCG7pZMMziG5jUkZwfADxY03gHNRe2ZLHgFN476lOILc27fxTK/Pa6nc92YAjHBbY5s6DjVmYWwt8dO30DpRHg6V1ojUhu8KoVWsF/w2aTjEDhVZxfmH2DIZYFTcowPeeo4xT09lU62/9aNIpYPSNsgSTRbk2pkH3Ej+alyz8KXlhsyGvqKh7Q55I3cu9gP+Frtt5ooMZpEqgneaP1OnAEpLF2IIkJZI/uqY44kG10dqhr2vF8Y5kn/dB6uLeROBMqo2APjy/6ad0B6PQmZrp9SBSbg2mkwnPc8syISVy8qJM3i1eSATm6rt2xmSiyRuYug==;lrk4FugZq+IZbHSZtqDsvw=="
 ---
 

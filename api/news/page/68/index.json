@@ -2,6 +2,135 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-10-25-baidu-to-foster-5-million-talents-to-power-ai-growth.md",
+      "title": "Baidu to foster 5 million talents to power AI growth",
+      "excerpt": "Chinese tech giant Baidu Inc will cultivate 5 million artificial intelligence talents in the next 5 years, aiming to create a well-rounded tech labor force and power AI growth, said Robin Li, co-founder and CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202110/25/WS61764096a310cdd39bc7113a.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202110/25/WS61764096a310cdd39bc7113a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202110/25/61764096a310cdd3d8159358.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
+      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
+      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
+      "title": "TuSimple: Taking Retail Money May Be Too Simple",
+      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
+          "width": 768,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "publishedDateTime": "2021-10-24T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-machine-learning-ml-certifications.md",
       "title": "Machine Learning (ML) Certifications",
       "excerpt": "Learning artificial intelligence (AI) skills will cover some of machine learning ... program match the requirements sought by a future employer. Amazon’s AWS Certified Machine Learning program is based upon a test and requires candidates to be able ...",
@@ -1016,151 +1145,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.md",
-      "title": "Quotation of the Day: U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World",
-      "excerpt": "U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World “Once they have access to your genetic data, it’s not something you can change like a pin code.” EDWARD YOU, a national counterintelligence officer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/22/todayspaper/quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/22/us/politics/22dc-INTEL1/22dc-INTEL1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
-      "publishedDateTime": "2021-10-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
-      "title": "Mailchimp employs AI to boost email marketing campaigns",
-      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp",
-      "publishedDateTime": "2021-10-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-new-bill-would-secure-government-contractors-use-of-ai.md",
-      "title": "New Bill Would Secure Government Contractors' Use of AI",
-      "excerpt": "Two Senate leaders on Thursday introduced legislation that would form a working group charged with monitoring the security of AI data obtained by federal",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/",
-      "originalUrl": "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/615f6fab0208edf75baf39bd/master/pass/AI-Bill-of-Rights.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "publishedDateTime": "2021-10-22T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Info Risk Today",
-        "domain": "inforisktoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

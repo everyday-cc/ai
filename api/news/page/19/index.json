@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-01-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
+      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
+      "excerpt": "Governments need to curb the power of tech companies and increase the power of workers in order to safeguard people from unsafe uses of artificial intelligence, Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/11/30/GettyImages-1028811892-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "publishedDateTime": "2021-11-30T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption.md",
       "title": "IBM Watson Health Introduces New Opportunities for Imaging AI Adoption",
       "excerpt": "CAMBRIDGE, Mass., Nov. 30, 2021 /PRNewswire/ -- IBM (NYSE: IBM) Watson Health is introducing a new AI orchestration offering to help imaging organizations experience the benefits of having AI ...",
@@ -1130,57 +1173,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai.md",
-      "title": "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI",
-      "excerpt": "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "originalUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/64fd1585f18543733a0d67b09d20120e3acbd131/2021/10/28/adc45ef8-776c-4eab-a21f-a311dfcb86ac/20211028-sf-nov.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "publishedDateTime": "2021-11-30T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

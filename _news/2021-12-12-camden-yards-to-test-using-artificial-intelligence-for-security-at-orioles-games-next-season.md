@@ -7,7 +7,7 @@ originalUrl: "https://journalstar.com/camden-yards-to-test-using-artificial-inte
 webUrl: "https://journalstar.com/camden-yards-to-test-using-artificial-intelligence-for-security-at-orioles-games-next-season/article_167f8657-9b84-5c8f-bcc4-ee983df71b74.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1200
     height: 632
     isCached: true
-
-related:
-  - title: "Oriole Park to test artificial intelligence security product"
-    excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-    publishedDateTime: 2021-12-10T10:08:00Z
-    webUrl: "https://www.kentucky.com/news/business/article256457406.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article256457406.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256457406.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 54
 
 secured: "rcUT/yVjAHv7+aYq/vmuu8kagekvOTffbjcDsTHRn987Z2DIT9w/bIn/OwJY1UP2rboN03njZvKA6ef2tYL9Mp5Mdne1K/125iesrxphzATAblt0TCJS6N1WscY3CnpuSPKhUNUNFc9CTdkhqjQOBcgMXR/H9vOsihkcMPOx65zqvDXw4Oe1sbOeK3vb0IxWrJbd/9YKFgp03Z2XsxM3PBkPZfF7v/TRiI1VM97xFljHgGbbn5GhANQNcAZljEJCu1Il3nr3yz18tvbD7upAmNkWOJg4V7oREJcORld8YYOwK/7tXaKSlYtDvlfPFf+69dQcBeXiLvdcraPOttvAQUn7uOWarP+LholcY9K9X20dviXJNvtIpg6xtZEQF3Q5wlKv3LlBpdPG7Dwp5QrrIlbMzAWioZBftu8uACpJ5M7fnRrQe/gogaqeICgUMgtmQ29ZLKDAAnF9BFrKD6PaPxAB5jzXzpkEVlTwc/JaWZM9hd2fjlpR6x7SXRZK3LbylFh2jGW+TnpPi048839rHg==;DXbgt6rnm8rn/cHrWSxhtQ=="
 ---

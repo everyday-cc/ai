@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics.md",
+      "title": "Zhejiang University: Joint efforts called for to promote AI ethics",
+      "excerpt": "A multi-country panel of scholars, researchers and stakeholders called for global efforts to tackle the peril of AI usage with AI ethics at the Workshop themed on “the AI Ethics & Internet Governance: Global Lessons & Practices”.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "originalUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/1200px-Zhejiang_University_Logo.svg_-1024x1024.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "publishedDateTime": "2021-12-14T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-can-ai-help-make-social-media-more-accessible-inclusive-and-safe.md",
       "title": "Can AI Help Make Social Media More Accessible, Inclusive And Safe?",
       "excerpt": "In the latest edition of our “On AI Ethics” series, we caught up with Ramit Sawhney, Lead AI Scientist at Sharechat. Learn more about how the India-based social media unicorn leverages machine learning to to further its mission.",
@@ -1375,58 +1418,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
-      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
-      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "publishedDateTime": "2021-11-26T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

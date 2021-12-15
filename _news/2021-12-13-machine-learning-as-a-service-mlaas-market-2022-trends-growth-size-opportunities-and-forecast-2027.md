@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
-    excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-    publishedDateTime: 2021-12-10T10:46:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Cloud Artificial Intelligence Market Outlook 2027 - Industry Trends, Opportunities and Forecast"
     excerpt: "AMR Logo The global cloud AI market is expected to grow significantly over the forecast period, owing to an increasing adoption rate of c"
     publishedDateTime: 2021-12-10T22:52:00Z

@@ -158,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-15-zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics.md",
+      "title": "Zhejiang University: Joint efforts called for to promote AI ethics",
+      "excerpt": "A multi-country panel of scholars, researchers and stakeholders called for global efforts to tackle the peril of AI usage with AI ethics at the Workshop themed on “the AI Ethics & Internet Governance: Global Lessons & Practices”.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "originalUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/1200px-Zhejiang_University_Logo.svg_-1024x1024.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "publishedDateTime": "2021-12-14T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m.md",
       "title": "TealBook to power supply chain visibility with AI and latest $50M",
       "excerpt": "TealBook, a startup that leverages AI to update and maintain a database of supply chain data, has raised $50 million in capital.",
@@ -1171,49 +1214,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
-      "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
-      "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "publishedDateTime": "2021-12-14T00:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

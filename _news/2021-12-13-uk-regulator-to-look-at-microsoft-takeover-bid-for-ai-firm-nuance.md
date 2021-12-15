@@ -45,22 +45,6 @@ related:
         width: 4657
         height: 3105
         isCached: true
-  - title: "Microsoft Azure Orbital opens up space to everyone"
-    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
-    publishedDateTime: 2021-12-10T10:16:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft grabs Nuance as latest healthcare bet"
     excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
     publishedDateTime: 2021-12-14T06:00:00Z

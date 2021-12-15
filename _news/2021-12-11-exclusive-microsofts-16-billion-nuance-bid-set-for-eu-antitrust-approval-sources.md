@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 243
+heat: 233
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Orbital opens up space to everyone"
-    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
-    publishedDateTime: 2021-12-10T10:16:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
     excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
     publishedDateTime: 2021-12-13T13:00:00Z

@@ -2,6 +2,50 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-26-193-countries-adopt-1st-global-agreement-on-ethics-of-ai.md",
+      "title": "193 countries adopt 1st global agreement on Ethics of AI",
+      "excerpt": "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pna.gov.ph/articles/1161070",
+      "originalUrl": "https://www.pna.gov.ph/articles/1161070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg",
+          "width": 720,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gov",
+        "domain": "pna.gov.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
       "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
       "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
@@ -336,6 +380,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-sd-times-news-digest-amazon-announces-rekognition-custom-labs-scalajs-100-rc1-and-julia-13.md",
+      "title": "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3",
+      "excerpt": "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif",
+          "width": 589,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -806,6 +903,40 @@
       ]
     },
     {
+      "path": "_news/2021-11-25-liability-for-robots-i-legal-challenges.md",
+      "title": "Liability for robots I: legal challenges",
+      "excerpt": "Department of Economics, University of Bologna, via Angherà 22, 47921 Rimini, Italy Department of Economics, University of Bologna, Bologna, Italy In robot torts, robots carry out activities that are partially controlled ... to bear in mind that human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-get-nod-to-launch-paid-driverless-robotaxi-services-in-beijing.md",
       "title": "Baidu, Pony.ai get nod to launch paid, driverless robotaxi services in Beijing",
       "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China’s capital Beijing.",
@@ -983,144 +1114,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
-      "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
-      "excerpt": "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
-      "originalUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/baidu-pony-ai-approved-for/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/",
-      "publishedDateTime": "2021-11-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
-      "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
-      "excerpt": "SHANGHAI -- Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "originalUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-kicks-off-its-robotaxi-business-after-getting-the-ok-to-charge-fees-in-beijing.md",
-      "title": "Baidu kicks off its robotaxi business, after getting the OK to charge fees in Beijing",
-      "excerpt": "Effective Thursday, Baidu's Apollo unit that runs the robotaxi business can collect fares from passengers taking one of 67 self-driving cars in Beijing's suburban district of Yizhuang. While the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106979826-1637738392441-gettyimages-1280199601-vcg111302456269.jpeg?v=1637738596",
-          "width": 4716,
-          "height": 3397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "publishedDateTime": "2021-11-25T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

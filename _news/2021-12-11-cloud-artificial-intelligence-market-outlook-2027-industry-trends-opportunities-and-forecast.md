@@ -53,20 +53,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
-    excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-    publishedDateTime: 2021-12-10T10:46:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Computer Vision Technologies Market is Progressing At a CAGR of 7.9% During the Forecast Period 2021-2028"
     excerpt: "The top notch Computer Vision Technologies Market report provides essential information, objective insights regarding international market trends and"
     publishedDateTime: 2021-12-10T12:43:00Z

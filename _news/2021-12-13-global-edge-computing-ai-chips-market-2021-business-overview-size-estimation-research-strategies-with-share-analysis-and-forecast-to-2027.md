@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai
 webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
 type: article
 quality: 50
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
         width: 700
         height: 467
-        isCached: true
-  - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
-    excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-    publishedDateTime: 2021-12-10T10:46:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Cloud Artificial Intelligence Market Outlook 2027 - Industry Trends, Opportunities and Forecast"
     excerpt: "AMR Logo The global cloud AI market is expected to grow significantly over the forecast period, owing to an increasing adoption rate of c"
