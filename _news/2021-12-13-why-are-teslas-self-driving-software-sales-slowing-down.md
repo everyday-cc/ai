@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
 type: article
 quality: 121
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/12/Tesla-HERO-1-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
+    excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
+    publishedDateTime: 2021-12-15T15:05:00Z
+    webUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141"
+    ampWebUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla's Self Driving Beta Software Shows Humans How To Drive This Dangerous Road"
     excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its self driving software, dubbed FSD Beta, for over a year now with a small set of public volunteer testers. Recently,"

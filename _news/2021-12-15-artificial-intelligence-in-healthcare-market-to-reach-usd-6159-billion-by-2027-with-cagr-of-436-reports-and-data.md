@@ -44,6 +44,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Warehouse Robotics Market size worth $ 9.1 Billion, Globally, by 2028 at 14.0% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \" Warehouse Robotics Market \" By Product (Mobile Robots, Articulated Robots), By Payload Capacity (Below 10 kg, 11 kg to 80 kg), By Software (Warehouse Management System,"
+    publishedDateTime: 2021-12-15T15:50:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/15/9512099.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 14
 
 secured: "OvqeWRxtmS8TzZkpGe8Gb9SsbGYtne094RK8lnEwjDPA3vRtQmMjUeu8eFR50aBe9KCWkL9OZRk+Xdv++SoJ3atMOyLHmR6ehXVTIO1j8ef2kkIMZhXqdY6c52M4kjKMOrpNAFpHipq3k39FzvS/M1bTMCOeyCIFa34s5eu4yO8iBXByIrcscuK8RdU7nEXgWl4ltC9Yn6xuHEDB9Vc6mm29Eluqtp/UI115D5FZixsGFAPSG6W+cf/7J/FvKnw+m4vMSrmXkzsLEfJwidtUZaszPiF1Ev3yjSI/9/ohxtw9M3Bazcr2Qr4VSjhx/FjGSG8gqxpSmNUJ9NTiHbwe/npaRevF8lWjcDWF++Dht30=;pVO3zMUAeXpAB6uGRqmztQ=="
 ---

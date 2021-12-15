@@ -77,6 +77,15 @@ related:
       name: run Linux-based Opera TV
       domain: linuxgizmos.com
     quality: 13
+  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
+    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
+    publishedDateTime: 2021-12-15T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PKSOZzUXUAcz/j47kxk/2PZxXHybbGlRu7prPNxoYrRAW1zMcrM0PzrS1hkiTPuTO/svciJw1KNIDgHMZkrTH4ckOgfc5oPjlpAMFFZ+w6EFupnK0phfwaBOFIyNv6yXfpJiyDn2ozcD8aG0CV+OHAiTGoyYNe1PrlpCHty53/8Gb0v7TEQZKOt8HDtShb04AnvEBIfvJl37oT8BIPiOtFtxVVCUedQZBSB/P7n5enwf75xZgW3FVkpPWymCt8h1Pqb7cNc5YWsZOCXNl/GqRpjJJKYzx5IHQiioEOdK8BX55vqqxVZl3NKrK95cBAWVM7koiQ/wN6BNSzFM+qX0cogWFWBZLhWzfszqnKjldNI=;m87FAjB+hzGUtDs2/wSYxg=="
 ---

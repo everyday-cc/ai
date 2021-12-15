@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
+    excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
+    publishedDateTime: 2021-12-15T15:05:00Z
+    webUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141"
+    ampWebUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
     excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
     publishedDateTime: 2021-12-15T03:52:00Z

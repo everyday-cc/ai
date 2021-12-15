@@ -49,7 +49,7 @@ related:
     provider:
       name: Chemistry World
       domain: chemistryworld.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
         width: 1024

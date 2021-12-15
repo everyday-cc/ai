@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-
 webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,82 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars"
+    excerpt: "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter."
+    publishedDateTime: 2021-12-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Zoox, AutoX, Pony.ai Execs on Self-Driving Cars"
+    excerpt: "Founder and Chief Technology Officer, Zoox; Dr. Jewel Li, Chief Operating Officer, AutoX; James Peng, Co-Founder and CEO, Pony.ai spoke to Bloomberg’s Edward Ludlow at the Bloomberg Technology Summit about their outlook on self-driving vehicles."
+    publishedDateTime: 2021-12-14T21:19:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-12-14/zoox-autox-pony-ai-execs-on-self-driving-cars-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_SK6LDSCDaA/v53/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Autonomous future: Self-driving taxis under trial in UAE"
+    excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
+    publishedDateTime: 2021-12-13T11:07:00Z
+    webUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae"
+    ampWebUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 44
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/13/thumbs/800x531/166958.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
+    publishedDateTime: 2021-12-13T00:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Self-driving trucks tag-teaming with human drivers is the fastest path for autonomous trucking"
+    excerpt: "This article proposes that the most practical way for self-driving to work in trucking is for the driver to stay in the truck throughout the job, handing driving responsibilities to the autonomous truck on highways in order to rest and reset their hours-of-service,"
+    publishedDateTime: 2021-12-15T16:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-trucks-tag-teaming-human-drivers-fastest-dan-lewis"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 12
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "j633Wt0dmsVg+/+0d3SeP2/rzPbp4nwsul9ofbnwsa1BhO3Svtn/7QesMrSBnRgmCvaGHX1xZ/BiOupMWflGk+Wjgp0uZllRjSPqSYlwnU/lpTT7JxdGhz9kq7oNpotcPY2cVMIo945IbUzrnQzyEWRGKbVQhM95gvZcOxDpcX+//4hwW41Fxv1HMobmiksuvwq0StVj/4nw4XsgBYTs/S5t/UCqQEnVpv6jEKZ6fKPUc3vPxk1slbuNWl1bF5OeWX7h+lQlOI+5pVdPexyR5zlZaoTECKLCkPGB68/MFW5eV+cuOz0BuVnHvRY8uaz8gGaFjx95TwYLBNypEsF54pUSZv013U9JcIKMw0ZN+VtsqULeXjsV5wPPGb3UUhi3xGjTqXYDBF6MJCC1s3rZ6LMVzQe2M1HKr6I/FNHO6MuSTo00cvNl1hDRWgWhKktBNQeMU8mxZpOJxvAF/Kw1OAwdH/3DtCwrjHj7nMajTzLHpw8EoOPwk8Yj4f9tGjcNhESEkAE3FP9bQQCB0QgnFA==;N87T4Q6OunLH1+M7U9XjfA=="
 ---

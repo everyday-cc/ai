@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-so
 webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: run Linux-based Opera TV
       domain: linuxgizmos.com
     quality: 13
+  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
+    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
+    publishedDateTime: 2021-12-15T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mJQHfxwqoMESOaOPUBUQOm7b79doKookjnVujED7t/E8cWulfWsThb7HOdpsbSTM5mrpQRg5qPbMxuXps3cAfw8ydKrlsOlsk95dn2ojg98wk1skoKz8BTONg04l+Yk6E6UMDhiBomU6CWLRMMh+MTTAEiOEIPBRh9D6+THOG+Dlfc/WS0tK3DcvM5y64/YvMLaIWsFzjq59T8GsaXImGYgvifgLH82OBKZZrgMyBHA7IaL/At/6jtYo1qBNOTJti7MV1rUKGLSzT6/uXyJ51Xr9nUQ6mkYX0eaZxAKbQlMxSjEmEu3ohI2cUBjpFUTlNuM3dcBlNsjXpOz3qM3LypOfVfmMmNDsT7T++GYIaupyayy+vgD0N1u29gfNV1gfnCkE0YO65lfvvYg5Rh78dWv2tU4dhibBDXaKmD0hH8IzA/trgBlUbESYARn2q1VW8oOlRD0kv+EPdQZoBUzYDq4REEvLK7leLhQjI8xdW0RgTUV8QbgVDoP5iZLw0lb/VDCu82AT/6h+hb9uqYOlmA==;p4JOc3WMrUelv6V2NPu5vw=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "How Artificial Intelligence Could be Filtering Out Qualified Workers"
+    excerpt: "But with so many resumes on the move, some applicants might not realize they could be missing out on their dream job due to artificial intelligence. Even before the pandemic, many companies were using computers and software to scan resumes for keywords to speed up the hiring process."
+    publishedDateTime: 2021-12-15T10:05:00Z
+    webUrl: "https://www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/"
+    ampWebUrl: "https://www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/?amp"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 57
+    images:
+      - url: "https://media.nbcdfw.com/2021/07/shutterstock_794896723.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VGmbfAFQ75GGKvkEfccAvKHdsnMjfC5o/HzImliszDaYDRRCN0lyT1WXVrDybbGduvx4d2Xrca9hnPb4+Ye/0pgL9aUAFkOMmI3LQJydgiYOljG76zTyZ40zjC+nIzCexkmkQC3OknYfep8QcTEXMt/crFg14jCl9TgQmoWLUchhYx/UJFe/gajilkRv24nv2PnsME1QN//vNgvUAvDf6wg0HmFrluZwIIrA4rt2WhZ0rJ4lYRdSqHVj9eAsv2EoSOKisdjjM6BOaPiCQyvFBrOZTA/CgviiF5SixKHePBzMRRMHpPs8vTI5DVToP9su4Q/TdB/fqmGzhGbyFcb/INVSvULDLzXYDPbY30P/MCApP6XbAiLCox+BiNCfbRNGE/xJYr4kGxzXCI7gzsGT89SiWIjXmMMpYDVOvSZF4CioGuWkDIhW+M7Dpxes1qn2X1LjEifXq/CwPq3YKzNFViCA4RR9KS+iizcmAuOtyrGGamQKXyiMMFvQD7Y56p/apNikSdecoAFNu6HAoFc8Kw==;ugYI9+QO9VOjulpR5irYBg=="
 ---

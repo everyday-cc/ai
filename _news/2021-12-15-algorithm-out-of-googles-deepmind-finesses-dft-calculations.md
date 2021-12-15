@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-15T09:30:00Z
 originalUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
 webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"

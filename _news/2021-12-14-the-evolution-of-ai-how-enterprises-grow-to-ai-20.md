@@ -28,21 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "7 ways to make the wider enterprise comfortable with artificial intelligence"
-    excerpt: "The challenge is putting people first in any and all AI projects. AI practitioners provide recommendations for building a people-centric, yet AI-driven culture"
-    publishedDateTime: 2021-12-11T16:55:00Z
-    webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+  - title: "The many faces of artificial intelligence"
+    excerpt: "Artificial intelligence has graduated from science fiction to being applied to almost everything. One dental hygiene manufacturer has even claimed its electric toothbrushes now incorporate the technology."
+    publishedDateTime: 2021-12-15T16:27:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1600
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "The Human-Like AI Robot Desires To Be A Mother"
+    excerpt: "Sophia is a social AI robot created by Hanson Robotics, a Hong Kong-based business.Sophia made history in 2017 when she became the first humanoid AI robot to be awarded legal citizenship."
+    publishedDateTime: 2021-12-11T14:15:00Z
+    webUrl: "https://www.thehansindia.com/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
+    ampWebUrl: "https://www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/12/11/1130931-robot.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "r22hNLt2mLY6KBzGjon2e0uB7lcSuoO8c2YHVdqbXi72e1WGSTV8MgAATrpqj98oUo3l87iiS7XqD8Jykqo0MKtWQdeNAHA7Yn3vP0AedRiLd+KbZloSmiNDPV6oW/Xt/blNr6SeftnRXzQGpl23CqRWRGOTxu/DGIeyVSqAdX+ANyfxgRae71B5RajFwGERX0YgJltmV3aK5kEPbVvYbjNimqSQvLruUqb8c84y2APNTmUSLMrLpVivyQjR8SkjpJwP59ZuZgBUSC8asu4RmqWiGCyWvGEGpppCVr8FC3gExUvQkJmMMWNcuy3hmQ08WGhpqO9tHODFlHY16XWMsKBK/QvXfj1byfxNRxEWHuBbSiVaDYl2BOYO4iF93uu6Yp16KjA4/RkxzLrpDdBjycgfqXOknwS9fO/l5QobK5XuEevhWSHfMDoXoiQbUs3f7aaWvwphz6skbQVf8RYDYicLF0cJ+0Y4tOW08IFITOLK9ZC/eIAyRVa87XIWxfDjFSkw0g88i4yg8lBMcrvhQQ==;/imUiND2Xl8JjXQDbOrPvA=="

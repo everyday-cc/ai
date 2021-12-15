@@ -27,31 +27,78 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in the Future: Burger-Flipping Robots?"
-    excerpt: "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers."
-    publishedDateTime: 2021-12-10T23:49:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
+  - title: "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars"
+    excerpt: "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter."
+    publishedDateTime: 2021-12-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
+    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
+    publishedDateTime: 2021-12-13T16:28:00Z
+    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
     quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg"
-        width: 2120
-        height: 1415
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
-    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
-    publishedDateTime: 2021-12-12T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
-    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+  - title: "Zoox, AutoX, Pony.ai Execs on Self-Driving Cars"
+    excerpt: "Founder and Chief Technology Officer, Zoox; Dr. Jewel Li, Chief Operating Officer, AutoX; James Peng, Co-Founder and CEO, Pony.ai spoke to Bloomberg’s Edward Ludlow at the Bloomberg Technology Summit about their outlook on self-driving vehicles."
+    publishedDateTime: 2021-12-14T21:19:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-12-14/zoox-autox-pony-ai-execs-on-self-driving-cars-video"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_SK6LDSCDaA/v53/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
+    publishedDateTime: 2021-12-13T00:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Self-driving trucks tag-teaming with human drivers is the fastest path for autonomous trucking"
+    excerpt: "This article proposes that the most practical way for self-driving to work in trucking is for the driver to stay in the truck throughout the job, handing driving responsibilities to the autonomous truck on highways in order to rest and reset their hours-of-service,"
+    publishedDateTime: 2021-12-15T16:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-trucks-tag-teaming-human-drivers-fastest-dan-lewis"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 12
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "CbWDAcXA4s3H6Wd1Ca15h6PoWFUl9JzW+EI6Zof86P1EvuvV+RKAsNysRBZZKn83MLmgmnsXgwnIH49g19giHjiz4mj7KafCmYPosUeaXlwqtRj72r3j3uYMaqXxRZEk/v4SZfWEbs8ILvEAaTxaCyqjfsuh8h7XrkNyKl8z0jx8qxRSbXPvYIG7DxxvURYk1+udjdotgXRWnzRe/MYIhPlhLCR9h+4+a0Lvkng3lcTH47t2WEgHHA+KUPKRTJIHKRQQMvLVtgrLJ09wpJEExXj8dwxsNY55+lcyYOlN0Hz09D/chhKgxZQmOszheOm53IVXuJFpkSaMF4UHZmyVCuDHWFrPaMXiQLzi8q3SnuE=;U28i+F9EjqcF6uFGQ42agw=="
 ---

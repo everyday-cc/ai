@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
+    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
+    publishedDateTime: 2021-12-15T09:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 41
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Google GLaM Vs DeepMind Gopher: Who Wins The Large Language Model Race"
     excerpt: "A day after innovation leader DeepMind came out with Gopher, a 280 billion parameter transformer language model, tech mammoth Google introduced the Generalist Language Model (GLaM) – a trillion weight model that uses sparsity."
     publishedDateTime: 2021-12-14T11:30:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/glam.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
-    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
-    publishedDateTime: 2021-12-15T09:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 39
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
-        width: 1024
-        height: 536
         isCached: true
 
 secured: "ebzQ0/siXNcbGIXnpE6taeldlDrfeLZLoAyUQ1dm5p5WoC/YXx5aktNUStdanNWNKo7ujYwl6Ie/3wFibviSnQ7c38F5mXCm2NW9Io/L85k7KIRdSkmdNWqMWNQDQGGYHnFRS/xVNmLeCxAKMMLnaFYp4ZcLrCGDODr4qlNzdHLLseFwxXvD6hFBMfk32DVG6XAHfHIqFUNif4CjP4ekQ5lLHxRF/TNsRWHt4HgcjyPDhVKegREd7XHRayexykn9xjcGi8SYkrNVLNn4U7rPp3qzvLJPurhEmeZIQ7SBP5lu34E6tvj2YSJ4dkk+NArGswoQNul9GMdCYT7oPVM88xFWkgtbmVgkTdsWTksegO8=;OUb0eNTjYDhx7/EH4l+q7A=="

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-robot-nurse-assistants-join-shannon-hospital-amid-texas-healthcare-worker-shortage.md",
+      "title": "Robot nurse assistants join Shannon Hospital amid Texas healthcare worker shortage",
+      "excerpt": "\"We are one of the first hospitals in the country to have this technology,\" said Lyndy Stone, Shannon's director of marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gosanangelo.com/story/news/2021/12/15/texas-hospitals-hiring-robot-assistants-amid-nursing-shortage/6447516001/",
+      "originalUrl": "https://www.gosanangelo.com/story/news/2021/12/15/texas-hospitals-hiring-robot-assistants-amid-nursing-shortage/6447516001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/10/PSAT/a29dd8dc-3cf5-41f3-ad48-23c190803c0d-Diligent_2021_Moxi_solo3.jpg?auto=webp&crop=5999,3374,x1,y404&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.gosanangelo.com/amp/6447516001",
+      "cdnAmpWebUrl": "https://amp-gosanangelo-com.cdn.ampproject.org/c/s/amp.gosanangelo.com/amp/6447516001",
+      "publishedDateTime": "2021-12-15T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Angelo Standard-Times",
+        "domain": "gosanangelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
       "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
       "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
@@ -1300,40 +1344,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-artificial-intelligence-tool-predicts-treatment-response-and-survival-in-small-cell-lung-cancer-patients.md",
-      "title": "Artificial intelligence tool predicts treatment response and survival in small cell lung cancer patients",
-      "excerpt": "Researchers at the Center for Computational Imaging and Personalized Diagnostics (CCIPD) at Case Western Reserve University have used artificial intelligence (AI ... approaches to diagnose and predict therapy responses for various diseases and ...",
-      "sourceUrl": null,
-      "webUrl": "https://case.edu/medicine/healthcounseling/about/newsroom/artificial-intelligence-tool-predicts-treatment-response-and-survival-small-cell-lung-cancer-patients",
-      "originalUrl": "https://case.edu/medicine/healthcounseling/about/newsroom/artificial-intelligence-tool-predicts-treatment-response-and-survival-small-cell-lung-cancer-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Case Western Reserve University",
-        "domain": "case.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

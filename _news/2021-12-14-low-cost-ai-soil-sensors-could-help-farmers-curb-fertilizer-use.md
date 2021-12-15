@@ -42,6 +42,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "How Artificial Intelligence Could be Filtering Out Qualified Workers"
+    excerpt: "But with so many resumes on the move, some applicants might not realize they could be missing out on their dream job due to artificial intelligence. Even before the pandemic, many companies were using computers and software to scan resumes for keywords to speed up the hiring process."
+    publishedDateTime: 2021-12-15T10:05:00Z
+    webUrl: "https://www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/"
+    ampWebUrl: "https://www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/how-artificial-intelligence-could-be-filtering-out-qualified-workers/2838952/?amp"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 57
+    images:
+      - url: "https://media.nbcdfw.com/2021/07/shutterstock_794896723.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’"
     excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
     publishedDateTime: 2021-12-11T19:34:00Z

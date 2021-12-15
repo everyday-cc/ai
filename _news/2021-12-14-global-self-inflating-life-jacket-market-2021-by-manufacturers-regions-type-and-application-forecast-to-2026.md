@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge Computing AI Chips Market 2021 Business Overview, Size Estimation, Research Strategies with Share Analysis and Forecast to 2027"
-    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Edge Computing AI Chips Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Edge Computing AI Chips market."
-    publishedDateTime: 2021-12-13T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
-    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
-    publishedDateTime: 2021-12-13T12:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
     publishedDateTime: 2021-12-15T07:15:00Z
@@ -69,6 +41,20 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
+    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=588603"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "ha9dHd2ig8LTmPT6nByIDAmpJnf7yUOWn8j06BMmECsLO1hCtvueyUZley05PQ1njU1e1+LWywEQSN+N+yY0HTjzPANT5nSUgHBv4TK5p5tYy1np3uJEkJNX+i+7EIPwqjl3tZDk2KLJhYvP0Cm6W24chxH9m5zVeheweKQAxH/DTbsvi2eNiuexLAXeBq3PjrjmiGlU5nXoBLXpoX9T+AHbQoNv6vkluerXx7ZZAiXFuSdUDR9ICrFryiSHYVPrS7CES/y0LyOWiTa3Kp7NiKb85KeuYdkeApCVdhm6fFgmNLrsZD6BeVMhVBP1qTE/lLMwY1CJWxr0aH2rfxTPPO7PhJYJBnNAC6CYtck2n5Y=;b9gYC1oCmpTQumNOJNy4aA=="

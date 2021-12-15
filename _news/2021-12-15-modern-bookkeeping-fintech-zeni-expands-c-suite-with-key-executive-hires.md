@@ -2,28 +2,22 @@
 category: news
 title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
 excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-publishedDateTime: 2021-12-15T14:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-20158414.html"
-webUrl: "https://www.lelezard.com/en/news-20158414.html"
+publishedDateTime: 2021-12-15T14:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "2GslQS+8Mf2KlXfPDxgh/+Z5SXkziJ6x/l2nquSCRspLBHcQt/f21dG6VxgeAH05KP7GBwD4KLezh64Lk0c8fBce0j5Wp4DZrRcdd43xzVdEQpVbzqfP9TbyaRfaFRQggF1UJiKH9EsOo3Hw/4XQWvV0l7RBMcfJrqPYjy75CR9LDojFxMJ38ITedLHECIFQXLdqIuaq8b6XpUKtlnO/CT2f8YIz5zkaZ0ZM597QQzPRZMQ0ZhBwgZIXngmgD97h9PJxktD5I3bvutveqrotOll3ZQUn71vsNuGoWSA0yxWa4hGWOik0KJWGx4/xdh2ZAMvBhYgEvoUM8JxAfaNM+dz2Gsl0XdpeZ4xFmKKGJEU=;h940R2+K8qWbfJxqaADuHg=="
+secured: "1eTiunC1wI8z18fJbhdw1UqrxtTLvZ2VSvEG5bOKHs+YQA3nJcP3zswxsfeg3Uzs10P6jyjzPKOZHuitnBR8yak1KB71UWiiBRi4Urpww1okNUJW8/VNot842dsLOPjErHB8koXjM34wyLmnVoWegbangiWryLFnOg4mfQ6seUzpSxh98/stfGvW2Ym9/qH0t4dY5cY4yfZoqCW/x9ZicN58GVjwAfGtl/YbqKPnGwLGX4DOjWVHqMtDqXYidOM868qmZqJzDttCYnngJiIPf89ZCzZ1S0rng05nLmZNywH7Wg2ELCeLDRqm8Rx16lBdTdkPeFpinKXYf42ZOrm6e9cixF+IA5mWiZKGMYfHJbY=;cA3Q4K6Qwh35dR68UuYOqA=="
 ---
 
