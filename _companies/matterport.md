@@ -2,7 +2,7 @@
 name: "Matterport"
 overview: "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format."
 type: "profile"
-heat: 130
+heat: 155
 
 website: https://matterport.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Matterport"
   url: "https://twitter.com/Matterport"
-  followers: 15453
+  followers: 15455
 
 size: 201-500 employees
 yearFounded: 2011
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "v75BKzJk6EgIAOVHUKAhXoOYTkuSC+IdhEWMIMjAuHVR4bN/je58C5m9XYsKxWDgdrgE2auXlMMPMJSZ0n6MGVR7OJMsDN12AwuhsDSY6zUF2N8gQDb1IkMsJVfRHQ/xhohnZwp/Q3H1HxwGYA1kJc5r/4dzvGgnA3o9r+qxnU/8iDaJej5dGi8N45+NVfzlQcnFHUOjgIYLE+WcTOyKJHnzBmj5tubN1T3arOCxzf4phcEdPDu8747oyG42k637xF6x+lHYRtFPSQOg180EzWffRPQ13wPy9Jj032dWlX28hshMHw3yOedV1dTcMBuvE5rcqzIoJyY7hNqNVik/8jHTc5vLccXuHLqud8KHvita3r/Tf6LmnV9Rd8DJVAqLHnU0cl54fr2WCpPRsq4CA+q11lKuEfd48BTKPLV/25c=;xqPKZ6p1QUJ0g0Df77O5pA=="
+secured: "BtzKRaMRpHwulFVEUUGZIDAdMWE9x8Z3TjyHyomRN5amnxPnP38zMFR2W6F6vGFSe0BKLUZAKSH9LD9VWMHJPJVmS1pH8cfInCyERGa5mFAYpyHRy9WHSmSFqT/t9r8xE+CAqJAu93qBelM3yTAmlCdEgHsJnxa/O1xENLKPG3YDjBUOcaJ3WUdZOZHgDo11zRghQkq2R14fWJsZBdP7jHijVPb1ONWccfqy69ZAcGq6Rzs5GPtUjsAB5c2hUcgtoLy0nLuMGcOY/tQpzhIWIi+4UBBiBkmnLKFh7LdrWyPih4HljeDwgbHRRhC353DVTfGAaeumeHnJabom1DFVi4crZHevWCJo/mBC5ine3pum02NsTRl0NfybQkoG0Bx10+1wO0OxOC1PyuX98sTBxUP82B5LcC1fc5riM9f7Ttg=;nOKmZ/KbbU6VkIAQcNhIwA=="
 ---
 
