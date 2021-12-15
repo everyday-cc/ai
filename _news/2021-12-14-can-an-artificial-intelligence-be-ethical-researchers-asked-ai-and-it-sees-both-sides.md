@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligenc
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
 type: article
 quality: 83
-heat: 134
+heat: 133
 published: true
 
 provider:

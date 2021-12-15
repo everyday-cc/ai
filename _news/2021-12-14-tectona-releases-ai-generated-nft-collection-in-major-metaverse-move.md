@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generat
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How a VR startup took the money and ran to the metaverse"
-    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
-    publishedDateTime: 2021-12-10T17:03:00Z
-    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
-        width: 2560
-        height: 1310
-        isCached: true
   - title: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game <br/> LOS ANGELES, CA, Dec 11, 2021 - (ACN Newswire) - Metaki"
     publishedDateTime: 2021-12-12T09:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flags
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 915
     isCached: true
+
+related:
+  - title: "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results"
+    excerpt: "A new benchmarking result has just showcased some interesting information regarding the upcoming MediaTek Dimensity 9000 SoC. The chip managed to easily outclass almost every other chipset in the high end smartphone market,"
+    publishedDateTime: 2021-12-15T07:24:00Z
+    webUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/"
+    ampWebUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 79
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg"
+        width: 4949
+        height: 2775
+        isCached: true
 
 secured: "6y0HpoCYUuUMSJlbL3bdX/HDlNjTkaA6HfRmkV2pYHi+NlUerZhlf7H8YROqNRiWFDV24OdfAFP19WKNPSSBcrdOK+h9ErDseo8awB3GkBve1o04vKXwziqoRRfosf/ggIsWnx2rXiNWjC8TRe55iE8WG2RBqGibAzsQUfKrQESxGBDIUhO8HWKp+TIDRtCkAtmBF1/Bpm5L3HtCxujrW/u11YNFiAihaGeE9hR7wjL2BlihpLeOsGTvs5BbKAEQgyM4hK+ObYs6LtnLUZd5BDnBHUxRvoxN+1WucXaTnFYUPB+Lfxv+Klgg0Yr3B+uFCLKXNmjD4ldRteRdRW9WRLEwp57e/8vd+LTojHBn1K8T0CSrW/ZAZFp+KoQBEIpPRYT/1Imr4q0VFEHtP/c+OrML+jhr7y/wp1GJSNZN7uhsEL8KYNuG0hlBHJqL66fJsSJ7/pkqzCt/YSzS6fYaENhlj+4hex9FtjHyu3j62wbihEQwl3YZeOhVgydFDlI712RFOaTszNT+kTsLzq7pRA==;b63DLUwYn9ck4os81u62Xw=="
 ---

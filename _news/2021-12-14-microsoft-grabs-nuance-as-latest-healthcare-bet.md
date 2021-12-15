@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources"
-    excerpt: "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo"
-    publishedDateTime: 2021-12-10T16:58:00Z
-    webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
+  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
+    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
+    publishedDateTime: 2021-12-10T20:05:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 163
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 89
     images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg"
-        width: 4657
-        height: 3105
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
     excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
@@ -56,33 +58,33 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "5 Things You Should Know about Microsoft AI"
-    excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
-    publishedDateTime: 2021-12-10T15:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-things-you-should-know-microsoft-ai-xiaopeng-li"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHusGPlRHcrrQ/article-cover_image-shrink_720_1280/0/1639146122835?e=1644451200&v=beta&t=_xowkWg9sPAcqdMvYfiK5iT_D5h0EMfuNH7p90Px8rQ"
-        width: 1120
-        height: 720
-        isCached: true
-  - title: "AI in Fashion Market May Set a New Epic Growth Story | Microsoft, IBM, Google"
-    excerpt: "Advance Market Analytics published a new research publication on “AI in Fashion Market Insights, to 2026” with 232 pages and enriched with"
+  - title: "Artificial Intelligence in Accounting Market to Witness Massive Growth by Microsoft, AWS, Xero"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Accounting Market Insights, to 2026” with 232"
     publishedDateTime: 2021-12-14T10:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fashion-market-may-set-a-new-epic-growth-story-microsoft-ibm-google"
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-to-witness-massive-growth-by-microsoft-aws-xero"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 53
+    quality: 61
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
+    excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
+    publishedDateTime: 2021-12-13T10:11:00Z
+    webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
@@ -93,20 +95,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 28
-  - title: "Association for Advancing Automation Announces Speakers from NASA, Verizon, HP, Microsoft and More for 2022 Business Forum"
-    excerpt: "More than 500 executives in robotics, vision, imaging, motion control and industrial AI will gather Jan. 31-Feb. 2, 2022, as the Association for Advancing Automation’s A3 Business Forum, the leading networking event for the automation industry,"
-    publishedDateTime: 2021-12-14T21:15:00Z
-    webUrl: "https://www.automation.com/en-us/articles/december-2021/association-advancing-automation-speakers-nasa"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 15
-    images:
-      - url: "https://www.automation.com/getmedia/69f5111c-14e3-41c9-a7d0-097d6be4990e/a3-news-dec-14-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "OhvwZM6z1JqW2OTvRr2qbE5V8GkeWRrjO7nl/bfFl+We5x+ouS4R7LSuhVmUr25DXh/JyskBcihQpZFIqkkcUDiihb9HnL/9Gi1+pd5Y/bmHWhRCrdEFXsTpeqfFmTI2Hsi/aGPcke7NSQcflECW28Jnl/Dir02osfx8a9zJyozId3HhcBlC37D+ucM51Rmf5b+E7DWjQ4m5mCEDS8UajBCedA0vWpMsNfRbFrYKwmD0PhJTBNSvN+J6MuDpWau1abHw3l2hdoUu1bgIJkSq/qJhOZ/d1DisUiyXqNTIVjsOr/RHLMr1o5sDknuKo/Lhl9pqV/QhyH6hNk2xg9rwgQXFXY5rccLLJQjJkTlf0oKvjGmHN5b5F8SmiGM/8tMWNwjHQuDl3HRcg3RTinRKfpq1hslrbqgVF9ZIc6uuSx5kU8nulxO+BptFR3+vkYh10kFnU516O3BGhvn4UmJ6pML5gPknViVJBTDsoN67EkSYd6bsFGlBRXaIungScEf2b5T8xJbdOHLZvfXpWV5usA==;M2LMKxIYJZH1VXfuOEibFA=="
 ---

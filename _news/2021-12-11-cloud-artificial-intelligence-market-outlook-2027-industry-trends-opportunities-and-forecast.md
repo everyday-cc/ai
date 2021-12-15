@@ -53,20 +53,15 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Artificial Intelligence In Genomics Market expected to drive growth through 2026 made by top research firm"
-    excerpt: "Global Artificial Intelligence In Genomics Market Research reports published by MarkNtel Advisors, provides a complete analysis of the market and is"
-    publishedDateTime: 2021-12-10T16:43:00Z
-    webUrl: "https://menafn.com/1103339644/Artificial-Intelligence-In-Genomics-Market-expected-to-drive-growth-through-2026-made-by-top-research-firm"
+  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
+    publishedDateTime: 2021-12-15T07:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?148258"
-        width: 366
-        height: 250
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 36
   - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
     excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
     publishedDateTime: 2021-12-14T10:08:00Z

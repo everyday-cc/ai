@@ -35,20 +35,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
-    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
-    publishedDateTime: 2021-12-10T15:48:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03697-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03697-8/d41586-021-03697-8_19948082.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind Now Wants To Study The Behaviour Of Electrons, Launches An AI Tool"
     excerpt: "DeepMind solves delocalization and spin symmetry-breaking with neural network and training the dataset to capture electron behaviour"
     publishedDateTime: 2021-12-13T09:43:00Z

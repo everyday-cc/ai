@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Driving digital transformation across the UK healthcare sector"
-    excerpt: "Brian Murphy at Cumulus Neuroscience explores how AI tools could transform drug development in the difficult area of cognitive disorders"
-    publishedDateTime: 2021-12-10T15:56:00Z
-    webUrl: "https://www.openaccessgovernment.org/cognitive-disorders/125967/"
+  - title: "AI driven APOLLO predicts processor power consumption"
+    excerpt: "Engineers have developed APOLLO, a new AI method for predicting the power consumption of any type of computer processor over a trillion times per second."
+    publishedDateTime: 2021-12-13T08:21:00Z
+    webUrl: "https://www.theengineer.co.uk/ai-driven-apollo-processor-power-consumption-duke-university/"
     type: article
     provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
+      name: The Engineer
+      domain: theengineer.co.uk
     quality: 39
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/MG_6964_T5_ROOM1-scaled.jpg"
-        width: 2000
-        height: 1375
+      - url: "https://theengineer.markallengroup.com/production/2021/12/processor-2217771_1280.jpg"
+        width: 940
+        height: 529
         isCached: true
 
 secured: "DqUzMaZbvcpoKpg+j/apNlKezPtU/g5uX/UzmyGmXoEmHW3DhoMD1r8LVGpA2OjkS59ryNBmCUsACxOLJ9J+wIRs9DcLBPZ/ifZtYOufo5EjzcGqqrXvMijM5kbYFjnNhBD9hjF4dt9gZNwMjhzIK+u5zQf9tTN0CSjhJDTfPnuZFSYzwto+tfT5UWz+SXG5iArr/FEE3E5JvcDcO//lLoSRNHlx7OxiVmolz2rUv7LHupTwm6iRqmqL+NeNyEuQb00kD9zmbFz23XH6loXCnjNMBuUxjYy02CCQ6yeJyLHq5kSbse0I2gf5Ck40gajalvJ0qjuKYditJnjqEErO8unwbhRRbAnMWsTiKbTc3OM6gKS3FpUsEJGmxQL6+G4lVMziKDWdfdUDxkQ7VkTyYpZZMuNPJbxFUjyMktfb9u2QKL5K+GuXPqZeenssvYmM2MkcXx7XC3lVazmOOCdLjG1KyEmstsvhlg4+dHgxGUgCdnv325jUpDgRIub6f9n2bkoQtFF6V4PZLnW1SKxMYA==;399inRzF2nLVsxZltKwXqg=="

@@ -43,6 +43,36 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
+    excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
+    publishedDateTime: 2021-12-13T13:00:00Z
+    webUrl: "https://www.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Microsoft grabs Nuance as latest healthcare bet"
+    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
+    publishedDateTime: 2021-12-14T06:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 56
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
+        width: 884
+        height: 543
+        isCached: true
   - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
     excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
     publishedDateTime: 2021-12-13T10:11:00Z
@@ -57,6 +87,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
+    excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
+    publishedDateTime: 2021-12-10T19:02:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/12/10/forward-edge-ai-gets-funding-from-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "RhwHb6PRA0fm57DdNA+Cp3kl/xjt17mDqTmdvQOvn/6oFkFB2PK8b6UzzVQSP5LYgovYOp/DVkbXgXzmkWVWifEkMsZGtwGbulmIrgXwRBc6Vd1ZR9vX2HwJTxcF1LOnxZIMVX16Vq3Rhzx/P3q7398fLIwB1k9Uc9L5/Sla8SNeBY4zaiJQAIljLMXN2x6FTPABhQJ7zBVeHTSmtp1Y4rgptsU7s94a3nmwlsDJn28Hgf6jRUvcKcMeCvGD0JU6g1D+bi61gGFJER7ukDaOMbkDr+hbIDIWbp5Kce5ZG9/qHUGgXyVs8G1kt761ERys/44UIK9i/vknTDECGEdtnq6wXJwh4K2aWqknJQ518jw=;LCF8Fpi1XwAtquFijFVs3A=="
 ---

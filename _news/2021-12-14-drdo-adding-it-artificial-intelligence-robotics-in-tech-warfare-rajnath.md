@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelli
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

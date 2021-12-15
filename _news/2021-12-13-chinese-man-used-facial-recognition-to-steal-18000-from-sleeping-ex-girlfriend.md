@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Man steals $23K using ex’s phone through facial recognition while she slept: report"
-    excerpt: "According to police, Huang transferred the equivalent of $23,500 out of his ex-girlfriend’s cash and line-of-credit accounts."
-    publishedDateTime: 2021-12-13T12:52:00Z
-    webUrl: "https://nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/"
-    ampWebUrl: "https://nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/13/man-steals-23k-using-exs-phone-through-facial-recognition-report/amp/"
+  - title: "Xpeng Motors fined by Chinese watchdog for facial recognition breach"
+    excerpt: "Chinese automaker Xpeng has been fined by China’s local market watchdog for collecting customers’ facial data without consent."
+    publishedDateTime: 2021-12-15T08:27:00Z
+    webUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
+    ampWebUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 53
+      name: TechNode
+      domain: technode.com
+    quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/newspress-collage-20467292-1639403383269.png?w=1024"
-        width: 1023
-        height: 682
+      - url: "https://technode.com/wp-content/uploads/2021/03/Xpeng-at-a-mall-in-Beijing.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Man Pulls Up Sleeping Ex-Girlfriend's Eyelids, Steals $23K From Her Phone Using Facial Recognition"
-    excerpt: "A man in China has been jailed for stealing around $23,500 from his ex-girlfriend by pulling up her eyelids and using the facial recognition feature of the banking app to access her accounts while she was asleep."
-    publishedDateTime: 2021-12-14T10:40:00Z
-    webUrl: "https://www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107"
-    ampWebUrl: "https://www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/man-pulls-sleeping-ex-girlfriends-eyelids-steals-23k-her-phone-using-facial-3357107?amp=1"
+  - title: "US Treasury sanctions Chinese face recognition company for rights violations in Xinjiang"
+    excerpt: "On Friday, World Human Rights Day, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) designate"
+    publishedDateTime: 2021-12-11T09:41:00Z
+    webUrl: "https://menafn.com/1103342225/US-Treasury-sanctions-Chinese-face-recognition-company-for-rights-violations-in-Xinjiang"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/woman-gd1f09615c640.jpg"
-        width: 640
-        height: 426
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?92631"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "+MyWBjwN6RWVGucAHnkj4Z2UDUEFqFbOghBq68RPlP6YNeTG7U65JkuGoYj1dZgO9JdhxA4KnLXia3ok116nBTexA4IxHfyUdsTS4NZp1vA30pUFbzWh5jmxbmGffDf/WXi/+w9fk//wdoJC+pRIeuHe25nmkUNoHTgkwlfa7gYWK1CV/iEDjp2zJSoq92k+Fy2QihUR544TFfGwj+5Vyn9r0KxX6ZXpkahAzQNMVZuN/XMHMdIdBGX4CKI01CxU7Wic/pnspqQEklxlkeSPvb5KEyIAcbWqJfRkzVbYCnOwunftgeH88bAFYlVdQ7fs3eDEOQTcLBtCcVbRGvkDehCybjTpYCijiZIVu4dhuUk=;Ow/vy0XKZLIf4XGJQtSS4w=="

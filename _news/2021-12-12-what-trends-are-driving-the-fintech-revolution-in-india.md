@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Finance: 10 Transformative Fintech Predictions"
-    excerpt: "Discover the future of finance with these transformative fintech predictions, from exponential computing power to the rise of AI-powered finance assistants"
-    publishedDateTime: 2021-12-14T10:01:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-finance-10-transformative-fintech-predictions"
+  - title: "Qinta 'Self-Driving Fintech Wallet' Aims to Protect Americans Against Inflation"
+    excerpt: "Qinta announced it had fully tested and completed its prototype product ahead of its official launch scheduled for 2022. Qinta is an expert-developed"
+    publishedDateTime: 2021-12-14T12:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qinta-self-driving-fintech-wallet-aims-to-protect-americans-against-inflation/article_fe253880-e40b-5750-a071-fbefbdb115c9.html"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/future-of-fintech-2030.jpg.png?itok=k5tq3KIp"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/a5/4a5d901d-5044-59e1-8de4-1d0f1ea17a41/61b8a0a28a2b0.image.jpg?crop=1296%2C680%2C0%2C64&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

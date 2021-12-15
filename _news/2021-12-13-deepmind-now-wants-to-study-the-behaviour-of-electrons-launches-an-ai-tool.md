@@ -42,20 +42,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
-    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
-    publishedDateTime: 2021-12-10T15:48:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03697-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03697-8/d41586-021-03697-8_19948082.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind AI Tackles Valuable Chemistry Technique"
     excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
     publishedDateTime: 2021-12-11T06:00:00Z

@@ -40,20 +40,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "How a VR startup took the money and ran to the metaverse"
-    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
-    publishedDateTime: 2021-12-10T17:03:00Z
-    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
-        width: 2560
-        height: 1310
-        isCached: true
 
 secured: "OOk4+AFAwx3g/o2VXxueVVYHMamh4v2t7qkmTpo+eXIa0JIYdK5Hlm2Suv6CbFfZA4aP+p39UumqtkG/qS/e/LuAePuycHaLPUKnaU3ZCNccxVCG8nUPLXY26FyLV7IDlyB2KUdr4v8PxDnuCRx2DKbXue2AZ6BCyQVUVE8Ku1csyEyDoMiwiYaarC1YrLZVKIrU2rIBWv/7rN7wVYb2oBpnw7wjrTH+CCKerW90E1tWG8uPuULP04lXDasOWkuJwq64HFR+98XqhwwcRwRSg0kUlFxEBnjWxsJzxUDH5yoyoz+o7YgIGqpU13g2+07k6B79/gNFMxucTStSgx8/sVmgynSpnQiulGuNQ+Q/Ba8=;Ny/iuKNhFHBdSvq8MZMmQA=="
 ---

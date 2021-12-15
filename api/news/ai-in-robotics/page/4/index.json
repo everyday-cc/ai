@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-25-2021-makex-robotics-competition-north-american-open-ends-successfully.md",
+      "title": "2021 MakeX Robotics Competition North American open. ends successfully",
+      "excerpt": "The robot itself is a complex system that combines ... There is a world of possibilities in STEAM ranging from artificial intelligence to the Internet of Things and the hope is that through ...",
+      "sourceUrl": null,
+      "webUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
+      "originalUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theislandnow.com/wp-content/uploads/2021/11/IMG_4408-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
+      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
+      "publishedDateTime": "2021-11-24T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Island Now",
+        "domain": "theislandnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
       "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
       "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
@@ -1345,58 +1388,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
-      "title": "AI Trends For 2022 - How Will AI Affect You?",
-      "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193e8bc87af81b55839db27%2F0x0.jpg",
-          "width": 919,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "publishedDateTime": "2021-11-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

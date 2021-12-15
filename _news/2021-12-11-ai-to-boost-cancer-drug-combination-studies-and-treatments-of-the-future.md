@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-
 webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 845
     height: 396
     isCached: true
-
-related:
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
-    publishedDateTime: 2021-12-10T15:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24548916/ai-to-boost-cancer-drug-combination-studies-and-treatments-of-the-future"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1oViABULX7I70M36XfP6Hmyz2iaH+rVY7jOEoCNb5YwIJLsdhvRUAGg7zJb6ppiGnPDVucxgENVjRYCx6VOCwBkX5p8CeCot5sHqg+iqCyS1h0GYY1Og4De7JT0GX/w017obko66918sCqQ+nTyCS4UGVSr628b0uWN3YZw2epWopXCWH018pztwRq12CYjkG7X7v/y9En3Nah/c27v8P7SM6ksupXboaIxJWKL+NbMqOOE1vKUE3rO6CLVuPHKb6XDB8mpVsD+HKBF+c897Qy8Rb/q7H109E25WtXU92XPtRxutYDdiSD7HL7zzxJnN84gMvQvJYq5jolPcaCIyLv4+6j67M3HCTEZoYVQK0b0=;kBKuya+e8lcnw3GfZo9LUg=="
 ---

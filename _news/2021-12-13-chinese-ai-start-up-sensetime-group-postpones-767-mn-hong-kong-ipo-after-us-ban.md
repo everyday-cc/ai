@@ -104,20 +104,6 @@ related:
         width: 800
         height: 444
         isCached: true
-  - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
-    excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
-    publishedDateTime: 2021-12-10T16:57:00Z
-    webUrl: "https://asia.nikkei.com/Politics/International-relations/US-China-tensions/U.S.-adds-Chinese-AI-startup-SenseTime-to-economic-blacklist"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F7%252F6%252F1%252F37851674-1-eng-GB%252FRTS1JOEB.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AI startup SenseTime Hong Kong IPO in limbo after US blacklisting"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is considering whether it can proceed with a planned $767 million Hong Kong initial public offering after the US added it to an investment blacklist,"
     publishedDateTime: 2021-12-12T06:00:00Z

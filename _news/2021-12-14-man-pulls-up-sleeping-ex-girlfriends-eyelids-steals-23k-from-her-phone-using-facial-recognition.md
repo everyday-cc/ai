@@ -43,20 +43,6 @@ related:
         width: 1023
         height: 682
         isCached: true
-  - title: "Chinese man used facial recognition to steal £18,000 from sleeping ex-girlfriend"
-    excerpt: "A Chinese man has been sentenced to three and a half years in prison for pulling up his ex-girlfriend’s eyelids while she slept and transferring nearly £18,000"
-    publishedDateTime: 2021-12-13T09:30:00Z
-    webUrl: "https://www.thetimes.co.uk/article/f7593886-5bf1-11ec-90d0-c463baf3512f?shareToken=49c9dec5a015dba8a293c093037d6f65"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 34
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb8dfccc8-5bf1-11ec-9cd9-b6f698a4b9a5.jpg?crop=8500%2C4781%2C0%2C443&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "EY6RTnpm/2VkGdFBSqvX25lk0AI6ia5DEsf8u5Jp9xJKzniTxec6A+DiWKkDgc60DjDDdJtdJxTlTHKCV1qK8+mQwT+zZYvKeDHEPbNHBxvDgM0REUXGwoYyyDpwtoFDXwkRN/mHpXA9yXTZ5VSPi7oyE9WF70oZkVu5eMwrDZCMQtlaSX9GsxPw0F5Ph2wQ3sSz1m6vr6TNwwyH1PyMoqjPd8Ar9M03LFSN1Is+ZJzmcpVKSbGOvyfE7OGOJBisgLhfhtSJhUPemmWMIgJiLoy6Jsw7USDjEzr+dplD7DlHCNo0FZFTQnAJYCOc1RscZrNMkegzFu/FI8JwrbDhQxXAX7oLaFLeJTpJYQjsdR8=;FYuYha/+LUYRGHBdSz78UA=="
 ---

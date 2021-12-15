@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach.md",
+      "title": "Xpeng Motors fined by Chinese watchdog for facial recognition breach",
+      "excerpt": "Chinese automaker Xpeng has been fined by China’s local market watchdog for collecting customers’ facial data without consent.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
+      "originalUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2021/03/Xpeng-at-a-mall-in-Beijing.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/",
+      "publishedDateTime": "2021-12-15T00:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-veritones-ryan-steelberg-on-building-an-ai-deployment.md",
       "title": "Veritone’s Ryan Steelberg on Building an AI Deployment",
       "excerpt": "Artificial intelligence needs to be demystified if it is to be effectively deployed, says a leading industry expert.",
@@ -61,7 +104,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-gan-with-pytorch-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -114,7 +157,7 @@
       "originalUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -999,7 +1042,7 @@
       "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1023,6 +1066,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-see-little-robots-get-swole-in-this-virtual-gym.md",
+      "title": "See Little Robots Get Swole in This Virtual 'Gym'",
+      "excerpt": "The bizarre robots look like cobbled-together Tetris pieces. A new system \"evolves\" them to run, climb, and throw stuff better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
+      "originalUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b80ea9c2f5f4d2aaf1c393/master/pass/Science_GettyImages-1291170668.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/amp",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1095,7 +1190,7 @@
       "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1127,93 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
-      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "publishedDateTime": "2021-12-14T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-voice-tech-leans-on-ai-to-humanize-customer-service-and-experience.md",
-      "title": "Voice Tech Leans on AI to Humanize Customer Service and Experience",
-      "excerpt": "Raghu Ravinutala, CEO of customer experience automation firm yellow.ai, discussed the dynamic AI-driven changes that are impacting conversational commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
-      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/",
-      "publishedDateTime": "2021-12-14T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
