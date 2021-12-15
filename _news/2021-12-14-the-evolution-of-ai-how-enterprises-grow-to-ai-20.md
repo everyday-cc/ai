@@ -38,7 +38,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
         width: 1260

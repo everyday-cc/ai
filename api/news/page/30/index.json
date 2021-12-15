@@ -2,6 +2,235 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-22-ai-in-drug-discovery-market-2021-development-status-and-future-statistics-by-2031.md",
+      "title": "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031",
+      "excerpt": "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "originalUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub22142087_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "publishedDateTime": "2021-11-22T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem.md",
+      "title": "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem",
+      "excerpt": "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-301429783.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-1030994301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1692806/JinaLogo_Logo.jpg?p=facebook",
+          "width": 599,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-worldwide-ai-software-market-to-reach-62-billion-in-2022-gartner.md",
+      "title": "Worldwide AI software market to reach $62 billion in 2022 — Gartner",
+      "excerpt": "Worldwide artificial intelligence (AI) software revenue will total $62.5 billion in 2022, according to a new forecast from Gartner",
+      "sourceUrl": null,
+      "webUrl": "https://www.gartner.com/en/newsroom/press-releases/2021-11-22-gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022",
+      "originalUrl": "https://www.information-age.com/worldwide-artificial-intelligence-software-market-to-reach-62-billion-2022-gartner-123497799/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-aws-to-be-cloud-provider-for-adidas-sap-workloads.md",
+      "title": "AWS to be Cloud Provider for adidas SAP Workloads",
+      "excerpt": "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads",
+      "originalUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp",
+      "publishedDateTime": "2021-11-22T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-approyo-inc-migrates-cc-polymers-sap-environment-to-microsoft-azure-cloud.md",
+      "title": "Approyo, Inc. Migrates CC Polymers' SAP Environment to Microsoft AZURE Cloud",
+      "excerpt": "Approyo, Inc., a leader in global SAP & IT Managed Services and Solutions; today announced that Corpus Christi Polymers (CC Polymers) had selected Approyo as its SAP managed solutions and security provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
+      "title": "Adidas Migrates SAP Environments To Amazon Web Services",
+      "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "publishedDateTime": "2021-11-21T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
       "title": "adidas Migrates SAP Environments to AWS",
       "excerpt": "AWS’s extensive SAP experience allows adidas ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
@@ -868,272 +1097,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-mediateks-pentonic-2000-is-the-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
-      "title": "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz",
-      "excerpt": "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php",
-      "originalUrl": "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/11/mediatek-pentonic-2000-offic/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php",
-      "publishedDateTime": "2021-11-20T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-artificial-intelligence-that-understands-object-relationships.md",
-      "title": "Artificial intelligence that understands object relationships",
-      "excerpt": "Researchers developed a machine learning model that understands the underlying relationships between objects in a scene and can generate accurate images of scenes from text descriptions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-azure-cognitive-search-brings-knowledge-mining-to-the-enterprise.md",
-      "title": "Azure Cognitive Search brings knowledge mining to the enterprise",
-      "excerpt": "A recent report from Harvard Business Review Analytics Services also found 82% ... will move from finding to understanding. Microsoft’s Azure Cognitive Search solution will offer knowledge ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
-      "originalUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/11/fb71dd42-16c5-46ae-a4b7-ea12f641b093.jpg",
-          "width": 1024,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
-      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
-      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "publishedDateTime": "2021-11-20T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ai-played-big-role-in-approach-to-pandemic-says-uae-minister.md",
-      "title": "AI Played 'Big Role' in Approach to Pandemic, Says UAE Minister",
-      "excerpt": "Omar Al Olama, the UAE's AI Minister, explains how COVID-19 has been an accelerator for AI applications; why the US and China would benefit from a 'constant dialogue' on AI; and why 'the new roads that we need to be building right now are roads in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister",
-      "originalUrl": "https://www.realclearpolitics.com/2021/11/20/ai_played_big_role_in_approach_to_pandemic_says_uae_minister_557114.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/omar.jpeg?h=a5ae579a&itok=OqPGVht5",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "publishedDateTime": "2021-11-20T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry.md",
-      "title": "Reshaping Fintech with AI: Top AI Innovations in the Financial Industry",
-      "excerpt": "Banking and finance procedures have been made easier because of the use of AI and machine learning. Check out the top 10 AI innovations in the financial industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
-      "originalUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Reshaping-Fintech-with-AI-Top-AI-Innovations-in-the-Financial-Industry.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

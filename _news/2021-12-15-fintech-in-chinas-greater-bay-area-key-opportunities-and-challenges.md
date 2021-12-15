@@ -7,7 +7,7 @@ originalUrl: "https://www.eventbrite.sg/e/fintech-in-chinas-greater-bay-area-key
 webUrl: "https://www.eventbrite.sg/e/fintech-in-chinas-greater-bay-area-key-opportunities-and-challenges-tickets-211790389757"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "Aussies are unhappy with the Big Four. Enter Cash Converters and a new breed of fintech lenders"
+    excerpt: "Consumers are not happy with the Big Four banks. Enter a new breed of online lenders that could approve loans in minutes."
+    publishedDateTime: 2021-12-15T11:28:00Z
+    webUrl: "https://stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/"
+    ampWebUrl: "https://stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 32
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/Picture-The-Truman-Show-1998-Scott-Rudin-Productions..jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tM7SEYUMilSXiJf5wlNzBJ6VJXpBH1PzoDojv+9375nFTwAqVdZXcdKYb507aT4YKeUm1nmcPPnIC5zKgGlUp1p0O8MHTEFOxiNhiunHScR1GDNstDMre0rFAb89glfkNwSlyH5QNQMSrCKZA54IRAuzyGUyTyXTuBcayznlxAhjwppve29b5OrEqD3nCytgGf0RmKeTHv1t0ZsWRKgYNFP6yxmbR+50elizBcMe21V/OeKI5IGV8I4GjuEo9FknxAHY5NPXYUAKwFpKNuZV4wd0QgzXmm89eimBEiNtTc7xpuRhlS4+MTEqwI9Jigva60Lea/c47eTf8BBy888/vIZ77EcW5hER9VN5GQMhaPAWWfL0QOZ/hbAIcdvH+Ve9QMdC8T1t6VXJ7aNRi2+WbB0Z/RStO1ysOu10FUz+br52GOXItMZbnTMQ1843Z3xDs1DhyjM0s45zInZtq9/rBWnMxkgApNjHfszAPOlAMPvxBJCbB8SnyvmR2GFUIh0MKDAH/SwZ9+v9khJWIsvgEA==;A+G0aFPjtWzMToAx8trWEg=="
 ---

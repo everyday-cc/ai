@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20151916.html"
 webUrl: "https://www.lelezard.com/en/news-20151916.html"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "AI-powered VFX startup Wonder Dynamics raises $10M A round"
+    excerpt: "Wonder Dynamics aims to make “blockbuster-level” visual effects achievable by living-room-level creators using AI and cloud services, though it has kept its product closely under wraps. The secretive company,"
+    publishedDateTime: 2021-12-15T19:05:00Z
+    webUrl: "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/"
+    ampWebUrl: "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/Hiretual-Techcrunch_article_2_image_2.jpeg?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "tfTtog+eIt4HzBv6CSUgSze0TmWCShgj5FtUK6smFdJbXLp7s+jTscUeEbv0QEUN7NB6I9zJhhc/6HGxW8NETo3V3It2H7eJpgTNRQmD41FSE6XOThEvLKg10MIgvCnHhIuWkFoRXciV+2dTwC6Mx9aMjwLlrYRAIO0ewBFdfdUMF17mzqRJx+WjsrjNILvvqw1qijzpdzkWuuxhzLrfxyoAb4nozZW/DB2g+DENWb0/tL97uxPu2TO1YiY0NZJuMAexYw0b4ZQikZ2RCRxZiRrvmmeJAgbybEr67joF94mrurib2sa5wX+bJehjLUj+0NztD+wKIVY2ycw1gAcgj02osvGN+8vTZZbny9n+n/Y=;9TxL95WK3OIp1bBLnvya3Q=="
 ---

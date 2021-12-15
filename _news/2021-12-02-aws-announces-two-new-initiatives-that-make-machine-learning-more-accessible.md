@@ -1,21 +1,28 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T20:32:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+publishedDateTime: 2021-12-02T01:59:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
-secured: "R8tyl/4zVAvFrlAwSl9M+0AEbMs65pnprR7cNJESH/XBbDpWfqGOxHDCwAPxjenvY1XC71XQJ6JphCUOQ8YfEcTga6WXRsw5k4wF8JpP0qnKznT0eku9bhs9X5OedMtelKmzoFqKhFZJDnWi0Y9WRxOt9YWWRvAe9JnOznI6PHfdAZPZ/xUU8y7q5XRVI+KtTRPuZvsoQe38+H7+oUImr5tbX+GBE995TQCwrj+L2qg3D0UtIp+e+CluoOfX+er2WpSELAG7yU/5tFAM4azZyA/HhSfAiMnBXZm/nGDLQU+R5wohKfUG5dSqrNs4d9cOD7TCZOtcsl/Ii7d+pMpHNsfyvW7zHbmjQYprpJHdcDc=;c265xtLsr25DM7MlsTpadw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "D59f61TdPPNbsgb8f4yhceHRvZvsLh+3bCOMxnDYPYEDh/rXpdcquhqNLu3Z4YeiqQx6f6KiH9u3iKL5HOXNQrHBa7TNkSYeKmqSY0mVb8hc/V58eddx4OgPIxF4EnFZaOQLhkbx8ZaUn3/jap3m6fzgPlWkrrvED8oWix1Xc368jiRRLDlbf+rNv3tYKkod6jXFI0QioLlEl8r/gn9ESlsv0An/v3wPdcWKmLFadG/Mnlo6pOYHy7RalGvj6sYwOfW603V9gy/woyb+qkvINDSqKRQZmHtt8/NXpWNFoWmLU5UcUKkZXJirlAoJPONkmFCQCQtsuH0Kv49RRdAEl4Y8p6+llBU3ELgGUM2xnBw=;8lkhI4mI0Mxef75+3kRlJw=="
 ---
 

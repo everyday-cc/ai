@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-14-interview-with-nitin-aggarwal-technical-pm-at-google-cloud-ai.md",
+      "title": "Interview With Nitin Aggarwal, Technical PM At Google Cloud AI",
+      "excerpt": "I'm a senior Technical Program Manager(PM) with the Cloud AI services team. I lead teams to build products/solutions for our customers.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
+      "originalUrl": "https://analyticsindiamag.com/interview-nitin-aggarwal-google-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/nitin-aggarwal-google-cloud-interview.jpeg",
+          "width": 1601,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-deep-learning-market-to-acquire-new-heights-with-increase-in-innovations.md",
       "title": "Deep Learning Market to acquire new heights with increase in innovations",
       "excerpt": "The “Deep Learning Market to acquire new heights with increase in innovations”. The Deep Learning Market report presents a calculated opinion of the analyzed Deep Learning Market data.",

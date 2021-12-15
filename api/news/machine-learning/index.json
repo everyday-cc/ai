@@ -10,7 +10,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -528,6 +529,49 @@
         "AI in Robotics",
         "Machine Learning",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-machine-learning-predicts-risk-of-death-in-patients-with-suspected-or-known-heart-disease.md",
+      "title": "Machine learning predicts risk of death in patients with suspected or known heart disease",
+      "excerpt": "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg",
+          "width": 2880,
+          "height": 1907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
+      "publishedDateTime": "2021-12-11T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1387,49 +1431,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep learning dreams up new protein structures",
-      "excerpt": "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "originalUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg",
-          "width": 2100,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "cdnAmpWebUrl": "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "publishedDateTime": "2021-12-06T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

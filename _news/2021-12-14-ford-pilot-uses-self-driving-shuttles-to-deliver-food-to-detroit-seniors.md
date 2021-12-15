@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017
 webUrl: "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Engadget
@@ -44,6 +44,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-15-2021/t_9ab70ef79d894531bbdfb93ca66fd944_name_image.jpg?_a=ATABlcW0"
         width: 700
         height: 394
+        isCached: true
+  - title: "Self-driving shuttle program planned for Trenton"
+    excerpt: "Vehicles Equity System Project aims to bring 100 self-driving electric shuttles to the state capital’s 90,000 residents."
+    publishedDateTime: 2021-12-15T20:45:00Z
+    webUrl: "https://gcn.com/articles/2021/12/15/nj-autonomous-shuttle.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/autonomousshuttle.png"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "jD7Kc5oAlgGn+Gov8xKopMYxky0SVJQ9gzFb/492Xaq+/09gKUULLAbjFQ1C+VCtwH+t2PWZEFwnD9JPpqBJQSyG/LsrrAywGN3yCqcBb10s0cBwDuGghmqnIcB501KgsaN4m1ltOo7FImFVN4125Oic8SYtF3Ogk9Fw5B5umWLz6I5TPEi36K0582I5fyeMKJ65APVzHPD7QoPC867l7wdTNRdpJVWFCQ3YSGGi+2djoUYR2QjDC8r1bCv35n/l2OTIiCZ6x6A18Awd0d4R4I91R67EpX0M5nVNpVyoqTSa0ohe7/pUDgzw7cT9nEenuWLgi3tlKIblrY40WZtz4Ft+LNCCyjiVxIeWPdEjNRcUzNuWcLRSHx67DIYjFjZ4WV85XRA4smyYOTbqH1qkrGOgcmxVHD3HRA48eqWsl9pXg+rmFGUprZ9zte72vZYgKoxnKcTq47ezNXsqIRfkfU6KPIzYV7MLB13KoiBwQIr/Ho5bCOyCE9KiI7bPAzBfyLoNDgPOMONkGuAoNEReTw==;L9hkE4QhDaZXbn9IwZo0VQ=="

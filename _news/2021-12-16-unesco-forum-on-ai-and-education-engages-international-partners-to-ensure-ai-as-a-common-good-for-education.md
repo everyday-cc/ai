@@ -88,6 +88,20 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
+    excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
+    publishedDateTime: 2021-12-15T18:20:00Z
+    webUrl: "https://www.cnbc.com/2021/12/15/bernstein-says-self-driving-trucks-are-coming-highlights-3-stocks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 39
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
     publishedDateTime: 2021-12-13T00:04:00Z
@@ -117,6 +131,6 @@ related:
         height: 800
         isCached: true
 
-secured: "b8zQRN9FIAmEDHmy8bhjM+fSEujg/vb7XAHiBZIny5DnqB/7nq59F83P7wU6Nbze6g8tmpb5zG8GBE77zhx7gIbdMO/Y4+MGYT//gzk47/G8Dre7AB/xHeXwv8uF7AOSO2Q/GV5TtL9QV2RRf2Xnn2ElV3H8WvE3HT+aAg3IiDvktL6jBpPZU1KqyVLSaJ+U2IatFWFWUAlEEx+jUZmZfS2ClSjDVmld64EUFKd/LYDlYmeBw7eU/vPlA4dRjqdfrK2rLDRKN5PoEuWISboiaHz1j9TFPxPWJ6MasBcPAZGN3EyJQjNIBCOS/Zb8oWptrSJyy5OkSZsjMdiQzD4hrgm8gr5bvGjTdQAC9A0oqfA=;/0JeizD0IKBfXOMSTlxiMA=="
+secured: "sJneAVvUQsOymYkfSx1SThMQSNsVvlRWWIoe3O36J3qyfLueYdmMvUAcsZPBiG3n+pYMLA93EvJVoQgDJf5RMWdLPy20ByNwWEMMFgR8qhzDRmGH9mNDbqUJ9PgwgEKDqZgsz9ddP9bMAAywMLQdCfY8FiuvC1nAOa0FPUyiRtZ/sfT6ECe5bnniedwj9NPYM6El6jKrLxC3P3v/FJwl2vSYNh3LhVwjEf0bRoTa4/4IIexmYsc2JP20u9j///vQWhfqnVZY55TMnRIbGEexU+3jKmlCFABNQIz6XlT8hD3/QY0DK9Tj4qEAFD3meTvYdqVZnOrvWz8/3bOvmYhuDy+8CQzn2ABzIrUlNl/hOKtYirvwiM8ZoUjJxk41s/sSrCpvk7xChELrIwxescsH81URv7kFj/lul/WpMjvwiF51QTcJneJyMEfJ0+7Lhywx67kV74/M2AIhw57CKoFJ3ND3srIz5vbyb3ONbyKRXESuoS7Bo3Euxk91H7m/oTKB0QSByGB8WLaxcOKJzX36PA==;IuWojeo4FQ0irDOvXxY7+w=="
 ---
 

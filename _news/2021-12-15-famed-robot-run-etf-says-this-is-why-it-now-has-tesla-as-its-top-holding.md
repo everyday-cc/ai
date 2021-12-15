@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding"
-excerpt: "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding."
-publishedDateTime: 2021-12-15T15:34:00Z
-originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding"
-webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding"
-ampWebUrl: "https://www.benzinga.com/amp/content/24614006"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614006"
+excerpt: "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ: TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding."
+publishedDateTime: 2021-12-15T11:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding-1031046687"
+webUrl: "https://markets.businessinsider.com/news/stocks/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding-1031046687"
 type: article
-quality: 75
-heat: 85
+quality: 85
+heat: 95
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -22,9 +24,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.benzinga.com/files/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg"
-    width: 3942
-    height: 5905
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -45,6 +47,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "wcn1Sh9H8my5fp6on3Ae6sYbAMR+yZNXCjuiPb8eZB/1LrF+GiHMSaf4IazaToemn5tLeDuuruLnAC4hoPb8tCmiRMJ4Ku4SXefpAC2zWDPVAuELuH3r0I6pTmfi997OHwYy93hyfW7Kfzmp6y2FAsJFHhma6yWxPZAHITmdkK0Mz2+jAb8PkdOrKCBQyE1bcuY0jzttE03c20rUZVZudLajhwrtlx/1UF7ZqYJHtMjkfyBNLImklgrkoAKcVVvYIanDnpw4GnToszSuc6+nXlXTErF2DsUKyxQhOdYKKloJqvVOArrt0WBpMU+3xRdQdNjkSahg1eoaAbxl++qzEL/gV1wWPgJeMnUoI3ZjC2c=;nmteNGeuL1QjO47zG5Y9JQ=="
+secured: "9TNEKnsQAigFAzvVO+HjccNR2MS6SwT4t8nk467LUYI75pFo9mI/3yESM8VaDvhrMhtKrRon3TmuAl4gym68yMuoSPftmo5Ct1mTiAxwmJJWYlgll+0weOz5ANe0+aAAqQW2l0Gq4yJbSvvMDDYKipdjSW0c36lQ/50kX2AMn2ZnhXakbUSFTIk5fHid8lyjXDURIO7Ljud86kW0REBHXB0qHYUGz4y5VYn29vkm3zJtQvLPJYX5Qba+6TkPpAvPApLgf+UybDGdxZ0XFmTP2Tcg2GOGvoPV2wQ62ece3EkF2RDRrjWCuoXq0RXNAOutUAAjKNaHz8FbDIoGDq/p29bhjCm0ziMaxWeIWsgffyk=;Q0yjA44+re0+4Of8TEPtuQ=="
 ---
 

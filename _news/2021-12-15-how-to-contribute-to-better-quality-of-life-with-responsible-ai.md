@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-
 ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ba10461f92a1dd1434b3aa%2F0x0.jpg"
@@ -47,6 +48,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "FzYOLruKITvS6Oee+jlXaKblG3uViV37Gpbtj3/d218fJMu/oiT494xVvM7zV77EO1H8tbdA53hytIms3dW7KHWdo8SUuTPeoDtXHq4E6taek6gTFSO1zZwiY0gdAOvME1xsK+JofqrnhXAFHqO0aW2jCTON8U+Sg7ayVRqX4Z5SdzNRdTrdFQtBJCmMFnb7RlDmWAJNgW8Y9JckfekDsEI7V3rzFFMqZfH+TGjnTHFjIHRmZF5SOoPKEVzjJkFU8J9f0Hz4E/dTNs1vhx4yQuzWm5/1vHCzQviy5Tu3Qc8yMb7e69V79/J7T/l6XJqczmUq8I6LgX4q5nqmSOq+YHo0McYItDCaZ9Jb92FkT1Q=;Lx7uALUVnDQkJbQpw9oftw=="
+secured: "kN7s8C6SEPoxaHI45HqXMcat1FT3iQ2fbiWKpGtsb0wkHWABBuNq/jprqFGURWqbK/rBG/9BK2/nlDFebZtH2PZ+U2+lejbgL5jWMNL9qM0C+19Lt5GVylGdummXuTRjZ+zn6kx4+GSF+yFRKvFwVwEcC/NqQUPkUdXerkg6520zIv0Vfca/1DUTm0ZgBgzmM5Z0vSry/t4UorNoqFGLxHVvmoUqPe1sSeJZqlPzEPQgPZvYPf1YBHt2Gx17cRF9+iTunjsBXZ0GQMhCrZWMANBZrvk27iumdvdKZYu6BzM1tstjxuGQKJ+ruqSFLmZ99nV234r3T+OyGYRnj4GecS5V/c+T6bz7tE2uwgMgoB6Oorr6gmoRyCYI9Y93AWADzpnZ863qcfSLh4Z4U3Tf+RGUOeLiBlILbrLRXpJmVR+ja9zauZ19VYKSI2KB/XwxhA/WwCTTGHs3S239c7atO0Y2VzzfsAakWv5vMbqhQcIdqvlOAw4guwMWN/2l6YkTUS3TLJ7bYlk1wdMVdweCsg==;5QNnWElCrH5kaOGwq1kR+g=="
 ---
 

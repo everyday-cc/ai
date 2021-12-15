@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
+      "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
+      "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "publishedDateTime": "2021-12-12T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.md",
+      "title": "Role of artificial intelligence in the evolution of digital marketing",
+      "excerpt": "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour  By Raghav Bagai Artificial Intelligence (AI) is making our everyday lives more efficient in multiple ways that are used behind the scenes of our daily life.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88247822,imgsize-33626,width-1200,height-628,overlay-etbrandequity/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822",
+      "publishedDateTime": "2021-12-12T19:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
+      "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
+      "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
+      "originalUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
+      "publishedDateTime": "2021-12-12T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-samsung-promotes-robotics-as-future-growth-driver.md",
       "title": "Samsung promotes robotics as future growth driver",
       "excerpt": "Samsung Electronics Co. named its newly merged unit for mobile and appliances the device experience (DX) division, the company has said, in a sign of its resolve to provide its customers with new, meaningful experiences.",
@@ -191,7 +330,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -448,6 +587,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-machine-learning-predicts-risk-of-death-in-patients-with-suspected-or-known-heart-disease.md",
+      "title": "Machine learning predicts risk of death in patients with suspected or known heart disease",
+      "excerpt": "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg",
+          "width": 2880,
+          "height": 1907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
+      "publishedDateTime": "2021-12-11T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -994,205 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-we-now-know-what-the-self-driving-apple-car-might-look-like.md",
-      "title": "We now know what the self-driving Apple Car might look like",
-      "excerpt": "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/apple_car_render.jpg",
-          "width": 757,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "publishedDateTime": "2021-12-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
-      "title": "Watch a robot playing table tennis after just 90 minutes of training",
-      "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "originalUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/10161244/PRI_214439429.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "publishedDateTime": "2021-12-10T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
-      "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
-      "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/",
-      "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg",
-          "width": 4657,
-          "height": 3105,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-2022-transformations-promise-better-builders-automation-robotics.md",
-      "title": "2022 transformations promise better builders, automation, robotics",
-      "excerpt": "From better automation to robotics, the next year is filled with promise. Here are some of the top predicted transformations in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/12/artificial-intelligence.jpg?w=1200&strip=all",
-          "width": 949,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "publishedDateTime": "2021-12-10T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

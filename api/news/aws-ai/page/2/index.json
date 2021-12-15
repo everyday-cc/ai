@@ -2,6 +2,138 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
+      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
+      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
+          "width": 4855,
+          "height": 3182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
+      "title": "AWS Sizes Trainium for AI/ML Model Boom",
+      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
+      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
+          "width": 1024,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
+      "publishedDateTime": "2021-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance.md",
+      "title": "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance",
+      "excerpt": "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook",
+          "width": 967,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Six New Amazon SageMaker Capabilities",
       "excerpt": "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ...",
@@ -95,41 +227,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1318,111 +1415,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-simplified-mlops-with-deep-java-library.md",
-      "title": "Simplified MLOps with Deep Java Library",
-      "excerpt": "This is a guest post by Lucas Baker, Andrea Duque, and Viet Yen Nguyen of Hypefactors.&nbsp;&nbsp; At Hypefactors, we build tech for media intelligence and reputation management. The solution is a software as a service (SaaS) product that does large-scale media monitoring of social media, news sites,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T12:11:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune.md",
-      "title": "How Careem is detecting identity fraud using graph-based deep learning and Amazon Neptune",
-      "excerpt": "This post was co-written with Kevin O’Brien, Senior Data Scientist in Careem’s Integrity Team. Dubai-based Careem became the Middle East’s first unicorn when it was acquired by Uber for $3.1 billion in 2019. A pioneer of the region’s ride-hailing economy, Careem is now expanding its services to include",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/ML-5154-image001.png",
-          "width": 986,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T11:59:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

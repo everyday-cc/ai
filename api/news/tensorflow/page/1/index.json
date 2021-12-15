@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
+      "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
+      "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg",
+          "width": 701,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T12:14:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-optimizers-in-tensorflow-probability.md",
       "title": "Optimizers in TensorFlow Probability",
       "excerpt": "In this colab we demonstrate how to use the various optimizers implemented in TensorFlow Probability. Quasi Newton methods are a class of popular first order optimization algorithm. These methods use a positive definite approximation to the exact Hessian ...",

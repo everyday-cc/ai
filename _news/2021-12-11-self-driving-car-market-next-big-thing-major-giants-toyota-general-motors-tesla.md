@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Why Are Tesla's Self Driving Software Sales Slowing Down?"
+    excerpt: "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ..."
+    publishedDateTime: 2021-12-15T10:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
     excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
     publishedDateTime: 2021-12-13T08:15:00Z

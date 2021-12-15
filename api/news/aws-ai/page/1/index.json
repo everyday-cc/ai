@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
+      "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
+      "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg",
+          "width": 701,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T12:14:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-build-gan-with-pytorch-and-amazon-sagemaker.md",
       "title": "Build GAN with PyTorch and Amazon SageMaker",
       "excerpt": "GAN is a generative ML model that is widely used in advertising, games, entertainment, media, pharmaceuticals, and other industries. You can use it to create fictional characters and scenes, simulate facial aging, change image styles, produce chemical formulas synthetic data, and more. For example, the",
@@ -962,6 +1017,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance.md",
+      "title": "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance",
+      "excerpt": "The team investigated Amazon's SageMaker which is a fully managed machine learning (ML) service in AWS. Amazon SageMaker helps data scientists and developers to prepare, build, train, and deploy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook",
+          "width": 967,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing.md",
       "title": "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing",
       "excerpt": "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials.",
@@ -1312,110 +1410,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
-      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
-      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
-      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
-          "width": 4855,
-          "height": 3182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T17:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
-      "title": "AWS Sizes Trainium for AI/ML Model Boom",
-      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance.md",
-      "title": "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance",
-      "excerpt": "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook",
-          "width": 967,
-          "height": 506,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1425,11 +1434,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
+      "publishedDateTime": "2021-12-01T17:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1439,8 +1448,10 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     }
   ],

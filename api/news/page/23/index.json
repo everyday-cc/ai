@@ -2,6 +2,291 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
+      "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
+      "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "originalUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR-Inside",
+        "domain": "pr-inside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-government-launches-unique-face-recognition-tech-for-pensioners.md",
+      "title": "Government launches 'unique' face recognition tech for pensioners",
+      "excerpt": "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
+      "publishedDateTime": "2021-11-29T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-cyber-monday-vacuum-deals-2021-todays-biggest-savings.md",
+      "title": "Cyber Monday vacuum deals 2021: today's biggest savings",
+      "excerpt": "Multiple control options – including touch and voice – and the 100-hour battery life make it a convenient and low-effort way to keep your home clean. Shark AV993 IQ Robot Vacuum: $379.99 Shark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "originalUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TRr7iHHnTgY7byfwZYbziY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai.md",
+      "title": "Therapixel and Ferrum Health announce collaboration to facilitate access to Breast Imaging AI",
+      "excerpt": "Therapixel, a software company specializing in artificial intelligence (AI) applied to breast cancer screening, announced a partnership with Ferrum Health, the developer of a Healthcare AI Hub utilized by health systems to simplify and organized the deployment of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1697342/Logo_Therapixel_Ferrum.jpg",
+          "width": 400,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-analytixinsight-reports-third-quarter-2021-financial-results.md",
+      "title": "AnalytixInsight Reports Third Quarter 2021 Financial Results",
+      "excerpt": "Artificial Intelligence company, AnalytixInsight Inc. (“AnalytixInsight”, or the “Company”) ( TSX-V: ALY; OTCQB: ATIXF), reports financial results for the third quarter ended September 30, 2021. Key Highlights: Business Review AnalytixInsight is an established AI-driven content supplier with the ability to offer scalable machine-created research content on approximately 50,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-three-critical-facets-for-financial-services-to-succeed-in-the-digital-future.md",
+      "title": "Three Critical Facets For Financial Services To Succeed In The Digital Future",
+      "excerpt": "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "publishedDateTime": "2021-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots.md",
       "title": "How CVS Is Using IBM Watson's AI to Encourage People to Get Their Flu Shots",
       "excerpt": "The company has teamed up with IBM Watson Advertising to create a campaign that attempts to identify and target at-risk areas before the flu hits.",
@@ -931,272 +1216,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
-      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
-      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "publishedDateTime": "2021-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-analysis-of-mental-and-physical-disorders-associated-with-covid-19-in-online-health-forums-a-natural-language-processing-study.md",
-      "title": "Analysis of mental and physical disorders associated with COVID-19 in online health forums: a natural language processing study.",
-      "excerpt": "Online health forums provide rich and untapped real-time data on population health. Through novel data extraction and natural language processing (NLP) techniques, we characterise the evolution of mental and physical health concerns relating to the COVID-19 pandemic among online health forum users.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34740937",
-      "originalUrl": "https://europepmc.org/article/MED/34740937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
-      "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
-      "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "originalUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a1ab6806761cd8fb70c192%2F0x0.jpg",
-          "width": 900,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "publishedDateTime": "2021-11-26T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
-      "title": "Microsoft launches fully managed Azure Load Testing service",
-      "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "publishedDateTime": "2021-11-26T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
-      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
-      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "publishedDateTime": "2021-11-26T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report.md",
-      "title": "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report",
-      "excerpt": "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by Reuters, the two companies have secured the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "publishedDateTime": "2021-11-26T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

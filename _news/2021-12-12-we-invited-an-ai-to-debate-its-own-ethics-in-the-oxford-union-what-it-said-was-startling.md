@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
 webUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
-    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
-    publishedDateTime: 2021-12-11T04:47:00Z
-    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
-    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "An AI was invited to Oxford Union to debate its own ethics. What it said was startling"
     excerpt: "It’s natural, therefore, that we would include the ethics of AI in our postgraduate Diploma in Artificial Intelligence for Business at Oxford’s Said Business School. In its first year, we’ve done sessions on everything from the AI-driven automated stock trading systems in Singapore,"
     publishedDateTime: 2021-12-14T18:00:00Z

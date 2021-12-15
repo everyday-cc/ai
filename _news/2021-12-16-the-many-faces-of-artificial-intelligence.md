@@ -8,8 +8,8 @@ webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/th
 ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"

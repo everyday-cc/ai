@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Self-driving shuttle program planned for Trenton"
+    excerpt: "Vehicles Equity System Project aims to bring 100 self-driving electric shuttles to the state capital’s 90,000 residents."
+    publishedDateTime: 2021-12-15T20:45:00Z
+    webUrl: "https://gcn.com/articles/2021/12/15/nj-autonomous-shuttle.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/autonomousshuttle.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "Px5Ch7RYfgcse4sKyBc7zv7dXFuloUjmUHyOCgUvv2fy75HV5MB7N1pkZC+shbzyFyvHZZ1j13VcIVvv6dcww/zRIpll1JIy+nj+ZhUgn1cwYjZCbiunLur+jsv8WWjXfX8rQ987bDGksq7114msNxJMufKXNEaZXqZPNMa0ixAvhzWOL0R/ZzAGQOrCQ6bHfNKQQe/KLZ1OgWLcM4d5rR6W+0bTmVPNNw9+f/3hZjxqEQGpRI+NVqouKO02OsOA8axxXRoiaoBYwpdhcJDeMwnk8O/fwIw2ixG1hUiR9n5rSzeYFqD+Gv3qCJhE37iBWGJ4673I6/Lfn0/Xj3zfS9766u6wFIQFh+/SKrupkz/X+aFEQLzh1OxnLFJMKhCAMiROGzZ54luWEdck7U93Ajael5fb31s6DTEZW64FtSL9yLnG1VOLMf6Gcqt/djzeVWnPqNYQIlY3RZLCaGRt45bwpMPOCWP/WNKzVwObiRSJ1Pi5sGngJBpxW3IZ4x3cW45GgHElYmIXiNPtyS5yJg==;WmczTUCRBi2BYXVjPV2jmQ=="
 ---

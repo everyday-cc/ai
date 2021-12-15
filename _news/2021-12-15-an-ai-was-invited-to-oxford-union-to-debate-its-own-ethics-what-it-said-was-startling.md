@@ -41,22 +41,6 @@ related:
         width: 1212
         height: 606
         isCached: true
-  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
-    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
-    publishedDateTime: 2021-12-11T04:47:00Z
-    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
-    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
     excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
     publishedDateTime: 2021-12-12T16:28:00Z

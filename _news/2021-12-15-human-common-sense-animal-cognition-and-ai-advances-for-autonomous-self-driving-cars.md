@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/13/thumbs/800x531/166958.jpg"
         width: 1600
         height: 1062
+        isCached: true
+  - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
+    excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
+    publishedDateTime: 2021-12-15T18:20:00Z
+    webUrl: "https://www.cnbc.com/2021/12/15/bernstein-says-self-driving-trucks-are-coming-highlights-3-stocks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 39
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
+        width: 3600
+        height: 2400
         isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."

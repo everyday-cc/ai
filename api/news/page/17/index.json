@@ -2,6 +2,295 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-02-qualcomm-ditches-tsmc-lets-samsung-produce-new-chips.md",
+      "title": "Qualcomm ditches TSMC, lets Samsung produce new chips",
+      "excerpt": "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg",
+          "width": 980,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
+      "publishedDateTime": "2021-12-01T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption.md",
+      "title": "IBM Watson Health Introduces New Opportunities for Imaging AI Adoption",
+      "excerpt": "Nov. 30, 2021 /PRNewswire/ -- IBM (NYSE: IBM) Watson Health is introducing a new AI orchestration offering to help imaging organizations experience the benefits of having AI applications work ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption-1031011945",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption-1031011945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
+      "title": "Robotaxis approved to start services in Beijing",
+      "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "originalUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/11/081_AFPS14105-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "publishedDateTime": "2021-12-01T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
+      "title": "AWS wants to make it easier to get to grips with machine learning",
+      "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg",
+          "width": 970,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "publishedDateTime": "2021-12-01T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
       "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
       "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
@@ -721,6 +1010,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-avocor-launches-e-series-interactive-displays.md",
+      "title": "Avocor Launches E Series Interactive Displays",
+      "excerpt": "The glass display technology facilitates a smooth, accurate, low-latency writing experience through instant writing object recognition. Users can easily switch between using a pen or finger to create a fluid, collaborative real-time environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialintegrator.com/av/video/displays/avocor-launches-e-series-interactive-displays/",
+      "originalUrl": "https://www.commercialintegrator.com/av/video/displays/avocor-launches-e-series-interactive-displays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/12/Avocor-E-Series-Display.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Integrator",
+        "domain": "commercialintegrator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte.md",
       "title": "AI to see stricter regulatory scrutiny starting in 2022, predicts Deloitte",
       "excerpt": "SEE: Artificial intelligence ethics policy (TechRepublic Premium) Looking at the overall AI landscape, including machine learning, deep learning and neural networks, Deloitte said it believes that ...",
@@ -773,41 +1105,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
       "title": "Study shows how machine learning could improve COVID-19 predictive models",
       "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
@@ -848,304 +1145,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model.md",
-      "title": "Google uses MLPerf competition to showcase performance on gigantic version of BERT language model",
-      "excerpt": "Google said training large models is a \"huge focus\" for the company, and ought to get more attention in the benchmark results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "originalUrl": "https://www.zdnet.com/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/547e402c837aacf5da42103d55a79a7cc87ae178/2021/12/01/7a51176a-d83a-45d9-8872-b2ee491d8554/google-tpuv4-data-center.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "publishedDateTime": "2021-12-01T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl.md",
-      "title": "Tata Consultancy Services deploys Cognix customer experience platform to AGL",
-      "excerpt": "digital-led services across all of our products. TCS’ expertise and cognitive solutions have made it a key strategic partner in our journey.” Last week, TCS expanded its IT services deal with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
-      "originalUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20211201115742_0_0_0_0_70__News_iStock-1034334920_electricity_utility.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
-      "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
-      "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-nvidia-again-claims-the-title-for-the-fastest-ai-competitors-disagree.md",
-      "title": "NVIDIA Again Claims The Title For The Fastest AI; Competitors Disagree",
-      "excerpt": "After all, training tiny models like Resnet on over 4000 GPU’s in order to claim the fastest hardware crown is irrelevant in the real world. Rather, TTT is a demonstration of scalability, which is universally important to AI practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7aedec9cd7a21719f5183%2F0x0.jpg",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/",
-      "publishedDateTime": "2021-12-01T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
-      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
-      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "publishedDateTime": "2021-12-01T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch.md",
-      "title": "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch",
-      "excerpt": "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/ML-6937-image001-782x630.png",
-          "width": 782,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:26:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

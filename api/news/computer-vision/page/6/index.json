@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-18-the-eu-called-for-a-ban-on-police-use-of-facial-recognition-but-not-commercial-use-why.md",
+      "title": "The EU called for a ban on police use of facial recognition but not commercial use. Why?",
+      "excerpt": "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "publishedDateTime": "2021-10-18T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs.md",
+      "title": "All-New Computer Vision Technology Easily Expands Drive-Thru Visibility, Helps Reduce Drive-Offs",
+      "excerpt": "HME Hospitality and Specialty Communications is excited to announce the launch of its all-new video detection, a breakthrough restaurant technology that seamlessly expands",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-galvin-widjaja-consultants-vs-founders-computer-vision-ai-digital-privacy.md",
       "title": "Galvin Widjaja: Consultants vs. Founders, Computer Vision AI & Digital Privacy",
       "excerpt": "Check out this great listen on Audible.com. Galvin is the CEO and Co-founder of Lauretta.io, a profitable Techstars company that builds bleeding edge military grade computer vision technologies that are now available to commerical buyers with no AI capability of them own.",
@@ -1266,92 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-google-nest-cam-indoor-wired-review-the-best-nest-yet.md",
-      "title": "Google Nest Cam (Indoor, Wired) review: The best Nest yet",
-      "excerpt": "It's also the smartest. With on-device machine learning for specific object recognition, sound recognition and some free video history, there's a lot to like. The price is high and other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/security/google-nest-cam-indoor-wired-review-the-best-nest-yet/",
-      "originalUrl": "https://www.cnet.com/home/security/google-nest-cam-indoor-wired-review-the-best-nest-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/vI1aDyJSJSO-9QeNjcyWcCmoJr0=/1200x630/2021/10/06/5083f7e3-e1fd-49f8-a75b-8e026597c9b8/20211006-130938.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-nest-cam-indoor-wired-review-the-best-nest-yet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-nest-cam-indoor-wired-review-the-best-nest-yet/",
-      "publishedDateTime": "2021-10-07T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-facial-recognition-market-rising-at-a-cagr-of-148-to-reach-usd-1292-billion-by-2027.md",
-      "title": "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027",
-      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/g23275417/facial-recognition-market-rising-at-a-cagr-of-14-8-to-reach-usd-12-92-billion-by-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/g23275417/facial-recognition-market-rising-at-a-cagr-of-14-8-to-reach-usd-12-92-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23275417",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23275417",
-      "publishedDateTime": "2021-10-07T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

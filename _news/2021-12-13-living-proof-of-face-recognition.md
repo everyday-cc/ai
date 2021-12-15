@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-o
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "Schools in Odisha without certificate of recognition to face action"
-    excerpt: "This has left parents worried as the State government has clarified that schools lacking certificate of recognition cannot send their students for admission to Navodaya or Adarsh Vidyalayas."
-    publishedDateTime: 2021-12-11T03:40:00Z
-    webUrl: "https://www.newindianexpress.com/states/odisha/2021/dec/11/schools-in-odisha-without-certificate-of-recognition-to-face-action-2394288.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/odisha/2021/dec/11/schools-in-odisha-without-certificate-of-recognition-to-face-action-2394288.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2021/dec/11/schools-in-odisha-without-certificate-of-recognition-to-face-action-2394288.amp"
+  - title: "Carmaker Xpeng Deletes 430,000 Photos for Misuse of Facial Recognition"
+    excerpt: "Chinese electric-vehicle (EV) startup Xpeng Inc. said that the hundreds of thousands of photos that were wrongfully taken of visitors to its showrooms have been deleted, after it was hit by a 100,000 yuan ($15,"
+    publishedDateTime: 2021-12-15T12:20:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-15/carmaker-xpeng-deletes-430000-photos-for-misuse-of-facial-recognition-101818294.html"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/6/w600X390/school.JPG"
-        width: 600
-        height: 390
+      - url: "https://img.caixin.com/2021-12-15/163955376422173_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
+  - title: "Pa's story: how a facial recognition system potentially failed to recognise a driver of colour and may have cost him his job"
+    excerpt: "Please note the views expressed in the video are interviewee's own and do not necessarily reflect the views of PI."
+    publishedDateTime: 2021-12-13T07:36:00Z
+    webUrl: "https://www.privacyinternational.org/video/4710/pas-story-how-facial-recognition-system-potentially-failed-recognise-driver-colour-and"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 7
 
 secured: "VUfQwgGGank4lDq+A8bjC53J/lM2vX6HYNKizN1lSDsjuWcKiPzLADgDS0e5BE65sdv8JIM2u9StWcDTOo+K6UhrdT8995huGzH29P5KzidGOjCYisFp8ZK+nWBVbQPgN32bvySjOUgbNMirANmWbTXzeODOi4Osbwe7sM2mlWX0XGdErnldxBwYv5BD+7JYfNhUPRgoe9xtJrpkpQa27Ob30CyA2zyXTyPXRJrIjpadONFgS17fTQaZg/TY3m1gTKZDcQl4YX3BDxxC08EhdCt/mKm8i7903F9bBSgZKbcr7WSe+Mhfikth1T1z2Ah8Xe4aAUGLPpTSA5xXqTmw7H6hm8taX2GkbTbOoVXStL5FgnhhzHxQN9RmVWdyKF3gxrdFUSd9rq8D6uJkREWQ67ewxTtuWYswiUG81b5XwnOe2htzBRf9RYyjWe/Znwpg1fjkNTdLr5PP1DhaflrxRT5HyBBp6StWoGzL8IqVCcjFLB2TENLc8HAhEggsE57wOyfc7GJjQNo92LL0uwyV5Q==;HcIM9N1u5z/2Mpr+OQHkTg=="
 ---

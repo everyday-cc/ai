@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
+    excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
+    publishedDateTime: 2021-12-15T18:20:00Z
+    webUrl: "https://www.cnbc.com/2021/12/15/bernstein-says-self-driving-trucks-are-coming-highlights-3-stocks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 39
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Self-driving trucks tag-teaming with human drivers is the fastest path for autonomous trucking"
     excerpt: "This article proposes that the most practical way for self-driving to work in trucking is for the driver to stay in the truck throughout the job, handing driving responsibilities to the autonomous truck on highways in order to rest and reset their hours-of-service,"
     publishedDateTime: 2021-12-15T16:28:00Z
