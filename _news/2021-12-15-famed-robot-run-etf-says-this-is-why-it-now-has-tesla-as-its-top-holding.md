@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Tesla Stock In For A Pullback Or Will It Continue Its Way Up In Near-Term? It's Robot Vs. Cathie Wood On This One"
-    excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ: TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric"
-    publishedDateTime: 2021-12-16T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-it-s-robot-vs-cathie-wood-on-this-one-1031049757"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Famed Robot-Run ETF Buys Back Into Tesla Heavily After Booking Profits Earlier — Here Are Its Other Bets"
     excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF AMOM, an exchange-traded fund driven by artificial intelligence, has acquired new stakes in Tesla Inc. TSLA, Netflix Inc. NFLX and Autodesk Inc. ADSK, while entirely divesting its holdings in Intel Corp."
     publishedDateTime: 2021-12-13T12:14:00Z
@@ -55,6 +41,22 @@ related:
     quality: 59
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/tech-nick-kpuqosfthag-unsplash_9.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Is Tesla Stock In For A Pullback Or Will It Continue Its Way Up In Near-Term? It's Robot Vs. Cathie Wood On This One"
+    excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ:TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric vehicle company’s stock and the other as time to buy."
+    publishedDateTime: 2021-12-16T15:16:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24638508/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-its-robot-v"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24638508"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24638508"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
         width: 6000
         height: 4000
         isCached: true

@@ -110,6 +110,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
+    excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
+    publishedDateTime: 2021-12-16T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-elementary-raises-30m-series-b-led-tiger-global-/2021/12/16/9513309.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1711473/elementary.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "D+EDIIxYnkwamMrYvk8ZroqMccNn2R1ze4QPHJrAiiVrmOHN3mOogfiKD4tBSKnBJHwVgHwalRqUfPzrKdWdLi+FSwIxEvihG6D+Y2tWes0Uo4EGG9bNpl7hTFMJ3zNZPFi0AX6YaShPkR6kLnxWqfjejwpnr/JrlyPMucdXLqm5wevUFUwp92p+5v6JA8oCOOCa9ivCJqogXsqlV+YrENeOKr1rvkZn4+1NzixE4QBQnfC6eYOyqWDS6UkGR7vHjK/6dLDOPxyPezAE7TRU/MU1HXqZLFe2WBBClrQrM7PUSKI/Hvh4PdFsKPsbzmH2Ym5hNuKsF2TFceUBEseKobpsR0OhYXXARrFeGhGxUsA=;OOmyUWCkfRVSiFXEPb04mQ=="
 ---

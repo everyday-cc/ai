@@ -7,8 +7,8 @@ originalUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-so
 webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
 type: article
 quality: 54
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: gadget.co.za
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
-    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
-    publishedDateTime: 2021-12-14T09:03:00Z
-    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
-    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
+    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
+    publishedDateTime: 2021-12-16T16:30:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Business Analytics BPO Services Market"
     excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
@@ -57,63 +57,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Teradata Advances Analytic Integration with Dataiku to Speed Data and AI Initiatives"
-    excerpt: "and scalable AI and analytics programs. Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale."
-    publishedDateTime: 2021-12-14T14:27:00Z
-    webUrl: "https://pressofatlanticcity.com/news/science/teradata-advances-analytic-integration-with-dataiku-to-speed-data-and-ai-initiatives/article_cdd8dfda-f645-5a90-8b55-de23c9674d96.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/6/4f/64fb182d-a191-579d-8004-0ffeda39d1c6/61b8a72d1db0b.image.jpg?crop=613%2C322%2C0%2C52&resize=613%2C322&order=crop%2Cresize"
-        width: 613
-        height: 322
-        isCached: true
-  - title: "Cybersecurity Startup ActZero Partners with Measured Analytics and Insurance"
-    excerpt: "ActZero, a cybersecurity startup whose AI-driven platform makes best-in-class security accessible for businesses of all sizes, today announced a strategic partnership with Measured Analytics and Insurance,"
-    publishedDateTime: 2021-12-14T15:29:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/cybersecurity-startup-actzero-partners-with-measured-analytics-and-insurance"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 19
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
-    excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
-    publishedDateTime: 2021-12-13T17:26:00Z
-    webUrl: "https://linuxgizmos.com/ai-box-pc-combines-a-10th-gen-cpu-dual-2-5gbe-and-dual-pcie-for-medical-analytics/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 13
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
-    publishedDateTime: 2021-12-15T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mJQHfxwqoMESOaOPUBUQOm7b79doKookjnVujED7t/E8cWulfWsThb7HOdpsbSTM5mrpQRg5qPbMxuXps3cAfw8ydKrlsOlsk95dn2ojg98wk1skoKz8BTONg04l+Yk6E6UMDhiBomU6CWLRMMh+MTTAEiOEIPBRh9D6+THOG+Dlfc/WS0tK3DcvM5y64/YvMLaIWsFzjq59T8GsaXImGYgvifgLH82OBKZZrgMyBHA7IaL/At/6jtYo1qBNOTJti7MV1rUKGLSzT6/uXyJ51Xr9nUQ6mkYX0eaZxAKbQlMxSjEmEu3ohI2cUBjpFUTlNuM3dcBlNsjXpOz3qM3LypOfVfmMmNDsT7T++GYIaupyayy+vgD0N1u29gfNV1gfnCkE0YO65lfvvYg5Rh78dWv2tU4dhibBDXaKmD0hH8IzA/trgBlUbESYARn2q1VW8oOlRD0kv+EPdQZoBUzYDq4REEvLK7leLhQjI8xdW0RgTUV8QbgVDoP5iZLw0lb/VDCu82AT/6h+hb9uqYOlmA==;p4JOc3WMrUelv6V2NPu5vw=="
 ---

@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 795
         isCached: true
+  - title: "Podcast Recap: AI ethics and immersive technology"
+    excerpt: "Future focused., covers unique insights and stories for how to successfully implement AI across an organization, protect consumer data, and immerse yourself in the world of Internet 3.0. Let's One of the most exciting and widely used applications of AI is facial recognition."
+    publishedDateTime: 2021-12-16T16:25:00Z
+    webUrl: "https://www.publicnow.com/view/5EC41FBE86E664FC757BD0D31DB78292182FD9E3"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
   - title: "Adobe announces Creative Cloud Express for mobile and web: Template-based, AI-powered editing and content creation"
     excerpt: "Adobe has announced Creative Cloud Express, a new unified web and mobile product that makes it easier and simpler than ever to make and share creative content. Creative Cloud Express enables drag-and-drop content creation and includes thousands of templates to reduce the learning curve that can inhibit content creation for beginners."
     publishedDateTime: 2021-12-13T19:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
 type: article
 quality: 121
-heat: 221
+heat: 231
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 39
+  - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
+    excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
+    publishedDateTime: 2021-12-16T14:32:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 33
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729_1.jpg"
+        width: 1920
+        height: 1012
+        isCached: true
 
 secured: "R6B1BvKhfSUYvXDHw7ypmgW3gqOuFvhVJa2mwBMWwh4tUfaVaXEer5UmCFCiGNkZ3i1qxaRH9oxeXoJhvBKa8cFh+bnALvLc8Fz7s9nDdOgIsE6SU/TdrBrKHUvn9r1dIp6e58R8hBHORGIRDqia3Q1vfYektOKcyW11tWdOE7ZxIZPq/2DN1/ROv98R5EOWmI4zQGuTrBVAVe+p7tQP3p22SWKQqqqg8yI/aEwmB4kMhDH6CbPTDg2Ijt3tL0dZrpuAkP7zXKu+OCx5UhSYwFR00F7aLqXfDX9K6DhZ5cUwD504GdsDfXDzm9nyxOQbABuOB/hF1imc0qYhv8jKOmkHT7j7q0nh647BHrwGZxbbryCKsR3tsFKeFy1VqEiotMSSFsB6HUD7IGthQwddEoYY2F0dHsmHEQpzB65pcPoTloRrKa78D8ZswfcMwE5i33jfXyRKPvS/w79iZSP/c5BWLO7MAnpe692LM0ucuXRdeqq011MakPapeCeBofvyZn0LEmLCGvw+Sym+uI9cOg==;TchqspjhUAPqxaI/98vk+w=="
 ---

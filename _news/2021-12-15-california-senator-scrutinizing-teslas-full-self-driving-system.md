@@ -167,6 +167,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 39
+  - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
+    excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
+    publishedDateTime: 2021-12-16T14:32:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 33
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729_1.jpg"
+        width: 1920
+        height: 1012
+        isCached: true
 
 secured: "dT/cdKTNvU2Gv3Lf+OAYKRONQfdRjPm3qsKRO1oLNLxU6DJOoSO5DfyzmTBwQZ2+aF+RkGr+l2DTzIvnUBWYh6xTrsPcgPj5ub8Uj86oJaXf2RqifCXdXxSpIzJK+TK1uzLqizv/3EXpBkfupfnpgRlmx+AiFHaaS4dUY/3X442aGvW5bJe55ZW5ef4TiCV8OMUweOC0faqT8OKPK1rZvDiTybHjTw3nmCV8Tkx5krbGNxrFDG3GuMJbabdKt72k2eQlZQBWN390NIE5wrKczLCUqJjf0PjCJoGsauAgrEaCFcAhcEgn1BWyKmDliVNKYN+iSepKmcueUR9Ka9DLLGX35zzHjA2WM5p0fZGptdhRI6Ur0gbU8mY2So2Af/OvtAOoOBTWQbp3FZdgBPhrbIydb5zeYPisPbnqmK7ofKGjoA4hw0b9xXA2WZcuu3jy0Z6j032UX0d2xDxA8ez3wF/2LFob8LuRXEnA4ZEUMfIqWGM4/m2OBp6w2meLAZ+f8tilcON6QIqPUPXp6Vbp5g==;i8bV0a5/tHiKMDDlcyS8Ag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-o
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,83 +21,14 @@ topics:
   - AI
 
 related:
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+  - title: "Pa's story: how a facial recognition system potentially failed to recognise a driver of colour and may have cost him his job"
+    excerpt: "Please note the views expressed in the video are interviewee's own and do not necessarily reflect the views of PI."
+    publishedDateTime: 2021-12-13T07:36:00Z
+    webUrl: "https://www.privacyinternational.org/video/4710/pas-story-how-facial-recognition-system-potentially-failed-recognise-driver-colour-and"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
-  - title: "Worcester bans use of controversial facial recognition technology"
-    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
-    publishedDateTime: 2021-12-15T21:27:00Z
-    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 39
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
-    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
-    publishedDateTime: 2021-12-14T18:02:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 32
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
+      name: Privacy International
+      domain: privacyinternational.org
     quality: 7
 
 secured: "VUfQwgGGank4lDq+A8bjC53J/lM2vX6HYNKizN1lSDsjuWcKiPzLADgDS0e5BE65sdv8JIM2u9StWcDTOo+K6UhrdT8995huGzH29P5KzidGOjCYisFp8ZK+nWBVbQPgN32bvySjOUgbNMirANmWbTXzeODOi4Osbwe7sM2mlWX0XGdErnldxBwYv5BD+7JYfNhUPRgoe9xtJrpkpQa27Ob30CyA2zyXTyPXRJrIjpadONFgS17fTQaZg/TY3m1gTKZDcQl4YX3BDxxC08EhdCt/mKm8i7903F9bBSgZKbcr7WSe+Mhfikth1T1z2Ah8Xe4aAUGLPpTSA5xXqTmw7H6hm8taX2GkbTbOoVXStL5FgnhhzHxQN9RmVWdyKF3gxrdFUSd9rq8D6uJkREWQ67ewxTtuWYswiUG81b5XwnOe2htzBRf9RYyjWe/Znwpg1fjkNTdLr5PP1DhaflrxRT5HyBBp6StWoGzL8IqVCcjFLB2TENLc8HAhEggsE57wOyfc7GJjQNo92LL0uwyV5Q==;HcIM9N1u5z/2Mpr+OQHkTg=="

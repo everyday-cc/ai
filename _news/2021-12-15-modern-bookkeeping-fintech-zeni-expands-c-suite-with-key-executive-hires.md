@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 1568
         isCached: true
+  - title: "Hearsay Systems Offers Financial Industry’s First AI-Powered Video Compliance Pre-Review Solution"
+    excerpt: "Company empowers advisor video posts to social networks while ensuring full compliance in a fraction of normal review time Its pre-trained machine learning model distinguishes between different content categories and flags objectionable posts Hearsay Systems,"
+    publishedDateTime: 2021-12-16T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20211216005386/hearsay-systems-offers-financial-industrys-first-ai-powered-video-compliance-pre-review-solution"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 6
 
 secured: "1eTiunC1wI8z18fJbhdw1UqrxtTLvZ2VSvEG5bOKHs+YQA3nJcP3zswxsfeg3Uzs10P6jyjzPKOZHuitnBR8yak1KB71UWiiBRi4Urpww1okNUJW8/VNot842dsLOPjErHB8koXjM34wyLmnVoWegbangiWryLFnOg4mfQ6seUzpSxh98/stfGvW2Ym9/qH0t4dY5cY4yfZoqCW/x9ZicN58GVjwAfGtl/YbqKPnGwLGX4DOjWVHqMtDqXYidOM868qmZqJzDttCYnngJiIPf89ZCzZ1S0rng05nLmZNywH7Wg2ELCeLDRqm8Rx16lBdTdkPeFpinKXYf42ZOrm6e9cixF+IA5mWiZKGMYfHJbY=;cA3Q4K6Qwh35dR68UuYOqA=="
 ---

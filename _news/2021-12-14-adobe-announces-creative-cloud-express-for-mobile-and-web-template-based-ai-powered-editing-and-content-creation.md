@@ -48,6 +48,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Podcast Recap: AI ethics and immersive technology"
+    excerpt: "Future focused., covers unique insights and stories for how to successfully implement AI across an organization, protect consumer data, and immerse yourself in the world of Internet 3.0. Let's One of the most exciting and widely used applications of AI is facial recognition."
+    publishedDateTime: 2021-12-16T16:25:00Z
+    webUrl: "https://www.publicnow.com/view/5EC41FBE86E664FC757BD0D31DB78292182FD9E3"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
 secured: "KbfOYryI0674bpXULaTnnCQR0CxWUptocraG/2tPEjsIOSRkrwLySP0RAKQdh3XcJBLpfVh+iev8qZkZ3M/j6F4PdhJGObAT0qd/Y/q9qkg6+AUUPgcmDIb09VhjYHOXPuU4x9vYtuhXAuYyi8C4IYUvOH2D67gFjwVJQAteA42vHV6hFNO5JpMRFLRaEuWCCBGuW9n0ZLO3RYATZgZcX/Yz7uL6QJ4oqAZ7rN5CT8pcTTEb6j//5bRtRTRCPneZSt7PP5vdBruKU3Tnc/DtCyY3+AJyWAflAebuaL0S4MyAisBfM2qgRR3XjPDi+4qPEgtBX7ctq/bIIcVxL3rxMT9+c5M0m+3ECmGK7d9xEBU=;h7L61rh80d/5UF1/J6TU8A=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "God is Dead, Philosophy is Dead, and Science is Dead: The Rise of Real AI"
 excerpt: "First we were said that “God is dead”, then “Philosophy is dead”, and now “Science is dead” as well due to emerging Real Superintelligence (RSI). God is dead. God remains dead. And we have killed him."
 publishedDateTime: 2021-12-16T08:51:00Z
-originalUrl: "https://www.linkedin.com/pulse/god-dead-philosophy-science-rise-real-ai-azamat-abdoullaev/?published=t"
-webUrl: "https://www.linkedin.com/pulse/god-dead-philosophy-science-rise-real-ai-azamat-abdoullaev/?published=t"
+originalUrl: "https://www.linkedin.com/pulse/god-dead-philosophy-science-rise-real-ai-azamat-abdoullaev"
+webUrl: "https://www.linkedin.com/pulse/god-dead-philosophy-science-rise-real-ai-azamat-abdoullaev"
 type: article
 quality: 38
 heat: 38
@@ -28,6 +28,6 @@ images:
     height: 667
     isCached: true
 
-secured: "TR7ezsL5fmCz6mKSjZ8oPfgPZEm9rdVrzjXoDFE7A/OrwtfY24T/uX/TE7GVLnGbdz0Acrxrdmnt0y4YCJnZzzWHQ6UInYBkJe1rviv/97gRWxTn8lLgUO8VRJF4unN/5IV/aBnyVWa+FGb3yjp+dealmbJQKKIWMjUnAp9qAwOUujLgfxfRpE1IHHdOd0FeeOq7Pn4goAVre/sYpXFt4r0IDQvBXOLF+Te5TYzQm0xcrPIIBVtDBx6Of0eqqMdyo7+0qdXW+4FmDfzfYb/3eKEDJfPmiCLEVcC7lcZBuuXwpir2J2VGaaM+KO23d3HY4xcadTge3EpeLlD48UHdfEywej4QK0JZtBZzgjd7RoA=;Pc/qumwc0mtZrJwy+RFwOA=="
+secured: "JtIL6ULVTmjzrGBKkBbuGqVJyYfZ3LgAQcRCRPT63VlmHNYYgisLq+fTDuN3/eBBxwDNUNenAWQ+PjR5FXNAA5KN11vJhgbETeH14w3pGZfzPXv+U+P2GZW3clNNPH8d4ngbXlOwNDxYJnKtNSdEAuEN1gw4QtKB4z3Bvdqrx0rIA6BkMFqyTBIorQV55sLgUoB8vaAxrI1afKO3Gp3OMoTbAak760WDroWNSxso/P/OctJk3N8Ky/0+qzUh+N4YCu0bk9ovFxPeT18tBkGcWoAkLRTZklT89QAPKaaSRHn9CyzNCVdlGM6/M71tqcwvcTp26RDbmG9SSBaH3VGqdtNNHXsnZbeOeOrscY0R8gU=;15OgrHbbdoP4oPD76RCLYQ=="
 ---
 

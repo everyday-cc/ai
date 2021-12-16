@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103375208/Understanding-AI-Before-It-Overtakes
 webUrl: "https://menafn.com/1103375208/Understanding-AI-Before-It-Overtakes-Us"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "What Does It Mean for AI to Understand?"
+    excerpt: "It’s simple enough for AI to seem to comprehend data, but devising a true test of a machine’s knowledge has proved difficult."
+    publishedDateTime: 2021-12-16T14:50:00Z
+    webUrl: "https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 41
+    images:
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/AI-Understanding_1200_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CV0GgqxVTQ29ToggBBRLkqfNNKANTXq73PhAJ5wC8THYe3W9d0/oPyIjrXqD18RG6dzLAq+/hnzHxVu7Z4M3Hnm/WSJYsULvdgOBt3R9fCQ8qSGg4wcTMxMoT2yLGClBXyU4JnQ19/0Z9MEiuR88D/YIx1hnmZR+WFVgnOghQYzBJnQdt6x988pmqZHazvdGnGzk1qEvY0scBz0k1mRgJ7kEmhFL7VchdJJ64JbbsAme4BOlnwes8Tzgl3x4u7cAgEkffUntRttxcwA9tk9OII5GzGwFNmD8GBZJPKpmeeVYgadCFT153AEZg4PEP+P2SvDubHuz9sm/M/ia9ywj6dnigH6FqAuETpr2LoW/Pt8=;nZFIwu2lF4zRcfXMwedqVw=="
 ---

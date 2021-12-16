@@ -24,95 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches AI for data analytics partner solutions"
-    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
+  - title: "Top Healthcare Cybersecurity Predictions For Next Year"
+    excerpt: "As the year comes to an end, industry leaders share their healthcare cybersecurity and privacy predictions for the coming year."
+    publishedDateTime: 2021-12-16T13:30:00Z
+    webUrl: "https://healthitsecurity.com/features/top-healthcare-cybersecurity-predictions-for-next-year"
+    ampWebUrl: "https://healthitsecurity.com/features/amp/top-healthcare-cybersecurity-predictions-for-next-year"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/top-healthcare-cybersecurity-predictions-for-next-year"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
-    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
-    publishedDateTime: 2021-12-14T09:03:00Z
-    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
-    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Business Analytics BPO Services Market"
-    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
-    publishedDateTime: 2021-12-16T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Teradata Advances Analytic Integration with Dataiku to Speed Data and AI Initiatives"
-    excerpt: "and scalable AI and analytics programs. Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale."
-    publishedDateTime: 2021-12-14T14:27:00Z
-    webUrl: "https://pressofatlanticcity.com/news/science/teradata-advances-analytic-integration-with-dataiku-to-speed-data-and-ai-initiatives/article_cdd8dfda-f645-5a90-8b55-de23c9674d96.html"
-    type: article
-    provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/6/4f/64fb182d-a191-579d-8004-0ffeda39d1c6/61b8a72d1db0b.image.jpg?crop=613%2C322%2C0%2C52&resize=613%2C322&order=crop%2Cresize"
-        width: 613
-        height: 322
-        isCached: true
-  - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
-    excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
-    publishedDateTime: 2021-12-13T17:26:00Z
-    webUrl: "https://linuxgizmos.com/ai-box-pc-combines-a-10th-gen-cpu-dual-2-5gbe-and-dual-pcie-for-medical-analytics/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 13
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
-    publishedDateTime: 2021-12-15T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 39
 
 secured: "PKSOZzUXUAcz/j47kxk/2PZxXHybbGlRu7prPNxoYrRAW1zMcrM0PzrS1hkiTPuTO/svciJw1KNIDgHMZkrTH4ckOgfc5oPjlpAMFFZ+w6EFupnK0phfwaBOFIyNv6yXfpJiyDn2ozcD8aG0CV+OHAiTGoyYNe1PrlpCHty53/8Gb0v7TEQZKOt8HDtShb04AnvEBIfvJl37oT8BIPiOtFtxVVCUedQZBSB/P7n5enwf75xZgW3FVkpPWymCt8h1Pqb7cNc5YWsZOCXNl/GqRpjJJKYzx5IHQiioEOdK8BX55vqqxVZl3NKrK95cBAWVM7koiQ/wN6BNSzFM+qX0cogWFWBZLhWzfszqnKjldNI=;m87FAjB+hzGUtDs2/wSYxg=="
 ---

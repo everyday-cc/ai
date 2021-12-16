@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Worcester bans city use of facial recognition technology"
+    excerpt: "Worcester has become the latest local community to have banned the use of facial recognition technology by its city government."
+    publishedDateTime: 2021-12-16T14:51:00Z
+    webUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TFIE2EUAXNDOXMP5CB32YYD6IM.jpg"
+        width: 4306
+        height: 3230
+        isCached: true
   - title: "Information is key to public support for police use of facial recognition technology"
     excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
     publishedDateTime: 2021-12-15T03:47:00Z
@@ -41,17 +57,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Living proof of face recognition"
-    excerpt: "Millions of mobile users already deploy face recognition to unlock their phones. The use of face recognition for digital life certificates is a smart way to offer convenience to pensioners"
-    publishedDateTime: 2021-12-12T17:21:00Z
-    webUrl: "https://www.business-standard.com/article/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
     publishedDateTime: 2021-12-15T13:52:00Z
@@ -66,17 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
   - title: "Worcester bans use of controversial facial recognition technology"
     excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
     publishedDateTime: 2021-12-15T21:27:00Z
@@ -91,15 +85,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
 
 secured: "PSLEBtK5IYRBsID0kWl9ItSCSl1c43JJ3URZH2tu5PWwS9wOs4XgX3VssV6bhQSEX6AbSWz5wvQiMNqyEzjdplAy8d5EiOls7wGKXyqfrEPoYrlLXWX8eZfFVsIhAXhR6KOkJc9Mif5TOLRY3Ad1subW9+BJ7v1Gs0DM0XAVZ+BtAWrpGXQU+2pPnzdtvGB1fKqcIGVH138cBf0Nd1GfmH7JoQirAMbzdQgcsnDwlFfRYqLPhufAUqKGMf72l4RpgjZPtbtketWzOiRWAmlKxJf7MXudabxK3RjeQKzzOAW4i+aGfI5zw5Ll+qWMmm7a2JNHasKltHIrKtqARDuYeW9eeEZ0vH8IVmSNWpFssSIPmbcqz/glda6Sm2QdCoDQlfD12m6dBwxh0qxCuejjWpuS2i2haPRKfB5kytlXAcFjLaL4vo6c+UKr6yAWvXp0mJtI7No1suZRdNf7sft3GvpeAr0+5ezLME2okmHMdaz7fZKJAa6xSlDOscuK3C6vQGQHFZ7tZ4AIOc/a/o9VGQ==;+VwpBX5/9G8bSJE34+on+w=="
 ---

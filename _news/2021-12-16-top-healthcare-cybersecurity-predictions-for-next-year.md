@@ -20,6 +20,22 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Cybersecurity Startup ActZero Partners with Measured Analytics and Insurance"
+    excerpt: "ActZero, a cybersecurity startup whose AI-driven platform makes best-in-class security accessible for businesses of all sizes, today announced a strategic partnership with Measured Analytics and Insurance,"
+    publishedDateTime: 2021-12-14T15:29:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/cybersecurity-startup-actzero-partners-with-measured-analytics-and-insurance"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 19
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "TUmVnKGbzkHVH6xW/CCR8J+NGh/iIZSoDMd0aA2zimq66NvQ0VN6ZV6V/C5HcGI8kwX8kNRPPDg5/Ue0a0c5CLNz4sJaMjHsUDMT2QXCZZUJhliJPYAaE/HKs0+8j3xsMtS4lTv3dgEnoAHfUhsqnSdMnYlhjqKOqhstYX4ABP2RCQnNepiNwXlTvrbz/waObUaUFzNo/U7bq0wjTH8Zbf2iT0jrrTiqO48o8eaa9h9l2AzjS7Kdxo4RbNQlo5o/60GObMAh1rXvic4ig2NrGkfTU0w6Fmrcs/PEMDCEHSzEQjidb1JZg4hAZxZPBKIKWko2Pv3K/MVgiUmZsJobI0mawceY1l+EuJBtP6pFf0vAKxgS4BkrfQm9VRblA3MJvwwAt88TVHT0LgGY2l1LGF9cMNj35gBXM/l6m+EL7eC1drO6A+hMlcKoz6jaK99E6qngVSqtCiCDcXQx0IHVtWuokMDH0camjrPIteM0Gcied6u3o4Zak8bLGrirIJljVv3dUc/In6YjxY6hWBKV6w==;Tu2MyC5jz9x1zayzvB8ZXQ=="
 ---
 

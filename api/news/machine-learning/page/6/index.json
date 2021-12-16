@@ -2,6 +2,41 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
+      "title": "AI and machine learning in financial services",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail.md",
       "title": "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail",
       "excerpt": "“Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition ... AI platform in exciting new ways to drive forward the future of ...",
@@ -1358,49 +1393,6 @@
       "provider": {
         "name": "Times Higher Education",
         "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030.md",
-      "title": "Artificial Intelligence & Advanced Machine Learning Market (2021): Strapping Growth Analysis Based on Future Opportunities by 2030",
-      "excerpt": "Pune, Maharashtra, India, November 3 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz’s Artificial Intelligence & Advanced Machine Learning Market Research Report is convincing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

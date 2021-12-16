@@ -1,23 +1,29 @@
 ---
 category: news
 title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
-excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML"
-publishedDateTime: 2021-12-16T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-301446458.html"
-webUrl: "https://www.prnewswire.com/news-releases/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-301446458.html"
+excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
+publishedDateTime: 2021-12-16T14:55:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "OctoML helps enterprise automate with ML platform for the edge"
@@ -67,6 +73,6 @@ related:
         height: 867
         isCached: true
 
-secured: "YugA0b6gIPZQoGM7SHjjCTMPGjzYaVnnjiW7/eaP25OLTmfK9Drm69y0yYf14y6KOAkzoicNA9n+XuEbDonzRUkxhPnlSpUOdbfmL9gpXMfjVle9kcL3tzH1G1Dy7RHpqFNDAVlmYT5lBF/GIxkGIRR44oei4zSls5sTdJIl4cy6s2xY09/GpNcDQkLRwa1tAZ+URVkj1wBhsZwV5J8mX3DC3QFw/QM9jXE2riyVVIx32itzQCqYfusJxuy7O+8vg2CjLDKaihh/Mn4QOSnX4YZ9GiGGXlx/GGADka/bZJK0vXxoPcKedgyqFgCUO5EqijS2+iKFIsNX90rP3eMWGYM3eJ+d7WktNLOBitFMae8=;f7pqtprq36EYzdO5Aryexw=="
+secured: "MpDDU7/8HDjImiyPppCj8WQUJgy1ywyzOSRwfTKumkWgwoUpp7RNHFkWCXv1DFiJ2RktQNW5pl+9ClbRkQMUe1Ss1FvX849+HFxBUbjh4RdCiQwxkC5iwDMj1vwmonFNl2gqd4zVTpw9MWUlvPno/JeP3CkDnVdLelywOQlR1i0EoGCJ6MawY5ldLd5q1JGDmcHGsgq+wBZDmRdE7c2brCFLdMV8cCb0KyDkf2gsWuGgktzD7fqQrlbfub8vBLrts6uGFGkenMj7sN87G2qT1A/qLKRxvfGH0gGs8thesNp90Vq9cOsANAdXRJjCOvVx6aqhX3Qo0/z4goTL0zHpfwgjB98uqYAGUzbY7AnDe/Q=;3JnCIm2gg/yOlTXL4nE0PQ=="
 ---
 

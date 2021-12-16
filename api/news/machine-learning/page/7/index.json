@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-04-artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market (2021): Strapping Growth Analysis Based on Future Opportunities by 2030",
+      "excerpt": "Pune, Maharashtra, India, November 3 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz’s Artificial Intelligence & Advanced Machine Learning Market Research Report is convincing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-sensiml-teams-with-onsemi-for-industrial-edge-ai-sensing-applications.md",
       "title": "SensiML Teams with onsemi for Industrial Edge AI Sensing Applications",
       "excerpt": "\"Other AutoML solutions for the edge rely only on neural network classification models with only rudimentary AutoML provisions, yielding suboptimal code for a given application,\" said Chris Rogers ...",
@@ -1343,59 +1386,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-google-tensor-gets-crushed-by-apple-a15-in-machine-learning-despite-being-a-ml-centric-chip.md",
-      "title": "Google Tensor gets crushed by Apple A15 in machine learning despite being a ML-centric chip",
-      "excerpt": "The Google Tensor processor is supposed be all about machine learning but it got crushed by the Apple A15 Bionic in the Geekbench ML app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
-      "originalUrl": "https://www.gizmochina.com/2021/10/27/google-tensor-gets-crushed-by-apple-a15-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/google-tensor-featured.png",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

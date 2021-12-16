@@ -58,14 +58,19 @@ related:
         height: 1200
         isCached: true
   - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
-    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML"
-    publishedDateTime: 2021-12-16T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-301446458.html"
+    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
+    publishedDateTime: 2021-12-16T14:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "k0E9CMg33YHa0bAZiwclMqM62oYYujUOY1P1VJgsIypuouaGTQWSzUusmGhQsWvcrGToEetDxJOJJiY9ZihoCe7D9RjBDRmqfS+pozisOFJ7ViMlCOUxniI7fe1ppr4zgARpxoqcLMNqupLExZIbrMcZbEBPCnBDXsNL92/PT0Jp5BF0al5Voehu/k+qCKskuSKFkKMLMM/wC3yW0Anrs2c/UCfFuK12PmO8ZvaQe5OF26lTB3mKqAK8WJphG6muQq/xinYYthCHP2lyRAXXPyoj1nQSo+tlVQKH4DEAl1IPL32cLIx1dVsILx5YifkOtZwBuM8UG9Ure4gk/fE5a5FVtCJxYHlScm4Avh2ZMs0=;Vp96dNGxRzRBt2eP+Ci7fw=="
 ---

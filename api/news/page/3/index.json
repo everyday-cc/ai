@@ -2,6 +2,315 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-14-globalwonks-relaunches-as-enquire-ai-following-55m-round.md",
+      "title": "GlobalWonks relaunches as Enquire AI following $5.5M round",
+      "excerpt": "When users ask a question they receive bite-sized answers in real time from over 40,000 possible experts based on expertise tags.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Enquire_Founder_Photos-2-HIRES.jpg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/amp/",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats.md",
+      "title": "Guardio nabs $47M for an AI-powered browser extension that protects from cyberthreats",
+      "excerpt": "Guardio, a startup developing a cybersecurity extension for Google Chrome, has just raised a $47 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
+      "originalUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/security-hacker.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
+      "title": "Who Killed the Robot Dog?",
+      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company.md",
+      "title": "Find A Pain Point, Don’t Follow Your Passion And Seek Out An Unsexy Sector Are Some Of The Keys To Building An $8.3 Billion Fintech Unicorn Company",
+      "excerpt": "Tipalti is an Israeli-based accounts payable fintech company. Their name comes from the Hebrew expression—we handled it. The fintech company raised $270 million at a valuation over $8.3 billion in an effort to transform and disrupt this sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8acc0a8d284aaa665c72d%2F0x0.jpg",
+          "width": 1200,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
+      "publishedDateTime": "2021-12-14T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
+      "title": "A Need For Speed Is Driving CX Expectations",
+      "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b75092791c7247d2ff75e6%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "publishedDateTime": "2021-12-14T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-apexai-raises-over-56-million-in-series-b-funding-round.md",
+      "title": "Apex.AI raises over $56 million in Series B funding round",
+      "excerpt": "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "originalUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-machine-learning-mlperf-and-ai-benchmark-4.md",
       "title": "Machine Learning: MLPerf and AI Benchmark 4",
       "excerpt": "Even as a new benchmark in the space, MLPerf has been made available that runs representative workloads on devices and takes advantage of both common ML frameworks such as NNAPI as well as the respective chip libraries for each vendor. Using this benchmark on retail phones to date, Qualcomm has had the lead in almost all the tests, but given that the company is promoting a 4x increase in AI performance, it will be interesting to see if that comes across all of MLPerf’s testing scenarios. It should be noted that Apple’s CoreML is currently not supported, hence the lack of Apple numbers here. Across the board in these first four tests Qualcomm is making a sizeable lead, going above and beyond what the S888 can do. Here we’re seeing up to a 2.2x result, making an average +75% gain. It’s not quite the 4x that Qualcomm promoted in its materials, but there’s a sizeable gap with the other high-end silicon we’ve tested to date. The only non-lead is with the language processing, where Google’s Tensor SoC is almost 2x what the S8g1 scores. This test is based on a mobileBERT model, and either for software or architecture reasons, it fits a lot better into the Google chip than any other. As smartphones increase their ML capabilities, we might see some vendors optimizing for specific workloads over others, like Google has, or offering different accelerator blocks for different models. The ML space is also fast paced, so perhaps optimizing for one type of model might not be a great strategy long-term. We will see. In AI Benchmark 4, running in pure NNAPI mode, the Qualcomm S8g1 takes a comfortable lead. Andrei noted in previous reviews with this test that the power consumed during this test can be quite high, up to 14 W, and this is where some chips might be able to pull ahead an efficiency advantage. Unfortunately we didn’t record power at the same time as the test, but it would be good to monitor this in the future.",
@@ -414,49 +723,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-aws-launches-ai-for-data-analytics-partner-solutions.md",
-      "title": "AWS launches AI for data analytics partner solutions",
-      "excerpt": "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/",
-      "originalUrl": "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -922,240 +1188,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
-      "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
-      "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "originalUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Unique-founders-.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "publishedDateTime": "2021-12-13T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
-      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
-      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "publishedDateTime": "2021-12-13T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip.md",
-      "title": "MediaTek’s Flagship Dimensity 9000 SoC Isn’t The Company’s Only Interesting New Chip",
-      "excerpt": "A few weeks ago at its Executive Summit in Laguna Beach, CA, MediaTek announced its first foray into the SoC market: the Dimensity 9000. The company’s first 4nm chip from TSMC features a multitude of flagship-worthy features that make it competitive with what’s already available in the market today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7767c680a8fce940d569a%2F0x0.jpg",
-          "width": 1200,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/",
-      "publishedDateTime": "2021-12-13T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
-      "title": "Human-like brain helps robot out of a maze",
-      "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg",
-          "width": 1152,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "publishedDateTime": "2021-12-13T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) efforts, and a robust payment accuracy business. However, stiff competition remains a concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock?amp",
-      "publishedDateTime": "2021-12-13T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

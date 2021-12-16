@@ -2,9 +2,9 @@
 category: news
 title: "Scared about the threat of AI? It’s the big tech giants that need reining in"
 excerpt: "The case for regulating social media companies is clear, says academics Devdatt Dubhashi and Shalom Lappin"
-publishedDateTime: 2021-12-16T12:07:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in?via=indexdotco"
+publishedDateTime: 2021-12-16T10:47:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
+webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Kdx/yoALO14Z4iMXOiYLGc0vEW+25Lb+48XgnyF0XL+RYhOMZX9CJeaLBTP23UTknt/Vl1smYDXgkZulr2j5TM0xlrDr2tz5VKJEPGoXcZxElhZRD1Wx67sSKeR5G7KWhd+uOqBt+ZV9PTjsFTGk3BbmOy/051nD40zf0FKkt9X5VVxcFt9DibxKwSbmqJv4C9kxnMWyZkmSdtHmJX7h7tp8Y9siCNxO9PTMc7vsVK9SQ6rzseW//OTRWBUMEwljbY1sUR25ABSfT+3r7DRxkPQUDQb26DQIeP7c0RKDtoVcvNG0DnS4/ESeevSVisT6zp8YEmvx7J4xyqqoQqqxns4DVhmJ02y93F0uVSR7iIs=;vKKlthKI5tT7ERt7j/TT1g=="
+secured: "RChIyRDu9z6xdfKLm9NEHm5v/HtA/5AymBOBQML/NYfnxDSga8aBGbDh5biFt+3NGB+/F54jXESKpXx3wm77oYC53/5PZzawsqRqsUkQA7RLPTcqw/OWrjY3tJAGrKLLiOVgtcu0Kcq1hSd8zpQE83lDegAaq4CqC+erqS/yn+n6/ZYqUNJoA81kHzhODlUjk4V1kG6/VayCel87lICvYf/Gs+smd4p9H04/DxPdY6r94QjbYibTzqWQlrCcwYrgDI/SgC5JTZOKS947VPtwGXlMDft4NfZHvmbOKnKJDyn1+4xZcC11IUYfBIEp/lvIZkshfzYeq6uNVRxL5LQFOC41dXJEwvmPfJ2fgkZQfAc=;2d9LbcmJMGMSA3d7ee6DTw=="
 ---
 

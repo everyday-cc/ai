@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "France says facial recognition company Clearview breached privacy law"
+    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
+    publishedDateTime: 2021-12-16T15:16:00Z
+    webUrl: "https://www.reuters.com/technology/france-says-facial-recognition-company-clearview-breached-privacy-law-2021-12-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=64"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
@@ -68,15 +82,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 51
-  - title: "France Says Facial Recognition Company Clearview Breached Privacy Law"
-    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-    publishedDateTime: 2021-12-16T11:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/france-says-facial-recognition-company-clearview-breached-privacy-law"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
     excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
     publishedDateTime: 2021-12-14T21:35:00Z

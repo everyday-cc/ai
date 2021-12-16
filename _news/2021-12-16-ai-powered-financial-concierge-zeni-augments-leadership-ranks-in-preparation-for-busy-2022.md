@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Hearsay Systems Offers Financial Industry’s First AI-Powered Video Compliance Pre-Review Solution"
+    excerpt: "Company empowers advisor video posts to social networks while ensuring full compliance in a fraction of normal review time Its pre-trained machine learning model distinguishes between different content categories and flags objectionable posts Hearsay Systems,"
+    publishedDateTime: 2021-12-16T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20211216005386/hearsay-systems-offers-financial-industrys-first-ai-powered-video-compliance-pre-review-solution"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 6
   - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
     excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
     publishedDateTime: 2021-12-15T14:12:00Z

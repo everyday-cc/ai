@@ -62,15 +62,20 @@ related:
         height: 867
         isCached: true
   - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
-    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML"
-    publishedDateTime: 2021-12-16T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-301446458.html"
+    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
+    publishedDateTime: 2021-12-16T14:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "eV7f/PfJyxLl1NNMVY6lw3WvOb7oSTAmg81g7Eg+tdwncQwSqyMpVkd8DyzgshnmfHMT2UWnlNCfhiUc8EziCX6S1i0HEYrdsXSdGiGRA/g9bIAlXPVBvkY9lHYKshlMeD42cTtX3nCxK2qZnXsx5gZZTKAmM512fYd5iv/BJ4THXsXcXfw6HlnHlRNSTGtNg3JF0sqqn3DW8CGfjQ/QegfSOixLGsNKR12P+dn4j04BGagHIDZkZnqxGZQrwPYPE7rYjq5mGHoccqBOv5rEDlssSX7x9VOjwkmwUYZoyzaWssafBPeuliZmi1EsAlhVCkzd15PpZhxsgP9AEP1XjYsqGsGRkuOwa+rUMSdBDoE=;ZVnTdKMYULNDh/8eDkSOXw=="
+secured: "1tCS8C6TjdZPewsb95jjqp+Iag49oGSOg+i5zP27RALDAXegNNtomBPSiaZGAvZNChWsTU674dloGvepfrM9FHSquEmrPArd1VBBL4j5b5nIRnB6NkuRltGkERtkddv9qGmd7mWfQvP5IuQ2ndRrkzISCZUX33O+41SOZMAJeRZBfDDekybajpZBTa4tAr6rnUdx0OpB33r2GkuDaX+Tj54sDcfpk7yVKKl0uHeGPEBjLSPzUVqoqkgnC1tnvi3I3JiFstw894+cJAYx9sDL5ILAqHFI9pUraQzsxjgsAZbljcO7hW+knOH5diMMI46OIri25eR4dR44MWrWovMKzZpR0ILDK2VQyj2LDmxl5D4BeJDqwhupfNWbYCMOg9RfSXIoAijtblgsW6T2cIstg1D3VCD6ETaWQ53+uRsLTxBxf3ndyIdWS8+CyyhZroe51TwyRneTbu6dSfFghGp06FsytqBrNfroTV+TiGVq6b3BIeIjQg3WB+qXOX9EhTgOGBNB5CqtuM+/TUgdrVI86A==;wjUAuuAB30f3bXZG4qalRw=="
 ---
 

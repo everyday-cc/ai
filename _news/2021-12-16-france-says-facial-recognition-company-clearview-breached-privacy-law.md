@@ -1,26 +1,32 @@
 ---
 category: news
-title: "France Says Facial Recognition Company Clearview Breached Privacy Law"
+title: "France says facial recognition company Clearview breached privacy law"
 excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-publishedDateTime: 2021-12-16T11:16:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/france-says-facial-recognition-company-clearview-breached-privacy-law"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/france-says-facial-recognition-company-clearview-breached-privacy-law"
+publishedDateTime: 2021-12-16T15:16:00Z
+originalUrl: "https://www.reuters.com/technology/france-says-facial-recognition-company-clearview-breached-privacy-law-2021-12-16/"
+webUrl: "https://www.reuters.com/technology/france-says-facial-recognition-company-clearview-breached-privacy-law-2021-12-16/"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=64"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "France latest to slap Clearview AI with order to delete data"
@@ -95,6 +101,6 @@ related:
         height: 456
         isCached: true
 
-secured: "648IU7NNqUXMOlkDHlALLVk1jGbpL8uSZb7Gb5tdeVZc+aBUYQfnBu64WzHMU8hlEC3aYef0tw01JZhnSyLcdiIUwTO3Ek9FbFuZDnrm/ERUzV6L+JVpse3YEDNwAcqhFKMdv1R7sGDC7qTBz2/BuxTVhepV38BFASM2YL1peP9HJ+u2gI+t6DuFUAWH0XdboZvPZKHiSSUBoRsAyEIINHdBQLBl0WJ2/mTiZU8N/4SwseW5eLOqESKNJ2EF9EnarMXVu7Y+Gce4WMUYm2mgTnWRbmiTAsQTpra8hLrUvcZ07Buh+qTLbDNcr1zEohBOrVgGt0IvT/IUJPERQSceGC0acbpBt2IInK+3TDWzs10=;vaSNjtInfVBb9vxiVLpaOQ=="
+secured: "EqNFbMrJNVUQQvPvQzFq/Xz+e8BWeaeL8Wu5d7peey0g55iYlZ/IEILw/7z2o4TJfsswYnqeSMsba471nSQXwycH/ZDj2vZOYZa+RcJc+gfn2gdNQy/ydpm1AOxQAaVNSX0tSLhL7EoHhRJ6PQ084C/WPGPTtWaJLHg21DTRH8xnXwMxtColgEdvfcfMvZHp0zvRMhjDF6LeBmPzEVi3UC3hJSNhO8ufLSnax/FXmOGc6loViObgSn2IZ8RG8E9Zq+jYtR2Qb3zEtdCR18j790n6rXOjBMfDqVVXQAL1R6op0/AR4l+ad468pH8Hs83w94JWgNW9Vr17OkuDb55gBGvSPvT5DE2gxlabTqS3bww=;WyHlp2GnnbHLIUkEkrNQ4Q=="
 ---
 

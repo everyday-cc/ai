@@ -2,6 +2,358 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars.md",
+      "title": "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars",
+      "excerpt": "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2021-12-15T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-forethought-nabs-65m-series-c-to-improve-customer-service-with-ai.md",
+      "title": "Forethought nabs $65M Series C to improve customer service with AI",
+      "excerpt": "Forethought, a startup looking to put AI to work across customer service, won the TechCrunch Disrupt Battlefield and soon after landed a $9 million Series A. Well, three years later that company just landed a $65 million Series C,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
+      "originalUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1210502593.jpg?w=1024",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
+      "publishedDateTime": "2021-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-timnit-gebrus-new-ai-institute-is-a-challenge-to-silicon-valley.md",
+      "title": "Timnit Gebru’s new AI institute is a challenge to Silicon Valley",
+      "excerpt": "A little over a year has passed since Timnit Gebru was fired from Google. The 38-year old Ethiopian-American researcher and former co-lead of the company’s Ethical AI unit, believes she was pushed out for working on an academic paper that raised red flags about using large language models in Google’s quest to develop “superintelligent” AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
+      "originalUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/12/Timnit_Gebru_crop.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-three-strategies-for-filling-tech-roles-during-the-talent-shortage.md",
+      "title": "Three Strategies For Filling Tech Roles During The Talent Shortage",
+      "excerpt": "The technology job market has never been more competitive than now, and employers and employees alike are struggling to find the best fit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efa5897937c5b000645c96f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/amp/",
+      "publishedDateTime": "2021-12-15T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment.md",
+      "title": "Papaya raises $50M for computer vision that facilitates bill payment",
+      "excerpt": "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
+      "originalUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
+      "publishedDateTime": "2021-12-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-14-smart-ways-marketers-and-advertisers-can-leverage-ai-in-2022.md",
+      "title": "14 Smart Ways Marketers And Advertisers Can Leverage AI In 2022",
+      "excerpt": "Companies can lean on AI and machine learning to create more engaging content, analyze data to make better business decisions, automate customer support and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/15/14-smart-ways-marketers-and-advertisers-can-leverage-ai-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/15/14-smart-ways-marketers-and-advertisers-can-leverage-ai-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8f1ee7b81f62096369f94%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/15/14-smart-ways-marketers-and-advertisers-can-leverage-ai-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/12/15/14-smart-ways-marketers-and-advertisers-can-leverage-ai-in-2022/amp/",
+      "publishedDateTime": "2021-12-15T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-ai-decoded-algorithmic-management-deepminds-language-model-dont-hate-the-player.md",
+      "title": "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
+      "publishedDateTime": "2021-12-15T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-how-much-maths-is-enough-for-machine-learning.md",
       "title": "How much maths is enough for Machine Learning?",
       "excerpt": "So I have seen a lot of posts on this topic and some of them very controversial. I need to throw in my opinion on what I think you need to succeed.",
@@ -106,7 +458,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -148,49 +500,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-information-is-key-to-public-support-for-police-use-of-facial-recognition-technology.md",
-      "title": "Information is key to public support for police use of facial recognition technology",
-      "excerpt": "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
-      "originalUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
-      "publishedDateTime": "2021-12-14T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -920,315 +1229,6 @@
         "AI in Autos",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-globalwonks-relaunches-as-enquire-ai-following-55m-round.md",
-      "title": "GlobalWonks relaunches as Enquire AI following $5.5M round",
-      "excerpt": "When users ask a question they receive bite-sized answers in real time from over 40,000 possible experts based on expertise tags.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/",
-      "originalUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Enquire_Founder_Photos-2-HIRES.jpg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/globalwonks-relaunches-as-enquire-ai-following-5-5m-round/amp/",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats.md",
-      "title": "Guardio nabs $47M for an AI-powered browser extension that protects from cyberthreats",
-      "excerpt": "Guardio, a startup developing a cybersecurity extension for Google Chrome, has just raised a $47 million funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
-      "originalUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/security-hacker.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
-      "title": "Who Killed the Robot Dog?",
-      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company.md",
-      "title": "Find A Pain Point, Don’t Follow Your Passion And Seek Out An Unsexy Sector Are Some Of The Keys To Building An $8.3 Billion Fintech Unicorn Company",
-      "excerpt": "Tipalti is an Israeli-based accounts payable fintech company. Their name comes from the Hebrew expression—we handled it. The fintech company raised $270 million at a valuation over $8.3 billion in an effort to transform and disrupt this sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8acc0a8d284aaa665c72d%2F0x0.jpg",
-          "width": 1200,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/",
-      "publishedDateTime": "2021-12-14T05:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
-      "title": "A Need For Speed Is Driving CX Expectations",
-      "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b75092791c7247d2ff75e6%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
-      "publishedDateTime": "2021-12-14T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-apexai-raises-over-56-million-in-series-b-funding-round.md",
-      "title": "Apex.AI raises over $56 million in Series B funding round",
-      "excerpt": "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
-      "originalUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
-      "publishedDateTime": "2021-12-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

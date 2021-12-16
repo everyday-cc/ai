@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Is Tesla Stock In For A Pullback Or Will It Continue Its Way Up In Near-Term? It's Robot Vs. Cathie Wood On This One"
-excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ: TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric"
-publishedDateTime: 2021-12-16T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/etf/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-it-s-robot-vs-cathie-wood-on-this-one-1031049757"
-webUrl: "https://markets.businessinsider.com/news/etf/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-it-s-robot-vs-cathie-wood-on-this-one-1031049757"
+excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ:TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric vehicle company’s stock and the other as time to buy."
+publishedDateTime: 2021-12-16T15:16:00Z
+originalUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24638508/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-its-robot-v"
+webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24638508/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-its-robot-v"
+ampWebUrl: "https://www.benzinga.com/amp/content/24638508"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24638508"
 type: article
-quality: 63
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -24,9 +22,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
-    width: 1024
-    height: 768
+  - url: "https://www.benzinga.com/files/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
+    width: 6000
+    height: 4000
     isCached: true
 
 related:
@@ -63,6 +61,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "e3THqIlkh0FTX5vxsPIXQNWNz0ZZUo64uEsqxS+FU4nO1ZASU1Cd9oul3d1Eo5ThnUpeT3IM59FAT+RM7UB6ou2Uvt05ePaO2v0riiVS1BnsSsvGePU3JGCPEmaFs+NgTi/h6sgGGjdXVK+WcllZX6Mosd8qDkqhAspTfGRnytp8G6eeO5nz3xVBiHwfvRCaX/j08olMFuIU7RfJR+53wNIjoDzuqWXeTuZqLdWN1ufq6QbmRktVIU6dK00VXo+TndwPRzRGvaQnb/IrL4WOnYuztLhXhwzmhT1EzeET/J0l431r17BmXnp+VJSZhZfmfzlytyAjwdCxepFSobV7WZC0J8xwYlmKyLtVAyiK6uTpeUganBAyyYab0au5c0HEYLgm8H/5DvNMeOBocJvy2435r00Fn00IMAGpdYBdZrEAKqaMCnOlCkWGomne1o0uAea5gxkYjZKc3wVBrlZ1v+7lNvAyvPGXMOBaxIVGDGv8f8Ls5X4kIK6hsbih1akHwO8bY/me5FiIsKYfyr8kAg==;vdZRwcq3B5RJvcCc2HyX2w=="
+secured: "XwLG4Q3LTdn+7gJ8O9Qfu+QL1lhuKdJrWG5V/Y41i8Y1GorIslPRJ2ARYCZdI8CuaqypyOQeNVAyKTexE7aeD4xAXvc6HYz397rI1YRfq5FRBc9s67QCaSD4dCf87aO4UMToGP2xUCJfSdgB+mZOQ9xG+eSpamZA3IIn1FlH0l9siLUw2t3WdkfOdVrzMoESMr/Ysvr8ZUYaFPVkBWmAnKatV9vMbfkZ2Xheeoht1RWFe75eVk3V5uKVy5BXyLlnw9rMYxDXU6ZAE4a4Zn1j/1pofqgaf0qFQoBJ/jhPjSRI2cXCgumJms37HMA28bbMNVte+e9wAyGu06abxEbn86JlhMCbo9mcHdPYUCH4rLA=;6a5PmjDmU3h3//0gskMXOg=="
 ---
 

@@ -2,6 +2,246 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-11-07-deep-learning-method-detects-disease-biomarkers.md",
+      "title": "Deep Learning Method Detects Disease Biomarkers",
+      "excerpt": "Researchers at the University of Waterloo have developed a deep learning network that can detect disease biomarkers with a high degree of accuracy. It achieves 98 percent detection of peptide features in a dataset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "originalUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SQf3vJas/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/analysis-2030261_1280.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
+      "title": "How one startup is shaking up the consumer trading boom",
+      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "originalUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/06/how-one-startup-is-shaking-up-the-consumer-trading-boom/amp/",
+      "publishedDateTime": "2021-11-06T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
+      "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
+      "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "originalUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-29-image-18.jpg",
+          "width": 1914,
+          "height": 1221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
+      "publishedDateTime": "2021-11-06T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-alphabet-just-launched-a-company-thats-using-ai-to-design-new-drugs.md",
+      "title": "Alphabet Just Launched a Company That's Using AI to Design New Drugs",
+      "excerpt": "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "originalUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
+      "publishedDateTime": "2021-11-06T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
+      "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
+      "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/illkdk7Rv8g8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
       "title": "Streaming: the best films about artificial intelligence and robots",
       "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch “Old-fashioned” is generally not a term you want to hear applied to science fiction, a genre from which one tends to expect the futuristic and unfamiliar.",
@@ -936,249 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
-      "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
-      "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
-      "sourceUrl": null,
-      "webUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "originalUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://decider.com/wp-content/uploads/2021/11/Finch-robot-voice.jpg?quality=90&strip=all&w=680&h=450",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "publishedDateTime": "2021-11-05T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Decider",
-        "domain": "decider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-launches-ai-company-to-discover-new-drugs.md",
-      "title": "Alphabet launches AI company to discover new drugs",
-      "excerpt": "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "originalUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-apple-and-amazon-mlai-leads-to-speak-on-accessibility-at-sight-tech-global-2021.md",
-      "title": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
-      "excerpt": "Sensors and data are proliferating. Whether it’s from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and product developers conceiving new products and experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "originalUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Sight-Tech-Global-machine-learning.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "publishedDateTime": "2021-11-05T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-henry-kissinger-says-ai-is-as-consequential-but-less-predictable-than-nuclear-weapons.md",
-      "title": "Henry Kissinger Says AI Is 'as Consequential' but 'Less Predictable' Than Nuclear Weapons",
-      "excerpt": "\"AI isn't novel because it's trying to take over the world (it isn't); it's novel because it's imprecise, dynamic, emergent and capable of learning all at the same time.\" Eric Schmidt, Hernry Kissinger and Daniel Huttenlocher talk about their new book and the promises and perils of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html",
-      "originalUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html?amp=1",
-      "publishedDateTime": "2021-11-05T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster.md",
-      "title": "Can Artificial Intelligence Save America From The Global Supply Chain Disaster?",
-      "excerpt": "Leveraging AI to its maximum potential in supply chain technology is paramount in our race to solve the crises of the day. Big wins will help companies around the world to build more resilient, agile",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61853070a9d6a56144f276a1%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "publishedDateTime": "2021-11-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

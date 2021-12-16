@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
-excerpt: "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ..."
-publishedDateTime: 2021-12-01T19:07:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html"
+excerpt: "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no ..."
+publishedDateTime: 2021-12-01T18:34:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities"
+webUrl: "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "1MkobRWzv/5C522KUTzQyDWNfEN/yv2UPJ0au0NJ7CxhQ7hmqQ0D4YBH6Z+/hnJZgpXZ13SvIFnLRE/vBCf9oITh3mWsMT4f8flm9n9UMA4fM68nPbWlOVoVl7grQCVLkWnZvt42cAnFHhMP2kFe8BJy79SgGDnj7ShyVultp3kR9ajo9OiznKnFwh5oGDGqJNIt80RmHNvkugg6+eE9aMFPjzBUZAfuABHr3P3uaSO6gvG0bZwjhVPt3j/Ov4NC+E+Q3Bqma+jLoWx9vDkq+EtD6fwtfjAKTnmZXPBSbzOeEdkdQDeQg71ED4IyRLiO6LDFz3fXcbr6PN2J8jqku6xNIWsg5fiGwhej7JqZTQQ=;c7RTAP/JwXXFI5ueDoXpXw=="
+secured: "pqy/VAcWf4LU3Q7P64g7A76ujjsLp2UtwJL7D+UIZK2+3NqAWe2M6BpcuDWv6/3MrLBE6+jFMmGreeZqFnLSSyqRMMu/KKQr3Jdg42TtR5nR1Hv3maaUyTEmZS0idRBFzNUrcn0vNYdMHCfMQ0nxpWz9sIkJdkEkxryCFTftzJ+AvgHSo42QzuNRDWpaePbPJgPENcqTNujslA6qyYw7RCPD3sJXu8Ja+3X6XLKTqlFtHHLWEKNa95sZqSrBfjRXEhK8E3d4Jr7ruJe2I2SlE3xvwDPIPRAAxT79hVCbLfbfeXgfDhZDunvA0i9x9ixu9GXlTreIzusSVt2aQ7vDpAq1/XxXQRaPa1qd6AyGsgQ=;pgnGiPkhvBtuJeMcmgNxCA=="
 ---
 

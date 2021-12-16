@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Worcester bans city use of facial recognition technology"
-excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-publishedDateTime: 2021-12-15T18:10:00Z
-originalUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+excerpt: "Worcester has become the latest local community to have banned the use of facial recognition technology by its city government."
+publishedDateTime: 2021-12-16T14:51:00Z
+originalUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html"
+webUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html"
+ampWebUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 99
+published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TFIE2EUAXNDOXMP5CB32YYD6IM.jpg"
+    width: 4306
+    height: 3230
+    isCached: true
 
 related:
   - title: "Information is key to public support for police use of facial recognition technology"
@@ -37,17 +43,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Living proof of face recognition"
-    excerpt: "Millions of mobile users already deploy face recognition to unlock their phones. The use of face recognition for digital life certificates is a smart way to offer convenience to pensioners"
-    publishedDateTime: 2021-12-12T17:21:00Z
-    webUrl: "https://www.business-standard.com/article/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
     publishedDateTime: 2021-12-15T13:52:00Z
@@ -90,16 +85,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
 
-secured: "AgVr8fuNz6G6ld7FTzhziNXajKWaXu9ey5La2Z2foPdjrOjSPQMjdO+yaz1Bx5aZWIIrhc+z8Ri4XGOjWH9rL74trTBd2GiFwaIX1XUJ85yekuPzRFr5HkwFopVf+gWmClt2buLwXkwHNoADPkFWB+bPsPuac0q3etNOqqxyLJeN3SsbXs02G2boPQpWHmrz4+ptv2d/ZWUYYhMZr403qSXGfKhrUI/ur5xrarIIZXDo0SX+R55XPp6uWNgVJHFpDHmfOf4RyacgrrFWT442hPZOfR5ZTmGBrOGI672a0sCojkfuQr0SYQ5ZZCLPAlQc4ytOfr5+r3VW+Xb3DuAWEWLedPm/bWSMBofCKKi9pYlz37F1F9ox/NM7k6gQRXS1aYCR8aMqC/Y1k2aagkXZj9o4nfDq7Uq0oeuIUE7sbtoUNn/1K/BKoPYI0xdlbUuzMSy6Ob2/SMNXUY+MK8+dCqWwNiKIZaqk3Q0J7GMis01BQ64gHPi8HUahUMlLEb35t+VsKU1x37j8gZwIeahimA==;+a0kDOzrLGyXavMSyHz86A=="
+secured: "CzryH3yanvV/E6iLhk0Z8N9TFkVSqExl+KGf7KbMBYJWs54cPAN/dheEiLBKdWmVkNx9DT9voIMJg54Q7cRmyTt7X98uMW7ZCuzjOrGwaBngqSkG6KlCjI4+lyIQBWyYYvm87yHxSELBceDjp5YGAko+BlLTk2vbJivXL+7UQRseiw+uOAo7kqxRoTLkCyYpuwfwQgNIjxq5t/DrkQsLwc6191jyAbl42BCEcHwSLqR4OAGlOAaOjERTPQ8RNRPrIDzI8QyezXkRFF7mO7SBHQs+21Vi+g0aEiaNP+vEiphl3Dz+JUPn5GnXbo1oCIjkABZtwEV1GBktyizX54X1frYt9so992gIh8Z7ipuIFj8=;tNIplP07A2P+zeFa+/2/fQ=="
 ---
 

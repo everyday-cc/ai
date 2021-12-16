@@ -166,6 +166,20 @@ related:
         width: 540
         height: 420
         isCached: true
+  - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
+    excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
+    publishedDateTime: 2021-12-16T14:32:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 33
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729_1.jpg"
+        width: 1920
+        height: 1012
+        isCached: true
 
 secured: "Qv/4LsCT4RHf1CB9i2T8gmvCozA2tnAFsskNEppQnE+QYSTzi8dWE8/7dW9PsAylnYOTP+gJeXMO16P4o9bntZ2uWJoPR7lTJhzXY6nuh0CF7RNj+8TmzaLNw1GY10kP4Bm0/uMlquNAm7bctPaRqjD7/oukIDxakq3RBwXm9J+DLW0BEwiKVptgES9o5HE/JskIOHG+feTA4YfXm3joWjyDqITQ0K35WMHgqL6fSpsf2AK0Ua8QaJbwfpVgQ8kR9A3rNAJ0Vwe1aza4tsaN6WTcWPTDkKvgmTNrKRR7cvU1OoNEzTfD3O6iIr/4KVyqdOMrDg7+XXy9VA2Fnkl7KvGviqftGu3kw/CIUL5JBGqvRQDV0OUmdDDj3+n+h0xIqrEgQTbJv3/qVhbIycGOLhdfTuZhuwv8obMo8Nz+zetkUcGU0Ytmc2xp0zbz+bADu/51f3t+8UtF1hdklIMz2OHsncoNjLN/zWkAEjWZMtseg4bgA3LxvZhB+TvoCMafzY3qu9MclpKKZFNk+7Rspw==;vweGaS6IgQ5Q5kzZ5afdgg=="
 ---

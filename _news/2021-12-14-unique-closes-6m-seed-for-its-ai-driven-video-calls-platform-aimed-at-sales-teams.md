@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 681
     isCached: true
+
+related:
+  - title: "Continual raises $4M for its AI-powered data platform"
+    excerpt: "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,"
+    publishedDateTime: 2021-12-16T16:00:00Z
+    webUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680"
+        width: 680
+        height: 518
+        isCached: true
 
 secured: "s+kPxrXTYOg0aL92r8Vj8U9uJAfRx6q0DfGrZfEj8v2ohJdBwOMuj+SPAhXmiVVMrKCZqIxZxuOv0T0WxAtQGGHucJy6/dkxO6jIby1H8YzLS7hEF3VoKQlbheWVuHA+dGz09JroOsMYSUwOHWEu1LSHHYbU8rK16wHEGEF09HfFp+39Ag+FeVBdIsG2s/MgYJNpw6HxTlFqMIpjC8LdHN2ujowPekCw3fuYeRD3/3X5mt5v/Ixm8POTjDjx92B4z9tCfNHfBTxVy3zj5a5TAVKZ/Hl635KbmmtxGIdk9u7Z4HLZTDEhWJUOyJBc20f0G665LlyDfaqFwcn5A1tGkZmA8yGsVlsXTacDD5cn5yg=;5AElPaiyWq6fWpwS3+rz6Q=="
 ---

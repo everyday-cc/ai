@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-ser
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/"
 type: article
 quality: 187
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://static.euronews.com/articles/wires/806/63/8066356/1000x563_xiwfko.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
+    excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
+    publishedDateTime: 2021-12-16T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-elementary-raises-30m-series-b-led-tiger-global-/2021/12/16/9513309.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1711473/elementary.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "8Jv2xMdtQBp1LjmPIR6g3RVpayiY4jIqFjK0GImqb0pR6D452sa51iS4Yo6nZj20zeYJaJpLX/+au5uTmsb/Y44FnE5IWs3jJHG0ekDq2MsWorpAb3Ujke0RIh/Z7A8amTTtiEsX41zsB3p0EKgW4fPbZRWrYqWZAZgTfd71Vze/W8zmW4lBlmbsB16jK1HR78ngAUlJfbFH+77BUsUpYFg4PCW3ud+UpPzrIo7D0h5qd/CqCGlyhvkE4fA34XaAd4IEO/zDc5IzWKa1UZ992sRsD00rq1vdHFvmkf5syKvwXl2p/qgMfMiKYfxL0OPgrplRP6O/GANxEs/owBrBkzC/f4tbJv3PH7d6wN/OYviCz8bxEq20Lxg+b7/NoKJcyhHzZcfhb1sNSxBifpm1vfYKcNxbVf+gOxWlF18TNGTE9n58OaXgr1+t0GUfZnbbWMbVGgpZAeVaySQQfKIXLOF4bNjD+2J/i1fjFd0XQdBRZsPPS3YYKVEldSYlqp3d10/cGmNPLYi8I9HJn+s+UmDj8MOjteZd0RKo40r2chw=;wmfM/fyCrWAYEQIzMkvbag=="
