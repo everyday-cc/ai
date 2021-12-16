@@ -83,6 +83,20 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers'"
+    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
+    publishedDateTime: 2021-12-16T08:59:00Z
+    webUrl: "https://menafn.com/1103375247/MediaTek-Officially-Launches-Dimensity-9000-Flagship-Chip-And-Announces-Adoption-by-Global-Device-Makers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/16/PN_bed27fd8-d_Image_In_Body.jpg"
+        width: 340
+        height: 400
+        isCached: true
 
 secured: "rH5rfC0LpA3ae/khbpWxQGvwuTNsSkKxrMxR4YimrdF0RRr/ptXEfFkM6DAA22fMUyOlbxsa6keBANzuiWKpds+/LGrViJ6zrRqvxzpeBvRvBy1WZS2vMZhH3mXRU33Jjs5366EHMNG6RMofxSV10Q9fDd1EGwBQ83YZMmngusnXxjMVggDzWc+kpdyiGQxTMsh4UxMVo3nBggq2Q8FSnQLmTZ6bPSBFIt8mRFYda65QGXFyfjNuo2kMDTDNOuCB6/t37mjfpiIAE+D6mco91i+mAVSFJe1CTtNvDsqfyUIZmcUk8esqo9bi+xF5OBo4vCizVYz8TneiAdrbZzNSW94kMS/QlCi9hJDBrYZdTQkJeKSnedTOnBts16I/bwPYMua6ffei/Vh9sl+dyb7/ZmogpNGb4XIp9UVcLfE2JOwWZqPi5iNoc9YLA6HzoOLWGyRE5vrKzALtg+uGL4BQa5R2qXU7ss9Q3qCcDwWY/CJ7fkUBsAon7F/+y0dcVvKvd5TiCZe7BsztKVH32tmPjQ==;H5q2Qe3cj+5olW94S4Pdkg=="
 ---

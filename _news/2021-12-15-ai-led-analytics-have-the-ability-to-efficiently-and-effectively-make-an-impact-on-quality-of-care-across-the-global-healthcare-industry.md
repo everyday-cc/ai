@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
+    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-12-16T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
     publishedDateTime: 2021-12-15T16:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/deloitte-wins-aws-gsi-mena-
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/deloitte-wins-aws-gsi-mena-partner-year-2021-award-1459048"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 960
     height: 682
     isCached: true
+
+related:
+  - title: "Deloitte wins AWS GSI MENA Partner of the Year 2021 Award"
+    excerpt: "United Arab Emirates – December 15, 2021 – Deloitte won the AWS GSI MENA Partner of the Year award. The award recognizes the Amazon Web Services (AWS"
+    publishedDateTime: 2021-12-16T09:42:00Z
+    webUrl: "https://menafn.com/1103375919/Deloitte-wins-AWS-GSI-MENA-Partner-of-the-Year-2021-Award"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498049"
+        width: 364
+        height: 250
+        isCached: true
 
 secured: "vOT6MCCWg8SRuCCc1UTbCDWLQ9dEV9zpZIO5CVxPr7GzbVUbFU+NdvyLAV4/q5NiaLJd78JHIHkuSnm1d11ZqvQsTSqh2eBiG/chWaVuJycpjqR++fW71eJcnlaH6MplPIuc/CrAMOuV31aCt9CumtP1rRYnqJPzo3CiyRsxMH5nBCrPNiuWpy/b2in6vFAnYEdFLwo6mSsKJoRFEwU2zRszmkF5FuxJg0jKsBB/8xQXwAx71UEPLOO0vJ9U9aPkgkI4KDR8JmLjBGaLGD1+4mWSmIcWfjeeJagqN8H8sihck0N4QcWGI5zTTuj6a/CsWRxoLoz8s8I/yHhSC8DZyl6WKUuRS9r6Htu+IAV6ACo=;q6Rf5d2P26WN/wsrnnSi3g=="
 ---

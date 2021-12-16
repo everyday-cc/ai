@@ -526,7 +526,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -813,17 +813,17 @@
       "title": "Trucks catch up in the self-driving vehicle race",
       "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/",
-      "originalUrl": "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/",
+      "webUrl": "https://www.reuters.com/article/autos-selfdriving-freight-insight-idTRNIKBN2IO0C4",
+      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-freight-insight-idTRNIKBN2IO0C4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211209&t=2&i=1584108376&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB804V",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -831,8 +831,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idTRNIKBN2IO0C4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idTRNIKBN2IO0C4",
       "publishedDateTime": "2021-12-09T06:58:00-08:00",
       "updatedDateTime": null,
       "provider": {

@@ -156,33 +156,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
-    excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
-    publishedDateTime: 2021-12-11T17:12:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2021/12/11/tesla-mercedes-recall-touch-screen-video-gaming-driving/6476758001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6476758001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6476758001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/0328bf59e8b67856ba597e7cd83ab33a26761265/c=0-140-3978-2387/local/-/media/2017/07/18/USATODAY/USATODAY/636359798759324563-Daimler.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-    publishedDateTime: 2021-12-11T17:51:00Z
-    webUrl: "https://www.kansas.com/news/business/article256490316.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 39
   - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
     excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
     publishedDateTime: 2021-12-15T12:03:00Z

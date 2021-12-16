@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
       "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
       "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
@@ -1313,49 +1357,6 @@
       "provider": {
         "name": "Interesting Engineering",
         "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-the-good-the-bad-and-the-ugly-of-deep-learning-technology.md",
-      "title": "The good, the bad and the ugly of deep learning technology",
-      "excerpt": "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "originalUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
-      "publishedDateTime": "2021-11-30T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
         "images": null,
         "publishers": null,
         "authors": null

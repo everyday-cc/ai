@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-15T18:22:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "F9DdmF4GWQbuNN1z33kYFG0dK0xmu67Qgo5nFdbu4aR2X3Da2/P2bMENEDE7c1YyIEnAeCLcq/5VAZBO3u3bOo6WrScQwJ7isKYaoNTwKj427PjWV2VfSBjmiEVWUL4v+oSwj64EELjjvzhrgOd6LawpB/f1sejREmd6vhqlbl0B8LCPHsKXnTpp9YJs7mdqVgnan6f694OPpjIGj8x/480Lx0Ds7K5gukRauQH3t6vLkicjK9YeHh1/lmqZzArMH71ysiSWIPzFDLfge+99WwHlSkc3mWYbEmvOrCnXWsJSFa9XWFn3Dz6gzj8Xdu8iOj/2J5/NmOx3RZGa8C0WRxmmrC9lNbH+sdx/F7VlTA8=;L55g+EaK/T42IQa3hW1R/A=="
+secured: "93LyH3mHF4uUtO1gcf/CIqKE/f85vgrhUIHqLOsIecaUlFmHVaqzydAbK1Bj3pvxMwIoWIty0db84IUu+iL+qpQAMHoXSfk8xpBDB4NGF0KfCRB97fb/vRBX1J/QWxtHWIFaZ+k7Ukzph718drJaVEOinQvsM5SyriSMaoNSX5jblMH4h3YtabwOh1yKMbVLI8F1Al3n5qsqi1aWoxTnpJ6MvAN6X+mjDbrhRpmAYLYnch+aI2ZNj5Uo+WJQf4NzEAiWirh++Ctr9IFZbZYIIaKMBaCpR/x3pSE9rZPrXSgg+ewm0giDBGrESaL6wluFnDNCLvgbsq23gjXgQYluwkCcZo3wQkA0SuaBhA9yOOo=;Lf0YE1rdYqS1d854JaB5HA=="
 ---
 

@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
+    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-12-16T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
     excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
     publishedDateTime: 2021-12-16T08:13:00Z

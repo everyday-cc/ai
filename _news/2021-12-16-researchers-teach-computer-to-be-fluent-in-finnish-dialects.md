@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "University of Helsinki researchers teach computer to be fluent in Finnish dialects"
+    excerpt: "A research group from the University of Helsinki has built artificial intelligence models that can automatically detect, normalize and generate Finnish dialects."
+    publishedDateTime: 2021-12-15T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/938028"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "iAIAVUdeon3/tu6YBdv1hilP1YZbmKg4tpPx3HWKO2P4ab95B3H4x3nJGRiLEkMtznOxL+arMNEqsC+ghxoa2QBHkQjjbBJkEpD910hmTdLspRM+nX3jhWO4JlL5UepEHHY2aUUZfUFefnAIxuBGmkYY9waOwrhdiYpFKKHXjs4cLyMpoE3zMkUi0ACFGx3MhdYg2ESpXJyeA9dENIZQTKWgB+TD64clSc+ZtRy0HGfeYvVALbbCNnb+cT9lAqWGdV2hZDPF2Kkl+GZ8b14GfXMdInVR9j+GrhbhXfgmCQbQb+YDmjX806SUTHnq3RA/dmtCKml77sGA+FVxFLvMKBoEYHqxcr8XwpXpmN6W3WFLJSHtXuR0Nopsf07lw2EXKPJauGN1e5P3iZmv5cFl2sPH0MSux05q9IpQhIcU3vzn1CHqSa96YsOkLzlMkQ+asgc8gz5AdBn3c+zb3aKEB5quBdFkmiJCyn5ZSM7Redu2ta58qK4Dg80+Nc5PX6RGgK8Sw3o3cw7CSdHS42TcUg==;i5bZHpZjtM8U51BZmoEkMg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "GeekWire Podcast: We assess the AWS outage, take an AI quiz, and try Amazon’s Halo View"
-    excerpt: "Is the world relying too much on Amazon Web Services? We take stock of the fallout from the big AWS outage (which was the subject of a detailed explanation from"
-    publishedDateTime: 2021-12-11T17:58:00Z
-    webUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/"
-    ampWebUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
   - title: "The Use Case Podcast: Storytelling About Interviewer.AI With Sunny Saurabh"
     excerpt: "Sunny Saurabh and William Tincup talk about how practitioners make the business case or the use case for purchasing Interviewer.AI."
     publishedDateTime: 2021-12-15T14:03:00Z

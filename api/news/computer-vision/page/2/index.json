@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-02-picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push.md",
-      "title": "Picsart acquires R&D company DeepCraft in seven-figure deal to aid video push",
-      "excerpt": "The company believes DeepCraft’s AI technical talent and its breakthroughs in computer vision and machine learning will enhance Picsart’s own AI technology and help the company better support ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Picsart_DC_04-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
-      "publishedDateTime": "2021-12-02T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
       "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
       "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
@@ -1383,6 +1331,40 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.md",
+      "title": "Congratulations to Prof Shaogang Gong who has been elected an ELLIS Fellow in the ELLIS Program Multimodal Learning Systems.",
+      "excerpt": "ELLIS Fellows are leading scientists in the European ML/AI community who advance science, and also act as ambassadors of ELLIS, thus giving a voice to data-driven AI research in Europe. Further information about the Ellis fellowship can be found here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.qmul.ac.uk/deri/news/congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.html",
+      "originalUrl": "https://www.qmul.ac.uk/deri/news/congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Queen Mary University of London",
+        "domain": "qmul.ac.uk",
         "images": null,
         "publishers": null,
         "authors": null

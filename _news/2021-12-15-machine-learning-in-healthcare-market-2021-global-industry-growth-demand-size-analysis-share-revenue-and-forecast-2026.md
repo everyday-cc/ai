@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
 type: article
 quality: 60
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
     publishedDateTime: 2021-12-15T08:16:00Z
     webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
+    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-12-16T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
     type: article
     provider:
       name: MarketWatch

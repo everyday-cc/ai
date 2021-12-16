@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 795
         isCached: true
-  - title: "GeekWire Podcast: We assess the AWS outage, take an AI quiz, and try Amazon’s Halo View"
-    excerpt: "Is the world relying too much on Amazon Web Services? We take stock of the fallout from the big AWS outage (which was the subject of a detailed explanation from"
-    publishedDateTime: 2021-12-11T17:58:00Z
-    webUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/"
-    ampWebUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
   - title: "Adobe announces Creative Cloud Express for mobile and web: Template-based, AI-powered editing and content creation"
     excerpt: "Adobe has announced Creative Cloud Express, a new unified web and mobile product that makes it easier and simpler than ever to make and share creative content. Creative Cloud Express enables drag-and-drop content creation and includes thousands of templates to reduce the learning curve that can inhibit content creation for beginners."
     publishedDateTime: 2021-12-13T19:00:00Z
