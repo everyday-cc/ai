@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-03-kinetica-pushes-vectorization-to-the-edge-with-microsoft-azure-stack-hci.md",
+      "title": "Kinetica Pushes Vectorization to the Edge with Microsoft Azure Stack HCI",
+      "excerpt": "Provides Organizations with the Flexibility to Perform Time and Space Database Analytics in Hybrid Cloud DeploymentsARLINGTON, Va.--(BUSINESS WIRE)--Kinetica, the database for time and space, is now available in the Microsoft Azure Stack Partner Catalog,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=557889",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=557889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
       "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
       "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
@@ -1386,40 +1429,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
-      "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
-      "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "originalUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOTA TV",
-        "domain": "kotatv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

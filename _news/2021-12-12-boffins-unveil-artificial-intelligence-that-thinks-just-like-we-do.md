@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelli
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/12/Boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Using AI to Detect Early Signs of Parkinson Disease Through Facial Analysis"
-    excerpt: "Researchers at the University of Rochester are analyzing facial muscle movements through videos taken over webcams or smartphones to train a machine learning algorithm with the hope that it can predict Parkinson disease at an earlier stage."
-    publishedDateTime: 2021-12-11T14:41:00Z
-    webUrl: "https://www.ajmc.com/view/using-ai-to-detect-early-signs-of-parkinson-disease-through-facial-analysis"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/1913d5bc4489b15ac0b6c03f5012ce9da9c5fc74-4848x2727.jpg?fit=crop&auto=format"
-        width: 4848
-        height: 2727
         isCached: true
 
 secured: "ATpAsjA3x9o4Hngj/0frCoJV4sCEIc1xNoPeDtbBiwOD28XImv6GgQDDEcQfJSEh8goKDf81Uci6zNm+POjdl25k6oMbbJP51KlWDX99aapDR0UkGOMzglBa+7HxJG36B3eaWtfb3jYG2x1LJlG8nn1zWWRRq4j76dvbFD6Hb6xklOZ9u4C61Qahv7VtllOKz/dMjf12zN7+WHZz+sihSCRr5DoOAOrPkrt8jpqNE3O+bW/CXKgjKC5mhkAS43wRQtz6m5s9UsnlWyJfwWgq0JKisB90yrVfgIERlyB+XYC51Lr5mpi46wz8txHa9g65iblFbbTH0yc9Elq6Jut/nNegF36tO+h/5dosON7pLo/h5poAFieULNXxGCpgkwzFZeTuNpgTDMW9UFCNCVxOdsHGgbG3ycAgI0mjEiAaOt7GoHdfjUnQ2QhKDx8nmZLtdxYkC4Rr0IoKenMuj64/0TGLBS8q/RiA1pocEkiSCM3kHLyP8qtrzwH9fdvli9P2NIYsnFYR4pDfPl5/h+70nA==;szrjY8HVvUHg/bTc0BrBVg=="

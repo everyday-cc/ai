@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/chinese-carmaker-gac-invests-usd3
 webUrl: "https://www.yicaiglobal.com/news/chinese-carmaker-gac-invests-usd30-million-in-self-driving-startup-weride-to-make-robotaxis"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Chinese automaker GAC invests in self-driving vehicle startup WeRide"
+    excerpt: "Chinese self-driving startup WeRide said that it has secured an undisclosed amount of funding from state-owned automaker GAC Motor, a manufacturing partner for Toyota, Honda, Mitsubishi, and others. WeRide and GAC aim to expand their autonomous ride-hailing pilot project."
+    publishedDateTime: 2021-12-16T05:41:00Z
+    webUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
+    ampWebUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
 
 secured: "+e6GkXFHDp4OOuC9TnBVB7WAkdXwLHt6l7/U/Z62o0fyylOujbhRAre5YWwmdLNWkyKGcMcRfW2C3jplf4FPK++VbrU5Ph9CRipj5AzJns7v41KbQ1TG6WAr3Wr6EJ9Ahnj+p3j0j0VmfUGhhHSRTyx5jy9OY1aitfXu/R9zJrHRIRw6qVRdl+k/QiaujeiphZpbNWgWz/SLroAvzvhteRaIqQp+E85PP437CiRgz5kvWFJlPDJSJ8NNUQWNgyqrWcBmClI3eMoDVV0WAh6jMNVQR86CrgQnk3sGn/M2qwQCcGoq67WuU7TnnSqh/DOaVRky8W1CB3JbX6ATyzIZiEA+4cmBG7lSdM0B7pKk3Yg=;305GnP1cAtbllHv9KDxLnw=="
 ---

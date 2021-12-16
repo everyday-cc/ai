@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-09-18-hyundai-to-feature-facial-recognition-in-electric-vehicles.md",
-      "title": "Hyundai to feature facial recognition in electric vehicles",
-      "excerpt": "South Korean carmaker Hyundai Motor announced it will include a new facial recognition system in its forthcoming GV 60, the first electric sport utility vehicle from its Genesis brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5491631899253/2021/1/16318995983256/v1.5/Hyundai-to-feature-facial-recognition-in-electric-vehicles.jpg",
-          "width": 571,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "publishedDateTime": "2021-09-17T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
       "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
       "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",

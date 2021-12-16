@@ -44,22 +44,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "The Human-Like AI Robot Desires To Be A Mother"
-    excerpt: "Sophia is a social AI robot created by Hanson Robotics, a Hong Kong-based business.Sophia made history in 2017 when she became the first humanoid AI robot to be awarded legal citizenship."
-    publishedDateTime: 2021-12-11T14:15:00Z
-    webUrl: "https://www.thehansindia.com/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    ampWebUrl: "https://www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/12/11/1130931-robot.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "r22hNLt2mLY6KBzGjon2e0uB7lcSuoO8c2YHVdqbXi72e1WGSTV8MgAATrpqj98oUo3l87iiS7XqD8Jykqo0MKtWQdeNAHA7Yn3vP0AedRiLd+KbZloSmiNDPV6oW/Xt/blNr6SeftnRXzQGpl23CqRWRGOTxu/DGIeyVSqAdX+ANyfxgRae71B5RajFwGERX0YgJltmV3aK5kEPbVvYbjNimqSQvLruUqb8c84y2APNTmUSLMrLpVivyQjR8SkjpJwP59ZuZgBUSC8asu4RmqWiGCyWvGEGpppCVr8FC3gExUvQkJmMMWNcuy3hmQ08WGhpqO9tHODFlHY16XWMsKBK/QvXfj1byfxNRxEWHuBbSiVaDYl2BOYO4iF93uu6Yp16KjA4/RkxzLrpDdBjycgfqXOknwS9fO/l5QobK5XuEevhWSHfMDoXoiQbUs3f7aaWvwphz6skbQVf8RYDYicLF0cJ+0Y4tOW08IFITOLK9ZC/eIAyRVa87XIWxfDjFSkw0g88i4yg8lBMcrvhQQ==;/imUiND2Xl8JjXQDbOrPvA=="
 ---

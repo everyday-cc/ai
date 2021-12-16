@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-a
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

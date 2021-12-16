@@ -2,49 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-12-02-deep-learning-market-is-anticipated-to-reach-around-usd-211-billion-by-2027-credence-research.md",
-      "title": "Deep learning market is anticipated to reach around USD $ 21.1 billion by 2027 – Credence Research",
-      "excerpt": "Deep learning had a market value of $ 2.7 billion in 2020, and it is expected to reach $ 21.1 billion by 2027. The market is expected to grow at a CAGR of 34.5% over the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-anticipated-to-reach-around-usd-21-1-billion-by-2027-credence-research",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-anticipated-to-reach-around-usd-21-1-billion-by-2027-credence-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-2-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-avocor-launches-e-series-interactive-displays.md",
       "title": "Avocor Launches E Series Interactive Displays",
       "excerpt": "The glass display technology facilitates a smooth, accurate, low-latency writing experience through instant writing object recognition. Users can easily switch between using a pen or finger to create a fluid, collaborative real-time environment.",
@@ -668,6 +625,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Six New Amazon SageMaker Capabilities",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },

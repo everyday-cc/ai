@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp"
 type: article
 quality: 91
-heat: 112
+heat: 103
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Human-Like AI Robot Desires To Be A Mother"
-    excerpt: "Sophia is a social AI robot created by Hanson Robotics, a Hong Kong-based business.Sophia made history in 2017 when she became the first humanoid AI robot to be awarded legal citizenship."
-    publishedDateTime: 2021-12-11T14:15:00Z
-    webUrl: "https://www.thehansindia.com/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    ampWebUrl: "https://www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/offbeat/the-human-like-ai-robot-desires-to-be-a-mother-719235"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/12/11/1130931-robot.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The Evolution of AI: How Enterprises Grow to AI 2.0"
     excerpt: "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development."
     publishedDateTime: 2021-12-13T19:38:00Z

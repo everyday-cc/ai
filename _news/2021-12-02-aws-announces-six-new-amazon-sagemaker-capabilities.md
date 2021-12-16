@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ..."
-publishedDateTime: 2021-12-01T23:33:00Z
-originalUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/"
-webUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/"
-ampWebUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+publishedDateTime: 2021-12-01T18:33:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
+webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "ze6nRqHlxJqxgqL9qYYGu3/fuveVLBv2wLlzwppBpnzgH58qaCRdzjj6M5S0DxlfpG00BmxL7MlbwRFYDQTYW0v6r7xJ3Lp4mvjXhwO3oDyRVfl32RWq9w5kTwt/VjdV9Y/VgzdIhEVf0AdZoJJvfxrZoI55Qb7oHONa4mb/6jY9rIRcaHEwAIp0kp5avH/dR8MnGdv3ZI88CfbOTwVBH96sAvCDHy7enH2g9fv8VCutrpEJMtsh7Pm4mp56gBLYkJRlMr/Bkci02UJkaC/BJnB/OOclXSlKUyUjI6r36qdueHHpVXSGmCrw7i184mUF2EE8rDdgpc7WjD5CdnFyQrBCYeqJP0uxhxafZlJAAvo=;Pg/X8qYzuWIA2dbuZijI+g=="
+secured: "tZd8fr0b9eCVDRH8gSDJTu8VJCyQBfvnitv7m0K9EC1MT7Rk8F/1Tq97B/x28rLuIZ2kh5oIu6ltCrLECL5okBc7bCE6Yr1FM1Cy2eCao35VbhxYN0H+cEzohxII9G2AuRYXigD6JLN540/w9BManGzTwgs01+ecwyd6hBku7Mp75jsYhQS9yfRGesd3GaIykG3yGv85mbO/EK2z0CIEbJRJhPpYzcx4KuHfgRFPjFumqQqgBEbIAWaExGpPRKv6CbAgOGumQ5FaB9M8fuTODmdWiIeZ10uqze0SIR2GAgmlmSlPZOIJqteimForJzGggvn2xlwHRumzfSOybqZAUymBlNEE5PmhsNubnCr4/pE=;YPjSncF/dqrqKhYUBFjG3g=="
 ---
 

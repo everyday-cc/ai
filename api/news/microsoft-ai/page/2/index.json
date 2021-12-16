@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-mlcommons-releases-mlperf-training-v11-ai-benchmarks.md",
+      "title": "MLCommons Releases MLPerf Training v1.1 AI Benchmarks",
+      "excerpt": "Today, MLCommons, the open engineering consortium, released new results for MLPerf Training v1.1, the organization’s machine learning training performance benchmark suite. MLPerf Training measures the time it takes to train machine learning models to a standard quality target in a variety of tasks including  image classification,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/",
+      "originalUrl": "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/10/MLPerf-logo-1020.png",
+          "width": 500,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-cloud-computing-is-evolving-heres-where-its-going-next.md",
       "title": "Cloud computing is evolving: Here's where it's going next",
       "excerpt": "Today's hybrid and multi-cloud architectures will evolve into highly optimised app-centric, AI-driven environments.",
@@ -1303,58 +1346,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-azure-cognitive-search-brings-knowledge-mining-to-the-enterprise.md",
-      "title": "Azure Cognitive Search brings knowledge mining to the enterprise",
-      "excerpt": "A recent report from Harvard Business Review Analytics Services also found 82% ... will move from finding to understanding. Microsoft’s Azure Cognitive Search solution will offer knowledge ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
-      "originalUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/11/fb71dd42-16c5-46ae-a4b7-ea12f641b093.jpg",
-          "width": 1024,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

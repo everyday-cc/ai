@@ -41,20 +41,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Using AI to Detect Early Signs of Parkinson Disease Through Facial Analysis"
-    excerpt: "Researchers at the University of Rochester are analyzing facial muscle movements through videos taken over webcams or smartphones to train a machine learning algorithm with the hope that it can predict Parkinson disease at an earlier stage."
-    publishedDateTime: 2021-12-11T14:41:00Z
-    webUrl: "https://www.ajmc.com/view/using-ai-to-detect-early-signs-of-parkinson-disease-through-facial-analysis"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/1913d5bc4489b15ac0b6c03f5012ce9da9c5fc74-4848x2727.jpg?fit=crop&auto=format"
-        width: 4848
-        height: 2727
-        isCached: true
 
 secured: "PBCdBi5e6uq1vEjf1EWQ1Mu8AAvbZe9zoyVBd6y/yw+Amzt4v/Xt+m/q6q6CdFaA2tXvzwagLt26YTczphLSulOsFKlDYho2Eoc08jgtNVb63KElPfEFz8BGQgDNVMUDjC61yF/bxV1NdIMrHTxx/kXbqCTCg5zRzndFQ7ordcKq9njPRy2QComlEt0v29BoaJTSucZg52KEaAfAUG9oeiBGpihXMm8rhsSKrar90NmcH2kjdBUy8moLE+hQnyEpYrYBaAtf6aL1I5MhJtg3KXcsddBDjks7mU23iG5RHp7J4nsHHbDbSrZzFi6qwG0Kmohuz38Dk18wszZAfkuD8Ykm/kLU1JINujKFdnxDoG5hoaJFKBTK0DCDA+cyiv10dEohlT5DXSJZYd3E0SDKUOZKSGuWymu0KyWHfK33roUaZdBlQQWGoQc82kjZiLJ659keS1VccYUdvfDe7syXGl+Zzl6m/qAJbRVBEou8WAqQjGOeQKyMP8ZzgAv0aW/4z+g/b4c5DqLhTYjZ4ltk2Q==;CYaaH76TgQuUwzZwKPGjtg=="
 ---

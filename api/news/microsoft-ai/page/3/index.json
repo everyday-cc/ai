@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-21-azure-cognitive-search-brings-knowledge-mining-to-the-enterprise.md",
+      "title": "Azure Cognitive Search brings knowledge mining to the enterprise",
+      "excerpt": "A recent report from Harvard Business Review Analytics Services also found 82% ... will move from finding to understanding. Microsoft’s Azure Cognitive Search solution will offer knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
+      "originalUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/11/fb71dd42-16c5-46ae-a4b7-ea12f641b093.jpg",
+          "width": 1024,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
       "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
       "excerpt": "With the new Azure Machine Learning integration, data science teams can develop models using Azure Machine Learning Studio and then publish them using the Seeq Azure Add-ons feature, available ...",
@@ -1335,49 +1387,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-azure-high-performance-computing-at-supercomputing-2021.md",
-      "title": "Azure high-performance computing at Supercomputing 2021",
-      "excerpt": "Azure’s market-leading vision for HPC and AI is based on a commitment to continual improvement and backed by a core of genuine and recognized HPC expertise, using proven HPC technology and design principles, enhanced with the best features of the cloud. The result is a capability that delivers performance,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

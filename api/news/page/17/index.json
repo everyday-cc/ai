@@ -2,40 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-12-02-meta-selects-aws-as-key-long-term-strategic-cloud-provider.md",
-      "title": "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider",
-      "excerpt": "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/",
-      "originalUrl": "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit.md",
       "title": "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit",
       "excerpt": "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such",
@@ -250,6 +216,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-how-the-public-clouds-are-innovating-on-ai.md",
+      "title": "How the public clouds are innovating on AI",
+      "excerpt": "Below is a brief overview of the machine learning services offered on Azure, GCP, and AWS: Will we see more machine learning models as a service (MLaaS) from public clouds and other competitors?",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
+      "originalUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_cloud_2_1.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -786,49 +795,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Six New Amazon SageMaker Capabilities",
-      "excerpt": "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/",
-      "originalUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities-2/amp/",
-      "publishedDateTime": "2021-12-01T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract.md",
       "title": "Announcing support for extracting data from identity documents using Amazon Textract",
       "excerpt": "Creating efficiencies in your business is at the top of your list. You want your employees to be more productive, have them focus on high impact tasks, or find ways to implement better processes to improve the outcomes to your customers. There are various ways to solve this problem, and more companies",
@@ -1120,6 +1086,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-deep-learning-market-is-anticipated-to-reach-around-usd-211-billion-by-2027-credence-research.md",
+      "title": "Deep learning market is anticipated to reach around USD $ 21.1 billion by 2027 – Credence Research",
+      "excerpt": "Deep learning had a market value of $ 2.7 billion in 2020, and it is expected to reach $ 21.1 billion by 2027. The market is expected to grow at a CAGR of 34.5% over the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-anticipated-to-reach-around-usd-21-1-billion-by-2027-credence-research",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-anticipated-to-reach-around-usd-21-1-billion-by-2027-credence-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-2-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

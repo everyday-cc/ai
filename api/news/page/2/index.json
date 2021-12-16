@@ -62,7 +62,7 @@
       "originalUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -698,48 +698,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-14-artificial-intelligence-predicts-coronary-artery-disease-mortality.md",
-      "title": "Artificial Intelligence Predicts Coronary Artery Disease Mortality",
-      "excerpt": "Artificial intelligence was able to determine the likelihood of death in coronary artery disease patients by identifying risk factors, promoting preventive care.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-predicts-coronary-artery-disease-mortality",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-predicts-coronary-artery-disease-mortality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality",
-      "publishedDateTime": "2021-12-14T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
       "title": "A Need For Speed Is Driving CX Expectations",
       "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
@@ -1213,6 +1171,49 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
+      "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
+      "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
+      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
+      "publishedDateTime": "2021-12-14T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
