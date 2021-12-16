@@ -1,25 +1,29 @@
 ---
 category: news
-title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers'"
+title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
 excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
-publishedDateTime: 2021-12-16T08:59:00Z
-originalUrl: "https://menafn.com/1103375247/MediaTek-Officially-Launches-Dimensity-9000-Flagship-Chip-And-Announces-Adoption-by-Global-Device-Makers"
-webUrl: "https://menafn.com/1103375247/MediaTek-Officially-Launches-Dimensity-9000-Flagship-Chip-And-Announces-Adoption-by-Global-Device-Makers"
+publishedDateTime: 2021-12-16T07:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
+webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
 type: article
-quality: 22
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/16/PN_bed27fd8-d_Image_In_Body.jpg"
+  - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
     width: 340
     height: 400
     isCached: true
@@ -124,6 +128,6 @@ related:
       domain: pocketnow.com
     quality: 19
 
-secured: "gkHXdYrluFmqUZt8/Aa5UUSHI2tD2fqkD/9BFCXHZxxCoyTjkxCxGlNi218A4TOpzIXb/iQ1JamBZRjlp/qETOfcTMYWXkQvFEeu3UEpw4sJ4ztZIyjzFmbnsLDamPDedvCHvrWV1V352n3sfbjFCpB52XmjuWUDsW6i6UYHZCTDDciGqeW+8kc0p4pFqCZdx0q60j7S2BiXrdYxqI6ucVvaHLu9BJaidrAMDvUxy8IqhgnKwNiqoJDbtgf1vkT+SxZAqsS6wnJTdd7vk1Im/Kmvgt1mZuDXOD8XUphYVpfp9U5NBSct+z0ylRzQkwxnxyiiNV8JAPFTt/jhxgjb3mQ89EMvi+qknbxgCCbZreE=;ybYbs6ivIZnrBXjvm3q/Ow=="
+secured: "nspUvTAGJH0KBK+qt0rXP3Iq6w9yBEMB11q/sd7i6zq9tXzzPHFbYoNmMxbi//mD54R66NgyjvKsvu5ca3XnU7vFgeaPDNCLkJp5x7g+1SS9gndPK6JvsU+OVDZZxJnS1vp1i0V8o1hnzT6VgLYMI9uEWbpZ7mvgpJX5SXSh5ladJdtMpMUXWagjPPvQMck08vIkUNbZB7KrIvYepMypIjQcY3JKBLX1PSxOegWxRG0DJpXfkL9ZP5vavjyN3+GVPJpPAF6AOm9ucvXGzZvj0cPxQhtmPPlgDEU5YmEbWeaAC5AwHkkmk9m5LYAelLQ41YnkSlE4RAWnLTvsdIaI0rImPyfxki5ijVOhbiRhlGY=;p7vnodfPYKXsKajThkRbUA=="
 ---
 

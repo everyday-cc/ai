@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-
 ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
@@ -169,6 +170,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "pyIDj+k+A77eqhKw84xtUVIdHRfadKDq57kuraCm6JNJO2Uu98h0JD+P36sZWvVAIa4NwHVVBzexC6Q4mZBK4lSOA6MdUoN9W1P0LayNJ5c4QZoaTBZ507KMglivCS8M06HsdqJ4on6YrKIKNfJGaExbn9hJTFwYPPmK1jaZdr/GaQCzfJQ/mZrzzB+eUJx+DwMuf4nW9oPoKHw6Dho/3sw9E40PhL6SJI78y85kR0K7cTPD+tmGAR2zxtET7vb5Sr/Kj/HmJRtdtMylrHVQUM4aKID15aXRHYoye6BUKKaLEcCTgaBCAtaXQ9bmBzNf1+LDGk7d4swDx7Kk2LbcUbw4dW5tq8qa4JVkxuHCHoY=;J4ciFb+fnnp3VMqvE4aZRQ=="
+secured: "uUWfhj3i/xAuuHJQyQqKlG9vKu69+ckCqWg6m4GxdXDUnijttr6O4HMj330PcWyu9FpUH6MhruuWxpDE1Zqxz+llysgOIFhOGMt7FTMRenvXMY38fpAZYwGFQ5wVYl8aOfaZdc/cFIf/ltIUHIYJXMkT9c7xMW2qKZpvvkT5zg8fCC1KeRX+E/10TIYtDYrwPgSrQkrcwjmuDJfuHSNo9LLJuBz6XSu5PMYZjkk6JxyZYvOh2kOl6GNVMKfbUikOuMEIZ1foJns8mfRiaE1h9ZzcQ5qMTiBXf8qsAG5nUw6Lzl5rU5ODXpwD6d8sqLa6ExYcvcSoYYxlr+vvjan3/BM54QdxftWVy91UQyqa2g5ck7u711eJ0rllj97T2El8fSX/ip+S2nYrDR4+IJOCFGthUftPmfsrXJ6D4cmbI+AV47Zcpy5Ywnmsi5bQcmYM0BRSbPsq+kR6t1+v/vQFwYz/6Qc/u8TQAus3pAic4sBicDCEJXKeHmkYqqYw0iTYHerU5sOT1pnIWckDIqBB+g==;EkiPxLMGM3/wj6h/woE54g=="
 ---
 

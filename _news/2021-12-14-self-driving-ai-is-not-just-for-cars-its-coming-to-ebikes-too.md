@@ -105,6 +105,20 @@ related:
         width: 3600
         height: 2400
         isCached: true
+  - title: "Apple Patent Details Exterior Lighting, Warning Systems for Self-Driving Cars"
+    excerpt: "The US Patent & Trademark Office (USPTO) has today published a newly granted Apple patent titled “Exterior Lighting and Warning System,” that details controls used in steering, braking, and accelerating an autonomous vehicle (via Patently Apple )."
+    publishedDateTime: 2021-12-16T18:54:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-car-exterior-lighting-warning-systems/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 36
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/patent.jpg"
+        width: 410
+        height: 600
+        isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
     publishedDateTime: 2021-12-13T00:04:00Z

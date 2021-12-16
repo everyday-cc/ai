@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
-    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
-    publishedDateTime: 2021-12-16T16:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
+  - title: "Professional Services Robots Market 2021-2026"
+    excerpt: "The global professional services robots market is slated to touch a value of about US$ 7,400 Mn in the year 2026 and grow at a robust CAGR during the assessment period.  A rapid growth in the service industries and the pressing need to adapt to the changing demand of the consumers,"
+    publishedDateTime: 2021-12-16T17:19:00Z
+    webUrl: "https://www.openpr.com/news/2502256/professional-services-robots-market-2021-expected-to-reach-us"
+    ampWebUrl: "https://www.openpr.com/amp/2502256/professional-services-robots-market-2021-expected-to-reach-us"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502256/professional-services-robots-market-2021-expected-to-reach-us"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
+      name: openpr.com
+      domain: openpr.com
     quality: 59
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "AWS launches AI for data analytics partner solutions"
-    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
+      - url: "https://cdn.openpr.com/U/c/Uc16552577_g.jpg"
+        width: 800
+        height: 482
         isCached: true
 
 secured: "Bbe881h9Udz1H87BNwg8IiVPFksiYP7ZmOYIWW0va4FA3bCKvEKVZNjr7aM9cqmCBHIpNFC1VFlTvL/A3uN8GPvzyYdDrPed4/Pr6nxGk7aslpzFo2V/rK5joxrrI8MmSS1kOvGjbFFAN9ShIC0fH8OtEyqLj5fAmVzbq7p2IlHKSHocaR15ZDhvcl3ldugb/XuvZE/sL4F2XFw2MS03ILc30PElK19rsyYuV4ENWnXW2S7MRYZWXHtMOUyvwjHHnB84zgi2ls+oUvnxxihPTpbA7jE8Up0UzmOD3Rflzp4u4bQ2n+qK9yQbsdqr7o1B7vuxeVcjbWXNYLdzggz1+87jQw7yrwy9T55+0KKUfRYegKNScFvAV7dGUh/jK/S0mxmO0WA1scLZy8Pua0QkFYqnxw+rOvE48zaCdG/TDomnE+okvr2n/r/uDFFHAC7NicJtSUOle1Clyjgu2gawny+XpQqpM1Ic3om0kGXvvC6wSDAPNnXrBuDouqbE27ggJ+KoeVk8BR/pf2BPQgUnBg==;uOxy/v3cOW+0pKYTYdPZbg=="

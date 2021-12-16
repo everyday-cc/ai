@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
         width: 3600
         height: 2400
+        isCached: true
+  - title: "Apple Patent Details Exterior Lighting, Warning Systems for Self-Driving Cars"
+    excerpt: "The US Patent & Trademark Office (USPTO) has today published a newly granted Apple patent titled “Exterior Lighting and Warning System,” that details controls used in steering, braking, and accelerating an autonomous vehicle (via Patently Apple )."
+    publishedDateTime: 2021-12-16T18:54:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-car-exterior-lighting-warning-systems/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 36
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/patent.jpg"
+        width: 410
+        height: 600
         isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."

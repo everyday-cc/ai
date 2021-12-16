@@ -95,17 +95,17 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers'"
+  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
     excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
-    publishedDateTime: 2021-12-16T08:59:00Z
-    webUrl: "https://menafn.com/1103375247/MediaTek-Officially-Launches-Dimensity-9000-Flagship-Chip-And-Announces-Adoption-by-Global-Device-Makers"
+    publishedDateTime: 2021-12-16T07:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/16/PN_bed27fd8-d_Image_In_Body.jpg"
+      - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
         width: 340
         height: 400
         isCached: true

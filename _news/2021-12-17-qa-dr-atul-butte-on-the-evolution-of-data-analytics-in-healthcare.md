@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evol
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: HealthTech
@@ -41,23 +41,7 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Business Analytics BPO Services Market"
-    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
-    publishedDateTime: 2021-12-16T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
-secured: "TMuwwBq4BUmtGXZRfQfUGZOyytjAKvnYizkN3RoEyW6R3/00a2iuIUdD8sgfJ2KLDpOGNKuBCmTPZe033YjfJQ/fXO3sBCJvgI3MohPUbBfoC6lN+aJP7sWldZrYRpLiv8m/DuXg7KKs8rc6eDbk6y4KWjDHOLXQlc/LRxaXBgazujG5uJ7+9fAK95xWQa0/96mb0pNT7/plSbp2qBL5bl0CPOeUEtbxbCGz3xBv3ib0DAQCpNGiABKW9VPCvLhaHBQKQJVQXywgXE71ECanw6gapFiyk/Sp5FAJPqG4wtsG3E5VCYjN3EfpPPrIcI4UgbG4bnl5ckR7GOlNTxrRxObniRAyeuLvNo0yhFeSo6o=;LgclBPlQMI0tBqvDzcuy8w=="
+secured: "ZYUtdLaFjEiQZH6VxqczHPBLhhVA7vw70N/O9faYS5byPQQDN9rXK1DdBHYtAHrx8NGWxTc2AgcX8AP3zaDbzR754l4mQSkFqYD+4WJ3dkRgJnxEPqGlfnZitV08hu4CLZQIeZ1eRkLenVlzo5fW9F7YkWe3Ht7Zv82fWJJVID2lmp3ZnMEHjyz8KYGkSPyt3US5fgxk8XJLq9Nz2x5CM3kZe34kTdkT8pbmdqnk+DcDM2eFx5UkdYN4j5CCWH3VXw+ADs33qX6+ApiDMVaVgJDqyGPNO5vYwGI6No9xREZ8WuSlUStCVhpr5D4MgihK5kmoQd4O3bNZEI5LpqeMuC7Dtqyn38JyKFcrMpFNGV+ff0YmF6AkERFcnGQshnn1unG9GOFAjg9OcRcglA225oZSrbMK/8FRYMn4pfuPne82nIUjsJEt5lKrvcvVQcgSrBmd3ZltPDqxXBZZL9f5eK6moNyS7YVXBB7r4Jt3KToilitBnDjk36+3P07vaQ4QzTS8fl8bBrMEfmHnsOD9Qg==;dLCm0JjTxKvzEVgSq53Rcg=="
 ---
 

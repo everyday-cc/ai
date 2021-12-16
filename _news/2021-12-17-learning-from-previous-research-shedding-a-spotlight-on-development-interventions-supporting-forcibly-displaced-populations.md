@@ -1,0 +1,23 @@
+---
+category: news
+title: "Learning from previous research: Shedding a spotlight on development interventions supporting forcibly displaced populations"
+excerpt: "This blog entry is part of a series that highlights insights from research for development policies and practices, supported by the Knowledge for Change Program (KCP). At the end of 2020, 82.4 million people were forcibly displaced worldwide,"
+publishedDateTime: 2021-12-16T18:35:00Z
+originalUrl: "https://www.publicnow.com/view/E1C762A82A7A10C189E56707EB189B612A93B72A"
+webUrl: "https://www.publicnow.com/view/E1C762A82A7A10C189E56707EB189B612A93B72A"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: publicnow.com
+  domain: publicnow.com
+
+topics:
+  - Machine Learning
+  - AI
+
+secured: "APKuYIdatVdTuXy3N7+JbwANsHOLCqdJmb+D4sO6fxDDM6ia1+zsrwVI9h7s55wS1dQ4fYsvaubH4PlZa+p8dHKlJKwWFj3gci+otTQcfVSO/pVbRa/Hljbm2tjeGp7i2NExVOEniYnNocfcdzRdZ+LFgGOYc0g8MXFKtrNrhNChd/B11ntWsWL/QonEG+9Oczdn2/sOW2qQtgS5NKKtgYxbgJ+cAd3yjn5VlHJJWQC2XyOLNawPuLq1k7z41b2woKFX9g6cNi09qQ4ZLiJZabw3SQn4gAN8+DBU/65kt4aoSJsWP/pIqmpGXHvj/AQA9ffa7oQMnlj3CD/aop5+OWincYv/1z3+R+lrVjvSPiE=;vSiVF9T1krLi4mMShI4oPA=="
+---
+

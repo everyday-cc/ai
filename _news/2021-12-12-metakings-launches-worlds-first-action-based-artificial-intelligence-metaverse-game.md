@@ -40,6 +40,17 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Tectona Releases AI-Generated NFT Collection In Major Metaverse Move"
+    excerpt: "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs. TEL AVIV,"
+    publishedDateTime: 2021-12-16T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/p24651670/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24651670"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24651670"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "OOk4+AFAwx3g/o2VXxueVVYHMamh4v2t7qkmTpo+eXIa0JIYdK5Hlm2Suv6CbFfZA4aP+p39UumqtkG/qS/e/LuAePuycHaLPUKnaU3ZCNccxVCG8nUPLXY26FyLV7IDlyB2KUdr4v8PxDnuCRx2DKbXue2AZ6BCyQVUVE8Ku1csyEyDoMiwiYaarC1YrLZVKIrU2rIBWv/7rN7wVYb2oBpnw7wjrTH+CCKerW90E1tWG8uPuULP04lXDasOWkuJwq64HFR+98XqhwwcRwRSg0kUlFxEBnjWxsJzxUDH5yoyoz+o7YgIGqpU13g2+07k6B79/gNFMxucTStSgx8/sVmgynSpnQiulGuNQ+Q/Ba8=;Ny/iuKNhFHBdSvq8MZMmQA=="
 ---

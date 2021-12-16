@@ -2,28 +2,26 @@
 category: news
 title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
 excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
-publishedDateTime: 2021-12-16T14:55:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
+publishedDateTime: 2021-12-16T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-1031050451"
+webUrl: "https://markets.businessinsider.com/news/stocks/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-1031050451"
 type: article
-quality: 28
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "OctoML helps enterprise automate with ML platform for the edge"
@@ -72,7 +70,21 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
+    excerpt: "Innoveo, a global technology firm and a pioneer in enterprise no-code solutions today announced their strategic partnership with"
+    publishedDateTime: 2021-12-16T13:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-301445933.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1170184/Innoveo_Logo.jpg?p=facebook"
+        width: 1280
+        height: 670
+        isCached: true
 
-secured: "MpDDU7/8HDjImiyPppCj8WQUJgy1ywyzOSRwfTKumkWgwoUpp7RNHFkWCXv1DFiJ2RktQNW5pl+9ClbRkQMUe1Ss1FvX849+HFxBUbjh4RdCiQwxkC5iwDMj1vwmonFNl2gqd4zVTpw9MWUlvPno/JeP3CkDnVdLelywOQlR1i0EoGCJ6MawY5ldLd5q1JGDmcHGsgq+wBZDmRdE7c2brCFLdMV8cCb0KyDkf2gsWuGgktzD7fqQrlbfub8vBLrts6uGFGkenMj7sN87G2qT1A/qLKRxvfGH0gGs8thesNp90Vq9cOsANAdXRJjCOvVx6aqhX3Qo0/z4goTL0zHpfwgjB98uqYAGUzbY7AnDe/Q=;3JnCIm2gg/yOlTXL4nE0PQ=="
+secured: "vjUp/WzFKQYzQ1JR6aGMGeGx1MIeEhlxA6CnVhw0RTWxcVtuxUGVtre6e1bS07erBBQ4JlBpT0cVuKglMzLZMQJeKPlQhLOaKx4VuGEeaoQO6IzM01dDzOhIeDfeflFjKANa+dk9PLIh1aKzQbdRW+CE6nDBcpcFWgvP/Ew7X2aDDI/9uMZLZsPhlzjnDH+OassvUYFI0V2AXXQOgCLbaPKQTppEl0xbUdMd3173moKbe7+tZWlGPJhkZEehcPPCfewTpxB/t2Gb2BciE0vDflN+wFHfFwbJUKi0bCVZTXU0JQ80di+jONMVGFppT5o62FtQ8RjLuNbVZxCuCyrrxnp+xg00zPf+7tl0f+GQsMo=;GjWxdSV67ws9vIvTYNlVGg=="
 ---
 

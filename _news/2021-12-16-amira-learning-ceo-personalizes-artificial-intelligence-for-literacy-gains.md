@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-pe
 ampWebUrl: "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58be71f71a1f3001f125%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1DIVeYC+AbmH50CmJVl3ZXhuYuNiHMqqcmDaTbNHreP2tRo1vvE9RiwALv+7zT/rLBXFvQJW5UdS0q+iZYFQirN/xmW9/5vZbi7QIwRMdNtlKtf5Yi1pwaOAZ2fmAQ+wrKQs6DAaOnFkgTDcLrXaQVeWvkHFoSx/n1EAJ+kIa9Van7z+JkSlW7jmjX/8fhh94rJbAzpFU1blkHRZuD2eiw/FseoZU4KFA8TdVU5T3yec9mPF3hO6WhN1SChXk86DBLvMBBP0WlkE8DZGHqLpDXrACta43IQqKU1UbaT3hlTDMN2BQx0BEaCnpsRTIKa3RLt1jxXlsNwGVOjqYQg6IrGAIy55PmAJz7opCQdu9eM=;Hz7mzNQMjLajgLCdEut/PQ=="
+secured: "Q7GwZMNYfnxMPvSBbHJG0tfJcQJbEpzZZJil9RwmojEmPuRs0fbK3xe2kp+tdioWuw2daMSPAzQfsyhqltlzC3sCoDncZQG+DgmPtR58fhteeCjSfsmQ2CKAOv9yKQv3bQtLSKcC/wF3A5rgyXXPdSgu/cITHbroQIjHyXz2ppf6iIE4Faqiw4NXJmmvzlt5yZxiczownGyxNFWM6cNBGmi3RJGhrHUs+JqTE9tmyhB1uJndkA5P8TiNeXm16hk4s+tWFy7TfCqGPp1k6PUZSTpI/falMT3GOxexMvjj3IgWWSlomxKxRPlnag0WHsQU4eqaSRyXlrFAUNpaOWRxsEONNV20sDtFDtYoXnFPbEX/RG5SAxMg25uZ/enkXYjDip120E/rXVdfuSz757XkTa4RgFCfL63ejz89cWv/jRipEa7QA3QKMF2WzP5vyCQ1J/VqPyF4OUMRZq7Fu46mS2N1H5UUoWuqXBBo63/JiD65zE9bzISvH8btcmbDmsfeu0O/hnfx7xzBg0yVAJyeug==;MDP9btevqsK3aBDk6iLJmw=="
 ---
 

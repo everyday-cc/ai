@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     height: 1200
     isCached: true
 
-secured: "sfNu8sR+oBRqpHFrxTAy6dEAl7Qi42aQXjSRz2F36uvINznfGyh7N5Ja2huVCNwPEEKptAIwPBXJpZDCXnyI0EwU2ui7kDckoBcdfKVwZ+3u/9T2PSY2kW9BpFyjS3/9Fxdvn3JAv/pSXWhcUBFOP0duHsh3wum7IzAqYhfME8W463rNa5jqDzLq0f8QwutFgasl8OSn+0eNmu5RXebtAeH2iMXcTz6Os9t8GJMWsojZLNPYkT3NuXFAFLK+Cp+XUDvDHftz8fBEVP16WvJj2S97gMiVsOzxVqRSvi40KKxMdUbp/QjXqyjK4L7avXppgYQWte1x0wqIgELDPyM7JhZ8L+yyZHfJixHCrXy8ir4=;vqW3ERmCW+vG6UIag32NkA=="
+related:
+  - title: "Artificial Intelligence Can Aid Early Prediction of Incident Dementia"
+    excerpt: "UK researchers have developed machine learning algorithms that determine which individuals are likely to develop dementia."
+    publishedDateTime: 2021-12-16T17:41:00Z
+    webUrl: "https://www.medscape.com/viewarticle/964954"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 52
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/gty_210825_artificial_intelligence_brain_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Artificial intelligence could be a new diagnostic tool to predict dementia"
+    excerpt: "Researchers from Exeter have found that machine learning algorithms can accurately predict dementia within two years compared to existing models"
+    publishedDateTime: 2021-12-16T08:00:00Z
+    webUrl: "https://www.alzheimersresearchuk.org/artificial-intelligence-could-be-a-new-diagnostic-tool-to-predict-dementia/"
+    type: article
+    provider:
+      name: Alzheimer's Research UK
+      domain: alzheimersresearchuk.org
+    quality: 35
+    images:
+      - url: "https://www.alzheimersresearchuk.org/wp-content/uploads/2021/05/BCA2021_company_2star.jpg"
+        width: 1285
+        height: 2173
+        isCached: true
+
+secured: "lSIU4tfDyx0SqfqQ89gLbU9LwJAbNPJ/Wzm1AdP1K76SnY6r9+o1bIPhczrlENIrfNWdNYHCXgOA8FLw/i7LgK2wZSptsDmLkWNia665QUwccuRDK99qVgpfHwrGG0EFcX2DD6jQOEzUimv4k+L9IDlCWul3mjZQpsUSldKERWeVGw8NZgMJ3vvsMM0BTdzToVbFRtJA6SstXZP/oxBEmYnHSR/Py2smb3yVMVCH5Y5L46wfd2j6DQXcqZkLHSUeIKiS5xThLCKXror0wI0djIw4KdVC4MfsAiIUmrUkP3v8rx063F4Z6qMBYbEy+rY4q2QZqFc5gD5n5gSq06BhNUJVp+wh9QF5UKMbT5YvoSeKmbjmSxJip+TXR+zhVtvBeKLN/tEU6K18faT28uxIn9uZTKNAqKJppirvewGIlMA2m/IxcOnBkeSeOsH+MdOT3h/rTrkT7QLVnMASMh2vG6t702hDpbSuVdjTlW02i4zPjBkT5jzSa32EP0N/75Yx8fJPHG/IrfWbbv/HY31sRA==;uWaBZ8MWPvrp4z121oxDTg=="
 ---
 

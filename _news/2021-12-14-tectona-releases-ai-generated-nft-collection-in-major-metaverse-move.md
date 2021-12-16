@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generat
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Tectona Releases AI-Generated NFT Collection In Major Metaverse Move"
+    excerpt: "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs. TEL AVIV,"
+    publishedDateTime: 2021-12-16T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/p24651670/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24651670"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24651670"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game <br/> LOS ANGELES, CA, Dec 11, 2021 - (ACN Newswire) - Metaki"
     publishedDateTime: 2021-12-12T09:46:00Z

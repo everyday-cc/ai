@@ -2,6 +2,48 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-11-17-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19.md",
+      "title": "AI predicts which mammals are most likely to spread covid-19",
+      "excerpt": "Water buffalo, Sunda pangolins and mink are among the 540 mammals predicted to be likely to spread the coronavirus based on their biology and where they live",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/",
+      "originalUrl": "https://www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/16160559/pri210570719.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/",
+      "publishedDateTime": "2021-11-17T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
       "title": "Robots, big data as Gulf nations bet on AI",
       "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
@@ -1105,40 +1147,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-computer-vision-ai-artificial-intelligence-camera-market-strategies-2290-high-cagr-industry-growth-key-players-challenges-and-forecast.md",
-      "title": "Computer Vision AI (Artificial Intelligence) Camera Market Strategies, 22.90% High CAGR, Industry Growth, Key Players, Challenges and Forecast 2027",
-      "excerpt": "An international Computer Vision AI (Artificial Intelligence) Camera Market research report endows clients with the information on their business scenario with which they can put together business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2464467/computer-vision-ai-artificial-intelligence-camera-market",
-      "originalUrl": "https://www.openpr.com/news/2464467/computer-vision-ai-artificial-intelligence-camera-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2464467/computer-vision-ai-artificial-intelligence-camera-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464467/computer-vision-ai-artificial-intelligence-camera-market",
-      "publishedDateTime": "2021-11-16T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

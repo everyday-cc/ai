@@ -181,6 +181,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
+    excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
+    publishedDateTime: 2021-12-16T16:19:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2021/12/16/fintech-startup-justifi-raises-6-6-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
   - title: "Silvergate and EJF Capital Form Joint Fintech Venture Fund"
     excerpt: "The EJF Silvergate Ventures Fund will seek to invest in early-stage operating companies, which are developing technologies that are poised for broad adoption in finance, such as real-time payments, digital assets,"
     publishedDateTime: 2021-12-16T14:05:00Z

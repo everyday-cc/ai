@@ -173,6 +173,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
+    excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
+    publishedDateTime: 2021-12-16T16:19:00Z
+    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2021/12/16/fintech-startup-justifi-raises-6-6-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
   - title: "Arlington firm launches $25M fintech-focused VC fund"
     excerpt: "Reddy is the co-founder of Irving- and India-based VC firm Naya Ventures, which rebranded to Dallas Venture Capital last year, and founding partner of the Southlake strategic investment firm Stride Growth Partners."
     publishedDateTime: 2021-12-15T21:04:00Z
