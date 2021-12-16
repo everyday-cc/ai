@@ -8,9 +8,9 @@ webUrl: "https://cointelegraph.com/press-releases/humansais-heart-token-gets-lis
 ampWebUrl: "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 145
+heat: 145
+published: true
 
 provider:
   name: CoinTelegraph
@@ -25,6 +25,6 @@ images:
     height: 493
     isCached: true
 
-secured: "oEuZ6X++hwGni+iukv7PM0h24IyN1N80WOl35gudIGyzhEgR3G3dDJHNLh1bp0JSoTdbea7P3B7LF0y6HCMIH6ShRSLs4x+nZgmr0AJ2PvXXUio/lLjHFZj373MbxJ3pjnrt4f377vfddEMr1igSc7CDzegcc8sVK44W+uM0phOYoIm1oQVpB8kIDbNSC1alwf8Rb9/SWPumfX8hGr/MlL547gpe/Zuet574mzBpmo6piHPe4RkqqfSpcZaOYGYMqMkimvyo29FhD6RoCmmUgj/9ynMVaT7Xbx8LwrzENmgrIW3xfywKryH0yX73GBJwTNLCOqZhByCTIXzUTWC/rwevdahxuDuZNSq6HZ/n6oo9UXmtYE0clAAEr3g3oZMGGoRkmPU8eOuPdtHwFQfntVAUldGeceEr5z0RJPTGTKQ5TcgWiRQgQipKpozZxtNT/PBxc4FMUAHvPSTGff/NYzcPbAGO+1ZAWdFCQrPEToE50Kn3IjRG2+z5zTi0umi9n4t3fRDJXy+BJstOApJn4g==;+EZym4CoKLXK+lh3gQvJ4A=="
+secured: "GrY497233kv4yzzG2o4J/WXuCBbpSO5LEEWjofK5Bg6v3y0OwW/TyTtKZDqqNgUMtw3AAwU1yWCZPBsoWExvFDXK4kFRe3WLWREEeSWab3MuhuhMiVdpzW1WV8IPP+4VpeZUQIUPYem0UMiKvYqHth6UqN5h6OehY5QS/NrQpanTSlSyjjGTtp6Km10nlWtvHd5FBUnNxRT/X1E31EprprUhfv4PBbhjXSwaxaZE0d/l/xIXBhqahPQmM7QGFQ6mfgLj+FWE2yMTkQZbYfNMgW7rIDjBhyqYjxitbvWSzQW26InGiAEo/E2W23OzAygQfyXkpCReFJ2ur2lxmM8mAnwilMljHIV7nSpvZ+uU8tzYbAtopeK2S+xka9vizZdpnZsxrZDFXq+k+umDmmqlIoZzltWvnQjgw0RIIiRyLkytinTyvtPbL8o6ROo8UDDSg+TrKV5+Cxp7muVL/SqPKSAMXb+hE7t4zQiFzYRyrThswl2Ywg6YL0pX4m9qDSQp7YzDVs4rwadFz++xtzGAR0dSABeiEt/9+yXaHUMm/b4=;gnKDIsyE7F6aKTMQ5M1x2w=="
 ---
 

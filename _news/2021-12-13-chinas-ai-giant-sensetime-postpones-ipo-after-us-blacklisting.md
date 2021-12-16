@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpone
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chinese AI company SenseTime postpones HK IPO after US ban"
-    excerpt: "It added, \"Our AI ethics council, comprising both internal and external experts, ensures that our business strictly adheres to recognised ethical principles and standards. We have developed a code of ethics for AI sustainable development, and we ..."
-    publishedDateTime: 2021-12-14T03:22:00Z
-    webUrl: "https://www.marketing-interactive.com/chinese-ai-company-sensetime-postpones-hk-ipo-after-us-ban"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/hk/content-images/sensetime.jpg"
-        width: 800
-        height: 444
         isCached: true
   - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."

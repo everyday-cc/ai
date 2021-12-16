@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1087
         isCached: true
+  - title: "Nvidia brings AI perception to ROS developers"
+    excerpt: "Nvidia brings AI perception to ROS developers December 16, 2021 by Mark Allinson Leave a Comment    Nvidia has unveiled initiativ"
+    publishedDateTime: 2021-12-16T13:09:00Z
+    webUrl: "https://menafn.com/1103375970/Nvidia-brings-AI-perception-to-ROS-developers&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/16/R&AN_4617cimage_story.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "hxdCgf8ArIKtS4Egs4qaJZ/Hrvt2i1XafQBahd8GKwzCH8/PAoR+Cq3q2KEMUwtJjePHs0xZO62L4jL6bqji5mbFDXuwfE9ZjnIRVMj7T5DyPWkypP/OUrWMeXllWbt/XnOngH8uKOlWEuwhCD8bd40QbYoQ9YWTmBPy1vxis7MXVndMDleSJjxmQtHSupKIofr8/cix5pqsPY0WkEQ75fUI7B06WzznyfTtje1O2F1kMzQgKjnBoq25FR3Rx2Evxz2r9FVILufD9jUCclkGxWrQ+0qgqWsUvCz1Vc3oAIIB+SA0akI815rz5exxxyy0lCPJVJpzgfJEG37KukF5DCNweGj3iZkjHXMwlH+nxgg=;y26RRpu4cZXJlxfaOr1taQ=="
 ---

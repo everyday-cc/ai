@@ -25,95 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+  - title: "Xpeng Motors fined by Chinese watchdog for facial recognition breach"
+    excerpt: "Chinese automaker Xpeng has been fined by China’s local market watchdog for collecting customers’ facial data without consent."
+    publishedDateTime: 2021-12-15T08:27:00Z
+    webUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
+    ampWebUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
+      name: TechNode
+      domain: technode.com
+    quality: 59
     images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Living proof of face recognition"
-    excerpt: "Millions of mobile users already deploy face recognition to unlock their phones. The use of face recognition for digital life certificates is a smart way to offer convenience to pensioners"
-    publishedDateTime: 2021-12-12T17:21:00Z
-    webUrl: "https://www.business-standard.com/article/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
-  - title: "Worcester bans use of controversial facial recognition technology"
-    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
-    publishedDateTime: 2021-12-15T21:27:00Z
-    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 39
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
+      - url: "https://technode.com/wp-content/uploads/2021/03/Xpeng-at-a-mall-in-Beijing.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
-    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
-    publishedDateTime: 2021-12-14T18:02:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
+  - title: "Chinese man used facial recognition to steal £18,000 from sleeping ex-girlfriend"
+    excerpt: "A Chinese man has been sentenced to three and a half years in prison for pulling up his ex-girlfriend’s eyelids while she slept and transferring nearly £18,000"
+    publishedDateTime: 2021-12-13T09:30:00Z
+    webUrl: "https://www.thetimes.co.uk/article/f7593886-5bf1-11ec-90d0-c463baf3512f?shareToken=49c9dec5a015dba8a293c093037d6f65"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 32
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
     images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb8dfccc8-5bf1-11ec-9cd9-b6f698a4b9a5.jpg?crop=8500%2C4781%2C0%2C443&resize=1200"
         width: 1200
-        height: 628
+        height: 674
         isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
 
 secured: "4p49lwnkDqcN6YBIYhxNyGtsxr8fmMxUCLA7qmAvujY1w1CVd/pJUD/7NoqOJfmt/pY6ly8dZzkklAu+bBcX2PB68ksI4JV66iuBC0SPQ/3+8mWff8kSufsc4E8exqfNxrd9N9Stbo4LG0DC5cWnTZC+8+NDYuLwvhugIopzwr4xttrD9fyTSa25MZ0n1Sw2c18CIRzCqVci1XI0ZLgQx17+UbKQXsQ+Ph6JTwfLytPk5eyf632KDN+D2kYqxDrD+51QeA5KQBz7sJC2OR6o6PAe64V5ukhNZhIsXiEyaGso5cOTlSGdgOh09wvJeAMH3cvu8XhS2O6VXGF4SbQgG0U8Sz7Fnehu6kyzDVo/bBw=;kvDTzIBHV+wSsGGF+vbo5A=="
 ---

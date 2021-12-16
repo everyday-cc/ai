@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "France Says Facial Recognition Company Clearview Breached Privacy Law"
+    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
+    publishedDateTime: 2021-12-16T11:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/france-says-facial-recognition-company-clearview-breached-privacy-law"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
     excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
     publishedDateTime: 2021-12-14T21:35:00Z
@@ -86,6 +95,6 @@ related:
         height: 456
         isCached: true
 
-secured: "DyLax3qACgQjrkc3MCz2MqrgFhuMmo4B65kz7TIb0whxCHDhth3LefgohzmQJwWs4Ps6FmCMQVXahF8muFzza0hMuGahqSe6zA+8Xp/DBnHJ4vHy6kW5kMxnCACjrbKYyAH/JqPUjAFQf5WP/BvBW6O6UU3nTkaGCCTYksNwPLs0rhBV9n3sygEZV7rlbmLAe8q6oKBSXl9LPca8V1c+DScArb+AkloLI70TdAPrtp223EGzy2RerpJoXf/PTk437d3W357+r6aWfe0pnWpPhN5tJL3g0+b1rfAbsPoP9uEW7gWEV3OyMWUeJgeb2QVWy6AtscMKxQ9c69yVfTDIgItpSpssRNbCop0X5xj2Xa0=;37YtfXrYGKpL4H+hnbCePQ=="
+secured: "aXYaEjjWQ9JbfqJF8I8nUlcw5QhIdwnZiPvcxw4YTPQq7HCV0NcNyhqE7BD9Xn5s59ycKg6CTnmiZCEBl5/qpj/xXEQjMLiXyvuizfJyxMeV5zx0VXmHXcNsmzzge8RQood8AR3dO92ssnjQ7bk+7gEt98txL15mit5B+UNOVIwBqLQW98NmDg3yeqdfkK/PDmeViR7i4OTZBi8rFMn0FI+6arPSROUvfGstPSKLlgX+MkZArf6DVZNRuZ9WJ0CYxv1rcjeI3fK8PCtYXmJ3ocsYvlSx/PgiwN56O9yjUpfTnEFchndQnUOyxSyDeD0RsW/fGkBzYtGROAPqJwO5Tco5TUwQH7IaeE5UWQ3H4X7NbA8KFDEI2saFSOKsMW2+l3km2zEmJXx4S/pum+vTmIyGaIdI42wR4h4kSSyMSmaAh8B2aZOeJHHBvQ0oLmqcu4BPushNzwsuvY2coy2ix1/hohc5/938j5T95XcWClFASjlK3s4E+aaAOCDr/4e6iZMDfOZmdg0gsnXeFvNz+Q==;sBROO7igx38/0kcej5eJig=="
 ---
 

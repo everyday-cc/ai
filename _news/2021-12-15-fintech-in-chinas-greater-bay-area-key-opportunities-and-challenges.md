@@ -182,6 +182,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Silvergate and EJF Capital Form Joint Fintech Venture Fund"
+    excerpt: "The EJF Silvergate Ventures Fund will seek to invest in early-stage operating companies, which are developing technologies that are poised for broad adoption in finance, such as real-time payments, digital assets,"
+    publishedDateTime: 2021-12-16T14:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-silvergate-ejf-capital-form-joint-fintech-venture-fund-/2021/12/16/9513144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "tM7SEYUMilSXiJf5wlNzBJ6VJXpBH1PzoDojv+9375nFTwAqVdZXcdKYb507aT4YKeUm1nmcPPnIC5zKgGlUp1p0O8MHTEFOxiNhiunHScR1GDNstDMre0rFAb89glfkNwSlyH5QNQMSrCKZA54IRAuzyGUyTyXTuBcayznlxAhjwppve29b5OrEqD3nCytgGf0RmKeTHv1t0ZsWRKgYNFP6yxmbR+50elizBcMe21V/OeKI5IGV8I4GjuEo9FknxAHY5NPXYUAKwFpKNuZV4wd0QgzXmm89eimBEiNtTc7xpuRhlS4+MTEqwI9Jigva60Lea/c47eTf8BBy888/vIZ77EcW5hER9VN5GQMhaPAWWfL0QOZ/hbAIcdvH+Ve9QMdC8T1t6VXJ7aNRi2+WbB0Z/RStO1ysOu10FUz+br52GOXItMZbnTMQ1843Z3xDs1DhyjM0s45zInZtq9/rBWnMxkgApNjHfszAPOlAMPvxBJCbB8SnyvmR2GFUIh0MKDAH/SwZ9+v9khJWIsvgEA==;A+G0aFPjtWzMToAx8trWEg=="
 ---

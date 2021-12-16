@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elementary raises $30M for AI that automates physical product inspections"
+    excerpt: "Elementary, a company developing an AI platform for automating physical product inspections, has raised $30 million in venture capital."
+    publishedDateTime: 2021-12-16T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/"
+    ampWebUrl: "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Signal AI, a ‘decision augmentation’ startup, raises $50M for a platform that extracts insights from the internet and other public content"
     excerpt: "Signal AI, an artificial intelligence startup that trawls the vast sea of internet and other publicly available data to provide organizations with sentiment insights and other information to make better business decisions,"
     publishedDateTime: 2021-12-15T10:38:00Z

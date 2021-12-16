@@ -1,29 +1,23 @@
 ---
 category: news
 title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers' Financial Access and Decision Making"
-excerpt: "MoneyLion Inc. (\"MoneyLion\") , the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (\"Even\"), the category-leading embedded finance marketplace,"
-publishedDateTime: 2021-12-16T12:24:00Z
-originalUrl: "https://www.lelezard.com/en/news-20160445.html"
-webUrl: "https://www.lelezard.com/en/news-20160445.html"
+excerpt: "MoneyLion Inc. (\"MoneyLion\") (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (\"Even\"), the category-leading embedded finance marketplace,"
+publishedDateTime: 2021-12-16T12:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "f0YJh1u4BKycAwpH5oRGDSwwvMAcAEGzxcBmN2wetnS8exnpGKreqP/22VdO4ioujaJVDuSV47T22cT02nFn3/VXnbX3wnDy7ufY6kDTGWOw7Dd+9rRN02Qo33YPPuM9X4oTQcj2A9RNIAZQb6HyCQPhcSvmwws5fCQrv3efDYERQahSE+lIHYxlKGkNyUPvFdPEDKD7piMM21pMhytCgizRmE4Tdo8DIzZ/Pl624y9GtiXfDpkq4kia5QsFRcym3Qizk2AAUlQQiS0uQDwyKLHpALTBd3xxskYvn6iNWsyeceZQvsb3+sjUKIUCPDi3Nm5JAyziD5PWX+3jXtYVV6eOTrnGvpVcrmxN12SQK3o=;++HPvwMufy2yK2zaq1gfSg=="
+secured: "eYEVfCdTCOr0NERwB30CQVT1Fbd5icKnuwIWukweFhMsnrdfmfdYyGEsoJsTsO1c7l84lDw16liy6rEyd/3zMsbPkfRaQWeZM8x2BwFsq16cNcROgwO0Nfsf+Ba5eXBoeLXWvWz0eqXhQzxHib5hFwTmvw22pjp64FKnHGwpt7bSGoCS2/PzE7KjqT6t38bsSNhrtt3Yk9sREbdTJN7FcwS0S2hWKzIsyia9VbRgNgf3CTENVVQmEpHw8oeA+UwVXG4dWScodcEjYThsbdB0ItaHdPL6WILhlXZJjB6VTdKq+HPxfqzwn09uTywiezziyxV6IrHURN/hEUYOhN6l+ayItlf/tWNg2O1fwpV9hUI=;8rl68VvV8w974BEOPJgquA=="
 ---
 

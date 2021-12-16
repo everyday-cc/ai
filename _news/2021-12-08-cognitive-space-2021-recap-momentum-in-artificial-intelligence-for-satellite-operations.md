@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations"
-excerpt: "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic, environmental, and national security understanding."
-publishedDateTime: 2021-12-08T02:41:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html"
+title: "Cognitive Space 2021 Recap - Momentum in Artificial Intelligence for Satellite Operations"
+excerpt: "Recap - Momentum in Artificial Intelligence for Satellite Operations Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic,"
+publishedDateTime: 2021-12-08T05:42:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/4b/e4bc99db-b225-569e-9c54-7a882c1f592d/61b04eca9c26a.image.jpg?crop=796%2C418%2C80%2C0&resize=796%2C418&order=crop%2Cresize"
-    width: 796
-    height: 418
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
-secured: "A30U+dfmJ0OiQ+1hP2HVLrtxrhaxbR0GGyXPMLI3RS9JGp0N7h8TAc6lNzVDxTGJz/RImSK5YNwiZlhqrqH1OxUQMuMCK148V06tUh6Z3VirPs1TdNY+2lp1JQgkcgaM3JtsEKBUltXS+UBYXTpHCZOlWpc4LUD/fE4JgNutiDlc9CqGkyZ9k9yZ2nMdiwT5oc+m7yiFtq4X58s2kGsXTC40IbEpOr2zFD4hodzxOzD66KsHADSgLKCgP8prYhNUKxAbcmfIaGPQspthcnGjCFg5lDQsGRZGwg9fEab9XJkyfFxu1EQJAmtmcrJaHJ6c6MNZluCh/I5Z7WZbc9pbiLvD1gWHSzOpfMRoje7Ff64DLMbAgh9ysqJSYgkKKzpzOpQaQ1NKlNwGLFv6VKvT0SsQSPExVQ0sWpVvc0acaQ5HvyJGwuQWDBWxWq9nfBedizMgazFQkGncU1+seFLhnYuBgxXc4FbKIGAkAS7qmR5Mfj182qsUJvncfZxZGGvxTAuoya5Eh/Vm6JEWqZVu9A==;zl5/7dWSvVkZikQ+QhunEQ=="
+secured: "k2+9Gn/q1oIfgTP333f8fFUlIh4ES7gxvglpfK9dseUGc7nLf3uk0ufeMmBZcYBdxmKRHWrTHlU0m2+LgkvDhV+cvcpKVVwSREUK5wXU0i0UlSRWFdTToRXbO3XI3QSb/S9jNSyLUWYww1UX9QkKFBJjYIPbkLIzSsyk0Hzz1ChZbcegIqRtU8TdBua7ekgWUZmgVTLH4dUkYYxevQKc3enSnSCftPQlIaX8UKJDEXd/8oSy/qoW1y9rny+uQY4/dM2ttkJlb4lQ3TO3COFGoy4loDNYYARio69fJ6+Iy/p1CqgI+7QAVBKQYlmDqAC6oPBtC5/Jk6sUDS9+isMMF0TJdXKQx2f9ZtSsQbXS5os=;Xz5Fd+cn12W4wuHL3Ayh7w=="
 ---
 

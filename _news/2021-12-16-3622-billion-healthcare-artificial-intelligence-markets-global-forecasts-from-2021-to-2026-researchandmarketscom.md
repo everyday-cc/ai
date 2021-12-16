@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The healthcare claims management market by revenue is expected to grow at a CAGR of 4.79% during the period 2022–2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Healthcare Claims Management Market - Global Outlook & Forecast"
+    publishedDateTime: 2021-12-16T11:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24640377/the-healthcare-claims-management-market-by-revenue-is-expected-to-grow-at-a-cagr-of-4-79-during-th"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24640377"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24640377"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
   - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
     excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
     publishedDateTime: 2021-12-16T08:13:00Z

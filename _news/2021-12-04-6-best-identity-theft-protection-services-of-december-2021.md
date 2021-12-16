@@ -1,26 +1,26 @@
 ---
 category: news
 title: "6 Best Identity Theft Protection Services of December 2021"
-excerpt: "With Total and Ultra plans Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web,"
-publishedDateTime: 2021-12-03T18:06:00Z
-originalUrl: "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_db5993b5-164d-53f0-945c-a5527693b116.html"
-webUrl: "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_db5993b5-164d-53f0-945c-a5527693b116.html"
+excerpt: "Identity Guard uses artificial intelligence to identify possible fraud earlier and send notifications faster. Their scanning platform is powered by IBM Watson, a supercomputer that can analyze and ..."
+publishedDateTime: 2021-12-03T19:42:00Z
+originalUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
+webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/6b/d6bc2317-cd00-5df3-ad8b-8cee75b92601/61aa718aea22b.image.jpg?crop=1762%2C927%2C0%2C0&resize=1200%2C631&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/38/d3804c59-fba1-5804-9dd1-6d5acacfb720/61aa718ba7be7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
-    height: 631
+    height: 630
     isCached: true
 
-secured: "99IUbmahWs53LbzEnpxWlk+rDQd4Xs/im2lLmNI1L8Rw40oU+JFnjWcfKt3se7JMz8lf1g+wX+Cz/wdEB9A4hQhNY8wyLWNe5iXE7F7YYfHQqL+b3i4wSzSOtN8jAo+8ztOLrqplXWnm6B1tEgBwv2f0bIGlx2uKAGXRnPaaiSaXxmcPQDF+W2Sf5RuQjlPDF+XsBU39s5ezb503lFZO+wov8Y6sa4ohbM1S78nuBip+9oOvtzYQdKQqf+kZ4aqt2aAUW/NQF2sD8Hz48LPw+i7H588shlVOdLqC2HE0+P/VvQdDXPRUHpYHfOpx1AyF95PtIMwe+IRucvdk8C8/SaM0d1vRO5e7F6ja2J0lWAk=;49eZV6Y0rlpO1sg69jtifQ=="
+secured: "VXOaytlbR+xj0nDOnZQHpT1XZOKQtB4NJ2n03Aiy3HkvHYQnTbXbgZWnDkTA6EWXq7iCja5YPtJrku3Bd7yAaMQ3oML2+7JNyzphd8VZRWpG3HBfO66LUsyKeTbKIVFP+dwCSzJs71cist3q+zYPsn/UBEsAKd02demmS5rLmf/tcXmsn6NAxEeSSO7grC5pzuzSCGFWfVlfZAm6vAlnakW97TvebK72SK+b8SLt1EGoBrM2RU74AdNpBRbs0LJ+GpBVwj+3COeqHabpgxQzK5F0wSCwrnBuokpCUsiGLVIwLfpFDO/LWPeW31DZx4hl5pO3oIUwN+SCr8O8wrAzLeynoojtsExWRInWIcWfD1k=;j0LK+YiL3m1SZ2+qWua9DA=="
 ---
 

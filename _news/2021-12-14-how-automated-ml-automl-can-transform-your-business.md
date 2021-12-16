@@ -7,7 +7,7 @@ originalUrl: "https://www.enterprisenetworkingplanet.com/data-center/how-automat
 webUrl: "https://www.enterprisenetworkingplanet.com/data-center/how-automated-ml-automl-can-transform-your-business/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,49 @@ images:
     width: 1300
     height: 867
     isCached: true
+
+related:
+  - title: "OctoML helps enterprise automate with ML platform for the edge"
+    excerpt: "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization."
+    publishedDateTime: 2021-12-16T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all"
+        width: 1200
+        height: 548
+        isCached: true
+  - title: "OctoML announces the latest release of its platform, exemplifies growth in MLOps"
+    excerpt: "OctoML is announcing the latest release of its platform to automate deployment of production-ready models across the broadest array of clouds, hardware devices and machine learning acceleration engine"
+    publishedDateTime: 2021-12-16T14:40:00Z
+    webUrl: "https://www.zdnet.com/article/octoml-announces-the-latest-release-of-its-platform-exemplifies-growth-in-mlops/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/octoml-announces-the-latest-release-of-its-platform-exemplifies-growth-in-mlops/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/octoml-announces-the-latest-release-of-its-platform-exemplifies-growth-in-mlops/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/52ecad14852e6f62ef5458c70c8d05f72cbb45e6/2021/12/16/e2c47a14-fdc0-4438-98b0-71887b8fc5ab/1621981355-img-18.png?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
+    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML"
+    publishedDateTime: 2021-12-16T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-301446458.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
 
 secured: "k0E9CMg33YHa0bAZiwclMqM62oYYujUOY1P1VJgsIypuouaGTQWSzUusmGhQsWvcrGToEetDxJOJJiY9ZihoCe7D9RjBDRmqfS+pozisOFJ7ViMlCOUxniI7fe1ppr4zgARpxoqcLMNqupLExZIbrMcZbEBPCnBDXsNL92/PT0Jp5BF0al5Voehu/k+qCKskuSKFkKMLMM/wC3yW0Anrs2c/UCfFuK12PmO8ZvaQe5OF26lTB3mKqAK8WJphG6muQq/xinYYthCHP2lyRAXXPyoj1nQSo+tlVQKH4DEAl1IPL32cLIx1dVsILx5YifkOtZwBuM8UG9Ure4gk/fE5a5FVtCJxYHlScm4Avh2ZMs0=;Vp96dNGxRzRBt2eP+Ci7fw=="
 ---

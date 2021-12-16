@@ -109,6 +109,15 @@ related:
         width: 340
         height: 400
         isCached: true
+  - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
+    excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
+    publishedDateTime: 2021-12-16T14:20:00Z
+    webUrl: "https://www.telecompaper.com/news/mediatek-launches-dimensity-9000-flagship-smartphone-chip--1408109"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "MediaTek launches flagship Dimensity 9000 chip"
     excerpt: "The Dimensity 9000 is one of the most anticipated chipsets of 2021. The new Dimensity 9000 chipset will be in the next generation of flagship smartphones from companies such as OPPO, vivo, Xiaomi, and HONOR."
     publishedDateTime: 2021-12-16T07:00:00Z

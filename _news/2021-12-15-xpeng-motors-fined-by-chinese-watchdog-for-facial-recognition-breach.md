@@ -9,8 +9,8 @@ ampWebUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchd
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechNode
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "US to shut all doors for Chinese chip manufacturer, AI Giant"
-    excerpt: "Officials want to close regulatory loopholes that have allowed SMIC to buy critical US technology, despite being on the banned list. Separately, Americans"
-    publishedDateTime: 2021-12-14T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
+  - title: "Carmaker Xpeng Deletes 430,000 Photos for Misuse of Facial Recognition"
+    excerpt: "Chinese electric-vehicle (EV) startup Xpeng Inc. said that the hundreds of thousands of photos that were wrongfully taken of visitors to its showrooms have been deleted, after it was hit by a 100,000 yuan ($15,"
+    publishedDateTime: 2021-12-15T12:20:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-15/carmaker-xpeng-deletes-430000-photos-for-misuse-of-facial-recognition-101818294.html"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/smic_afp_2018-6-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://img.caixin.com/2021-12-15/163955376422173_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
   - title: "Chinese man used facial recognition to steal £18,000 from sleeping ex-girlfriend"
     excerpt: "A Chinese man has been sentenced to three and a half years in prison for pulling up his ex-girlfriend’s eyelids while she slept and transferring nearly £18,000"

@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-a
 webUrl: "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-ai-therapist"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: BBC
@@ -27,6 +27,17 @@ images:
     width: 624
     height: 351
     isCached: true
+
+related:
+  - title: "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies"
+    excerpt: "Drugs like ketamine and psilocybin — the active ingredient in magic mushrooms — are showing real promise in addressing mental health"
+    publishedDateTime: 2021-12-16T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
 
 secured: "OdRXwxTkiYxoQ6obKwqaYjiKTVIgBGkfc4waRuLyihrNYXDK5rwl6n+k4/AJ+ef5EjAohzqTlPL+XFezoV4/RFHUV6Me+AayBgU97gGvCyjRuYt2pex9PqpkCS/AFSxJ36TR06QqWUtSYeRdUPTYlg/kWpeswl1Y9tgxqMg4x/cgdHmBjX6pv+gSUY352mES2fbAzIy+pLrYlrSfuphk/sqzzTR0JC5Iy9Svavu8Ac+X4ol+an9oZqJ2LqpAIHjbnQibkXXIdDSuSJ/MVF3oWLavAo7rjohnQ0km73UgDzREirUpQgXNPLzCASmhWB7rm2RYVNTSGIgqXPl96/NrDut3pNxTtAYvXw6msOpO5yw=;+oNlV5DA1rLRIsO+3AifSg=="
 ---

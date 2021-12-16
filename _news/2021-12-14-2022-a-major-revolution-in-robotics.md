@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-rev
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Davos 2022: Delivering AI ethics"
-    excerpt: "With widespread belief that ethical AI is a societal imperative, we now need to understand how to make it a reality. So can artificial intelligence be adopted in a manner that incorporates ethical and trusted principles?"
-    publishedDateTime: 2021-12-11T22:56:00Z
-    webUrl: "https://www.imperial.ac.uk/business-school/events/davos-2022-delivering-ai-ethics/"
-    type: article
-    provider:
-      name: Imperial College London
-      domain: imperial.ac.uk
-    quality: 54
-    images:
-      - url: "https://609200810204-drupal-cms-production.s3.eu-west-2.amazonaws.com/drupal-icbs/public/styles/focalpoint_5x4_560/public/2021-12/21-092%20-%20DT%20in%20Davos_event_banner_web1c%5B85%5D.png?VersionId=tx1IF6QDqF4Ix1115II_SD05vXo7yUTx&h=aa81dfca&itok=tipakjqJ"
-        width: 560
-        height: 448
-        isCached: true
 
 secured: "XTD/e/suCzr1X2zUvBrRNoF0bPkJkH66d7JI5RIk2yfbChl6ywSE49QPYakPLm6wq8IDDYq2RyfqtzpFOkJbCWmSLCWhl7GeNolYWfBtcMn2vfICOhBCB2oj38n1aBa2WLbYLmeH3RDEXt7yJEiCj9GtqPLy5+P5+NFQJNU2kbAKMWAG0boinIVz1xyhZsXFShPHPGwcDBwp64C13Wht6t2jz2zqzIG9LkaQ7qwU1HsWuJJN0aolTR7l9LZRFE3UdyjNQqdIexyHxfRQ3vzM27FoLBg3X3OVe5ns2PtjzZAkG5A6zFmreDk126U2i5UQ9poD4nU7SvDFg7crbdeaZe5ubMRueE4x5JyBhC92uBrZ8zfqm/85sruIzofqQSd2s+rSF/8mUJpyristnvLfjJ5Nz0Uz26qi6JEF9Jo5RLORVXb8PK5C7IHY+BVBGTEeGZBlOOw04xpCWJw3/2CsE7WJZHeR/xl+sBQoLx9Q2OjgrOj01zvLOwPCa+gThxe7PS8ELN0GtDMIWhv9Yv7nSw==;erqLKgTgX9ysNMPC4ipzEw=="
 ---

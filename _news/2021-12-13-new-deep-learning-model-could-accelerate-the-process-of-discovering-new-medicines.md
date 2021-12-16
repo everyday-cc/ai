@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/new-deep-learning-model-could-accelerate-th
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-model-could-accelerate-the-process-of-discovering-new-medicines/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 518
     isCached: true
 
-secured: "Sy68neEw6xEVDWh5o0oJkLcMyUWxcePahN3qszfskN57a7sJvpFNaJEHXFTGiTHMDdUMlQhAxkcQkaIUOpukM/IAQE6SFJHLnTS0YgnCQ6nr48REl28fHeG5hGhnn8E4RzBVeESou6oxp8Bg1T7z0iyb53gPwpvLuBMQRu2jCUKai3qfH0QL6zPjcBEfMhtVzTB9QKdB/FtXY73h58c6PrJC+pjGOhxJ4fqSQDzhgb5r/J+/PtsL6V53XhmCbIQUwW3iF08flfytLI/6mlUr1z4g0yZ05g+phSshT7XEJ2PE+H62YmhAaOudhFJ7Lp43pFKRV7fUWtfSlItK/V9kVAlVEc/BJaJmmIQGtvTGChE=;i77UR/RFdYw4mZTgsBeGAg=="
+related:
+  - title: "New model improves accuracy of machine learning in COVID-19 diagnosis while preserving privacy"
+    excerpt: "Researchers in the UK and China have developed an artificial intelligence (AI) model that can diagnose COVID-19 as well as a panel of professional radiologists, while preserving the privacy of patient data."
+    publishedDateTime: 2021-12-16T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-model-improves-acc.jpg"
+        width: 599
+        height: 292
+        isCached: true
+
+secured: "cmxLP+qGh5OqzPWbQcx3CbdFP5zbwFWfi4bUBWSgCj3x5feSbkhleiXOgK4kqNNqQXLisTtqL93/3BLsmJj7OyUDXwLpUN4jaxOpRta+UXzCfcv527pmUXXGjndnSPCaoZjlUspTWsqae8Py2/ScDUQ7zgmpD318hFgoXN4KfQCSUzolYQyly0LbN1u3hHM6vS90hxFsTkLVNq1QghsA5OauRgHqOVUGHT0cUbLd3+gSvSywaCB+aNIPtbIzi3lTFUqygAydEdoTSv8otxCippi8gdqYVC6pQrYyPCrrfqapJ6fI+szvPa3POJsp1T5KBr/NAoZPq/bPMEHWThEDzp4Gvxb3aiIBHM14AcKjC0vCmyGtnv94ftlNKcvxMZy7bX1ePyy6r/V3PmAD8uO74kZXt8Fb/FkoxWIn+IhIqtd0nGwCax9mb6H5K3v0SNibv/MNhyGbCOG1TFJV330c7A2qusEYj8VYBY0p5xmziLdd8PRii/JEcwtV6E2UV8ZocPhNb3lmjNlRvDG4DWJNNw==;vvV/xZT0YYZBiG3lmXzSfw=="
 ---
 

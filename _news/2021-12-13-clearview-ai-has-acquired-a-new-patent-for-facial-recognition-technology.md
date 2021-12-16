@@ -68,6 +68,15 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "France Says Facial Recognition Company Clearview Breached Privacy Law"
+    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
+    publishedDateTime: 2021-12-16T11:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/france-says-facial-recognition-company-clearview-breached-privacy-law"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
     excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
     publishedDateTime: 2021-12-14T21:35:00Z

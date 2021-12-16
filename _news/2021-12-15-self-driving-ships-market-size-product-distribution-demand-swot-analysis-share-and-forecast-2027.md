@@ -101,6 +101,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The healthcare claims management market by revenue is expected to grow at a CAGR of 4.79% during the period 2022–2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Healthcare Claims Management Market - Global Outlook & Forecast"
+    publishedDateTime: 2021-12-16T11:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24640377/the-healthcare-claims-management-market-by-revenue-is-expected-to-grow-at-a-cagr-of-4-79-during-th"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24640377"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24640377"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
   - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
     publishedDateTime: 2021-12-15T16:53:00Z

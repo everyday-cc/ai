@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform"
-excerpt: "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in"
+excerpt: "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based entertainment localization,"
 publishedDateTime: 2021-12-15T12:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24617947/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24617947/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-"
-ampWebUrl: "https://www.benzinga.com/amp/content/24617947"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24617947"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
@@ -36,6 +34,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "eTYCn10//d+rrZoSjq+F+sWs7VxdCiMMmi/v9snaWotKbVzbz08TXnG/OPju4hed/2fh/Of+MDEbsEk1Y5R6Pub9nOEnp3RPp6vxVlE3mr+6V2w68IBK+pOZCV6Q6JFH1ddBm/IUcD2r9jNSVXcP+xYzDYg0Wae485M5jPZbbzopkQUGWDRUnLTRTNjiMQg0u1RVm86ldIffDHqGg54ZI4L8t2+QbxK9VkUbYYQFWzpZyseCmgJi9eAFnkW8CYA9RnNE5rJm/dGdHASFIMJUqcRO6kV4yYizFXAIdaSLe5c5I/HPpIw2bvUNZoRs1ATT375zj6uGua9Mikm2Axeyuz+Bpy3BTckDD6CKAJbQonk=;JgmebfBt5/DOnNLoa3tEOA=="
+secured: "Q+v4ehL1j0Rs+cS5ek9N3GdyWBSuDPqhGmlwrOYhdWb/HpuPniUDBm4kBl1RCtzwNYsdW2mr6CFQBTrVbzOStNBy67rMM83vCrE6CXzDW7XmipVmcW1A55gXKb0yogKPQ1lQK9Nhn4Q2LnA3rTINnoXzsZm7AkyAA/iIUqiGZuCbe8T+o5YX/0yx6ukEF89WLrolg7DEce5JlcHuQO1jw1L94iTPFWUKFda6MeMTmVvv2R1P5S0A7vPCjXYY7JwFaLKGPFd6zAjYEv6xQws/6lahXdKXhPHZ1AyeDdAUvZHfkg1hQJ5G8O0HmoXuYfVEHRhTTIrPBo+GuSeI67pXy8VTA4efhxxkeg7SAS5M3akTJPLx2tJJLm4xyaikYN9utvXMMxZ8a+A/P5ePcAut02cPOasz5XlopTdr0d5FwljsL95bNh50eDHXeWnxHkbgzrT+SFi67BfWkUFhOHjZ2aZrEKv7QtokPUfwMa12PQosLpsgnmMMupHvwqESRav2xwCfLFn/FBRCei0y89mVog==;GPut8le7DItgRnuuwdYUkg=="
 ---
 
