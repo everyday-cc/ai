@@ -2,29 +2,26 @@
 category: news
 title: "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds"
 excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),"
-publishedDateTime: 2021-12-15T19:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
+publishedDateTime: 2021-12-15T20:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20159373.html"
+webUrl: "https://www.lelezard.com/en/news-20159373.html"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1710605/Ultromics_heart_disease_prediction.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -45,6 +42,6 @@ related:
         height: 295
         isCached: true
 
-secured: "/Y/Tfjoh2bjOnJVA8qPCVaDxJ58jyQqiTYGVZqm8iuijYkregfoYbN+cNvSjwXCr6ebm0JtMGCH4oBXP79U4j8WBQZLwTgCW1XSqV8vPpKz09jZfPapgSy2Duk2pMsKGnrUiu+OS+BHRIjF5qGlURpXUSWTEEWUzJ2EpxbRDd7zEmLw+ybZ+JAYrpGdl0AOip5FSexP7MuGc2qzdBDCIthghx34Y8Qa4K2y7YtZbn2GiOY9GIT8Tn0ttbyY38SLz8wUcHK45ccVAjAAiYtgiRUPdHULr2pfQJZYGrc/vybPunb2xkNRoBxg5/orPbp/Ak4TM7A6KdHl7QzpvRiEoW67vehivbB0tZYahypNccLU=;+1xvyjcQXZvyBEv1804ZuA=="
+secured: "IVaYz8xLKrG29jB3OdeF9zP1BjlDjZ2+2WfSh+1p6cMFwfI7mB0kuRCJXD9f2T6k6qV9xCBOjKRaSqjHR8NuJVMKrapdq7UO9KkdYz2GBwWwD4f1TOQphlk5ZkmLVOJns6wNRFMC9AG0LMQhVEev5pTHoU6q6LshHH7rBGnIM66Frv/D8vcKILchQ1fCXZULIFWlG7QzFXQCvGaHY7vroDzwExvv05H5WBcSJf7G3XACEAMzYMdwAaM1PRomOAKXPMaOToyXpd+IamwR3xwkqNdGrE11D2fyMMTH/kafsNTkYnqliU5Q0a6RuYQsj4DLpn36AviWGFy3JxuQUipink4fGFDllXoceZ5Kng0Nxoo=;tRSKqhPq7nVh3AA/vvDBFA=="
 ---
 

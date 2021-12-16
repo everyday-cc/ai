@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
 type: article
 quality: 121
-heat: 261
+heat: 241
 published: true
 
 provider:
@@ -147,22 +147,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
-    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
-    publishedDateTime: 2021-12-11T15:56:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 49
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
     excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
     publishedDateTime: 2021-12-11T17:12:00Z
@@ -215,20 +199,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 39
-  - title: "Trucks catch up in self-driving vehicle race"
-    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
-    publishedDateTime: 2021-12-11T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "R6B1BvKhfSUYvXDHw7ypmgW3gqOuFvhVJa2mwBMWwh4tUfaVaXEer5UmCFCiGNkZ3i1qxaRH9oxeXoJhvBKa8cFh+bnALvLc8Fz7s9nDdOgIsE6SU/TdrBrKHUvn9r1dIp6e58R8hBHORGIRDqia3Q1vfYektOKcyW11tWdOE7ZxIZPq/2DN1/ROv98R5EOWmI4zQGuTrBVAVe+p7tQP3p22SWKQqqqg8yI/aEwmB4kMhDH6CbPTDg2Ijt3tL0dZrpuAkP7zXKu+OCx5UhSYwFR00F7aLqXfDX9K6DhZ5cUwD504GdsDfXDzm9nyxOQbABuOB/hF1imc0qYhv8jKOmkHT7j7q0nh647BHrwGZxbbryCKsR3tsFKeFy1VqEiotMSSFsB6HUD7IGthQwddEoYY2F0dHsmHEQpzB65pcPoTloRrKa78D8ZswfcMwE5i33jfXyRKPvS/w79iZSP/c5BWLO7MAnpe692LM0ucuXRdeqq011MakPapeCeBofvyZn0LEmLCGvw+Sym+uI9cOg==;TchqspjhUAPqxaI/98vk+w=="
 ---

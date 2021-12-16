@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 741
     isCached: true
-
-related:
-  - title: "7 ways to make the wider enterprise comfortable with artificial intelligence"
-    excerpt: "The challenge is putting people first in any and all AI projects. AI practitioners provide recommendations for building a people-centric, yet AI-driven culture"
-    publishedDateTime: 2021-12-11T16:55:00Z
-    webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1600
-        isCached: true
 
 secured: "kN7s8C6SEPoxaHI45HqXMcat1FT3iQ2fbiWKpGtsb0wkHWABBuNq/jprqFGURWqbK/rBG/9BK2/nlDFebZtH2PZ+U2+lejbgL5jWMNL9qM0C+19Lt5GVylGdummXuTRjZ+zn6kx4+GSF+yFRKvFwVwEcC/NqQUPkUdXerkg6520zIv0Vfca/1DUTm0ZgBgzmM5Z0vSry/t4UorNoqFGLxHVvmoUqPe1sSeJZqlPzEPQgPZvYPf1YBHt2Gx17cRF9+iTunjsBXZ0GQMhCrZWMANBZrvk27iumdvdKZYu6BzM1tstjxuGQKJ+ruqSFLmZ99nV234r3T+OyGYRnj4GecS5V/c+T6bz7tE2uwgMgoB6Oorr6gmoRyCYI9Y93AWADzpnZ863qcfSLh4Z4U3Tf+RGUOeLiBlILbrLRXpJmVR+ja9zauZ19VYKSI2KB/XwxhA/WwCTTGHs3S239c7atO0Y2VzzfsAakWv5vMbqhQcIdqvlOAw4guwMWN/2l6YkTUS3TLJ7bYlk1wdMVdweCsg==;5QNnWElCrH5kaOGwq1kR+g=="
 ---

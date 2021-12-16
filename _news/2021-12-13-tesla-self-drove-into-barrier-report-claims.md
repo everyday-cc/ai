@@ -142,22 +142,6 @@ related:
         width: 520
         height: 208
         isCached: true
-  - title: "Alarmed by Tesla’s public self-driving test, California legislators demand answers from DMV"
-    excerpt: "Until now, the DMV has taken a hands-off approach to Tesla's development of self-driving cars. State legislators say it's time for the agency to be more transparent."
-    publishedDateTime: 2021-12-11T15:56:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 49
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
     excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
     publishedDateTime: 2021-12-11T17:12:00Z
@@ -210,20 +194,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 39
-  - title: "Trucks catch up in self-driving vehicle race"
-    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
-    publishedDateTime: 2021-12-11T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "NR82rLfZUUfuuB2FSSWyqkCVX47+e2dw0SrfD4vMFgd0w3m4r8tUxYmqFpQ6GfoWxThFRZTNm0DFeUvjA8uOdFvOmSJYAbdeiQlquKiGiNth9okUzbTyi43odM/GOVcETLnDjXStPFuI2ChfxCWr0+eTWeQ4K5CshCLI5Hz8dfX6fg7Gyj1RCOgbKp3Ge2o1Ve3+dJMlqLowQpDcmFwfWBY16QU63aibmjJBhflVOuEoKVK7Mru8X0KRtP8wTHEY0ENoqBuIbYMTdgDxvF7dELxyERoqfGdHgEz1ga57oU14fh49I7QMBJxQ/CSJjinqPS22TryR6XKGFidrpSZzXE6JxpOJrg5dWrZ9ILGNLiQ9DlW/+h/Gyk7arrns9Uz/Ad3S0tuJ18JTy0/rQiPpxwc1Db61pqLVvJVEdwBgbXIz1EGX4cqEHnys07a8e5vQxpmS6E+o4a8HVrnBlIODOQ/K05QjEjLfxcmu1eJvlAw08e8elXGWjc9hoXRIGPw/RBShuiiKHLdBzngORc6UXg==;NT66AMCX+KQrSVKRP+3w2A=="
 ---

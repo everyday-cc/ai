@@ -33,15 +33,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
-    publishedDateTime: 2021-12-14T00:08:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
   - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
     excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
     publishedDateTime: 2021-12-15T14:39:00Z

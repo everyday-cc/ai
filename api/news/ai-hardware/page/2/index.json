@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-02-future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software.md",
-      "title": "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software",
-      "excerpt": "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg",
-          "width": 1000,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
-      "publishedDateTime": "2021-12-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-ambarella-booming-on-ai-based-chip-demand-strong-earnings.md",
       "title": "Ambarella Booming on AI-based Chip Demand, Strong Earnings",
       "excerpt": "Ambarella has recently experienced significant growth, fueled by rising demand for its artificial intelligence (AI)-based silicon products, particularly in the automotive and home security industries.",
@@ -1441,6 +1389,58 @@
         "name": "GSM Arena",
         "domain": "gsmarena.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-china-unleashes-might-of-ai-on-next-generation-supercomputer-to-meet-demand-for-more-power.md",
+      "title": "China unleashes might of AI on next-generation supercomputer to meet demand for more power",
+      "excerpt": "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "publishedDateTime": "2021-11-20T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

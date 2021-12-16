@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
 webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
 related:
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+    publishedDateTime: 2021-12-16T03:09:00Z
+    webUrl: "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
+      name: WWLP
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Worcester bans use of controversial facial recognition technology"
     excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
     publishedDateTime: 2021-12-15T21:27:00Z

@@ -19,43 +19,114 @@ topics:
   - AI
 
 related:
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+  - title: "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026"
+    excerpt: "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,"
+    publishedDateTime: 2021-12-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
-  - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
-    excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
-    publishedDateTime: 2021-12-14T10:08:00Z
-    webUrl: "https://www.wboc.com/story/45435814/global-self-driving-submarine-market-2021-top-companies-research-strategies-future-growth-and-geographical-regions-to-2027"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
-    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-12-15T14:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=588603"
+  - title: "Global Edge Computing AI Chips Market 2021 Business Overview, Size Estimation, Research Strategies with Share Analysis and Forecast to 2027"
+    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Edge Computing AI Chips Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Edge Computing AI Chips market."
+    publishedDateTime: 2021-12-13T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
+    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
+    publishedDateTime: 2021-12-15T12:28:00Z
+    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 41
+    images:
+      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
+    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
+    publishedDateTime: 2021-12-13T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
+    publishedDateTime: 2021-12-15T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
+    publishedDateTime: 2021-12-15T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-artificial-intelligence-9b77e2d1727f4a6ea3e6c11ee471d64d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
+    excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
+    publishedDateTime: 2021-12-16T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
+    excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"
+    publishedDateTime: 2021-12-15T03:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24613501/worldwide-ai-in-manufacturing-industry-is-expected-to-reach-usd-9-89-billion-by-2027-at-a-cagr-of-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24613501"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24613501"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "ha9dHd2ig8LTmPT6nByIDAmpJnf7yUOWn8j06BMmECsLO1hCtvueyUZley05PQ1njU1e1+LWywEQSN+N+yY0HTjzPANT5nSUgHBv4TK5p5tYy1np3uJEkJNX+i+7EIPwqjl3tZDk2KLJhYvP0Cm6W24chxH9m5zVeheweKQAxH/DTbsvi2eNiuexLAXeBq3PjrjmiGlU5nXoBLXpoX9T+AHbQoNv6vkluerXx7ZZAiXFuSdUDR9ICrFryiSHYVPrS7CES/y0LyOWiTa3Kp7NiKb85KeuYdkeApCVdhm6fFgmNLrsZD6BeVMhVBP1qTE/lLMwY1CJWxr0aH2rfxTPPO7PhJYJBnNAC6CYtck2n5Y=;b9gYC1oCmpTQumNOJNy4aA=="
 ---

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-veritones-ryan-steelberg-on-building-an-ai-deployment.md",
+      "title": "Veritone’s Ryan Steelberg on Building an AI Deployment",
+      "excerpt": "Artificial intelligence needs to be demystified if it is to be effectively deployed, says a leading industry expert.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
+      "originalUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/12/New-eSPEAKS-thumbnail-4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-wall-climbing-hb1-robot-could-find-work-in-high-places.md",
       "title": "Wall-climbing HB1 robot could find work in high places",
       "excerpt": "It's safe to say that any task which involves going up high is at least somewhat dangerous. The HB1 robot was designed with this fact in mind, as it climbs walls and even scuttles across ceilings so people don't have to.",
@@ -1171,49 +1222,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
-      "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
-      "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "publishedDateTime": "2021-12-14T00:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

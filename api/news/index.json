@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-16-worcester-bans-city-use-of-facial-recognition-technology.md",
+      "title": "Worcester bans city use of facial recognition technology",
+      "excerpt": "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/",
+      "originalUrl": "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/",
+      "publishedDateTime": "2021-12-15T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker.md",
       "title": "Achieve 35% faster training with Hugging Face Deep Learning Containers on Amazon SageMaker",
       "excerpt": "Natural language processing (NLP) has been a hot topic in the AI field for some time. As current NLP models get larger and larger, data scientists and developers struggle to set up the infrastructure for such growth of model size. For faster training time, distributed training across multiple machines",
@@ -107,57 +150,6 @@
         "Computer Vision",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds.md",
-      "title": "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds",
-      "excerpt": "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1710605/Ultromics_heart_disease_prediction.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -514,7 +506,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1051,6 +1043,59 @@
       ]
     },
     {
+      "path": "_news/2021-12-15-machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026.md",
+      "title": "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026",
+      "excerpt": "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-time-to-set-global-rules-for-ai-warfare-china-tells-un-weapons-review.md",
       "title": "Time to set global rules for AI warfare, China tells UN weapons review",
       "excerpt": "Beijing envoy to UN Li Song says China opposes use of AI ‘to seek absolute military superiority and to undermine the sovereignty and territorial security of other countries’.",
@@ -1193,57 +1238,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-veritones-ryan-steelberg-on-building-an-ai-deployment.md",
-      "title": "Veritone’s Ryan Steelberg on Building an AI Deployment",
-      "excerpt": "Artificial intelligence needs to be demystified if it is to be effectively deployed, says a leading industry expert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
-      "originalUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/12/New-eSPEAKS-thumbnail-4.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

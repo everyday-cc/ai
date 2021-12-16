@@ -21,29 +21,112 @@ topics:
   - AI
 
 related:
-  - title: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research"
-    excerpt: "According to Brandessence Market Research, the warehouse robotics market reached USD 4518.4 million in 2020. The warehouse robotics market analysis promises a robust growth, at CAGR of 13.2%, promising a valuation of USD 10912."
-    publishedDateTime: 2021-12-13T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
+  - title: "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026"
+    excerpt: "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,"
+    publishedDateTime: 2021-12-15T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
-        width: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Edge Computing AI Chips Market 2021 Business Overview, Size Estimation, Research Strategies with Share Analysis and Forecast to 2027"
+    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Edge Computing AI Chips Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Edge Computing AI Chips market."
+    publishedDateTime: 2021-12-13T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
+    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
+    publishedDateTime: 2021-12-15T12:28:00Z
+    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 41
+    images:
+      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
+        width: 750
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
-    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
-    publishedDateTime: 2021-12-15T09:46:00Z
-    webUrl: "https://www.medgadget.com/2021/12/artificial-intelligence-in-healthcare-market-to-reach-usd-61-59-billion-by-2027-with-cagr-of-43-6-reports-and-data.html"
+  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
+    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
+    publishedDateTime: 2021-12-13T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 11
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
+    publishedDateTime: 2021-12-15T08:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
+    publishedDateTime: 2021-12-15T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-artificial-intelligence-9b77e2d1727f4a6ea3e6c11ee471d64d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
+    excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
+    publishedDateTime: 2021-12-16T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
+    publishedDateTime: 2021-12-14T00:08:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "Ep8OUiW4LDpHujhft1QmRLIr4AIziv/mtykylzy75ndB3QfBSLJllMjD6sYUZQyCNwhOGicyqZ5UDXeI/6LzvISU8mK9W7xNgqn+AgVXWH/SVSDRjcx+XJ0oyOR09/Ip7m2G3E32iM2JYpdEv3Mbn1a+FaTA9s9GXhZrbJChtOgpwqltRyCozGIb0FB/Jrn7+DDFrY54dVulKAlvlC9mcPEajfQdHiWqUKjsoHrBVEDKuJT/BUE6m9YqeoyOWxyOCaO2KMZlFTEwsFkCAXqs8MKKdM+70H1Xz0QmFdd5toG8WVRTPiyXxzT604auu09PiSYqZL0vQ20sjTBZ1mJ0Ki4JZO/XNgHKjwIY0Xn4/YE=;KhKhDscR7G8p59PVLAyoQQ=="
 ---

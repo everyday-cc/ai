@@ -33,17 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
-    excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"
-    publishedDateTime: 2021-12-15T03:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24613501/worldwide-ai-in-manufacturing-industry-is-expected-to-reach-usd-9-89-billion-by-2027-at-a-cagr-of-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24613501"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24613501"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
 
 secured: "4JgtUdLGoaEBB5dH8xZmW0R2iNCqDq1y1O32C201MGPLaptzLK21vkVCbdfVD9uWZmOHfdCA8SNAms72qkamY2tVpi+BoB1QaTS2JDpkmrqdJdXqMhMRpcefg9p3n5r5RBXZsTJtHynlGcV1uEbiXJwmkM5Z2S182oAUMcdXMd4zzicr60y0R6beRe4piQf+7Pk1FmQVj8WWt/ir7Nz/IOVTcwHC8XY1lZFewZAnrj6oU306nK3hcg1QsC/KcYMTSdFVGiikNenUMC1IEfADdvjh1VAI/W87W+FlO26TRGCuuUysAjJCcQloI6xm9hFMIf/n73mYU3/tZVQ4QKk3MuXGoNki8IGKC1JjpVKxlnrTaV+j/huz4RdVjhWTjDDYekGiCcXM+WVHzFyuo7rOlMLWMy+74JedNOa1nWb7jwNFCoHR55DTF1LcEfUSaQBZAbWwH4p0rxArk+WXPaUvGmkKV954U7f6fBQbVbQCEDzqK0oKuksYJb4WWXIa37vPQAuhQepSU5cAbAnf3Dw2cw==;N+RLkzZLZlu7VavDNSGULQ=="
 ---
