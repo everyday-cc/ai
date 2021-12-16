@@ -37,35 +37,19 @@ related:
         width: 480
         height: 295
         isCached: true
-  - title: "Machine learning predicts risk of death in patients with suspected or known heart disease"
-    excerpt: "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide."
-    publishedDateTime: 2021-12-11T11:36:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
-        width: 2880
-        height: 1907
-        isCached: true
   - title: "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds"
-    excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),"
-    publishedDateTime: 2021-12-15T20:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20159373.html"
+    excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that' EchoGo platform, powered by"
+    publishedDateTime: 2021-12-15T18:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds/article_068ee255-b8dc-5bf7-ad45-0cc99c6142bc.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 33
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29169405-a410-5d55-a9ba-e9d86c8acfb1/61ba3f718e442.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
         isCached: true
 
 secured: "Ch6U3hFJEKEx/JFeIN0XtGvgZiob55HlYPAN5phwRl+OcH15jKNC285l/IHiTsgrWbW/3FhYp6WKjAgI0UtKpl2jS7BN1MZ3a7Ax3FRafEvo2KYFxti2uZAUh5j/odLZX2Hc/zCpYhJIH/vXiOC+F0ztDpTeohB6DXMjruC48vewKb+qg37af6jF/aTLMkIMdWMoTmTE+4BUBPoEPM0DFnM94rSFNFiGHrLkggx8yUfazcXd8YJV8Ppyrb95ZJwisZcMLy+muVV/1nD1ItflHBov+X8vCLYhqqQqgnT55YOrzVoLB+j9YT6Cvt1rWyjImIy36w2cejhghMFTBb47d092IpIducyWx8rfHcbfXH6oIUfaV+9pGfj3ypVI6lUTNRVVh3FVqf6dW1DOAlcYQWzU2El/F5vykXQ1VJTwDQuQqFNXBD0Ocz6oEdeA8Tkz4pgGCdPZhywG++GSMXJNLuy+iXpxpTaNvtYb7fqcI9JlRxSG1KOMX5fzGiKev3dJcuJ163EpRwPUjIK8pC3DZA==;Rh3yXk7Wb+RTz5jpSrIYeQ=="

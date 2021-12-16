@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88290514,imgsize-10898,width-1200,height-628,overlay-etcio/ai-is-not-a-panacea-the-pitfalls-of-ai.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
-    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
-    publishedDateTime: 2021-12-11T11:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
-        width: 920
-        height: 438
         isCached: true
   - title: "Improving quality management in digital production through artificial intelligence"
     excerpt: "ETH researchers are using artificial intelligence to improve quality management in digital production processes. The team has succeeded in halving the proportion of defective products in an experiment with the semiconductor manufacturer Hitachi Energy."

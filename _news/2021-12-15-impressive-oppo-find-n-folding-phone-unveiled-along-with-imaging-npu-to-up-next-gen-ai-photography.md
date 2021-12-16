@@ -41,6 +41,20 @@ related:
         width: 4000
         height: 2250
         isCached: true
+  - title: "MariSilicon X: Oppo’s in-house NPU promises “stunning 4K AI Night Video” processing that will debut with Find X4 next year"
+    excerpt: "In the weeks leading to Oppos Inno Day conference, most people may have been expecting the company to announce its first foldable smartphone. However, the event had more in store for the brands fans after Oppo unveiled"
+    publishedDateTime: 2021-12-16T03:00:00Z
+    webUrl: "https://www.econotimes.com/MariSilicon-X-Oppos-in-house-NPU-promises-stunning-4K-AI-Night-Video-processing-that-will-debut-with-Find-X4-next-year-1623474"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 13
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202112157b64077ef8ecda19c_th_1024x0.jpg"
+        width: 900
+        height: 599
+        isCached: true
 
 secured: "Ob0ChaNsvCiP323pCTjOCNrWUEogQ99v57QmqK25iJW+WE80OCXGiktR5ud/xXhCzJgw5GI0R6WvqI2hA0L8SIhcBnX0nn39ngYWfgFpokG0fPywaFO7q9HRVlfqbkBM2tx+uGuKGOy5MsIqh0Q7sqsjCkxC24Z182ArdGLYXOZ5MECFWnYSIs6ziBuLOA1QpWkOO5ODePplsVmL4hqb0BoXgGVhSQlwQ3+6G/R3BA8+FC/XBMl2jNuL2SMp3gJx/mAuKTPtjNEwvy3RVbVwFr1qcObIi5fLlN9cgAZ+38g46ku+ZJIsxa2/hWsVm2bPPaZQLwz52owXzIMIaimQAvyObQvqo57Y0WLkVQB6qdysukWOtirI6IQJ+KOFjT4XuRSRKLT2NENu2ANeze5Rrpzy6/Tv0U0WoU+niBigr9BXO8yTZ3ZJeVAivr9fRndUw5FLK1UPO3GB/LgtuklPdeNycJ17/53aAkbRIptSi9M+56SOAfmJWJLK0Gw4OHdsXx//2cw4uUWiTDR9L3yZig==;h+CPWfy4VryusbrdlTfC/w=="
 ---

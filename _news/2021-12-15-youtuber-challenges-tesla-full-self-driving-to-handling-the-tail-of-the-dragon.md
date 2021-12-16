@@ -100,6 +100,20 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Tesla self driving Beta went against the most dangerous roads in the US"
+    excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
+    publishedDateTime: 2021-12-16T04:08:00Z
+    webUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
+        width: 1024
+        height: 570
+        isCached: true
   - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
     excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
     publishedDateTime: 2021-12-13T14:04:00Z

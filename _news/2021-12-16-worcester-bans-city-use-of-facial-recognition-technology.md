@@ -2,23 +2,29 @@
 category: news
 title: "Worcester bans city use of facial recognition technology"
 excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-publishedDateTime: 2021-12-15T18:10:00Z
-originalUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+publishedDateTime: 2021-12-16T03:09:00Z
+originalUrl: "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/"
+webUrl: "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/"
+ampWebUrl: "https://www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/worcester-bans-city-use-of-facial-recognition-technology/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: WWLP
+  domain: wwlp.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Worcester bans city use of facial recognition technology"
@@ -64,6 +70,6 @@ related:
         height: 628
         isCached: true
 
-secured: "flcPChXK4H7lcvuWN1Cf7Qp94R/VDo39kWCy5IygJV5cQJPxQxM65vzvUYvtKGAJSKdYuMB9XPy+XXvO/OicQJKmSimpBHgy0vpiCl3mqh8V8WRJ65SwujCgkACTF4v9yI24gf88WYjL7uHSADW+dMaQFUek8/7PGgVXgws2jwBKhaO1qnDyDuD2qk3YGGzk3DELynGBV6O0IGg7Xxg3vrJ1LdxuRdC8+bGDH0ETNWuqFR/U8EiX17e5kTIYCspXmFaBUPgk/HKmrM7hUhawoo1LCh+kOOHOzbtr7Qc3WNE0fs/1Ww0hgqW4MuJRebQXwGczvBy2s7S6eLuuHjGJb62kq+lV8Ap2FuGCyAjcf2QDprIO4LNrKqir45H9CdtWM3xcd/8k5mymihnZluQenbrRY4tOP5HX4pPnD7HPBEm0LDbjPwSMBgemJro66kRSflvttoXv3atMREiKigcyxdkPs6uN6Fsv7dDT8H+1iDsIWLCxXvoZmQ5YWZ/rGj2aa87AWdRYJV81X1fSt5Fq3A==;eVn/1JqYWir1UuoXiuI70g=="
+secured: "9nozc0Klugtq4Xs9vYT5WCjbHErG1yx1SwT+oW3IIpXs3+TjJ1+fi4flzvP4JIRgRkS22QlTi3DB3Ue3/CJZhP7QdsWi0EDJ5E+I3/+6VimYt8cvT1uYx1K6DLhUkua3TNX097tRm+mfUhLP5A4UjyqiO9wIBN5APJtr3qEeWa/gFuwrjJhI+Oj5dPg/ZrsPYSnb79dympxvtULmgTmN+sljPcrqhN0jALFccxrTsk84Isbmh3PU4jpC4BTOQuOSbpHZZ/VznaHihj0E5uSGdda9ejAMFM/819B0xiHUMx4LchTQj9vpZWtQHQyMUaQ9x1c9pQLeUhYVaR0pjHiveGb8W9UIg6iGzejE0ucTjow=;MT5qv8Tg36FvddhEiAuBoA=="
 ---
 

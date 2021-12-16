@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-publishedDateTime: 2021-12-11T17:51:00Z
-originalUrl: "https://www.kansas.com/news/business/article256490316.html"
-webUrl: "https://www.kansas.com/news/business/article256490316.html"
-ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
+title: "Tesla self driving Beta went against the most dangerous roads in the US"
+excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
+publishedDateTime: 2021-12-16T04:08:00Z
+originalUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
+webUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
+    width: 1024
+    height: 570
+    isCached: true
 
 related:
   - title: "Why Are Tesla’s Self Driving Software Sales Slowing Down?"
@@ -96,20 +100,6 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "Tesla self driving Beta went against the most dangerous roads in the US"
-    excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
-    publishedDateTime: 2021-12-16T04:08:00Z
-    webUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 69
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
-        width: 1024
-        height: 570
-        isCached: true
   - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
     excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
     publishedDateTime: 2021-12-15T03:52:00Z
@@ -184,6 +174,17 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T17:51:00Z
+    webUrl: "https://www.kansas.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
     excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
     publishedDateTime: 2021-12-14T21:52:00Z
@@ -224,6 +225,6 @@ related:
         height: 533
         isCached: true
 
-secured: "cAoBG4e4bZLJWJMcKEVfNUaIWvgYlN23Vl1PbCNyDn3K5zm6BNFu+o0WE8+h+JTX5GsqoqDIttrRBWa77DBNqn3qHEW6QD8PTgGU+h1y1SjWNbzEfc3t3W2jdUBV5HKBnzC6jFj5Dfm5kWcf6zxltNrr1n0Ff3hlRfr/3+1C+MfIsdteJ75IpaetP+CGxPMGAeuq8BxNsKh6FdoD7L3LmqSXf4Pi2a0IDk0y2BUSdejAUeqobA+8O2vqFEqOqVCVaTqcJJTa+9rPujZTMGYt5bVFAoIIiroJLTq+biKEKJ31a6Jwkwsne+3PS4kFAMVJ0dMhgcRq2HDupqNHygv6ptIbLTohrs5z2lnosOUzRTqfHfSemUQOrARMzKUInaWKLX20jJZXjIH4Dh9Jm7P8PJWGEaVKTWwB4Y+Yx3h5DwEwDWhO1tH7dfWdLBHrJyTYDIbej/xKzBy0TJonS/+nO2AkkLV+NUPUC/OuGdmZg97c/0gdgDCk5FNbGBImr+7HtJR1F8vNCqD2N/uWNfDlTA==;aqHV+JLPtyZFr35fVbnfQQ=="
+secured: "V7SI+Usu26SwTh6Qc1z6cgtslg3gCYOSna5QsOOIteu6CVzu5Va3GtUcSx9Lk5ZNPesOXSAsTOYhCOPkzo9Q8mIJqBSK3Fn+C/VzPQnbdXDjl/oBfal1UNePLgcxB97J869FHzd+QIfP/+j4YxnK+ytHwjY+VpXVTgmYRSu0IPRbTISDeYYKQsf8vtForOezOHykLvtChFG5uj7UXtGKoJCeyZ8NFzt27iEzrw9Dngl/eFqJZrTA0BoEOOzBLlWxdPoGoAyKfCz2Mmhl2EZO3+1yEhIUpZX/lwh6oXmi0SVyXnwl+Y9fYBSrgKoaR5MlYA9kGhivn9vKhgLIUYt5CXua9VXqdlNqqzTnvIDz954=;LpcrVs+2vQAgNxAJujjM8A=="
 ---
 

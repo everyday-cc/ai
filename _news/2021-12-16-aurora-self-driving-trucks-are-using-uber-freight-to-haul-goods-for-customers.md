@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Company Aurora Launches Pilot With Uber Freight"
-    excerpt: "Using autonomous trucks, carriers will be able to increase utilization of the truck and haul more goods more often between terminals, Aurora said. Human truck drivers are not allo"
-    publishedDateTime: 2021-12-15T20:22:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-15/self-driving-truck-company-aurora-launches-pilot-with-uber-freight"
+  - title: "Self-driving truck company Aurora launches pilot with Uber Freight"
+    excerpt: "A Peterbilt 579 truck equipped with Aurora's self-driving system is seen at the company's terminal in Palmer, south of Dallas, Texas, U.S. September 23, 2021. REUTERS/Tina Bellon"
+    publishedDateTime: 2021-12-15T20:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/self-driving-truck-company-aurora-launch-idUSKBN2IU1MB"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211215&t=2&i=1584834721&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHBE138"
+        width: 810
+        height: 607
+        isCached: true
 
 secured: "ImyzK4+wgwrETbmJs/5WUb/bB14k9SVf41zJHjo30/mzoc6btlhqxP+3PrwpCILPvNrwtQIlCdIsT7IrOTCs30gIpus2CJBxsXBqsU1CCvOejal3UVF/+TQL5ltbmhI/292o8oVkZwM+84/F1ArRZ7trZcHCS3kFrZEVfN563T7JIVWVcEWlc5sqwoBtwe0DcUBFdExZUCqHJ7AtY+cji38sSMYH06K6VOH46K7zll6SuIupZ/183fElf9ira/JSkS9LdTLF4x44Q8b5CL4JrwY5RnVkQ6srEiKxuUQiZyOZAgwsiXyIOGXQ41PhbpyzmpFyHn0Asvyf/F48mSUz7cp6OSWbd7uKF0tRKKdwXOPPfvQtw33LS34KCZTCg+2ydkyBOD3BBUsjCixAaE+f3r0TTFvgcMV5wTzSt6WcCGCWYsmwzYOquGb5BM8Z/ltMsOnmnXQ7hvYKqK3pFuQqYYuugQ7frTTKz9DGmv0hKdQe1QI5U9JpQXpuf3A0gQ3EbGylMoBkcq1GC6DUAt6AVA==;jpQvercgKmymUWjjbyMnAw=="
 ---

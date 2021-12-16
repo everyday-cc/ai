@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing"
-excerpt: "Pony AI is an autonomous driving technology company founded in late 2016 by James Peng and Lou Tiancheng, formerly two key developers and engineers at Baidu’s self-driving unit. Pony started ..."
-publishedDateTime: 2021-11-25T07:50:00Z
-originalUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
-webUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
-ampWebUrl: "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+excerpt: "The two companies can now charge fees for their so-called robotaxis in a designated area of the capital covering 60 sq kmThe taxis will have a human ‘security officer’ behind the wheel, ready to inter"
+publishedDateTime: 2021-11-25T08:02:00Z
+originalUrl: "https://www.thestar.com.my/news/regional/2021/11/25/baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing"
+webUrl: "https://www.thestar.com.my/news/regional/2021/11/25/baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing"
 type: article
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381274.jpg"
+    width: 1240
+    height: 697
     isCached: true
 
-secured: "bAQIjxsJIwd9wCQjRHEsY0RLATshvQXBEW3WhYPsnj4/Lzq1NIbwplEDyR07eLsz4fIh2In5+jwsl029D2WTxxUscUjx7VgW2K8EZqvQ4o+k0h8g9LzwnzM6gzGZ7rJqj0/ZswfbxmO7P0pteIflxiE0zpcLj7Jt2Hoq7hVy/Zlubjpu+xDC3vN8c6RiF9ezrPtynIgCijgNfaZsFPlklY1b03u5a8tcc1Zf16kdUjWWVqTQXoIZ7DeYgAylqk7ZkH1GIZ3Zxqi6Hru8MrXrqZS++KJsW7+HCGIcqCJDLWJzpWchhAt4w7dIvPfV0MkrkpUdfGWF638Ml0/7IHT8ANo9QivE/otQeyPTS/T+OX8=;dfmDRnhOJ30/PLmtjke1yw=="
+secured: "O0Fb/LJyaPm7OAAF9eYeBU8P229vrGI977CKOkLfCadaT0CH1FdPTzxrELFNwHjih/wDsvpIrExMJsRc8DPxz581/6d43OZ5fvk82AlwhkJCJY//7dPLgDtiseSPdflkloDbaiSiv0PAJZYmQsJLhQDsEGmvF/odtyy9eQYjTaoNyzXhRwAoo9zorEoTiXzaYgLQxo/Nb63oPsM01ePexqispbtFvJerKX9mchKVfyRqipMf6vOwV5wNsvjbfVWlBWw8lJyGYdfXM/2MyfNe/BlXkGC1//mYG/RBnc+h9SGyEb0W2qELF3u2m1MsShTzrrqJkykODKlqBBBXSpF7r/nUPylYVvudN8XWanrIUHs=;AEVs36cvNGCthpjcnvqrBA=="
 ---
 

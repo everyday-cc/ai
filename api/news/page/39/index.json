@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-11-16-does-artificial-intelligence-for-it-operations-pay-off.md",
+      "title": "Does artificial intelligence for IT operations pay off?",
+      "excerpt": "For overwhelmed IT teams, AIOps holds the promise of automatically heading off potential business impacting outages. But some IT leaders are skeptical about whether it can really deliver results. Rodrigo de la Parra,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "originalUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit.md",
       "title": "Differences in care between younger and older patients in the 2019 English national memory service audit",
       "excerpt": "Clinical implications Memory services seeing younger people need expertise in functional cognitive disorder ... Clinical Network for analysis of the national data-set using Microsoft Excel. Statistical comparisons were performed using chi-squared tests.",
@@ -1138,40 +1172,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-technology-innovation-roundup-how-do-you-market-tea-try-ai-and-micro-influencers.md",
-      "title": "Technology & Innovation Roundup: How do you market tea? Try AI and ‘micro-influencers’",
-      "excerpt": "The company used that information to craft Sama’s four adaptogenic hot tea blends, which the brand says can offer physical and mental benefits. The organic blends are inspired by Ayurveda, a holistic medicine system with historical roots in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
-      "originalUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-te
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
 type: article
 quality: 121
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/model3_02_7.jpg"
         width: 580
         height: 387
+        isCached: true
+  - title: "Tesla self driving Beta went against the most dangerous roads in the US"
+    excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
+    publishedDateTime: 2021-12-16T04:08:00Z
+    webUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 69
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
+        width: 1024
+        height: 570
         isCached: true
   - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
     excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."

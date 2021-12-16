@@ -2,6 +2,48 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-10-21-discover-suchi-reddys-new-innovative-smithsonian-installation.md",
+      "title": "Discover Suchi Reddy's New Innovative Smithsonian Installation",
+      "excerpt": "This is the probing question posed by me + you, an interactive artwork by Suchi Reddy that will soon debut in the central atrium of the Smithsonian’s Arts and ... says the New York City ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.architecturaldigest.com/story/discover-suchi-reddys-new-innovative-smithsonian-installation",
+      "originalUrl": "https://www.architecturaldigest.com/story/discover-suchi-reddys-new-innovative-smithsonian-installation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.architecturaldigest.com/photos/61704551231989f8d88f8fe0/master/pass/AD1121_SMITHSONIAN_LV_1.jpg",
+          "width": 4350,
+          "height": 3263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.architecturaldigest.com/story/discover-suchi-reddys-new-innovative-smithsonian-installation/amp",
+      "cdnAmpWebUrl": "https://www-architecturaldigest-com.cdn.ampproject.org/c/s/www.architecturaldigest.com/story/discover-suchi-reddys-new-innovative-smithsonian-installation/amp",
+      "publishedDateTime": "2021-10-21T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Architectural Digest",
+        "domain": "architecturaldigest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience.md",
       "title": "How USAA is Utilizing Natural Language Processing to Improve the Member Experience",
       "excerpt": "SAN ANTONIO, Oct. 21, 2021 /PRNewswire/ -- USAA is using Natural Language Processing (NLP) to improve the member experience and facilitate faster decision-making. NLP is a subfield of Artificial ...",
@@ -1030,49 +1072,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
-      "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
-      "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
-      "originalUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Looking-For-A-Career-In-Robotics-Here-Are-The-Online-Resources-To-Start-With-A-Bang.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

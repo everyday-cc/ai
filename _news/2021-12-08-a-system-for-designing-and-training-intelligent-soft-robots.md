@@ -1,30 +1,28 @@
 ---
 category: news
 title: "A system for designing and training intelligent soft robots"
-excerpt: "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have designed “Evolution Gym,” a large-scale testing system for co-optimizing the design and control of soft robots,"
-publishedDateTime: 2021-12-07T19:06:00Z
-originalUrl: "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207"
-webUrl: "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207"
+excerpt: "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb."
+publishedDateTime: 2021-12-07T20:49:00Z
+originalUrl: "https://techxplore.com/news/2021-12-intelligent-soft-robots.html"
+webUrl: "https://techxplore.com/news/2021-12-intelligent-soft-robots.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp"
 type: article
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202112/Evolution-Gym-CSAIL.jpg"
-    width: 950
-    height: 760
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg"
+    width: 750
+    height: 600
     isCached: true
 
-secured: "Gnh0dPoepRUcu+A4i5NgLvT+dPrs+u3NhPWd59FDewLr4HWF2RBSgXJ43yqgBOp1qQ34LEAm/cAgLNMfQ4PzgzjTIlWY4eTbsMtcO7cJnoPdlOmDD5IWGPLa26AcrCoFjgILQe4xG09vIhiFzxy3/Rvef1R0t0DiF+sRpXbC2MACmx3nci3wiIQuZSwRSacx9EEzAVUUrkws/KSXcUrq5g4QOAg3SH/O9G5yehZVAiokGGCNCd6onCgMeodx0J28ZKgJMi+jH64fS3utQ2H7ua/j32+VEJamzceoHPKsesAp/MD+lSGAWsl4+VzG0F5GRFq1/oyUXv6K14Pr3zqwKCYlqdW+yBiYliBdiq4BtYCaWJGaohKmh5bQCFbFmNKKJtxk3v14vwszCnoHY5fYb/Qg7j9+72pXhZdMcEH1lSczsH00hXmzGj1uoYUj5kZ0W0zqJyR1C7sAIMw1kmj+M/EIocp7FifuVH9RMpmkwR8m3KTD2GoLh7OBn6xX98IoaN/vC6TKAX4XSXiKraXD7g==;ajVbV4TnlVzRi5gHiMOWDg=="
+secured: "eIzxqVpBYlYAbKyERpf6ljT8Ww8+e5swk64NFAuo48EwAa5hnnGkU6/bIkAUYj/Xrb0VuP3VsI7dlo/EXFvmrNRGNR8I1Ua7y4bBrbhZY1KOA6JYLbTV0lA8z9SZ/gcdJCU4Pbnd5v7Df458bPyhUQmrUtTk/xtrGAtCidJ7pRgBaU4xJjDPLDjvWYWTp9rq3qpXM1CNTKgaelPlZ+XQdFFEHkrvofTnTAHZ0OGuaGRvq8CDioFNuUq3Ox3sOAcJ+JnR/m72LcdhPj8aB/hBd8r3XEA53z6Ge1/zFq0wDjjl4QF2oD3BoieeFS8QTVbkKISbwJqciwSNuFE0co+Miq7pl/ySiEU3C6aE+ZQTcjA=;LcAvGeVHA1jVMUbIM2I51Q=="
 ---
 
