@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "Microsoft"
   url: "https://twitter.com/Microsoft"
-  followers: 9983923
+  followers: 9984234
 
 size: 10,001+ employees
 yearFounded: 1975
