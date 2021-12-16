@@ -6,6 +6,9 @@ publishedDateTime: 2021-12-16T17:41:00Z
 originalUrl: "https://www.forbes.com/sites/stevenaquino/2021/12/16/how-transcription-app-otterai-has-proven-indispensable-to-one-deaf-woman-in-this-mask-dominant-era/"
 webUrl: "https://www.forbes.com/sites/stevenaquino/2021/12/16/how-transcription-app-otterai-has-proven-indispensable-to-one-deaf-woman-in-this-mask-dominant-era/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Forbes

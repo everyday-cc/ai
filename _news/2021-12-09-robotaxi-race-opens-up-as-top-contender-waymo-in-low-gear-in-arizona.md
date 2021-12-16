@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "udStY3DrBkxysyenG90FEQfz+Z7Z/kVFRh3mlkXzyAdeYp3g3G3ylxNAjzRBQnepQp8JWGsdqHJFYI4gkVFPugMuPIUHdJxvlvVLvrU5ONGUhBaFjovdSe5xmUIizaFTGWTZkI/cR+nRUXnXKPzyPUOs4aW/xbDHqcP4Or2Lzjum7NeeIIUCR7xgQ3+FK3t4t79ZOWLP8hxkKRjNNsXrtcaa1oeKhP7+4WclLcNOn7afgXeeXHk6ZHmSzf46E8ghzvFF6nEkODdw1hlBeSCGrJA4BuE8Rfgav6NoNnXybUM8bH2xWaZNAGII7/bq2boB07vzrwT5K8YZ3k1XNeAPBR1NFZ5SbBmVE2wk7d4A9uI=;27ZxEPTnOKHRRxeNehxbUg=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "HVfS+PK1g4Kp6tfrjKLNHqROh3ZMGwsZtXUELwYBhdiaqESvG1SsvWPJyt/99idmnvzoaOr5m5T7t9ama1ccDpp1Ol4bb4Qoc5X8doO/kxBIEiyn1zB0Dft+sbTY9urOwt22tZILt6sQqL6uPHXtFKpESsaIdMYPW6aTaFjjqorEDl1wqwM+iFzzL//+vbMlcH0egZZoH08Q8c6Dmga52m6iYA9Zm1hLwXJHvS2bg1IJ9Xu4Lh+rd9nY40YF9HqaL73dVD+dY7RaPO3Lh4/mZ7jTBfIJf+ApooS4jDFgUsc2hNCZIf6mBKbgJSGkrCjo9n6AokqO6OHGBzP9cTBmvebwrxd1bZo4de0QV5o95Cs=;AJH4i3eLvYuQa0TyX3mxow=="
 ---
 

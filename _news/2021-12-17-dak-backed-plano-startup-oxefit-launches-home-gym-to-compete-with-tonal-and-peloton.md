@@ -6,6 +6,9 @@ publishedDateTime: 2021-12-16T19:32:00Z
 originalUrl: "https://www.dallasnews.com/business/local-companies/2021/12/16/dak-backed-plano-startup-oxefit-launches-home-gym-to-compete-with-tonal-and-peloton/"
 webUrl: "https://www.dallasnews.com/business/local-companies/2021/12/16/dak-backed-plano-startup-oxefit-launches-home-gym-to-compete-with-tonal-and-peloton/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Dallas Morning News

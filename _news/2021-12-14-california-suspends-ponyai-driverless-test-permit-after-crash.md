@@ -112,6 +112,15 @@ related:
         width: 800
         height: 476
         isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
+    publishedDateTime: 2021-12-16T20:25:00Z
+    webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "Z9aAAKBFpQugkYKVfhKEqJ6x56DyE+WssRcJZBg0doMq5m4EpQBNBHmLijQQrs/gqTOYW7QAnzBnRKoql+WrNXG2vju2g7mq2j9axQc87Mx+r2UJmC+HG+FobVa5T9csD1ytuLwuLCOg5NWBN875quG9UAEBx1HSGehYcF8q/qjtrT4z9HycqcT5zqgmcEIzhmeGUte+EdOM8jBkjg66gYlZk0sfLemFf0kBjeQlv1QM1+odAb4PjyxSrla7fUum7RF8XedBCDlfTln0QdIZtbOraxc0MH/5bhP6tujeZSVThbJF+zqpD3U0AdlgIDjS2pJ9EBnUyc8FpXkJO5lrMUhAz09uJeAxAKb2FnRADa9KEgiTN7Ym/oohf02zJgff/hAXOEFCNhyAKibSqW2vQqh6b/NFs/i/3M1d8wCvNI5oyILLEOMsMkM8mMzk18corFFJXDINNXwk9DHtsraBADr0t5FZpckABHs15roUK2yEoAzi3s99qSGmW2Eg5V90yRW3Q18atcSw4Q1YpjuCXg==;nRwcagcH6XNzK//8CDG7Kg=="
 ---

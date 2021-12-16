@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "France says facial recognition company Clearview breached privacy law"
-    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-    publishedDateTime: 2021-12-16T15:16:00Z
-    webUrl: "https://www.reuters.com/technology/france-says-facial-recognition-company-clearview-breached-privacy-law-2021-12-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=64"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
@@ -85,6 +71,15 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "France says facial recognition company Clearview breached privacy law"
+    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
+    publishedDateTime: 2021-12-16T09:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/france-says-facial-recognition-company-clearview-breached-privacy-law"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
     excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
     publishedDateTime: 2021-12-14T21:35:00Z
@@ -99,6 +94,15 @@ related:
         width: 650
         height: 456
         isCached: true
+  - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
+    excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
+    publishedDateTime: 2021-12-16T02:56:00Z
+    webUrl: "https://www.zdnet.com/article/oaic-determines-afp-trial-of-clearview-ai-interfered-with-privacy-of-australians/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 41
 
 secured: "aXYaEjjWQ9JbfqJF8I8nUlcw5QhIdwnZiPvcxw4YTPQq7HCV0NcNyhqE7BD9Xn5s59ycKg6CTnmiZCEBl5/qpj/xXEQjMLiXyvuizfJyxMeV5zx0VXmHXcNsmzzge8RQood8AR3dO92ssnjQ7bk+7gEt98txL15mit5B+UNOVIwBqLQW98NmDg3yeqdfkK/PDmeViR7i4OTZBi8rFMn0FI+6arPSROUvfGstPSKLlgX+MkZArf6DVZNRuZ9WJ0CYxv1rcjeI3fK8PCtYXmJ3ocsYvlSx/PgiwN56O9yjUpfTnEFchndQnUOyxSyDeD0RsW/fGkBzYtGROAPqJwO5Tco5TUwQH7IaeE5UWQ3H4X7NbA8KFDEI2saFSOKsMW2+l3km2zEmJXx4S/pum+vTmIyGaIdI42wR4h4kSSyMSmaAh8B2aZOeJHHBvQ0oLmqcu4BPushNzwsuvY2coy2ix1/hohc5/938j5T95XcWClFASjlK3s4E+aaAOCDr/4e6iZMDfOZmdg0gsnXeFvNz+Q==;sBROO7igx38/0kcej5eJig=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-12-16T18:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-can-boost-fda-approvals-for-novel-cancer-treatments"
 webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-can-boost-fda-approvals-for-novel-cancer-treatments"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Nasdaq

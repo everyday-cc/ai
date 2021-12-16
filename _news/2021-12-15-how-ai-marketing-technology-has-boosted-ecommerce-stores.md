@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/how-ai-marketing-technology-has-boosted-
 webUrl: "https://customerthink.com/how-ai-marketing-technology-has-boosted-ecommerce-stores/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2083
     height: 1439
     isCached: true
+
+related:
+  - title: "Staying in Tune with The Times – How Fintech Dictates Modern eCommerce"
+    excerpt: "Staying in Tune with The Times - How Fintech Dictates Modern eCommerce The modern way of doing business goes hand in hand with technology, digitization, an"
+    publishedDateTime: 2021-12-16T19:30:00Z
+    webUrl: "https://www.intelligenthq.com/staying-tune-times-fintech-dictates-modern-ecommerce/"
+    type: article
+    provider:
+      name: intelligenthq.com
+      domain: intelligenthq.com
+    quality: 4
 
 secured: "prRkV9/Svj7eeR00ZVl5MaLFCqC8U2qra45we0N60i1ec9PRKXyDJpcJAwLt5dKGsujntlr0K1q7FtkZTPaGT4FlzKgFE5oJ1GNix2wG8wcRn6LLS4nDcsmA+DsPp0TxULDw56W6YGMD8S4NPZ3vMZfg6o/xB1EMj6QZw6a3y+L3OawOVRR083JB8pNcKyWHPoxOK6TbgIHN+IRcJa7zZaSMH2ESSjWjcRYdMTbsyUIF2PNxXWlGqxlqvHTLD2hlli7b8LdtHfkNkS/B0TNvFZUINUYXcZoX3DdaS5Bd+8+FyrruTk/KPV3mpA2VbQ5rJTbnzahNfF+NPcJkkWOUBT281mZvi9vFwRkE+LROaGE=;ne1pf/qZyUqDvvACztaJoQ=="
 ---

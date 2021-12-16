@@ -7,7 +7,7 @@ originalUrl: "https://www.medscape.com/viewarticle/964954"
 webUrl: "https://www.medscape.com/viewarticle/964954"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1285
         height: 2173
         isCached: true
+  - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
+    excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."
+    publishedDateTime: 2021-12-16T19:58:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-ai-technology-can-accurately-predict-who-will-develop-dementia-within-two-years-says-study-12497539"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 9
 
 secured: "UNDB+FXSOABbuL5oAtgskg27BNO9BAAvtj5J7ohJ+HjANsNL46I4ml64w1Zf2TiMw6e5FLc/viygBrnHL8gV9kxWuNsPwjc5u7Jy9/v4jSgdNFN7FnPhXpCuvuNrx2k5mGXx2iVvqdY8k9lu0J9lEz1xr02Nz3PPflhJqx1mQsbEN8r1wBsW6EZkq7QprqSVXHuAoZF6bO2AK/4W/y/+VNEnfnAHmC3EvZLY3Q1ZZNgmYSFAcTba70ZPfekGXFbXjs2AombzS4OGLaRo6jPKaCekVkEhkZEIYCtcwcwWgmGQej04my3L7xhQxqfvk7S9ijQQg+5EJZBa64Dc5xLuZCOj9hgH9O5MzjmylMVhDpU3vgsW47opW5DHBeQox+TP2W6jP04+nzYAJ+YXxqdhfpUEypW7Mt2j3KyE5NOchaDQ+nt0CyEJOmcaa7maTGqrhf8GdO9gxTr0FBpmGyOlZrrxdQgK3SvEZz2B9C02p8/a0Pe+9oguHfuaESfFyTgVkGy+SKn9ZprrvqzPLlHueA==;+HWZOCeoSKi658Ay6L/Acw=="
 ---

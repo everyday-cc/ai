@@ -57,15 +57,34 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
-    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
-    publishedDateTime: 2021-12-16T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-1031050451"
+  - title: "OctoML introduces ultra-efficient AI models in latest platform release"
+    excerpt: "OctoML Inc. today introduced a new release of its artificial intelligence platform that includes a collection of highly efficient neural networks. The neural networks are optimized versions of popular open-source AI models that OctoML has fine-tuned."
+    publishedDateTime: 2021-12-16T20:45:00Z
+    webUrl: "https://siliconangle.com/2021/12/16/octoml-introduces-ultra-efficient-ai-models-latest-platform-release/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/octoml.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
+    excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
+    publishedDateTime: 2021-12-16T14:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
     excerpt: "Innoveo, a global technology firm and a pioneer in enterprise no-code solutions today announced their strategic partnership with"
     publishedDateTime: 2021-12-16T13:15:00Z
@@ -74,12 +93,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1170184/Innoveo_Logo.jpg?p=facebook"
-        width: 1280
-        height: 670
-        isCached: true
+    quality: 0
 
 secured: "k0E9CMg33YHa0bAZiwclMqM62oYYujUOY1P1VJgsIypuouaGTQWSzUusmGhQsWvcrGToEetDxJOJJiY9ZihoCe7D9RjBDRmqfS+pozisOFJ7ViMlCOUxniI7fe1ppr4zgARpxoqcLMNqupLExZIbrMcZbEBPCnBDXsNL92/PT0Jp5BF0al5Voehu/k+qCKskuSKFkKMLMM/wC3yW0Anrs2c/UCfFuK12PmO8ZvaQe5OF26lTB3mKqAK8WJphG6muQq/xinYYthCHP2lyRAXXPyoj1nQSo+tlVQKH4DEAl1IPL32cLIx1dVsILx5YifkOtZwBuM8UG9Ure4gk/fE5a5FVtCJxYHlScm4Avh2ZMs0=;Vp96dNGxRzRBt2eP+Ci7fw=="
 ---

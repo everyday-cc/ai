@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverl
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
         width: 800
         height: 476
         isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
+    publishedDateTime: 2021-12-16T20:25:00Z
+    webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "sUghihr4o1SqDdUol+f6snLVHd5OW9ZZf8+dPO8RXyny6t4A3gzAfBtop6ZRcMafI9uwf/uA4C+XdS3VtpIh/XEXPpjgkcpkhGcPAVVsaEQovVbJp4WArgX6363CarsMjGKlWJPVW+Qmb4k8VB7sNSumPbFIvZT1SsqTCS+3Mp43q7w1Z6gaXUpT+CW4NOTtrbnATLaUjqdVWyJJKHxrwBrrNHFAY/G3ljef3t49zYyd0nLzSWbsX/Gyb74l/lFv9HHAvL71AsUxrXSgtYsctgGUqRUvYE4vNp8mgGvq198wBNUFVZI/e3rdFcV2f610IMt0wVENjXERKr984IlS6YygKOVNwYTpTF4fyQB3/30yEYUpggXMr0LNLTIfsnPPyvDvB+w+ArEyRGtWSp9twMSuLPW9wD9q5xTzGux+nB9/ydPjlp9/g0+dbhLJlDyg/f9hmlF34W3lVE89mH542xhjbQtKMuql9RS15gqLGoRXPKU2dUa3R/0Beeh1zgt6rWEN42eXup2QA7AA8/jL5w==;Gz5Lt4fHDF6EnJazhYo1Zw=="
 ---

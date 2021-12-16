@@ -2,22 +2,46 @@
 category: news
 title: "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds"
 excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),"
-publishedDateTime: 2021-12-15T19:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
+publishedDateTime: 2021-12-15T20:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20159373.html"
+webUrl: "https://www.lelezard.com/en/news-20159373.html"
 type: article
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "j1BOhiVaRDajTWJAwKiyRgXlT2CSBojDSClnB9cd29Df/wbsCHUMje5+1UaIeoVTRNuxWM63zXTUokvFm0kKE9h5ectGUycuMCyNJpVmVHooJ9svLSGyRZpPjLLBEAmxA9Spt2Q+DZPMC7ceHhEer+n54Fv6CN9V69Cr8GMhCtHznJwWGBKu2PHHvilM5b5VWDRolPca3+RXyQC5qwVdqzCgSfpaS2zvoB5I/2C43m+9eZeVknkCMrIxEcItF+D2oGUjDg9Mru3PIqTDMX0uNtBxOdkVob3iN1wXybZpN1G+6QMxRm4AwoMPGx6PRDjSwJUSGAvr5RvmT52NHNZt3+ivTYffsRbECD+0eIryNmSSxV1Jy/VGlJP8wJm41PDQI9j7Yefqeh5ec0aCZ7wXH+LBKzeILDN89/ThjhrbjsGdsY3NfrpxAkFQYHofQI4lDKsUR4v25a4Sfeo/54H3MrV6Fqhn+8npdxsTVr2u6yEkFcZB4bhZ5FCuSdjMqtiYzie7QGS5Tv5BHLKfezMV2g==;RWn6JU8R7VVZ3nCF1maYBw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence Predicts Coronary Artery Disease Mortality"
+    excerpt: "Artificial intelligence was able to determine the likelihood of death in coronary artery disease patients by identifying risk factors, promoting preventive care."
+    publishedDateTime: 2021-12-14T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-coronary-artery-disease-mortality"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
+        isCached: true
+
+secured: "iskrsI4YPd+XF6EdXffNjNbDRRDT3weQVayBkvljKI9eCl3P2l27WwncjJYMhUea9FRBBkrIbn28iTdrGhoIvKypRC2dCx6hehbuSqZZrmGbBAM614nIfLXl8LQAQOEeTi9VtrWLlSLoxETEu7Q3ngRGFxLTtsddQRQLAz3KoqZENTz1FGaHa6SidzW7z2wxD+VwTv9vi6RwJAXJbqEr9h3rO1YuRPGeYqRSrgqKaa/qDUnFj0Ztji0Uy1zxW9ppsOEo0jj2tLFiQn0jrhHtpA82UgKYgINQ1eNYs5uld5tYCRIVvI5TnEvrLzV7K40IRme3oRBfx77W/oyRzcB9WrfKK1XbEOXaaVU7v1S9iKE=;K7Y18dzqkULCNxOPkTEILA=="
 ---
 

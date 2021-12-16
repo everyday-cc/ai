@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/16/utilidata-nvidia-building-ai-p
 webUrl: "https://siliconangle.com/2021/12/16/utilidata-nvidia-building-ai-powered-chip-will-help-integrate-renewable-energy-grid/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 960
     height: 606
     isCached: true
+
+related:
+  - title: "US Energy Department tests new smart grid chip from Nvidia, Utilidata"
+    excerpt: "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations."
+    publishedDateTime: 2021-12-16T21:46:00Z
+    webUrl: "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "3 Things About Nvidia That Smart Investors Know"
+    excerpt: "To gain a deeper understanding of this complex chipmaker, we should analyze three finer points that only smarter investors have likely spotted. The bullish thesis for Nvidia in the data center market is easy to grasp."
+    publishedDateTime: 2021-12-15T18:45:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/15/3-things-about-nvidia-that-smart-investors-know/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/657446/image1.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
+  - title: "Utilidata Develops Software-Defined Smart Grid Chip with NVIDIA"
+    excerpt: "Utilidata, an industry leading grid-edge software company, announced today that it is developing a software-defined smart grid chip in collaboration with NVIDIA. The chip will be powered by NVIDIA's AI platform and embedded in smart meters to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/utilidata-develops-software-defined-smart-grid-chip-with-nvidia-1031051001"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
+    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T21:03:00Z
+    webUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 48
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "NN3rKNUFfPBTkjNYxmYC1o9S0nHrFuEeSZrniLndv4yAO1iniDE4vtu0AUjN/iglklD/fZ2CRi3D1tTN+zrUz74WI6ow4y6nDBBR75a03peV5JEDJf9XWaB+IkIDrQwSlw5Xg6RToNLa7a4rBPHWf7GjmTWlOsF05kWBwCnUkaTBjLVXaOC/ah3HOt00XKU1cqNpJ4kKebfPC6Yc0lp8VY3PFHFK95xmI9KeHKfcBxrdQku8twPmP+VpVIZjpa6jYFYdtpzDlNJEpnwqdYgRa8ITitJoqqTk7W2gSv5sR9wxEPq4cBtEUV+6pF8IjqB6wQ5WT0NY4z2AuqJltj/1oslCLTQjIKL+RYI9N66t5/9A29uK2EUj4vxgSlxtDbUT3KYtVx3vV3H5delqNmAlgNILS11M3NNltgJTg1Jgj9A27qTRi+VGsJpHCt7jSXLSFsDSGrH5aqj0lO6SegyAJ+wuP0AV8fl55JZVg485zQBVcCfytcoMA9KvZzbHLdn//Clgcw4bFu73PqvuJIQ0nQ==;nVvZr0sC5H4YHLjuD/bUzQ=="
 ---

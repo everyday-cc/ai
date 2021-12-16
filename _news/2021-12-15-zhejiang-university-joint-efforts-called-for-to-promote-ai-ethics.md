@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-cal
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

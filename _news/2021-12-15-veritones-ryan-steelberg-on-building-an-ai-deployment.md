@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an
 webUrl: "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

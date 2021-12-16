@@ -6,6 +6,9 @@ publishedDateTime: 2021-12-16T14:50:00Z
 originalUrl: "https://idw-online.de/en/news785770"
 webUrl: "https://idw-online.de/en/news785770"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: idw

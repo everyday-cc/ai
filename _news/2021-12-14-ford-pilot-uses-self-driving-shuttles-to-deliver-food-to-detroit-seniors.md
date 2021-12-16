@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017
 webUrl: "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-15-2021/t_9ab70ef79d894531bbdfb93ca66fd944_name_image.jpg?_a=ATABlcW0"
         width: 700
         height: 394
+        isCached: true
+  - title: "Self-driving shuttle program planned for NJ city"
+    excerpt: "Vehicles Equity System Project aims to bring 100 self-driving electric shuttles to the state capital’s 90,000 residents."
+    publishedDateTime: 2021-12-15T20:00:00Z
+    webUrl: "https://gcn.com/emerging-tech/2021/12/self-driving-shuttle-program-planned-nj-city/359809/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 24
+    images:
+      - url: "https://cdn.federalsoup.com/media/img/cd/2021/12/15/GCN_AV_shuttle_2021_12_15/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Self-driving shuttle program planned for Trenton"
     excerpt: "Vehicles Equity System Project aims to bring 100 self-driving electric shuttles to the state capital’s 90,000 residents."

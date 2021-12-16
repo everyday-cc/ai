@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "France says facial recognition company Clearview breached privacy law"
-    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-    publishedDateTime: 2021-12-16T15:16:00Z
-    webUrl: "https://www.reuters.com/technology/france-says-facial-recognition-company-clearview-breached-privacy-law-2021-12-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=64"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
@@ -96,6 +82,24 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "France says facial recognition company Clearview breached privacy law"
+    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
+    publishedDateTime: 2021-12-16T09:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/france-says-facial-recognition-company-clearview-breached-privacy-law"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
+    excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
+    publishedDateTime: 2021-12-16T02:56:00Z
+    webUrl: "https://www.zdnet.com/article/oaic-determines-afp-trial-of-clearview-ai-interfered-with-privacy-of-australians/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 41
 
 secured: "oOHIhFn61b++Het6wRQoM1BIb5C7wNWkNXzgJb4iHGhbk34W9rwREZzndjVHxsSZqrxWJcn4faAMoUXDNcXWxduC9I+V0QN6ExMTkKDfkS3jN/29hK1672XIYkKTXjeUSwMrX6dqphW0HiOz/3iy+ifxBuoZOxbJ6MO+i63UYqxyPHcPJemdtuFORe2D7aYL1jti7T8bo6gsP94dHUKhZH84JL/6evxQ8CNKpPuEYi6Xgg64xjCWmatxKnHhsAVIJ1jxGP/TFIF0IsmEX11YAGAJqa7+p+Gg8VK8WD2TnvU/iTJuKFZ/90gEW9iyk/NZqhQBsJX7sDBK1jRoRkVnz58emARvvaJkoSKxKTc24o0=;DPgCJuq2EpRugrgH4c1OJw=="
 ---

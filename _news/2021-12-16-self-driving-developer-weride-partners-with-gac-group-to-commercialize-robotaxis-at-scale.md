@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/self-driving-developer-weride-partn
 webUrl: "https://www.linkedin.com/pulse/self-driving-developer-weride-partners-gac-group-commercialize-"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Carmaker GAC Invests USD30 Million in Self-Driving Startup WeRide to Make Robotaxis"
-    excerpt: "Chinese carmaker Guangzhou Automobile Group has invested USD30 million in autonomous driving startup WeRide to develop and manufacture robotaxis for large-scale operation. The pair plans to build a fleet of tens of thousands of robotaxis in the coming years to provide the public with self-driving mobility services,"
-    publishedDateTime: 2021-12-15T13:04:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-carmaker-gac-invests-usd30-million-in-self-driving-startup-weride-to-make-robotaxis"
+  - title: "BAIC, Baidu begin joint output of robotaxis"
+    excerpt: "Baidu said in June it was working with BluePark New Energy ... The robotaxis, developed on SAIC’s R-badged Marvel electric crossovers, are equipped with L4 self-driving technology developed by Momenta, a Chinese autonomous driving startup."
+    publishedDateTime: 2021-12-16T17:37:00Z
+    webUrl: "https://www.autonews.com/china/baic-baidu-begin-joint-output-robotaxis"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 14
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-carmaker-gac-invests-usd30-million-in-self-driving-startup-weride-to-make-robotaxis/18267601348329472.jpg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "UcmuVQTP25rlDNYLAyElH32v9dbn4jy/iKGGkgZk+//a1QEuoUAt7zUTlrVl/HCdvHHM+iENDjOrsatWdrkeXXBvIJzfvZag3Zb8XRfg2ASdW/4kbQNwfysmIkUl/KlEepyhYJIPULJ+q4jYnqyvV4S+CFBq9oR7hveKdbiUU0elfKoV40rGlO8ahGW4Ser2ZEGQhxR+rkcGvYCkwfXSskz6uzgt6fUGJ226pwT2jRpUGdc5a12udGul5VY1yW3ZPZj+Sn+SstlKb30s5HxSR4/XKe3pHXbDACWcXo4a1z+tjhRXiI1rDJZNqsrSIXx075WJbFxupshzTh5OEg5xjwtvORxnlMp1vx5t76sapbDzJWoLXf3dqnlCKOBi0KaLIHKEiIGPqjF1TxJ6cydVfqUyg6zbq0qOIoxrLRtpPtCDB+e9sFpK51eUSFhUMQ1FV0z5NRsLADhJMOZVQqdZMx/EIjpdRaW+zFXWH/jxlRsWhfj5okLmhXphPxtENY8qh7xS4ZOHz/MTrlASK/GF1g==;9gVB8pS7yqUA0zgVgYgjnw=="
 ---

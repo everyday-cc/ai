@@ -65,6 +65,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Size, Trends, Scope, Demand, Growth and Forecast 2021 to 2026"
+    excerpt: "The latest report by IMARC Group titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” finds that the global voice and speech recognition market reached a value of US$ 9."
+    publishedDateTime: 2021-12-13T13:24:00Z
+    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 46
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
     excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
     publishedDateTime: 2021-12-15T12:28:00Z

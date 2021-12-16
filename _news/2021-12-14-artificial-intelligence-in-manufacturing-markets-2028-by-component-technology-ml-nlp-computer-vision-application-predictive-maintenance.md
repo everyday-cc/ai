@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=587796"
 webUrl: "https://us.acrofan.com/detail.php?number=587796"
 type: article
 quality: 63
-heat: 75
+heat: 73
 published: true
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2021-12-16T19:16:00Z
 originalUrl: "https://www.philosophersmag.com/essays/255-the-robot-apocalypse-is-already-here"
 webUrl: "https://www.philosophersmag.com/essays/255-the-robot-apocalypse-is-already-here"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Philosophers' Magazine

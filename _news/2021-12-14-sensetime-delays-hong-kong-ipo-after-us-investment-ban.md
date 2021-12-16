@@ -97,20 +97,6 @@ related:
         width: 1050
         height: 694
         isCached: true
-  - title: "AI startup SenseTime Hong Kong IPO in limbo after US blacklisting"
-    excerpt: "Chinese artificial intelligence startup SenseTime Group is considering whether it can proceed with a planned $767 million Hong Kong initial public offering after the US added it to an investment blacklist,"
-    publishedDateTime: 2021-12-12T06:00:00Z
-    webUrl: "https://cyprus-mail.com/2021/12/12/ai-startup-sensetime-hong-kong-ipo-in-limbo-after-us-blacklisting/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 37
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/12/sentime-ipo-china-us-ipo-hong-kong.jpg"
-        width: 1169
-        height: 797
-        isCached: true
   - title: "AI Developer SenseTime Pulls Stock Sale Due to U.S. Sanctions"
     excerpt: "The Hong Kong-based company SenseTime protests its inclusion on a U.S. sanctions list for supplying AI software to the Chinese surveillance state."
     publishedDateTime: 2021-12-13T10:22:00Z

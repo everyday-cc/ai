@@ -85,6 +85,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Another major Massachusetts city votes to ban facial recognition"
+    excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
+    publishedDateTime: 2021-12-16T17:02:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 19
 
 secured: "PSLEBtK5IYRBsID0kWl9ItSCSl1c43JJ3URZH2tu5PWwS9wOs4XgX3VssV6bhQSEX6AbSWz5wvQiMNqyEzjdplAy8d5EiOls7wGKXyqfrEPoYrlLXWX8eZfFVsIhAXhR6KOkJc9Mif5TOLRY3Ad1subW9+BJ7v1Gs0DM0XAVZ+BtAWrpGXQU+2pPnzdtvGB1fKqcIGVH138cBf0Nd1GfmH7JoQirAMbzdQgcsnDwlFfRYqLPhufAUqKGMf72l4RpgjZPtbtketWzOiRWAmlKxJf7MXudabxK3RjeQKzzOAW4i+aGfI5zw5Ll+qWMmm7a2JNHasKltHIrKtqARDuYeW9eeEZ0vH8IVmSNWpFssSIPmbcqz/glda6Sm2QdCoDQlfD12m6dBwxh0qxCuejjWpuS2i2haPRKfB5kytlXAcFjLaL4vo6c+UKr6yAWvXp0mJtI7No1suZRdNf7sft3GvpeAr0+5ezLME2okmHMdaz7fZKJAa6xSlDOscuK3C6vQGQHFZ7tZ4AIOc/a/o9VGQ==;+VwpBX5/9G8bSJE34+on+w=="
 ---
