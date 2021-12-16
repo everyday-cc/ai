@@ -2,6 +2,92 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-23-swiss-re-partners-with-tcs-to-develop-a-resilient-and-futuristic-digital-workplace.md",
+      "title": "Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace",
+      "excerpt": "To find out more, read our updated Cookie Policy Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace Tata Consultancy Services to Further Develop the New Digital Core on Microsoft 365 to Allow the Reinsurer to Enhance their User Experience Even More,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "originalUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-facial-recognition-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Facial Recognition Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish.md",
       "title": "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish",
       "excerpt": "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances.",
@@ -1013,101 +1099,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-red-hat-bolsters-partner-ecosystem-to-accelerate-data-science-pipelines-across-the-open-hybrid-cloud.md",
-      "title": "Red Hat Bolsters Partner Ecosystem to Accelerate Data Science Pipelines Across the Open Hybrid Cloud",
-      "excerpt": "Red Hat, Inc., the world’s leading provider of open source solutions, today announced the availability of Red Hat OpenShift Data Science as a field trial, as well as an expanded partner ecosystem focused on this new cloud service offering.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
-      "title": "Nvidia’s latest AI tech translates text into landscape images",
-      "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "publishedDateTime": "2021-11-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

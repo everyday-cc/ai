@@ -173,6 +173,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Arlington firm launches $25M fintech-focused VC fund"
+    excerpt: "Reddy is the co-founder of Irving- and India-based VC firm Naya Ventures, which rebranded to Dallas Venture Capital last year, and founding partner of the Southlake strategic investment firm Stride Growth Partners."
+    publishedDateTime: 2021-12-15T21:04:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2021/12/15/first-rate-ventures-marshall-smith.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "tM7SEYUMilSXiJf5wlNzBJ6VJXpBH1PzoDojv+9375nFTwAqVdZXcdKYb507aT4YKeUm1nmcPPnIC5zKgGlUp1p0O8MHTEFOxiNhiunHScR1GDNstDMre0rFAb89glfkNwSlyH5QNQMSrCKZA54IRAuzyGUyTyXTuBcayznlxAhjwppve29b5OrEqD3nCytgGf0RmKeTHv1t0ZsWRKgYNFP6yxmbR+50elizBcMe21V/OeKI5IGV8I4GjuEo9FknxAHY5NPXYUAKwFpKNuZV4wd0QgzXmm89eimBEiNtTc7xpuRhlS4+MTEqwI9Jigva60Lea/c47eTf8BBy888/vIZ77EcW5hER9VN5GQMhaPAWWfL0QOZ/hbAIcdvH+Ve9QMdC8T1t6VXJ7aNRi2+WbB0Z/RStO1ysOu10FUz+br52GOXItMZbnTMQ1843Z3xDs1DhyjM0s45zInZtq9/rBWnMxkgApNjHfszAPOlAMPvxBJCbB8SnyvmR2GFUIh0MKDAH/SwZ9+v9khJWIsvgEA==;A+G0aFPjtWzMToAx8trWEg=="
 ---

@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
+      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
+      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
+          "width": 4855,
+          "height": 3182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-new-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.md",
+      "title": "New machine learning model reduces uncertainty in detection of breast cancer",
+      "excerpt": "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
+      "publishedDateTime": "2021-12-01T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-mindtree-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization",
       "excerpt": "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,",
@@ -1269,93 +1356,6 @@
       "provider": {
         "name": "IT Pro Portal",
         "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-releases-a-machine-learning-enabled-hd-camera.md",
-      "title": "AWS releases a machine learning-enabled HD camera",
-      "excerpt": "Amazon Rekognition Video, a new computer vision service for analyzing videos in batches and in real-time. The DeepLens video camera’s machine learning capabilities have been built with Greengrass technology. One of the examples AWS talked about at the Re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008",
-      "originalUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/11/AWSDeepLensWS-600x250-600x250.jpg",
-          "width": 600,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008?amp=1",
-      "publishedDateTime": "2021-11-29T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
-      "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
-      "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "originalUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56914/content/exominer-exoplanet.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "publishedDateTime": "2021-11-29T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,6 +42,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Startups and Developers are Rushing to use OpenAI's GPT-3"
+    excerpt: "Hey Guys, I write everyday at AISupremacy and you can sign up here. Without community support, I cannot do this much longer."
+    publishedDateTime: 2021-12-15T15:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/startups-developers-rushing-use-openais-gpt-3-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGK4QyuT5JI5g/article-cover_image-shrink_600_2000/0/1639581285415?e=1645056000&v=beta&t=dU1usjnY263GhbBIocJN-_jfRdWzwvFFNJrcVMh2BH4"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "vDzcEdCe828DLN5L8Y8zsiUo+V7w6Ymdf2hCduhHN6oUiZJJ3HcvWUmpWoEKBX09p7bFxqO92Eg6ABwuq6E0tOmcEoK3i8bPbQqkx/N7SoG9gUCQMceTrAiDolzL6g8mzAcDqI7WTIrFd6PAaC9aAXHeHmp4286hHprgF+ja16f+KQuFTluf+kFITZZSQa/MJufUqEZPAcld2W+qv3G/Rpej0MP7Hj/l/bGychgbuwBMRRaZzeLRue5lkOtc2QXMTuZdBjwYuryq3sNEbYyKEXm/ZK74El2HGi7+qCmF19on+QR81xvIvs0g5ReCXNvEy5x3RgYA3RrFEDMXIH4pr315kGNt7tUsFD3OHUHlgWo=;rRW4EfmmmNh58eEgRdNmtg=="
 ---

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-16-qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences.md",
+      "title": "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences",
+      "excerpt": "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-using-data-to-help-millions-of-american-workers.md",
       "title": "Using data to help millions of American workers",
       "excerpt": "ADP incorporated a vast range of AWS products to migrate and centralize its data, from Amazon EC2 (AWS’ elastic cloud computing service) instances to Amazon SageMaker (AWS’ fully managed ...",
@@ -1418,58 +1461,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market Key Driving Factors and Challenges, Opportunities and Forecast Insights by 2026",
-      "excerpt": "Emergence of FinTech and rapid innovation in the banking sector are likely to fuel global artificial intelligence (AI) in BFSI market outlook. The industry recorded a rising demand for the technology to collect & analyze a large amount of data and gain insights for supporting the banking processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026-2021-11-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026-2021-11-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,84 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2021-09-13-ai-powered-automation-and-aiops-in-focus-at-ibm-virtual-event.md",
+      "title": "AI-powered automation and AIOps in focus at IBM virtual event",
+      "excerpt": "AI-enabled automation is crucial for supporting ... and organic R&D including the launch of Cloud Pak for Watson AIOps and IBM Watson Orchestrate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
+      "originalUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
+      "publishedDateTime": "2021-09-13T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-roadblocks-to-autonomous-security-robots.md",
+      "title": "Roadblocks to Autonomous Security Robots",
+      "excerpt": "There are concerns regarding the use of fully autonomous security robots which may get in the way of bringing them to market. Whether those concerns are legitimate or not may impact how quickly robotics will be adopted for security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-artificial-intelligence-in-healthcare-market-2021-to-2027-top-impacting-factors-and-investment-study.md",
       "title": "Artificial Intelligence In Healthcare Market 2021 to 2027 Top Impacting Factors and Investment Study",
       "excerpt": "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over",
@@ -1000,102 +1078,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
-      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
-      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "publishedDateTime": "2021-09-11T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial.md",
-      "title": "Singapore sends Xavier the robot to help police keep streets safe under three-week trial",
-      "excerpt": "Singapore's Home Team Science and Technology Agency (HTX) roving robot has hit the streets of Toa Payoh ... health and safety.\" Over a three-week trial period, Xavier will detect \"undesirable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/ar-AAOcBbQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/93ef6a41135ffe35b9de2f4c77ab57bccc93e39b/2021/09/07/dc92ae6e-f0f0-4901-ba9d-0783c4e4c8cc/xavier-at-toa-payoh-central.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
-      "publishedDateTime": "2021-09-11T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
-        "domain": "zdnet.com/article/singapore-sends-xavier-the-robot-to-help-police-keep-streets-safe-under-three-week-trial/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

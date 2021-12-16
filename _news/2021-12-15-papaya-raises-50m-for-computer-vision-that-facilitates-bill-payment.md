@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 135
 published: true
 
 provider:

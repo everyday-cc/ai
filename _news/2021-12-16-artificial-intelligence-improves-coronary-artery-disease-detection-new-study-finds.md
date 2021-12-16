@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds"
-excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that' EchoGo platform, powered by"
-publishedDateTime: 2021-12-15T18:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds/article_068ee255-b8dc-5bf7-ad45-0cc99c6142bc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds/article_068ee255-b8dc-5bf7-ad45-0cc99c6142bc.html"
+excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),"
+publishedDateTime: 2021-12-15T19:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29169405-a410-5d55-a9ba-e9d86c8acfb1/61ba3f718e442.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-    width: 1196
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1710605/Ultromics_heart_disease_prediction.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -41,34 +44,7 @@ related:
         width: 480
         height: 295
         isCached: true
-  - title: "Machine learning predicts risk of death in patients with suspected or known heart disease"
-    excerpt: "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide."
-    publishedDateTime: 2021-12-11T11:36:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
-        width: 2880
-        height: 1907
-        isCached: true
-  - title: "Machine Learning Predicts Death Risk in Heart Disease Patients"
-    excerpt: "A new machine learning/artificial intelligence score provided an accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years."
-    publishedDateTime: 2021-12-11T17:02:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
-secured: "aNUWpFE4UpfnPSF+Ffc3lj9s4Efv3sPAM74dbbEQA8BlkrC/QvPaXuPTV26CCeWl26rpRphiImcjmX63YmW5YuQwcQbd/Hcj+trnPL7qdjlBgHfoRzvv4Ye/8eXusZqRyqFPrcJVJalb8aZEES9yGK2KjsnfawqsqUpWsh76CbZzZ+0Ld/W21XCmpXPk0PBBQoBKyErc06pUVi3z0jwZhrNI0lUpPIttx56ecchE4sC3jhf8C0s3xBpHxD9UM2EPAWvEUi/D7+5SWCR3F7p4ySpF81OzgvcIdqEbgoGqSzIMPYTRonc8CT1tsnuwDaJyy6TIBSIoweF98faOeuZzXJqls0JTF8sSXkY/pWHYSy8=;T4XJguL0Y3vuJJZFKR1RbQ=="
+secured: "SRCt+N/0BXgcbjQJpUGu9OOURmfD9catRAuHPez73buix//wvYlxtX/ctX0xfgiLvwsIUGzuFMVthAo54HvIiAn1lX4GH2/ySM2xQKxqOeBGC7R4SFQ962Z3KDo1A6f9JwPYWFm8qyDwYRQJ2EjP4+5mS3rWtqvnWhmKW8Gz44TVUmoJVBatOZFlBr4pYT2tlWuWzaaUD26PGRMx70n13em5+6xQz1W+4cardF3FkXS9TYJU5NRboag5wWw9F9smB/aMVZTtM3oTw9SH2S/1ZLyeWFVYtKYkOBubgapltjW/RHwYYhXcmGH9kXdLvJL+g93Xmivn2DjPEtIcWK2L3LTe+8PDBF98EkvveeDa2jI=;rOcsMhGfO9OfaKY2LUKPGQ=="
 ---
 

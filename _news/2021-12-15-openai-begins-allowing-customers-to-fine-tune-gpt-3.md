@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/openai.png"
         width: 859
         height: 478
+        isCached: true
+  - title: "Startups and Developers are Rushing to use OpenAI's GPT-3"
+    excerpt: "Hey Guys, I write everyday at AISupremacy and you can sign up here. Without community support, I cannot do this much longer."
+    publishedDateTime: 2021-12-15T15:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/startups-developers-rushing-use-openais-gpt-3-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGK4QyuT5JI5g/article-cover_image-shrink_600_2000/0/1639581285415?e=1645056000&v=beta&t=dU1usjnY263GhbBIocJN-_jfRdWzwvFFNJrcVMh2BH4"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "QIEN0Na+JBoJ5CVst4XbPXeajUBkr0pYAX3B+Fa1+RuZjwF+xA5YpcEvQ0pc3ajjhfsAfxgWFm+CJ/ipaXR0fKlwvvuun9EqEz5zTn/WR0Z2BvOFeAIcyP/9HI7VWs85/Wo++ERfMyDwlOr0tEJTNyYx3wcNsxck85t2LLrjxOZr3aGrRmVBJGA0Z2c0IE7BRGP9zpvREx6wQPC90GueoJfT6yk6aGp15533mZEHMqYD0azrIc5Q5pAXKA+lKuiylmGMajMjQxoltD/qb16dZS5hep+Ui4LNz2FTAl+vs273DVGEhxHKw7RVJM1P5nN1fcZ0HfhubPebrjsAKRs4R81GxIuKog6fZU/dLEcM18Xj1PXesofHI5KWLfyFof19tuhyRU+X9//EJThRZMObHkKXhYfdQrIEdfpZTdLktzw4j+dPIVsvvd0jzUaGyPc8UZ5bhLCa83DljjnAxu1my1bV6ORFkTagxw78rDdFyD+VZQgBzi/ddYus4jiuPfDoyfS+j4F76K+3cgLdx1ju5g==;JfkwiR0B74zBNWQ1UmmzYA=="

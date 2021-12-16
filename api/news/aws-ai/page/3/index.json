@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-24-apollo-tyres-moves-to-aws-to-enhance-customer-experience.md",
+      "title": "Apollo Tyres moves to AWS to enhance customer experience",
+      "excerpt": "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/amp/uploads/business-news/economy/Nov/24/big_thumb/appolo_619ddf6e468e4.JPG",
+          "width": 1609,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "publishedDateTime": "2021-11-23T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines.md",
       "title": "Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines",
       "excerpt": "Machine learning operations (MLOps) are key to effectively transition from an experimentation phase to production. The practice provides you the ability to create a repeatable mechanism to build, train, deploy, and manage machine learning models. To quickly adopt MLOps, you often require capabilities",
@@ -1321,49 +1364,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences.md",
-      "title": "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences",
-      "excerpt": "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

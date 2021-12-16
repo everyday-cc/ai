@@ -2,6 +2,93 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-29-artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-351-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk.md",
+      "title": "Artificial Intelligence (AI) in Construction Market Growing at a CAGR 35.1% | Key Player Oracle, Microsoft, Alice Technologies, DarKTrace, Autodesk",
+      "excerpt": "Artificial Intelligence (AI ... and related services. In July 2017, IBM launched its Watson-based service platform, created on cloud and designed to enhance service providers’ operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Thailand_tourism-Phuket-AFP-1K-05-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-ico-warns-facial-recognition-company-clearview-ai-could-face-17m-fine-over-privacy-breaches.md",
+      "title": "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches",
+      "excerpt": "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
+      "originalUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 343,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
+      "publishedDateTime": "2021-11-29T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-new-chest-imaging-database-assists-ai-in-the-covid-19-fight.md",
       "title": "New Chest Imaging Database Assists AI in the COVID-19 Fight",
       "excerpt": "Data journal GigaScience is the National COVID-19 Chest Imaging Database (NCCID), a centralized database containing chest X-rays, Computed Tomography (CT) and MRI scans from patients across the UK. Ut",
@@ -1122,109 +1209,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
-      "title": "Here's what defines a self-driving car",
-      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "publishedDateTime": "2021-11-27T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
-      "title": "Building artificial intelligence: staffing is the most challenging part",
-      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

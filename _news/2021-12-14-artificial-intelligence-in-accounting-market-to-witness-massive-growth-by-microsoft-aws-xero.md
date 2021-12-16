@@ -59,6 +59,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Companies Must Assess Threats to AI & ML Systems in 2022: Microsoft"
+    excerpt: "Most companies lack the proper tools to assess their vulnerability to threats facing their AI systems and ML pipelines, prompting Microsoft to release a risk assessment framework."
+    publishedDateTime: 2021-12-15T23:09:00Z
+    webUrl: "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 71
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte4689bb9d4891a78/61ba7e150c86f53774da5d45/MachineLearning_AlexeyKotelnikov_Alamy.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
     excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
     publishedDateTime: 2021-12-13T10:11:00Z
