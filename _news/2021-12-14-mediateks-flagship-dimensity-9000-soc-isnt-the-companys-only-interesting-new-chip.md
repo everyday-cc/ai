@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flags
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
 type: article
 quality: 82
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png"
         width: 1024
         height: 497
+        isCached: true
+  - title: "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000"
+    excerpt: "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more."
+    publishedDateTime: 2021-12-16T11:58:00Z
+    webUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/"
+    ampWebUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
+    cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
+    type: article
+    provider:
+      name: Telecom TALK
+      domain: telecomtalk.info
+    quality: 59
+    images:
+      - url: "https://telecomtalk.info/wp-content/uploads/2021/12/mediatek-unveils-energy-efficient-5g-smartphone-chip.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
     excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."

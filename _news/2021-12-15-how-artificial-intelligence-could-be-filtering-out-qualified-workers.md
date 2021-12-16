@@ -58,20 +58,6 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’"
-    excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
-    publishedDateTime: 2021-12-11T19:34:00Z
-    webUrl: "https://finchannel.com/community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 51
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/07/images_artificialinteligence.jpg"
-        width: 800
-        height: 442
-        isCached: true
 
 secured: "S6XIJ0rFD0v9t71mTkVYrLY/cBmkGmfvT/dJw5gpU9Q8+FcGKJ0HmUYyFGZxSy5CFVnd2/159ndVGR+KkMkwbYraNJfweqVpZ3l0M7NkIRGWwYQfzV+tZ1ltYY1STEaE+8DY8+CZnWl9VcJZkT+2sl7I3ReLFiajf6me7vUitcQthf4FrCedbzVSNywAyqLwJyTOY3/dF6n1KeeQqyHCa74iUmCYcMitBFa6WHVeOza3Y1ryM0GvUjUGZzWljuwoBZUNLzVK5IuuhKzEh5V+lG+E2/fQksBchnmCAwFVtNuxEZHnZ67is83SXTJQvFhsUMXlIdJ4Eg78tPm7qfBQ7iLXa0z+J53Jjjy81vpI4PJPwtoodi/A1DY18ASEJ2FLazivvdnCn7cYnbhjrtugQYPfh7kDNxW724fsMgUF8mzHXet6HMjTv5/i41a9Bslg5ftpyOlEh0zXqVtoaIhovdEfw9tFW6TKXahtWragRJsi/h5NAHhK1DHMpUfQQR/o4LN5kndvYhH9Dk1E60tpCw==;y5SPh18YpjaO1XxCXd+YaA=="
 ---

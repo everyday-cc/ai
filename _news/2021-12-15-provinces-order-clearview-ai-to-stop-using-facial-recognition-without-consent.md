@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "France latest to slap Clearview AI with order to delete data"
+    excerpt: "Controversial facial recognition company, Clearview AI, which has amassed a database of some 10 billion images by scraping selfies off the Internet so it can sell an identity-matching service to law enforcement,"
+    publishedDateTime: 2021-12-16T12:28:00Z
+    webUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/"
+    ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Clearview AI Has Acquired A New Patent For Facial Recognition Technology"
     excerpt: "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-12T20:32:00Z
@@ -36,22 +52,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-ojipHOC4CfCX.jpg"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
         isCached: true
   - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
     excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"

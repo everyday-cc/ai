@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-16-france-latest-to-slap-clearview-ai-with-order-to-delete-data.md",
+      "title": "France latest to slap Clearview AI with order to delete data",
+      "excerpt": "Controversial facial recognition company, Clearview AI, which has amassed a database of some 10 billion images by scraping selfies off the Internet so it can sell an identity-matching service to law enforcement,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/",
+      "publishedDateTime": "2021-12-16T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-chinas-mobile-robots-attract-big-money.md",
+      "title": "China's mobile robots attract big money",
+      "excerpt": "ForwardX Robotics, which makes autonomous mobile robots for materials handling, recently announced the completion of its Series C. The funding is part of a broader narrative playing out in China, where the domestic robotics sector has soared thanks to an onshoring push by the government and heavy investment in the country's tech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chinas-mobile-robots-attract-big-money/",
+      "originalUrl": "https://www.zdnet.com/article/chinas-mobile-robots-attract-big-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dce89a691ea8dcac36796b22896df3b969c1501/2021/12/15/527b9de4-4508-4363-ab64-b5466ad23eca/forwardx-robotics.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chinas-mobile-robots-attract-big-money/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-mobile-robots-attract-big-money/",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
+      "title": "TuSimple locks in self-driving trucks deal with DHL",
+      "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024",
+          "width": 1024,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-draft/amp/",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
       "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
       "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
@@ -412,58 +567,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-16-aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers.md",
-      "title": "Aurora self-driving trucks are using Uber Freight to haul goods for customers",
-      "excerpt": "Aurora’s self-driving trucks are hauling goods for Uber Freight customers in Texas as part of a multiphase commercial pilot that aims to more closely integrate the two companies.  While the pilot was officially announced Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/",
-      "publishedDateTime": "2021-12-15T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-16-robots-taking-more-jobs-because-of-covid-19-pandemic.md",
       "title": "Robots taking more jobs because of COVID-19 pandemic",
       "excerpt": "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year.",
@@ -611,7 +714,7 @@
       "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1105,21 +1208,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-15-time-to-set-global-rules-for-ai-warfare-china-tells-un-weapons-review.md",
-      "title": "Time to set global rules for AI warfare, China tells UN weapons review",
-      "excerpt": "Beijing envoy to UN Li Song says China opposes use of AI ‘to seek absolute military superiority and to undermine the sovereignty and territorial security of other countries’.",
+      "path": "_news/2021-12-15-information-is-key-to-public-support-for-police-use-of-facial-recognition-technology.md",
+      "title": "Information is key to public support for police use of facial recognition technology",
+      "excerpt": "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "originalUrl": "https://www.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
+      "webUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "originalUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/14/7d0a5ef8-fc66-4bd8-afd9-119a428021f8_5354c372.jpg?itok=rwvCvgAR&v=1639485539",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,116 +1230,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "publishedDateTime": "2021-12-14T16:54:00-08:00",
+      "ampWebUrl": "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "publishedDateTime": "2021-12-14T19:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-openai-begins-allowing-customers-to-fine-tune-gpt-3.md",
-      "title": "OpenAI begins allowing customers to fine-tune GPT-3",
-      "excerpt": "OpenAI has launched a new capability that allows users of the OpenAI API to fine-tune GPT-3 models for specific use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/",
-      "originalUrl": "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1157449117.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/",
-      "publishedDateTime": "2021-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-mlcommons-releases-open-source-datasets-for-training-speech-recognition-models.md",
-      "title": "MLCommons releases open-source datasets for training speech recognition models",
-      "excerpt": "The MLCommons Association, a nonprofit consortium that has the goal of improving machine learning for the public good, has announced the release of two key new datasets that it says can be leverage by organizations to develop superior artificial intelligence models.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source-datasets-training-speech-recognition-models/",
-      "originalUrl": "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source-datasets-training-speech-recognition-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/modern-microphone.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T15:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,7 +1246,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI"
       ]
     }

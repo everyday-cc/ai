@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 497
         isCached: true
+  - title: "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000"
+    excerpt: "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more."
+    publishedDateTime: 2021-12-16T11:58:00Z
+    webUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/"
+    ampWebUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
+    cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
+    type: article
+    provider:
+      name: Telecom TALK
+      domain: telecomtalk.info
+    quality: 59
+    images:
+      - url: "https://telecomtalk.info/wp-content/uploads/2021/12/mediatek-unveils-energy-efficient-5g-smartphone-chip.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers'"
     excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
     publishedDateTime: 2021-12-16T08:59:00Z

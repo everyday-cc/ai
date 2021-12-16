@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media.nbcdfw.com/2021/07/shutterstock_794896723.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’"
-    excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
-    publishedDateTime: 2021-12-11T19:34:00Z
-    webUrl: "https://finchannel.com/community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 51
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/07/images_artificialinteligence.jpg"
-        width: 800
-        height: 442
         isCached: true
 
 secured: "l3bCubhw6itOmvbJa8wpX71OvXugw0Gk2Jk6f0OQR4HBoEBqfq4uW5XCESQv1CR1CTgIJLE4w+PY/kKsREbuNrp3y+cAXwRqEYCGK1nAGmbD1++qGXf+N8ag7m5sV5ZJ4srSLnnBeWSksiN4RzBDDgEdE2WzDiQqi+/Onkl65i3oDEFl7YlPgFsANiAnGG3zUX9BGfLsyFxo5aYUCmCu0Ra1DSH0pLbz0gh7jSCKaZlZuzOslH+F6EJQjfoJqdMX8B6V5130bzVYYVKkqIil1sEQsZ2iBZDxhSqmyHwl1nayFladWtLMxhpHOJe1NB5G7k9IbVpMCoh9Q0jLD0naHHRCbohUmgdU06uOgVzv6VattroDSpY5sQtKLbQ56oPE4KijxoTufWmyZeZFyHaAdhPetbMrGGZA2zrStR3RWx2Vj8jwCpc/AKKDIJDwcYWeITB+uqsJ6UYsAWqmoZHUxJscv5ppXB0gIIfaKcggw8NnsjBrN9TOJghppT4dNU9gXuM8uwmRfCAtqvib2JH3LQ==;nlEcUy/I2IyU1Hm8c5N+FA=="

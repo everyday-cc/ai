@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-13-outsmarting-ai-to-be-the-grandmaster-of-your-industry.md",
+      "title": "Outsmarting AI To Be The Grandmaster Of Your Industry",
+      "excerpt": "Tactically, your organization and its business processes may not be able to outperform your competitors’ AI and data-driven approaches. But for the foreseeable future, strategically outlasting them move-for-move until they waiver remains a viable strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
+      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b67a383089d0b7b87e4f7f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
+      "publishedDateTime": "2021-12-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data.md",
+      "title": "Human-Computer Communication: How Businesses Are Using Natural Language Processing To Talk To Data",
+      "excerpt": "Today's business users rely on a collection of reports and dashboards to better understand the data underlying their operations. These tools are most often designed by IT organizations, which use coding languages like SQL to ask questions of their database and report the findings back to business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-why-are-teslas-self-driving-software-sales-slowing-down.md",
+      "title": "Why Are Tesla’s Self Driving Software Sales Slowing Down?",
+      "excerpt": "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
+      "publishedDateTime": "2021-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-deepfake-anyone-ai-synthetic-media-tech-enters-perilous-phase.md",
       "title": "Deepfake anyone? AI synthetic media tech enters perilous phase",
       "excerpt": "\"Do you want to see yourself acting in a movie or on TV?\" said the description for one app on online stores, offering users the chance to create AI-generated synthetic media, also known as deepfakes.",
@@ -274,49 +430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology.md",
-      "title": "Clearview AI Has Acquired A New Patent For Facial Recognition Technology",
-      "excerpt": "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage.",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
-      "originalUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-ojipHOC4CfCX.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-12-12T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1090,101 +1203,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-microsoft-aims-to-make-developers-lives-easier-with-deep-learning-bug-hunt.md",
-      "title": "Microsoft aims to make developers lives' easier with deep learning bug hunt",
-      "excerpt": "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt",
-      "originalUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp",
-      "publishedDateTime": "2021-12-10T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-headroom-launches-to-combat-zoom-fatigue-with-ai.md",
-      "title": "Headroom launches to combat Zoom fatigue with AI",
-      "excerpt": "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Gestures.png?fit=800%2C427&strip=all",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/",
-      "publishedDateTime": "2021-12-10T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

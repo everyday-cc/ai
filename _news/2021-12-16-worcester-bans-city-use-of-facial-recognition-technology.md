@@ -21,6 +21,47 @@ topics:
   - AI
 
 related:
+  - title: "Information is key to public support for police use of facial recognition technology"
+    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
+    publishedDateTime: 2021-12-15T03:47:00Z
+    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Living proof of face recognition"
+    excerpt: "Millions of mobile users already deploy face recognition to unlock their phones. The use of face recognition for digital life certificates is a smart way to offer convenience to pensioners"
+    publishedDateTime: 2021-12-12T17:21:00Z
+    webUrl: "https://www.business-standard.com/article/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Carmaker Xpeng Deletes 430,000 Photos for Misuse of Facial Recognition"
+    excerpt: "Chinese electric-vehicle (EV) startup Xpeng Inc. said that the hundreds of thousands of photos that were wrongfully taken of visitors to its showrooms have been deleted, after it was hit by a 100,000 yuan ($15,"
+    publishedDateTime: 2021-12-15T12:20:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-15/carmaker-xpeng-deletes-430000-photos-for-misuse-of-facial-recognition-101818294.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-12-15/163955376422173_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
     publishedDateTime: 2021-12-15T13:52:00Z
@@ -63,6 +104,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
+    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
+    publishedDateTime: 2021-12-14T14:38:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 7
 
 secured: "AgVr8fuNz6G6ld7FTzhziNXajKWaXu9ey5La2Z2foPdjrOjSPQMjdO+yaz1Bx5aZWIIrhc+z8Ri4XGOjWH9rL74trTBd2GiFwaIX1XUJ85yekuPzRFr5HkwFopVf+gWmClt2buLwXkwHNoADPkFWB+bPsPuac0q3etNOqqxyLJeN3SsbXs02G2boPQpWHmrz4+ptv2d/ZWUYYhMZr403qSXGfKhrUI/ur5xrarIIZXDo0SX+R55XPp6uWNgVJHFpDHmfOf4RyacgrrFWT442hPZOfR5ZTmGBrOGI672a0sCojkfuQr0SYQ5ZZCLPAlQc4ytOfr5+r3VW+Xb3DuAWEWLedPm/bWSMBofCKKi9pYlz37F1F9ox/NM7k6gQRXS1aYCR8aMqC/Y1k2aagkXZj9o4nfDq7Uq0oeuIUE7sbtoUNn/1K/BKoPYI0xdlbUuzMSy6Ob2/SMNXUY+MK8+dCqWwNiKIZaqk3Q0J7GMis01BQ64gHPi8HUahUMlLEb35t+VsKU1x37j8gZwIeahimA==;+a0kDOzrLGyXavMSyHz86A=="
 ---

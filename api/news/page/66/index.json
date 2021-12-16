@@ -2,6 +2,110 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-10-27-salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale.md",
+      "title": "Salesforce’s Kathy Baxter and Amazon’s Nashlie Sephus talk keeping AI ethical at Enterprise scale",
+      "excerpt": "AI and big data are an important part of most enterprise-scale companies now, but that very scale can make it difficult to employ them safely and ethically. Kathy Baxter at Salesforce and Nashlie Sephus at AWS have made ethical AI and data collection their business over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/kathy_Amazon_post.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "publishedDateTime": "2021-10-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level.md",
+      "title": "Keeping An “AI” On Fintech: AI-Based Use Cases Poised To Take Financial Services To The Next Level",
+      "excerpt": "What AI and ML use cases are applicable to fintech? Financial services have their own set of common AI and ML use cases. These include, but are not limited to cost reduction, process automation, spend reconciliation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/26/keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/26/keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178577f1114e88d79887539%2F0x0.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-speechmatics-launches-autonomous-speech-recognition-software.md",
       "title": "Speechmatics Launches Autonomous Speech Recognition Software",
       "excerpt": "Leading speech recognition technology startup Speechmatics has launched its ‘Autonomous Speech Recognition’ software that uses the latest deep learning techniques and breakthrough self-supervised models.",
@@ -1048,109 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
-      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
-      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
-          "width": 1440,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "publishedDateTime": "2021-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
-      "title": "Adobe continues its AI push in Creative Cloud",
-      "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
-      "originalUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/landscape_mixer.gif",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
-      "publishedDateTime": "2021-10-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

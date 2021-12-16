@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
+      "title": "TuSimple locks in self-driving trucks deal with DHL",
+      "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024",
+          "width": 1024,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-draft/amp/",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-the-many-faces-of-artificial-intelligence.md",
       "title": "The many faces of artificial intelligence",
       "excerpt": "Artificial intelligence has graduated from science fiction to being applied to almost everything. One dental hygiene manufacturer has even claimed its electric toothbrushes now incorporate the technology.",
@@ -55,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-16-aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers.md",
-      "title": "Aurora self-driving trucks are using Uber Freight to haul goods for customers",
-      "excerpt": "Aurora’s self-driving trucks are hauling goods for Uber Freight customers in Texas as part of a multiphase commercial pilot that aims to more closely integrate the two companies.  While the pilot was officially announced Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/",
-      "publishedDateTime": "2021-12-15T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
       "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
       "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {

@@ -44,6 +44,20 @@ related:
         width: 3942
         height: 5905
         isCached: true
+  - title: "Is Tesla Stock In For A Pullback Or Will It Continue Its Way Up In Near-Term? It's Robot Vs. Cathie Wood On This One"
+    excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ: TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric"
+    publishedDateTime: 2021-12-16T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-it-s-robot-vs-cathie-wood-on-this-one-1031049757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "NoDIvEoBACP075lxj0tK6w20ARDqJ3I8MT4o/HVKZVeRRXT4Ra09VRiBMTkDFBfNoQRYbm7n4fzU4ez34yJHNq84EWl/5OSYHczysvA7cCR6viqquxSEwkjoZT3qd6C4kVPBxQnwHhXMQjM9oEePjPBhhbRS7WVOZVDSzDKhJb98STyPFLRSO53ZRocpCDxR2Vn2JlJn9B7Q4RAJEk+slKDsjPoiCCk7GYlEY7/AS0uinU0uvJQoCFcy6NU2I7Ak/Slv6HSyLqljcJxWrNS1+vTSayoAPB4mT4XlLdPVLMbz0Q8Ull2LLIFJyNJ/+Ehe+2mvADe1nZMaaGYMXKqcrIGkMoIHOCDpEkvhrP3xrSU=;EiOg37UVb6kCGDbNe7QpCA=="
 ---
