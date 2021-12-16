@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-12-10-group-backed-by-top-companies-moves-to-combat-ai-bias-in-hiring.md",
-      "title": "Group backed by top companies moves to combat AI bias in hiring",
-      "excerpt": "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/buffalo/news/2021/12/09/artificial-intelligence-bias-combat.html",
-      "originalUrl": "https://www.bizjournals.com/buffalo/news/2021/12/09/artificial-intelligence-bias-combat.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-secretive-ai-companies-need-to-cooperate-with-good-hackers-to-keep-us-all-safe-experts-warn.md",
       "title": "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn",
       "excerpt": "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate.",
@@ -1187,6 +1153,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-education-is-key-to-helping-cees-healthcare-professionals-embrace-ai.md",
+      "title": "Education is key to helping CEE’s healthcare professionals embrace AI",
+      "excerpt": "Education is the most important factor for the fast adoption of healthcare innovations. In Central, Eastern and Southern Europe, EIT Health and GE Healthcare are making it happen.",
+      "sourceUrl": null,
+      "webUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
+      "originalUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://emerging-europe.com/wp-content/uploads/2021/12/bigstock-portrait-of-a-female-researche-16436390.jpeg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "emerging-europe.com",
+        "domain": "emerging-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Education"
       ]
     }
   ],

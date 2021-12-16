@@ -2,29 +2,26 @@
 category: news
 title: "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds"
 excerpt: "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),"
-publishedDateTime: 2021-12-15T19:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373"
+publishedDateTime: 2021-12-15T20:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20159373.html"
+webUrl: "https://www.lelezard.com/en/news-20159373.html"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1710605/Ultromics_heart_disease_prediction.jpg"
-    width: 400
-    height: 209
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -44,7 +41,34 @@ related:
         width: 480
         height: 295
         isCached: true
+  - title: "Machine learning predicts risk of death in patients with suspected or known heart disease"
+    excerpt: "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide."
+    publishedDateTime: 2021-12-11T11:36:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
+        width: 2880
+        height: 1907
+        isCached: true
+  - title: "Machine Learning Predicts Death Risk in Heart Disease Patients"
+    excerpt: "A new machine learning/artificial intelligence score provided an accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years."
+    publishedDateTime: 2021-12-11T17:02:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
-secured: "SRCt+N/0BXgcbjQJpUGu9OOURmfD9catRAuHPez73buix//wvYlxtX/ctX0xfgiLvwsIUGzuFMVthAo54HvIiAn1lX4GH2/ySM2xQKxqOeBGC7R4SFQ962Z3KDo1A6f9JwPYWFm8qyDwYRQJ2EjP4+5mS3rWtqvnWhmKW8Gz44TVUmoJVBatOZFlBr4pYT2tlWuWzaaUD26PGRMx70n13em5+6xQz1W+4cardF3FkXS9TYJU5NRboag5wWw9F9smB/aMVZTtM3oTw9SH2S/1ZLyeWFVYtKYkOBubgapltjW/RHwYYhXcmGH9kXdLvJL+g93Xmivn2DjPEtIcWK2L3LTe+8PDBF98EkvveeDa2jI=;rOcsMhGfO9OfaKY2LUKPGQ=="
+secured: "IjVy416xb7cR5JCv0Bgg5mvLCGjtN51m+w//5BpzCE14pstf7xtu/oebeQBi6uClYzpl7StVKL0/7L0ck5AWtHWPMEGDYW4TMflQIXDeBoNiy28YPedckZqvE/yMdhFvDzObRs8veHLl95o4hOHYO8Kxq5c0as2Ol/tT9TKRgIVeAu+4AAFMb1IIhgeMU/GkP3MF48vxaN6A3ifVJqKIgcYIEIUAxKMELWZdjjWSjQsyvwYOKpRziygEFVLapg9MIZnkV1obiUYOlI8BeaB1GounoIxYKrTChySyfzMKboj3ue9h+X1asfCa0Gr4mBv3QlLpm2FjL4j9YYTpZkEZT97rGS9Fgy70kSp+zboPQ0c=;mLtv+DHPMRK+tQsURb+cLA=="
 ---
 

@@ -585,49 +585,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-machine-learning-predicts-risk-of-death-in-patients-with-suspected-or-known-heart-disease.md",
-      "title": "Machine learning predicts risk of death in patients with suspected or known heart disease",
-      "excerpt": "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg",
-          "width": 2880,
-          "height": 1907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp",
-      "publishedDateTime": "2021-12-11T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-microsoft-aims-to-make-developers-lives-easier-with-deep-learning-bug-hunt.md",
       "title": "Microsoft aims to make developers lives' easier with deep learning bug hunt",
       "excerpt": "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them.",
@@ -1440,6 +1397,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

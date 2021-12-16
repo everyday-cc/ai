@@ -110,57 +110,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-16-artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds.md",
-      "title": "Artificial Intelligence Improves Coronary Artery Disease Detection, New Study Finds",
-      "excerpt": "A new study published today, Automated Echocardiographic Detection of Severe Coronary Artery Disease Using Artificial Intelligence, found that Ultromics' EchoGo platform, powered by Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-improves-coronary-artery-disease-detection-new-study-finds-1031048373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1710605/Ultromics_heart_disease_prediction.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-16-ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round.md",
       "title": "AI-powered VFX startup Wonder Dynamics raises $10M A round",
       "excerpt": "Wonder Dynamics aims to make “blockbuster-level” visual effects achievable by living-room-level creators using AI and cloud services, though it has kept its product closely under wraps. The secretive company,",
@@ -169,7 +118,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -419,7 +368,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -599,6 +548,50 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
+      "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
+      "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg",
+          "width": 3942,
+          "height": 5905,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24614006",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614006",
+      "publishedDateTime": "2021-12-15T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -911,59 +904,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
-      "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
-      "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ: TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding-1031046687",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding-1031046687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-ai-decoded-algorithmic-management-deepminds-language-model-dont-hate-the-player.md",
       "title": "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -1253,6 +1193,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-wall-climbing-hb1-robot-could-find-work-in-high-places.md",
+      "title": "Wall-climbing HB1 robot could find work in high places",
+      "excerpt": "It's safe to say that any task which involves going up high is at least somewhat dangerous. The HB1 robot was designed with this fact in mind, as it climbs walls and even scuttles across ceilings so people don't have to.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "originalUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b6d7f43/2147483647/strip/true/crop/2106x1404+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F88%2F06%2F18a9f5864ede8ee531a4a3883785%2Fscreenshot-2020-07-22-at-08.44.19-5.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "publishedDateTime": "2021-12-14T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

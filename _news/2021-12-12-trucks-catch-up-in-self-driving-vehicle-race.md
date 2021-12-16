@@ -210,20 +210,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 39
-  - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
-    excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
-    publishedDateTime: 2021-12-11T09:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/self-driving-car-market-next-big-thing-major-giants-toyota-sutar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 32
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVG4bCGPTTGw/article-cover_image-shrink_720_1280/0/1639215105558?e=1644451200&v=beta&t=zR0p2DGL0tPnfA0bHNHIV-MPdfbnyHZUai6zCmEaytY"
-        width: 1084
-        height: 720
-        isCached: true
 
 secured: "FltE9Pt0JgUWFVDU1A3XY9ibQ88kYGF842r1st4B5XyioBkkn1tt6gcGFkegMEB82vOOXHTwioS1tmDvSeVqorRUhlIeBqgL1mMwOsPTpUKe5/KzH3DJfnDOkA/JsuOssHlHyYFm41hmnVwZarAkH4sTYPe42w4n223Y8aLFRjW26yvEww4rs5COyno8vt4ai06NQZZv8xp7BsH+EmQJNLWUHKWhAOO8Z5iJPtc7kECcPQMshKbyXGCcCjwFMKLf27anL1JPnOAdr2SzBUk+lt5F3XMl9xBGT6KK23Ntx59tHELfhgeEnWpgG5C4foYuAlpA9nZqHIv9ZRLy9xBYEuG3Qyn13jMGST5/1bOovKU=;5qz/YvHD3sXRLIcwfFdsBg=="
 ---

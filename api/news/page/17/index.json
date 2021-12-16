@@ -371,19 +371,19 @@
     {
       "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
       "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
+      "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -393,11 +393,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T17:59:00-08:00",
+      "publishedDateTime": "2021-12-01T18:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

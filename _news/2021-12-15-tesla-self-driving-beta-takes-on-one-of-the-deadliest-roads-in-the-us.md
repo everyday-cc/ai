@@ -195,20 +195,6 @@ related:
         width: 540
         height: 420
         isCached: true
-  - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
-    excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
-    publishedDateTime: 2021-12-11T09:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/self-driving-car-market-next-big-thing-major-giants-toyota-sutar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 32
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVG4bCGPTTGw/article-cover_image-shrink_720_1280/0/1639215105558?e=1644451200&v=beta&t=zR0p2DGL0tPnfA0bHNHIV-MPdfbnyHZUai6zCmEaytY"
-        width: 1084
-        height: 720
-        isCached: true
   - title: "Trucks catch up in self-driving vehicle race"
     excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
     publishedDateTime: 2021-12-11T16:00:00Z
