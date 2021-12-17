@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
+      "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
+      "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "publishedDateTime": "2021-12-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises.md",
       "title": "Unbabel acquires Lingo24 to bolster AI-driven translations for enterprises",
       "excerpt": "Unbabel, a startup delivering AI-driven translations, today announced the decision to acquire Lingo24, a UK-based language service provider.",
@@ -649,40 +701,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to a market research report \" Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-speech-to-text-api-market-worth-54-billion-/2021/12/08/9507505.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-speech-to-text-api-market-worth-54-billion-/2021/12/08/9507505.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
       "title": "Natural Language Processing and Conversational AI in the Call Center",
       "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
@@ -724,6 +742,40 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24501684",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24501684",
+      "publishedDateTime": "2021-12-08T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1362,49 +1414,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy-instruction.md",
-      "title": "Leading Speech Technology for Kids Company Releases First-of-its-Kind Feature to Accelerate Literacy Instruction",
-      "excerpt": "SoapBox Labs, the speech recognition company that powers joyful learning and play experiences for kids, has launched a new feature that gives educators unprecedented",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/ff/fff8b4fc-ff0d-5c9a-9854-f68427317181/60ace803540e5.image.jpg?crop=878%2C461%2C560%2C0&resize=878%2C461&order=crop%2Cresize",
-          "width": 878,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

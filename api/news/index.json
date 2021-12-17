@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
+      "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
+      "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "publishedDateTime": "2021-12-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
       "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
       "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
@@ -431,7 +483,7 @@
       "originalUrl": "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -630,7 +682,7 @@
       "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -924,7 +976,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1154,59 +1206,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
-      "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
-      "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58be71f71a1f3001f125%2F0x0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "publishedDateTime": "2021-12-16T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

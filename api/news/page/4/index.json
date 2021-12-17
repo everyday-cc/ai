@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/402549",
+      "originalUrl": "https://www.entrepreneur.com/article/402549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-globalwonks-relaunches-as-enquire-ai-following-55m-round.md",
       "title": "GlobalWonks relaunches as Enquire AI following $5.5M round",
       "excerpt": "When users ask a question they receive bite-sized answers in real time from over 40,000 possible experts based on expertise tags.",
@@ -675,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-14-movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition.md",
+      "title": "Movement of COVID cases in this country to be tracked by AI-facial recognition",
+      "excerpt": "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
+      "originalUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "publishedDateTime": "2021-12-13T23:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
       "title": "UN head calls for action on 'killer robots' as Geneva talks start",
       "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
@@ -1085,110 +1183,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
-      "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
-      "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "originalUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Unique-founders-.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "publishedDateTime": "2021-12-13T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
-      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
-      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "publishedDateTime": "2021-12-13T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

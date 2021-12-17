@@ -2,6 +2,99 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2021-09-28-enterprise-ai-platform-leena-ai-raises-30m-to-be-a-siri-for-employees.md",
+      "title": "Enterprise AI platform Leena AI raises $30M to be a ‘Siri for employees’",
+      "excerpt": "Leena AI, an AI-powered conversational platform used by major enterprises such as Nestlé, has raised $30 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/transform.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-leena-ai-gets-30-million-funding-from-bessemer-b-capital.md",
+      "title": "Leena AI gets $30 million funding from Bessemer, B Capital",
+      "excerpt": "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
       "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
       "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
@@ -1045,92 +1138,6 @@
       "provider": {
         "name": "Lowyat.net",
         "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
-      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
-      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
-          "width": 780,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kcl.ac.uk",
-        "domain": "kcl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021.md",
-      "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

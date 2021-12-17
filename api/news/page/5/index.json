@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
+      "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
+      "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
+      "originalUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Unique-founders-.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
+      "publishedDateTime": "2021-12-13T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
+      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
+      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
+      "publishedDateTime": "2021-12-13T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip.md",
       "title": "MediaTek’s Flagship Dimensity 9000 SoC Isn’t The Company’s Only Interesting New Chip",
       "excerpt": "A few weeks ago at its Executive Summit in Laguna Beach, CA, MediaTek announced its first foray into the SoC market: the Dimensity 9000. The company’s first 4nm chip from TSMC features a multitude of flagship-worthy features that make it competitive with what’s already available in the market today.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -106,7 +210,7 @@
       "originalUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -630,7 +734,7 @@
       "originalUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -997,8 +1101,8 @@
       "title": "Boffins unveil artificial intelligence that thinks just like we do",
       "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "originalUrl": "https://www.techradar.com/sg/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "webUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "originalUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1015,8 +1119,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "ampWebUrl": "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
       "publishedDateTime": "2021-12-11T20:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1088,84 +1192,6 @@
         "AI in Robotics",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
-      "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
-      "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
-      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
-      "publishedDateTime": "2021-12-11T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-top-free-artificial-intelligence-courses-to-take-up-in-2022.md",
-      "title": "Top Free Artificial Intelligence Courses to Take up in 2022",
-      "excerpt": "Artificial Intelligence makes it all possible and more. Artificial Intelligence is a useful skill to keep under your belt, especially since it was all the rage right now, as the dot-com boom a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-free-artificial-intelligence-courses-to-take-up-in-2022/",
-      "originalUrl": "https://www.analyticsinsight.net/top-free-artificial-intelligence-courses-to-take-up-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Free-Artificial-Intelligence-Courses-to-Take-up-in-2022.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-11T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

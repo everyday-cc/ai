@@ -47,6 +47,34 @@ related:
         width: 1024
         height: 539
         isCached: true
+  - title: "DHL orders 100 self-driving U.S. trucks from TuSimple and Navistar"
+    excerpt: "DHL said it is looking forward to deploying TuSimple's driverless technology across multiple regions outside the U.S. in the future."
+    publishedDateTime: 2021-12-17T10:01:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tusimple-and-navistar-sell-100-self-driving-trucks-dhl"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Germany's DHL orders 100 self-driving trucks from TuSimple, Navistar for use in U.S."
+    excerpt: "The logistics provider said it is looking forward to deploying TuSimple's driverless technology across multiple regions outside the U.S. in the future."
+    publishedDateTime: 2021-12-16T12:42:00Z
+    webUrl: "https://europe.autonews.com/suppliers/germanys-dhl-orders-100-self-driving-trucks-tusimple-navistar-use-us"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/TuSimple-main_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ImyzK4+wgwrETbmJs/5WUb/bB14k9SVf41zJHjo30/mzoc6btlhqxP+3PrwpCILPvNrwtQIlCdIsT7IrOTCs30gIpus2CJBxsXBqsU1CCvOejal3UVF/+TQL5ltbmhI/292o8oVkZwM+84/F1ArRZ7trZcHCS3kFrZEVfN563T7JIVWVcEWlc5sqwoBtwe0DcUBFdExZUCqHJ7AtY+cji38sSMYH06K6VOH46K7zll6SuIupZ/183fElf9ira/JSkS9LdTLF4x44Q8b5CL4JrwY5RnVkQ6srEiKxuUQiZyOZAgwsiXyIOGXQ41PhbpyzmpFyHn0Asvyf/F48mSUz7cp6OSWbd7uKF0tRKKdwXOPPfvQtw33LS34KCZTCg+2ydkyBOD3BBUsjCixAaE+f3r0TTFvgcMV5wTzSt6WcCGCWYsmwzYOquGb5BM8Z/ltMsOnmnXQ7hvYKqK3pFuQqYYuugQ7frTTKz9DGmv0hKdQe1QI5U9JpQXpuf3A0gQ3EbGylMoBkcq1GC6DUAt6AVA==;jpQvercgKmymUWjjbyMnAw=="
 ---

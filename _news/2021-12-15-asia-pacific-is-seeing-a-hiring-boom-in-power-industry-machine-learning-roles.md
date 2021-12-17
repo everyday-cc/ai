@@ -67,6 +67,20 @@ related:
         width: 1280
         height: 804
         isCached: true
+  - title: "Where is food industry’s hiring for machine-learning jobs buoyant?"
+    excerpt: "Europe was the fastest-growing region for the hiring for machine-learning roles among food manufacturers in the three months ending October, GlobalData says."
+    publishedDateTime: 2021-12-17T15:04:00Z
+    webUrl: "https://www.just-food.com/features/where-is-food-industrys-hiring-for-machine-learning-jobs-buoyant/"
+    type: article
+    provider:
+      name: Just-Food
+      domain: just-food.com
+    quality: 24
+    images:
+      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/12/artificial-intelligence-g11b3b995a_1920-e1639753284602.jpg"
+        width: 1500
+        height: 1004
+        isCached: true
 
 secured: "+lLHSs66SHwj7iJ6PGSvVMUaAep3I5Or+lS/ndSJY4A5/c//eOGYctFHI5+TcYdV+iVSfsAz7EanCEt9MSlfgDZ57L/Tz/TPfj0rgGPT57EeiZUmniNF+44yZ7JOOGbfi8JBBOf57OjqQIdchLPsz5RdRsyRj3xQzLaFjqVhRObTHr7AvlJuMeEs/2qk/iEbFM+7qHmhmgM5+ooVhYaIxV+d8GaD/WumIRw4//I2batgVMSn6Tcz23I4YTUklYWcY8lXPAIZIbwIDOKwBopdnJy1L9gsUYc7iS5ZAD/hCL4UEAGV7qqO+2P+bqK4MURycJod4fhoOKOWfkn1YZzZ24TvT5cVXf9gfsBEH236Jto=;6sUZ1bzndu0tWFdiilUQkw=="
 ---

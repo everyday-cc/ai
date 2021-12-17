@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
 type: article
 quality: 52
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Conversation
@@ -27,68 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
+  - title: "Why Innovation Is Critical For Voice Technology’s Diverse User Base"
+    excerpt: "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts."
+    publishedDateTime: 2021-12-17T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
-  - title: "Worcester bans use of controversial facial recognition technology"
-    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
-    publishedDateTime: 2021-12-15T21:27:00Z
-    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 39
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
-    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
-    publishedDateTime: 2021-12-14T18:02:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 32
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 799
         isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
+  - title: "eDesk Awarded 'Innovative New Technology' for eDesk Smart"
+    excerpt: "Desk, the eCommerce-focused customer support platform, today announced that it has been chosen by Google as winner of the Deloitte Ireland Fast 50 'Innovative New Technology Award 2021' for eDesk Smart Inbox,"
+    publishedDateTime: 2021-12-13T16:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edesk-awarded-innovative-new-technology-edesk-smart-inbox-/2021/12/13/9510000.htm"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "kE+LjHtjJJJd3eKjPJm2dD49Y+IIeazlaFCeLqzTB4GnkFGd1QWlmyPyPhAZat8qHFdOePHcceliledgoO159KomCjNvBzzEbIbJmdqZ0o9pLYdfFfE7pyp5x9IoB2Ew5J8et9awSRw0Te35kc8ZehmHQzXeWLl98J+3L5CPcYn1N+o3h36kFpU546WbKbAgdBlKG+qStORHqVjk3RWbQ12BYPQD/7Mq8uc43mYc59vhbHE/cOE+15Om8OkponvjX7m7UaUD83Pq1qZxgTUfJpzQtDf9atI7DAl2mFC8tLNk/MZo4it8Iv3MqVb0F3GZyjVCHVEYKUaFcEHTpeBloLkPIByYlyCOoXZQGieQNlgd+nLrQ/a48zdaDtoCeFbiEbVV2F2uR06MyqEmXE5Gz5dOTEpvlAYE9z8bv0wzm4+81fGB1dvuSWLjZlA6OBptA307uFO4ljtgE65aWOFPly/hwVrLO+ix9f5agz03uyIA5QUdYKfQjiEfk9e2XUjtSKM9oHw3/zWE3xJPMkgqMg==;/lcWqzqd/jEMizgQRE5xAw=="
 ---

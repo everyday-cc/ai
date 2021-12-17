@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI Algorithms Kick up Levi’s Revenue"
+    excerpt: "Levi's noted that its Google Cloud-based data collection portal, which uses AI and includes inventory and sales information, has transformed the company."
+    publishedDateTime: 2021-12-17T15:57:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/ai-algorithms-kick-up-levis-revenue/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-algorithms-kick-up-levis-revenue/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-algorithms-kick-up-levis-revenue/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/levi-website-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "7/sZ8lFvBjAgP5K9ZqTu4IHU68woyiyDO6av3LKeapMsu3GGhCnmTbWe25Zf49PvYc0aicVjsRPH8lDmLn7dypwicKJHH2MrlwVO3UFyet3JBuGtlmqxpj/pX2cGfyptvTTDuhF70eZorILkyDOZC5golEyUIEnQ26dHfyR4jrhYhhJEi4PD8I72LC8GWxCliiOaI4t5fRjkuWmOkf+/xv4GLDuxhnNAl0i3BK7eJ7lQMvp7BTmo1X7zaDnIOqisW4Hwf/U6tp7+lC9Vfa9s9sQ86dq8wF5hOxcgvr8+BpCE6CPuh9iXZpyp1VWgSZ2NyLDNWkSHxHuw3j/5SlJcI0c5W9WBe8DZky+V3TOoyuen+ShCO8XBpRFWRu4IcVxEWmlTzdEJ7ZVVZFcxHNSQHyk3FEJOy7Z2p92FsGZwFoOxtjzw+cufJVG1fqvr3mIJ8oeSUV5Uw3VcnUMukz7sja3shCSi6z8br4LxPUa6hnWbclkO/HvI+72cm7RJppRlE6ovI0CYCGqbXvWal5RBog==;DVouO8ZgzMlk2Dorbn8pkA=="
 ---

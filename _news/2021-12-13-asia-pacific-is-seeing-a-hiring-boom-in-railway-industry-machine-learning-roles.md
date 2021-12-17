@@ -7,7 +7,7 @@ originalUrl: "https://www.railway-technology.com/features/asia-pacific-is-seeing
 webUrl: "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/machine-learning-5720531_1280-1.png"
         width: 1280
         height: 804
+        isCached: true
+  - title: "Where is food industry’s hiring for machine-learning jobs buoyant?"
+    excerpt: "Europe was the fastest-growing region for the hiring for machine-learning roles among food manufacturers in the three months ending October, GlobalData says."
+    publishedDateTime: 2021-12-17T15:04:00Z
+    webUrl: "https://www.just-food.com/features/where-is-food-industrys-hiring-for-machine-learning-jobs-buoyant/"
+    type: article
+    provider:
+      name: Just-Food
+      domain: just-food.com
+    quality: 24
+    images:
+      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/12/artificial-intelligence-g11b3b995a_1920-e1639753284602.jpg"
+        width: 1500
+        height: 1004
         isCached: true
 
 secured: "vyIW2nOiBvjAM7cvi5sx0wUgrmQ6JfsHPzN3o7mqHx6XhBAtQsFNgcQaCfdAFQs0f+BG0X6r+xwYvTNJb05KM19aijC88CU5HITVnC9ZvgijLcGw/ZEHz7PsB2K6mHY/5BBkScO2d+/iJcRraEE+9ErWde4K8xh+0gKytbJAuSksiSTRp5faLykBldRklEwvAC1Ycm3U+8wvNPxw51SwZGG4z0jK7eAbdsb109Tci/p313XLka3UbwPV4fSnk1xgkJZIR51z65qixJz5jdRgU8O2gjv4uNBe6pb1k9RmHsng8dxxBmgRktpECg2Akc9S+evslLjhmOeEllY5uZ3mBjGxHsDMbJT8HimG89GYTnOV4ToZ87WREF+CR4638S/hF+11Ib8+Pq32YiHy3ThoSqm77QKO0zhmLJEJt+AYwRSWSinhCCevWFICH1h0k3NGh/UpBadH8azJ90dDcvkdhPzI6mEmvO13jknCuwZgaUnuVut2378/ZVTbd+mTdCXHx/4dPvQGSzTtYPd0ept7tA==;NqFeQUss47wVCQgTKdGsqQ=="

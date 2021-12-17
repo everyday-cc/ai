@@ -2,6 +2,101 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
+      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
+      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427127/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "publishedDateTime": "2021-11-01T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-cerebras-hits-the-accelerator-for-deep-learning-workloads.md",
+      "title": "Cerebras Hits the Accelerator for Deep Learning Workloads",
+      "excerpt": "When it comes to large neural networks like BERT or GPT-3, organizations often must wait weeks or even months for a training task to complete if they’re",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
+      "originalUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Cerebras_4.png",
+          "width": 743,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-how-ai-driven-security-analytics-speeds-up-enterprise-defense.md",
       "title": "How AI-Driven Security Analytics Speeds Up Enterprise Defense",
       "excerpt": "Fresh off a $250 million Series E round, Devo Technology plans to expand the core security analytics platform with new features to help enterprise defenders work with security data faster and more effectively.",
@@ -1078,102 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-ai-and-the-project-manager-rise-of-the-machine.md",
-      "title": "AI and the Project Manager: Rise of the Machine",
-      "excerpt": "Thousands of years before machine learning and self-driving cars became reality, the tales of a giant bronze creature called Talos, an artificial woman named Pandora and their creator god, Hephaestus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-project-manager-rise-machine-peter-taylor",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-project-manager-rise-machine-peter-taylor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH_5mtfcAg0LA/article-cover_image-shrink_720_1280/0/1635762771229?e=1641427200&v=beta&t=cDsnqfwMlpalp1J7WdDjYpYkyl8GqEEeNUUvMIQsObY",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-a-new-way-to-train-brain-inspired-ai.md",
-      "title": "A New Way To Train Brain-Inspired AI",
-      "excerpt": "A new study by German-Swiss researchers has shown a route towards training brain-inspired artificial intelligence systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/a-new-way-to-train-brain-inspired-ai-355317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355317/a-new-way-to-train-brain-inspired-ai-355317-1280x720.jpg?cb=11484601",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/a-new-way-to-train-brain-inspired-ai-355317",
-      "publishedDateTime": "2021-11-01T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

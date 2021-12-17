@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ..."
-publishedDateTime: 2021-12-15T14:03:00Z
-originalUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
-webUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
-ampWebUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
+excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
+publishedDateTime: 2021-12-15T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
+webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 785
         isCached: true
 
-secured: "cpIvo9XkzmyuX5l7GizAnMPoewpFxBJ3zRx2S/AeJRqybaRmFZZX5lSGHkBzPqDAXKLi6GgxYgqRQCcgfQbUqo6hijJFYXIHVdZd/oDd6s7/UbvnoZUY7rv1ARKw1bko2/xBACSB0OiftZj+mYVvFWC3hMoKv7S8hP/PoXuq1HfAHHrXeiF8IhvdPuy5mONDaN6ZEoonLcFqeUZyq33O1CPn9YBUtrGbHvjY3T3KJzME7Bh3PKeKOd7gPeifu/zhjHRHFB3bEZvlNUS0T89gN50wWL5ij8uKEhOGUCsOJe/FToek6AvkvPh6hksL0Xzo/0ARIHRYvKijN6KgA4g1K2OtpCGD0LDFjkzV1X2XV80=;etrjaGQajHvf4gFO7x6CQg=="
+secured: "6o0yQpnna2kkNt1gk7BGag0exip0CRqNJv4kEbJkq/9xTh8FZc0A3gk8/RVKYwd0x/svpNfF0eyk2ULpM2VeFAKrRdTMFEWCqPvEYVTuTAdkpMZItZ8iYkXlcMhLkS/VYTQZbETjeftyN2xMhehgrKMEbkMtrgN6mBMJ9VHOCqoNLLYZb2rKUH1eSi0rnvHK3OVRQkv5p0DsRVTXhNOv3VCV7Ry0d02X1X2nj9+ai+PU2bpl/qE+6xyiMkH2uSYoj2j5qz/B36vpDNTK8M6crIqy9Fs4pccnPvR0cKIyjezjmBiN0t0XM8mwjbGstiiZE4h/aJOypvx/cogsBboRj7tMjGTyeeOokoj4PFjujsE=;7dfywrANIk/toscbiuTOXw=="
 ---
 

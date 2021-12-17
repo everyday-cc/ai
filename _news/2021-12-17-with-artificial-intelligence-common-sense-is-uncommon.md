@@ -130,20 +130,6 @@ related:
         width: 410
         height: 600
         isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
-    publishedDateTime: 2021-12-13T00:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "Self-driving trucks tag-teaming with human drivers is the fastest path for autonomous trucking"
     excerpt: "This article proposes that the most practical way for self-driving to work in trucking is for the driver to stay in the truck throughout the job, handing driving responsibilities to the autonomous truck on highways in order to rest and reset their hours-of-service,"
     publishedDateTime: 2021-12-15T16:28:00Z
@@ -159,6 +145,6 @@ related:
         height: 800
         isCached: true
 
-secured: "MuzijsLs85RYFxGmqXMmeF2hKob6jRj8aPrsz+ZV24oRL9DMnBnuf4RBTK6Ub1S8RBDmooPIyGiPKniJ3OBuMq7I5gqmtvu3bndbetu4QglNkNEPZZcVGLOBaxb7I0CWXIxfSiwSsvCOHUkrdcPO1E2H9O3B8k3frpNOYfyZ1NDcKr2w3km/1pPDruDvPHDdEzGnLMHVtoS98JRBa0bvnUEbuh5SVb0JBFxb6NEaKThwc9KHnCIkS0m7YijbU71GnJrIACJdOy2Mpjnp1ONvORr8kdb6P/m/LB2B9lAx4U/RsFGIYcH9CDJ4qN+jzr/3MIY5/YgcCbZWzyMajkDjaOsgQblTVEHp1+Kz5EkWtsY=;sKB4ht3E8Q4wWVY5+Jsrlg=="
+secured: "cUDM/EikOENLEDavq6QAMgbC8duTXy+RnYYbdNBY6GBqrKN32bXjOObSxPbdUOQNAXUHh0//4IeKIbDutpLbRTAGkGfn7+VbKfR/77XcF3EMVWDbAYzQy41kQWyVYbwpFSJT8KzuiFoPcGmosD1X+51uxxNShCnZLpS+DNJD5WCgQVtVtTMqWPSAfBFVQFHy0hhDOYLgH9vVEbVBQtoC8cPomTgP/8iXX/cmlnajnPtFTU3AurH7t2FSLdM7M688q1wHQU4LuPhU6xReuN+RATT1Ud/IIxrQlHMwyjQRl7r0jBI2seazDH0CSlTjxdYJyT+CsxoBZs5py9F8YCJe1cw8fpmriac5iGb9DtebK4tI78vcROODItafeOe+GU3zN94tDJbNaeaoF2d/d5O0YUUXDegEWy6HDanOK9+HBGB4FDWbFkrziDMfkCTxVxel+sgg3KHt1m/WGnf6HZye/LAR9Z80byzaeztfwOhNghZGgfipeeckvyDMJhCuPhBvO94TgRo+E+n+ncUWi3kYTA==;WLs+53dOadu02895Jj+Ygw=="
 ---
 

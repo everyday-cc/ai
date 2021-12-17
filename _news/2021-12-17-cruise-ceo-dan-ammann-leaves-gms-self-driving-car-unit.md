@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Waymo Self-Driving Test Vehicle Hits Pedestrian But Waymo Says A Human Was Driving"
+    excerpt: "On Thursday, a J aguar I-Pace outfitted with Waymo’s extensive autonomous driving sensors hit a pedestrian on a rainy evening in San Francisco’s Height neighborhood. Luckily, the injuries to the pedestrian don’t appear to be major,"
+    publishedDateTime: 2021-12-17T16:35:00Z
+    webUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908"
+    ampWebUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 53
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8b45de89e37c19a3903b566ed74cf616.png"
+        width: 800
+        height: 451
+        isCached: true
 
 secured: "NPlO49V914RcL8hH1Dvl5ijQCgDCrAUDlAlMyRMfPdjq6T9JNMpFbjasgFuwIssCqas7/Px9jfPXVq3MfyUv2BUd/11u2qsWoOYA6m2uRAFb/2r0okj7zK6fSsurA9b4fcrUwvDouVWINzkZUtk2R931P5LZtuE74yLZ2l7GmwQ/NIIiF4BgPRM/N0enUlt50OQ4kJ4n08fxPhgedUWi+urq6/R5ureNjVsWZYq4JOAxlIRga+HcjQ3zQIM4YLQ3QenilbiOc2GWi5YwAi7BNJLhtughIoXL/ppGuqXccgoL/JNi1xpFfE15SZi/TiOjyguYR13KX43DIWmJcDl8SCwHnc4gvS+ZYipjs4+EyGo=;h+SttHh6VFWR40DJkW5HRg=="
 ---

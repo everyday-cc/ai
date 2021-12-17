@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "S.Korea to test AI-powered facial recognition to track COVID-19 cases"
-    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
-    publishedDateTime: 2021-12-12T23:05:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 184
-    images:
-      - url: "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Movement of COVID cases in this country to be tracked by AI-facial recognition"
     excerpt: "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,"
     publishedDateTime: 2021-12-14T07:28:00Z
@@ -211,6 +197,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How has COVID accelerated use of AI for mental health?"
+    excerpt: "TLDR Research on how AI can integrate itself into mental health treatment is in its early stages of development. While AI is not ready to be deployed as a sole treatment, NLP has shown promising results in tandem with other methods of treatment."
+    publishedDateTime: 2021-12-16T00:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-has-covid-accelerated-use-ai-mental-health-magetech"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEPR7DR_w61Aw/article-cover_image-shrink_720_1280/0/1639612335183?e=1645056000&v=beta&t=_VhZc_J0VlpkI3dMoYzuBaLgAwgfruip0ggHK6BH99M"
+        width: 800
+        height: 601
+        isCached: true
   - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
     excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
     publishedDateTime: 2021-12-13T18:48:00Z
@@ -239,6 +239,29 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
+    excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"
+    publishedDateTime: 2021-12-14T14:41:00Z
+    webUrl: "https://menafn.com/1103359289/UAE-Global-Conference-on-Artificial-Intelligence-Internet-of-Things-to-spot-light-on-life-after-COVID-19"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/14/ENA(_c0849image_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-14T21:12:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5125251-global-computer-vision-software-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
   - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
     excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
     publishedDateTime: 2021-12-17T11:23:00Z

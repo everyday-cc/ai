@@ -161,6 +161,22 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "MediaTek Dimensity 9000 Benchmark Reveals a faster CPU than the Snapdragon 8 Gen 1 but a slower GPU"
+    excerpt: "MediaTek has taken a risk by releasing a video of a Dimensity 9000-powered device running a variety of popular benchmarks, effectively throwing the"
+    publishedDateTime: 2021-12-17T14:35:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 45
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/antutu.jpg?itok=SVYVHrqs"
+        width: 600
+        height: 338
+        isCached: true
   - title: "MediaTek launches flagship Dimensity 9000 chip"
     excerpt: "The Dimensity 9000 is one of the most anticipated chipsets of 2021. The new Dimensity 9000 chipset will be in the next generation of flagship smartphones from companies such as OPPO, vivo, Xiaomi, and HONOR."
     publishedDateTime: 2021-12-16T07:00:00Z

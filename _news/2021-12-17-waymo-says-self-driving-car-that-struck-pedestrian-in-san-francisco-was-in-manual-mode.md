@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Self-Driving Test Vehicle Hits Pedestrian But Waymo Says A Human Was Driving"
+    excerpt: "On Thursday, a J aguar I-Pace outfitted with Waymo’s extensive autonomous driving sensors hit a pedestrian on a rainy evening in San Francisco’s Height neighborhood. Luckily, the injuries to the pedestrian don’t appear to be major,"
+    publishedDateTime: 2021-12-17T16:35:00Z
+    webUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908"
+    ampWebUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 53
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8b45de89e37c19a3903b566ed74cf616.png"
+        width: 800
+        height: 451
+        isCached: true
   - title: "Cruise CEO Dan Ammann Leaves GM’s Self-Driving Car Unit"
     excerpt: "Cruise LLC, the autonomous-vehicle startup majority owned by General Motors Co., said Chief Executive Officer Dan Ammann is leaving the company, just as it’s on the verge of starting a commercial service with self-driving cars."
     publishedDateTime: 2021-12-17T06:42:00Z

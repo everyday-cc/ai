@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Cruise CEO Ammann leaving GM's self-driving car unit"
-excerpt: "General Motors Co said on Thursday that Dan Ammann, the chief executive of its majority-owned Cruise self-driving car subsidiary, is leaving the company, effective immediately.The U.S. automaker did not give a reason for the departure of Ammann,"
-publishedDateTime: 2021-12-16T22:41:00Z
-originalUrl: "https://www.channelnewsasia.com/business/cruise-ceo-ammann-leaving-gms-self-driving-car-unit-2385556"
-webUrl: "https://www.channelnewsasia.com/business/cruise-ceo-ammann-leaving-gms-self-driving-car-unit-2385556"
+title: "Cruise CEO Ammann Leaving GM's Self-Driving Car Unit"
+excerpt: "General Motors Co's self-driving technology unit Cruise's Chief Executive Officer Dan Ammann is leaving the company, the U.S. automaker said Thursday. GM said Kyle Vogt, Cruise president and chief technical officer,"
+publishedDateTime: 2021-12-16T22:50:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--LiUHKIaa--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-16t225027z_2_lynxmpehbf168_rtroptp_3_autos-autonomous-cruise.jpg?itok=yOmhEAud"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Cruise CEO Ammann Leaving GM Self-Driving Unit"
@@ -35,6 +33,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "qUMy4tiXw1duMgN5GnijH14zkAIx8UhwyKm7PCQIaKebRKfU1ofjA3fvd0YIyU7/HFQfa3xfpgDNbdqhHg0f0eccMMtylvYqFMY4ux+14JcCERFGuJm6JcDObBhoMmL1kRojVdxA0QwXKjK4VkMV4AbZoztlVL5NQWPN1m0CngdydcROutA1qWskems3JrMJjqRt+h2rfS5PuLzzVpxj32eP5sWiHMPSy6CCJoXWd80Vt2jr4K+MdqBqc5wlNJB+u1qsyj853IRIGnBB+TOGkOm2wZp3w8f7dax0TQkyLjPIJARhLpmQKrJjwtfK/VOryQrKVo/201V4y7Ai5vJ7Za89HxJojGmOfdshoBFdkPc=;q33lB94mYNm8VEvUjZctfQ=="
+secured: "q60TgEGbdgbZrzoMDsv4jYKWVch+/N2uOslyz4oLppAFmY2PfIFABg8NnLEiqm90/dVC8F/rvcj/FXnT7Exq7bihNBfz6g0VsFggCk1p0QmjqaPy5mppvdcDTYnWnErUUe2+R/4VASJofnPz5LBCZfKeF2LOm+wksKmdmmuRWWhIal02NXg+j3y56/cFh0lbyO55kMvwRkfApWqyq+6Mm5ivComKgw67vXNwDljIhAAh+jjanRppb+EBSlctlGBkmglUFV7PLw3kR8y92Ute9LKlwF0EjOQQRzv8jP77LhkJStcCCbx8fszO0vUhhxMlanMm6ZQrlIEgOK4EZXxhTLQDU3My0D2Odq+THck9RG7C9v57Y6XaUV4rEI6c94GPn0ddTufSg7Ro+xUV1EBup+r0jBx5Vy0vb+6qwqYzYVyGTrXxUz6By7EopRC2Mkdl1kEqOSiqkmyQ1fw+mvKqNdFQXPWn7I5O2uT0T9WnbXiAmSAs2/7XQ5n5KaP0mZWb52o3PiYgZYx0vZd3Fri9Pg==;qO0opnCrHj94CCd/wVk0cA=="
 ---
 

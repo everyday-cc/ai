@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Operator of self-driving bus in Ontario critically injured in crash"
+    excerpt: "The operator was the lone person on the bus at the time of the crash, according to police. He was taken to a trauma centre. The cause of the crash was not immediately known. Police are investigating alongside the Ministry of Labour."
+    publishedDateTime: 2021-12-17T15:43:00Z
+    webUrl: "https://driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash"
+    ampWebUrl: "https://driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash/wcm/e1633294-75f1-4564-aad9-f1cad719ca30/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash/wcm/e1633294-75f1-4564-aad9-f1cad719ca30/amp/"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/GettyImages-459908461-scaled-1-e1626103301593.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Operator of self-driving bus in Whitby critically injured in crash"
     excerpt: "Durham Regional Police say the incident happened in the Watson St. W.-Victoria St. area and involved a Whitby Autonomous Vehicle Electric (WAVE) shuttle bus. The male operator was the lone person on the bus at the time of the crash,"
     publishedDateTime: 2021-12-17T03:16:00Z

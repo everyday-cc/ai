@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Silvergate partners with EJF to launch joint venture fund targeting digital currency, fintech investments"
-    excerpt: "Digital currency industry investor Silvergate Capital has partnered with EJF Capital to launch the EJF Silvergate Ventures Fund to invest in early-stage fintech companies, digital currencies and payments and banking specialty finance technology."
-    publishedDateTime: 2021-12-17T12:23:00Z
-    webUrl: "https://www.altassets.net/private-equity-news/by-news-type/fund-news/silvergate-partners-with-ejf-to-launch-joint-venture-fund-targeting-digital-currency-fintech-investments.html"
+  - title: "Fintech Startup JustiFi Secures $6.6 Million Seed Round"
+    excerpt: "JustiFi, a Minneapolis-based fintech platform aimed at vertical SaaS companies, has announced a $6.6 million seed round. The round was co-led by Emergence Capital (an early investor in Zoom, Salesforce,"
+    publishedDateTime: 2021-12-16T22:08:00Z
+    webUrl: "https://tech.mn/news/2021/12/16/fintech-startup-justifi-secures-6-6-million-seed-round"
     type: article
     provider:
-      name: AltAssets
-      domain: altassets.net
-    quality: 7
+      name: TECH
+      domain: tech.mn
+    quality: 24
     images:
-      - url: "https://www.altassets.net/wp-content/uploads/2021/07/imgpsh_fullsize_anim-4.png"
-        width: 400
-        height: 971
+      - url: "https://tech.mn/wp-content/uploads/2021/12/justifi.jpg"
+        width: 2400
+        height: 1260
         isCached: true
 
 secured: "jHMYsC0gfXrYX+udRD1jbCsCQF2fiI3BsZaa7YVvbYAA2pN4hXk0I/kguQpQ4TXSvyOI5umczaQdxooBhYFLHTE/q/KuBP/nzL2xdgroUpUCIXdwjsWED7kU2Xg7cdHrCh6PbcwvxxkQCnpxaBVvppJCd8kTX/xbxAup3QZUTXJ1PbcsSH4La2z/VNkLUuNIxiwCQXoYzmcq2P2+nf1WzjTj5sUpbSr4HLBGr0sUEGnkXwhKdrwrUb0TFzV1C5pEd/bfrK+SjNN1JJTbK8y2rd5AH0XNkRiRU9b6VIK/gOZiIjpikbN8KFwa3MZLcNOVitbGLNeCOt81RBtKDJ8MTDyEKSnAt2Nfh1Ir7ZpERnE=;2h9NI7+VVis5fnPStg+Nbg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/patent.jpg"
         width: 410
         height: 600
-        isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
-    publishedDateTime: 2021-12-13T00:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
-        width: 1240
-        height: 827
         isCached: true
   - title: "Self-driving trucks tag-teaming with human drivers is the fastest path for autonomous trucking"
     excerpt: "This article proposes that the most practical way for self-driving to work in trucking is for the driver to stay in the truck throughout the job, handing driving responsibilities to the autonomous truck on highways in order to rest and reset their hours-of-service,"

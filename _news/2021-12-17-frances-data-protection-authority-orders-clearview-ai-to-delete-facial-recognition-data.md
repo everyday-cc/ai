@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 465
         isCached: true
+  - title: "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator"
+    excerpt: "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data."
+    publishedDateTime: 2021-12-17T16:29:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 70
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z

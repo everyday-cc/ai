@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-
 cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-14T21:12:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5125251-global-computer-vision-software-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
   - title: "Machine Learning-Backed Planning of Rapid COVID-19 Tests With Autonomous Vehicles With Zero-Day Considerations"
     excerpt: "The COVID-19 pandemic has stretched public health resources to the limits, and the only realistic way to keep the infection rates low is effective testing to prevent community transmission. In this research study,"
     publishedDateTime: 2021-12-14T05:48:00Z

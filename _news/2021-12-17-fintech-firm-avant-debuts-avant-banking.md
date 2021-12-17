@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Fintech Innovator fonYou Secures €7 Million Funding"
-    excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
-    publishedDateTime: 2021-12-13T01:01:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/21719-fintech-innovator-fonyou-secures-7-million-funding"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/ace6ed98a255c1c5c5522c8ad446dfd3.jpg?t=20211213_005950"
-        width: 752
-        height: 408
         isCached: true
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."

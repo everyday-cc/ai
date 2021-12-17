@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flags
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
 type: article
 quality: 82
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/12/mediatek-benchmarks-dimensity-9000/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "MediaTek Dimensity 9000 Benchmark Reveals a faster CPU than the Snapdragon 8 Gen 1 but a slower GPU"
+    excerpt: "MediaTek has taken a risk by releasing a video of a Dimensity 9000-powered device running a variety of popular benchmarks, effectively throwing the"
+    publishedDateTime: 2021-12-17T14:35:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-dimensity-9000-benchmark-reveals-a-faster-cpu-than-the-snapdragon-8-gen-1-but-a-slower-gpu-969520?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 45
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/antutu.jpg?itok=SVYVHrqs"
+        width: 600
+        height: 338
         isCached: true
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"

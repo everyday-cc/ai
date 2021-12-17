@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
     publishedDateTime: 2021-12-15T13:52:00Z
@@ -79,15 +63,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "SAFR gets selected as the facial recognition technology provider at Japanese construction sites"
-    excerpt: "SAFR® from RealNetworks, Inc., the premier facial recognition platform for live video, was selected as the facial recognition technology provider for a new biometric access control system in"
-    publishedDateTime: 2021-12-14T14:38:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/safr-selected-facial-recognition-technology-provider-co-1554987129-ga-co-1617794190-ga-co-1639472229-ga.1639475303.html"
+  - title: "Another major Massachusetts city votes to ban facial recognition"
+    excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
+    publishedDateTime: 2021-12-16T17:02:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 19
 
 secured: "2VIFZ6cCD3WzNRisPe37HW2E+eAWHTy8d2NT8v4WqUVCskfziGUkLScB7hTUgFfqbO92Wh5eKqP7LfIGiVNyJDoe/Cv+ZSLh2mYy+AFuV+95r37ADKD+f55+oE+RlDqTSOrMPRGFM2jRega5G8gBsGSeY6+KhFi7dNF4gSOPicXgmUbnuCAhenQbB3ghx/KMD7wGZ2hTs1HuCmP7Wn8yklOoX8NrcFBp+9B2qSoXAcmeZL2HsFlSu/d8u4LIHl8wWt36WDx1XRMU8ZcXbgpf/uUr9fjZaYDHOQfBVP0xmrj2Fsb7aNt2DOLWnEYiXkYRe24ml7bCavY0CqWzeE+h4pPgjO6AC2iH0drMdrxfi0BvHLWkBY/MzwQ3aUPqhDj8pQHwXuKsJrf+18tg5iWucHTu1ju6RMVTqwj7EMUXQ94RB5Jof+RzCx1QCOQrZcGNBrDDLXhqcLSDqoiy4bbB88ZIbaU+1SL66c8ur4J63nReHxvol1fb6DP7oLfyvOI0PpS6g8iKU1HtHVtWPTOUDw==;+FtDNShuxKk5lqDYZXix0g=="
 ---
