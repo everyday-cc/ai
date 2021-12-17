@@ -1,17 +1,19 @@
 ---
 category: news
 title: "AWS re:Invent - A Roundup Of ML And AI Announcements"
-excerpt: "Invent 2021, Amazon announced updates to machine learning and artificial intelligence product portfolio. Here is a quick summary and analysis of all the related announcements."
-publishedDateTime: 2021-12-04T02:36:00Z
-originalUrl: "https://www.linkedin.com/pulse/aws-reinvent-roundup-ml-ai-announcements-janakiram-msv"
-webUrl: "https://www.linkedin.com/pulse/aws-reinvent-roundup-ml-ai-announcements-janakiram-msv"
+excerpt: "Invent 2021, Amazon announced updates to machine learning and artificial intelligence product portfolio. Here is a quick summary and analysis of all the related announcements. Amazon SageMaker ML platform got a new no-code option to train models."
+publishedDateTime: 2021-12-04T00:22:00Z
+originalUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/"
+webUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/"
+ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/"
 type: article
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,11 +23,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF8a7w3durpjg/article-cover_image-shrink_720_1280/0/1638585303577?e=1645056000&v=beta&t=U3JTqIj-OrxVmUJULKdhy8dXJKX8mXwrzx1s28Oq6aI"
-    width: 922
-    height: 720
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png"
+    width: 769
+    height: 600
     isCached: true
 
-secured: "9DmIAN5fKLTh+QeImjr4Qu2NEwQoxIkavpFtiVxBk8IAYHUPO1WWaSUwHt9HH7j8pYKfx2SiElRvxYBzHCe96iKraVU5+ZQpEzwqMTjiZ1HEWuPq/DHLhLitxnY+OY4fjcm4UG+NywfHBJ5hNd8d5KtenmcesTdfzjcczic6k1tTU2MAkC2MQM1wf2taUiTsU5AYnCeqkr22fLwDWCokVNwoKKNe7vueRE8Tv0uyBBYLNakRlUwrzV9OPy7PKp9AgDhYQ6FyxMDf9VoaSut481hj7ZMg8NlUEqgujLDkRIWI2FjJxjhtdCeGr7U68bUahVj0eSUwVmgTmrEmjZBVG+6dlBRLDbWiIQjfvfWKCss=;aYBpKZsWzlgsKzfoiaKv0g=="
+secured: "Hx7BHLTUVv2em4WTwTWmPXgyD8I/PR9BaaA74onAkNNWYnziBVK+/W9f5xEM5EOl0DcWWZ5l+LgFO7faioMKGMGto0lvdXXliP6G2GCQQG2BcwKIRN9AExfUz52cYxMPy9OY3AeFcSNUjUepkTu+TfrxK7+3a1m7EgTacwHEVMvICMlh314PGxLZkK9uAEo1Mf2Rs0sXhSWRbppE9EIdXmmTLk4JLbHGpheto1EHoevo8denoYERvUkF0Jdce4GVbvTJiIaIAckMIKf2ex8AGdS3LIzpnhJ7TZzF4T4Qj0TBh5Sp/HX+yIWTL7tJ6EoYSMe5TjMXXy8gw/4X5+Cli3diSekcedh4qyfsFXHIHBY=;+u8aTFtrFjutgXlXnC5Bng=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/roboto-nannies-ethics-liability/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roboto-nannies-ethics-liability/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "Mobilicom: Securing the future of drone and robotics"
-    excerpt: "Mobilicom is a global provider of end-to-end cybersecurity and smart solutions for commercial and industrial drones, robotics and autonomous platforms, developing smart components to reshape the future of unmanned systems."
-    publishedDateTime: 2021-12-13T05:00:00Z
-    webUrl: "https://www.aviationbusinessme.com/airlines/technology/mobilicom-securing-the-future-of-drone-and-robotics"
-    type: article
-    provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 34
 
 secured: "5t62NebHkr9+ATysxStds3C7xz6IjEhnoidML+tvHEO+UUKxp+zlbHOkYPUjdKbsmv7KWrNg7MjmDe29moT6vVJHYzwfFFOOVQcC3Etl+hODbPfpTjCEvyS3AbTRGATj0sXH07U2OGqEpzlRFxbsT8jOxAMO6c1aEdeJD14cX2a6RlO4pIh0eKtJVw2J/aP2pO7USgXZlr+sKH4FMlREm3F+r0m6z2Wwt+/GjmCj8L7k7Md/gKchE3C+Bs0aSSFh8JBrIASk6RYZxrLBUhp4VijIFJZLxma1TW2nhyY6h2O4EmBp0MV7DlY6a2/Acwqg7YdllyhuL8dMFxo39LCJBcSabou7g3I0pFmaVZ3Ov2bMdr2n3I+iRnbE8w1ZOIYZ++WXtpI0214ezslr7F+YZ350xF7HzJScQphD4QDRCV7D96T0xftM3xS2PaE3H3FP0gr/cb0w2nRxolypEK5Y08nqoVr8X9v6Akvlx0Pcp00z/cf0sT2mZHiYpApww8pcKA5H794nPUJFFNw/XNTARg==;6nLztd7IpHS+hRiEZf5jjA=="
 ---

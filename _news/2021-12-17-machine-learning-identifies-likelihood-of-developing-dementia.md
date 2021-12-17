@@ -71,6 +71,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial intelligence accurately predicts who will develop dementia in two years"
+    excerpt: "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 per cent accuracy, a largescale new study has concluded. Using data from more than 15,"
+    publishedDateTime: 2021-12-17T20:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/12/211216145926.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
     excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
     publishedDateTime: 2021-12-17T12:00:00Z

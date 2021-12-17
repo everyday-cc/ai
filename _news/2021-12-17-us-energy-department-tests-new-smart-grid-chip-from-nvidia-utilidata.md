@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/us-energy-department-tests-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/windmills-1048981_960_720.jpg"
         width: 960
         height: 606
+        isCached: true
+  - title: "Utilidata, NVIDIA Collaborate on Smart Grid Chip"
+    excerpt: "The industry leading grid-edge software company Utilidata has announced that it is working with NVIDIA to develop a software-defined smart grid chip. The new chip will be powered by NVIDIA’s AI platform and embedded in smart meters."
+    publishedDateTime: 2021-12-17T20:00:00Z
+    webUrl: "https://www.unite.ai/utilidata-nvidia-collaborate-on-smart-grid-chip/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/alternative-21581_1280.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "hUsSFWK//o1CUt7dRe2EtL0Spmg67CWIH3XtJsi2UBlQtnTsUAgd8WleSXRTT1e5uhZr0T+0XAWet4zfRBE7/FRZrYGe4s69RWtkkV1UF/i4sDS6Qog9VmZNMAKTzN8iZ74J0pizIOdgkpYrRFOHQHtta9bBEvNkTAXYWLaH/+j6Bo9NwdwNZamV1JGoaHTg1VjGpAiQ8WtcOvNy4PX4k8elFy7gjK9kLckIQPy132RHsyr155shF/XhjN+EKFdefq5GbGheWHNLF5pq09+SIZiwiUA1EG77wI+axwtI+x93abXBYM/lYcdAUC2+IWkxmFmAB8vgxJq2HPiDpT1xOLuo/Hd6HrNUUduymHZnV0I=;Ceno7K3HQOdqDDebwi8qpA=="

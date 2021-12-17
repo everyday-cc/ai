@@ -142,20 +142,6 @@ related:
         width: 520
         height: 208
         isCached: true
-  - title: "Tesla self-drove into barrier, report claims"
-    excerpt: "A 2016 video heavily promoted by the EV maker and its fans as proof of how well its autonomous technology works wasn't an accurate depiction of how the car performed, according to a new report."
-    publishedDateTime: 2021-12-13T05:00:00Z
-    webUrl: "https://www.autonews.com/manufacturing/tesla-self-drove-barrier-new-york-times-report-claims"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLAVIDEO-MAIN_i.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
     excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
     publishedDateTime: 2021-12-15T12:03:00Z

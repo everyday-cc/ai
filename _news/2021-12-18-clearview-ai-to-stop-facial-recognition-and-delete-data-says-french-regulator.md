@@ -121,6 +121,20 @@ related:
         width: 690
         height: 368
         isCached: true
+  - title: "France watchdog orders Clearview AI to stop processing personal data for facial recognition"
+    excerpt: "France's National Commission for Information and Liberty (CNIL) announced Thursday it had issued a notice on November 1 to US-based facial recognition company Clearview AI ordering the company to"
+    publishedDateTime: 2021-12-17T13:41:00Z
+    webUrl: "https://www.jurist.org/news/2021/12/france-watchdog-orders-clearview-ai-to-stop-processing-personal-data-for-facial-recognition/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 44
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/12/biometric_1639766415.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
     excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
     publishedDateTime: 2021-12-16T02:56:00Z

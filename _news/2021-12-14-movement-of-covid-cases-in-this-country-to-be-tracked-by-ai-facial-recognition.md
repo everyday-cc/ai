@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
 type: article
 quality: 100
-heat: 280
+heat: 270
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "South Korea to test AI-powered facial recognition to track COVID-19 cases"
-    excerpt: "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy."
-    publishedDateTime: 2021-12-13T04:52:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/s-korea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases/articleshow/88249691.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/s-korea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases/amp_articleshow/88249691.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/s-korea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases/amp_articleshow/88249691.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 75
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88249691,imgsize-21292,width-800/88249691.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "South Korea to use AI-based facial recognition tech to track COVID-19 cases"
     excerpt: "The plans for AI-powered facial recognition sweeps comes as the country experiments with other uses of the controversial technology, from detecting child abuse at day cares to providing police protection."

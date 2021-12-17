@@ -77,6 +77,20 @@ related:
         width: 960
         height: 606
         isCached: true
+  - title: "Utilidata, NVIDIA Collaborate on Smart Grid Chip"
+    excerpt: "The industry leading grid-edge software company Utilidata has announced that it is working with NVIDIA to develop a software-defined smart grid chip. The new chip will be powered by NVIDIA’s AI platform and embedded in smart meters."
+    publishedDateTime: 2021-12-17T20:00:00Z
+    webUrl: "https://www.unite.ai/utilidata-nvidia-collaborate-on-smart-grid-chip/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/alternative-21581_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "ejjC8utiPEzLrWvif3PHsvRZgPnuy9eX5bVvameEIzc+xrm6ib00RHVogolsfK5lo1PS9+92h/zHqfLg+OxeiuL9s8SS/H7V4hic07Akjh2XRw5cCkDEKnOX5dKLBgr+KOgzRtIpyeEh/BIomA8kMe/lzyCVL1fw9qNIyQluHllX10Ll9YWgxpsD6xH5GkRSgSEPUhgrCNRf95pqXYiacVDInTqM+mUR5n4Fcn0rNUl7jl4pk3k6qfvr9O7QQXDg14D5IESY3piYODClCALmiT+dwgHgQTru4bSvWhk3DzPeTX0bKrIVF4O/KT4CDwmnNpZiZel0HKd9zw0sv4lZ8SKVzFDPeQm4j9cJMYFH1r0=;4CRTQUc/rW9bz5Hu67Xbww=="
 ---
