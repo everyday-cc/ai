@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "New Deep Learning Model Could Accelerate the Process of Discovering New Medicines"
-    excerpt: "Taking Some of the Guesswork Out of Drug Discovery A deep learning model rapidly predicts the 3D shapes of drug-like molecules, which could accelerate the process of discovering new medicines. In their quest to discover effective new medicines,"
-    publishedDateTime: 2021-12-13T05:55:00Z
-    webUrl: "https://scitechdaily.com/new-deep-learning-model-could-accelerate-the-process-of-discovering-new-medicines/"
-    ampWebUrl: "https://scitechdaily.com/new-deep-learning-model-could-accelerate-the-process-of-discovering-new-medicines/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-model-could-accelerate-the-process-of-discovering-new-medicines/amp/"
+  - title: "Predicting Variant-Driven Multi-Wave Pattern of COVID-19 via a Machine Learning Analysis of Spike Protein Mutations"
+    excerpt: "This offers the possibility to trace the virus evolution and to assess the role mutations play in its spread within the population, in real time. To this end, we focused on the Spike protein for its central role in mediating viral outbreak and replication in host cells."
+    publishedDateTime: 2021-12-17T08:42:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR433306"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 54
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-Molecular-Shapes-Accelerate-Drug-Discovery-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
 
 secured: "a6f6T7eqD6Ehg1upVB4xsa/QU4khTnllY5Uk3795+9B4VMJo0fOBypgp0E7eIKEP1tFEZjKGq3kGaqLanmAngUUqqK2hrxIU0nmSbGh0EgnhCYB88jCOpb2TeAvpTASHbdq/VABDk34YpXTF+ntX+4j3mL4tMYpZZaw1NglEsN/Mfz4WFFO2cTLMfbtnBSeCGoD9a9A2RjNjqZztoj7sbxjpLHSj/G/cUTwZrUbSDQrLZuyu2yxpbga5Bg6ZsXb5AE1qQVAvNsayZiVpykjXNB/7sPEIcLyumbRcuvZl+C3IGbmTEc8Z+SUVocXB04Eq1oaiPYum5Y9jFNA4td6Ebeq1zkLu1uEoJ88MTMB05/1tdB0Nqr0GnNiroDQCJ1KB7W2JxHbD476Y48fL3+bv5zq51KpM5CVWTU4XW/QuuHqVIycqmz3psrdFJHmIRWiTTiWuoxVpMdy7ibgh3wduJeOOvOY/XkaWdNFqCTN8iihSs2tPTLxF/PwdKou+mH8g61Ham0AJf6dLdZGlQBWsFw==;RQu+1r7/DFQ+o49/myauJg=="
 ---

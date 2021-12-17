@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fintech startup launches bookkeeping app for side-hustlers"
-    excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
-    publishedDateTime: 2021-12-13T05:41:00Z
-    webUrl: "https://www.altfi.com/article/8625_london-based-startup-launches-bookkeeping-app-for-side-hustlers?mc_cid=df34f72749&mc_eid=69c4e3bee5"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/london-based-startup-launches-bookkeeping-app-for-side-hustlers.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "5 Green Fintech Startups in APAC Worth Following"
     excerpt: "Though green fintech remains a nascent space in Asia-Pacific (APAC) compared to Europe, the ecosystem is evolving rapidly. To get a sense of the region’s climate fintech industry, we’ve compiled a list of startups and projects that are making waves and which are worth following very closely."
     publishedDateTime: 2021-12-14T04:43:00Z

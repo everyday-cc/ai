@@ -57,6 +57,22 @@ related:
         width: 476
         height: 317
         isCached: true
+  - title: "Self-driving bus safety attendant expected to recover after Whitby crash"
+    excerpt: "The safety attendant of a self-driving bus in Whitby, who was critically injured in a crash Thursday, is expected to make a full recovery. Durham Regional Police say the 23-year-old man was the lone person on the Whitby Autonomous Vehicle Electric (WAVE) shuttle bus when it crashed into a tree near Watson St."
+    publishedDateTime: 2021-12-17T21:55:00Z
+    webUrl: "https://torontosun.com/news/local-news/self-driving-bus-safety-attendant-expected-to-recover-after-whitby-crash"
+    ampWebUrl: "https://torontosun.com/news/local-news/self-driving-bus-safety-attendant-expected-to-recover-after-whitby-crash/wcm/9ecc45b5-f3fd-430f-82dc-2e471e50d76e/amp/"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/self-driving-bus-safety-attendant-expected-to-recover-after-whitby-crash/wcm/9ecc45b5-f3fd-430f-82dc-2e471e50d76e/amp/"
+    type: article
+    provider:
+      name: Toronto Sun
+      domain: torontosun.com
+    quality: 43
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/12/WAVE-bus-e1639777829660.jpg?quality=100&strip=all"
+        width: 1146
+        height: 859
+        isCached: true
   - title: "1 person critically injured in Whitby collision involving self-driving shuttle"
     excerpt: "One person was critically injured when a self-driving shuttle bus crashed into a tree in Whitby Thursday afternoon, Durham police say."
     publishedDateTime: 2021-12-17T03:58:00Z

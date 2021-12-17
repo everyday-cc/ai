@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Fintech startup launches bookkeeping app for side-hustlers"
-    excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
-    publishedDateTime: 2021-12-13T05:41:00Z
-    webUrl: "https://www.altfi.com/article/8625_london-based-startup-launches-bookkeeping-app-for-side-hustlers?mc_cid=df34f72749&mc_eid=69c4e3bee5"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/london-based-startup-launches-bookkeeping-app-for-side-hustlers.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "5 Green Fintech Startups in APAC Worth Following"
     excerpt: "Though green fintech remains a nascent space in Asia-Pacific (APAC) compared to Europe, the ecosystem is evolving rapidly. To get a sense of the region’s climate fintech industry, we’ve compiled a list of startups and projects that are making waves and which are worth following very closely."

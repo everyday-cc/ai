@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-a
 ampWebUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
 type: article
-quality: 106
+quality: 108
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all"

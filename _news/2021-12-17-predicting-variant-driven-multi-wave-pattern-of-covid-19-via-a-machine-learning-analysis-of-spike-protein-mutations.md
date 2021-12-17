@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning as a Service Market will Witness Huge Growth till 2027 & Covid-19 Analysis | IBM Corporation, PurePredictive Inc."
-    excerpt: "This Machine Learning as a Service market report covers business predictions for the years 2021-2027, as well as corporate strategy and industry size. It goes into competitive environment evaluation, which covers key demographics, classification ..."
-    publishedDateTime: 2021-12-14T10:55:00Z
-    webUrl: "https://www.openpr.com/news/2497690/machine-learning-as-a-service-market-will-witness-huge-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2497690/machine-learning-as-a-service-market-will-witness-huge-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497690/machine-learning-as-a-service-market-will-witness-huge-growth"
+  - title: "New model improves accuracy of machine learning in COVID-19 diagnosis while preserving privacy"
+    excerpt: "Researchers in the UK and China have developed an artificial intelligence (AI) model that can diagnose COVID-19 as well as a panel of professional radiologists, while preserving the privacy of patient data."
+    publishedDateTime: 2021-12-16T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc14691629_g.jpg"
-        width: 600
-        height: 300
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-model-improves-acc.jpg"
+        width: 599
+        height: 292
         isCached: true
 
 secured: "9QJOUUwEH+a2pdfqqi0NIxKf0HuZicp/ee7hX5CMtU33fqgICLuAeSE/bjdG16wffZUd8JSj5uI/JP7bmAnru5Wuez1P54lIrG3rbmMuAbU9aO2jMIgpPeD0FHDmFdhOdi2+P90/f10yw8wMle6nJWjNVSpewv1BKWc/vsixVtVXp9/gKUM2qZhPSjyGPJ+mt+VtHt/jTSyS4hBvSaPfEz1lMqpV23crmsWQ6yEVT1hNnRIV3Bkc4sdGtJ2FW0+PChYiW17N4tbFvqF3mGDbfQxQztV0OXTnkQSRe0dNtM82Zc8SEdxuhZ7VrHGPgTrPQO4KEC+ASyWdfLXWUpp4rmbvPfE4F3Z47Vo6SNay8RI=;GAnRym8RhKBbJbo1FF1lqA=="

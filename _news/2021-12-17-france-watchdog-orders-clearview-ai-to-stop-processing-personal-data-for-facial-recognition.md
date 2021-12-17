@@ -73,6 +73,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "French privacy authority demands Clearview AI flush facial recognition data gathered within its borders"
+    excerpt: "France's privacy watchdog, the Commission nationale de l'informatique et des libertés (CNIL), demanded that Clearview AI delete all data it has on French citizens."
+    publishedDateTime: 2021-12-17T22:11:00Z
+    webUrl: "https://www.techspot.com/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
@@ -145,6 +156,6 @@ related:
       domain: zdnet.com
     quality: 41
 
-secured: "H7UDH7fGtx2xQQyV7iw0h2HGLF5xrRV89YneQ9VhkdXlhpFu+FqJlEjTEl/H/gMHWl6vV1PcFtKg4ASI0mQbU3fi9gk1qU77dQiLkeysOHKQcUGqyu7XYS7YXNlhhaUiWNqcAO4OIufuBi34CaTkVxYQNvTlSdnKAE4MWgYQdDXyumoi4iXipctAuwkjzlh7Nm3X7hbXNLmyaY8tBxdAPF2JLW1sDYzsxYRtADjbglwsIhHhI4Yjw9BZJ4qZX+jAS2l53wk6TeYItoXUfRyM1CcuCi7xp6FKcpii4OzNWJj0pSosYVS7vY6B7CgX1sZb4dqNi32ppoWttKBpfNwxonukfVeQmk+vk1rbz/ott1s=;kiBD11DhAvScfBSFRBIfAw=="
+secured: "lruqgx8S2NlM8bvTRLsJCcJjZemjTR/UnImfzxsZ5OZDMCjyZJ7DKZIgSrf/8lUaHO8SRiDxc6mIMFKwrxx+qIKfA59MovhcNNjsw4zt1OpYdKHZjLDrtJbjFyJIx6so0/og8shLgxlpRYcKZ8Ma7un9wGzri3jBKW35IQke1SySAY7IsernXHGgb9VpR4eyq/GOvpl25Qo85YvorJh1/4Wp+H8o4XkVOUDbH7XjRABvVFxWI9PnML0ktrzSOI9PJbhn9dbjNYMjrxWRSdREc32S+8iZYK2Tc4mGnNbEcyRbmX0g4YHRbgcZ8pldJIiQU8VmkuUOB6+lsJ6X6y0bIKe5jC97mAC3RH9LX43c3gksd7STmWuhad/QlOJqPM3baWjpvtcf2vm/udVaNrLGvgQgX2cw1/ODEnMIRbV0uSpxObGowDBDPKVZ/xN9qyuPPiyN4CbtlRsWKHigKIO2Y4rCTCIbjTU3oIicBmlaDI5hWCzTz7B/8pHp8WTPt2WHMhru5vB28yL/1ytg2HctkA==;gbqkg58REPW4JSOGxwZtMA=="
 ---
 

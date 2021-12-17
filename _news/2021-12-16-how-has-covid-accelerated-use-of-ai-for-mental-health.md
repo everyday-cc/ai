@@ -45,22 +45,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "Coronavirus: South Korea to use facial recognition tech to track cases"
-    excerpt: "The pilot project in Bucheon will use AI algorithms to analyse footage gathered by more than 10,000 CCTV cameras and track an infected person’s movements."
-    publishedDateTime: 2021-12-13T05:20:00Z
-    webUrl: "https://www.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
-    ampWebUrl: "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 89
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/canvas/2021/12/13/a092f16c-0574-45e4-83c5-418e397f24a9_b86010ca.jpg?itok=LfA_R2NU&v=1639368498"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A South Korean city will test facial recognition as a way to track the virus."
     excerpt: "Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier."
     publishedDateTime: 2021-12-13T14:16:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "South Korea to use AI-based facial recognition tech to track COVID-19 cases"
-    excerpt: "The plans for AI-powered facial recognition sweeps comes as the country experiments with other uses of the controversial technology, from detecting child abuse at day cares to providing police protection."
-    publishedDateTime: 2021-12-13T06:32:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/south-korea-to-use-ai-based-facial-recognition-tech-to-track-covid-19-cases/2387418/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/south-korea-to-use-ai-based-facial-recognition-tech-to-track-covid-19-cases/2387418/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/south-korea-to-use-ai-based-facial-recognition-tech-to-track-covid-19-cases/2387418/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://images.financialexpress.com/2021/12/face-recognition.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "S Korea to test AI-powered face recognition to track COVID-19 cases"
     excerpt: "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,"

@@ -73,6 +73,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "French privacy authority demands Clearview AI flush facial recognition data gathered within its borders"
+    excerpt: "France's privacy watchdog, the Commission nationale de l'informatique et des libertés (CNIL), demanded that Clearview AI delete all data it has on French citizens."
+    publishedDateTime: 2021-12-17T22:11:00Z
+    webUrl: "https://www.techspot.com/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92684-french-privacy-authority-demands-clearview-ai-flush-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z
