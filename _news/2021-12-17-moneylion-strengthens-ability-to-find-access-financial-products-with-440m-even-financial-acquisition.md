@@ -1,0 +1,47 @@
+---
+category: news
+title: "MoneyLion Strengthen's Ability To Find, Access Financial Products With $440M Even Financial Acquisition"
+excerpt: "MoneyLion is to acquire embedded finance marketplace Even Financial in a $440 million deal. The development will accelerate MoneyLion’s mission of providing financial"
+publishedDateTime: 2021-12-16T22:28:00Z
+originalUrl: "https://www.benzinga.com/fintech/21/12/24661687/moneylion-strengthens-ability-to-find-access-financial-products-with-440m-even-financial-acquisition"
+webUrl: "https://www.benzinga.com/fintech/21/12/24661687/moneylion-strengthens-ability-to-find-access-financial-products-with-440m-even-financial-acquisition"
+ampWebUrl: "https://www.benzinga.com/amp/content/24661687"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661687"
+type: article
+quality: 28
+heat: 28
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.benzinga.com/files/images/story/2012/moneylion_3.png"
+    width: 1164
+    height: 608
+    isCached: true
+
+related:
+  - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
+    excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
+    publishedDateTime: 2021-12-16T11:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 0
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+        width: 350
+        height: 456
+        isCached: true
+
+secured: "ETYA1CZuQ4wjwO/Vj+vnAO+6lbGg5cuU+DN+c1wHjsVb2PFd2hd9W1rEg+ZR5NuxHS623oOeOMpXkwQNvtqvsEtThEwRK11d7mFtVX6GAqmSF58uIf+lriKOW/CLTmRn8kelDxP5fzQD8RLvMUDjHVP0TWNlqdMBpQMEnb77LD8u387w79uhQaC/vSXj2tv7Lw3TbPAKjlnWxcBZtdv+p+Srpu8VNOO1xO+Xp6uw1uzHXPTCfOZI/uKrmY/4Fm0Z7Ucu/eZd87h+LEOHGdqv+nnpPM7PFkrGr6f3GiF5A5VQbA4aVfIk+kP2jUyN2aUWQrqnIcFqBBECxMWoDPn8nRj8xtMyD+CEtRujDgsNKr4=;QU46z9ezLMfLoERNGCbK7A=="
+---
+

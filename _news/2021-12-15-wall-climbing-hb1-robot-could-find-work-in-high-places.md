@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

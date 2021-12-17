@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models ..."
-publishedDateTime: 2021-12-02T02:07:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+publishedDateTime: 2021-12-01T18:34:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-web-services-education-f53020940f424024b40eefcaf30d6d59"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-web-services-education-f53020940f424024b40eefcaf30d6d59"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-    width: 350
-    height: 456
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "3Ou3FA9S9FObaeKW68KfWkJtPpRFb3kXkpRM36J0+gQ9UTbmTP8CIkfxM/ji7kAv5P7PWkiJmbnzu3tAKSqLWhCCOfyQet3hLRJgCBki3CzHr+x+2rw1wWlJK2jTT4GRENvxUFYRbTm28X1LMkU6JMTheZdv5Nzx3eY7x9QLTOpLPi26/rEzTBemDI8qsuq44SzSQTLeRE+pHz7JnT4LwcZrk7CyAfnYsgAvsf0BIO+HaZjLpW91yKi4BhcAqkhFezwGDSlWdblGRdBc0WONcgMKzqvH9cNsLQ5F0e8IEp002gzzM+mY3ijkXHLdyYsSuxhYVe/2U1Jzb7G7lAwuqPl9thFSRGyMUcDoVcJg04U=;F4CjzL9Po+RkLqTr9M0WAQ=="
+secured: "ebcN3EAv60CQsa9dSkyLvQFlyyUL1PhvLzJtyuWFtMJ1pUiP8hk4tBEUavOgS/gEnskhrAoYGZKplyVoFRPLQTwcW0r6SYj/u6VoVY1YfPAze3vC67Nzn6v/+qKRRoQT90JyXLiT2YYSvpgvObRRkguzBkxjV3b6emFuEz/VK1qzpIJXHQeEO3BcSj6wrxu6r1kt9ndjcmhYPsOLdCcUoNgOg2wDKPNXG0Qqisj0j4sUttKK0D9MTnW3T9u/PWXtdmBzR1pubI6UF/tlb3fkejIB0jS+KS4UENh3/oOnqwhLKo6+YanTPnlUCfrRSG9HLvaJ/uZ5bmd0U+E+rcxZM4LKl+nBuLXeouqaZmhmB10=;WKcQNT+MuK4WQ2f/7+IdjA=="
 ---
 

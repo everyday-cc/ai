@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How FinTech can provide solutions for a more sustainable planet"
+    excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
+    publishedDateTime: 2021-12-17T00:41:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/how-fintech-can-provide-solutions-for-a-more-sustainable-planet.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/images/Ros-Ads-300x250_HD-19.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "High-growth Global FinTech Innovator; Interview with Jonathan Squires, CEO of Capital.com"
     excerpt: "Today we sat down with Jonathan Squires, CEO of Capital.com, a high-growth investment trading fintech group of companies which has seen tremendous growth and has a bright future ahead. Jon tells us about himself,"
     publishedDateTime: 2021-12-13T07:00:00Z

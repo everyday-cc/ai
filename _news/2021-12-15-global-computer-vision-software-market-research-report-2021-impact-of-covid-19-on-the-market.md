@@ -44,6 +44,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 0
+  - title: "Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic with Deep Learning."
+    excerpt: "Due to the COVID-19 pandemic, vaccine development and community vaccination studies are carried out all over the world. At this stage, the opposition to the vaccine seen in the society or the lack of trust in the developed vaccine is an important factor hampering vaccination activities."
+    publishedDateTime: 2021-12-17T00:15:00Z
+    webUrl: "https://europepmc.org/article/MED/34874877"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
 
 secured: "Ufft6GFSSmJ0u5rwLCOU9MXJNf5X5btblagOj0IG9JlQxTAQfF8FRhV0+pRTFe7XIhXF53vF+n0vFsRJwBwbA4/VraeMhrGhxSqNRkW/U+tKhuRlzxYCiapzGKaDXazHQ2KmozXF9w6/5ytE+shzrVG3pWSLf8yB6CJxoCnjkR8YJXs5mO8Ch9THS03P2ykm8n7WrtnZBvF9vxowmyDwTutpVSV53shSZlZb72ntKr9yEsfO1Gxm3LzA5mdse7nOWHb+fU2x+P3iZXOENqiBr95sBslbQrrlK5pghGWiZw/9VljPSYcjeXKlj1CuhxP9smtrEYpiYWnJ3SbLkGHshLYrCleD2Q1mySxIS9gCjfg=;wu+9rALUdWOSEcrKmbUOBQ=="
 ---

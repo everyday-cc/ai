@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-
 webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 456
     isCached: true
 
-secured: "ZHWWv/iKkQvoQDAPHgMwBmQY1KN18D/+BhMxZAcMyN6zR1dqBwIcgwOqHpvQBkIwGnC4565R8pXYxiKjG9leAuTlSIAO74opBiGv+4BBNQZRY1usjZYkzyukaWJbCjjkRg0/cJ/BO7/779A8+cT/abySzKxzgsaYAMbKWMNUdgmQXwLNV7lJNkpdDDYNdd3E0wttMaqtTxQbJsuKpvciYCLl2/8pqQ7Ul/tcPbRoggZANG7x3EfUOycjgOMLuAzOW+cI2U/d2EjaNQh2IuAsgrNdvq9BeeoGNnko36qo8k/B29Unu4qaxQ/qXhJmZ9jnNfU8+pqOwQxgHZ81TS5hyY0NzhJOKrf7O/AUwn7kqhM=;CGqV09v29Tmgn1hyRXEcQg=="
+related:
+  - title: "MoneyLion Strengthen's Ability To Find, Access Financial Products With $440M Even Financial Acquisition"
+    excerpt: "MoneyLion is to acquire embedded finance marketplace Even Financial in a $440 million deal. The development will accelerate MoneyLion’s mission of providing financial"
+    publishedDateTime: 2021-12-16T22:28:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/12/24661687/moneylion-strengthens-ability-to-find-access-financial-products-with-440m-even-financial-acquisition"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24661687"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661687"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/moneylion_3.png"
+        width: 1164
+        height: 608
+        isCached: true
+
+secured: "XOATCC5//h6aMQlicBmJs+aUaBXG5kp4GDJIb+frMqpsST0jIrasjthegsCcTfPuRKaGVuf7J21l2ypd1sdxdth5mhQqSl3+cVhcZi52Yv0Xwfe2Th0YUexG/VtmhHz74Nl9RS3pus2CAehTxuujPMfJtqp6filVcnPVI0pWfK2FV+EzbmJfvnOmtQmjDr8n8B7oHJ+aotJA6zPmfGfNYFBumVP5xvsMDCKizz3khPF72Uyjxtdg8zNazzU/VXMIuvn52qtRBRumksoedvRCPRUymZpkCPtmYFPXDRxavDdaNW4N1UP+SmpUHxAIcYIG8CA4c75bZX/w79Qgm/SG8TLTUaXmOkm+tY+oZIjoVAbKkzTF4LX+3/zNK/d3f0MEwAh8sy/9umRQ7KBcj47Cgokx7qkzDSQQB9gGkHtzHt7VxQVYhEnJCCtL/XLC1rYwtTh/q+7sTThTjAb3DYlPu05Hbn0c2nsA4Fjt99kxrL7ICcBTB1CZFfH3gGeLtgZq1p+xdvychVrK8Xgvoc2hWw==;HOZkZ26AzaQAWA3OFj8QzA=="
 ---
 

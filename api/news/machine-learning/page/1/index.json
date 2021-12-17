@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
+      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
+      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
+      "publishedDateTime": "2021-12-16T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
       "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
       "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
@@ -168,7 +220,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -521,7 +573,7 @@
       "originalUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -835,7 +887,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1407,59 +1460,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
-      "title": "Q&A: More-sustainable concrete with machine learning",
-      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
-      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
-          "width": 999,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

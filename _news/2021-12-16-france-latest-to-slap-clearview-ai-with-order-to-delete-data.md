@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 148
 published: true
 
 provider:

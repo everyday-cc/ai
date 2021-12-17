@@ -28,7 +28,7 @@ related:
   - title: "Topic, Israel’s Deepdub strike AI dubbing partnership"
     excerpt: "North American streaming platform Topic has partnered with Israeli start-up Deepdub to use artificial intelligence to dub the streamer’s foreign-language film and TV into English. According to the companies Deepdub uses AI and machine learning to translate and localise content while preserving the original audio in a process that could be less expensive than other duddbing services or subtitling."
     publishedDateTime: 2021-12-14T23:11:00Z
-    webUrl: "https://www.imdb.com/news/ni63489984/"
+    webUrl: "https://www.imdb.com/news/ni63489984?mode=desktop"
     type: article
     provider:
       name: IMDb

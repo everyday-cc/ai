@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-tr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/"
 type: article
 quality: 111
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
+        isCached: true
+  - title: "AWS Launches SageMaker Studio Lab, Free Tool to Learn and Experiment with Machine Learning"
+    excerpt: "Subscribe for free. AWS has introduced SageMaker Studio Lab, a free service to help developers learn machine-learning techniques and experiment with the technology. SageMaker Studio Lab provides ..."
+    publishedDateTime: 2021-12-15T14:07:00Z
+    webUrl: "https://www.infoq.com/news/2021/12/aws-sagemaker-studio-lab/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 61
+    images:
+      - url: "https://res.infoq.com/news/2021/12/aws-sagemaker-studio-lab/en/headerimage/generatedHeaderImage-1639513321363.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "FV1J6BykMxHQ9CyUYkKYwPYu3HwfaSKAbXwVfA2H4Aq4ndjEPnyKeQl+aGX7YMSIiM34Wxcjvsv4HEbfHWfMLwMagohEvfwDdrgmf6ewZHu42t/NlDhastxeXpJ+PICmdGFlvuPhngvWGsFEpBqMAfeezx2qVknIaYFny97WXo6+YG6yWQ6gp8vl0pr9oNqVqT1Gu9b7xcxgm3cc5Vyz85eezRSNf5EvvPPQQ2cHyIRRTYYsgOlzxclFWO/urnK64ky3SJ5YjA+ywOMl2LfVGNxSD+OfErTem9fqgJbz/chxyYlyZkGQJEojmB0lg9t7vL84HbfapEMrWpVuehsHW1ZXAgSRXkhYNNia8/L4Rvw=;w++Gf7SSai+LbEbg1xiCsw=="

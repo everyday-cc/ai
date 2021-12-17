@@ -99,6 +99,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "AWS Launches SageMaker Studio Lab, Free Tool to Learn and Experiment with Machine Learning"
+    excerpt: "Subscribe for free. AWS has introduced SageMaker Studio Lab, a free service to help developers learn machine-learning techniques and experiment with the technology. SageMaker Studio Lab provides ..."
+    publishedDateTime: 2021-12-15T14:07:00Z
+    webUrl: "https://www.infoq.com/news/2021/12/aws-sagemaker-studio-lab/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 61
+    images:
+      - url: "https://res.infoq.com/news/2021/12/aws-sagemaker-studio-lab/en/headerimage/generatedHeaderImage-1639513321363.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/lSG3hLmyEW36d/Ne5jeI6Rt7q3/XARF7Q8PML5brBNr0IKEYtqZBKbltpuiHl6gXg1qWt7LhdXJepG8O9kAQ2VW8Y/fh+1PSZcEw0NVdjmVo002J8VbpJF6DhEni2QQtIIt908JgIWfjJ8mSQdv77H/I3R+mZjln1pV3EHTZJNv5teTZZAqywhrknKS5FxlWj/9OgU3+Z8GMU6IXvr2iX5BucYAAHI6mTQpE522NGUP/jTkBhHTqah7qVlGRvtd17jk+3Mphe5mrLrgXsfFWibBsoQFpmd5WfETLW6oafdFPI7CAMCIO+M+kInoItwt86jnti5KhaeyYAbfLF7EIOCgoNOlsKARUFNW7dHw4pE=;HPAsbnjLvjwM1mB5TEpR4w=="
 ---

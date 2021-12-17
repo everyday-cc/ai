@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-u
 webUrl: "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots and artificial intelligence being used to help rebuild Roman frescoes"
+    excerpt: "Scientists from the University of Venice are using robots and artificial intelligence to help them rebuild ancient Roman frescoes. The RePAIR team are testing their technology first on specimens from Pompeii,"
+    publishedDateTime: 2021-12-16T22:35:00Z
+    webUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-being-used-to-help-rebuild-roman-frescoes-12497765"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 51
+    images:
+      - url: "https://e3.365dm.com/21/12/1600x900/skynews-roman-fresco_5617664.jpg?20211216225416"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "This Is How Healthcare Is Using Big Data And AI To Help Save Patient’s Lives"
     excerpt: "Advertisement Artificial intelligence (AI) enables computer systems to do human brain tasks in various fields and all aspects of daily life. AI has resulted in a much-needed, and significant advance in the health sector,"
     publishedDateTime: 2021-12-16T18:54:00Z

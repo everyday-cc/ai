@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/how-aws-machine-learning-helped-united-airlin
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid?amp"
 type: article
 quality: 81
-heat: 82
+heat: 81
 published: true
 
 provider:

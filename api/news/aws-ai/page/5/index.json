@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
+      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
+      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
+      "publishedDateTime": "2021-11-03T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026.md",
       "title": "Artificial Intelligence (AI) in BFSI Market Key Driving Factors and Challenges, Opportunities and Forecast Insights by 2026",
       "excerpt": "Emergence of FinTech and rapid innovation in the banking sector are likely to fuel global artificial intelligence (AI) in BFSI market outlook. The industry recorded a rising demand for the technology to collect & analyze a large amount of data and gain insights for supporting the banking processes.",
@@ -1368,59 +1422,6 @@
         "AI Hardware",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
-      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
-      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
-          "width": 861,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T14:11:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-o
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
 type: article
 quality: 59
-heat: 109
+heat: 110
 published: true
 
 provider:

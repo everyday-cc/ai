@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-compu
 webUrl: "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Hands-on Machine Learning with AWS and NVIDIA"
+    excerpt: "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs."
+    publishedDateTime: 2021-12-15T14:41:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Lenovo Bulks up Its Edge Server Portfolio for AI"
     excerpt: "Lenovo has released its ThinkEdge SE450, a GPU-laden device that is designed to fit in small places and run enterprises’ increasingly compute-hungry artificial intelligence (AI) workloads."
     publishedDateTime: 2021-12-13T18:42:00Z

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-08-no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper.md",
+      "title": "No animals harmed in new chip drug tests that are faster and cheaper",
+      "excerpt": "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "originalUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
+      "title": "How AI powered banking is impacting revenue",
+      "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "originalUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
       "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
       "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
@@ -1112,109 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations.md",
-      "title": "AI-powered customer engagement platform MoEngage raises $30M to grow operations",
-      "excerpt": "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "publishedDateTime": "2021-12-07T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
-      "title": "We love technology, until it starts loving us back.",
-      "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "originalUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEv42_PJI7xVg/article-cover_image-shrink_720_1280/0/1638885502860?e=1645056000&v=beta&t=mkCaj3AXTLeEVnl3BWlo4Du6y_3PzeWTv5tz1WqkvsY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

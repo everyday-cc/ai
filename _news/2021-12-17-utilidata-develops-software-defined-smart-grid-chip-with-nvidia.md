@@ -2,21 +2,17 @@
 category: news
 title: "Utilidata Develops Software-Defined Smart Grid Chip with NVIDIA"
 excerpt: "Utilidata, an industry leading grid-edge software company, announced today that it is developing a software-defined smart grid chip in collaboration with NVIDIA. The chip will be powered by NVIDIA's AI platform and embedded in smart meters to enhance grid resiliency,"
-publishedDateTime: 2021-12-16T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/utilidata-develops-software-defined-smart-grid-chip-with-nvidia-1031051001"
-webUrl: "https://markets.businessinsider.com/news/stocks/utilidata-develops-software-defined-smart-grid-chip-with-nvidia-1031051001"
+publishedDateTime: 2021-12-16T17:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-utilidata-develops-software-defined-smart-grid-chip-with-/2021/12/16/9513409.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-utilidata-develops-software-defined-smart-grid-chip-with-/2021/12/16/9513409.htm"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -77,6 +73,6 @@ related:
         height: 606
         isCached: true
 
-secured: "dwiEzGf6+o0U+M/byryF5tIIZu3BSJF3MVwf0sxHBxhSahpAZIRHk8Vpz2e3xuSCoCNqQR7LBq5pFYyH3SczNO/51Yh2VomcbftzduDz+CHUl7XN4UPw5tx6zJhttIeTdo4kgy+HfxfC1v72cWJLNijGNh2Xt4MUKTUTw6kZpv95ZHFSdROpQ46NX4QQIvQJAXSc4HSOZduRwuUVBEfj5WN8C7ub7LTsAwdVWEFM/ejzAObGdqsQI8y7TK/0hOUYhdUY2y6dsK58EKVD53VcgOHAh9sti+76GuVube4q3Wljt/fbpgq56LH0uT4E4zpAyr24aBU3JUda5a8JSGEZNQlGUJZWPW8n3ikBDnxeLu+cZlrqM5Oqh1MfqxlRpsrrR0x5GZkSmeUOA/wO3p3pYD+xLmNfqEFQg+Uxbk79Te1rU6AwVBs9sPdecvOl8e4ki3ttjD/zh1mBf3X5Le99a3os3bUViQAFB4104Pdyd0rCe81T0yKog3HGyNHP5BtfFizhEv+iREqSaZdN9klKng==;QH9ouELgSDGH2it9HbugYw=="
+secured: "7efjvj9A70FiTCigF1ld0fVTLuvAL+wgTn1QP6it2BanrHbEPWpvrD8I8ACSSbCxr+Wx+7N9fQotJt1nYj7tvCVDdCTHn9yQcmUqltwvl89jsM4cP53y9YB0PQ4CFC5Jm1uUkf68jD/nIObaHfg+JqdITMFACenCb4MiKnko+ZVAoODQS5tHNapWAGmX5gMkhjUYrX3AAcM4dbyAV48elhRzWSuf1AMZq+A84pUN07n7zYr+qBrJNY0/SEmO13KM3EMK02Z2T4yKEcV12sgm25J2k+p5GNm3eg6001Ja4DUr0ezYFQLm0jTBCm95ru8KJRrbb5k+f7d53ZkCvDhRZbDlb+LC7hBFT3p3j6FG9HRxR+wgJxdnmjC7s/J2xcDDHbCb9JTu2GtX92H44++ASK1liM+/Z8CcM41GxViN36bTjO00Q3pTt6WplOxc4DwoUEqh8W7ZCzKVTqJ3rMfR2I7gPNVNSk0QA7lV7cwUMAOd7orxyMRp4tF40YF0BX4fKtzhyNECOJvafg8QSgyKcQ==;fpKnOHSYtcU/fGg+Rcu5Fw=="
 ---
 

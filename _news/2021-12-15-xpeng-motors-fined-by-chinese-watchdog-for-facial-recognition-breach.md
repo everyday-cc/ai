@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchd
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/15/xpeng-motors-fined-by-chinese-watchdog-for-facial-recognition-breach/"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

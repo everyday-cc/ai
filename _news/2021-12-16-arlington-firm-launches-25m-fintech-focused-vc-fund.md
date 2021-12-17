@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How FinTech can provide solutions for a more sustainable planet"
+    excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
+    publishedDateTime: 2021-12-17T00:41:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/how-fintech-can-provide-solutions-for-a-more-sustainable-planet.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/images/Ros-Ads-300x250_HD-19.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Asian Fintech Credit Management Leader Flow Doubles Revenue, Prepares for Series B"
     excerpt: "Flow, the Asian fintech credit management leader, announced today that it has been observing a strong recovery of consumer credit collection revenue from the"
     publishedDateTime: 2021-12-14T07:52:00Z

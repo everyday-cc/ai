@@ -28,6 +28,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Mobileye's self-driving technology takes on Paris traffic"
+    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
+    publishedDateTime: 2021-12-16T19:37:00Z
+    webUrl: "https://www.autonews.com/mobility-report/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "2VyUTPhWU9CPnwbXlLgKxgkIj0ZavUsviH+R3QdnDbnDin8nppMobyydpwCjPGhh16C/5uItx2YiMQ5dE8FR46bicKskFOJ40nvw4DkXbAELzwLHUtbXJumJVRMBmOEah9/JD4lOGrxRgXKnqg3v2YsAPwGwfHRCN/XUlkTs7JAoqyRcCYtZqUV60xSnTdDvFNOKCsIOVAHcinNy1YR4UD1mENtQgLhcBrFQHTfPvrIFHS5DgcxYh86WjZbn3oICrkfOOYl0DdtLDQHF4nyrJlaOD9ywmPFpSirt4iGMmsNSy2hiFObP48L89vU/WklI0QT8gg4mkoVd+gwSdTysFj4IKUlaWbJ3cgtkBOSa7syeyfMkqNLQ4XqGkjQTJQiMk73oK+D4LFZWlvUu8vrwmbrF3Z8lbOgdhWO8c9Pp+p54gbVYnZdODSGnr4gmE/BX4YrrlcQk422F1H1q3wx1xGXo5UUrn9QJlUjWyOzvXF02rbAhnx5rEIVOnrmoTFtWPWdT/fTQSoz/wfY28hj+Rw==;Nrsoi66gwd2DPJrghJQVJA=="
 ---
 

@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Free-Artificial-Intelligence-Courses-to-Take-up-in-2022.jpg"
@@ -21,6 +22,6 @@ images:
     height: 500
     isCached: true
 
-secured: "OmtslYGJo30sFPDTGSgyijQhTOEvTu1b28orr0zNL+ZjYydsjxHGqMF5DbFR/JAM/FxfWuUKvR3ddVF6Pwb/TTTX372ox4WsCL4zFbRpw1OF2lF+QXkHsf091rAHpGUWKsFjEXEZ/dVNQZ3sOPZz8aol6sTdv/MSnTLgBlaJ//EyOzFcqZD25X3McTinVIwE/33uj8MMamZFPtWoBO1uKue2IMGwyn385b9roaAlYRZym36mLoCauGoms9g2mn4Wg6z4fA38N8tSSOoymM4pbCSVbxnz3/kYk0e1gSh9U90lZFqu6os4NsMQ9lDgySRcIy5KuNfARwErjGrAlJxLSx1h3ZRojN/ZumQUuoyIztE=;ISa2Cibdpj9gi4N7EIzn/w=="
+secured: "CtzvvQZsJvDl0Gg4NoY4fCD0aspioLYT4I8z28b11fH6bmA0tfFojsPUFyh5sZddM6cXU+6EMxK4Oo3z7sGElsB4vmVx0QH/RF0UE52nNzqGqtzZR/eCM/cS8hIDGoGx2Z14t6pE3DGUr9CfMGvKtzQ1vSUAOaNtw7MhdqKutfiGaEjGa9CIN368mGn/eGJS/G/T8i7lJxOWkFd0bUZTFf4A1+Au5XEG/bYD/BogUhX0ZoEHK80TyVPvd5K87EPCXKtSjFwn0AWC5mHttSYfkOGnwWPpS7n8QpYtTw3k0mt4/VWOvJcoVxLXWl5Auo3TmBb5vYd6acJ75AI/FcaPZ8ZeFpNcHNhCETfv7wiaYB0jK/otbju90DHQWPmwt/1ZSR/UX3aAOsSteuVjZfcem3l2VgB7gejWBjCTzVfVPwKYxuSMbownvCWTLJM8va/BDiXrYyTF7JXMkKSdSNAOpZ7n6rXQeP1PA7iFxzrrqI075udUJOcL7q0QuC7U4C2sO9ftVG3RQc+OgqyFXScjIg==;mqtb+OhsxpK60+2P8EVlmw=="
 ---
 

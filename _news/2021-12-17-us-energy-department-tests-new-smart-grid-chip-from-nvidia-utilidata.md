@@ -39,15 +39,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "Utilidata Develops Software-Defined Smart Grid Chip with NVIDIA"
-    excerpt: "Utilidata, an industry leading grid-edge software company, announced today that it is developing a software-defined smart grid chip in collaboration with NVIDIA. The chip will be powered by NVIDIA's AI platform and embedded in smart meters to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/utilidata-develops-software-defined-smart-grid-chip-with-nvidia-1031051001"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
     excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
     publishedDateTime: 2021-12-16T21:03:00Z
@@ -76,6 +67,15 @@ related:
         width: 960
         height: 606
         isCached: true
+  - title: "Utilidata Develops Software-Defined Smart Grid Chip with NVIDIA"
+    excerpt: "Utilidata, an industry leading grid-edge software company, announced today that it is developing a software-defined smart grid chip in collaboration with NVIDIA. The chip will be powered by NVIDIA's AI platform and embedded in smart meters to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T17:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-utilidata-develops-software-defined-smart-grid-chip-with-/2021/12/16/9513409.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "hUsSFWK//o1CUt7dRe2EtL0Spmg67CWIH3XtJsi2UBlQtnTsUAgd8WleSXRTT1e5uhZr0T+0XAWet4zfRBE7/FRZrYGe4s69RWtkkV1UF/i4sDS6Qog9VmZNMAKTzN8iZ74J0pizIOdgkpYrRFOHQHtta9bBEvNkTAXYWLaH/+j6Bo9NwdwNZamV1JGoaHTg1VjGpAiQ8WtcOvNy4PX4k8elFy7gjK9kLckIQPy132RHsyr155shF/XhjN+EKFdefq5GbGheWHNLF5pq09+SIZiwiUA1EG77wI+axwtI+x93abXBYM/lYcdAUC2+IWkxmFmAB8vgxJq2HPiDpT1xOLuo/Hd6HrNUUduymHZnV0I=;Ceno7K3HQOdqDDebwi8qpA=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "Robots and artificial intelligence being used to help rebuild Roman frescoes"
+    excerpt: "Scientists from the University of Venice are using robots and artificial intelligence to help them rebuild ancient Roman frescoes. The RePAIR team are testing their technology first on specimens from Pompeii,"
+    publishedDateTime: 2021-12-16T22:35:00Z
+    webUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-being-used-to-help-rebuild-roman-frescoes-12497765"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 51
+    images:
+      - url: "https://e3.365dm.com/21/12/1600x900/skynews-roman-fresco_5617664.jpg?20211216225416"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Scaled customer relationships are about to get a lot more personal, says Peak AI"
     excerpt: "The retail industry will be a significant benefactor of artificial intelligence-based decision intelligence, according to DI software market leader Peak AI Ltd. The company believes that decision-making and intelligence with applied AI will revolutionize the market by allowing companies to treat customers as individuals as opposed to as a group."
     publishedDateTime: 2021-12-16T20:55:00Z
