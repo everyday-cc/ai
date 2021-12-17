@@ -2,9 +2,9 @@
 category: news
 title: "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies"
 excerpt: "Drugs like ketamine and psilocybin — the active ingredient in magic mushrooms — are showing real promise in addressing mental health"
-publishedDateTime: 2021-12-16T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
-webUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
+publishedDateTime: 2021-12-16T13:30:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-892875587.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-892875587.html"
 type: article
 quality: 13
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 351
         isCached: true
 
-secured: "TbyTX7/7FIUsU+PdjIdV9+P5vqHC+gHFvFYIMXCS7y07OiEsGQ2OvmSTnNqMtgipfk7i6Y5UVLMp8MANdGoBfXnUhwO6bdffX/wbDbevCL0Gh9/rKfBX/zTNx+goOApU+CgFJhLeIKU1R3JMEEg/ofOch9sZP5zbehewlnOXlidYK3+MWBCKUrCT9GIQvUEGuJezEGeI8qt6LZ3wvFsOgyhaYT4vINs2TDl5997Ti099lqhqeiNUlxT/93AUEhIh8lo52evkamfLgsJoxkCrs5gokVRSYJxSS0Tazsf49AmxpWGoaxIuuEC1Juy6Z+/T4OQjow5IiNIH8XZ0lOQbcoNU0wKhXLRrNN4gzH1TchE=;OZsmFrywhuQYm8dbrRv7DQ=="
+secured: "5SgBeu2Iikq16aQFDnwPbd8+dVXlCUAMDM14P9LK3truTevpBZL9oHsmsz7T1yUgEE4Q53MHIadt9Ezm/+jbgcXAqiRJ13vTojAs3a/puAxK+z95CIYX2Ed1jXEr0yxYU58jh+zpkPUinehVBnsNKoG8a3O+kn8M+eYwDUxbHaUYG7OlXEBL1b2k9F9QV9pw8wz07GRtMvR5jTgij9DomoWXx5wjsw22j2chtvI1mSyaGTAJmDUBS6yCWRR4Ye+L0/EFVoOW8N4PJ507nVBkQJxA+BaxBY9q0Uc6x60oD6FODZuu6mCMe+yQZcx5nevnmCnC9vI+kqR8g8wvdHXk8JQwe8eWd6jvCab4qN4n4Uc=;0xyGvba9x8G6p1mibTesug=="
 ---
 

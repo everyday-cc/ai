@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfs
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI Translation Market Is Booming Worldwide with Google, Facebook, Microsoft, Rozetta"
+    excerpt: "A Latest intelligence report published by AMA Research with title AI Translation Market Outlook to 2026. The study presents Latest insights about acute features of the Global AI Translation market with detailed coverage on key factors such as growth drivers,"
+    publishedDateTime: 2021-12-15T14:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-translation-market-booming-worldwide-google-facebook-vetal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 49
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHGBX4Gnf4l6Q/article-cover_image-shrink_720_1280/0/1639665340052?e=1645056000&v=beta&t=Raxw67584gVwQK659gZrQNW17hs5_hDxD-mO6TCoHOk"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Machine Learning in Education Market is Grabbing New opportunities by Top Key Players - IBM, Microsoft, Google, Amazon"
     excerpt: "Global Machine Learning in Education Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information The data which has been looked upon is done considering both the existing top players and the upcoming"

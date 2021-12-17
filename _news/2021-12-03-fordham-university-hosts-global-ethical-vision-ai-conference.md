@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Fordham University Hosts Global Ethical Vision AI Conference"
-excerpt: "On November 29th, Fordham University hosted a conference entitled, “ Ethical Vision Artificial Intelligence: Creating an Effective AI Com"
-publishedDateTime: 2021-12-03T11:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
+excerpt: "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ..."
+publishedDateTime: 2021-12-03T12:16:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211203005109/en/"
+webUrl: "https://www.businesswire.com/news/home/20211203005109/en/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
   - AI Ethics
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "l8mN+DQBTWUqb9rG3/KI8scr4hQB5Fv9aj4N9HNCWeY82Y4jUkRC/uT7Kdv5ZKyNrkroLW+Nn9Wcw1J1IEnV0hAH7lzyDUuphAmhONfocXVoD+1FUf8W7hpWRtc9j6BH3AfhTdjXCn9mx1g+j6qxklaWx0uP6MM88XteJlzf5JDPlrW4xqFTBzJZaxB8jXvmruuriNgJVf2FawP6xsXVrM7F0QDwNC3Y/ZE50EeZgMVlta2tM19qXO8xu82hkOBxagF0+/8xqmnNT9jM0r4e642sqWrX00wLeh44Wv4oXimO6UE+c5oamqDWhA/OJ9gMJbpGTD3vx7BT7hoYKtCmBewhwXIqp9kEYuJu0+Tbtp4=;cdmNCYpqBao11Y51x8O7eA=="
+secured: "cqFKQu60P5lk55i7uHkfLyVQEEX9DFy0pg6PyedH3zAVaQCWnCdHNEV7ToWS198RU0z2qgvDYRkBc1SAgEC+ZB+Kwp4QjoSSZ24kgpqUETD1EeMtpYIfKB7OvOiX87rbx3hHKAqu+vxLCEkwB4lu+jnq9m9BRGT3iGFUxz6Mqut7sKxUhPP4UJ2fCc46qiNEpiNJSGYTSDex3VD0/MXUMsNEJG0Apf6dCwvBAD4wrj+DUuZd+TdklTrq9clGx1ftpoWC8okZLCV7l8IKNo+a/BGqgtskXDKH+GasdHe/h2+QJm9gUDog3Vq/bSPUGeg1V5hz3GsHKow8cFXYQ/Dm3Yf/S6OJM/OhtXHMYtjpy2Q=;Bw4wCYohEZE0FAGCxcX5cQ=="
 ---
 

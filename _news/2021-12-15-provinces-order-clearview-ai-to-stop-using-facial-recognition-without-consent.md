@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 465
         isCached: true
-  - title: "Clearview AI Has Acquired A New Patent For Facial Recognition Technology"
-    excerpt: "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
-    publishedDateTime: 2021-12-12T20:32:00Z
-    webUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/"
-    ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 73
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-ojipHOC4CfCX.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
     excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"
     publishedDateTime: 2021-12-14T23:34:00Z

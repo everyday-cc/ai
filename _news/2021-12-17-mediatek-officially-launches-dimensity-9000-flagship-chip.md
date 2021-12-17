@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MediaTek benchmarks the Dimensity 9000: faster CPU than the Snapdragon 8 Gen 1, slower GPU"
+    excerpt: "MediaTek has gotten bold – it published a video showing a Dimensity 9000 -powered device running various popular benchmarks, throwing the gauntlet at Qualcomm. Long story short, the Dimensity wins the CPU battle,"
+    publishedDateTime: 2021-12-17T12:07:00Z
+    webUrl: "https://www.gsmarena.com/mediatek_benchmarks_the_dimensity_9000_faster_cpu_than_the_snapdragon_8_gen_1_slower_gpu-news-52333.php"
+    ampWebUrl: "https://m.gsmarena.com/mediatek_benchmarks_the_dimensity_9000_faster_cpu_than_the_snapdragon_8_gen_1_slower_gpu-amp-52333.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediatek_benchmarks_the_dimensity_9000_faster_cpu_than_the_snapdragon_8_gen_1_slower_gpu-amp-52333.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 49
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/12/mediatek-benchmarks-dimensity-9000/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z
@@ -156,6 +172,6 @@ related:
       domain: pocketnow.com
     quality: 19
 
-secured: "xCbz1RZZZREMUpW4Dit5lUQZVZ1DFmgXLVoaQ3CrCoMm4NmMi5oFONu8eZXoJ0Rf//ain3D9vz1GqETRSRP6kPQ42De6k/49/QnjJJquhxtW9ejd1WImzSJILq5nOjFgDwhgJcBJuU+Vd2k6tRGuI95b5PU8qWtQ/xTQAFmKxscS7c88n+Lxhve0F7JmXX2+kWc5lS9R1fjAwhjHVXVfUJ2uV9SoKN1yM7fSNERXNaG18pOPuJVxrhpBcQPOCqjs8a94W8j+Wrr6t8pEEvO0b6AJpxyj19MXEGPdJsfPKQvPAvIuA7/R/GliGPfZVKTsSfn/BXD0xMkF3pq/L6iDdJxmIbqtCS//mFKKtr0TEnY=;rjNSNZzTPEP58M4kBi+BGw=="
+secured: "URI/ptjiGA/fYfmMOgtz7seMG2BQc3575OtpNiN4lyWlwZaDPZRs/ANQqorpc0KbZ5zHtcbIhUn8f/AO4M25N1zLZi8d3EggJC5LjF9jeB4CK24EGFBM1gCq2FmaQkKsGkCSE1oQUuMTGGxJxRbty7GBrwkYDLypFF3gpCEeQEsgVduXRLaXjNXLs3qMw+QAZqGDM6i/tGrza2JCqtUcm6RLHlgaHrG4YhJeSfKE988wLzOtX5HWc3iInE+PKG/cdpUH8IRXYMs+iBqrhe0mvkNMNWu7w8VzkrOcl4i76jG5JaPrhcN4HWZ3N4QWbFWAA+sadaTFfHhBpG1fYoWaa03PKQNT3YWFYTAPbjMlMKFa0u9Sjwe/creULn7bmZ1JA2NcaOTyqJWpuqN4/vTKTMRkV+gmp0dvrI3Oeu65SPlrNEYChzHinmDOiiOrF4sFAP434phUAglkwn8xMnSNKQ2F2xhVysx4b5vru4h/ZzjJDX1JItoN6yd7slDB+Tcr0toa4XYUG/8i/IV0N99UqA==;hcQrKtA3tzJtUB8YxvzrCA=="
 ---
 

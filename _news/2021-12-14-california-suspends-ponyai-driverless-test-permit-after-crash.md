@@ -47,6 +47,22 @@ related:
         width: 4134
         height: 2757
         isCached: true
+  - title: "Intel steers toward driverless future with Mobileye self-driving car unit"
+    excerpt: "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022"
+    publishedDateTime: 2021-12-17T10:50:00Z
+    webUrl: "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 58
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Pony.ai's driverless testing permit halted by Calif. after accident"
     excerpt: "Accidents during driverless testing are not uncommon. It was unclear what aspect of this incident prompted the suspension."
     publishedDateTime: 2021-12-14T12:01:00Z

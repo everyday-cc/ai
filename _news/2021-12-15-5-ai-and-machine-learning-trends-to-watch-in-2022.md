@@ -25,35 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Trends for Marketers to Watch in 2022"
-    excerpt: "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too."
-    publishedDateTime: 2021-12-13T18:22:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/"
+  - title: "How AI And ML Are Changing Finance In 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb4ea97e034c7c7b01f125%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Hot Skills for Digital Marketers in 2022"
-    excerpt: "The digital marketing landscape is constantly changing and evolving. Skills that were in demand last year may not be in demand this year, and vice versa."
-    publishedDateTime: 2021-12-14T13:48:00Z
-    webUrl: "https://www.linkedin.com/pulse/hot-skills-digital-marketers-2022-kinda-hamwi"
+  - title: "How AI And Data Analytics Drive Value In The Finance Function"
+    excerpt: "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIOHm9pa-IoQ/article-cover_image-shrink_720_1280/0/1639487471388?e=1645056000&v=beta&t=xVyJYMcGtaSI_KCAwuMkA4WkhwdsRhzJYRvY8bS_pNk"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58a362058dd89c077731%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI and machine learning in compliance technology"
+    excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
+    publishedDateTime: 2021-12-17T10:50:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/ai-and-machine-learning-compliance-technology"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 58
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How healthcare data and artificial intelligence can improve care"
+    excerpt: "Two experts will talk about using healthcare data to respond to the COVID-19 vaccination programme and treating infectious diseases."
+    publishedDateTime: 2021-12-13T13:19:00Z
+    webUrl: "https://www.imperial.ac.uk/events/142696/how-healthcare-data-and-artificial-intelligence-can-improve-care/"
+    type: article
+    provider:
+      name: Imperial College London
+      domain: imperial.ac.uk
+    quality: 54
+    images:
+      - url: "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/shutterstock-1279492897_1638183154701_eventlandscape2018_x1.jpg"
+        width: 718
+        height: 420
+        isCached: true
+  - title: "Top 10 Artificial Intelligence App Development Trends in 2022"
+    excerpt: "Artificial intelligence is the most demanding topic that is spoken about everywhere. AI is the ability of a system to think and learn from its experiences. Let’s see the top 10 artificial intelligence app development trends in 2022 in this article."
+    publishedDateTime: 2021-12-14T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-app-development-trends-in-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Artificial-Intelligence-App-Development-Trends-in-2022.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "T8tMfeRKNnAYAmADRt1Ll/6Nj9Ntcu9grnsHKJ2PZZdedTMuM7LVOgt65mX0SA4bS/Eob9PirDcTsT5SKjq/oyF7fnEFbFHktB4cuBNgAjWqElrIWRf/uth7lwolaj/pIByLsNmF2zshdJqg3FzMP2iJlCMHc8wX84vcu85EPna+elHxJ6LELYI0B2hCxRzJXP8r0SFjsuRQlV9zNqnOVOkkcIXnOQ7ZWHug+c5kELWNwdJSpUNJbGIJNO/X6F3TNi3vgJYW3bOLTOnCtlMmQNXRAbAalMRwuKRVNYXFBX63V2xEyq8lfekZjrYNVA+t70CEXQfE9Xkww7VU7kbzsWMZ31I4Jp+YyMKpmiawj1A=;5Q5l5jipRzA3ejCUhAhTzw=="

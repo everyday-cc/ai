@@ -7,7 +7,7 @@ originalUrl: "https://www.imperial.ac.uk/events/142696/how-healthcare-data-and-a
 webUrl: "https://www.imperial.ac.uk/events/142696/how-healthcare-data-and-artificial-intelligence-can-improve-care/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,82 @@ images:
     width: 718
     height: 420
     isCached: true
+
+related:
+  - title: "How AI And ML Are Changing Finance In 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb4ea97e034c7c7b01f125%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "How AI And Data Analytics Drive Value In The Finance Function"
+    excerpt: "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58a362058dd89c077731%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI and machine learning in compliance technology"
+    excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
+    publishedDateTime: 2021-12-17T10:50:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/ai-and-machine-learning-compliance-technology"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 58
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "5 AI and machine learning trends to watch in 2022"
+    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
+    publishedDateTime: 2021-12-14T16:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Top 10 Artificial Intelligence App Development Trends in 2022"
+    excerpt: "Artificial intelligence is the most demanding topic that is spoken about everywhere. AI is the ability of a system to think and learn from its experiences. Let’s see the top 10 artificial intelligence app development trends in 2022 in this article."
+    publishedDateTime: 2021-12-14T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-app-development-trends-in-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Artificial-Intelligence-App-Development-Trends-in-2022.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "G4sYkSNN5b9AIbKmwpHJJyw2PRsjLPbkpz9FpAnJl4jQ9L3Nm0f7ZsxxvSQCrssh8DNnoJG/ZX1XqXRjNK3zUohW7rqk8Wl3o6248VN967Eq9k+SkTzGAWP9xk+0NR0jxJuCWzpOJhfyKaAzmNlgkUmDTcRAxq0SMUTgG6WP+JnDunR+zlY7TTjh033RRoNGt0sdrMyUPq4Yuu6Nd0cPVc/ieqUNID+ZyuyhDnF1Eh2W23rRkJXXhHowLRn+C7tUE0vy5uxxi3gPB4TEHHK5QUdwAGAS8XKrVW846lZlTDs6C+LVn2Czce0PjRxD6vTnDWAEf0oiUCLFVacQ1IeppNzTCQ6tgXaFiV0yh0fu1g80HqIMJ38NsomgIcEARhi6SVIwUCC6ccbX7zgHqVFMt6ammIYxehAgAByCjBkbuW7ugjhZPVaTaIUzEdjfJgkc46mj1XRI82w0h7S6SP99cPmwI1BXhg8rdU7L2xRGwlGZVqmTaq0WunPHXLd5JgEHO02JB5XVqZIsQEDxQAeCkA==;NZkYUIt5T4Wck5H2MsOcQQ=="
 ---

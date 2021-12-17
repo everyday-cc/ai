@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/01/Nicola-Anderson-for-interview.png"
         width: 794
         height: 572
+        isCached: true
+  - title: "MAP Fintech CEO Panayiotis Omirou Talks on Regulations, Regtech"
+    excerpt: "Finance Magnates recently sat down with the MAP Fintech CEO, Panayiotis Omirou, and discuss the overall industry trends, regulations and much more."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/"
+    ampWebUrl: "https://www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://images.financemagnates.com/images/Panayiotis%20Omirou_id_9a3c5e85-1714-4f9b-bdb1-7dfb48ef27ab_size900.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Biometric Onboarding Seen as Must-Have in FinTech Fight Over Identity Theft"
     excerpt: "The latest in AML/KYC 2. A discussion with Upgrade on leveraging compliance in digital banking 3. Exploring how AML/KYC is evolving growth in digital banking"

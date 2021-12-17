@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence magnifies the utility of electron microscopes"
-excerpt: "Argonne researchers have recently uncovered a way to improve the resolution and sensitivity of an electron microscope by using an artificial intelligence (AI) framework in a unique way. Their approach,"
-publishedDateTime: 2021-12-17T08:23:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59394.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59394.php"
+title: "Artificial intelligence magnifies the utility of electron microscopes"
+excerpt: "With resolution 1,000 times greater than a light microscope, electron microscopes are exceptionally good at imaging materials and detailing their properties. But like all technologies, they have some limitations."
+publishedDateTime: 2021-12-17T11:43:00Z
+originalUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-magnifies-electron-microscopes.html"
+webUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-magnifies-electron-microscopes.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-magnifies-electron-microscopes.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-artificial-intelligence-magnifies-electron-microscopes.amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/nanotechnology-news2/id59394_1.jpg"
-    width: 520
-    height: 292
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-56.jpg"
+    width: 534
+    height: 300
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 394
         isCached: true
 
-secured: "8RanUc/D1HBqlrn/QLUCS+E+PULtsuuZNLEsDspZex1CI41tExmgSZISOc3xGW2nYH7QHwUkOjvqY6GT+Z9PQQa2HGHUoIRf7z5U43dkcgBZXDBB/2xeXh4w7M+XmNlxTu6gkiCUSOQFAbBjEVgas1almrY2kKpQBlokWIZGZgAsJ9eb8wIYkEl2hF0r1Tb0g12bNrsEVsiJ5k65j56u0jXZIJCjnMAeoskvRtDG5hnSwe17WNA/8FRDnR1WZWPdEj0W+xiGJWJ/VG/ND58zjOL+h/ID88A9TSBtOSHvvai9iYi0SBd/nL+AC1gfC332R68cSeqoGLDv3BrMDnQ6oHTYeHO4fZZX43ECbDA/WAxZAEX8sWpbUCmoQ01lGnNUvjOlwOfvfBl55XBL2h0tUA0IARqbk5AlKnb9Z4JHdS1YMsEETzP0wu+of6QU0ePWOOsloZuT0s7Vn/NiIQa9hVjuEJxSw7DS9r8j8vONZKyU3m61/CI0vUMVENZIAMsKY/oINslpoENhQ8NITHZ6sA==;Xq2Fm2BIG4ht/0HWcVZZnQ=="
+secured: "ct5wvqkqEaWuOuvv/S1YiYe27MsM+Ero0HkbF1bnNYFjiOjCx9NFMx5ctYgr3qvh4lq7J0QMIufjBpIKrIaq9836sHC6gE+oOLFAdFoNpjNtMhC46vPtRPZtGmV2hCwY5shfQv2JkxEAe3l49UCT+es3nAYFM4yo/9DoT8uErDMUvFQQ9S1NBcVxCGhrnsBthqP70lAz22Z9SB2fO/8J/6jAaAw5qwk7vykKQ+OmJMxH6gnC5ZQ0S4PZW8oi1utRdRrou9F75O4CkYD+xC3r2mtK5elct/AN6bhY8FOafjetIx3/GfsqsDunXsaW8Sd3Sr/N0voasizAc8wifcr5R0WpAsO0U98FhECknOlTSok=;Iqe9GfmY9BVU7D0xj8tEFw=="
 ---
 

@@ -24,33 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "How Dell Precision is bringing ambitious AI initiatives to life"
-    excerpt: "And while the most advanced AI models are experiencing exponential growth, the technology required to run them is shrinking. Many businesses are developing cutting-edge AI initiatives that no longer require a supercomputer,"
-    publishedDateTime: 2021-12-13T07:45:00Z
-    webUrl: "https://www.crn.com.au/video/how-dell-precision-is-bringing-ambitious-ai-initiatives-to-life-573959"
+  - title: "New research reveals opportunities associated with innovation in AI"
+    excerpt: "A major new survey of British businesses, commissioned by the Centre for Data Ethics and Innovation (CDEI), has revealed the importance of supporting companies to adapt to an increasingly data-driven world."
+    publishedDateTime: 2021-12-17T11:50:00Z
+    webUrl: "https://www.research-live.com/article/news/new-research-reveals-opportunities-associated-with-innovation-in-ai/id/5093682"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
+      name: research
+      domain: research-live.com
+    quality: 59
     images:
-      - url: "https://i.nextmedia.com.au/Videos/20211213064635_Dell_Precision_ad.png"
-        width: 1054
-        height: 594
-        isCached: true
-  - title: "Leveraging AI to Combat Financial Crimes: Trends, Applications, & Practices"
-    excerpt: "AI and Machine Learning With financial crime on the rise, financial institutions are increasingly looking to artificial intelligence to help them get the upper hand. Most financial services companies are aware that artificial intelligence is getting faster ..."
-    publishedDateTime: 2021-12-12T22:34:00Z
-    webUrl: "https://www.eventbrite.sg/e/leveraging-ai-to-combat-financial-crimes-trends-applications-practices-tickets-223838265277"
-    type: article
-    provider:
-      name: Eventbrite
-      domain: eventbrite.sg
-    quality: 37
-    images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F197409679%2F686361592213%2F1%2Foriginal.20211207-082701?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C233%2C5808%2C2904&s=35cdffe193aa2bf4004c91ebf82e5438"
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
-        height: 500
+        height: 581
+        isCached: true
+  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
+    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
+    publishedDateTime: 2021-12-17T12:26:00Z
+    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
+    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "ConcertAI Initiates Research Grant Program in Racial and Ethnic Health Disparities with Awards to UCSF and Case Western Reserve Researchers"
+    excerpt: "ConcertAI, LLC (ConcertAI), a leader in enterprise artificial intelligence (AI) Software-as-a-Service (SaaS) and Real-world Evidence (RWE) solutions for life science companies and healthcare providers,"
+    publishedDateTime: 2021-12-16T11:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-cancer-health-disparities-2dc3a8a28a3da89e590f2b39697f6cc6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "jPZ/+EleUTvRxt680DEPfWUGrwgrT9Gbq83/CkWY7eJE1FtuIHdC+kP8dFbDW5Cwv6wady1UjQ7FzKKZ6dVP3Reh6tVDErmuYCoBp/+rYnFvHDcFPB1kqO2E0o3v47IroSj3CCRNRqiIqU5Tu7utkqzAJLBt7xKfa6Pxxg2Cxt384SVOeQvkMWKw+Q64BQsVyQ7etIQ7dhjf//mnfkUh+eLCyhsD5xkccZldUyx3EI8G9o3dFTIoax4M/gURhyv/vXHnQwree4FUmU50F+hkKHXCLXdhdbfTc6FwXXYButipoI0IzrqWWbQiHAhs4CKBEXuT3iU//oMk8n/3ti/1ayh9Kd8HYF++CCTD/tar0uI=;ch1H4POqKioDJoOTGTdRUw=="

@@ -243,6 +243,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
+    excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
+    publishedDateTime: 2021-12-17T11:23:00Z
+    webUrl: "https://europepmc.org/article/MED/34866808"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 7
   - title: "Global Artificial Intelligence in Diabetes Management Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Diabetes Management Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Many of these new AI-powered retinal imaging systems,"
     publishedDateTime: 2021-12-17T06:47:00Z

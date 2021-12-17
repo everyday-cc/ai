@@ -59,6 +59,22 @@ related:
         width: 794
         height: 572
         isCached: true
+  - title: "MAP Fintech CEO Panayiotis Omirou Talks on Regulations, Regtech"
+    excerpt: "Finance Magnates recently sat down with the MAP Fintech CEO, Panayiotis Omirou, and discuss the overall industry trends, regulations and much more."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/"
+    ampWebUrl: "https://www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://images.financemagnates.com/images/Panayiotis%20Omirou_id_9a3c5e85-1714-4f9b-bdb1-7dfb48ef27ab_size900.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "How FinTech can provide solutions for a more sustainable planet"
     excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
     publishedDateTime: 2021-12-17T00:41:00Z

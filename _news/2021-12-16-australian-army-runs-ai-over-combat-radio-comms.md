@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/australian-army-runs-ai-over-combat
 webUrl: "https://www.itnews.com.au/news/australian-army-runs-ai-over-combat-radio-comms-574112"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 399
     isCached: true
+
+related:
+  - title: "Australian Army and Microsoft to use AI to analyse voice communications"
+    excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.technologyrecord.com/Article/australian-army-and-microsoft-to-use-ai-to-analyse-voice-communications-127586"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10649/img-Austalian-Army_940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "7nXIVqsllLPXD+aBirU/oA5+0J1Uy06Z02ZGb1U2qm/o7ACPohnHkbSBx8mwgjb/h3h+pDCcNZtT7dX+OSbqA/Tf33mDljj/7u4FuifGktYhUJtSRZAyna+r7SYAGEEkPZnFIjVD9meH+KtMZdGcn7JKPT1HrrdhJhqNqftJyRU4SXL+ylq/u71QgX31iAkFZpqVU85tWMpoxOlvk3B5rVllM0VSm8dsqVdUF31BCcSE/3DPkIBIiSSvDgkMSxvF9X6zRI9HAl4+pL0foTu8NeE8uL/DxDQepS1idyLX4Ytkls5odW2mcxn7NeQvl8EqF/tfSK2ECwvM0g5Z0OEaPvfuI2F/fRpLMrV4gI7ywTKT+y4zcVzps5ngcITQFCq6sKLayqkbRiy4gS+u3FEYbvzN9B3VbCczxVMivlL4H2A39QtqY+ndf1ncWIKzBvPQ4ZcSpeGrSnkLBpywhRql8kemjKye7t1XOSUW+2QFzpCXmUaEz6GGNF+ypguj/e2bV4Fd637NUUj5vtk4nYltMw==;GCOXlnNuOgIIk0xsSTbAZw=="
 ---

@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI and machine learning trends to watch in 2022"
-    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
-    publishedDateTime: 2021-12-14T16:10:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+  - title: "Top 6 Artificial Intelligence(AI) trends to watch out for in 2022"
+    excerpt: "While the COVID-19 pandemic affected numerous parts of how we carry on with work, it didn't lessen the effect of Artificial Intelligence(AI) on our day-to-day existences. Truth be told, it is ending u"
+    publishedDateTime: 2021-12-16T07:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-6-artificial-intelligenceai-trends-watch-out-2022-jaideep-gautam"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 54
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
-        width: 800
-        height: 600
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHoOIEzYNxHew/article-cover_image-shrink_720_1280/0/1639638816856?e=1645056000&v=beta&t=ZhcQ4OW4rNuf9PACZ-8_nKrmKeWaUZT7ppw9SyjX3MM"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Hot Skills for Digital Marketers in 2022"
     excerpt: "The digital marketing landscape is constantly changing and evolving. Skills that were in demand last year may not be in demand this year, and vice versa."

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Location data ethics project completed"
+    excerpt: "The Geospatial Commission has published the findings of one of the first public dialogues on location data ethics, following a project carried out with social purpose consultancy Traverse and the Ada Lovelace Institute."
+    publishedDateTime: 2021-12-17T11:55:00Z
+    webUrl: "https://www.research-live.com/article/news/location_data_ethics_project_completed/id/5093672"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Location data ethics projects completed"
     excerpt: "The Geospatial Commission has published the findings of one of the first public dialogues on location data ethics, following a project carried out with social purpose consultancy Traverse and the Ada Lovelace Institute."
     publishedDateTime: 2021-12-17T10:54:00Z
