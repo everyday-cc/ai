@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-14-new-artificial-intelligence-centre-opens.md",
+      "title": "New artificial intelligence centre opens",
+      "excerpt": "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
+      "originalUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/1639439534-Artificial-intelligence-centre-960x540.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/national/2021/12/14/new-artificial-intelligence-centre/amp/",
+      "publishedDateTime": "2021-12-13T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Daily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now.md",
       "title": "AI 50 2022 Nominations: Is Your Company Transforming An Industry Using Artificial Intelligence? Apply Now",
       "excerpt": "AI is essential to nearly every industry, but it’s not easy to identify the companies that are using it in truly transformative ways from marketing hype.",
@@ -1147,58 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-would-you-talk-to-an-ai-therapist.md",
-      "title": "Would you talk to an AI therapist?",
-      "excerpt": "Mental health services around the world are chronically under resourced – but there are hopes that artificial intelligence might offer a solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-ai-therapist",
-      "originalUrl": "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-ai-therapist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0b97h8w.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

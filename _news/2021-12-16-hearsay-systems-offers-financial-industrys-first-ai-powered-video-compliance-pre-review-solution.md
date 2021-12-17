@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 1568
         isCached: true
-  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "J9Jxn2MHvGeXK2z7ocG2aob4y4uNT1d8lU18eJBzdcAuHtY7OOzuYk4zi3MvF7hoqzm4JwygRv5Vpx8g9BkpiYMoY29QZgIbtbiItxYBVeq65l6Y+WRrTTeXXwkSLm3Fqf00ytarFK54E4h9xvs9dkbcvUGA6zFz64tpfTfhnig4+V4JBpRJAaM9aWDLl6ZkqjfxOsribPw30NlIkg61Jd1MpJoR9gu1xH5ttO10dfeYaghYctiSEWPSukHCYEGKvbBPPptNHHoxUFHVS+nY+CcFhMYiyL3RrJVa6/LkXrKo39KSD01PtJEHMO5ibWINXCRGW9SJ1U80j1xo2iexegLNITFVym6hqHMBkr1ghY8=;L/YISvvj4Xm1P7WxsqZbpQ=="
 ---

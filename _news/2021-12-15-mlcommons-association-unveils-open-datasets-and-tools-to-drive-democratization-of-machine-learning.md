@@ -53,6 +53,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "The contrasting shape representations that support object recognition in humans and CNNs"
+    excerpt: "Recent studies have argued that when CNNs are trained in the correct learning environment, they can emulate a key property of human vision -- learning to classify objects based on their shape. While showing a shape-bias is indeed a desirable property for any model of human object recognition,"
+    publishedDateTime: 2021-12-14T10:11:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR432353"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 10
 
 secured: "0hSa0CFD+ZY0ECIV0JhlTwRMhW6ol8Lg5xJSpUrkS68H/zjF7vDEyVKLuTHD1auNpd5rkxyOplHgEXwHGkTuf2F1H1tjFyA/r6So071jH8K3FDqeH1k7PA+zexEznjFuNlR1E7KT0JA9kOMXGn9TQ6YJW/NgQkAPH0chnTO2VtLblezm9YZQqlrpu0auzRLxSb/wqteSKHV7CtYBu0RjqpzYYdHMo0TrNZriUAXArNP/ZZ1Kz61dBovWI7SrnAWHNcmK/5wiOyT50pmgJshf63ARmIp83ArQHOxLvCFDEHaX8Ly2VabLyvM3OZP128DzmO0d4cvkXWamPh6deW8F//7rwZaIJqeM0YKF2xpTU0s=;PZ2aLRfm2qOb44ry7kEUwQ=="
 ---

@@ -30,7 +30,7 @@ related:
   - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers' Financial Access and Decision Making"
     excerpt: "MoneyLion Inc. (\"MoneyLion\") (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (\"Even\"), the category-leading embedded finance marketplace,"
     publishedDateTime: 2021-12-16T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/12/16/9512775.htm"
     type: article
     provider:
       name: TMCnet

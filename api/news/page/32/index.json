@@ -2,6 +2,50 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-21-returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time.md",
+      "title": "Returning India’s missing pets with facial recognition, one dog at a time",
+      "excerpt": "ForPAWS is an app that will soon allow you to find a lost puppy's home using just your smartphone. Here's how it aims to make things easier for pet families down the road.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/11/ForPAWS-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
+      "publishedDateTime": "2021-11-21T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
       "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
       "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
@@ -1130,50 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
-      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
-      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
-      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
-      "publishedDateTime": "2021-11-19T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

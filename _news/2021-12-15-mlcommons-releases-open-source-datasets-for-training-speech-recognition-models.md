@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source
 webUrl: "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source-datasets-training-speech-recognition-models/"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "The contrasting shape representations that support object recognition in humans and CNNs"
+    excerpt: "Recent studies have argued that when CNNs are trained in the correct learning environment, they can emulate a key property of human vision -- learning to classify objects based on their shape. While showing a shape-bias is indeed a desirable property for any model of human object recognition,"
+    publishedDateTime: 2021-12-14T10:11:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR432353"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 10
 
 secured: "AY72LhWuvQhh7i3AsegctWlXIRkHvi7d2B5jpDedrq+/ZxjQpG5lVZLW4jqsM/+evvB8/2RFl7NA2OqmNkGNSdoR9eNEyAe7xoPpoHn6YcW9c8EMV+x8NJqzlIsTirYmNch66acg1YSP5nDFxZEoWAupcIWnOGbQkU7OD5uYjl9NVuUD9VgDYDQ/PrGh+b7/fQoPR6Ef0/y8PnyJGBwwBoio09BSgJnUQXo5qEUpB0ECDzLIt8TPTHaYlZwEgezN+C6WQFyH3a0yPYTEuVJHV+xdLxlg12NvbN2jyzd/U9KBBtwqNGVPG4dDXtJrbhGHYjttMEzwXOOhUP698RsRMErHFdW2i7BDKtxkDva8Yx+dHdoc6gPtnhTyZVnroRNKOQ5j5pyrWq8Do5O4GZVTdnTwp8US1ZuHmuYCxQydIHWcYumh+vL+vQChOKWs6vsMQ4wR/DacZbwfaLB7h7M/T4R4ZKG+KxD+NX4gUkxwI7rLYlEeHiugNAGsi2Ecy9xdvOhhhGqOQQvA/n0rog4n5Q==;JNJrwA80iWtsLiz014gG5A=="
 ---

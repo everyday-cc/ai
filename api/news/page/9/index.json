@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-09-hospitality-facial-recognition-tools.md",
+      "title": "Hospitality Facial Recognition Tools",
+      "excerpt": "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "originalUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg",
+          "width": 622,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/zoox-pass",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass",
+      "publishedDateTime": "2021-12-08T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-opportunity-for-ai-in-healthcare.md",
       "title": "The opportunity for AI in Healthcare",
       "excerpt": "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life.",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper.md",
-      "title": "No animals harmed in new chip drug tests that are faster and cheaper",
-      "excerpt": "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
-      "originalUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Israel21c",
-        "domain": "israel21c.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

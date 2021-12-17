@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
+      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
+      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "publishedDateTime": "2021-12-06T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
       "title": "The Top 6 Artificial Intelligence Plays in India",
       "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
@@ -1153,57 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ai-applications-in-digital-health.md",
-      "title": "AI Applications in Digital Health",
-      "excerpt": "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "originalUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944301/berlin-1.jpg",
-          "width": 1537,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

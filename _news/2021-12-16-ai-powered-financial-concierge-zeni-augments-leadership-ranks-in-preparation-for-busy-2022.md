@@ -35,15 +35,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 6
-  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "BXQLLxR78xGow+hwujlFe3wE/R1uHKXqmlS4mNANSI4CEWJ2kzWyoF9T/2ux8gBB795NrNr7F3GEdkgWGRp5IGTIiPrjuPV6o1sjAr3qHWhb3Clj9XNAE4mODhszKJSx9y1zB79grNqSC4/4tm/3bZvpxyEmnf8v2w3zo+HJBXHdum1WCK38bNNgDE+AUMo8W9WiNccth9IZppQxQrTDT+RxBH9+ir65OVleKYjn0vpJzONygtJ4R38qTYAFgoUjOiSeuXvpf1it6vadFU8z+bdYv/an4XSNtg1vZP0WaBf0Q+hkNK4kXettz6FeiHtCqw6S8NSK2t7GXnYCTgHrP3vu6yodU8d/CMgd6w5KMuTw+zmrFE8LezSislYYmrNL215tPc4T24oPBybG4XlF2X/5zKDZzwE9+JV1X5YjSmaLuJGGAvh62sIkQTgEzKUtdQOjGLrX2IL30A33Gb5/K9FDMiTzXV+8r3pRZ5F3TGCaGDzCIUeXFB4LUpLOl5Xq3TVwCsWCJ4jbXzAlg2GFDA==;T5SiumQcqtpk9A7w22GKCw=="
 ---

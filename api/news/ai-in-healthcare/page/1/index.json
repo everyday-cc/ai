@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-17-characters-for-good-created-by-artificial-intelligence.md",
+      "title": "Characters for good, created by artificial intelligence",
+      "excerpt": "MIT Media Lab researchers offer positive use cases of AI-generated synthetic characters for education and well-being. A new paper provides an open-source, easy-to-use pipeline that combines AI-generated models to create synthetic characters with facial gestures,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
+      "originalUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202112/ai-characters-for-good-mit-A1.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-robot-nurse-assistants-join-shannon-hospital-amid-texas-healthcare-worker-shortage.md",
       "title": "Robot nurse assistants join Shannon Hospital amid Texas healthcare worker shortage",
       "excerpt": "\"We are one of the first hospitals in the country to have this technology,\" said Lyndy Stone, Shannon's director of marketing.",
@@ -1318,49 +1370,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-2026.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026",
-      "excerpt": "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
-      "originalUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T01:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

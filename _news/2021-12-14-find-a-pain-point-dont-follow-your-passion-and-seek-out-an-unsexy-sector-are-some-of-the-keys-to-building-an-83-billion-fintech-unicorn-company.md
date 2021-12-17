@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: 51
+published: false
 
 provider:
   name: Forbes
@@ -29,47 +29,6 @@ images:
     width: 1200
     height: 1138
     isCached: true
-
-related:
-  - title: "New, Innovative Fintech Aids Credit Union in Rapid, Billion-Dollar Growth"
-    excerpt: "Datava, a new innovative fintech, and American Heritage Credit Union, a $3.8 billion asset, Philadelphia based credit union, recently presented at the NACUSO Networking Conference about their successful CUSO partnership that aided in the"
-    publishedDateTime: 2021-12-14T14:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20155491.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Fintech Innovator fonYou Secures €7 Million Funding"
-    excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
-    publishedDateTime: 2021-12-13T01:01:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/21719-fintech-innovator-fonyou-secures-7-million-funding"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/ace6ed98a255c1c5c5522c8ad446dfd3.jpg?t=20211213_005950"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Top 3 trends of software development for FinTech"
-    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
-    publishedDateTime: 2021-12-15T14:16:00Z
-    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
-    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 24
 
 secured: "KnRAXkPbMm4sGUSbx/UaX4sh1zW+fedVDEAeop7qwHlMx9+jM8emJHuEOzHxoIwnvM+m4xJLrmi8af6LHYsDyJql5UETFe5HInMbplmEvzISNTQ3KkC5uC7TpGZADfjzanlVI7d+X6lReeANAG7mPF2oOhbmffiCiOrHqK0PVK9mDyah8jNBRDBo/FtRnr9yYGvAla3egLniqJEGAMWvCUNUPs6CzmPOMPh7oI+LCtJK7Lc9HqfTYUw4lg+bVhfR5cKktuWfWNpCtX35z62cpH4X+61TJ/Tbsqe6QzZWDAHM/WI+ylApjzVCYrw0p6vHyDDIMsCmWqLzhTqLgEY1TEEf7aYqn2wn0a12RAzf2luNHMVuQ7MIe/Zt48QGcFIps/PPLnS1J1V2izd+Tkfbx29h+fmWhh/f26v3oOT+zs9xMy+RPk9VurdwOncDZuvXAcMb5jCzqw16aKEoC4PJjk1myUd1g+LIjItLJfBmh7TOr7a6MQ88Dtq/vKSQDaUbrp4L9NrVYX7dfrlnfcXBGg==;1AJs5FJjL0e7QfK0UCEMCA=="
 ---

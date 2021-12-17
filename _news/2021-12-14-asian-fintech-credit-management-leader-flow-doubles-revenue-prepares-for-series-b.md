@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech Firm Avant Debuts Avant Banking"
+    excerpt: "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more."
+    publishedDateTime: 2021-12-17T02:22:00Z
+    webUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/"
+    ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Half of top salary increases are in fintech jobs"
     excerpt: "Almost half of the top 20 salary increases in Scotland for 2021 are related to jobs in the booming fintech sector, according to new research. Recruitment firm Hays said rising demand meant nine of the roles were in financial technology and it has teamed up with FinTech Scotland,"
     publishedDateTime: 2021-12-15T21:50:00Z
@@ -43,19 +59,21 @@ related:
         width: 794
         height: 572
         isCached: true
-  - title: "The Future of Finance: 10 Transformative Fintech Predictions"
-    excerpt: "Discover the future of finance with these transformative fintech predictions, from exponential computing power to the rise of AI-powered finance assistants"
-    publishedDateTime: 2021-12-14T10:01:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-finance-10-transformative-fintech-predictions"
+  - title: "Biometric Onboarding Seen as Must-Have in FinTech Fight Over Identity Theft"
+    excerpt: "The latest in AML/KYC 2. A discussion with Upgrade on leveraging compliance in digital banking 3. Exploring how AML/KYC is evolving growth in digital banking"
+    publishedDateTime: 2021-12-15T09:01:00Z
+    webUrl: "https://www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/"
+    ampWebUrl: "https://www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/aml/2021/biometric-onboarding-must-have-fintech-fight-over-identity-theft/amp/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/future-of-fintech-2030.jpg.png?itok=k5tq3KIp"
-        width: 1200
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/AML-KYC-Digital-Fraud-Biometrics-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "How FinTech can provide solutions for a more sustainable planet"
     excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
@@ -71,51 +89,19 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "High-growth Global FinTech Innovator; Interview with Jonathan Squires, CEO of Capital.com"
-    excerpt: "Today we sat down with Jonathan Squires, CEO of Capital.com, a high-growth investment trading fintech group of companies which has seen tremendous growth and has a bright future ahead. Jon tells us about himself,"
-    publishedDateTime: 2021-12-13T07:00:00Z
-    webUrl: "https://techbullion.com/high-growth-global-fintech-innovator-interview-with-jonathan-squires-ceo-of-capital-com/"
-    ampWebUrl: "https://techbullion.com/high-growth-global-fintech-innovator-interview-with-jonathan-squires-ceo-of-capital-com/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/high-growth-global-fintech-innovator-interview-with-jonathan-squires-ceo-of-capital-com/amp/"
+  - title: "New, Innovative Fintech Aids Credit Union in Rapid, Billion-Dollar Growth"
+    excerpt: "Datava, a new innovative fintech, and American Heritage Credit Union, a $3.8 billion asset, Philadelphia based credit union, recently presented at the NACUSO Networking Conference about their successful CUSO partnership that aided in the"
+    publishedDateTime: 2021-12-14T14:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-20155491.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 38
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Jonathan-Squires-CEO-of-Capital.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Qinta 'Self-Driving Fintech Wallet' Aims to Protect Americans Against Inflation"
-    excerpt: "Qinta announced it had fully tested and completed its prototype product ahead of its official launch scheduled for 2022. Qinta is an expert-developed"
-    publishedDateTime: 2021-12-14T12:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qinta-self-driving-fintech-wallet-aims-to-protect-americans-against-inflation/article_fe253880-e40b-5750-a071-fbefbdb115c9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/a5/4a5d901d-5044-59e1-8de4-1d0f1ea17a41/61b8a0a28a2b0.image.jpg?crop=1296%2C680%2C0%2C64&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Aussies are unhappy with the Big Four. Enter Cash Converters and a new breed of fintech lenders"
-    excerpt: "Consumers are not happy with the Big Four banks. Enter a new breed of online lenders that could approve loans in minutes."
-    publishedDateTime: 2021-12-15T11:28:00Z
-    webUrl: "https://stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/"
-    ampWebUrl: "https://stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/aussies-are-unhappy-with-the-big-four-enter-cash-converters-and-a-new-breed-of-fintech-lenders/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 32
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/Picture-The-Truman-Show-1998-Scott-Rudin-Productions..jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "What Trends are Driving the Fintech Revolution in India?"
     excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
@@ -130,6 +116,20 @@ related:
       - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Fintech Innovator fonYou Secures €7 Million Funding"
+    excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
+    publishedDateTime: 2021-12-13T01:01:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/21719-fintech-innovator-fonyou-secures-7-million-funding"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/ace6ed98a255c1c5c5522c8ad446dfd3.jpg?t=20211213_005950"
+        width: 752
+        height: 408
         isCached: true
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
@@ -159,19 +159,30 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Fintech in China’s Greater Bay Area: Key Opportunities and Challenges"
-    excerpt: "In Asia, China is still the market setting the pace for Fintech innovation. China’s Greater Bay Area (GBA), covering nine cities in Guangdong in addition to Hong Kong and Macau-is one of China’s most important financial hubs."
-    publishedDateTime: 2021-12-15T03:38:00Z
-    webUrl: "https://www.eventbrite.sg/e/fintech-in-chinas-greater-bay-area-key-opportunities-and-challenges-tickets-211790389757"
+  - title: "Top 3 trends of software development for FinTech"
+    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
+    publishedDateTime: 2021-12-15T14:16:00Z
+    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
+    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
     type: article
     provider:
-      name: Eventbrite
-      domain: eventbrite.sg
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 24
+  - title: "Hong Kong’s FinTech Sector’s ‘Wine Valley’ Moment"
+    excerpt: "Top fintech scale-ups such as WeLab, One Degree, and Aqumon, as well as so-called “tech-fin” start-ups such as the likes of AI company, FANO Labs, can all trace their funding to these major investors. The Hong Kong SAR government’s own Innovation and ..."
+    publishedDateTime: 2021-12-16T10:12:00Z
+    webUrl: "https://www.finextra.com/blogposting/21431/hong-kongs-fintech-sectors-wine-valley-moment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F200695589%2F91979068837%2F1%2Foriginal.20211214-101120?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2880%2C1440&s=691d02036901436691ee0bde5d59e4b9"
-        width: 1000
-        height: 500
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/e0c0d5fb-77ec-4d32-afea-f6757afc279d.PNG"
+        width: 500
+        height: 326
         isCached: true
   - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
     excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
@@ -200,6 +211,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
+    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
+    publishedDateTime: 2021-12-15T14:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "Fg7L/0gLb2LfFebLxWcwZQynyjL0iRRGJUCbfOtd9bEcAY9PKz3Kay8yqN0zJtGE6C7OICh2X2vIexoRM6HM3z/v8pRMwTgmZuozLaelMNw9zD1YO/cVIQD8s2aEuNZOL8sT74XXL4UjBFwXQfnmYsG45lhrydEiCuTNjszHQZi3QTJAffXH85EXT8oJzs71OvNT3ztFZeaGKrFfirIJfg7MLKYSckTJtcmN4rkRHx3MI/LtfE0AUNm5bLSVzh3dkQO8v9xCv7kdWYdBrtTIzwx3fr9c58KJnEjRMNW5tbdpqtowHlCQGrWMdzMeg73QsmhWDqwgQk4GlE8GbMtXzbHSkM/PHJohDDYDIFfPa/hFbyMjXK1ijUaXClqwZP9P3izdiSQNcbxonuejFdmuF8FUDL30C9R7HfDCtKYB3A8u2uwtwu2bmgJPAVb7AMBSRSeKOHcLcHc9pM9WDLj277Obnl7uwVKm+vFq1KsC/pgZZ91edUP8WBRvIJs3oB+UCso4Wd/FigHL4e6G0f1ZoA==;YXNiCL/BHeIUVlZnp5RBcg=="
 ---
