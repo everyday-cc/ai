@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "France orders Clearview AI to delete facial recognition data"
+    excerpt: "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country."
+    publishedDateTime: 2021-12-17T06:38:00Z
+    webUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    ampWebUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg"
+        width: 1200
+        height: 465
+        isCached: true
   - title: "Provinces order Clearview AI to stop using facial recognition without consent"
     excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
     publishedDateTime: 2021-12-14T23:48:00Z

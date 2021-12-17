@@ -103,20 +103,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "What Trends are Driving the Fintech Revolution in India?"
-    excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
-    publishedDateTime: 2021-12-12T13:12:00Z
-    webUrl: "https://www.india-briefing.com/news/what-trends-are-driving-the-fintech-revolution-in-india-23809.html/"
-    type: article
-    provider:
-      name: india-briefing.com
-      domain: india-briefing.com
-    quality: 24
-    images:
-      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Fintech Innovator fonYou Secures €7 Million Funding"
     excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
     publishedDateTime: 2021-12-13T01:01:00Z

@@ -2,6 +2,57 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
+      "title": "Adobe continues its AI push in Creative Cloud",
+      "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/landscape_mixer.gif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex.md",
       "title": "Cisco launches new AI-powered and hybrid event features for Webex",
       "excerpt": "Cisco has launched a range of new features for Webex, including AI-powered noise reduction and a 'wellness' portal for teams.",
@@ -1125,40 +1176,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-false-hope-of-current-approaches-to-explainable-artificial-intelligence-in-health-care.md",
-      "title": "The false hope of current approaches to explainable artificial intelligence in health care",
-      "excerpt": "The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "originalUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lancet",
-        "domain": "thelancet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

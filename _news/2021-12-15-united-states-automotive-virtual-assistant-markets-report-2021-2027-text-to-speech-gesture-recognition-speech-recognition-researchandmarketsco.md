@@ -34,6 +34,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 36
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
   - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
     excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
     publishedDateTime: 2021-12-14T10:08:00Z

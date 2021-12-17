@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Cruise CEO Dan Ammann Leaves GM’s Self-Driving Car Unit"
+    excerpt: "Cruise LLC, the autonomous-vehicle startup majority owned by General Motors Co., said Chief Executive Officer Dan Ammann is leaving the company, just as it’s on the verge of starting a commercial service with self-driving cars."
+    publishedDateTime: 2021-12-17T06:42:00Z
+    webUrl: "https://www.bloombergquint.com/business/cruise-ceo-dan-ammann-steps-down-from-gm-s-self-driving-car-unit"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QyHIj0indysAL4McZfhjJreDE5RfVhOZ1LY9q1rwMqKyQnaDCzGHR8ZdX9DovD8fF03Yv+x9gi9Vkmibc9IpLrFlLiylyWeBxRMnMJuwRgM+7lzjvMDSQEOk5M4ECIWxNcOOdGwZaWREOL92tEqPyuY1s41jIYdjkVVx1B8wXLVrQedcu/h5hTWkOLvy6Kqy8Vj7Ns3/woebM9ErqhbnLclieVrVD2r0IOjb8M8rLjurSc3LIc89qZCumFjYtZWc6LvmqnHG+N7tT+igoZgZ4JHR2dWrH3djIUspvrb5fhQtHBHMSGNkf0twATdZBecCgjpl3kZ79kqKW5qqjSW1TyNEjQVIlaJ7ug3fT/hbUUENF3Xvn0np4NUmi6rBRcahSw5vuM2XfRIc6gnX847PlK+Z16PXO5oywnFGr8/CoHIGjPdfs14MVKhw53evfG2SaP/g0nefYaNBDnNGC0Cf4G/s79ZLyVM0/nvQQePSUe6jo0Ltkt+GokfSDndUpwRZjyOR6NoCWSPVpc03SrH7+A==;lyzxIMm24HfyWHLiDH5LIA=="
 ---

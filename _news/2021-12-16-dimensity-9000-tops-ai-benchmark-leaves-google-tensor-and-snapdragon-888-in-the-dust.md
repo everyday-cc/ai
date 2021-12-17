@@ -105,6 +105,22 @@ related:
         width: 340
         height: 400
         isCached: true
+  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
+    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
+    publishedDateTime: 2021-12-17T05:18:00Z
+    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
+    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 52
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z

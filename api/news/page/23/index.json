@@ -2,6 +2,50 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-30-how-cognitive-computing-can-be-used-in-real-life.md",
+      "title": "How Cognitive Computing Can Be Used in Real Life",
+      "excerpt": "Cognitive Computing refers to the next generation of computing ... Assessment of risk: Risk management in financial services entails analyzing market trends, historical data, and other factors to forecast the degree of uncertainty associated with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
+      "originalUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/news_new/sliderimage/ryv82.350.jpg",
+          "width": 300,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
       "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
       "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
@@ -1131,49 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
-      "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
-      "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "originalUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56914/content/exominer-exoplanet.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
-      "publishedDateTime": "2021-11-29T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

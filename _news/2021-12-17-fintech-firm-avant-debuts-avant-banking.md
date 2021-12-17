@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "What Trends are Driving the Fintech Revolution in India?"
-    excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
-    publishedDateTime: 2021-12-12T13:12:00Z
-    webUrl: "https://www.india-briefing.com/news/what-trends-are-driving-the-fintech-revolution-in-india-23809.html/"
-    type: article
-    provider:
-      name: india-briefing.com
-      domain: india-briefing.com
-    quality: 24
-    images:
-      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "Fintech Innovator fonYou Secures €7 Million Funding"
     excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
@@ -221,6 +207,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "4LdFFuaA+YBjxIwGs/DWA5/F4PMqIFyHx7OIT8nS96XYtZF+NAcQYRQvGIHlzn/FWpbF0U8vi7EL0H+jus2bbq6aecHfcjV3bdU6bUmLYhM6hgdzk+JlL/uMiy/chTCj7HQVEjED7rhYzk87VGe6MLCGJ9jdV8cp4gTv9W77bZoImDfUCx7+/Ee2/tuBoz+P9pDKhYcTqnKGo7u69AxeO6RMvCo2oLZjfIl8mhriyWr3MfvFriPUL6GDoKxnhVpA+ZBCKpxvmICLvXbFq75SDDXge2ZRgVS5ojKgl54UPa5SNb3AVrzTuLpH/4U73ePR9jZTavHX3jgNs0tpSphnfKvaGQNXqXixhUSt8xarbeU=;b0AvigVtVTPd/FHyWtU5Fw=="
+secured: "aPt67FiUUpYLdbJ1KmoC2okfbMtSM6jZXvqGpsP+UXwJh5T78lo9JmNarJ3HeXAEXf1d8Rt66cV/4ksXnfrlTmTVEjy5Fp58GpSqXJpSSOpRqQyO4IBOuKcsAebIUpja9myDrFNPog4oEvH1yfKZT8FPiCsbR5mY8CuxIMR5EP1OTvIK60NnIUY5moZ6GnwC4RubHGzeK1H480Pamo4uqtVSuOgHVu/pTYVrP3c1Mj3FjH6iUkxlPDZYMOKq3Ir/XCGgEcY4WN1XkBOMhDc6/5XcHcuxQM3ePnmGl8oGvPZ9lqMkrcFLvhuNd6DWAYRa3yj8s8QQDCBYr7diR595TUhLVyKFHmDf1V56cc80gkn0fu7xj/ql1YAWWuA/pJA1N3DZt5Ju0Rfsnjov5EACBlUUGQm9TXnjbYLxhBFUYhTzOHT5MyMke/58TODSXFeWtvszJUwGUak7sbRo7AjbxfQ1r2TWTscFUE+qHNpLecLhBOmqHS8Kctngp1IyCXQScFuwEXy2mWQuTlGn+VFf3Q==;H/YHmkA00MxfGqh3ki8sZA=="
 ---
 

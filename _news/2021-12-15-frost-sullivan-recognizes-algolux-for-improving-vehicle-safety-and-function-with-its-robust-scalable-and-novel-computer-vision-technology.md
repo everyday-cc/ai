@@ -24,6 +24,22 @@ images:
     height: 785
     isCached: true
 
+related:
+  - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
+    excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
+    publishedDateTime: 2021-12-15T22:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
+
 secured: "tJdrClaLtBeAhrGswOwzWptNCwv3hkOCp0kzyZWxCG4PZaNOteKGVY89dalvgOAVv8FdPrIvBPL4Ee/dvFsw97th8JERpC6sWrlxhAyyE5zTin5j28SQCsxrb8Der/znEmsFhngarEW/iw7N78A5A3gsH/jz9pN1/jvSxWtBXWoPIJbSd6PqWF0odWbDzIYPVyMt8YeSthf/yg8WmrWzItIHW5VmyQ6/nrNo012wFZggyFZ3QUuIpSDWOBeQFUZ/jBpPzdmVXKqY/O/h8F7Nx9sZlHXy1NhFaalXY45qAVFy2kFUlD5TsdxtB1msPN/2WatSNDATUMA1aSgrDfMxJX3YWJZCCi/5vKt9rdyFAV4=;fg82qxqPyPXVxAkac1BDrA=="
 ---
 

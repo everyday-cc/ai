@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "France orders Clearview AI to delete facial recognition data"
+    excerpt: "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country."
+    publishedDateTime: 2021-12-17T06:38:00Z
+    webUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    ampWebUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 74
+    images:
+      - url: "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg"
+        width: 1200
+        height: 465
+        isCached: true
   - title: "Clearview AI Has Acquired A New Patent For Facial Recognition Technology"
     excerpt: "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-12T20:32:00Z

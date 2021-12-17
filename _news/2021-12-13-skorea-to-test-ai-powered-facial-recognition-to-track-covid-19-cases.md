@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-
 webUrl: "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/"
 type: article
 quality: 184
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -243,6 +243,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Global Artificial Intelligence in Diabetes Management Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Diabetes Management Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Many of these new AI-powered retinal imaging systems,"
+    publishedDateTime: 2021-12-17T06:47:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5124652-global-artificial-intelligence-in-diabetes-management-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "dmxYZphDS553to+4BVsFIkbNwaizVATjphSI07k2YfduBsox6BsyVc3TIxadgG8Kh+/Qzg/87Wal6qESsjWa/DBEV/HQ1xfYwGRkSk0SWk65P2mAqpopL75b2Cd1gRTF7BVHRe7EHvqx1g4kNgl1m5jKo14DyUuZcTEGRVV5Fl0BCL61HxUV6jGnD8FqEyAflCD8R7yMcjgpUOUIPawwoATCJlbWVPfYoLu0Ci7thMIhVxQ6UIDdEAoV3QvxNVGCN9Km4UmJokc2NCZPgF4Psq0GP+qFcJewaDR8oeXO+hUlyQtk1jTHqKidhvpX+asr7EJjRoj00SbuJmj6yPue1Yf4Tz7CPhG21mu3t2Msc7O83p9z8zt4RocgwDE7880smnY9tIwty0QgE0UOriarqBlRu1ULV+kZl5EJhyHsONm3zsgX7PS/8IT7LoLOEJiGIaa8MV2p4GM1uqTv7KrLwk1bui4wiEVKJ3Pkgyw37mFnf5vmzFK1iRrzFrAK9aR5S55bL8q7DgUOTwtkc3ArBX1ROrlSxumzl/7+/ThKAgE=;RaATQmCReuBOL/BRqiFUWA=="
 ---

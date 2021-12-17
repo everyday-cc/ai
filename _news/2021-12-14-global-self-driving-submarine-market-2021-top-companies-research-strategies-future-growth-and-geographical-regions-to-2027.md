@@ -34,6 +34,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 36
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
   - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
     excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
     publishedDateTime: 2021-12-15T14:39:00Z

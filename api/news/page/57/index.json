@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-11-03-researchers-develop-method-to-completely-fool-ai-image-recognition-turn-turtles-into-rifles.md",
+      "title": "Researchers develop method to completely fool AI image recognition, turn turtles into rifles",
+      "excerpt": "The team’s “3D adversarial objects” throw the object recognition algorithms for a loop, making the computers think they’re looking at something they’re really not, and it’s honestly ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/",
+      "originalUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2017/11/screen-shot-2017-11-03-at-11-21-56-am.png",
+          "width": 969,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/ai-tricked-mit-object-recognition-turtle/amp/",
+      "publishedDateTime": "2021-11-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-microsofts-new-azure-adopts-openais-gpt-3-language-technology.md",
       "title": "Microsoft’s New Azure Adopts OpenAI’s GPT-3 Language Technology",
       "excerpt": "Earlier today at the Ignite conference today, Microsoft announced that its users will now be able to experience the new",
@@ -1129,58 +1172,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
-      "title": "Changing the world with 3D data",
-      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "publishedDateTime": "2021-11-02T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
