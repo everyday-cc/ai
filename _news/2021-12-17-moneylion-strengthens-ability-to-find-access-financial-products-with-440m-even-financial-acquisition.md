@@ -27,21 +27,16 @@ images:
     isCached: true
 
 related:
-  - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
-    excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
-    publishedDateTime: 2021-12-16T11:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
+  - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers' Financial Access and Decision Making"
+    excerpt: "MoneyLion Inc. (\"MoneyLion\") (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (\"Even\"), the category-leading embedded finance marketplace,"
+    publishedDateTime: 2021-12-16T12:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
-        isCached: true
 
-secured: "ETYA1CZuQ4wjwO/Vj+vnAO+6lbGg5cuU+DN+c1wHjsVb2PFd2hd9W1rEg+ZR5NuxHS623oOeOMpXkwQNvtqvsEtThEwRK11d7mFtVX6GAqmSF58uIf+lriKOW/CLTmRn8kelDxP5fzQD8RLvMUDjHVP0TWNlqdMBpQMEnb77LD8u387w79uhQaC/vSXj2tv7Lw3TbPAKjlnWxcBZtdv+p+Srpu8VNOO1xO+Xp6uw1uzHXPTCfOZI/uKrmY/4Fm0Z7Ucu/eZd87h+LEOHGdqv+nnpPM7PFkrGr6f3GiF5A5VQbA4aVfIk+kP2jUyN2aUWQrqnIcFqBBECxMWoDPn8nRj8xtMyD+CEtRujDgsNKr4=;QU46z9ezLMfLoERNGCbK7A=="
+secured: "pjg54p4y7dgbEuUd43fzod/PDc4m/+hFJTnUFTAw5vjh/r2+V3+j21dl0o2VsxoSlSXU8vJMswJ2AsLnKIASKdAXitK0vVzDvaGVQzGfGnrfYYJdP4wfvvfomLe7Q9IeY0svQRoU3ZImh9yZh96QDcJN0D2CDFvudcKBoZbemCLiwC5aaFjjhYg+diQ65Y1fy7LCDx+BmcxujCIQzjN7BHHloTjs+ZRuoH2nd7AXkDImau6XCzscS1JHhzg1McfysVMyCuQksCYqZSIlGdHbQsy6S09gs7a2XdkSpAQ8j+aduw2Lc4N+iD5qyHE+cxTXC/5Nw0yLp4mN35Vwdh1BehmtFahM2gYMdGkzOi1+2cjlzqWHMu0E5b1CqX+0MUcEQVW9Q0TrK8oc7Bipmj0908yrhoyVw7ca0mjsIYgPuHheT1ALV1xVnFpUhXBfp5bGB1qnFG5s3sISTmrYclHB/wZ5bGizht0OTvPlxrAH0wv75ltgJARmX2A/xP/3Y2rPlFBNQnRbnX+THaGs1b8dig==;T/rLOBtr6SEo0y/CVdGIxw=="
 ---
 

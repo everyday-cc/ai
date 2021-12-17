@@ -41,6 +41,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "High Speed Camera Market to hit US$ 550.36 Million, Globally, by 2027 at 7.26% CAGR: The Insight Partners"
+    excerpt: "The Insight Partners” Increase In Resolution Is Going to Offer Higher Frame Rate in Even Higher Resolution According to The Insight Partners study on"
+    publishedDateTime: 2021-12-16T21:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24660441/high-speed-camera-market-to-hit-us-550-36-million-globally-by-2027-at-7-26-cagr-the-insight-partn"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24660441"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24660441"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "sgTnLzNcsmGNJf0YaYM5lhFD5c30jiV7QvHUekN3OKHg+n7ook2BEZP1QUgivrl9SFP4t8XGGtA93g6Cm5fXZOj2gY2bsRFwdl2CG0NWsV0XMPGbqWWESw8+EH10m7NSWYElUVVwfhLeSi5rS+wYzbZImOk4BNESGIAyobuYABlGhWE9P9MEzJOs8dpSH8ZV5o0x2dOjwxgQAKax7PnBPjOKd+a/4bdhAe1crgrtPgODzEt1OgAaOt+RcnIwVJ7OoE5UzNW3UM647RKd1cfYKSTXChQ5FJGo3d0KOq6TUd/9vyKXhK32bsJ/XFFlw6ZV+HCLr7rcrRUdfxEtT5J+TvKACcThXIT35RlL1DcSgdM=;DiFJIt9hDkWN1TDVYKqTvQ=="
 ---

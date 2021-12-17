@@ -2,49 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-11-16-vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai.md",
-      "title": "VIDA Streamlines Respiratory Clinical Trials with Artificial Intelligence (AI)",
-      "excerpt": "VIDA Diagnostics, Inc. (VIDA) is further removing friction in respiratory clinical trials with the introduction of a new AI-powered portal. The cloud-based VIDA Intelligence Portal (VIP) streamlines challenges often associated with imaging in trials such as site onboarding,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-11-16-linear-financial-technologies-releases-linear-defense-introducing-a-paradigm-shift-in-fraud-detection-methods.md",
       "title": "Linear Financial Technologies Releases Linear Defense™, Introducing A Paradigm Shift in Fraud Detection Methods",
       "excerpt": "NEW YORK, Nov. 16, 2021 /PRNewswire/ -- Linear Financial Technologies ... and leverages some of the most advanced techniques in machine learning to help identify fraudulent applications and ...",
@@ -1141,6 +1098,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-does-artificial-intelligence-for-it-operations-pay-off.md",
+      "title": "Does artificial intelligence for IT operations pay off?",
+      "excerpt": "For overwhelmed IT teams, AIOps holds the promise of automatically heading off potential business impacting outages. But some IT leaders are skeptical about whether it can really deliver results. Rodrigo de la Parra,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "originalUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

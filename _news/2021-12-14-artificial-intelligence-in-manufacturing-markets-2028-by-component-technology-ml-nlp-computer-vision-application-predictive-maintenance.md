@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=587796"
 webUrl: "https://us.acrofan.com/detail.php?number=587796"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
+    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
+    publishedDateTime: 2021-12-16T10:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Predictive Maintenance Market Size Worth $10.84 Billion, Globally, by 2027 at 15.1% CAGR - Exclusive Report by The Insight Partners"
     excerpt: "According to the new market research report \" Predictive Maintenance Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component (Solution, Services), Deployment Type (Cloud, On-premise),"
     publishedDateTime: 2021-12-14T10:42:00Z

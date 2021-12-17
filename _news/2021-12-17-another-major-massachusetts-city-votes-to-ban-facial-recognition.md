@@ -7,7 +7,7 @@ originalUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-ma
 webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,82 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-16T14:51:00Z
-    webUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TFIE2EUAXNDOXMP5CB32YYD6IM.jpg"
-        width: 4306
-        height: 3230
-        isCached: true
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans use of controversial facial recognition technology"
-    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
-    publishedDateTime: 2021-12-15T21:27:00Z
-    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 39
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
-    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
-    publishedDateTime: 2021-12-14T18:02:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 32
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "j7DKKELO0aQxj9QNrLQsSkPQmxI23CUR23BBss02MpqTYDLYJvD/w11dpn8eYVJ6bR7cVZgVS7pTfdCpH0fKhwmqo5DLlPd/j0irE0Vvm192m3LAWQN+TnBsqsVn+FJNeQ7wuXWkJUXxuin63PV/dQUZfX/mL/J1PCSuqLGdGTgumEqjW1FfQ56UlJg0ldTE8c5eNUUSD8zACtwHcV21GtRw9UhxIHokUoHmxT0o6kjMnSINkO5kZDG1yOxL0aJe4FnKEEbY9Z5eIaQubpKbUhgEmuSS+OIjWVzRky519a57aON432PF3ilTIXlakhaGHYzq/flfTmesAtvVN2e+8MHi/6wtCkT0xD8EtKXSv3VFZtCvU0tiJ/Rdpstt3pKnQ89hFo+EnO8rH6Auscg+PQeODVFdk7mMY+VF5CP8s8IAdtVcFcPnwDYnmcS3zVNRuINHQrUHv2xSz2k2dmeojQ5jzRmpDVrkqpFmeUTkmBSEdHSt32JEgMrV59xw0Yr2n8UrNZHN9BpIGRYJHFmRxQ==;K7SDJ3EsNLnER5CwCHQQnQ=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
-excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
-publishedDateTime: 2021-12-16T11:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
+title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers' Financial Access and Decision Making"
+excerpt: "MoneyLion Inc. (\"MoneyLion\") (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (\"Even\"), the category-leading embedded finance marketplace,"
+publishedDateTime: 2021-12-16T12:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-moneylion-acquire-even-financial-expanding-distribution-network-enhancing-/2021/12/16/9512775.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-    width: 350
-    height: 456
-    isCached: true
 
 related:
   - title: "MoneyLion Strengthen's Ability To Find, Access Financial Products With $440M Even Financial Acquisition"
@@ -42,6 +36,6 @@ related:
         height: 608
         isCached: true
 
-secured: "XOATCC5//h6aMQlicBmJs+aUaBXG5kp4GDJIb+frMqpsST0jIrasjthegsCcTfPuRKaGVuf7J21l2ypd1sdxdth5mhQqSl3+cVhcZi52Yv0Xwfe2Th0YUexG/VtmhHz74Nl9RS3pus2CAehTxuujPMfJtqp6filVcnPVI0pWfK2FV+EzbmJfvnOmtQmjDr8n8B7oHJ+aotJA6zPmfGfNYFBumVP5xvsMDCKizz3khPF72Uyjxtdg8zNazzU/VXMIuvn52qtRBRumksoedvRCPRUymZpkCPtmYFPXDRxavDdaNW4N1UP+SmpUHxAIcYIG8CA4c75bZX/w79Qgm/SG8TLTUaXmOkm+tY+oZIjoVAbKkzTF4LX+3/zNK/d3f0MEwAh8sy/9umRQ7KBcj47Cgokx7qkzDSQQB9gGkHtzHt7VxQVYhEnJCCtL/XLC1rYwtTh/q+7sTThTjAb3DYlPu05Hbn0c2nsA4Fjt99kxrL7ICcBTB1CZFfH3gGeLtgZq1p+xdvychVrK8Xgvoc2hWw==;HOZkZ26AzaQAWA3OFj8QzA=="
+secured: "OrdmbsZHdFTcnrtyVFb30OfsK3hrUrHvEl1ipKDxbzUHNAnVM6DmPHZmaM7e8RsK9JZSivhEISIT5k8CCjVi71eiAJupgitpr0NnKiCCg+BblXLKB2+/aawLrpqd/Z7TzbaVJnjscywHPPwjtwIeg64toooIn+H1Y87IaZGQr5LkDeKtyfltQS2264bqQEwFJimXqeQ+toGJX4PyzaYDpj+T7FSsWnhZ8Ss+gYzNFBzzN7j23DyedxGzih2mf8jzkO2D0OrH29/2+1DY8GEJwTzW1saI3H6bGaipMM/Tbg4urMvy+v2q9UDm7AFE6n50UTk3QPMCf3V8YppXSOROUN/ufFDLgTooHkH5KZDaRNQ=;YHb7Mk2QKJmagS6GZlUXhA=="
 ---
 

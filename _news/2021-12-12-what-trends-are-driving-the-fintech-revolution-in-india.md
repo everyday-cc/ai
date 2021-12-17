@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
-    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
-    publishedDateTime: 2021-12-12T09:40:00Z
-    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
     publishedDateTime: 2021-12-13T05:41:00Z

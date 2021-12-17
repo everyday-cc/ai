@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-16-worcester-bans-city-use-of-facial-recognition-technology.md",
-      "title": "Worcester bans city use of facial recognition technology",
-      "excerpt": "Worcester has become the latest local community to have banned the use of facial recognition technology by its city government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html",
-      "originalUrl": "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TFIE2EUAXNDOXMP5CB32YYD6IM.jpg",
-          "width": 4306,
-          "height": 3230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2021/12/worcester-bans-city-use-of-facial-recognition-technology.html?outputType=amp",
-      "publishedDateTime": "2021-12-16T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
       "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
       "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
@@ -195,6 +152,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-15-information-is-key-to-public-support-for-police-use-of-facial-recognition-technology.md",
+      "title": "Information is key to public support for police use of facial recognition technology",
+      "excerpt": "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "originalUrl": "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584",
+      "publishedDateTime": "2021-12-14T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-artificial-intelligence-in-manufacturing-markets-2028-by-component-technology-ml-nlp-computer-vision-application-predictive-maintenance.md",
       "title": "Artificial Intelligence in Manufacturing Markets, 2028 By Component, Technology (ML, NLP, Computer Vision), Application (Predictive Maintenance Qualit",
       "excerpt": "The \"Artificial Intelligence in Manufacturing Market By Component, Technology, Application, Industry Vertical, & Geography - Global Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering.",
@@ -203,7 +203,7 @@
       "originalUrl": "https://us.acrofan.com/detail.php?number=587796",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
