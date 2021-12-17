@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "builtrobotics"
   url: "https://twitter.com/builtrobotics"
-  followers: 1253
+  followers: 1252
 
 size: 11-50 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"
 
-secured: "QNu047qj6NkYgL3oVke2raXiPNhbbLPan4f2ZeIrpwh2ehYMAXYAAjvjcPAzZYtg38G7Gk5ZT+jxV4bBaoA3SGvuB8JgfosEuWZ4bLqvMVE1fvSrhTzZzfAc5IUY0Ygv75kKMvvgagU0/LasdZD/BgGgCidCEPgnJY2W3CCpFnBfPNGJzyw9KnQUI3aOqMV2OxS4M/sGm2GAUdestQxyiGVkrZ+P+DSX/3kOCxnUnIbb/T15G/PBnkOcR86L8aznlTjRc97B2NRsjZpmOjzWRcmfX7WpGKRGcvgI5Eo9kUAP+er1L1jMfQUSH8JBRlqyYnHAx0V/uJ7HAoQ+pyskBV/65ghQbF92oZqFqo815n34RGEdfeNN/RZAA5Dwh4KB3p4rhjt4qGLLxQYHUbkHsGMda9jB2kPfvOA4el2cAOU=;P+emCVYYo3sF/En1aUqy8w=="
+secured: "BmkmgPMkxyey/gO4RrZoouanOH5pL+edQIQaLi85pfyP4HGyLdYD/5xprWmx7ldbTE8is99s8b05G9SlsXCugnDDjwljW8VMZr4osa5zPomMgvgWUpqISV6jbiMs7cQ3WKzsRq8CPYGd/YxOOgLsnz37fXjoQFlK8sP1aDuzIgRqIHtB7sa3Tu8UkjZTubW04dHmo3wOmaJt9tv29r+aSiZQhDPJDQgWIs5TKm0YW2g1XKGYaMogG6p7Y/eKWAnkNgnc8186yUvAqgGpi3/xzuJrwLPFiIXgCefGOCTFd1MulKVVGzG01nDaGA0ZcDuwbCsXi9YiERZH13Ih8EUardMbsA29wWdrOCzP7Kii9t/7OUzW4h1t+lag6mhFjKf3onuAMLlRf1lxpbSnsMvwaaX5guvLQT/53C5jnXsXg4c=;iCP4+ZL8Yhv2BREmRQup/g=="
 ---
 
