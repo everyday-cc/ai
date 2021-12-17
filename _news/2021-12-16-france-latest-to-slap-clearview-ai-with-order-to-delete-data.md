@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 87
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/12/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg;w=650;h=456;mode=crop"
         width: 650
         height: 456
+        isCached: true
+  - title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
+    excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
+    publishedDateTime: 2021-12-17T10:08:00Z
+    webUrl: "https://www.techshout.com/france-data-protection-authority-orders-clearview-ai-to-delete-facial-recognition-data/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 45
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai-2.jpg"
+        width: 690
+        height: 368
         isCached: true
   - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
     excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
-publishedDateTime: 2021-12-15T13:01:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ..."
+publishedDateTime: 2021-12-15T14:03:00Z
+originalUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
+webUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
+ampWebUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-    width: 1500
-    height: 785
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 785
         isCached: true
 
-secured: "tJdrClaLtBeAhrGswOwzWptNCwv3hkOCp0kzyZWxCG4PZaNOteKGVY89dalvgOAVv8FdPrIvBPL4Ee/dvFsw97th8JERpC6sWrlxhAyyE5zTin5j28SQCsxrb8Der/znEmsFhngarEW/iw7N78A5A3gsH/jz9pN1/jvSxWtBXWoPIJbSd6PqWF0odWbDzIYPVyMt8YeSthf/yg8WmrWzItIHW5VmyQ6/nrNo012wFZggyFZ3QUuIpSDWOBeQFUZ/jBpPzdmVXKqY/O/h8F7Nx9sZlHXy1NhFaalXY45qAVFy2kFUlD5TsdxtB1msPN/2WatSNDATUMA1aSgrDfMxJX3YWJZCCi/5vKt9rdyFAV4=;fg82qxqPyPXVxAkac1BDrA=="
+secured: "cpIvo9XkzmyuX5l7GizAnMPoewpFxBJ3zRx2S/AeJRqybaRmFZZX5lSGHkBzPqDAXKLi6GgxYgqRQCcgfQbUqo6hijJFYXIHVdZd/oDd6s7/UbvnoZUY7rv1ARKw1bko2/xBACSB0OiftZj+mYVvFWC3hMoKv7S8hP/PoXuq1HfAHHrXeiF8IhvdPuy5mONDaN6ZEoonLcFqeUZyq33O1CPn9YBUtrGbHvjY3T3KJzME7Bh3PKeKOd7gPeifu/zhjHRHFB3bEZvlNUS0T89gN50wWL5ij8uKEhOGUCsOJe/FToek6AvkvPh6hksL0Xzo/0ARIHRYvKijN6KgA4g1K2OtpCGD0LDFjkzV1X2XV80=;etrjaGQajHvf4gFO7x6CQg=="
 ---
 

@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip"
+    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022"
+    publishedDateTime: 2021-12-17T10:44:00Z
+    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
+    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 59
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
+        width: 437
+        height: 450
+        isCached: true
   - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
     excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
     publishedDateTime: 2021-12-16T07:12:00Z

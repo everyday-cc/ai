@@ -1,29 +1,29 @@
 ---
 category: news
-title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
-excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
-publishedDateTime: 2021-12-17T05:18:00Z
-originalUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip"
+excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022"
+publishedDateTime: 2021-12-17T10:44:00Z
+originalUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
+webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
+ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
+cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
 type: article
-quality: 52
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: www.bgr.in
+  name: Electronics For You
+  domain: electronicsforu.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
+    width: 437
+    height: 450
     isCached: true
 
 related:
@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022"
-    publishedDateTime: 2021-12-17T10:44:00Z
-    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
-    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 59
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
-        width: 437
-        height: 450
-        isCached: true
   - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
     excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
     publishedDateTime: 2021-12-15T18:15:00Z
@@ -137,6 +121,22 @@ related:
         width: 340
         height: 400
         isCached: true
+  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
+    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
+    publishedDateTime: 2021-12-17T05:18:00Z
+    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
+    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 52
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z
@@ -156,6 +156,6 @@ related:
       domain: pocketnow.com
     quality: 19
 
-secured: "W1XJqTS/lckVFkJPBXaswELy6yp5IVlfK4QKqqJGrfhrfb+FbrQ/NZ54f63ae0aWJcoTFzz7dBRVo2iDjO4jFGm5okAmD6iJu5tjCvC/dC0AbzaIiXL8awsIB49SQfVK1jqnL9Df+s1xAjn4qGcnhjfwFNlmRG6HbIHQdw44+jWvPgbU5RGmXZ5EGuhRyTs03QbrLEyzRNcm8PMTYq7lGi90tpvSYt8VGGk03Oj/QWZrv/mrZ9MaxhzbnfXRxjSh9hmkFXVirstvKrfd117Y37nYHyPOPZ+gt6suqZJ2Rrodp3WUmyaNszl7O9eVk8U2oUVYtQY0GbePgAw2nbWQ9ueFMZqcc4pkdgNaqRfGZxK72/HknZhZpwKoSzy/SbFfqMuIc0FToy2AdlWJSKoqmdkFL8YInrZIAdN65r+8863FL5+acmU8YZGDWV5oUmMSc9rgYuOe/Qt6BbROBRRWXjVXtvf0I69j0UUEhh/FzjXfS9b34opqP+y7PaHkIUpKAuUsdrLv3RzpWXTWWnrBQg==;yl38dYVUSMmhRIOITFIGTw=="
+secured: "xCbz1RZZZREMUpW4Dit5lUQZVZ1DFmgXLVoaQ3CrCoMm4NmMi5oFONu8eZXoJ0Rf//ain3D9vz1GqETRSRP6kPQ42De6k/49/QnjJJquhxtW9ejd1WImzSJILq5nOjFgDwhgJcBJuU+Vd2k6tRGuI95b5PU8qWtQ/xTQAFmKxscS7c88n+Lxhve0F7JmXX2+kWc5lS9R1fjAwhjHVXVfUJ2uV9SoKN1yM7fSNERXNaG18pOPuJVxrhpBcQPOCqjs8a94W8j+Wrr6t8pEEvO0b6AJpxyj19MXEGPdJsfPKQvPAvIuA7/R/GliGPfZVKTsSfn/BXD0xMkF3pq/L6iDdJxmIbqtCS//mFKKtr0TEnY=;rjNSNZzTPEP58M4kBi+BGw=="
 ---
 

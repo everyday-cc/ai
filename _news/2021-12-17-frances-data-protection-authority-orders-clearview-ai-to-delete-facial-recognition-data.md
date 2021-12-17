@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Provinces order Clearview AI to stop using facial recognition without consent"
-excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
-publishedDateTime: 2021-12-14T23:48:00Z
-originalUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/"
-webUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/"
-ampWebUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
-cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
+title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
+excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
+publishedDateTime: 2021-12-17T10:08:00Z
+originalUrl: "https://www.techshout.com/france-data-protection-authority-orders-clearview-ai-to-delete-facial-recognition-data/"
+webUrl: "https://www.techshout.com/france-data-protection-authority-orders-clearview-ai-to-delete-facial-recognition-data/"
 type: article
-quality: 51
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Global News
-  domain: globalnews.ca
+  name: TechShout
+  domain: techshout.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai-2.jpg"
+    width: 690
+    height: 368
+    isCached: true
 
 related:
   - title: "France latest to slap Clearview AI with order to delete data"
@@ -69,6 +73,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Provinces order Clearview AI to stop using facial recognition without consent"
+    excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
+    publishedDateTime: 2021-12-14T23:48:00Z
+    webUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/"
+    ampWebUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
   - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
     excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"
     publishedDateTime: 2021-12-14T23:34:00Z
@@ -106,20 +121,6 @@ related:
         width: 650
         height: 456
         isCached: true
-  - title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
-    excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
-    publishedDateTime: 2021-12-17T10:08:00Z
-    webUrl: "https://www.techshout.com/france-data-protection-authority-orders-clearview-ai-to-delete-facial-recognition-data/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 45
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai-2.jpg"
-        width: 690
-        height: 368
-        isCached: true
   - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
     excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
     publishedDateTime: 2021-12-16T02:56:00Z
@@ -130,6 +131,6 @@ related:
       domain: zdnet.com
     quality: 41
 
-secured: "mPSohEn6NdYYITKYDte3zu28AJLiHnyafOtWZdNYdlSnWB3eV71hZDdnGaOrV3csxhjMdbECIstradDxBNzCywBXZdRq3dHwMrymzM1097HGs+ooPi0uw0dYdji1ragFenfT7L3hLp6cyWDUzAniwT5y2SvmlVH0amSYXfCvhLyheKcm9btWN/HZ7tjdibBDwY7YBR1ulC0UQmHlTL6473/a+/r5vb2AtSi8JdRHLbPI2mTzUEg++3Wg+qhSluloS23wh7nX5hm3yqoA3H0eQ29iB+zM8yCSso+PjYgaUn13gQN9r6c1ga/oWQJb+yeMuzxWNLCwnkh4Ff33086bs0rhGjp3huL3n17sO6XIeZRN/wqDhjMn3JN8oQFNTq/voBZwciEG4GmzfzigSEyDHdX34l/SYw1OZoGB3fKMZVuzoyAbUwR0hOSsWOV4cFemhX3T9L4mHU6Or13C26EGpOG4CVuwHXmbaVELt8GgdCXs6GNk0+kvptoDF+ci4RN1vC54SpCLdt8uttfxwmtYjg==;yez9JzJFUU0nSXizb+ixvQ=="
+secured: "atZ6/jSi0r8e4Ib/fH4QFguv6gu4D6Z2kpM0KmWXDXazVWLMOWBhANTpelfRgp01IwbazpJgti20WjrQsC7i/OKWkwl0fhtAu8i0Ucp6QfeyrtssehuPYlkv4dvZFYJximUe7fx4/f5V+6gjecggA6blRd90qSPy5UXTuls3iMdm2052nIXWFtG+PNOu7cCOKNJqT08zKKYQh/eszO9zyREt/1uECX9/dI9VvTM4ULPdrv7ui8MpI80dEiMp2PSAt/IVMGmgvxTUWxUD8dhf4Il4MbPFZxxLBXpZF2u4EqcDqleA2paPmQiCEwB/Hvb7rZKya4s4lDgx8Psxar/sXOcQzWB6+3p9GB2Os1ISqCk=;h/HTEVh1jHvVKCt7/afByA=="
 ---
 
