@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/"
 ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
-quality: 87
-heat: 159
+quality: 187
+heat: 260
 published: true
 
 provider:
@@ -118,6 +118,6 @@ related:
       domain: zdnet.com
     quality: 41
 
-secured: "aXYaEjjWQ9JbfqJF8I8nUlcw5QhIdwnZiPvcxw4YTPQq7HCV0NcNyhqE7BD9Xn5s59ycKg6CTnmiZCEBl5/qpj/xXEQjMLiXyvuizfJyxMeV5zx0VXmHXcNsmzzge8RQood8AR3dO92ssnjQ7bk+7gEt98txL15mit5B+UNOVIwBqLQW98NmDg3yeqdfkK/PDmeViR7i4OTZBi8rFMn0FI+6arPSROUvfGstPSKLlgX+MkZArf6DVZNRuZ9WJ0CYxv1rcjeI3fK8PCtYXmJ3ocsYvlSx/PgiwN56O9yjUpfTnEFchndQnUOyxSyDeD0RsW/fGkBzYtGROAPqJwO5Tco5TUwQH7IaeE5UWQ3H4X7NbA8KFDEI2saFSOKsMW2+l3km2zEmJXx4S/pum+vTmIyGaIdI42wR4h4kSSyMSmaAh8B2aZOeJHHBvQ0oLmqcu4BPushNzwsuvY2coy2ix1/hohc5/938j5T95XcWClFASjlK3s4E+aaAOCDr/4e6iZMDfOZmdg0gsnXeFvNz+Q==;sBROO7igx38/0kcej5eJig=="
+secured: "Vsuq6i7H8IfFVLMwI0SxgYQ6pgrd0++m5EisJjXfehDBh3B05NJTueO4mVAO+Cz+SNAo+xIEVpO1bVOCCywVGVHQtPkCGMI29/ywjPFd0/RKsJfWomW0O1GK0SKdbVabsgyALaFyJJQj3JdfQeWz2xPO8nDEVJqowMzhJSiOD0BckPcFga6MSdQCsx1oI+ZGxBLrKXDrepy3w/tkQgsjZr8itXalu62dOW/PHI/tZU58JpTcJ5Tc5yVCoZpIGTnEaTKz1jDxNa4ulZhMFXOugupSbLwmrasxAdWrzhDLrJ/4hm1RTBqwvYu6/KYHY9TKAWmVMLQsQK3dqmkuxhgdKKE8UwtI6CmOecJRGkYVLdRvaD7VvgL0IKWhNtiiN00/HqM9FHh6mTHLy0U26UqjyRjeX/OmhaJV+bxbdYF4qOnKswWYP58FUbvkWLFDrC4W9QVplrTRCL89v6AcV6yN3+Wxg+ut98uDtMkzJLOCv3vDddnCm7FBp7z7S9DfBSpqy5atKeAzHkfrHoRsdeKAGeI8sLmZnWOb9Y8M7QvajH0=;P4M8YJYjGrtmWV1nmVefmw=="
 ---
 

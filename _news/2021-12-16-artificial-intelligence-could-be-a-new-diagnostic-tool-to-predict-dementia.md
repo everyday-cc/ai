@@ -23,17 +23,6 @@ images:
     height: 2173
     isCached: true
 
-related:
-  - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
-    excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."
-    publishedDateTime: 2021-12-16T19:58:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-ai-technology-can-accurately-predict-who-will-develop-dementia-within-two-years-says-study-12497539"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 9
-
 secured: "VEgwMdJN7mCeeOytQSkkkz4/4QiKXfjod/CDEuqWM/x7zPiIfd+braGsRixtchKBmD7W3jfgB+AqlKhNc9+MEOVVKFf2JBtgLNUqyIVpyJFioxyhCkKMILetvvoJjKSYGSIj9kc5YDsSjDwdyGsfJ/zeZLO78WGWFv0xJE0lHof79BujvNNGcGLpXm5USgafLkvK7qcRJ2m4PAjfCuBFLo30ImWTmFllZKrRU6124BQUq5xOItRUqFWALHEyVqTohKPUmFOcLkt/0epf/D/rLaW293zClzo73hM4fUB8FPoWujqXKNULfClnJbybzxdwlu8FYJSpWj4xY+pcbnYUdX2MLq3+K6QzYdkQWKoprps=;ZX7E9A3rGZ3vujloHwBLgA=="
 ---
 

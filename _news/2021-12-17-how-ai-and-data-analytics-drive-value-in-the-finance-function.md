@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "3 big problems with datasets in AI and machine learning"
+    excerpt: "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources."
+    publishedDateTime: 2021-12-17T14:30:00Z
+    webUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all"
+        width: 1200
+        height: 571
+        isCached: true
+  - title: "How AI Is Adding Value In Wealth And Asset Management"
+    excerpt: "Using AI in asset management and wealth handling allows financial advisors to make the best decisions to safeguard and augment the money and other assets of their clients."
+    publishedDateTime: 2021-12-17T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d447b0d2afa5d0dda795%2F0x0.jpg"
+        width: 1200
+        height: 1062
+        isCached: true
   - title: "AI and machine learning in compliance technology"
     excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
     publishedDateTime: 2021-12-17T10:50:00Z

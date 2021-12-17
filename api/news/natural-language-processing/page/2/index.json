@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-02-leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy-instruction.md",
-      "title": "Leading Speech Technology for Kids Company Releases First-of-its-Kind Feature to Accelerate Literacy Instruction",
-      "excerpt": "SoapBox Labs, the speech recognition company that powers joyful learning and play experiences for kids, has launched a new feature that gives educators unprecedented",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/ff/fff8b4fc-ff0d-5c9a-9854-f68427317181/60ace803540e5.image.jpg?crop=878%2C461%2C560%2C0&resize=878%2C461&order=crop%2Cresize",
-          "width": 878,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
       "title": "Smartling lands $160M to help companies translate their content automatically",
       "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
@@ -1365,6 +1322,58 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-googles-project-relate-app-promises-to-help-improve-communication-for-people-with-speech-impairments.md",
+      "title": "Google’s Project Relate App Promises To Help Improve Communication For People With Speech Impairments",
+      "excerpt": "In a blog post published last week, Google AI product manager Julie Cattiau announced one of the company’s latest efforts to come out of its “Inventors at Google” initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619535fb42da267084b17a66%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/amp/",
+      "publishedDateTime": "2021-11-17T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

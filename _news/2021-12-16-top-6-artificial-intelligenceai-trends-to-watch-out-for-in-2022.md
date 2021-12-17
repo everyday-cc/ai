@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-16T07:24:00Z
 originalUrl: "https://www.linkedin.com/pulse/top-6-artificial-intelligenceai-trends-watch-out-2022-jaideep-gautam"
 webUrl: "https://www.linkedin.com/pulse/top-6-artificial-intelligenceai-trends-watch-out-2022-jaideep-gautam"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHoOIEzYNxHew/article-cover_image-shrink_720_1280/0/1639638816856?e=1645056000&v=beta&t=ZhcQ4OW4rNuf9PACZ-8_nKrmKeWaUZT7ppw9SyjX3MM"
@@ -60,6 +61,6 @@ related:
         height: 720
         isCached: true
 
-secured: "po1edIwn+ptc0sQYEF4I0YXltGv0J0ZADb12dhowYK6rCvyZWBEmww8xApxD5c5EE7zrRATm3myjp0jmbEVhBjGZ8XnOm5SDmDciepksA9aaJrp7cmfFAxYsJoxU+tFHIPHgEBrvz8NasMqqRefyJnQYSDBCBtiG2FbtGyv6sx8/lHb0A2KAYCY6vZ/jfmlgNCvIVr0Ywe94q48qERyXrM34QRnH4auZ6w0FkJ1EPx+8VO4eLKW/N0Kub/AxBCTqSOcDDeqLXVe9i1E/NMvaw0t10A0DtS4GmreQ+zfk03dtWh/PXD676PZOQfDi56k3J2n/GWkLP23qNcC8nWU1jbun34FZDigLQGHIBI5/2iA=;ta+UJUwPtf66agPqTwiCIQ=="
+secured: "HN2Jptuih/19UyHdEwNGG6jD0b8UiMzfiaKJLHhF1/O0ijTNNmGfPeiIAJhRDVfv+pI1q0EaEkVbL5iJxtCQEXS3dl/ULX6X2jw7+iAhnhNSc/ZfdODszn3mMiJfbwCt6Fu5a3AxjpYtnaMRDT3Ossbi1Tk7VnFM3rImIfwDshb/+Hzfnnif58RtdXSBDzyCGkm7qR8trpFgt37b7JrXxgkZ1QyoMylTI2JF/kpxcSMOVjf9XAxEZeGGovRJEFNsNlICFfNfdfYxF+duidWsGSWht/FqdteAQoQn5SPkr0DJg/wDn9aRX9izOWhpf2thdQcnImpndoL8o2/Zrs8OjDzaAMqkIYUW/nUg7jpUSGr8CYZ0e+OKvO0CEKIshjkjE40tiN0p+kfZD+NAm+bcFamxSEpl96yTvIr4ZvWn7dtkOw9go7JqfM3hh9RtPZhcUp/AcZRae3OEn3VzL5D/Bd9ECcNUw7EkwL1zn2YDLrfuJTcG17cDfKr5xmB88W0DPEQmc0DnSLJZQF4G9usNcA==;IvFyTMMmKzLw7JrwmDN5hA=="
 ---
 

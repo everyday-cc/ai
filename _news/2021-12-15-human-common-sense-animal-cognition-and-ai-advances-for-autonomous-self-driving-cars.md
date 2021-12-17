@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://www.africa-newsroom.com/files/large/ef4fd0d8777c22d"
         width: 673
         height: 573
+        isCached: true
+  - title: "With artificial intelligence, common sense is uncommon"
+    excerpt: "Common sense isn't common, especially when it comes to artificial intelligence. Computers struggle to make fine distinctions that people take for granted. This is why websites require you authenticate your humanity before logging in or making a purchase ..."
+    publishedDateTime: 2021-12-17T12:50:00Z
+    webUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Autonomous future: Self-driving taxis under trial in UAE"
     excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"

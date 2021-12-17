@@ -8,9 +8,9 @@ webUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurate
 ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 151
+heat: 201
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "C3.ai's (AI) Expanding Partner & User Base Aids Top-Line Growth"
-    excerpt: "AI is riding on an expanding user base. C3.ai’s customer count increased to 104 at the end of second-quarter fiscal 2022, up 63% year over year. C3.ai expanded its enterprise AI footprint in industries such as Agriculture,"
-    publishedDateTime: 2021-12-13T14:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ais-ai-expanding-partner-user-base-aids-top-line-growth"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ais-ai-expanding-partner-user-base-aids-top-line-growth?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ais-ai-expanding-partner-user-base-aids-top-line-growth?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Artificial Intelligence Can Aid Early Prediction of Incident Dementia"
     excerpt: "UK researchers have developed machine learning algorithms that determine which individuals are likely to develop dementia."
     publishedDateTime: 2021-12-16T17:41:00Z
@@ -67,7 +56,44 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Machine learning identifies likelihood of developing dementia"
+    excerpt: "Machine learning algorithms have been trained to predict the likelihood of a person developing dementia with 92 per cent accuracy, a study has concluded."
+    publishedDateTime: 2021-12-17T08:38:00Z
+    webUrl: "https://www.theengineer.co.uk/machine-learning-artificial-intelligence-dementia-exeter-university/"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 39
+    images:
+      - url: "https://theengineer.markallengroup.com/production/2021/12/solitaire-hand-2906416_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
+    excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
+    publishedDateTime: 2021-12-17T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/ai-predicts-which-individuals-will-develop-dementia-within-two-years/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 37
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2019/05/CO_JanFeb18_GettyImages-687788463_CHRISTIANLAGEREK_SCIENCEPHOTOLIBRARY_HumanBrainCircuitBoard-e1559053521129.jpg"
+        width: 2002
+        height: 1625
+        isCached: true
+  - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
+    excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."
+    publishedDateTime: 2021-12-16T19:58:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-ai-technology-can-accurately-predict-who-will-develop-dementia-within-two-years-says-study-12497539"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 9
 
-secured: "lSIU4tfDyx0SqfqQ89gLbU9LwJAbNPJ/Wzm1AdP1K76SnY6r9+o1bIPhczrlENIrfNWdNYHCXgOA8FLw/i7LgK2wZSptsDmLkWNia665QUwccuRDK99qVgpfHwrGG0EFcX2DD6jQOEzUimv4k+L9IDlCWul3mjZQpsUSldKERWeVGw8NZgMJ3vvsMM0BTdzToVbFRtJA6SstXZP/oxBEmYnHSR/Py2smb3yVMVCH5Y5L46wfd2j6DQXcqZkLHSUeIKiS5xThLCKXror0wI0djIw4KdVC4MfsAiIUmrUkP3v8rx063F4Z6qMBYbEy+rY4q2QZqFc5gD5n5gSq06BhNUJVp+wh9QF5UKMbT5YvoSeKmbjmSxJip+TXR+zhVtvBeKLN/tEU6K18faT28uxIn9uZTKNAqKJppirvewGIlMA2m/IxcOnBkeSeOsH+MdOT3h/rTrkT7QLVnMASMh2vG6t702hDpbSuVdjTlW02i4zPjBkT5jzSa32EP0N/75Yx8fJPHG/IrfWbbv/HY31sRA==;uWaBZ8MWPvrp4z121oxDTg=="
+secured: "8Rq9MH8MJecjF6W5V5HsKJjpbD9iNQPl9SqoxrUI/ikvY9Fvgt66FXEXkhMjm0LPEat+xqIaGPa76Bsfvn8UN8Gb05ZEfeFB0hdzXx8MspLp/HSmFWs16SXRklieK3+ikBGGhrpIV2x3CPJ7xO9PHZRrX7Y8RLZkJUZUl6dPISBbPCaGXyWiGKZkwr9hLYx6no7gAs7fzCT5PAf2kxi0I76DxivY8yUkboPCofIjb+Vk+2+BhotXGPwBoZZa4PAqK8L9GCrcMmQQ4xr5lEddqmfgXlw8Tk0hYoIdfOs+vyrJKeVmQ6rHq3wafC8X0wb7IyObO20z1D4msuYgmCsiLliZL9NSw+saN8zrNEItffd9YpNPEoYfHtFda4XnfPFdBpyErMW0gzbhRn3QEl7G3LA/I6nIiFo7CqT825rH6xXuTGPXJWRXyzM5gSTuNZipw8xkWmiYwhW9jzCtBqXByM2u3WLUPwluoPjYb9vd2LVoqNHLT2IjOJ26Bt0EJ2NShWPD+yTfJLN94n35uDpYZ+vilu6juSxUjp2pF1YZweo=;rEbm+we1rxeyWxnaZDY2Jg=="
 ---
 

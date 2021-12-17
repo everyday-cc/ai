@@ -35,6 +35,15 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "AI and 5G: Evolution in Construction"
+    excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
+    publishedDateTime: 2021-12-14T06:32:00Z
+    webUrl: "https://constructech.com/ai-and-5g-evolution-in-construction/"
+    type: article
+    provider:
+      name: Constructech
+      domain: constructech.com
+    quality: 17
 
 secured: "f2HeRxKrIXEemDNhDirddm0eptz4ulSqDEvssjBakMy0G9kUKSHunkijU5pjYiKHfDcVO7zNVdLzYvlnJQ1nKcv+PPRYDB0xzAB72k1lGhAC7eDvQJSbeiQ7g6H5JlYf/61/2OpY0NqZ8yfeoHUCaaZiOmWIkJX4OWfsLDYHrtmpLcDorX+6nTEwikpn05skJtxdPe6QSq4CgxugIsH7/y5nUEmddw0z0xsBSd10G7rsue2pEV0KIymN7eKNepIAY+1J5NEdz2itGzqDJq7+jcBKLHFfzPR1cw3Pb4sZg7SXt0dYQ7KNOMj24wDpXObL6u2vEpXGQdncrd6xi3ur3X0jAYTCFe3q2v4YbMhwrbo=;bZYfPeS+Ez/WY5oX0/lL5g=="
 ---

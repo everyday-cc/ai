@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-s
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "gYcJPMoGcXIrAgftLaT1QUlRzblyA0yOQ6C5UMRkEuObXGMqrFA0Z1JtzXa/tTLHz0/RfTtGz2i8AgW1pdgqElbdx9WaXHX4deqExGtZDATFWBcRSoCyeeHDNS2jyrZ6u4bnQ1d99cMMJrS6GI9jLamg3pROjhgmODPCDzDf/fsmjjtR8X9gqXgozuivv1XDWRrA0//feEFBulvOaUY/4DAVB/d6P8CeSBjMoswYifNA/ft6pqv6XBQ35NBMLlziVl13hbZ1i9ilFalUGFH80AEs9fEOkvanIjD+i/PUbEBHi5ASiq4O6TJjsiEf2htE2knP3JCH7DEMJG3ge3fx57R0mcntKzu3oVti9JOAv6Y=;R8UKZ+kOVWpC2GlPQvJxuA=="
+secured: "7JcIyi2tyIpCmbKWv94j0s7J0ucYiUFD+U7uOi/ibGMvwCYbqNexI6jnYtOteFXKt6awx0QSxtN8n1BbonnBwG+2opKLQySm4fmQwoOBQcwmnIXnoQk2W1J38xYbMTcGX3C8mcSGoXV5dpLJs/c+YD4lkvUptF4KV1MFCPa2zwHMjLQ14WIQCMgMhESKIqRr4RT7WtSLNlZRtt21nRdgdO95w2alL4DNe8GD9IETkZkDAfn9pvGV9Dt8XtPUQXrvfVhyVQUKmWcZx3UgVu6kGVYmSbUmfQRQFXyoN/tty9QN81LwbYVEvt2tkPpdYpKyPOGxpCPq777JCfh5lJtoYXNFoQKHHypamRmpYDTUQRH0bpHHIcyo2diKZdFT7ppFhX9a7Zu7MFdE68YO/+IOtG3zvB4G+7AT3pPiPPyBVeyEQ11gxflmuFToEc+r+bvMpZSbVSYjGTfG0CpMDyoSWEs7d27ZjpH+wDwe+RSS4RQieteOiO7wg9fXGxSZtQ0WU5Tm6VhUHME1vmr4Ort4iw==;JchVPTvyHFMXKDppomexBg=="
 ---
 

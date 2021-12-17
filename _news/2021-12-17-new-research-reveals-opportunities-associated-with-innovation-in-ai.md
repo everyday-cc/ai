@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093682&name=new-rese
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: research
@@ -27,6 +27,68 @@ images:
     isCached: true
 
 related:
+  - title: "Most UK businesses say data regulations are stifling AI innovation"
+    excerpt: "A new survey , commissioned by the Centre for Data Ethics and Innovation (CDEI) , asked 1,000 UK businesses about the key barriers to trustworthy innovation in data and AI. Nearly half of the surveyed businesses (43%) stated that limited technological capabilities are preventing them from investing in AI,"
+    publishedDateTime: 2021-12-17T13:40:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1639748270/itpro/artificial_intelligence_data_GettyImages-1305428682.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Human-Computer Communication: How Businesses Are Using Natural Language Processing To Talk To Data"
+    excerpt: "Today's business users rely on a collection of reports and dashboards to better understand the data underlying their operations. These tools are most often designed by IT organizations, which use coding languages like SQL to ask questions of their database and report the findings back to business users."
+    publishedDateTime: 2021-12-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Ohio legislation seeks to streamline state laws, rules flagged by artificial intelligence"
+    excerpt: "The bill would allow Ohioans to get state tax documents online and permit driver’s license suspension hearings to be held remotely, among other changes."
+    publishedDateTime: 2021-12-14T17:00:00Z
+    webUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html"
+    ampWebUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 48
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NDKGQ7RV5A5RFBUGGKCZ7DNXQ.jpg"
+        width: 828
+        height: 621
+        isCached: true
+  - title: "Enabling a thriving and innovative UK AI Industry through AI Assurance"
+    excerpt: "Artificial Intelligence (AI) is changing our lives. Like it or not, break-through the hype (of which there is a lot) and the machine learning algorithms that underpin AI are increasingly being used in a myriad of ways to make our lives easier and more productive."
+    publishedDateTime: 2021-12-16T11:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/enabling-thriving-innovative-uk-ai-industry-through-assurance-dawe"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGgD4ovyt8EKA/article-cover_image-shrink_600_2000/0/1639652206330?e=1645056000&v=beta&t=yTrqNLymLIsV6tUcM8VOulyoTPxvuSzTfbmawgFmlCY"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Four Trends Driving Artificial Intelligence Innovation"
     excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
     publishedDateTime: 2021-12-14T22:23:00Z
@@ -40,36 +102,6 @@ related:
       - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
         width: 294
         height: 382
-        isCached: true
-  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
-    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
-    publishedDateTime: 2021-12-17T12:26:00Z
-    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ConcertAI Initiates Research Grant Program in Racial and Ethnic Health Disparities with Awards to UCSF and Case Western Reserve Researchers"
-    excerpt: "ConcertAI, LLC (ConcertAI), a leader in enterprise artificial intelligence (AI) Software-as-a-Service (SaaS) and Real-world Evidence (RWE) solutions for life science companies and healthcare providers,"
-    publishedDateTime: 2021-12-16T11:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-cancer-health-disparities-2dc3a8a28a3da89e590f2b39697f6cc6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "wwXajymwzp7nUelyM+thP5BbZQxRB4y6Nw8I+oKZJTj+JLKyNSwMOG8ffwLCaJcoUlUsMdTaCSpuwBBDzcfRMhDZkqaVYLq9kzoM9ReWkm/8mgaukj/iYAvYYC5ZsS1+iyjoMPGyGRxzTfsUZg9qCgIxiikmwgNmhO9XJvG5M3fRdnqJkKEM73PCW08uGHGsB30ybZ2+qBntIERP6JvNLGytsS4OpmzV6uJANJIK3TBJqXCQUiB9wVuCk8NGSug0JOgb7Jx2lWovdkwS245hkOIJeGH55FTSvx0+rxlyyi1gkZsL7aoaGc6W1oJtxiUrSqCdjjgHkcFxiSAa3Rem/X4yLyBNnqiVheRYYOUqa4U=;C01jaycsiQPjQWykqSn8Og=="

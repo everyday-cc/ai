@@ -36,7 +36,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHoOIEzYNxHew/article-cover_image-shrink_720_1280/0/1639638816856?e=1645056000&v=beta&t=ZhcQ4OW4rNuf9PACZ-8_nKrmKeWaUZT7ppw9SyjX3MM"
         width: 1280

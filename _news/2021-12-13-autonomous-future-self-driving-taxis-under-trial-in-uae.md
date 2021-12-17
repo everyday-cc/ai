@@ -87,6 +87,22 @@ related:
         width: 673
         height: 573
         isCached: true
+  - title: "With artificial intelligence, common sense is uncommon"
+    excerpt: "Common sense isn't common, especially when it comes to artificial intelligence. Computers struggle to make fine distinctions that people take for granted. This is why websites require you authenticate your humanity before logging in or making a purchase ..."
+    publishedDateTime: 2021-12-17T12:50:00Z
+    webUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-artificial-intelligence-common-uncommon.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
     excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
     publishedDateTime: 2021-12-15T18:20:00Z

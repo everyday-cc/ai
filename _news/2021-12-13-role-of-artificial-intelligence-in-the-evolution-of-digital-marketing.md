@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/marketing/
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/marketing/role-of-artificial-intelligence-in-the-evolution-of-digital-marketing/88247822"
 type: article
 quality: 76
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -28,45 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI is not a panacea: The pitfalls of AI"
-    excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour By Kamal Das \"Let use AI in this project\" has become a common refrain from managers."
-    publishedDateTime: 2021-12-15T03:59:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/ai-is-not-a-panacea-the-pitfalls-of-ai/88290514"
+  - title: "Five Ways AI Improves Brand Marketing ROI"
+    excerpt: "AI does more than provide valuable data to inform your digital strategy or improve user experience; it reduces the time necessary to effect real change in your bottom line."
+    publishedDateTime: 2021-12-17T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/17/five-ways-ai-improves-brand-marketing-roi/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/17/five-ways-ai-improves-brand-marketing-roi/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/17/five-ways-ai-improves-brand-marketing-roi/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88290514,imgsize-10898,width-1200,height-628,overlay-etcio/ai-is-not-a-panacea-the-pitfalls-of-ai.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb83eedac655b24c97e401%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 696
         isCached: true
-  - title: "Improving quality management in digital production through artificial intelligence"
-    excerpt: "ETH researchers are using artificial intelligence to improve quality management in digital production processes. The team has succeeded in halving the proportion of defective products in an experiment with the semiconductor manufacturer Hitachi Energy."
-    publishedDateTime: 2021-12-15T14:39:00Z
-    webUrl: "https://techxplore.com/news/2021-12-quality-digital-production-artificial-intelligence.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/improving-quality-thro.jpg"
-        width: 930
-        height: 620
-        isCached: true
-  - title: "AI and 5G: Evolution in Construction"
-    excerpt: "We are familiar with the concept of AI (artificial intelligence) and ML (machine learning) as applied to robotics, often in a “coming in the future” format. But the future is coming sooner than expected if companies like Volvo have a say. And an ..."
-    publishedDateTime: 2021-12-14T06:32:00Z
-    webUrl: "https://constructech.com/ai-and-5g-evolution-in-construction/"
-    type: article
-    provider:
-      name: Constructech
-      domain: constructech.com
-    quality: 17
 
 secured: "OWsiJV5+e6hUvj98mQZ2/cnuYEDj2jnwXxeEm3fj+MhYchl7pzGZoFde51X4irNk3aZAy6DB2xvBzVz0cx/86Z3jP4QOpR+SkJOORkgYPph/uLJ16AphuKCtF8QJht4Wk14cz8IoQQfJ+WhEsKA63RVWYK4F3Vf6/KwqlVANTwLb1DGHJJ2BKR3isr9XGk73OJK/kqGVov1dk5Ws+Rje3z1T6RH8nzx2Gxk7ZcP7FUqeD3mJ31Mk1gR4plRdwSZ8dCINfmkV5gxGyDfcXbCTHhwb989ukTJtOjBSZfgBt6Zym6l1iyMtcDnu4uT3aDLL7ikRDOFz2e209+3igUnrAgsr2p3IemAc/V608v/RCtA7B/FXViee5pFeKG8+n12V/MLCCeoeU1AziwtZBMh2BVLeXK9cdN5mmZyjQyGJpL75qeNpMF8asbpB+en1u5tn5HBfheztbADzfl9xCg2o9I7dLnZZ8T+9Cvn+p6v7zcQ0rk2S+phEtT7kIcZWFOyaxWM2Ua/uReRrZqJ2vOMDuQ==;YfDsFDO06A6i99VR+4dCQQ=="
 ---

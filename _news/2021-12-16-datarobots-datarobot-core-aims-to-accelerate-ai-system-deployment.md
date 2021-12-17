@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

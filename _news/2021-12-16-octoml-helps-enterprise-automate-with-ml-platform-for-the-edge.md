@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 142
 published: true
 
 provider:

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mobileye obtains permit to test self-driving cars in Paris"
+    excerpt: "Mobileye, a division of Intel, is expanding its autonomous vehicle testing program to France after receiving a permit to operate robotaxis on the streets of Paris. It is the first autonomous on-demand service in the city of Paris,"
+    publishedDateTime: 2021-12-17T13:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17553/mobileye-obtains-permit-to-test-self-driving-cars-in-paris"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
+        width: 752
+        height: 501
+        isCached: true
 
 secured: "S8XMLW2m/L6UGYH4U91YN8enuQixxCtl5/0htrMwHmVxEnVGc8njy4Q/CUGOLJ10G6z3Ufm2W3EHw0SRDYqYZ6LEci1o+7l8STCUyGSx7P62maiL+wwDA5q4EV2XBc33JYlTt+oeFXRn2gECnsyzo3c6CFlqcDtTCKm7cohWYeNpPGtRdtj+xXRQrycG/vHf0mBahlqoFl6Ch46ug6hsZs2c1Ra9TjpJhoFjqjtAv+zf9ZpMijV+EzUROkg3CsqalcxU5kkW2WQHLtuLT/1OJC4aR5xnnmjdy74Rq3gpG5cW6uUwSEa9RMdMvNGszjv33Lal5cPAxeZEn1u2u8MKddxOQngSQJvsR5328SpX3wF2oZqU85KliudSOvldTJNwy8r+CHAAOV2vs22+ILHVa33XSRlvvzPNtsxaFpfSJUkpDVM3lOUS9+Lh6ghyW5BOjzaHNnqlm+xZ6rUi2wQLbAKG4H8oJnUlWAuv75QXljFrkvsUDp5rKmt5KYS2X0PfuOOco4245S5NKLBUo4Dj7Q==;Jkpqown3pKtqd2ETSL71HQ=="
 ---

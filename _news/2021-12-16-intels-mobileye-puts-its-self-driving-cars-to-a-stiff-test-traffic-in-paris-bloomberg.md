@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mobileye obtains permit to test self-driving cars in Paris"
+    excerpt: "Mobileye, a division of Intel, is expanding its autonomous vehicle testing program to France after receiving a permit to operate robotaxis on the streets of Paris. It is the first autonomous on-demand service in the city of Paris,"
+    publishedDateTime: 2021-12-17T13:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17553/mobileye-obtains-permit-to-test-self-driving-cars-in-paris"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
+        width: 752
+        height: 501
+        isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T19:37:00Z

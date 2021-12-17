@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evol
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: HealthTech
@@ -40,6 +40,20 @@ related:
       - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
+    excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
+    publishedDateTime: 2021-12-17T08:45:00Z
+    webUrl: "https://warontherocks.com/2021/12/more-than-math-toward-a-better-strategy-for-advanced-analytics/"
+    type: article
+    provider:
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 41
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2021/12/AI-analytics-dec.jpg"
+        width: 1330
+        height: 850
         isCached: true
 
 secured: "ZYUtdLaFjEiQZH6VxqczHPBLhhVA7vw70N/O9faYS5byPQQDN9rXK1DdBHYtAHrx8NGWxTc2AgcX8AP3zaDbzR754l4mQSkFqYD+4WJ3dkRgJnxEPqGlfnZitV08hu4CLZQIeZ1eRkLenVlzo5fW9F7YkWe3Ht7Zv82fWJJVID2lmp3ZnMEHjyz8KYGkSPyt3US5fgxk8XJLq9Nz2x5CM3kZe34kTdkT8pbmdqnk+DcDM2eFx5UkdYN4j5CCWH3VXw+ADs33qX6+ApiDMVaVgJDqyGPNO5vYwGI6No9xREZ8WuSlUStCVhpr5D4MgihK5kmoQd4O3bNZEI5LpqeMuC7Dtqyn38JyKFcrMpFNGV+ff0YmF6AkERFcnGQshnn1unG9GOFAjg9OcRcglA225oZSrbMK/8FRYMn4pfuPne82nIUjsJEt5lKrvcvVQcgSrBmd3ZltPDqxXBZZL9f5eK6moNyS7YVXBB7r4Jt3KToilitBnDjk36+3P07vaQ4QzTS8fl8bBrMEfmHnsOD9Qg==;dLCm0JjTxKvzEVgSq53Rcg=="
