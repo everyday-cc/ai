@@ -2,49 +2,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_news/2021-10-20-microsoft-launches-new-initiative-to-empower-ai-startups-in-india.md",
-      "title": "Microsoft launches new initiative to empower AI startups in India",
-      "excerpt": "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging Artificial Intelligence (AI). The 10-week initiative will support startups in India leveraging AI technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://mybigplunge.com/tech-plunge/technology/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/",
-      "originalUrl": "https://mybigplunge.com/tech-plunge/technology/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mybigplunge.com/wp-content/uploads/2021/10/Microsoft-launches-new-initiative-to-empower-AI-startups-in-India-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mybigplunge.com",
-        "domain": "mybigplunge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
       "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
       "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
@@ -1147,6 +1104,49 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-ibm-rebrands-its-gbs-division-to-emphasize-what-it-actually-does-consulting.md",
+      "title": "IBM rebrands its GBS division to emphasize what it actually does: Consulting",
+      "excerpt": "Almost two decades after its landmark acquisition of PwC Consulting, IBM Global Business Services (GBS) is now IBM Consulting. What may seem like semantics in the short term should bear fruit in the long.",
+      "sourceUrl": null,
+      "webUrl": "https://www.horsesforsources.com/index.php/blog/elena-christopher/IBM-Consulting_101821",
+      "originalUrl": "https://www.horsesforsources.com/index.php/blog/elena-christopher/IBM-Consulting_101821",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.horsesforsources.com/storage/app/uploads/public/616/f1b/f4c/616f1bf4c2caa197219516.png",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Horses for Sources",
+        "domain": "horsesforsources.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

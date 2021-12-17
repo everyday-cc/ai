@@ -26,6 +26,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Predicting Variant-Driven Multi-Wave Pattern of COVID-19 via a Machine Learning Analysis of Spike Protein Mutations"
+    excerpt: "This offers the possibility to trace the virus evolution and to assess the role mutations play in its spread within the population, in real time. To this end, we focused on the Spike protein for its central role in mediating viral outbreak and replication in host cells."
+    publishedDateTime: 2021-12-17T08:42:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR433306"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
+
 secured: "RPkSHVL8QGQWzPEiUBjOsnE0De2mdGCx2T9tgtDIlls8jt5SmuLRmG4emxV/mtoYq2bkm25ax5mLElrREUpx95r0d4pQvFfuJlKpuOmqlIF5PFPJ1N7tOk83b0KQZ6bSTAxvQU8JuDfhohYpadMkiqL2pJ5jdNVJyvCKk64XGR6z53Nm/vSxqUhAep5vVm+pUfSI3wa+scQnfbmoNvbgxSDDdnI3QflwFRgOfn23Rz8TBAfovScoy9WehuitjO1l7qb6zR98TAkdcOrfZ5iVexVcZbBdzyxbD5I/sDyrS+Lb6wNhdBc2UrLDA3MPpRzfhTDgCbcDr1VypO37JfJOh+TsoersXiTdgHFBMPeBpFTV7SaEs436JSGgrhwSjr2hkbri6TdsQP21q+Fh4O5X69EUWvhuXmhGCLXcWtlLYhesE1kfPCm7T2OoE+Ksfj3iE6MvatVfy0X+O2Ic2v/kkXSirpmKHo8NMJRrSZMAGT0dBFhYMeeSJqj+vx1ibIGe1pihypkjc2+zLatkevAS7w==;/386LaBlinTAf+2QpFAF9Q=="
 ---
 

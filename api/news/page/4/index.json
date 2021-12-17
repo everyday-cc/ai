@@ -2,48 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
-      "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
-      "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/walmart-backed-symbotic-will-ipo-via-softbank-spac-for-2455b/ar-AARMzFP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg",
-          "width": 1000,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "domain": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-new-artificial-intelligence-centre-opens.md",
       "title": "New artificial intelligence centre opens",
       "excerpt": "Australia has launched a new artificial intelligence unit to help businesses unlock the potential of AI. The Artificial Intelligence Centre has been established within CSIRO’s data and digital specialist arm Data61,",
@@ -196,7 +154,7 @@
       "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1189,6 +1147,49 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-samsung-promotes-robotics-as-future-growth-driver.md",
+      "title": "Samsung promotes robotics as future growth driver",
+      "excerpt": "Samsung Electronics Co. named its newly merged unit for mobile and appliances the device experience (DX) division, the company has said, in a sign of its resolve to provide its customers with new, meaningful experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/a9c0dc257eb940bc83ed532915ba59f5.jpg",
+          "width": 980,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
+      "publishedDateTime": "2021-12-12T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -81,13 +81,18 @@ related:
         isCached: true
   - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
     excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"
-    publishedDateTime: 2021-12-16T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octoml-unveils-next-iteration-of-ml-deployment-platform-to-scale-ml-operations-in-the-enterprise-1031050451"
+    publishedDateTime: 2021-12-16T14:55:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-seattle-enterprise-8be04c841347ff5d83c99f57b950226f"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "h6GQq1tt4tmEDidaZ4D6EnjavS6vWPNJoJjCXyCC6fkoF/uHyLwqYnRn+6WJw6Gej65MkKY5nRGcBOv2noTrtu/y+AMe8NAWAw2lgd4PC0D2fUaY0aU6aZShowiVKEON7FWCVfJNV8BBcU0jbudoEFAK68opsNkXwav40f6CU9me2wdZK6+rNg6Oo21CPckutOOidPx9e0SDfLllykTbClsYzhoum0RyC0pNSP9bX9ITN+ZQnq/zgi69iHRKjix795AKPpf9/MQi9FXTlHoms7dU3vcH5zwBOlDtTar7zL/uvwTkoEasxKPgkE4P24GJofTgK8WyD6f7867+WDs8RhfapwR1w6vOCK7cvdzhSVMvmn4Iv4OfvRlaNsy5Iqzav4rd6hCSrQrtpMEDv180cxp1Oiw2nnm36RnMIuX4aU3aGajXcjoygoH+zl+IHZ5MosoHbBhf/dKQovqORn0wtn1mVMkfK30BdcEBDNID2VzKWtydzDFl7DcBhyxB2vjKZE/f/A06IZSxNPSJ8K3n8A==;4JfEv9QYatuWiwFAPf/EtQ=="
 ---

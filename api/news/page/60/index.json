@@ -2,57 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2021-11-01-why-should-humankind-strive-to-build-artificial-general-intelligence.md",
-      "title": "Why Should Humankind Strive To Build Artificial General Intelligence?",
-      "excerpt": "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
-      "publishedDateTime": "2021-11-01T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
       "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
       "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
@@ -1194,6 +1143,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
+      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
+      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "publishedDateTime": "2021-10-31T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

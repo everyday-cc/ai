@@ -2,49 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
-      "title": "A new direction for artificial neural networks",
-      "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
-      "originalUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
-          "width": 750,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
       "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
       "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
@@ -1121,6 +1078,49 @@
         "AI",
         "AI in Sales",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia.md",
+      "title": "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia",
+      "excerpt": "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
+      "originalUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
+      "publishedDateTime": "2021-11-17T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -76,22 +76,6 @@ related:
         width: 823
         height: 549
         isCached: true
-  - title: "Researchers Asked an Advanced AI Whether AI Could Ever Be Ethical, and It Said No"
-    excerpt: "Is AI inherently good, or inherently bad? Students at Oxford Business debate the Megatron AI about its ethic. \"AI will never be ethical,\" it said."
-    publishedDateTime: 2021-12-12T15:39:00Z
-    webUrl: "https://futurism.com/the-byte/ai-ethics-debate-oxford"
-    ampWebUrl: "https://futurism.com/ai-ethics-debate-oxford/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-ethics-debate-oxford/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
-    images:
-      - url: "https://wp-assets.futurism.com/2021/12/ai-ethics-debate-oxford--600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "YzFJqmxpVk5nkp9IIWLAe1xFv4u/OQgnY6YP1geBsLCq0An+0owgoDACffseBpR8ilM+04SpFAGFN+ExKyaN4kGh37excElDFc9ONvULklEXWIlC1a3CulhYSBAVEef101OtVB1788VweHSfSibM0J+R9zzRRknpxIbSYR6kCZekwXr1QKKJCLsR4OHFFavQajw9NhgnsYQ76bjzlMBnI59piCb7495SBBPcNGQ9Y/P0pTasxzYJrjteEQICSe5kl9qUHqM/Z9ka/1sLUA1rVM03DHGDq2oAxt4Oc/eGdyPk2oUPY5vnGtKF92Xlsq26WVd8syFKOSnlEZ9HrNsybkDoFETzbcaT4R2rCzIpXCWavj9Rs8iBRYXxqzsTQb6fXcjuqNgtGJYzD+blqWOfzMt6dmEMhZLRcgTC+OavhukJ766FiEhiB5OkAI6lG7tpXRI4ZMjll5zvsKXxujhorT0QfAB7dqtD1gnSgZm5zbZ12lbzCt+PtuBA1CrZ+WsSOnIUxhWneWtoZQTqWG/S4w==;j6AWGB6xe6V9unZ4WTlopA=="
 ---

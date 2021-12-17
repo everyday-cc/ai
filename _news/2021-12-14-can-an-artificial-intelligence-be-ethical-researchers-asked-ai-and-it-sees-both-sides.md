@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligenc
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg"
         width: 823
         height: 549
-        isCached: true
-  - title: "Researchers Asked an Advanced AI Whether AI Could Ever Be Ethical, and It Said No"
-    excerpt: "Is AI inherently good, or inherently bad? Students at Oxford Business debate the Megatron AI about its ethic. \"AI will never be ethical,\" it said."
-    publishedDateTime: 2021-12-12T15:39:00Z
-    webUrl: "https://futurism.com/the-byte/ai-ethics-debate-oxford"
-    ampWebUrl: "https://futurism.com/ai-ethics-debate-oxford/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-ethics-debate-oxford/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
-    images:
-      - url: "https://wp-assets.futurism.com/2021/12/ai-ethics-debate-oxford--600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
     excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"

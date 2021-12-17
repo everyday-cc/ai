@@ -103,6 +103,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Banks and Fintech on Platform Economies - how payments transform the banking experience"
+    excerpt: "The advent of platform economies is a tsunami for the traditional business culture, especially for bankers. Still, Paolo Sironi, Global Research Leader in Banking at IBM, reveals how should the FIs"
+    publishedDateTime: 2021-12-17T06:17:00Z
+    webUrl: "https://thepaypers.com/expert-opinion/banks-and-fintech-on-platform-economies-how-payments-transform-the-banking-experience--1253503"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 31
+    images:
+      - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Fintech Innovator fonYou Secures €7 Million Funding"
     excerpt: "Fintech innovator fonYou has secured €7 Million in growth funding from Banco Santander’s Smart Fund, in a financing deal that will"
     publishedDateTime: 2021-12-13T01:01:00Z

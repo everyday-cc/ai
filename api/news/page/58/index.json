@@ -2,58 +2,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
-      "title": "Changing the world with 3D data",
-      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "publishedDateTime": "2021-11-02T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
       "title": "West Lafayette facial recognition ban remains in ordinance",
       "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
@@ -1171,6 +1119,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.md",
+      "title": "3 ways to use data, analytics, and machine learning in test automation",
+      "excerpt": "He believes machine learning is key to handling increasing test volumes. “The quality of digital business is the quality of the code and testing that runs it. The more code there is to test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.html",
+      "originalUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/automation-100712884-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.amp.html",
+      "publishedDateTime": "2021-11-01T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-fluent-finnish-dialects.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-fluent-finnish-dialects.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "University of Helsinki: Researchers teach artificial intelligence to be fluent in Finnish dialects"
+    excerpt: "Collecting data for making an AI understand dialectal Finnish and Swedish has been on the news recently. Computers usually understand Finnish only as the normative standard known as kirjakieli and the"
+    publishedDateTime: 2021-12-17T00:41:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/02/university-of-helsinki.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Researchers teach artificial intelligence to be fluent in Finnish dialects"
     excerpt: "Finnish dialects create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort. A research group has built artificial intelligence models that can automatically detect,"
     publishedDateTime: 2021-12-16T07:40:00Z

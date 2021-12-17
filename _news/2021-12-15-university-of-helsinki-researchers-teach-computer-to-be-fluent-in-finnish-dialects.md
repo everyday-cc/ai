@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "University of Helsinki: Researchers teach artificial intelligence to be fluent in Finnish dialects"
+    excerpt: "Collecting data for making an AI understand dialectal Finnish and Swedish has been on the news recently. Computers usually understand Finnish only as the normative standard known as kirjakieli and the"
+    publishedDateTime: 2021-12-17T00:41:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-researchers-teach-artificial-intelligence-to-be-fluent-in-finnish-dialects/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 45
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/02/university-of-helsinki.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Researchers teach computer to be fluent in Finnish dialects"
     excerpt: "Computers usually understand Finnish only as the normative standard known as kirjakieli. Finnish dialects, however, create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort."
     publishedDateTime: 2021-12-15T17:07:00Z

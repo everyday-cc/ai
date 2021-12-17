@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ais-ai-expanding-partner-user-bas
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ais-ai-expanding-partner-user-base-aids-top-line-growth?amp"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,54 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) Helps Predict Dementia Risk"
+    excerpt: "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy."
+    publishedDateTime: 2021-12-17T08:05:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 72
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "Artificial Intelligence Can Aid Early Prediction of Incident Dementia"
+    excerpt: "UK researchers have developed machine learning algorithms that determine which individuals are likely to develop dementia."
+    publishedDateTime: 2021-12-16T17:41:00Z
+    webUrl: "https://www.medscape.com/viewarticle/964954"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 52
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/gty_210825_artificial_intelligence_brain_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Artificial intelligence accurately predicts who will develop dementia in two years"
+    excerpt: "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded."
+    publishedDateTime: 2021-12-16T16:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
 
 secured: "kZsqfJ++lM406PmfgYkTyRw+NSbXB5ACN8hAnOwOMhfZVHrqWxRol0ni9lzStP5Yycu8AU4q0XDedLFjhJrDgyB9xCV4hrK7M2mbbRyqSi1Z/XBYY+lxsHJ3BzzfrgCg9OAGB4kcyrqR2AvugwIp1Ps33OOfHKb9irnvSiIFyi+UQkZIr1CJ1L6AcsRkPrqeKE1H+il/l3Hu0ujObnCzc2bl09aeck7GyfggPEwum8HfiPcTZgpKRLNRgfx2RFVnqqnwyB7PaA9jHfTwMBAfJ6n/GO9jyDpr7l1a0Z8xsDCECUsvoaWJ1vwA5g6lXVvrNLmxLzy0An2/Ms8JRnUvnxFVrR1nsz3vly9G9l10Rc0=;tG9nZHgAHo/tqd+bXDAn3Q=="
 ---

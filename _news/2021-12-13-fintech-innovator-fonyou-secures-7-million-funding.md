@@ -117,6 +117,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Banks and Fintech on Platform Economies - how payments transform the banking experience"
+    excerpt: "The advent of platform economies is a tsunami for the traditional business culture, especially for bankers. Still, Paolo Sironi, Global Research Leader in Banking at IBM, reveals how should the FIs"
+    publishedDateTime: 2021-12-17T06:17:00Z
+    webUrl: "https://thepaypers.com/expert-opinion/banks-and-fintech-on-platform-economies-how-payments-transform-the-banking-experience--1253503"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 31
+    images:
+      - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
     publishedDateTime: 2021-12-13T05:41:00Z
