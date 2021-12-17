@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/10-best-applications-robotics-agric
 webUrl: "https://www.linkedin.com/pulse/10-best-applications-robotics-agriculture-daniel-abbott"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 best cities for jobs in robotics"
-    excerpt: "Robotics is one of the coolest up and coming industries to work in. If robots are your game, check out these 5 global robotics capitals."
-    publishedDateTime: 2021-12-17T09:30:00Z
-    webUrl: "https://thenextweb.com/news/5-best-cities-for-jobs-in-robotics"
+  - title: "Robotics Changing the Agriculture Landscape"
+    excerpt: "Robotics Changing the Agriculture Landscape By Cio Review - Although robotics in agriculture is still in its initial stage, several start-ups across the United States are already"
+    publishedDateTime: 2021-12-17T12:19:00Z
+    webUrl: "https://www.cioreview.com/news/robotics-changing-the-agriculture-landscape-nid-34783-cid-205.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: CIOReview
+      domain: cioreview.com
+    quality: 54
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fmaximalfocus-0n4jhVGS4zs-unsplash.jpg&signature=b6ab3e5637c5e351b42893fbc8c1a8f0"
-        width: 1280
-        height: 640
+      - url: "https://www.cioreview.com/graph_image/gvgiicontent.jpg"
+        width: 363
+        height: 260
         isCached: true
 
 secured: "4d9LTnHPz6ax/YHvv+QwP118++8I3p9gbmVrOuIRRDAWdJefVbR72S23U9AEUPlSDQ3Abf4Jb1802L/fWxTxTGtFZXBS+bOmps4C0sAO6HPDnYliKBuREJp2V+Ef0VqONRnEcjmgP8QjcNVPpoU8ESX1R6x4qnqBGSEYsQhSFF5Rw4SP6LwbO7VpQtYv5EHgf/lh9QpVxH2KCOFSS7BGCl/8vOSNhIoJk8ANf7LFu5k/12Umoy9ZaPdOF7uQva0XiQJ3ELVBXNiVloR1qZwnAI7A3kgxsiA3q+TsJx4pehN8dnfYvqan2hk6mqjAgnyjKuzH0hZ8VGXLwZQma9Gu3X1iA6qol9u952r4Qxpqa6o=;j4evPfwbE4H5WvaQmpsiKA=="

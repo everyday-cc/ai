@@ -27,6 +27,20 @@ images:
 related:
   - title: "Making artificial intelligence more natural through evolution and development"
     excerpt: "How can artificial intelligence (AI) draw on principles from nature to solve complex problems? When it comes to recognizing patterns in large amounts of data, AI is faster and more capable than humans."
+    publishedDateTime: 2021-12-17T18:05:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/938368"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8e7ada73-e68f-4873-9a78-c848821ec684/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Making artificial intelligence more natural through evolution and development"
+    excerpt: "How can artificial intelligence (AI) draw on principles from nature to solve complex problems? When it comes to recognizing patterns in large amounts of data, AI is faster and more capable than humans."
     publishedDateTime: 2021-12-16T14:50:00Z
     webUrl: "https://idw-online.de/en/news785770"
     type: article

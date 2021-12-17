@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/5-best-cities-for-jobs-in-robotics"
 webUrl: "https://thenextweb.com/news/5-best-cities-for-jobs-in-robotics"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "10 Best Applications of Robotics in Agriculture"
-    excerpt: "Robotics in agriculture is paving the way for a bright future. Global population will reach 9 billion people by 2025, according to predictions."
-    publishedDateTime: 2021-12-13T04:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/10-best-applications-robotics-agriculture-daniel-abbott"
+  - title: "MassRobotics and AWS Robotics join forces; New Savioke Relay+"
+    excerpt: "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program."
+    publishedDateTime: 2021-12-17T17:27:00Z
+    webUrl: "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 101
     images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/12/AWS-roborunner-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Savioke Announces Relay+, a Next-Generation Service Robot for Hotels, Offices, and Foodservice Operations"
+    excerpt: "Savioke announced Relay+, a new generation service robot that brings unique benefits to owner/operators of hotels and office properties, foodservice operators, hospitals, and healthcare organizations."
+    publishedDateTime: 2021-12-14T23:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-20156999.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 22
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "shKDSOBnrb3hy8jEgj4GJj/Evyys29R4aOyV+q8rtByYa7/Sg9/iC+N0SueAhtxK4jXO9MAHxb0iu47waGd81tpEGFKYiAkMBXWkzEveNHfM1T52LLh//W0/eXSPROlUMJny2eRzWc6615q8A2fgNPmKm+OVSDcT6OV0ca+8Sb3+XMc8J91ySYMBFO0dlEZ9GX6Bsj84M5dXq6xD5CRo+lAWEECDsFp4ZRAiF+TSzwL5C+nyp9Ig2zFnjlLVlZ+Tt08zDqUABZuxKW2gpludlQH2CDS9zfhTWhO8BoGMpYkKgGsWqiiSss8qxethyEz8cbNkHWc2Anm1QLeIR++yyMTjiPEVjtsUW7F2T21ujCgF0QLodqHU/m/uRY7msVE3y1QywB4SqpRR8RrmBwHgoeX1MmCw1FFH3N72NVbgNLj5EqUPpUrcXId4DABgI9nBsS4R+zEYy0xl3QDWxIHbxFZ5aYTbHbsZC4rLblzg8GDod6d5kZcdOGbtqIRtlI4JmP5FvV+23oft7ft6nUSpDw==;dbhIPEz2Mcxmx+1FHVl7TA=="

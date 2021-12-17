@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/"
 type: article
 quality: 165
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 541
     isCached: true
+
+related:
+  - title: "Uber teams up with self-driving car company Motional to launch driverless food deliveries in parts of California next year"
+    excerpt: "The deliveries will be made in Hyundai's fully electric IONIQ-5 vehicles, which are equipped with Level 4 autonomous technology, and a safety person will be seated behind the wheel."
+    publishedDateTime: 2021-12-17T14:38:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/12/17/15/51924887-0-image-a-5_1639754575177.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "ias3xzl/nGGsnv9i/4yYKy0rGGDSKoq7myzZ9th3UWtR0Kdn2Ajso5UNgYIJvQ9mef2U7asDmSnlnqd3HZ9gNTzfJaRUAX1iRN81iOK+b3LESg8HnE6VDDkjPlwHJwerIzaxvV+XlZbakL9K0zlpJkGNsr105qqdb4HpwWxzwP8bz3eNoC4Qd9tYPXvjlpFJUD5jOHBhvQhJhCz4y0ud+fiiEwuWxDCqAyAbCfaEezIMsMyKOLWzugwd8k936q4GQIhjvULbp77IF9IQPXWWFQvmqLc6gcaGQApXb7BtpgSuYkvuMkD/RMBbxvAvAUha/bCOQZUryTmpTHhmErIJLlOhki+JNAjLU5Y0V3BTtvk=;It33M2RbtBdBneA2NirJAQ=="
 ---

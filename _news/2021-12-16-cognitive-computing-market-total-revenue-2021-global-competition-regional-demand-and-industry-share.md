@@ -59,20 +59,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Edge Computing AI Chips Market 2021 Business Overview, Size Estimation, Research Strategies with Share Analysis and Forecast to 2027"
-    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Edge Computing AI Chips Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Edge Computing AI Chips market."
-    publishedDateTime: 2021-12-13T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-business-overview-size-estimation-research-strategies-with-share-analysis-and-forecast-to-2027-2021-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice and Speech Recognition Market Size, Trends, Scope, Demand, Growth and Forecast 2021 to 2026"
     excerpt: "The latest report by IMARC Group titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” finds that the global voice and speech recognition market reached a value of US$ 9."
     publishedDateTime: 2021-12-13T13:24:00Z

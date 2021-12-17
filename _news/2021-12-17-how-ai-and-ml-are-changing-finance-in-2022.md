@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Top 5 Edge AI Trends to Watch in 2022"
+    excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
+    publishedDateTime: 2021-12-17T17:23:00Z
+    webUrl: "https://www.publicnow.com/view/1E8DC0BAB198F9EE950F404890471E7586475FDA"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "px+Vcf/9n8x8PXduE9WVMPCFS8WvUeZDFm83NFn4XDU9UXkIzr95nDik9cFh4WPmY24gvAho9S209o3OLVAvsbXPU77EjyWNMeUuR+2nY/h/7gUhiMO2xN/NJpwWd4hqTWdVEyvKY8kTb6MTGyMTjNfu0Aa5/i2ugGurTygPaNp+DiMqR5y7qYwxDCuDDh1LMoc+EUzl0/lPGAJYGOmjUAUF0XaiZaipcyXGrr3/e+tDRPx7ncIpkvXDyLoNd+tU1rpF7evTamuSs7MLS9EQghs/QZh/QAvgM6V71sw8NMRCO7ddjJGh1DGCai67jD1B2Wap4QmYcv3Exh6FK/yXIhXKkBvfnm13FBFwdglG9a/RPMQqwiRx7E9E8r6lt7oDhJ8UC+AdQhXq2g/ib7L9lfieoL813b17N0fgLO3uClnZRcmLIQwJ2jZVzC+HEVSLuDnvuUCJ7g+QdKNRvIknhztbhH9Sdp3kFAsGk+v6h+tMQc9cs8w6Ox3IPnYrAi9gy+N91bt5Fr+2bLztseJvhQ==;72LzZaw26mOKsP/Eg0BA6A=="
 ---

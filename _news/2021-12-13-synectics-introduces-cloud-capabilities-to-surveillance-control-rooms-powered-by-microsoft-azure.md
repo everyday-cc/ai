@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-c
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
+    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
+    publishedDateTime: 2021-12-17T17:21:00Z
+    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
+    type: article
+    provider:
+      name: OpenCV
+      domain: opencv.org
+    quality: 58
+    images:
+      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Microsoft grabs Nuance as latest healthcare bet"
     excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
     publishedDateTime: 2021-12-14T06:00:00Z

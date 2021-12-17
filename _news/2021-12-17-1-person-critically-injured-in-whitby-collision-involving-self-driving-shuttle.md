@@ -59,6 +59,20 @@ related:
         width: 476
         height: 317
         isCached: true
+  - title: "Self-driving bus crashes into GTA tree, critically injuring onboard attendant"
+    excerpt: "A self-driving shuttle bus in Whitby crashed into a tree on Thursday, critically injuring a 23-year-old onboard attendant."
+    publishedDateTime: 2021-12-17T16:59:00Z
+    webUrl: "https://dailyhive.com/toronto/whitby-self-driving-bus-crash-critically-injury"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 21
+    images:
+      - url: "https://images.dailyhive.com/20211217080230/FGxLNbgXEAAioC8-500x258.jpeg"
+        width: 500
+        height: 258
+        isCached: true
 
 secured: "19wVWixtMALT/4keNuXuFq/qD+UJJ0DlQvFDbmjjjjNzCAkj0eALwjf8c6eQtYIkDdsSJ8PHfPfnHI4yLead9sCmbfoeCL/vCrGKl5eZQ+4tJw7ZAb4OvSCIEIapulEWozIF8+cfoHiHZjDAt+B1gjg2bxaPrQd5SBzxZxULoK3ukoaygpSp+QVVDoVBlGCZ/09f0gQcvVTxZ+Z1kTCC+2n/5+k3q8IbFE69KVzrPRpLwknfZ7vK1QgRHTG7S5SK47fiHJsyRKjBd6woFpuNKgisAvOCfM3k291KN3KVozVU0zN+jUKh7YPQijVeVvibn9FPHnaRkz3h16gHa35FM3GRQfOEkJClCMwwkDtG5Ig=;rbqu2xCr0o7VBHsIojUzYw=="
 ---

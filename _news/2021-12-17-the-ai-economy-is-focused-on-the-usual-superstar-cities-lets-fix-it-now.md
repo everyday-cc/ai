@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-us
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

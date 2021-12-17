@@ -2,28 +2,30 @@
 category: news
 title: "Researchers develop AutoProstate to automatically generate prostate cancer diagnostic reports using deep learning"
 excerpt: "Researchers from the School of Biomedical Engineering & Imaging Sciences have developed a computer-aided prostate cancer diagnosis system, AutoProstate, which uses deep learning to generate an automatic report which will aid radiologists in identifying and diagnosing prostate cancers with greater accuracy."
-publishedDateTime: 2021-12-17T16:23:00Z
-originalUrl: "https://www.kcl.ac.uk/news/researchers-develop-autoprostate-to-automatically-generate-prostate-cancer-diagnostic-reports-using-deep-learning"
-webUrl: "https://www.kcl.ac.uk/news/researchers-develop-autoprostate-to-automatically-generate-prostate-cancer-diagnostic-reports-using-deep-learning"
+publishedDateTime: 2021-12-17T17:35:00Z
+originalUrl: "https://medicalxpress.com/news/2021-12-autoprostate-automatically-prostate-cancer-diagnostic.html"
+webUrl: "https://medicalxpress.com/news/2021-12-autoprostate-automatically-prostate-cancer-diagnostic.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-12-autoprostate-automatically-prostate-cancer-diagnostic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-autoprostate-automatically-prostate-cancer-diagnostic.amp"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: kcl.ac.uk
-  domain: kcl.ac.uk
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.kcl.ac.uk/newimages/folsm/main-article/bmeis/autoprostate.x03dcacba.jpg?w=883&h=440&crop=780,440,52,0&f=webp"
-    width: 780
-    height: 440
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/prostatecanc.jpg"
+    width: 800
+    height: 527
     isCached: true
 
-secured: "xDvIyt5A+t+hhmllm7DoDGoRSRtMaOr52Hidvn0btucBIKY20wSLCjxFcRL45H3AvZ3tXD1K49nkM7ypcu86IMt8NUo6t/kuLtkpZv9/r4nTP3Kuymub34c5VorBWsPShSHxtTXHutNXa6eejoxzXiCUTOdz8Cv/KHIo0IYPTG4FiXCog78A0WI4Cdqo26SP+xgdCnzX4mfHF+56wALky6fstV6gtAPJVKBMxs9xda3ZcthvjAbvgXaaeaAIOzIFtsHy+yRtDoNx//j3YOOorELoNL7dYDb73BQNPqkQFaSy6PQINxkr8Uh/i2DgcJiNE9Elb8SfGbMJg/jkVn0WLo08S3XdeuCnnGAkQU9dsBw=;6o0Kt4dIl743YdPfwEM+Vg=="
+secured: "JB1OuLr7xHrbE8yafDna2wKKo7q4u35Y8uVQ4Xjagh2Y3Mo278D6634X23rbPz33mWI2QYzNDD8tn9Qkbu+yExG9/NSI00VDHppcz5wtIWAE7nqBNiFZGVd1bNtSEhlYcrSF3/DD/sSjPnZKbMeHdS2w846m2rTegMTnAWnZ7RHHzQc0aio88CG99q6y8Bg325EYQbhQGp72bPermyswT07AOY6ja1D+WNImRSRuBVuLQq3R0WmxxY8+BjAEyjJgmhzhWGThMdFzTHKKCCV3KghNOkd9SQtLW6e6ojxoo8HtogvoOCtKoqBBdCaLIgXbQqPJmMC7K0jMexmh4xB3xN0oLH5jWr/QTzRFaDjbsDY=;rQCqfBpKzHqr1pdcdb4Kog=="
 ---
 

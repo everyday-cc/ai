@@ -2,6 +2,41 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-09-13-attabotics-appoints-cyra-richardson-former-microsoft-and-amazon-executive-and-leader-as-cto-and-cpo-adds-former-softbank-robotics-vp-julien.md",
+      "title": "Attabotics Appoints Cyra Richardson, Former Microsoft and Amazon Executive and Leader, as CTO and CPO; Adds Former SoftBank Robotics VP Julien Seret to Lead Network Supply ...",
+      "excerpt": "She incubated Microsoft’s initial AI offerings, including Azure Cognitive Services and Azure Bot Services, to market into SaaS offerings. Cyra also played a significant role in many of Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210913005269/en/Attabotics-Appoints-Cyra-Richardson-Former-Microsoft-and-Amazon-Executive-and-Leader-as-CTO-and-CPO-Adds-Former-SoftBank-Robotics-VP-Julien-Seret-to-Lead-Network-Supply-Chain-Initiatives",
+      "originalUrl": "https://www.businesswire.com/news/home/20210913005269/en/Attabotics-Appoints-Cyra-Richardson-Former-Microsoft-and-Amazon-Executive-and-Leader-as-CTO-and-CPO-Adds-Former-SoftBank-Robotics-VP-Julien-Seret-to-Lead-Network-Supply-Chain-Initiatives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
       "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
       "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",

@@ -42,6 +42,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
+    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
+    publishedDateTime: 2021-12-17T17:21:00Z
+    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
+    type: article
+    provider:
+      name: OpenCV
+      domain: opencv.org
+    quality: 58
+    images:
+      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
 
 secured: "OhvwZM6z1JqW2OTvRr2qbE5V8GkeWRrjO7nl/bfFl+We5x+ouS4R7LSuhVmUr25DXh/JyskBcihQpZFIqkkcUDiihb9HnL/9Gi1+pd5Y/bmHWhRCrdEFXsTpeqfFmTI2Hsi/aGPcke7NSQcflECW28Jnl/Dir02osfx8a9zJyozId3HhcBlC37D+ucM51Rmf5b+E7DWjQ4m5mCEDS8UajBCedA0vWpMsNfRbFrYKwmD0PhJTBNSvN+J6MuDpWau1abHw3l2hdoUu1bgIJkSq/qJhOZ/d1DisUiyXqNTIVjsOr/RHLMr1o5sDknuKo/Lhl9pqV/QhyH6hNk2xg9rwgQXFXY5rccLLJQjJkTlf0oKvjGmHN5b5F8SmiGM/8tMWNwjHQuDl3HRcg3RTinRKfpq1hslrbqgVF9ZIc6uuSx5kU8nulxO+BptFR3+vkYh10kFnU516O3BGhvn4UmJ6pML5gPknViVJBTDsoN67EkSYd6bsFGlBRXaIungScEf2b5T8xJbdOHLZvfXpWV5usA==;M2LMKxIYJZH1VXfuOEibFA=="
 ---
