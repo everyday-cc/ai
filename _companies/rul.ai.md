@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rulaiinc"
   url: "https://twitter.com/rulaiinc"
-  followers: 209
+  followers: 208
 
 size: 11-50 employees
 yearFounded: 2016
