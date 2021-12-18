@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How healthcare data and artificial intelligence can improve care"
-    excerpt: "Two experts will talk about using healthcare data to respond to the COVID-19 vaccination programme and treating infectious diseases."
-    publishedDateTime: 2021-12-13T13:19:00Z
-    webUrl: "https://www.imperial.ac.uk/events/142696/how-healthcare-data-and-artificial-intelligence-can-improve-care/"
-    type: article
-    provider:
-      name: Imperial College London
-      domain: imperial.ac.uk
-    quality: 54
-    images:
-      - url: "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/shutterstock-1279492897_1638183154701_eventlandscape2018_x1.jpg"
-        width: 718
-        height: 420
-        isCached: true
   - title: "Top 10 Artificial Intelligence App Development Trends in 2022"
     excerpt: "Artificial intelligence is the most demanding topic that is spoken about everywhere. AI is the ability of a system to think and learn from its experiences. Let’s see the top 10 artificial intelligence app development trends in 2022 in this article."
     publishedDateTime: 2021-12-14T15:30:00Z

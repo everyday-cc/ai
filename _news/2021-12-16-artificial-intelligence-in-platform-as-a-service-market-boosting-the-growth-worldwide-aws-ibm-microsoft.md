@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-16T11:10:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-platform-service-market-boosting-ajay-jadhav"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-platform-service-market-boosting-ajay-jadhav"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFW5g3YrAl9Kg/article-cover_image-shrink_600_2000/0/1639652823920?e=1645056000&v=beta&t=FV1i87jt54kePXg8kuBU8cDLJnDUmEH1Snp1HJLr8ac"
@@ -128,6 +129,6 @@ related:
       domain: openpr.com
     quality: 49
 
-secured: "sMZCrvS+lNz29uYb/HN7cDygOo6b8WHjft0WmamZUF03aw75wfWc1r7on7aqbmHuLaLkyH0k8za90Cg/DynoiWdzzvyhiekI8Dp4CYKchG9JgYgJzCTRWwqE4q/GSMz2sB3Tc1j6jpPkj2V3wlt+dxZecx+V2BXiVmY7O6Hc1k2aWXCzPe03suEhbQ8FyfWR/bSoRxaR3h0P4Xdjd2WTXepEdvDZGF0YGKVlSVdsuE45W6gnhd6FCKbqslTqG9m6qmniiaWWpP1vPJyZ1HYcLLlhGjfwPAnmxyuKzef4kMx05KXr/InFg5GzuN7qsxJ7JAbvpCK0Ld2WExjI0Ecv7cewOIQLsE59lprr3sUb/Qc=;/IUN5VbdkWO4B/MKbOoBSg=="
+secured: "1+3oD6/JSxsI9oSIqt4VcxDVtPfYCz3bUeqegCjUasSJ+sVXRSG/fLkY8220yVSMwBeXFACD2S0MEfSbBVnlzqULD4YfhErqCdViOehFweWi4YiSrkRF3od/K9+ySceTPz1WVEezMPEM7B5BBF8lTl8kvqoQwOypKhLiBDEXIljMcB9TNHWwMlqRQ0wZlORiYxYAOIvb5msrAxcozcwS4XKegJjaRThS9EE6rq1EHn2rozk3ImZDIm8h7zmqI6OAfelbbEhPqADxXcHxM93ygJUBP28ZGcct1gZryto29vZtgweZ1YoT5Ps6zy5blz8Ry1zUqfhIlz/Bu8NV9FEUUllqqx1lTzDkJY1aY2XDd0PjVaXkxmGrq6n4ruujgR+9zOf3h8bK4sUTzYJrtdIdFQhl/qGtOjqTje45YHMINbjayGCVJnG+w0joCwr3Yd17GLnbUW4Nm529CslxYKCdc8etv7/WFd6GKTdTYF1IRkQNPPLl/Pkywt1bnQ8qWnt3qH74t3R49N8D7bPKtUk1Jw==;oBHUP0YgbYpRHbgDNV4h+g=="
 ---
 

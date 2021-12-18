@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/extreme/329765-microsofts-spaceeye-use
 webUrl: "https://www.extremetech.com/extreme/329765-microsofts-spaceeye-uses-ai-to-see-through-cloud-cover"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 640
     height: 353
     isCached: true
+
+related:
+  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
+    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
+    publishedDateTime: 2021-12-17T17:21:00Z
+    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
+    type: article
+    provider:
+      name: OpenCV
+      domain: opencv.org
+    quality: 58
+    images:
+      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
+  - title: "Microsoft grabs Nuance as latest healthcare bet"
+    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
+    publishedDateTime: 2021-12-14T06:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 56
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
+        width: 884
+        height: 543
+        isCached: true
+  - title: "Australian Army and Microsoft to use AI to analyse voice communications"
+    excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.technologyrecord.com/Article/australian-army-and-microsoft-to-use-ai-to-analyse-voice-communications-127586"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10649/img-Austalian-Army_940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "qaxvljRRbfYRZFPoLE8jEYm5PP/ufeQ2ppXV6wIVUj4MKf6YPz/98tW9MKCy+3r90Sz6f0oJR+dffPNvgYaZuZvSYit8j22LdFw8+3xxW96Pi9XJNiu/bAykz99lDmRd90ykTcW2t/KMeVYQ+M6Lyw+5h/SUPLFcQG+p5Qj4hL5+vDzMTtvycsn+Ev5YGHXNEXK+FvQFsEwIrmYE+mWVfuc+raojdoCMVSOu5qzOSdoDSVSHD/W3dLGZzw1L8t4dSqUaYRsHe/yB9KYUXF9yFj8iTynUKrvJlE/Sjlj45qf4eb2CaQP2TbXWZMrGMUtoWv31xSEOlxFRM56skatiovpqIkLTuAGyEAZhKImDQ/DUP9zhW2fZIOJvk4xnZM154rxxPQAeee4Iz6aBzBE3myuz9Jf1uAJEcg9Y0OefQ2PE4+MoeIMaKVt+lt2/xlcNkT4vAg+fn5jEskBOmZXzc88/GQszCs4++CcH3GiSp2NtGns8+LcxDAw3JFdRquAtY0WnECiyAPJS9tyQ9w3b2A==;QPWDkLtrNhNOQID/s7l4+Q=="
 ---

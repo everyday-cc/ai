@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innova
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320
         height: 213
+        isCached: true
+  - title: "Voice technology for the rest of the world"
+    excerpt: "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,"
+    publishedDateTime: 2021-12-17T17:58:00Z
+    webUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "eDesk Awarded 'Innovative New Technology' for eDesk Smart"
     excerpt: "Desk, the eCommerce-focused customer support platform, today announced that it has been chosen by Google as winner of the Deloitte Ireland Fast 50 'Innovative New Technology Award 2021' for eDesk Smart Inbox,"

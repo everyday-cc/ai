@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1152
     height: 1536
     isCached: true
-
-related:
-  - title: "Human-like brain helps robot out of a maze (w/video)"
-    excerpt: "It's been known for some time that organic neuromorphic robots can learn. Now they can move too. Autonomously."
-    publishedDateTime: 2021-12-13T13:28:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59360.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 56
-    images:
-      - url: "https://www.nanowerk.com/news2/robotics/id59360_1.jpg"
-        width: 900
-        height: 658
-        isCached: true
 
 secured: "ChILKOPTRU1KYZ3bRyP/ryhJMLn3TaJgC/1WEv1c4LKSBEXbvipJsU0zRsej31qob09iTv9Xq3Au8ZJbJsIm0aAU0R9lgDFJFoj715YbGbAeNnBI+0BL5CvwvIg2VlbtTWzORlgKTcqW38wUgpKDpuaKZPvtCjciAla61Web8UijpnnUvSfD6jsXXu89LAmBdRDIF7Yp8DxgSXuNh4gY2XoUyXsqL+oY29YY+kJdA06Z3Hy0XsiFP1F8MeTvePXWkxPTGJF/dnTPxb0JUMjF9uCGAq9Eezy5Q1uQNJ8ABn6E14ovOOymuaeS8EuNzoLWwbZVAN/eHsJ7JuazFBYVYwVOZLFrm3/FsYyRoP+kEwrIDvVxNqUyXJ4o7UoAGQyXjPBKBzKEVg58qU20coJ8jveT3lLS88IK2K+EAFiBSpbA2pz3apkM8sD8atq7hGxQJcmCjLdKqXYzh/B2s0rfX38ruWkOmncfMtLu1OIprX94E2WejQL7tOhpiwNgrKrvpGP/xpm4M5sCIguJRpZDMw==;1OFlYrNK6k3HxlVk4mjZRw=="
 ---

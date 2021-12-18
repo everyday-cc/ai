@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "At 13.2% CAGR, Warehouse Robotics Market to hit USD 10912.5 Million by 2027, says Brandessence Market Research"
-    excerpt: "According to Brandessence Market Research, the warehouse robotics market reached USD 4518.4 million in 2020. The warehouse robotics market analysis promises a robust growth, at CAGR of 13.2%, promising a valuation of USD 10912."
-    publishedDateTime: 2021-12-13T13:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/13/9509797.htm"
+  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
+    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
+    publishedDateTime: 2021-12-17T12:26:00Z
+    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
+    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "4JgtUdLGoaEBB5dH8xZmW0R2iNCqDq1y1O32C201MGPLaptzLK21vkVCbdfVD9uWZmOHfdCA8SNAms72qkamY2tVpi+BoB1QaTS2JDpkmrqdJdXqMhMRpcefg9p3n5r5RBXZsTJtHynlGcV1uEbiXJwmkM5Z2S182oAUMcdXMd4zzicr60y0R6beRe4piQf+7Pk1FmQVj8WWt/ir7Nz/IOVTcwHC8XY1lZFewZAnrj6oU306nK3hcg1QsC/KcYMTSdFVGiikNenUMC1IEfADdvjh1VAI/W87W+FlO26TRGCuuUysAjJCcQloI6xm9hFMIf/n73mYU3/tZVQ4QKk3MuXGoNki8IGKC1JjpVKxlnrTaV+j/huz4RdVjhWTjDDYekGiCcXM+WVHzFyuo7rOlMLWMy+74JedNOa1nWb7jwNFCoHR55DTF1LcEfUSaQBZAbWwH4p0rxArk+WXPaUvGmkKV954U7f6fBQbVbQCEDzqK0oKuksYJb4WWXIa37vPQAuhQepSU5cAbAnf3Dw2cw==;N+RLkzZLZlu7VavDNSGULQ=="

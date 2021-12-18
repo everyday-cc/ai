@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
 type: article
 quality: 121
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How healthcare data and artificial intelligence can improve care"
-    excerpt: "Two experts will talk about using healthcare data to respond to the COVID-19 vaccination programme and treating infectious diseases."
-    publishedDateTime: 2021-12-13T13:19:00Z
-    webUrl: "https://www.imperial.ac.uk/events/142696/how-healthcare-data-and-artificial-intelligence-can-improve-care/"
-    type: article
-    provider:
-      name: Imperial College London
-      domain: imperial.ac.uk
-    quality: 54
-    images:
-      - url: "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/shutterstock-1279492897_1638183154701_eventlandscape2018_x1.jpg"
-        width: 718
-        height: 420
         isCached: true
   - title: "5 AI and machine learning trends to watch in 2022"
     excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."

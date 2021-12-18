@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market Significant Demand Foreseen by 2027"
-    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Chip market by type, application, end use, and region: industry forecast and market potential analysis,"
-    publishedDateTime: 2021-12-13T13:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-chip-market-significant-demand-choudhari"
+  - title: "Disinfection Robots Market Worth $2.79 billion by 2028 — Exclusive Report by Meticulous Research®"
+    excerpt: "According to a new market research report, \"Disinfection Robots Market by Type (UV Light, Disinfectant Sprayer,"
+    publishedDateTime: 2021-12-15T08:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24614919/disinfection-robots-market-worth-2-79-billion-by-2028-exclusive-report-by-meticulous-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24614919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614919"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF83vbzQ2-Hsg/article-cover_image-shrink_720_1280/0/1639400662647?e=1645056000&v=beta&t=m5nf5mJfXk_yhWsK90xuldycwuQ5F0gKp61crBwRoCo"
-        width: 960
-        height: 720
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
 
 secured: "NxM8gTDDb2UqEH7U2PRMh6AjXStGkpABfMjiLkNrzpOSYDD4TUIqhtOscy/5OgYhN/uZypKMEemjlp7SZF8mzyWGgCw90GQoYacQWM3Ah9J01O3E+uzIvNeAoyn87L1y982x0Rc7nV5f1SewSC/RhPmQC6dC/AdTdBHfR0v4UzYZz1i6rtPg/Ltt/NEGicfXly4eKg2Z7da3ljrYtQZqB4AdijihjXTq+NoqfREq5TVdfjexp5pmDtlVe0kNQZf1fJIzGLG+WFZffbb7I1kQ145KwymVC44jh7j6yXUv0azLuvQL51+1bBDrpgF8poSlpDqirokXb8JHeLiUu7rDXsgiq57IUFJRE6HN0T2wsBc=;iP7aeWmjGggmQBwc+ChH0Q=="
 ---

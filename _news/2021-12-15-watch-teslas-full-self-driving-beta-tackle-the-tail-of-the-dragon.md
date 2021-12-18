@@ -98,20 +98,6 @@ related:
         width: 600
         height: 325
         isCached: true
-  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
-    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
-    publishedDateTime: 2021-12-13T14:04:00Z
-    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 54
-    images:
-      - url: "https://www.loopinsight.com/images/logo.png"
-        width: 520
-        height: 208
-        isCached: true
   - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
     excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
     publishedDateTime: 2021-12-15T12:03:00Z

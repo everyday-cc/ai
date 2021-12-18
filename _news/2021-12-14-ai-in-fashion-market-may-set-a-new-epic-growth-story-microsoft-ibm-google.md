@@ -70,6 +70,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Platform as a Service Market Boosting the Growth Worldwide | AWS, IBM, Microsoft"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Platform as a Service Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-12-16T11:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-platform-service-market-boosting-ajay-jadhav"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 55
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFW5g3YrAl9Kg/article-cover_image-shrink_600_2000/0/1639652823920?e=1645056000&v=beta&t=FV1i87jt54kePXg8kuBU8cDLJnDUmEH1Snp1HJLr8ac"
+        width: 850
+        height: 463
+        isCached: true
   - title: "Soul Machines and Microsoft to collaborate for AI products"
     excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."
     publishedDateTime: 2021-12-16T10:48:00Z
@@ -83,20 +97,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10647/img-Soul-Machine-partnership_940x443.jpg"
         width: 940
         height: 443
-        isCached: true
-  - title: "Artificial Intelligence in Platform as a Service Market Boosting the Growth Worldwide | AWS, IBM, Microsoft"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Platform as a Service Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-12-16T11:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-platform-service-market-boosting-ajay-jadhav"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 53
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFW5g3YrAl9Kg/article-cover_image-shrink_600_2000/0/1639652823920?e=1645056000&v=beta&t=FV1i87jt54kePXg8kuBU8cDLJnDUmEH1Snp1HJLr8ac"
-        width: 850
-        height: 463
         isCached: true
   - title: "AI Translation Market Is Booming Worldwide with Google, Facebook, Microsoft, Rozetta"
     excerpt: "A Latest intelligence report published by AMA Research with title AI Translation Market Outlook to 2026. The study presents Latest insights about acute features of the Global AI Translation market with detailed coverage on key factors such as growth drivers,"

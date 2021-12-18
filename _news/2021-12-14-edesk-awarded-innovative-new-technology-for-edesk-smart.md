@@ -50,6 +50,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Voice technology for the rest of the world"
+    excerpt: "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,"
+    publishedDateTime: 2021-12-17T17:58:00Z
+    webUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "zHkviNYUkz/YJb10eiA2VKsXQ7PBceEfPN5bPzqUnpStIlmFeNlhDOPpCHYJpSfemKUeBY7it9R0A3EuFSmgjsMR+MVbRJsiVDD3Jp4ARvAPmKbvWUrm1FnWVxhh0YGv8U9TAqQ3S3q+C93gmbeYdsHUp9CDtaNI+u/zWGFwrUP+eVKv/JRWAHvVM0nujZpsvNpE2pFlFQqWaOnIVQ8XTo4XIayJpRwNVYeC9/kZp9+71viaVC3KRAnYm+hZtH/e3bQXbBk6LAdcFITIukNq27ufS6KkETXf5wTtnfw/ONii+lYG9OvWKpKrH4U6a+3sfqoqciQRnCvmsa0l0i6nqwgEtD7f+4+PCRroxSID9vo=;yweFhHrky/ImrKbC8vNA3Q=="
 ---

@@ -108,20 +108,6 @@ related:
         width: 600
         height: 325
         isCached: true
-  - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
-    excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
-    publishedDateTime: 2021-12-13T14:04:00Z
-    webUrl: "https://www.loopinsight.com/2021/12/13/drive-around-san-jose-with-teslas-latest-full-self-driving-beta/"
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 54
-    images:
-      - url: "https://www.loopinsight.com/images/logo.png"
-        width: 520
-        height: 208
-        isCached: true
   - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
     excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
     publishedDateTime: 2021-12-16T14:32:00Z

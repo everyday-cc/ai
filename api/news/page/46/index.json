@@ -2,6 +2,110 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-11-artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data.md",
+      "title": "Artificial Intelligence In Healthcare Sector Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data",
+      "excerpt": "Global “Artificial Intelligence In Healthcare Sector Market\" is expected to grow at a steady growth during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-faang-leader-microsoft-is-banking-on-4-key-trends.md",
+      "title": "FAANG-Leader Microsoft Is Banking On 4 Key Trends",
+      "excerpt": "Azure’s strength in hybrid computing has made ... Mesh introduces 2D and 3D meetings with personalized avatars that use AI to imitate movements even when the camera is off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618dec1106ea61fcfc93c0c6%2F0x0.jpg",
+          "width": 1200,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
+      "publishedDateTime": "2021-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to.md",
       "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
       "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
@@ -1084,83 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-under-armour-selects-aws-as-its-preferred-cloud-provider-for-sap-environments.md",
-      "title": "Under Armour Selects AWS as Its Preferred Cloud Provider for SAP Environments",
-      "excerpt": "(NASDAQ: AMZN), announced that Under Armour, Inc. (NYSE: UA, UAA) has selected AWS as its preferred cloud provider for SAP to increase resilience, enhance security, and provide more significant insights across its business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211110005192/under-armour-selects-aws-as-its-preferred-cloud-provider-for-sap-environments",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211110005192/under-armour-selects-aws-as-its-preferred-cloud-provider-for-sap-environments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-scientists-create-artificial-neural-networks-that-detect-symmetry-and-patterns.md",
-      "title": "Scientists create artificial neural networks that detect symmetry and patterns",
-      "excerpt": "A rendering of an artificial neural network with a computer chip in the center A research team at Lehigh University, funded by the U.S. National Science Foundation, developed and effectively taught an artificial neural network to sense symmetry and structural similarities in materials and to create similarity projections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303877&org=NSF",
-      "originalUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303877&org=NSF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nsf.gov/news/mmg/media/images/neural_networks_f.jpg",
-          "width": 350,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nsf.gov",
-        "domain": "nsf.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

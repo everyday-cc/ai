@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
+    publishedDateTime: 2021-12-16T13:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=589401"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
 secured: "BDsqymXI71T5s4Gx8+7baV/YCZj6F3YN+e2k5xGSy7BvR2IirHKc4pwgWRet2os1BExp4/Rbn901/sM9e3emsJ8u3iQRpfGwmLWpuXkx63YahWzLwmcuXZ8JSrr0/Y0OaqQ1OJbD7SWCpcDxJoH2fepxQ57DpPqS7r+pew7u7Pvya6TRx1esB9G6j6VI/rNhUeVLf7XQuF3NASxWwZxakDviGNPchxeHF3ppbNdX7WpehMP37M/TfWhtzDfLRyH4Kso5FVwVGJDlZ2U3WCBjbEoYccHNvan1NgJE4riZo+TOc//8IpibhF1hCqXffu6g486WwvcoluyJH0HoP2YlKB1g3ib3K5wU6I50zsMy0a8=;38b/PaYGCpyt9oZa4hlF5w=="
 ---
 

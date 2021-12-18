@@ -69,22 +69,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Voice and Speech Recognition Market Size, Trends, Scope, Demand, Growth and Forecast 2021 to 2026"
-    excerpt: "The latest report by IMARC Group titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” finds that the global voice and speech recognition market reached a value of US$ 9."
-    publishedDateTime: 2021-12-13T13:24:00Z
-    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-trends-scope-demand-growth-and-forecast-2021-to-2026/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 46
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
     publishedDateTime: 2021-12-15T08:16:00Z
@@ -108,6 +92,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AGV Driverless Forklift Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027"
+    excerpt: "Global AGV Driverless Forklift Market Growth 2021-2027 is a study reported by MarketandResearch.biz that offers detailed coverage of the AGV Driverless Forklift industry worldwide. The regional section of the study has been segregated into 33 countries,"
+    publishedDateTime: 2021-12-13T20:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-agv-driverless-forklift-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2021-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

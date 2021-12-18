@@ -45,22 +45,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "A South Korean city will test facial recognition as a way to track the virus."
-    excerpt: "Officials hope the system can help reveal the movements of people who test positive and their interactions with others, making contact tracing easier."
-    publishedDateTime: 2021-12-13T14:16:00Z
-    webUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.html"
-    ampWebUrl: "https://www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/13/world/asia/south-korea-facial-recognition-coronavirus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2021/12/13/world/13virus-briefing-skorea-facial-recognition-sub/13virus-briefing-skorea-facial-recognition-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "S Korea to test AI-powered face recognition to track COVID-19 cases"
     excerpt: "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,"
     publishedDateTime: 2021-12-14T11:46:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/13_mon/img_1639399210184_127.jpg?"
         width: 1080
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence Predicts COVID-19 Patients Needing ICU Care"
-    excerpt: "To assist in allocating resources during the COVID-19 pandemic, artificial intelligence can identify patients likely requiring ICU care."
-    publishedDateTime: 2021-12-13T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-predicts-covid-19-patients-needing-icu-care"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
-    images:
-      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-538998185-67199ff8dd2aaa686fbbb8d60359499a.jpg"
-        width: 600
-        height: 345
         isCached: true
   - title: "AI To Help Predict The Use Of ICU Beds During Covid-19"
     excerpt: "The researchers at the University of Waterloo and DarwinAI have developed an AI to predict the necessity of ICU admission"
