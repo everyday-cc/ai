@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intema by MTS AI to Acquire AI Computer Vision Leader VisionLabs"
-    excerpt: "Intema by MTS AI, an AI subsidiary of Russia’s largest telecoms agency MTS PJSC (NYSE: MBT, MOEX: MTSS), is delighted to announce that the company has signed a definitive agreement to acquire a 100% stake in VisionLabs for approximately $100 Million,"
-    publishedDateTime: 2021-12-14T06:51:00Z
-    webUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.html"
-    ampWebUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
-    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
-    type: article
-    provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 54
 
 secured: "dOhLYQYI2ZSIgHwFsRvBGo6+GCjEyk99+oGXq8P3VZTqRvhdDsPqSdtwWoJhA8L71UXrAh+g39Q2PhrJLVhdmafkdT47zvt/AH8BSXmGQ2NO4ENgnTeP+8RD6cdIWhHz8F0uzFbaBT5jJgd2X13lLI9FT9cIAd8mrcI1q1Uam3M1WQZLkhNwReFbb6iA+IDSb/8B2IUMkb6ONAbEB5jTVhjGYtUJTnbMtdZZvqkhdNlMYNHAwfxDVthjBh3KfIrhwOaE6EpysbweUq/XDZwXoVTO35KFh719yVXf66qD/51e8VdkE8aGqEH+FBJFfKH3pb2C+9Zo+ZTXAkVslHY0wjfYTTysy0LznvB2pAAYrVs=;9oSeL2b7OKpPrbucZZ4prg=="
 ---

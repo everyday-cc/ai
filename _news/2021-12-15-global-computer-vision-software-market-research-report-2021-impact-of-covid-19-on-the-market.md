@@ -51,20 +51,6 @@ related:
         width: 1080
         height: 600
         isCached: true
-  - title: "AI To Help Predict The Use Of ICU Beds During Covid-19"
-    excerpt: "The researchers at the University of Waterloo and DarwinAI have developed an AI to predict the necessity of ICU admission"
-    publishedDateTime: 2021-12-14T06:18:00Z
-    webUrl: "https://analyticsindiamag.com/ai-to-help-predict-the-use-of-icu-beds-during-covid-19/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gettyimages-1214357163.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How has COVID accelerated use of AI for mental health?"
     excerpt: "TLDR Research on how AI can integrate itself into mental health treatment is in its early stages of development. While AI is not ready to be deployed as a sole treatment, NLP has shown promising results in tandem with other methods of treatment."
     publishedDateTime: 2021-12-16T00:18:00Z

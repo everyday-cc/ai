@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-
 cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The San Bernardino Sun
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning-Backed Planning of Rapid COVID-19 Tests With Autonomous Vehicles With Zero-Day Considerations"
-    excerpt: "The COVID-19 pandemic has stretched public health resources to the limits, and the only realistic way to keep the infection rates low is effective testing to prevent community transmission. In this research study,"
-    publishedDateTime: 2021-12-14T05:48:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9647946"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
   - title: "Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic with Deep Learning."
     excerpt: "Due to the COVID-19 pandemic, vaccine development and community vaccination studies are carried out all over the world. At this stage, the opposition to the vaccine seen in the society or the lack of trust in the developed vaccine is an important factor hampering vaccination activities."
     publishedDateTime: 2021-12-17T00:15:00Z

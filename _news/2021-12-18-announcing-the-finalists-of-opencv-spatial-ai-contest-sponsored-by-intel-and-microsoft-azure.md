@@ -7,7 +7,7 @@ originalUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-c
 webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft grabs Nuance as latest healthcare bet"
-    excerpt: "Microsoft is shelling out a hefty $19.7 billion for Nuance Communications, a pioneer in voice recognition and natural language understanding, to bolster its ambitions in the healthcare market. It marks the software giant’s second-largest acquisition after buying LinkedIn for $26 billion."
-    publishedDateTime: 2021-12-14T06:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/special-report/microsoft-grabs-nuance-as-latest-healthcare-bet-top-10-healthcare-m-a-deals-2021"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 56
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1638406789/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?VersionId=33ERd3mzgLR5Sz6wk4dubb9g0INLPxZg"
-        width: 884
-        height: 543
-        isCached: true
   - title: "Microsoft’s SpaceEye Uses AI to “See” Through Cloud Cover"
     excerpt: "A majority of Earth may be covered in pesky clouds, but SpaceEye gives researchers a pretty good idea of what's behind them."
     publishedDateTime: 2021-12-15T15:23:00Z

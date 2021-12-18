@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/9-semiconductor-th
 webUrl: "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "5G Spotlight #3: Metaverse, and 5G – A New Synergy for the Future"
-    excerpt: "In the third edition of 5G Spotlight, we dive into the virtual world of metaverse - the internet of the future, and how 5G will power it."
-    publishedDateTime: 2021-12-14T05:32:00Z
-    webUrl: "https://www.voicendata.com/5g-spotlight-metaverse-5g-new-synergy-future/"
-    ampWebUrl: "https://www.voicendata.com/5g-spotlight-metaverse-5g-new-synergy-future/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/5g-spotlight-metaverse-5g-new-synergy-future/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 24
 
 secured: "aRdtAVi8kP4u78DHQS1dSIf2j3jhW4YaZ23Ezhcf1bWiJz++hp81LhjOviL9V48GbRFl6XmrbColGoO434Yp0GqhPjbfP5X+CImEDssLVbhpIpiksJmM1TlOCmX5GBWjPQXCTGh4nVwNkr+F9G4jwR2jU8DS6g4X7k8o0CWCbdde91u4nl7sc0oFocNshbmUOwbMlZOms+qqRo0MYnuC7+9bJfz88OBlFxN+msd+wUjrSas67Afumt4fCTL5EYmU8QAyzWWfEudJWJ228gPBx01wtQvrYowHdewad0eW4MN9kD+crO2hNnoVaTFW6+ph8/XPZUjdvw9WYXcNEoSHWpi3MPK2sp6R6KcnXqe9NGZr0WCnVXHgg1FdvKeBgB+n6wQ5J2osW+Sg/TBvN779Gw1Juyyub0Jp+/Gud5XUnAARDg3N1ab5v2cVIVFEGpGShtkHhdj70j+STb3tKu+E6qxH/2nWA8dJuLh0wb3MKKIJmCqngS1yQl94V7RMzkzYmw83Q/tx4a2KqBSz2it3JQ==;9aUygB6s3A13IP62dlFfgg=="
 ---

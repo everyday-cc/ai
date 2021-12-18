@@ -61,20 +61,6 @@ related:
         width: 1080
         height: 600
         isCached: true
-  - title: "AI To Help Predict The Use Of ICU Beds During Covid-19"
-    excerpt: "The researchers at the University of Waterloo and DarwinAI have developed an AI to predict the necessity of ICU admission"
-    publishedDateTime: 2021-12-14T06:18:00Z
-    webUrl: "https://analyticsindiamag.com/ai-to-help-predict-the-use-of-icu-beds-during-covid-19/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gettyimages-1214357163.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
     excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"
     publishedDateTime: 2021-12-14T14:41:00Z

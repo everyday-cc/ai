@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acq
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intema by MTS AI to Acquire AI Computer Vision Leader VisionLabs"
-    excerpt: "Intema by MTS AI, an AI subsidiary of Russia’s largest telecoms agency MTS PJSC (NYSE: MBT, MOEX: MTSS), is delighted to announce that the company has signed a definitive agreement to acquire a 100% stake in VisionLabs for approximately $100 Million,"
-    publishedDateTime: 2021-12-14T06:51:00Z
-    webUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.html"
-    ampWebUrl: "https://www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
-    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Intema-by-MTS-AI-to-Acquire-AI-Computer-Vision-Leader-VisionLabs_a46222.amp.html"
-    type: article
-    provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 54
   - title: "MTS to acquire AI computer vision company VisionLabs"
     excerpt: "Russian operator MTS has has signed a definitive agreement to acquire the company VisionLabs for RUB 7 billion. The final deal amount is subject to future performance-based metrics of VisonLabs over the next three years."
     publishedDateTime: 2021-12-14T08:14:00Z
