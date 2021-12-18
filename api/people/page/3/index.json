@@ -50,7 +50,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-        "citations": 40731
+        "citations": 40744
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87"
@@ -86,7 +86,7 @@
       "bio": "CERN",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 198418
+        "citations": 199088
       },
       "affiliation": {
         "path": "",
@@ -120,7 +120,7 @@
       "bio": "student of computer science",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=uVsDGTUAAAAJ",
-        "citations": 258938
+        "citations": 259239
       },
       "affiliation": {
         "path": "",
@@ -153,7 +153,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 228633
+        "citations": 228826
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -192,7 +192,7 @@
       "website": "https://nickbostrom.com/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 20072
+        "citations": 20093
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
@@ -293,7 +293,7 @@
       "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 98519
+        "citations": 98595
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
@@ -321,7 +321,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 472995
+        "citations": 474073
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -437,7 +437,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 306199
+        "citations": 306351
       },
       "affiliation": {
         "path": "",
@@ -612,7 +612,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 133371
+        "citations": 133396
       },
       "affiliation": {
         "path": "",
@@ -657,14 +657,14 @@
       "twitter": {
         "username": "clmt",
         "url": "https://twitter.com/clmt",
-        "followers": 11002
+        "followers": 11001
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/clementfarabet"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9433
+        "citations": 9439
       },
       "affiliation": {
         "path": "",
@@ -701,7 +701,7 @@
       "twitter": {
         "username": "johnkrafcik",
         "url": "https://twitter.com/johnkrafcik",
-        "followers": 15977
+        "followers": 15976
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/johnkrafcik/"
@@ -738,7 +738,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27840
+        "followers": 27841
       },
       "topics": [
         "AI"
@@ -773,7 +773,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47761
+        "citations": 47777
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Harry_Shum"
@@ -822,14 +822,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14110
+        "followers": 14109
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 44858
+        "citations": 44975
       },
       "affiliation": {
         "path": "",
@@ -882,11 +882,11 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1522102
+        "followers": 1522113
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17949
+        "citations": 17962
       },
       "weibo": {
         "url": "https://www.weibo.com/kaifulee",
@@ -930,7 +930,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 49006
+        "followers": 49004
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -1000,7 +1000,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 243357
+        "followers": 243356
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
