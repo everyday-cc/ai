@@ -2,6 +2,179 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
+      "title": "Azure Machine Learning for Predictive and Analytical Work",
+      "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/ck_images/5br39kHV.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-trailer-top-stories-today.md",
+      "title": "Trailer: Top Stories Today",
+      "excerpt": "This is a trailer for Top Stories Today, an automated news digest from the FT, updated every weekday throughout the day, and read aloud by Microsoft Azure AI. Bringing you up to speed on the day ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/645b9f4e-87f8-42ae-8472-bd49c9b593a5",
+      "originalUrl": "https://www.ft.com/content/645b9f4e-87f8-42ae-8472-bd49c9b593a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F62cd5fc6-1a1d-413b-84e2-3d89332950fe?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-microsoft-worked-with-peloton-to-help-fitness-enthusiasts-who-are-deaf.md",
+      "title": "Microsoft worked with Peloton to help fitness enthusiasts who are deaf",
+      "excerpt": "In September 2021, Peloton added subtitles to live classes by utilizing Microsoft's Azure Cognitive Services speech-to-text and translation technology. Suresh Bathini, Peloton's vice president of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-worked-peloton-help-fitness-enthusiasts-who-are-deaf",
+      "originalUrl": "https://www.windowscentral.com/microsoft-worked-peloton-help-fitness-enthusiasts-who-are-deaf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/11/peloton-bike.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-worked-peloton-help-fitness-enthusiasts-who-are-deaf?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-worked-peloton-help-fitness-enthusiasts-who-are-deaf?amp",
+      "publishedDateTime": "2021-11-09T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub.md",
+      "title": "Global Demand for Technical Talent Transforms Mexico into Advanced Technology Development Hub",
+      "excerpt": "NDS Cognitive Labs, a leading digital transformation solutions provider serving the U.S., Latin America and Europe, announced today that NDS Technical Talent is now available to enterprises worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html",
+      "originalUrl": "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/2/6e/26e26558-38ef-11ec-94f9-ebf5308e1754/617c4caf79471.image.jpg?resize=1200%2C800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Citizen Tribune",
+        "domain": "citizentribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models.md",
       "title": "Nvidia launches Modulus, a framework for developing ‘physics-grounded’ AI models",
       "excerpt": "Nvidia's Modulus framework, announced at the company's fall 2021 GTC conference, enables companies to develop 'physics-grounded' AI models.",
@@ -1165,187 +1338,6 @@
         "name": "Le Lézard",
         "domain": "lelezard.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-microsoft-editor-receives-new-context-iq-to-improve-your-workflow.md",
-      "title": "Microsoft Editor receives new Context IQ to improve your workflow",
-      "excerpt": "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg",
-          "width": 700,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-azure-cosmos-db-htap-using-azure-synapse-link.md",
-      "title": "Azure Cosmos DB – HTAP using Azure Synapse Link",
-      "excerpt": "AutoML to develop a Regression/Classification/Time Series Forecasting model using the Azure Machine Learning linked service, and multi language support for advanced analytics using the Spark pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
-      "originalUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sqlroadie.files.wordpress.com/2021/10/image-2.png?w=1024",
-          "width": 1024,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-microsofts-new-azure-adopts-openais-gpt-3-language-technology.md",
-      "title": "Microsoft’s New Azure Adopts OpenAI’s GPT-3 Language Technology",
-      "excerpt": "Earlier today at the Ignite conference today, Microsoft announced that its users will now be able to experience the new",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/",
-      "originalUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/11/1_e7T3D8u2cOwU181uFZijpw.png",
-          "width": 1400,
-          "height": 955,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/?amp=1",
-      "publishedDateTime": "2021-11-02T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-a-sea-change-of-digitization-and-the-era-ahead.md",
-      "title": "A sea change of digitization and the era ahead",
-      "excerpt": "The following is an excerpt from my remarks at Microsoft Ignite this morning. Looking back there is no question that the past year-and-a-half has been a catalyst for real structural change in every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/sea-change-digitization-era-ahead-satya-nadella",
-      "originalUrl": "https://www.linkedin.com/pulse/sea-change-digitization-era-ahead-satya-nadella",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGeFNzf_8MBCw/article-cover_image-shrink_720_1280/0/1635806731873?e=1642636800&v=beta&t=bt7Zn-VHNQTeSN8OuCneoy9uaIySIQHuaB2xHz_dmpQ",
-          "width": 1280,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

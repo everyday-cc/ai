@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
-    excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
-    publishedDateTime: 2021-12-13T17:26:00Z
-    webUrl: "https://linuxgizmos.com/ai-box-pc-combines-a-10th-gen-cpu-dual-2-5gbe-and-dual-pcie-for-medical-analytics/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 13
   - title: "Like a ‘Car Check-Engine Light’: How PG&E Uses Data Analytics, Machine-Learning Algorithm to Predict Electric Maintenance Needs"
     excerpt: "A new machine-learning algorithm is helping PG&E detect early stages of wear and tear on its electric equipment so the utility can take preventive action and reduce risk on its system. \"Essentially, we're trying to create a car check-engine light."
     publishedDateTime: 2021-12-15T19:57:00Z

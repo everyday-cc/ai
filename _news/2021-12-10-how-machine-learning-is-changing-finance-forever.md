@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg"

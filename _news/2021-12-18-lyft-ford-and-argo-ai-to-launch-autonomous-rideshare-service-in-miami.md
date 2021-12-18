@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Lyft, Ford And Argo AI To Launch Autonomous Rideshare Service In Miami"
-excerpt: "Ride-hailing service Lyft Inc. (LYFT) has teamed up with with autonomous vehicle technology startup Argo AI and its Ford Motor Co."
-publishedDateTime: 2021-12-17T21:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami-1031054259"
-webUrl: "https://markets.businessinsider.com/news/stocks/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami-1031054259"
+excerpt: "Ride-hailing service Lyft Inc. (LYFT) has teamed up with with autonomous vehicle technology startup Argo AI and its Ford Motor Co. (F) to launch at least 1,000 self-driving vehicles on Lyft's ride-hailing network over the next five years,"
+publishedDateTime: 2021-12-17T20:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami"
+webUrl: "https://www.nasdaq.com/articles/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami"
+ampWebUrl: "https://www.nasdaq.com/articles/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/lyft-ford-and-argo-ai-to-launch-autonomous-rideshare-service-in-miami?amp"
 type: article
-quality: 47
-heat: 47
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-secured: "IT/PoYf0h0K7gNqRnG8iGd5n8LhyNuMSOYWw5iEQBsV523Vl5TJqu+Fu9+M2bOk4KvbLz2pkrQIUYi/Afavtnwiam33W/xEnBkXVH+VNK/kChWMrfoBnIKZSivFAxoAf7c658ao5VkP3DAXfYeW0+ShJce8DsI+IBTy5FmlVNmzU2Ojnv8zroKpkTW9e+QblJ2XU2e/R5Pnx7oHwkt2OMQnAsAtFJ6F3TheC2qP8jQelYNGi7WPJrJqixRiNlwBjm7ARsejmmaWL6N3GnDn80aWET9oDJ85dXgOtHkttrHVH8Zpst34jkOZFPZrMQmYVApsVKkA2iqhlaK2GzcwHqMBR+zm8KK7YQCRCvBkkpBY=;frzk2f5BFMnzvjJueDJBOA=="
+secured: "RHGCF3leLe1GIDoQDkNPIn1G7I1bsvZDLMNtaDfu0va6KN18pLhHN20c7DNwn3leVvpwvg55YwnZbkkPb+5aG4P/yMTPbit3L7QNgQOdiv8rLrZaW5wQWW02hCQXsbOxZGz/Or5jS3y3E1YH2f75w7Xvry4TnWpqK3bNMcAhYR4uiAhk4dYvtSiwvyW4aamA9n0ZzzxjMJ6IyzwTLWb0Id8UXvLS3oe+TCK273nGuea8J2MGExeuislBb76I02CXBZRHC+mttgfaeFMuNAzbdIuBcBjZ9nIojSmaEoy4VAXgqi7ElC+LbIyHDdTdU8wkHA+KMVTztyo++MewwJ1zMvPkJupcU5r6q2gtarEbk9s=;qvxkCwtDT6+gUOTmP5aMhg=="
 ---
 

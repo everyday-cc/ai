@@ -88,52 +88,6 @@ related:
         width: 600
         height: 345
         isCached: true
-  - title: "How facial recognition technology will be used to track positive Covid cases"
-    excerpt: "If you thought being asked to check into a cafe with your smartphone was “a step too far”, this new development in coronavirus tech might rustle your feathers."
-    publishedDateTime: 2021-12-13T08:15:00Z
-    webUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9"
-    ampWebUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 56
-    images:
-      - url: "https://content.api.news/v3/images/bin/79cca39fb87818408995242365d7a910"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
-    excerpt: "Other events along with the conference will include IEEE 5G Summit, Women in Technology, Industry Summit, Africa AI and IoT Challenge, Triple Helix Exhibition"
-    publishedDateTime: 2021-12-13T07:15:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Global_Conference_on_Artificial_Intelligence__Internet_of_Things_to_spot_light_on_life_after_COVID19-WAM20211212200110956/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20211212200110956/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211212200110956/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 41
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/180620130009QIRF.jpg"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "South Korea to test facial recognition to track Covid cases"
-    excerpt: "Human rights advocates and some South Korean lawmakers expressed concern over the use of facial recognition - Click the link for more details."
-    publishedDateTime: 2021-12-13T07:29:00Z
-    webUrl: "https://www.i24news.tv/en/news/technology/1639379665-south-korea-to-test-facial-recognition-to-track-covid-cases"
-    type: article
-    provider:
-      name: i24NEWS
-      domain: i24news.tv
-    quality: 39
-    images:
-      - url: "https://cdn.i24news.tv/uploads/d9/8d/79/6f/32/1f/ee/5c/34/e8/ec/7c/6b/f5/35/7e/d98d796f321fee5c34e8ec7c6bf5357e.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "South Korea to use facial recognition software to track Covid patients"
     excerpt: "Health authorities in South Korea have been accused of playing “Big Brother”, by using facial recognition programmes to track the movement of coronavirus patien"
     publishedDateTime: 2021-12-13T11:15:00Z

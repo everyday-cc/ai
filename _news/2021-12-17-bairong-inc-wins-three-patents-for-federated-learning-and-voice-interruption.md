@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Bairong Inc. Wins Three Patents for Federated Learning and Voice Interruption"
+    excerpt: "Innovating to develop a multi-scenario and mobile device anti-fraud solution BEIJING, Dec. 17, 2021 // -- Bairong Inc (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China,"
+    publishedDateTime: 2021-12-17T23:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=589869"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
 secured: "/JBVB51rSGNXJ9pPsdTkgHxYpjcBGU2Pxascn933cSHkeW+vd+Au2fS0jXJqCxCA8XByjKYoOTTX5A1kG79KotmnOCj78cTUqesY43zs6tnx/4tbxkz0HZCmEo9wff0FJx2RULqwuP8+YOH4VRJkpl+jBkYndK8F3wNXqNWuPlQPQxaagDcukQOqMv6ynkLw8mI0le6815cwTtByOrx5fB/5pFofF9Ig1KgQTvKrDPtL+dDJBaEkk6uH6rt3gefNOyN9TVEElfD4hdLkaqX6X70yEscCzJlpL0Go1ZUPWQ8X2p9EcKTLcVZDJARmkGBiZnNh86i5FKeTF7wB4dOh24yBeJWGkJhF6gyiz9ARBds=;BHN2n23rspt8pUsr4K/+ZQ=="
 ---
 

@@ -23,28 +23,6 @@ images:
     height: 322
     isCached: true
 
-related:
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
-    publishedDateTime: 2021-12-15T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "FMJuejwGhVTENP66v1X3sa8t6ORkbmwoVuHsXFdKwstUg5hgLO+r6za1deBKmNAt0bTX+V6y3KPaTYbsXn0VPb/cTmX+JRm/m4MOoUo84IKC5gMdnzj40na9vpTrKGL4SQJblkc9Pz1IcRmTVMGofPEsorosLBPoSM00wmCqKzz1QWdYXwAJRdye9B6zpWXmLvJDZ5fs3dtCbEy+GEzOefHGgoP+2JU7vwLdAfvTAsgnbO+voL7eH1MpG1ncn7QhsXZzFKyFwyD8tROpkxAzNLWa1FQkh68LzigcU7XzZnGrmw60kjwBE72Glb1d6hu3Sv+plJzMwXqwt8L0k4gJ0uI6DhwLy78KQvX0kSXGk3oNp0JXDyTWThU40xr6rFC2ks93/ZeF67MG1CiHtG6WwOuOKylLEvgkLH1fMMptOWFR5fk+k3eJm6VGyvHPyJYHvNP58Gk6WHSA5WGfIhEL5EsoNN9ak5H2vS4Fm0DxuL4xBzHbYpToJIirROYIYAjqcbb8l2x/0J9HmS0lifQl7w==;iHC584rQ5+45C96DSn9Peg=="
 ---
 

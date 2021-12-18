@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
-    excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
-    publishedDateTime: 2021-12-13T08:15:00Z
-    webUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/"
-    ampWebUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/12/Tesla-HERO-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
     excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
     publishedDateTime: 2021-12-15T15:05:00Z

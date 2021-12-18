@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
-publishedDateTime: 2021-12-08T19:23:00Z
-originalUrl: "https://www.metro.us/robotaxi-race-opens-up/"
-webUrl: "https://www.metro.us/robotaxi-race-opens-up/"
-ampWebUrl: "https://www.metro.us/robotaxi-race-opens-up/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/"
+excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
+publishedDateTime: 2021-12-08T19:49:00Z
+originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 type: article
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+    width: 1200
+    height: 676
     isCached: true
 
-secured: "47grW9d1QylrxCMAzJgQS+WjN7y2yF6QIWqe+8/p3xEHLJBo67wJW+HL3xDVHhx7BsqnAubuj6ABl/BXaXr6lKhK+yjgXbiGHOqRUxGdY+WcB2BFk59hFzvfwymAjCokwctykOBMhyPsWlIWurvqKvGgpP/7aap93hc4ondQbEUd70h8UVB8NB+3bMkOaSSi0f4iKh10i9C4DMsxu61GgC+LNBF6nxBLm/G304vAmpTUS6SM8yB/wiBebslVt6uxnhqFhV8GOj1MbQDd/vKeGVxz9dz/I1UWohZ8dtDBvA+TZNH9Dz3KaLqzJwVG/0IYe3ZYs4q7yNFehv0usKc3ejqX2YCBppHihpH9nQ92nNM=;5V1rryh68cnzaSKru6INKA=="
+secured: "D8EiKFcqaicnQUEZgKcALnmcBAbWhQB/Ys4FXHc27RdekIQd+q32AZ0PPLcCK+T6Qg9n+ipTPxW3t7EfFOlkCkKKtOUfOD07y/VdS7HsrEErYP19Xw32QX0w5KJXflJISKRsH++d7RXTyqgq+ppflRiQM7HIAtK/AjroLdkmxM+3+qLmHSZsANEn29oiCkbFoey5cVPh7Dl2GHhiYo6Jmin7wT4iSxANndtAqghDN0zTIjOUN0kqx076EliU6iazeP7v1eU6BkSsO/QRNdciULbUg/13lvQNodOEadS0T0DndfdF9CEKWrc4T1bBxduruF6/5U8iBZTCU1JQIK4KVODU9cucnToLkcgqD3AR+no=;q+YKzgMITMICS+dm71N7bA=="
 ---
 

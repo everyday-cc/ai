@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "AI Developer SenseTime Pulls Stock Sale Due to U.S. Sanctions"
+    excerpt: "The Hong Kong-based company SenseTime protests its inclusion on a U.S. sanctions list for supplying AI software to the Chinese surveillance state."
+    publishedDateTime: 2021-12-13T10:22:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/global-equity/ai-developer-sensetime-pulls-stock-sale-due-to-u-s-sanctions-15858865"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/509c96e5-3901-11e8-903c-f93462b03a68.png"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "hQnxQQxZdMzcxDJH3St/5IJMM+86QTyWt0ictInJ7mugm7gMjVb2k/XIJC2Qv0IgowqWhvfK4qJm47/vYHfPmum3Z+Q2KdQRXz2JK8F/rXXV2jzamKnwtQ+iL08RlHWeWUtN4KVdj/lelHjpZ6cRgV80C7nimfLkqOyctrA6fBKyJFoAaGcuiMDZaNykdozMGmKL+bvRPPDnGZt1kCocA5h+CDCHjN4qVDrvwE/ujn6tPC4ZIL+kE3YVE3JyziKzcO1b1GRQsPKxfU/M91p0KTqX2eYFQoNwTlOQCV7jTkFU6tTts5c/SqkWg/p8S6tuJfJ40VYrmzc7uFSSFx1zmBaO405qf684z1YZyfxsgcWlP43bV0+ZO7fmuOrf/glKNVLNEtFlJ19j75YtHqtcr6rJZz5BACEoH1OIE3xJtt29Pb6CL4GxXEQsIyRYkVIrtEfotJcXfVWUFgY56U8vmEwNhfztROiJK8rlBX5UaaBOEEJqOUzop11EUOZ+QLLC+E+jnx2g6RyihLFVfxOEjQ==;QlsVdWO+du0x1DlA+iZ3hg=="
 ---

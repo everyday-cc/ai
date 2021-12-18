@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Self-Driving Truck Company Aurora Launches Pilot With Uber Freight"
-excerpt: "Using autonomous trucks, carriers will be able to increase utilization of the truck and haul more goods more often between terminals, Aurora said. Human truck drivers are not allo"
-publishedDateTime: 2021-12-15T20:22:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-15/self-driving-truck-company-aurora-launches-pilot-with-uber-freight"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-12-15/self-driving-truck-company-aurora-launches-pilot-with-uber-freight"
+title: "Self-driving truck company Aurora launches pilot with Uber Freight"
+excerpt: "A Peterbilt 579 truck equipped with Aurora's self-driving system is seen at the company's terminal in Palmer, south of Dallas, Texas, U.S. September 23, 2021. REUTERS/Tina Bellon"
+publishedDateTime: 2021-12-15T20:15:00Z
+originalUrl: "https://www.reuters.com/news/picture/self-driving-truck-company-aurora-launch-idUSKBN2IU1MB"
+webUrl: "https://www.reuters.com/news/picture/self-driving-truck-company-aurora-launch-idUSKBN2IU1MB"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "D3v9pRJNUaOIZTl6DdJGrM0crjisVzLasO9atQfbvf2jxXsI0QEGpkK7VmX4AbzZIz/ZWW1ctnru4I1RZlS1/zzLsbVHUsYNZTH+GzUQbY8oVx7wmHT89szNwODWCwtzeVPyzExG8KDygh2tSRkAd4npUuYsdni+sGejtVRV2yEL6+yNtexVzvNfvFaQrPe9lEd73vZcOp3oQwXVMwJFwZHR3cGKdlUI438XFxyMKJz+1lhw1vrA2v2YLfLvDSQrdvoXRO7oMJsfdaD5deRNYseZJy7j8mQpT/j8th366Bf4iXk5NbrKNmsUbdW8MXreq8vVnvzpcCnWHZ4oOsCzqpeAp/Yh316IEve9fl+/rIks8Jvc+6UyFVsbaar1uSUFZpwIAukXm3e69u+MvZInltSBKoTKWc1SR/D+d9Uf4PXS2MUM3s8jLl3SaSJQe6XKbOi/uQTQtaj4kX7e9ZxXTiswI/4xdirYF0C74EQRedOnuWNfSsG56XyF03R7k/OBP0Xlpx/mbJBGC3e8r0QBrQ==;oqLKf5j4iPvAFY9i/PuSjw=="
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211215&t=2&i=1584834721&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHBE138"
+    width: 810
+    height: 607
+    isCached: true
+
+secured: "F+7gXKtITkZ/fH6LvL43eIBgnAhNZLU3tnOHnkdw89985LWQaETQYG233K+hb7kwJCMMwGiTMeGGRRJEnvps+LqyTAKt4bdUKHsLzWtl5sicTTELfw+JXOhi0qBvrDHsQBSTo20J0suwlU7cGSpuyt2IAilCDOFkNFP34GnU+l58fWDCtt3gCX4YoCCzoCeLTxB2MhGLMm8QMwgr0F6TIACcjmUjm0MgJzDTfeJleTyhY5t+sDsVGu02xWTqgGR4eZH+O4qGnuHXhjkA9O6gHgNAlkQHOjWjrH9QdqabeRk2c+MhI+cgzP02KFs5X4ndkqHtf+727+JKlR95MZGA8HD8RZR3eDPapxJGawbgCE4=;26XhIgM/Vl8SyqcIr66MCw=="
 ---
 

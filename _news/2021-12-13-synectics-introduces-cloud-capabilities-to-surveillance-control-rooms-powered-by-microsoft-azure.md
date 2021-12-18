@@ -3,8 +3,8 @@ category: news
 title: "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure"
 excerpt: "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the"
 publishedDateTime: 2021-12-13T14:23:00Z
-originalUrl: "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
+webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
 type: article
@@ -56,6 +56,6 @@ related:
         height: 543
         isCached: true
 
-secured: "3aFy8Y473yLjq8dVCU5rXm18Ps3InNLfYvV6e2nZOt+lRCF6uyPQlGQkyLaVHaQd2Ol4MOnbXNpG/s2GrBzOLq7QAuFSeNXueLIEujFsIQj8XFrQsQQEjGrKPXIg+KyvdYNZssn18VFYczrAeGWrzthPZC00ysZj8mcK31FWCo2VvgejuCyG+e+UWUQnfxlSmegq3qd1WA7nCWB6PLteWBAER3RrecdMA9D8BkeBbgu1EmX2SW6+eW7h3qHdxfPj6w/CGhgk3krknrhkEmqmaDHYQkBcMFiPucxFjXhpwH425h32LbIrCJH5piRpVzfwcf79uKBM2AZcdoMUavNctH8FF+ZLKYlnSntDSOxlXLn5S2AvFAw0rFvicsHtfyjwo5ytf6YtflAaPNvLNhl4JrdsLl4e3uqNinTcuA7zgIP3UvN/BvY9ZOj3uTYaqeC8za5iHAhEabLtxCdwJ7FqLMrU28ogRQIghynjNiPzKRKV2a5Xlii0bpOohOW3cKcHIoa7pWUugsmKrMcri9YOYQ==;51GX/OHZSFzt0ApfcWhZ/A=="
+secured: "LPtWlOSFnhJ45agW+BAw4jamCfaz9jQKTW9JhV1pLZ18zkyiAxInELKPU8doN6LqpbqPsZ4r2bsC3ytRabD2q38BvzP7kNvu6gf46CD12AxNkHD7kyWQ9edKyOV7231WwXLZ1C23pOnHrgAV7nC8Gzz3vAz3P9cqCFmRscUYpRsV2XRZl3XnZ3g2CPBwU68fgFejQx5m+WOpwloA64faRCQw2O1pwoDt9O0fOiVGOKdvkAm57JFfdragRXqE3JEryOq090bZHPPAnHaAN58ZXKN07yFfZ+zA0Rel0/005jtFuw8IvxCaMhp0UZCLF4wHj1Ehlgx22pdIsVLfAFQmnf4VJ5LFmE1fJXW+pCFgJDs=;3KcYVIOaaCvz05tT+quB5Q=="
 ---
 

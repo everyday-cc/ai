@@ -19,30 +19,113 @@ topics:
   - AI
 
 related:
-  - title: "Banks And Merchants Tap Behavioral Analytics, Deep Learning to Keep Holiday Fraud in Check"
-    excerpt: "Security-Driven Digital Transformation analyzes how the holiday eCommerce spending rush brings new security and fraud challenges."
-    publishedDateTime: 2021-12-14T09:03:00Z
-    webUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/"
-    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/banks-and-merchants-tap-behavioral-analytics-deep-learning-keep-holiday-fraud-in-check/amp/"
+  - title: "Live call analytics for your contact center with Amazon language AI services"
+    excerpt: "Your contact center connects your business to your community, enabling customers to order products, callers to request support, clients to make appointments, and much more. When calls go well, callers retain a positive image of your brand, and are likely to return and recommend you to others. And the"
+    publishedDateTime: 2021-12-18T00:47:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ecommerce-holiday-shopping-digital-fraud-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5911-image021.png"
+        width: 1066
+        height: 542
         isCached: true
-  - title: "Like a ‘Car Check-Engine Light’: How PG&E Uses Data Analytics, Machine-Learning Algorithm to Predict Electric Maintenance Needs"
-    excerpt: "A new machine-learning algorithm is helping PG&E detect early stages of wear and tear on its electric equipment so the utility can take preventive action and reduce risk on its system. \"Essentially, we're trying to create a car check-engine light."
-    publishedDateTime: 2021-12-15T19:57:00Z
-    webUrl: "https://www.publicnow.com/view/B068DC970292ED75AE142EDFF91C3657C3B4ADD5"
+  - title: "Post call analytics for your contact center with Amazon language AI services"
+    excerpt: "Your contact center connects your business to your community, enabling customers to order products, callers to request support, clients to make appointments, and much more. Each conversation with a caller is an opportunity to learn more about that caller’s needs, and how well those needs were addressed"
+    publishedDateTime: 2021-12-18T00:38:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/post-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5919-image032.png"
+        width: 857
+        height: 583
+        isCached: true
+  - title: "AWS launches AI for data analytics partner solutions"
+    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
+    publishedDateTime: 2021-12-14T07:19:00Z
+    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 54
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Business Analytics BPO Services Market"
+    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
+    publishedDateTime: 2021-12-16T09:58:00Z
+    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
+    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
+    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
+    publishedDateTime: 2021-12-15T12:28:00Z
+    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 41
+    images:
+      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
+  - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
+    excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
+    publishedDateTime: 2021-12-17T08:45:00Z
+    webUrl: "https://warontherocks.com/2021/12/more-than-math-toward-a-better-strategy-for-advanced-analytics/"
+    type: article
+    provider:
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 41
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2021/12/AI-analytics-dec.jpg"
+        width: 1330
+        height: 850
+        isCached: true
+  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
+    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
+    publishedDateTime: 2021-12-15T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
+  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
+    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
+    publishedDateTime: 2021-12-15T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "pswE8Wia1elZYP14iN/9ViaqNuinbV/5l3RE3pbDGcFaYy5j8qB5nVW1KibthsetlDrHRmAQAAfgs6kjTQJ+xf8fGT4Hnk+/ibGTD+e1eMSOrBHDB82qcJNgm/5kaKR2pBbHSLB1MX30DkD5MMD/Oz1kdsWgDKYMYvGN0FG802eBZxyc3P9jD3tliQBmX1mHtEDA4l7CJTQsN2TE2yWdezjaQK5qkHWUKr6GctwU+WvZVXlFrCVTx3s/aNoynuF+D8/QyKuh6SVXehioX3+gGUIqvpAsKjQK9MROEmOm/hQV9QsHUb1Lf32uNMGXO9z+8FQTlE2MueOCnEpOhzM0ngwNqdnMA98DezYRVhu9N23NFyy/O1/4otueUHvbsm/VI+VuaKehA2Jt3Z3PCZFTFIxOLTlhCga0DZo/DLEcalWrli27ExK03TQvzzVzQg3F60rUmLPaOQRDxtIqRFWe4gXU91nKTTJ0KCu0G4UJ3tJzzxcsI6L2aTrUlEoj3Tx/T/f/KraQs5kfHZm1a/puvQ==;8B10Semqs/GqeYU21eCQKA=="

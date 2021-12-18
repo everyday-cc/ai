@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Voice technology for the rest of the world"
-excerpt: "The growth of voice-enabled technology is not universal. For much of the world, technology remains frustratingly silent. The challenge is data. Voice assistants need thousands to millions of unique examples to recognize individual keywords like “light” or “off”."
-publishedDateTime: 2021-12-17T22:43:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/938432"
-webUrl: "https://www.eurekalert.org/news-releases/938432"
+excerpt: "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,"
+publishedDateTime: 2021-12-17T17:58:00Z
+originalUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+webUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "Why All Companies Must Explore The Role Of Ethics In Technology"
@@ -36,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IRwGoQ7iDWOXsnOi8g8wzrehd+/agnMJlkQhRbrmtow7rnci5tMq92dPANzofeox/d4FX+9bCyNu3JodbBqCmyXpq7Mb4SgKO8TckLQxenC/eSaSBic0xByBisO0FmwtyDsT4Cg197kXkfTtwBNe7SnmlVUE/ZiXjNy31yPNlWaZ5DlncIlPE9ek8PBzXbfyjruSxiSzVz7UcJuonboNm25L3rmKIDSY0QpOS/NCUl1hH94dZ1ze9m3vLXqolBQRsn053dGpgyt/pWYLIM0rQV+HpX9kiEBY2OOFilvI1/ql1Bz/0eUG5a+k1aLU3oVVPrYQqiDQGaEK/lLxoKYhQ1Q2XfvK87OSwADZptCkTp0=;MUi4YfmtRYt2uy0DIsj1Cg=="
+secured: "fMEx3vseywd2HH3xgw5kmO+4fepqkos7pl5BlRn3ans2ASWS1FWCiYy7tUOJqoPrIlaD49SkqAla+dfmbK2k5tNvWP0MWUcZ+EDxdNGVyVLBx22jtY3rrz35Yl55GOyfpIgcsZOwazEZe2nBDE72AJdCWww+nY/djCZh/1HtgmvGjUbltuENTSEmgpMGQKo983ZPRIIC7vC/qhaFF3es3kPoWI9TuRLaHXnRj5Wrin5rZSTXaeHlw/6JoMjf4d/PGb2DtRRpt7HgHtZcKs/SRWU4LSMhzbWj6B3Uerqir2qqMOOKjX1EZ3O5PXMAsmxK8j3dT6WOLzppaBDJQELNr8/qkMn1NX2P3eu6CmyCI4c=;ugHmR59ua0f8RtuzN7bOPQ=="
 ---
 

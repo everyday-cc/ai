@@ -28,7 +28,7 @@ related:
   - title: "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure"
     excerpt: "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the"
     publishedDateTime: 2021-12-13T14:23:00Z
-    webUrl: "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav"
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html"
     type: article
