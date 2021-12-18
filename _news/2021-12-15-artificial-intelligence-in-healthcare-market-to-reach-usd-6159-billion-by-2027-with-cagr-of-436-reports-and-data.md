@@ -35,6 +35,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
+    excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
+    publishedDateTime: 2021-12-14T10:08:00Z
+    webUrl: "https://www.wboc.com/story/45435814/global-self-driving-submarine-market-2021-top-companies-research-strategies-future-growth-and-geographical-regions-to-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "4JgtUdLGoaEBB5dH8xZmW0R2iNCqDq1y1O32C201MGPLaptzLK21vkVCbdfVD9uWZmOHfdCA8SNAms72qkamY2tVpi+BoB1QaTS2JDpkmrqdJdXqMhMRpcefg9p3n5r5RBXZsTJtHynlGcV1uEbiXJwmkM5Z2S182oAUMcdXMd4zzicr60y0R6beRe4piQf+7Pk1FmQVj8WWt/ir7Nz/IOVTcwHC8XY1lZFewZAnrj6oU306nK3hcg1QsC/KcYMTSdFVGiikNenUMC1IEfADdvjh1VAI/W87W+FlO26TRGCuuUysAjJCcQloI6xm9hFMIf/n73mYU3/tZVQ4QKk3MuXGoNki8IGKC1JjpVKxlnrTaV+j/huz4RdVjhWTjDDYekGiCcXM+WVHzFyuo7rOlMLWMy+74JedNOa1nWb7jwNFCoHR55DTF1LcEfUSaQBZAbWwH4p0rxArk+WXPaUvGmkKV954U7f6fBQbVbQCEDzqK0oKuksYJb4WWXIa37vPQAuhQepSU5cAbAnf3Dw2cw==;N+RLkzZLZlu7VavDNSGULQ=="
 ---

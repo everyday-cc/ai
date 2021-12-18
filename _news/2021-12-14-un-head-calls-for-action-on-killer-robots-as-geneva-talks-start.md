@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots
 cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "UN Chief Urges Action on ‘Killer Robots’ as Geneva Talks Open"
-    excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the UN talks have"
-    publishedDateTime: 2021-12-13T18:52:00Z
-    webUrl: "https://english.aawsat.com/home/article/3357466/un-chief-urges-action-‘killer-robots’-geneva-talks-open"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 39
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/12/13/un_chief_reuters.jpg?itok=gJRUqPq9"
-        width: 480
-        height: 316
-        isCached: true
   - title: "Biden Administration Rejects Calls to Ban Killer Robots While UN Urges Action"
     excerpt: "As human rights activists, backed by dozens of countries, call for an outright ban on the use of lethal autonomous weapons or “killer robots” ahead of"
     publishedDateTime: 2021-12-14T18:08:00Z

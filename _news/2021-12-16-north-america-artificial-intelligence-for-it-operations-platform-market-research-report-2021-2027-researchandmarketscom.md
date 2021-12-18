@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
+    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=588603"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "NxM8gTDDb2UqEH7U2PRMh6AjXStGkpABfMjiLkNrzpOSYDD4TUIqhtOscy/5OgYhN/uZypKMEemjlp7SZF8mzyWGgCw90GQoYacQWM3Ah9J01O3E+uzIvNeAoyn87L1y982x0Rc7nV5f1SewSC/RhPmQC6dC/AdTdBHfR0v4UzYZz1i6rtPg/Ltt/NEGicfXly4eKg2Z7da3ljrYtQZqB4AdijihjXTq+NoqfREq5TVdfjexp5pmDtlVe0kNQZf1fJIzGLG+WFZffbb7I1kQ145KwymVC44jh7j6yXUv0azLuvQL51+1bBDrpgF8poSlpDqirokXb8JHeLiUu7rDXsgiq57IUFJRE6HN0T2wsBc=;iP7aeWmjGggmQBwc+ChH0Q=="
 ---

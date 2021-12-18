@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
 type: article
 quality: 100
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEPR7DR_w61Aw/article-cover_image-shrink_720_1280/0/1639612335183?e=1645056000&v=beta&t=_VhZc_J0VlpkI3dMoYzuBaLgAwgfruip0ggHK6BH99M"
         width: 800
         height: 601
-        isCached: true
-  - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
-    excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
-    publishedDateTime: 2021-12-13T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202112/south-korea-launching-facial-recognition-cctv-pilot-to-trace-covid-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
         isCached: true
   - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
     excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"

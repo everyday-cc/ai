@@ -18,38 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Protecting Artificial Intelligence Inventions in Drug Development"
-    excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."
-    publishedDateTime: 2021-12-16T19:12:00Z
-    webUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-report/protecting-artificial-intelligence-inventions-in-drug-development/"
+  - title: "DroneBase Acquires AirProbe, a Leader in Artificial Intelligence for Solar Energy System Inspections"
+    excerpt: "DroneBase, the leader in intelligent aerial imaging, today announced that it has acquired India-based AirProbe, a leader in drone inspections of solar energy systems and AI-enabled analytics of solar inspection data."
+    publishedDateTime: 2021-12-15T12:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-asia-india-artificial-intelligence-7933de4f9a43be8e66aeac732bb92e3d"
     type: article
     provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://bioprocessintl.com/wp-content/uploads/2021/11/iStock-1195775373-1.jpg"
-        width: 875
-        height: 492
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-    excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ..."
-    publishedDateTime: 2021-12-16T13:43:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
+  - title: "Kedaara Acquires Majority Stake in GAVS Technologies, an AI-led digital transformation company focused on healthcare and other verticals"
+    excerpt: "Kedaara, a leading private equity firm, today announced the acquisition of a significant majority stake in GAVS Technologies Limited (GAVS). GAVS is an AI-led digital transformation company that focuses on differentiated managed services and product engineering in Healthcare,"
+    publishedDateTime: 2021-12-15T14:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kedaara-acquires-majority-stake-in-gavs-technologies-an-ai-led-digital-transformation-company-focused-on-healthcare-and-other-verticals-1031047466"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 23
-  - title: "Learning from previous research: Shedding a spotlight on development interventions supporting forcibly displaced populations"
-    excerpt: "This blog entry is part of a series that highlights insights from research for development policies and practices, supported by the Knowledge for Change Program (KCP). At the end of 2020, 82.4 million people were forcibly displaced worldwide,"
-    publishedDateTime: 2021-12-16T18:35:00Z
-    webUrl: "https://www.publicnow.com/view/E1C762A82A7A10C189E56707EB189B612A93B72A"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "wU6aItGvvwSrfPzaW1m3oDth6HtM4QfYOXbymuCIdBITHnZrGa3Il/SCYr5T/gJF5b+Xfq6fMSzBhXWuwH0577Elu9DzrOPRnMb+6W1c7RuD/BNesShzGuZq914BVbyyg0uJvztmBj917OhBbUvli+Os9X6k7RvT7zgO3togT0YB0c5ygAsdyZ69jt6cH+22cyyLG0dur+kinOqg9H9KY+J5Rq3ulrNJCZNqs1VmYeEY2+6Bh2uFl5gpltXRj+KZvSLiPdrdj/qOYIBh75KFTUMVb+6P5LH+DbeoGF8nHGgzUYOBUr06yMuFoOm09zNvAiwy1fEVkjYlubCZiAlUxjI/EL/tFLMrKXrgbXce0XE=;3cSybMkJ3hhlLTaYzLpBTQ=="
 ---

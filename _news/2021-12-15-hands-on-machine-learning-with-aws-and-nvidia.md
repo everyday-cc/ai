@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1087
         isCached: true
-  - title: "Lenovo Bulks up Its Edge Server Portfolio for AI"
-    excerpt: "Lenovo has released its ThinkEdge SE450, a GPU-laden device that is designed to fit in small places and run enterprises’ increasingly compute-hungry artificial intelligence (AI) workloads."
-    publishedDateTime: 2021-12-13T18:42:00Z
-    webUrl: "https://thenewstack.io/lenovo-bulks-up-its-edge-server-portfolio-for-ai/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/6747acec-thinkedgebg.png"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Nvidia brings AI perception to ROS developers"
     excerpt: "Nvidia brings AI perception to ROS developers December 16, 2021 by Mark Allinson Leave a Comment    Nvidia has unveiled initiativ"
     publishedDateTime: 2021-12-16T13:09:00Z

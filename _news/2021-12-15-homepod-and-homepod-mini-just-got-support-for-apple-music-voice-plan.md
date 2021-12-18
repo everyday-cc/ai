@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Apple Releases HomePod Software 15.2 With Apple Music Voice Plan Support"
-    excerpt: "Alongside iOS 15.2, Apple today released a new 15.2 software update for the HomePod and the HomePod mini. The HomePod 15.2 software adds"
-    publishedDateTime: 2021-12-13T17:08:00Z
-    webUrl: "https://www.macrumors.com/2021/12/13/apple-releases-homepod-15-2-software/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 23
-    images:
-      - url: "https://images.macrumors.com/t/cxAmU-TiSprFex_MVboPNJ9KWvs=/1600x/article-new/2021/02/HomePodandMini-feature-orange.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "7/SjdlEiO6JIMUcz6RenjpmEcTyI3fOJ7LXtuT1h+cefqHtTfhROtWkNtY+8LtP/eLNor2xxME3Far7nv54mfj6BawXS5g3BfxC4dfsdFPGdfYYLHTLdGNuyIepdvu6puQAc7yXKcj92NZAWhARjVFuzjd2nmsutM10rumOKS0gJ7F1eeO+BFMPLkKbfIFS9cIrbmb2zazCgHjZ0XdLEeuML4umLmEX9w0+7SPELrJAQINQ3RS3oSfUoTzYEVgshbjdsVIGdDxzZY0u/OMFCII5bMoe0uFruok/GSmDM4RJH0CGSSQ/A4x8B7cvqegocA29tBpgOKG2Oes1s3CPsXeLTqS+fjvf54Dr8S5OQV3U=;uWnAIycaMtXC6/ainkrJgw=="
 ---
 

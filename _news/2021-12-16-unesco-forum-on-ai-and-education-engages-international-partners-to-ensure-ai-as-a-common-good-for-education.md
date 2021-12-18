@@ -58,6 +58,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
+        isCached: true
   - title: "With artificial intelligence, common sense is uncommon"
     excerpt: "Common sense isn't common, especially when it comes to artificial intelligence. Computers struggle to make fine distinctions that people take for granted. This is why websites require you authenticate your humanity before logging in or making a purchase ..."
     publishedDateTime: 2021-12-17T12:50:00Z

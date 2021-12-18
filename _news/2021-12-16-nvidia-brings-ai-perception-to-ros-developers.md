@@ -48,20 +48,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 66
-  - title: "Lenovo Bulks up Its Edge Server Portfolio for AI"
-    excerpt: "Lenovo has released its ThinkEdge SE450, a GPU-laden device that is designed to fit in small places and run enterprises’ increasingly compute-hungry artificial intelligence (AI) workloads."
-    publishedDateTime: 2021-12-13T18:42:00Z
-    webUrl: "https://thenewstack.io/lenovo-bulks-up-its-edge-server-portfolio-for-ai/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/6747acec-thinkedgebg.png"
-        width: 650
-        height: 400
-        isCached: true
 
 secured: "nvDC1NPWih9Gd/RFqYBXkRTrnPo3mDYgXFj7rf4eRKmT7eprpWhCvGOVAXTtT1DKCE4peyg67TvoKx9vngA2ksdC2OQDMgXguzs+I/no6XupUrGu5LKeckbA3Q2HGbJXfERLqEEZJo7jCF5bCNW19Fu/n8PjvT3I9ayOkvmG+LzIep3RKS3cOGGaQKsgv3yJiAt358WCAj9+REFGe8z/pp5p5qteln6ox41dbJueh8DIIJKgRyd8A3ECSoqCNHgAS8XPyIhL+ZgApiZdutqmdNHVX811BUmItQw7e9mCamqK7/EtQGoSde/+M/aeP+WqWI79HGSpP/HHAWcHcw5b/MpJbwbfgvttS72jBxJ+hxK5qxN255gxqbM3ANzZ4aHQ5PYhMc+H77MT0aCz/4EIVrITZ3vNQvacgBDVLeibGJNSpvGkF7YmSXlTw2vT632AU8Yomo5iAxZdmiypp7xEqQHhxHNWl0n2e9XBNkJADGez8XZFUE8Hm//9YyXal4KJ0m9QWttgNs2cmLVhYT/7mw==;CJW9Q2W+d5LpKeOYMKxUdA=="
 ---

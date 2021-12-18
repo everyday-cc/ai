@@ -108,15 +108,6 @@ related:
         width: 1330
         height: 850
         isCached: true
-  - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
-    excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
-    publishedDateTime: 2021-12-13T17:26:00Z
-    webUrl: "https://linuxgizmos.com/ai-box-pc-combines-a-10th-gen-cpu-dual-2-5gbe-and-dual-pcie-for-medical-analytics/"
-    type: article
-    provider:
-      name: run Linux-based Opera TV
-      domain: linuxgizmos.com
-    quality: 13
   - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
     excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
     publishedDateTime: 2021-12-15T16:05:00Z

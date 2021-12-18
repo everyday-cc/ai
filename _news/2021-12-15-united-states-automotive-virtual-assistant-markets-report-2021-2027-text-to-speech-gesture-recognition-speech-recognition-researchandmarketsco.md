@@ -25,37 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+  - title: "Disinfection Robots Market Worth $2.79 billion by 2028 — Exclusive Report by Meticulous Research®"
+    excerpt: "According to a new market research report, \"Disinfection Robots Market by Type (UV Light, Disinfectant Sprayer,"
+    publishedDateTime: 2021-12-15T08:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24614919/disinfection-robots-market-worth-2-79-billion-by-2028-exclusive-report-by-meticulous-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24614919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614919"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
+    publishedDateTime: 2021-12-16T13:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=589401"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 12
-  - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
-    excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
-    publishedDateTime: 2021-12-14T10:08:00Z
-    webUrl: "https://www.wboc.com/story/45435814/global-self-driving-submarine-market-2021-top-companies-research-strategies-future-growth-and-geographical-regions-to-2027"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
     images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "bQ0DkYwj9psGzxQDF5t3IJ4C8GpVVgqbaf6Q3D3WDhHz3RLnnq6vehPNZaDLftZnCUzW2iQh+aeyiUwiu2uXsDY+nS5T2zi5aT/m2tCCSN4JYVJ7OxEDJEsF+Nlwiaosice+yHoC14USkmTi7v7g8E8LBt9dNyyBEz32BFgaMvYpRs5ydw/dveSNWvry87nzaNOOwV2J5o4Ck/QZk1S7s423UQCrJZR9MZpJMbIpjIJYLIxVDf03VFGi0GtgEEt6tQ8EUzPB44vlgEWoUYVCMII0IFsQbDImEPXVJkKPKGnEa5a3VJRrtooGORpS1i+c4WP3ykn7vuRdZAvcPgomrbI8G8Agdo5m55fzAyde8sI=;FELZ1iAngBO6HE4kNvlwdg=="

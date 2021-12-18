@@ -84,20 +84,6 @@ related:
         width: 800
         height: 601
         isCached: true
-  - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
-    excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
-    publishedDateTime: 2021-12-13T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202112/south-korea-launching-facial-recognition-cctv-pilot-to-trace-covid-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
-        isCached: true
   - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-14T21:12:00Z

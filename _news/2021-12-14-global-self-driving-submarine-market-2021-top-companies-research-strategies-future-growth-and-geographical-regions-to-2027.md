@@ -25,38 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
+    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
+    publishedDateTime: 2021-12-17T12:26:00Z
+    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
+    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
-  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
-    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-12-15T14:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=588603"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
+    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
+    publishedDateTime: 2021-12-15T09:46:00Z
+    webUrl: "https://www.medgadget.com/2021/12/artificial-intelligence-in-healthcare-market-to-reach-usd-61-59-billion-by-2027-with-cagr-of-43-6-reports-and-data.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 11
 
 secured: "/1toR2amXyQTSzViWx3OUxGBsaUsMt+CLhKyzD/apSbOdiPdAb2HrG0wLKnXpS59iEwpX2rLtofCinQtj90vLwjpk/nuIweFYdRPJVwWm3A1G+rhSGK5M3ORF2YX/02FgASv/fqPsuShiwGGfJCvAxe99aMB9QgWcpHLUICNF7JwIlirufizP4FjSkti1tsMcA4zQ7Ok0DJTlWIJ42lRyjxy6mDGLDoY+k7cgJXcP/d1jT7bZSL2viRtCbADAk71W+dSIyFmW9L6CkpzNiqN1oakp6YcFkCJfetL8a6L9BWPzKgu0Bh6Exgr36Rnlmg2Iu2Ux+UleAVscDonKUSCjlkV5a2zXGehSGhTFxWAFho=;wUuH6Nl7G30wt0Fub0tkSg=="
 ---

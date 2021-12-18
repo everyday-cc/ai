@@ -19,17 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Relevance AI raises $3m from Insight Partners to build a developer-first vector platform"
-    excerpt: "Relevance AI, the Australia based start-up founded in 2020, has introduced a powerful developer-first vector platform to help developers"
-    publishedDateTime: 2021-12-14T19:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24607415/relevance-ai-raises-3m-from-insight-partners-to-build-a-developer-first-vector-platform"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24607415"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24607415"
+  - title: "Continual raises $4M for its AI-powered data platform"
+    excerpt: "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,"
+    publishedDateTime: 2021-12-16T16:00:00Z
+    webUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680"
+        width: 680
+        height: 518
+        isCached: true
+  - title: "Continual raises $4M to help companies build continuously improving AI models"
+    excerpt: "New startup Continual Inc. secured a $4 million seed funding round on Thursday to support the rollout of its cloud service, which allows companies to build artificial intelligence models that improve over time."
+    publishedDateTime: 2021-12-17T21:37:00Z
+    webUrl: "https://siliconangle.com/2021/12/17/continual-raises-4m-help-companies-build-continuously-improving-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Continual.png"
+        width: 800
+        height: 448
+        isCached: true
 
 secured: "ML4Yan/bKcvl+O83PEd3MEYbPn7rL8aRGNKgvHE+IRftdiocc6X0OJXwAW+Batf6bjSCg97/QqcS0siGFRgOe68vPel560uMAB96Cc1RiQsLhvwtl6W0t+b0TdmxGkvUP1G18HXoWtqva5CBzbB9tg6GSTWIDJ8Dd7HDUz3eVsOHVGpO814pxKyqe7i5tfs12MDua2S7GF8xBR+kyD4xmQHvEboXY0xNBFLkwDp0d+YPDb5ZgAWLLuU56c8RUBxc3APdgxoaoyOQ5zLFqv8qovtQkzBWcMACIb0FGZSnYNcNe9sm9dZ794UGKpSfpauJOh1ybKX8j7V3E1ov5RuEFqznBpmnwMsncHANhfIWJc0=;MLk5ZX2D0btMtYs1xIACjw=="
 ---

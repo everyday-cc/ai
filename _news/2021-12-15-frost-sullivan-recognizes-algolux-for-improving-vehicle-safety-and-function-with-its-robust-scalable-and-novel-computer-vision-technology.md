@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-    excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
-    publishedDateTime: 2021-12-15T22:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+    excerpt: "(MENAFN- Frost & Sullivan) Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology Algolux's solutions improve ..."
+    publishedDateTime: 2021-12-16T06:02:00Z
+    webUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 4
     images:
-      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-        width: 1500
-        height: 785
+      - url: "https://menafn.com/updates/pr/2021-12/15/F&S_3092cimage_story.png"
+        width: 698
+        height: 360
         isCached: true
 
-secured: "PoIjhl1dZy93UXTrtyVLjG2PDzbKuBTWjG6anO8hxxmLnAsgzfgluOzXnj+vSeCorass6cm5+4wWB0tpxQ5yLdP0ohwpwFlI2Q4EUS7XEHdPMbF01yPjTjTtmF0kYaHXDwU0skrAxg5fFHFTyrKG7PzSiDfQde/Vkss3AgYLR325DUEbvk/pACkGZI4pdu1KoBRIKBhaKhBEiDOLFfYEpuF446kl5q6YCrcGAM/Rt9/wCz4hq2mC8gO4Hh7p2Q6p0lcYZ1X9gx77TWChj8f25rEi/PAyZqjh1ogOjqCxstudHciV3xRhzQUMZgMJUhtKgtT8H/QTeWXzIHqY3vxDVXUNsmMf7B7zqaWhehgTLjM=;K/G3Xp67WYIvZBUIi1FrNA=="
+secured: "TQ4sasLfoMa88BcDACvu5fRfsS296BNt8IX1FpGs5YboE3zrcEccKNh5O7H+YOzN9rIHe0OFxWQuyLQA3AZPOn+RZ2HLGhqtVbcQzrX6V0zQSLwrUEbfBsmXbmowYfQ3bFd8pyP7ORS4iu0tZiZ9jNfvYt0mbny5yFO4B/iCbabVu1M0j5C02ReDZMRmfYcqrNuj2HhDpTYfe687ECV7POqz+1kqn0EJbxBF21N4lbMwc5ettB63f4hCvH1nGXTJX2+xDfCzAoL9r0ofJX5mkxz33GVCJe3IN4uGP/1Q6hyb/Fqs3SqN0VNjHjy/503AYe0CGED22cmt6GylwKK6clIFCfIS6o3Nleoc99yEVXs=;fH/1KcRlLtP/9XKV9vmDnw=="
 ---
 

@@ -55,6 +55,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
+    excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"
+    publishedDateTime: 2021-12-14T06:06:00Z
+    webUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/"
+    ampWebUrl: "https://wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/oxford-researchers-asked-an-advanced-ai-whether-ai-could-ever-be-ethical-and-what-it-said-is-alarming/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 60
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/OrboGraph-Header-AI-Image_Web-ready_crop-1024x474-1.jpg"
+        width: 1024
+        height: 474
+        isCached: true
   - title: "UNESCO Forum on AI and Education engages International Partners to Ensure AI as a Common Good for Education"
     excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
     publishedDateTime: 2021-12-15T17:07:00Z

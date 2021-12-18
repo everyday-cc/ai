@@ -50,20 +50,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "UN Chief Urges Action on ‘Killer Robots’ as Geneva Talks Open"
-    excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the UN talks have"
-    publishedDateTime: 2021-12-13T18:52:00Z
-    webUrl: "https://english.aawsat.com/home/article/3357466/un-chief-urges-action-‘killer-robots’-geneva-talks-open"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 39
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/12/13/un_chief_reuters.jpg?itok=gJRUqPq9"
-        width: 480
-        height: 316
-        isCached: true
 
 secured: "bM0kP9lmQjn5MFUjcnPJd4HPaOe4eqD3BQoehyMHvKurFKeB3bBH0/bUR8UsGGf9syE+C/kODehIslBhHOuTro/BiRHq6dKCOjQpEN8vxm8F2G4OI9HMRGMGRcvG5QgPGyakVy1g/CoX2Fh+Ac3Hq9ESQBXF6s+QotSmU5EM6p/ROS/6pArcw30ANzR5WyFrSrh75hrC4r82jjvhDZ5DjMt7/Rq+Kg9Sm5wzXphpgQtIeVRJYNd3bxnR/uK5RD0GGuYTqP6Evgl+nzzTHshFR5Q6saeCCpsbDsX04sDNylvtw4uIP4I2RJPekHf+ZWfDp4YRvvj+DR+ke8T8auIsrBt39tmEXhedgq6RWWI+wLqJyq/gIkG/3TlxItlom1QxxUAoA7bZe19qQixlA2CP1O9+tN4T7+o15gEEW1vgICHQisc8iEyWSZrkI6l9u/9Y5EM59jCULdNRbRPyXmHlH4BItaCg55BzU/7NYxBu7j6yp7xiQy6UUdbxHQzy0V/VrBvbEvtLj3TWYcaKdQzOxw==;9DquqVjErrpjt6GhQlJUDQ=="
 ---
