@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/SoftBank2/SoftBank-unit-spreads-S
 webUrl: "https://asia.nikkei.com/Business/SoftBank2/SoftBank-unit-spreads-SenseTime-facial-recognition-tech-in-Japan"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tag: Facial recognition tech"
-    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
-    publishedDateTime: 2021-12-17T14:30:00Z
-    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
+  - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-12-15T10:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off-delays-ipo/"
     type: article
     provider:
-      name: NationofChange
-      domain: nationofchange.org
+      name: BetaKit
+      domain: betakit.com
     quality: 39
     images:
-      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
-        width: 291
-        height: 291
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/fintechs-banks-1.jpg"
+        width: 1050
+        height: 694
         isCached: true
+  - title: "SenseTime Delays Hong Kong IPO After US Investment Ban"
+    excerpt: "Chinese artificial intelligence company SenseTime Group Inc. on Monday told the Hong Kong stock exchange that it is indefinitely postponing an estimated $767 million initial public offering three days after it was placed on a U."
+    publishedDateTime: 2021-12-14T03:22:00Z
+    webUrl: "https://www.law360.com/technology/articles/1448107/sensetime-delays-hong-kong-ipo-after-us-investment-ban"
+    ampWebUrl: "https://www.law360.com/amp/articles/1448107"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1448107"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "tRnZhZXzoNdPxO798+qWTbNZtRTjsYPfmqqjMZv3wB6/PTGKPtmUdDhdm8joJdwuH2MefvFAikjZJWB4Opecl3CgyHolHyTlPpwuYdaFLyD2NzRKWCh9UY8v6ESOiQ6qeFLYhmVO1scAKGFmS2pyxirSGaQh2Bae3axsgWm7CQxMYIHQskjAb7CqJftgTugQUuDXi2Q82gwtEVreZbzqxjOB6UHikM115FdkPdnneLZXoJ8/s1QRztQXk9lt9BPlWretlwkn2YLl3LR9PIzC+mDAdu9f7obiPu6s8wou4GrQxP3dd7B6MwwpyNn9oN6QxHCmbVOIcNxssTOIiXKLrXpz242uV4QHqKp5cQEt98uBrA58HiD9zKUWZDPrd+rtedRimQdL5dns1G96Q87ef1LLZ/WCBOUP7rk8HsydRDBv10uQjSXZUaWc2s6ncq9sZwdiHdK7C3pyyLYeb/Ip1simOWkjHwSijP8F5bY7qh7nHDCUA2EmBDQg9u4/+JyHg0drMbCY77DWrqfpiyK6Lg==;g+/TQMZkcoqFm0OGEikg6w=="
 ---

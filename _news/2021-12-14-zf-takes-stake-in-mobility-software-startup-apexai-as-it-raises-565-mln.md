@@ -102,20 +102,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Xmachina-AI Inc. Closes $2.4 Million in Funding on Over Subscribed Seed Round"
-    excerpt: "Xmachina-AI Inc. (\"Xmachina\" or the \"Company\") is pleased to announce the successful closing of the Company's seed round. Initially slated for $2 million, the seed round was over-subscribed by 20% to just over $2."
-    publishedDateTime: 2021-12-13T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20152636.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "ZF takes stake in mobility software startup Apex.AI as it raises $56.5 million"
     excerpt: "Germany’s ZF Friedrichshafen, one of the world’s largest suppliers of auto parts, has acquired a 5% stake in Silicon Valley mobility software startup Apex.AI in a fundraising round led by investment firm Orillion."
     publishedDateTime: 2021-12-14T11:10:00Z

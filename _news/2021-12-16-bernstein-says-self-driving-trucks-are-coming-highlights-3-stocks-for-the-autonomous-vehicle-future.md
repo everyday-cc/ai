@@ -105,22 +105,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Autonomous future: Self-driving taxis under trial in UAE"
-    excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
-    publishedDateTime: 2021-12-13T11:07:00Z
-    webUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae"
-    ampWebUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 44
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/13/thumbs/800x531/166958.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
   - title: "Apple Patent Details Exterior Lighting, Warning Systems for Self-Driving Cars"
     excerpt: "The US Patent & Trademark Office (USPTO) has today published a newly granted Apple patent titled “Exterior Lighting and Warning System,” that details controls used in steering, braking, and accelerating an autonomous vehicle (via Patently Apple )."
     publishedDateTime: 2021-12-16T18:54:00Z

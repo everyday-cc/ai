@@ -112,20 +112,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Xmachina-AI Inc. Closes $2.4 Million in Funding on Over Subscribed Seed Round"
-    excerpt: "Xmachina-AI Inc. (\"Xmachina\" or the \"Company\") is pleased to announce the successful closing of the Company's seed round. Initially slated for $2 million, the seed round was over-subscribed by 20% to just over $2."
-    publishedDateTime: 2021-12-13T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20152636.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
     excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
     publishedDateTime: 2021-12-16T15:06:00Z

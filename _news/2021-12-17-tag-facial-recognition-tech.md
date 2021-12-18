@@ -25,20 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank unit spreads SenseTime facial recognition tech in Japan"
-    excerpt: "Use of Chinese artificial intelligence developer SenseTime Group's facial recognition technology is quietly on the rise in Japan, thanks to crucial support from affiliates of SoftBank Group."
-    publishedDateTime: 2021-12-15T07:38:00Z
-    webUrl: "https://asia.nikkei.com/Business/SoftBank2/SoftBank-unit-spreads-SenseTime-facial-recognition-tech-in-Japan"
+  - title: "Worcester bans city use of facial recognition technology"
+    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
+    publishedDateTime: 2021-12-15T13:52:00Z
+    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
+      name: Omaha.com
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F3%252F6%252F6%252F37916633-1-eng-GB%252FMYK_6146re.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Worcester bans city use of facial recognition technology"
+    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
+    publishedDateTime: 2021-12-15T18:10:00Z
+    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 39
+  - title: "Worcester bans use of controversial facial recognition technology"
+    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
+    publishedDateTime: 2021-12-15T21:27:00Z
+    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
+    type: article
+    provider:
+      name: WGBH
+      domain: wgbh.org
+    quality: 39
+    images:
+      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
+    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
+    publishedDateTime: 2021-12-14T18:02:00Z
+    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 32
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Another major Massachusetts city votes to ban facial recognition"
+    excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
+    publishedDateTime: 2021-12-16T17:02:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 19
 
 secured: "hQnxQQxZdMzcxDJH3St/5IJMM+86QTyWt0ictInJ7mugm7gMjVb2k/XIJC2Qv0IgowqWhvfK4qJm47/vYHfPmum3Z+Q2KdQRXz2JK8F/rXXV2jzamKnwtQ+iL08RlHWeWUtN4KVdj/lelHjpZ6cRgV80C7nimfLkqOyctrA6fBKyJFoAaGcuiMDZaNykdozMGmKL+bvRPPDnGZt1kCocA5h+CDCHjN4qVDrvwE/ujn6tPC4ZIL+kE3YVE3JyziKzcO1b1GRQsPKxfU/M91p0KTqX2eYFQoNwTlOQCV7jTkFU6tTts5c/SqkWg/p8S6tuJfJ40VYrmzc7uFSSFx1zmBaO405qf684z1YZyfxsgcWlP43bV0+ZO7fmuOrf/glKNVLNEtFlJ19j75YtHqtcr6rJZz5BACEoH1OIE3xJtt29Pb6CL4GxXEQsIyRYkVIrtEfotJcXfVWUFgY56U8vmEwNhfztROiJK8rlBX5UaaBOEEJqOUzop11EUOZ+QLLC+E+jnx2g6RyihLFVfxOEjQ==;QlsVdWO+du0x1DlA+iZ3hg=="
 ---

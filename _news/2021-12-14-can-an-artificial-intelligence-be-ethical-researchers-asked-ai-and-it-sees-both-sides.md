@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/can-an-artificial-intelligenc
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
-    excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"
-    publishedDateTime: 2021-12-13T12:00:00Z
-    webUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical"
-    ampWebUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
-    type: article
-    provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 72
-    images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg"
-        width: 823
-        height: 549
         isCached: true
   - title: "Oxford Researchers Asked An Advanced AI Whether AI Could Ever Be Ethical, And What It Said Is Alarming"
     excerpt: "Advertisement Is artificial intelligence a good thing or a bad thing? Business School students in Oxford wanted to solve the question by conversing with real artificial intelligence. An interesting scenario in which a group of Oxford scholars staged a discussion about the ethical codes of automated artificial intelligence stock trading and facial recognition software was"

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban"
-    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings."
-    publishedDateTime: 2021-12-13T11:12:00Z
-    webUrl: "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
-    ampWebUrl: "https://www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 52
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2021-12-15T10:30:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/fintechs-banks-1.jpg"
         width: 1050
         height: 694
+        isCached: true
+  - title: "SoftBank unit spreads SenseTime facial recognition tech in Japan"
+    excerpt: "Use of Chinese artificial intelligence developer SenseTime Group's facial recognition technology is quietly on the rise in Japan, thanks to crucial support from affiliates of SoftBank Group."
+    publishedDateTime: 2021-12-15T07:38:00Z
+    webUrl: "https://asia.nikkei.com/Business/SoftBank2/SoftBank-unit-spreads-SenseTime-facial-recognition-tech-in-Japan"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F3%252F6%252F6%252F37916633-1-eng-GB%252FMYK_6146re.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "4bcYmZAvXYoCpW4Vkxc19jR9Eo5Y/+6OGoFvMA/WifynIdThHnBNRImdkecf5/OZN3xtE+86R0sxbJBBvSVRwZDyH3rfSgqRAu3dIJntPGBuScjgfhooeKL16WfVWu2oFRcn759/UUimXuQghjwBo+UaWcnAYIyAD0EV0fOnpiZu7idKI71BISLjcRuDmE8VBKYpeDjuQw1aLi0NH6ujfwDcfJKjpU/AFlcMfkU/QRivLl5XSr1IXQDGOFhzkBVtiAyTsOXX8dhhiTW9vZysi2ZW70jCIRStIvYPGI9uE5L2Yt+ecij4+TgGh6f9OOThc9gfU/f3MBmdCNI5KHgh3grrqgdb/Ke8bWqjY8o1uCg=;gjJp5cA5gFbG18oyI4vZsA=="

@@ -89,20 +89,6 @@ related:
         width: 600
         height: 345
         isCached: true
-  - title: "South Korea to use facial recognition software to track Covid patients"
-    excerpt: "Health authorities in South Korea have been accused of playing “Big Brother”, by using facial recognition programmes to track the movement of coronavirus patien"
-    publishedDateTime: 2021-12-13T11:15:00Z
-    webUrl: "https://www.thetimes.co.uk/article/south-korea-to-use-facial-recognition-software-to-track-covid-patients-gk56vlkbw"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa2b23dba-5c04-11ec-9cd9-b6f698a4b9a5.jpg?crop=4652%2C2617%2C0%2C242&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How has COVID accelerated use of AI for mental health?"
     excerpt: "TLDR Research on how AI can integrate itself into mental health treatment is in its early stages of development. While AI is not ready to be deployed as a sole treatment, NLP has shown promising results in tandem with other methods of treatment."
     publishedDateTime: 2021-12-16T00:18:00Z

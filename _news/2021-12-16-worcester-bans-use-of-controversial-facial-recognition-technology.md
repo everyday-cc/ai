@@ -50,6 +50,20 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 39
+  - title: "Tag: Facial recognition tech"
+    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
+    publishedDateTime: 2021-12-17T14:30:00Z
+    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
+    type: article
+    provider:
+      name: NationofChange
+      domain: nationofchange.org
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
+        width: 291
+        height: 291
+        isCached: true
   - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
     excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
     publishedDateTime: 2021-12-14T18:02:00Z

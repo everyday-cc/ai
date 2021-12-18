@@ -42,22 +42,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "UK regulator to look at Microsoft takeover bid for AI firm Nuance"
-    excerpt: "Competition and Markets Authority to assess proposed move for Massachusetts-based company"
-    publishedDateTime: 2021-12-13T13:00:00Z
-    webUrl: "https://www.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/dec/13/uk-regulator-to-look-at-microsoft-takeover-bid-for-ai-firm-nuance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/5d9d1902665cb88b0b6613e1b370abc19ed64bf3/0_226_3888_2333/master/3888.jpg?width=620&quality=85&auto=format&fit=max&s=2994d96712d366010202874a53cc097d"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Artificial Intelligence in Accounting Market to Witness Massive Growth by Microsoft, AWS, Xero"
     excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Accounting Market Insights, to 2026” with 232"
     publishedDateTime: 2021-12-14T10:44:00Z
@@ -99,6 +83,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Platform as a Service Market Boosting the Growth Worldwide | AWS, IBM, Microsoft"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Platform as a Service Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-12-16T11:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-platform-service-market-boosting-ajay-jadhav"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 53
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFW5g3YrAl9Kg/article-cover_image-shrink_600_2000/0/1639652823920?e=1645056000&v=beta&t=FV1i87jt54kePXg8kuBU8cDLJnDUmEH1Snp1HJLr8ac"
+        width: 850
+        height: 463
         isCached: true
   - title: "AI Translation Market Is Booming Worldwide with Google, Facebook, Microsoft, Rozetta"
     excerpt: "A Latest intelligence report published by AMA Research with title AI Translation Market Outlook to 2026. The study presents Latest insights about acute features of the Global AI Translation market with detailed coverage on key factors such as growth drivers,"

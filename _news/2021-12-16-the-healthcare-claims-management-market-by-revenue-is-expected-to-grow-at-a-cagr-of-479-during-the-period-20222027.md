@@ -81,20 +81,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2022 | Trends, Growth, Size, Opportunities and Forecast 2027"
-    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ XX Billion in 2021."
-    publishedDateTime: 2021-12-13T12:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/machine-learning-service-mlaas-market-2022-trends-growth-harsh-mishra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHD0eDhn6LBdw/article-cover_image-shrink_600_2000/0/1639398780619?e=1645056000&v=beta&t=-oeCSjJ_7iuQ0ZOfNEm86wlZLPWFvSnBljTrVhPiWlI"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
     publishedDateTime: 2021-12-15T08:16:00Z

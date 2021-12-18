@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 549
     isCached: true
 
-secured: "TweuPPlOzviN+Q9oagy/ECIhw6PIf0L5mgJYBtv/dRJQXYchTWn8C6KX+UdDKy4mHINla4hL+uIARFHWdqXG3+pbNzVtnwOrwJKEF/BeidHvgMjVJL8fZZ/MAcHxljcCQro5SCaduK69xXB7vGn/uDqtRiXmoH0gzOk/hTSVRpDtcvdwDy3hmo29/esxzYRhzgSOu8QXKigO+DeuGROKcTCvEwmnq5mtsTLLmL+Gl97Bhejz4lbxxUIxbN7unpN/E1SKQpL6vov9+a0a+HU7DdeRtCRrupVQdO+jRGg3/S36+caqOc+C3Wq2QJrcEpN1u0C2tb1ch/4vYll+OXbAEyizROSN3wIK2M7kGOACbK4=;AN6GcThJPCNFD6pBYJPe6A=="
+secured: "w8DCGjraslB2pkQTziDQei8/TJxJW2LM9bIxU1ucyjJlpb/EXh5L7usvkHvAhgQ4I0uWKGYfznSZMm3PoelSE2bllj+aMpOh7HWR+zM4Erxx5K57f5vEt8JzGczhkaYlZx0w8+x3C+y7iTpvSwrsWp9LVkEAD7KK723S5dOfcbMnvC9d2nt4+n9wMPFxTkl5d/xTSw0wTE9DrvcV+6EcWbCBj7a/ieBEtDvDapvTV/fohbqOBIK5Q61zmgmiU9qBBi7BJ9bKXhnSAnf0bm5/EU8x7Ky35txeCeRu3Wyc61N6d3SxsGLImNfczZrtzbgbV9/e2+Ci2nw6OzaRcsVAxRXsW7YwKGsQPZf/yZqVrsWBZajgMIUb+OTFGwcBN6CWLvzYWfck5VSX0kqnxG7143ygBrqtYL7zEN4+9f0IFE8fJFkyWe7Hw5USGUkLnc4w8+AsBjcvQ7AzWAdvTGnYYKpiCHI3jgqpN8AbCzVbzCDzvV6ET5beAY/EYKolcnpROMgIj3RtJLQFK+7+jM3sGA==;Dfs3LVdqjzTl2edP1s1K/g=="
 ---
 

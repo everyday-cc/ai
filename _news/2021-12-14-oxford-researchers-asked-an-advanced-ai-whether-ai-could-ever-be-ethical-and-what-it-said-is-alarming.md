@@ -60,22 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "An AI trained on Reddit has warned researchers that it’ll never be ethical"
-    excerpt: "An artificial intelligence tool trained on Reddit discourse, Wikipedia entries, and 63 million news articles has warned its researchers that it will never be ethical. The Megatron Transformer, developed by the Applied Deep Learning Research team at US technology company Nvidia,"
-    publishedDateTime: 2021-12-13T12:00:00Z
-    webUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical"
-    ampWebUrl: "https://www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/55046/1/an-ai-trained-on-reddit-has-warned-researchers-that-it-will-never-be-ethical?amp=1"
-    type: article
-    provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 72
-    images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/823/48-0-823-549/azure/dazed-prod/1310/7/1317708.jpg"
-        width: 823
-        height: 549
-        isCached: true
 
 secured: "YzFJqmxpVk5nkp9IIWLAe1xFv4u/OQgnY6YP1geBsLCq0An+0owgoDACffseBpR8ilM+04SpFAGFN+ExKyaN4kGh37excElDFc9ONvULklEXWIlC1a3CulhYSBAVEef101OtVB1788VweHSfSibM0J+R9zzRRknpxIbSYR6kCZekwXr1QKKJCLsR4OHFFavQajw9NhgnsYQ76bjzlMBnI59piCb7495SBBPcNGQ9Y/P0pTasxzYJrjteEQICSe5kl9qUHqM/Z9ka/1sLUA1rVM03DHGDq2oAxt4Oc/eGdyPk2oUPY5vnGtKF92Xlsq26WVd8syFKOSnlEZ9HrNsybkDoFETzbcaT4R2rCzIpXCWavj9Rs8iBRYXxqzsTQb6fXcjuqNgtGJYzD+blqWOfzMt6dmEMhZLRcgTC+OavhukJ766FiEhiB5OkAI6lG7tpXRI4ZMjll5zvsKXxujhorT0QfAB7dqtD1gnSgZm5zbZ12lbzCt+PtuBA1CrZ+WsSOnIUxhWneWtoZQTqWG/S4w==;j6AWGB6xe6V9unZ4WTlopA=="
 ---

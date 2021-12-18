@@ -44,22 +44,6 @@ related:
         width: 3942
         height: 5905
         isCached: true
-  - title: "Famed Robot-Run ETF Buys Back Into Tesla Heavily After Booking Profits Earlier — Here Are Its Other Bets"
-    excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF AMOM, an exchange-traded fund driven by artificial intelligence, has acquired new stakes in Tesla Inc. TSLA, Netflix Inc. NFLX and Autodesk Inc. ADSK, while entirely divesting its holdings in Intel Corp."
-    publishedDateTime: 2021-12-13T12:14:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24564217/famed-robot-run-etf-buys-back-into-tesla-heavily-after-booking-profits-earlier-here-are-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24564217"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564217"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tech-nick-kpuqosfthag-unsplash_9.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "XwLG4Q3LTdn+7gJ8O9Qfu+QL1lhuKdJrWG5V/Y41i8Y1GorIslPRJ2ARYCZdI8CuaqypyOQeNVAyKTexE7aeD4xAXvc6HYz397rI1YRfq5FRBc9s67QCaSD4dCf87aO4UMToGP2xUCJfSdgB+mZOQ9xG+eSpamZA3IIn1FlH0l9siLUw2t3WdkfOdVrzMoESMr/Ysvr8ZUYaFPVkBWmAnKatV9vMbfkZ2Xheeoht1RWFe75eVk3V5uKVy5BXyLlnw9rMYxDXU6ZAE4a4Zn1j/1pofqgaf0qFQoBJ/jhPjSRI2cXCgumJms37HMA28bbMNVte+e9wAyGu06abxEbn86JlhMCbo9mcHdPYUCH4rLA=;6a5PmjDmU3h3//0gskMXOg=="
 ---

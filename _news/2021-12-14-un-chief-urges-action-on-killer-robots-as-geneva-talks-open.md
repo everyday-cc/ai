@@ -41,15 +41,6 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "U.N. Chief Urges Action on 'Killer Robots' as Geneva Talks Open"
-    excerpt: "United Nations Secretary-General Antonio Guterres called on Monday for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva. Negotiators at the U.N. talks have for eight years been discussing limits on lethal autonomous weapons,"
-    publishedDateTime: 2021-12-13T12:50:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-12-13/u-n-chief-urges-action-on-killer-robots-as-geneva-talks-open"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "U.N. Talks Adjourn Without Deal to Regulate 'Killer Robots'"
     excerpt: "Countries taking part in U.N. talks on autonomous weapons stopped short of launching negotiations on an international treaty to govern their use, instead agreeing merely to continue discussions. The International Committee of the Red Cross and several NGOs had been pushing for negotiators to begin work on an international treaty that would establish legally-binding new rules on the machine-operated weapons."
     publishedDateTime: 2021-12-17T18:05:00Z

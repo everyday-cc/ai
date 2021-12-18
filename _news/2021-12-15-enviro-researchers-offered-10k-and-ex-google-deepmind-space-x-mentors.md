@@ -7,7 +7,7 @@ originalUrl: "https://www.fenews.co.uk/education/enviro-researchers-offered-10k-
 webUrl: "https://www.fenews.co.uk/education/enviro-researchers-offered-10k-and-ex-google-deepmind-space-x-mentors/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 822
     isCached: true
-
-related:
-  - title: "Move Over GPT-3, DeepMind’s Gopher Is Here"
-    excerpt: "DeepMind has introduced a 280 billion parameter transformer language model called Gopher DeepMind’s research went on to say that Gopher almost halves the accuracy gap from GPT-3 to human expert performance and exceeds forecaster expectations."
-    publishedDateTime: 2021-12-13T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/move-over-gpt-3-deepminds-gopher-is-here/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/gopher.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "aKZ81LYol/yJY8/Jv4O/UhjaDd1a6AdifMtGrPNO7F2maKu1vlmOr5lIM9/oVHjErX4nPpzpPcyWMQSmDLrNbYXdeNdEknCzfNKeq4MhU50u98ZRW1zIkT1sN6kx1Y8LMWKocr2yLYAW7T/5CU+AqcCh9HfSmdOu3/+SVq5G+3iaPyLPGRxnKVN77vE2dVhckBHf59C5noJB8lP7iUrMnUl1QJObvKTSajIOtWHeq1MxseLa8Vn7weXQXl7J5bEI5AS17NpdPaLeEmLcMkSPR4wNwN11o2ucxxmBjzzrlHNbogBjRS2olFpo2aUkZmUEHgp3r27e6d8VDstoM2TYeG6CeG3K3mq04h6z0+JhnZt0nnG9riLfo9uvSZpGQpYguQXL997hdIHDegMCycxNpga8R0glLjZOLM6woE+Pd6+D4nfdJIdo6gkX79coTJzXnJIHcmQCs6MEOvy6Zs1Qn2Era6HQEDoS+DKivc5yknM9VjkCh/VZsVCZjV0rFM/0Vei1mXOJtyTeCvJqwcsxXA==;b8hTlE8kVi0kWET+DM/UqA=="
 ---

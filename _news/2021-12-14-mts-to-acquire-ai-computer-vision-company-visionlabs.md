@@ -60,15 +60,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "MTS to Acquire AI Computer Vision Leader VisionLabs"
-    excerpt: "As a result of the deal, VisionLabs will become the largest asset in the portfolio of Intema, which was established by MTS AI as a new brand aimed at developing, launching, and marketing AI-based products on the global arena."
-    publishedDateTime: 2021-12-13T12:24:00Z
-    webUrl: "https://www.publicnow.com/view/1018EBE71CF573D802213C2786AF95B02A5182B4"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
 
 secured: "dOhLYQYI2ZSIgHwFsRvBGo6+GCjEyk99+oGXq8P3VZTqRvhdDsPqSdtwWoJhA8L71UXrAh+g39Q2PhrJLVhdmafkdT47zvt/AH8BSXmGQ2NO4ENgnTeP+8RD6cdIWhHz8F0uzFbaBT5jJgd2X13lLI9FT9cIAd8mrcI1q1Uam3M1WQZLkhNwReFbb6iA+IDSb/8B2IUMkb6ONAbEB5jTVhjGYtUJTnbMtdZZvqkhdNlMYNHAwfxDVthjBh3KfIrhwOaE6EpysbweUq/XDZwXoVTO35KFh719yVXf66qD/51e8VdkE8aGqEH+FBJFfKH3pb2C+9Zo+ZTXAkVslHY0wjfYTTysy0LznvB2pAAYrVs=;9oSeL2b7OKpPrbucZZ4prg=="
 ---

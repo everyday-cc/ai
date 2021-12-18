@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acq
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "MTS to Acquire AI Computer Vision Leader VisionLabs"
-    excerpt: "As a result of the deal, VisionLabs will become the largest asset in the portfolio of Intema, which was established by MTS AI as a new brand aimed at developing, launching, and marketing AI-based products on the global arena."
-    publishedDateTime: 2021-12-13T12:24:00Z
-    webUrl: "https://www.publicnow.com/view/1018EBE71CF573D802213C2786AF95B02A5182B4"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "MTS to acquire AI computer vision company VisionLabs"
     excerpt: "Russian operator MTS has has signed a definitive agreement to acquire the company VisionLabs for RUB 7 billion. The final deal amount is subject to future performance-based metrics of VisonLabs over the next three years."
     publishedDateTime: 2021-12-14T08:14:00Z

@@ -91,22 +91,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Autonomous future: Self-driving taxis under trial in UAE"
-    excerpt: "The future is here it seems, as self-driving autonomous vehicles are no longer works of fiction but something you may come across on the road. Well, we"
-    publishedDateTime: 2021-12-13T11:07:00Z
-    webUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae"
-    ampWebUrl: "https://www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/science/autonomous-future-self-driving-taxis-under-trial-in-uae/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 44
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/12/13/thumbs/800x531/166958.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
   - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
     excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
     publishedDateTime: 2021-12-15T18:20:00Z

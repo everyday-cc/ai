@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off
 webUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off-delays-ipo/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban"
-    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings."
-    publishedDateTime: 2021-12-13T11:12:00Z
-    webUrl: "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
-    ampWebUrl: "https://www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13"
+  - title: "SoftBank unit spreads SenseTime facial recognition tech in Japan"
+    excerpt: "Use of Chinese artificial intelligence developer SenseTime Group's facial recognition technology is quietly on the rise in Japan, thanks to crucial support from affiliates of SoftBank Group."
+    publishedDateTime: 2021-12-15T07:38:00Z
+    webUrl: "https://asia.nikkei.com/Business/SoftBank2/SoftBank-unit-spreads-SenseTime-facial-recognition-tech-in-Japan"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 52
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F3%252F6%252F6%252F37916633-1-eng-GB%252FMYK_6146re.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "SenseTime Delays Hong Kong IPO After US Investment Ban"
     excerpt: "Chinese artificial intelligence company SenseTime Group Inc. on Monday told the Hong Kong stock exchange that it is indefinitely postponing an estimated $767 million initial public offering three days after it was placed on a U."
