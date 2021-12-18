@@ -2,6 +2,178 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
+      "title": "Video-level computer vision advances business insights",
+      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "publishedDateTime": "2021-11-11T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
+      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
+      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "publishedDateTime": "2021-11-11T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-baidu-3-trades-to-take-advantage-of-recent-price-slip.md",
+      "title": "Baidu: 3 Trades To Take Advantage Of Recent Price Slip",
+      "excerpt": "Although Baidu is known for its internet services and as the leading search engine in China, management’s focus has been shifting to artificial intelligence and autonomous driving. Despite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
+      "originalUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
+      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
+      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
+          "width": 1000,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-brainchip-goes-to-the-edge-and-beyond-at-edge-ai-summit.md",
       "title": "BrainChip Goes to the Edge and Beyond at Edge AI Summit",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
@@ -1038,196 +1210,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
-      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
-      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "publishedDateTime": "2021-11-10T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
-      "title": "Google Pixel 6 series might get face unlock smarts after all",
-      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "publishedDateTime": "2021-11-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-artificial-intelligence-in-healthcare-global-market-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2030",
-      "excerpt": "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030",
-      "originalUrl": "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578",
-          "width": 261,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T21:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-artificial-intelligence-learns-to-talk-back.md",
-      "title": "Artificial intelligence learns to talk back",
-      "excerpt": "This means a pronounced role for artificial intelligence and machine learning, or conversational AI, which add the intelligence needed to deliver superior customer or employee experience. Deloitte analysts recently analyzed patents in the area of conversational AI to assess the direction of the technology and the market -- and the technology has been fast developing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2334592541a79e9c57360b67737481d9d0f132a2/2021/11/11/c26df5c1-8e72-4ae0-b08f-9a661f1546d3/wall-art-viessmann-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/",
-      "publishedDateTime": "2021-11-10T21:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

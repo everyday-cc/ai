@@ -27,14 +27,19 @@ images:
 related:
   - title: "Kraken Ventures Raises $65 Million for Early Stage Fund to Invest Across the Crypto & Fintech Ecosystem"
     excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early stage companies and protocols across the crypto and fintech ecosystem, has today announced the successful closing of its first fund,"
-    publishedDateTime: 2021-12-17T12:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kraken-ventures-raises-65-million-early-stage-fund-/2021/12/17/9513876.htm"
+    publishedDateTime: 2021-12-17T12:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-austin-texas-7013c82d4df24905877e49c1d27e7e3f"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "OYbaR9V5uWMIXjxxRZ7GZtiruFX8tGMDxIMeO+PJlgAkk9bR9cJNcbwDcX9LqeMy/IqdLTJIHlPaWyDTvwe5irXB+AzXJcHqMyXsECQYYIsMrxQh1VXp38IL9bBCFpNXh3hQ9QuO+dNO6rUyGXBGK9JiIPgOHPFgQIli8fxjiwcMYu5MhfX8NLjyIMvPG/VL3yj0xPNVmEFwLvCUvyWYShDYFQRa3rMlugoycLvHQgh6VCNQv8b31IdLY4Zce9kebDJY2OyTl0OHZBgTmsBxhPI/LvunK0RjDOlExv6z6Ak+IFHvrhfZtF117Uax/rDLH9KgX/LDnf6amXUs5NHbgctYC3Oy8a9MgEvG6W2wNF8=;6kv9xvcRzRw7+1gVvKutjg=="
+secured: "h260c9xDF12zouoVt7VBngk3lkunGo8nfPJnkkfjlCdqGgh1+tH9Ou/ivbfe9+Lesl/IPQPxCjGA7d03hFjcNbfWbHqv/gFvK1k+6p5JyKhP6F3g8+zLo07PTgvGeDetlC20Q6MBWRwgwOM6WEFXXJd2VB+SC7cCP7LYnugN2MW5he27g1FpvU06Qr5/Kxko2YaL+EyADb7XBerRB0ea7mlWfLLv/6I0EGpQ2W8mSYrIY8IkK34cg1BaaWvRUMlGA13o+sT8MNr1vJqx0hxaOBhnYE8Il4HHHb9Z9y70zsPDJRwrqihoWwllVwRgSsmc1lG/9sB+kPbiWvFNXgBe9RiPY7Yb4jyKZNFZDB0LIVFPvJHdj4pBzMLHP4V1g/OwB+m+tFOEh5NvEX6Ch8y3XKLj1+KZTc3Ort+pn9HaTOPqTGKCiDXWcPvybeB87Mf1UoRyVSvCbIO0RodtCDfr+GjT20FYuaeRvGT9vTfLH3rrSndZqc347OI1wqr/p2NkJGa1gHUhZlLmQICfHxPFGw==;9OUoHbW/bHd6Gu2L4lrEkA=="
 ---
 

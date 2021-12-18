@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
+      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
+      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "publishedDateTime": "2021-12-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-esben-stergaard-eu-ai-act-will-stifle-robotics-innovation.md",
       "title": "Esben Østergaard: EU AI Act will stifle robotics innovation",
       "excerpt": "Steve and Mike interview robotics innovator Esben Østergaard and discuss the potential impact of the pending EU AI Act.",
@@ -1057,109 +1151,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "originalUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-fegoai-raises-15-million-in-seed-round.md",
-      "title": "Fego.ai Raises $1.5 Million In Seed Round",
-      "excerpt": "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401435",
-      "originalUrl": "https://www.entrepreneur.com/article/401435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

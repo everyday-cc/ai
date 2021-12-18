@@ -39,6 +39,20 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "TaskUs Partners with Artificial Intelligence Provider ASAPP to Offer a Customer Experience of the Future"
+    excerpt: "(Nasdaq: TASK), a leading digital outsourcing provider for high growth companies, has announced a strategic partnership with ASAPP, Inc., an artificial intelligence (AI) research-driven company, at Customer Contact Week (CCW)."
+    publishedDateTime: 2021-12-17T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-a29d2077856cc35f6ed6bace6112e588"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Enlac0hfzhVOjzl0UcTmkcPR30e7tvGYa4F6HM3LNhl9dWDoNI8mJZh6y5Ew6RtBN8e1paNPTD5n+On9Zln8UTVGYfX04MUgOUrf8XOTl7BGnxSx3Tr2m/WL+lJXL/ovK44orqS6y8C0/8TIQDjJaHSlgePlven8UY+HPsQ+v04cdDdyEZHgSrJhDSFOqx2A9VJXAMxXEgavOcD1bpxQJdrxkG/IfiBzdn7yutJRsZ502Ue0RvJ3/QWIl/Feq8YEIi6aeBP2wrmgLaRwPYVllh01lmwWw8GX84dgovU+Hu5Jy9/xxF6ina13XPXsgdCGEbTxZX96So8umkXQzInhUx8ZOD0ipzvfGvvkf2kPMCePpEQ4YRmPmDkNJTThMr0p6G25YApaQAA+fMSZlNzefz/8kbmzuqeoEgLdiNv5A/qFdj5wKsZ/mrNmNVb3A1qErWxKO3yaVtALvpAKr6jcGEMLyRYjEffIqeakmADbRQEMGsA2AkBcxaKbuKoMtVExtig4BvyBBDFwQ1GIrp7dhg==;s8H0Rpx3zKl4sqO6WVGNuw=="
 ---

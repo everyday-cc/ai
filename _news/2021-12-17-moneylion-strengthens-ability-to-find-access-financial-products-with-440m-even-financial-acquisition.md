@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Virtu Financial Announces Inaugural Internal Global Automation Hackathon Team Winners"
+    excerpt: "Virtu Financial, Inc. (Nasdaq:VIRT), a global market maker, broker and leading provider of global financial services technology today announced the successful completion of its inaugural Global Automation Hackathon,"
+    publishedDateTime: 2021-12-17T19:17:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-financial-services-8ad5717c33e49d23dbf58267141539eb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
     excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
     publishedDateTime: 2021-12-16T11:02:00Z

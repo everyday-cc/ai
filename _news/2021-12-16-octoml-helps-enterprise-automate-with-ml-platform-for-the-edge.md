@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/"
 type: article
 quality: 91
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/octoml.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "How Automated ML (AutoML) Can Transform Your Business"
-    excerpt: "AutoML is a type of machine learning (ML) in which the tasks and processes for developing learning models for machines are automated rather than iteratively built by developers. As enterprises collect more data than any human could tackle, autoML helps by ..."
-    publishedDateTime: 2021-12-13T21:38:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/how-automated-ml-automl-can-transform-your-business/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 39
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/How-Automated-ML-AutoML-Can-Transform-Your-Business.jpeg"
-        width: 1300
-        height: 867
         isCached: true
   - title: "OctoML Unveils Next Iteration Of ML Deployment Platform To Scale ML Operations In The Enterprise"
     excerpt: "OctoML today announced the latest release of its Machine Learning (ML) Deployment Platform to empower enterprises to scale their ML operations (MLOps). Launched at TVMcon 2021, the open source conference for ML acceleration,"

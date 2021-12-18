@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-sup
 ampWebUrl: "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549"
 type: article
-quality: 86
-heat: 87
+quality: 186
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "0+y8xk8UMlhed7FGrVnxVX2iNvrnxkMgxw00lh34NIPNiPoO3USBczcH4d4DiMFr6ZLc1oJNyS3kaVak++dMPDEFAPJWPuflURUgoPQv1v65a4+EsgzSHQ+Tc9UJK8i0ZPtkJJoGYW23fNru6VUzJ8fJJc+8NmZTSQxydmVkTnyT9lIBAo07QEEg5j83nyJaD1Vew7+wm+iRPIhiasmK8Vk4fpzPszhf1cb2m8jkzBFamtdyY30uIeVTM6khgKawgn0qW52X6ehcJqwoim1npRwVylBuGlJBP5XzDQygcN2MGtCQ4fIUN45ZOfFC6XCGJxzCbnOH9OSRepnhVtNUZSHb6hEOynVOquCQ40j2WNJJJZDptQhEdt1NmDdF07YJmEoVrcIfeJoPGnWhopsQtKT5pmtr/6JkFI7hGAED0kegVKoY0ZG1uXPD48FnaolZySWEyjyaC2ddLPn3XcEhducQEkWkGhFbK40dZ4lhHvMmQrjEIqmoN8/VSHoW7l3vrf/Oj7CoKLr5NoUUCXFA0Q==;DPlXvTBBl+zX85dteG6nhA=="
+secured: "oc4lpJebKQda9ZS0g2X3hdsATQIW+VkwL3zSYxH3rxVGSue3JFR5hccglEZIhyYvmT+4EVd1js9GB96eCkj5+njv5vL3LcHx8OF2gvCU6wTsjqk7m4oK4xmZNu03t5YGOc0lUCgKtEAmtumh23WAnrOWl9Vj2FMUGI5lT2J0Ri+75p5nHr9FM0oJIEPR5VZ7DkH9tqwTRxQBUTBjpUN1GEpZpVmkWNrdKIccqcIvu/HteExfPB1KMX9ZeQmjFw8DBcywtssd2bluKJyblkWBsd/MniJIwobyul2A2cxnZu4ORJVe1YQsKQw8VGlJ8oQQGrnbe++G902JRbxQ+x6Y2093b4EH6ImgnSMAiuz4+YDXdMgP7bJHqIhJDkB9Utlk9K5EPfVO8wnGlLPTD+UNdeDsLznYwrrrgUC8C8DGLtK0trzq+llsM7o4PkvBIKwhsYrcgT1Qs3md5ULaGR05QYmQqBJGczmPxWzEfmsHGlhJHbG6Lh4TBxngV7U9vX+VgprYzOPOr/+JaC22OTicnhHjWxXsCAHoVBv/g+m7onU=;3IpYuoXL3h2uFhhC0gAKRQ=="
 ---
 

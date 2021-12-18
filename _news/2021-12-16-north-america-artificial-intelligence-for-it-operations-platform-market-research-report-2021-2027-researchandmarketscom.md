@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
+    publishedDateTime: 2021-12-17T15:25:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
     excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
     publishedDateTime: 2021-12-15T14:39:00Z

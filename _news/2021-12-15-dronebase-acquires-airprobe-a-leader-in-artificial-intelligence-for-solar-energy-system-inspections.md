@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "MTS AI's INTEMA Joins NVIDIA Inception VC Alliance to Invest in AI Startups"
-    excerpt: "INTEMA by MTS AI is pleased to announce that its AI accelerator programme for education has today become a member of the NVIDIA Inception VC Alliance, an association of 200 leading venture funds and investors that has been established by NVIDIA to support the growth of startups across fields ranging from AI,"
-    publishedDateTime: 2021-12-15T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mts-ais-intema-joins-nvidia-inception-vc-alliance-/2021/12/15/9511779.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "mgwTiufX1hQtVFIBcBjtinDYtojcsHJIC46BFCWUI1VfA5LDOIco4w4yLCYt198dRiZuIt9V4qO6Bh+raRKSN4LUDWue5Srw2XdzhIgb7wBrL331bqmjxPHJRbW8MN6VoBUbnFQnGRG45/jFaUcdNTGBYYJTNNEaFdDNNYhDR4bQ3LtRuekhWHzyFkBIJbTXjNLYTf+ceEIOPk/N3nZYp8tWyE2znhey3SKPWwzYqTDlMVehFCLcHsPSmlbjS6DmBjlbU5PrfxRGjSPj+nNPpc2t5yIoJdGV1I+VuUh97v2SpMmL0I/qSv7OG3EJHb3ty5yOZE8i+qRHXGeBPnRerHln+VY3N1MB0rVy3+G6cQ0=;S/7KcpAzQJYNgudPLG0pbg=="
 ---

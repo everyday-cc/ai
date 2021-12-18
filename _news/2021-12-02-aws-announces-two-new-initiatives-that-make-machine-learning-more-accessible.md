@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T18:34:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-web-services-education-f53020940f424024b40eefcaf30d6d59"
-webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-web-services-education-f53020940f424024b40eefcaf30d6d59"
+excerpt: "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ..."
+publishedDateTime: 2021-12-01T19:01:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ebcN3EAv60CQsa9dSkyLvQFlyyUL1PhvLzJtyuWFtMJ1pUiP8hk4tBEUavOgS/gEnskhrAoYGZKplyVoFRPLQTwcW0r6SYj/u6VoVY1YfPAze3vC67Nzn6v/+qKRRoQT90JyXLiT2YYSvpgvObRRkguzBkxjV3b6emFuEz/VK1qzpIJXHQeEO3BcSj6wrxu6r1kt9ndjcmhYPsOLdCcUoNgOg2wDKPNXG0Qqisj0j4sUttKK0D9MTnW3T9u/PWXtdmBzR1pubI6UF/tlb3fkejIB0jS+KS4UENh3/oOnqwhLKo6+YanTPnlUCfrRSG9HLvaJ/uZ5bmd0U+E+rcxZM4LKl+nBuLXeouqaZmhmB10=;WKcQNT+MuK4WQ2f/7+IdjA=="
+secured: "1y5uVXA3laIXCH5Qk76FfIsmXWjxXnA0BjMPYYvKlEsqkRN9IFxX6CAT4MDjiz01m9Fg1glaYoZRrERquc0aIsUH1d46mdtBTF6rCj64JjsWvH4Zjw8p+LeJhZAGedYcj3pX4lgJ4YfXmMaSWiaWQAvxUac/4+kQ/krk5oxMmb/ThgL5CTXqQNtZ8o3qF1toVDWaIjCrzEvmt9jSLkS1UOsj3nRdRhTr9ZzFCWCX2iX6vgAjPYS1XMFDQxUfg9p/jyPzqPfJOjJdKluOpWvDWYmtlHoi91vXbiznQKxM73px97SdSnuuQQeK3Ot3fW2zpvaNv0mWU+iNU4J72Mtx0zD9n7YFlOjZcRL9cC5RFL4=;FxMHzPQp6ZrWrOyQW4Wv3Q=="
 ---
 

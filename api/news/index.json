@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-18-meta-develops-ai-to-bring-childrens-drawings-to-life.md",
+      "title": "Meta develops AI to bring children's drawings to life",
+      "excerpt": "Meta (formerly Facebook) researchers have developed an Artificial Intelligence (AI) system that can identify and automatically animate the human-like figures in children's drawings with a high success rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/articleshow/88361441.cms",
+      "originalUrl": "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/articleshow/88361441.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-88361441,imgsize-306444,width-800/88361441.jpg",
+          "width": 800,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms",
+      "publishedDateTime": "2021-12-18T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-sure-deepminds-ai-is-impressive-but-can-it-guide-human-intuition.md",
       "title": "Sure, DeepMind’s AI is impressive, but can it guide human intuition?",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,",
@@ -513,7 +555,7 @@
       "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -616,7 +658,7 @@
       "originalUrl": "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -806,7 +848,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -922,6 +964,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
+      "title": "The Sims 4 could use AI to automatically turn photographs into characters",
+      "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "originalUrl": "https://www.techradar.com/nz/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4H5BcPERVpvbyTHyV6wHsP-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "publishedDateTime": "2021-12-17T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1112,101 +1205,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
-      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
-      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452886/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "publishedDateTime": "2021-12-16T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata.md",
-      "title": "US Energy Department tests new smart grid chip from Nvidia, Utilidata",
-      "excerpt": "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "originalUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "publishedDateTime": "2021-12-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

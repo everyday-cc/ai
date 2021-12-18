@@ -2,6 +2,208 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2021-09-27-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
+      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
+      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-replacing-your-iphone-13-display-will-render-face-id-unusable-unless-apple-does-it.md",
+      "title": "Replacing your iPhone 13 display will render Face ID unusable, unless Apple does it",
+      "excerpt": "By contrast, the Face ID module is simply a capture device that doesn't hold any facial recognition data, which is stored in the iPhone's secure enclave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "originalUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-27-image.jpg",
+          "width": 1960,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "publishedDateTime": "2021-09-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser.md",
+      "title": "Chinese Startup Mech-Mind Robotics Banks USD155 Million in Fundraiser",
+      "excerpt": "Mech-Mind Robotics, a Chinese industrial robotics startup, said it has secured CNY1 billion (USD155 million) in its latest funding round led by online services giant Meituan and venture capital firm IDG Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
+      "originalUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser/16477161300426752.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
+      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2021-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-half-of-people-say-they-are-better-drivers-than-computers-will-be.md",
       "title": "Half of people say they are better drivers than computers will be",
       "excerpt": "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ...",
@@ -946,187 +1148,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-the-lse-alumni-turning-their-university-into-a-startup-powerhouse.md",
-      "title": "The LSE Alumni Turning Their University Into A Startup Powerhouse",
-      "excerpt": "A Google-backed student Lead, a CEO of a unicorn, and a college VC fund are joining forces to create a startup powerhouse in one of London’s most iconic universities, the London School of Economics (LSE),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6150287d385a514f31a2a155%2F0x0.jpg",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "publishedDateTime": "2021-09-26T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
-      "title": "We are sleepwalking into AI-augmented work",
-      "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "originalUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/unemployment.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "publishedDateTime": "2021-09-25T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026.md",
-      "title": "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026",
-      "excerpt": "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1",
-      "publishedDateTime": "2021-09-25T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

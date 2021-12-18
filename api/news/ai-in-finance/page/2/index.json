@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-18-radical-transparency-what-healthcare-can-learn-from-fintech.md",
+      "title": "Radical Transparency: What Healthcare Can Learn From Fintech",
+      "excerpt": "With the line between healthtech and fintech increasingly blurring, it’s high time for the healthcare industry to find ways to deliver a better consumer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61950aa37300a4ab02b17a66%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
       "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
       "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
@@ -1293,51 +1346,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
-      "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
-      "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
-      "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Learning_AIM.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

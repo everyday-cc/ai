@@ -57,6 +57,20 @@ related:
         width: 1164
         height: 608
         isCached: true
+  - title: "Virtu Financial Announces Inaugural Internal Global Automation Hackathon Team Winners"
+    excerpt: "Virtu Financial, Inc. (Nasdaq:VIRT), a global market maker, broker and leading provider of global financial services technology today announced the successful completion of its inaugural Global Automation Hackathon,"
+    publishedDateTime: 2021-12-17T19:17:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-financial-services-8ad5717c33e49d23dbf58267141539eb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Q048Ivr8HFrdKlT1fMp52dHUS6bvwA1+BCp8NJgsoj4W9+kAlJ5C8dJuPXzPhcA4N/EYZufMMYHtobQl2hsKg0EG6gEcMyJPfIfyjbeTiWpsq0yMa4SV8oi+ttC1nnK/sR9610Uhs3gijUIe+/7eQQjgK/9enQc9mF4mPWq0I9UmqxbxDikP3xSqXlaADNJCe06YqpISMYABDHZFGEsdxd/IG6iBuDXSc7S4xJy+v1wGk9PF8Pv5RQ9qfc8ZNA1YqaGs/PYn5+/Up/pZuuzKoMkLAQSMsq6zdeLF7ZLpJ1iXt1KH6tB+K71Y6ZsEDZQC4RhI116jRcqM6IDmbpHBH8LB4vUFjVbeacGGWGtyTyhxWouGm1ZrBYK1f5o+a9V/L/KucyD43Hw3j5Jnj4jFseyxsdc47sWrfhyW3QTSgRIZVibH52ztNSZuHCL7X/YuXnB1wvAcstlv9lbaJ/ksOCaLfhYm8YicPdxWRqdwgxQngKil7lYwneGEL48y+8spI+Pjw/7yuYGF1BKBWtlRpg==;9EATa63isyxfD1unsIZttg=="
 ---

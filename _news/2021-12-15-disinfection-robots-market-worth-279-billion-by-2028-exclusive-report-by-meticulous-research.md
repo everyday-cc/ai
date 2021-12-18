@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
+    publishedDateTime: 2021-12-17T15:25:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
     excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
     publishedDateTime: 2021-12-16T13:57:00Z

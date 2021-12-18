@@ -2,6 +2,161 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-02-african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent.md",
+      "title": "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent",
+      "excerpt": "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-four-day-cardiology-conference-from-today.md",
+      "title": "Four-day cardiology conference from today",
+      "excerpt": "“Artificial Intelligence and Machine Learning ... will be working towards developing ‘Deep Neural Networks’ and achieving the target of accurately predicting heart risks in advance by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece/amp/",
+      "publishedDateTime": "2021-12-01T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Six New Amazon SageMaker Capabilities",
+      "excerpt": "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities",
+      "originalUrl": "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard.md",
       "title": "Continuously improve search application effectiveness with Amazon Kendra Analytics Dashboard",
       "excerpt": "Unstructured data belonging to enterprises continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for, even",
@@ -1013,186 +1168,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses.md",
-      "title": "Machine learning reduces uncertainty in breast cancer diagnoses",
-      "excerpt": "A Michigan Tech-developed machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-reduc-1.jpg",
-          "width": 1200,
-          "height": 2629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
-      "publishedDateTime": "2021-12-01T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023.md",
-      "title": "RISC-V's open chip processors expected to double in 2022, and double again in 2023",
-      "excerpt": "The open chip standard will go from \"one drop in the bucket to two,\" representing a small fraction of the overall ISA market but showing incredible growth, according to a new report from Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
-      "originalUrl": "https://www.techrepublic.com/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/01/b6c240ac-4740-4b6b-8fed-ec8c5d679870/resize/1200x/fa35a9a02829c378ee8f3bc593b8bd4d/risc-v.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
-      "publishedDateTime": "2021-12-01T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aurora-accelerates-development-of-the-aurora-driver-with-aws.md",
-      "title": "Aurora Accelerates Development of the Aurora Driver with AWS",
-      "excerpt": "Aurora uses AWS’s proven infrastructure and unparalleled portfolio of capabilities to safely accelerate the development of the Aurora Driver, its scalable self-driving vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS",
-      "originalUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape.md",
-      "title": "Putting The AI In Retail: How AI Is Changing This Year’s Holiday Retail Landscape",
-      "excerpt": "Leveraging my insights as an AI infrastructure CEO, let's take a look at how some businesses are employing AI to change the holiday shopping experience this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a653c02773ba2ef4ff2309%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/amp/",
-      "publishedDateTime": "2021-12-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

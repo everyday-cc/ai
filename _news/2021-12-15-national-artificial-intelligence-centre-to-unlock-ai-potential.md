@@ -40,20 +40,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "CSIRO appoints inaugural National Artificial Intelligence Centre Director"
-    excerpt: "Following a competitive global search, CSIRO - Australia’s national science agency - has appointed Stela Solar as the inaugural Director of the National Artificial Intelligence (AI) Centre."
-    publishedDateTime: 2021-12-13T22:37:00Z
-    webUrl: "https://www.csiro.au/en/news/News-releases/2021/CSIRO-appoints-National-AI-Centre-Director"
-    type: article
-    provider:
-      name: CSIRO
-      domain: csiro.au
-    quality: 36
-    images:
-      - url: "https://www.csiro.au/-/media/Newsroom/Media-release-images/Stela-Solar/Stela-Solar-2.png?mw=500&hash=C80FC9B1652CDBE374647E685C9F8B5B"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "29g0/OmaAT+QyhOvCUcrsBoeBu98y1SkZqb9CSZrLFZi1q+DNhKRosTnq0BhQBkw360ZNAdusLLA6mTMKsfR2BXceR+wlZ+wviFNbvsSqNBx8EWeBcf9PJw1ZccUZbwKN6yIwmnib79dPcwiwAlNCKTGpG9KgVfM8aDlZxItubkq46lHfnrHxEA7VSqCukbLVjboJLR1AYYffeWaSZ7OBjcbbhM3xIOzmw0+twUM35n8YOxTLzFBS10u6uMg3vXk4c8bGK2EYjLyN+psQoJKlplfxdIhE7KFYSsQL3Bu34frqzUPBTUfXMGpK5nwe9NZtIYTgYcv4ObLFgl08yfCBZquW6FTHyLVb/kOkGa+/y3geAjSL2oQXP1SF4rpYudLrZJd3tor3bqRj9bp0hE6u+I2fo9d3ah5Tgvi9P6tawbuuxeuAVsN0TSsKs5vqxvMaKZW0STLTIOnhlUSFMxu8OBmiOWBtjA3OACuvhiIzrqRIJBTZuBP0fakySaiGGX99VYYvoC0XJM+txedtorfPw==;7/xpHgz3347Pd9mU/1u2XQ=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Artificial You: AI and the Future of Your Mind"
+    excerpt: "Hailed by the Washington Post as “a sure-footed and witty guide to slippery ethical terrain,” a philosophical exploration of AI and the future of the mind that Astronomer Royal Martin Rees calls “profound and entertaining”Humans may not be Earth’s most intelligent beings for much longer: the world champions of chess,"
+    publishedDateTime: 2021-12-18T14:57:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9519687/"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 17
+
 secured: "D06KgftKU3qgYdKaAIDkdqd5eNYS2ztusuKnU0EdVlCVQRAR7NkrMtW3FEIeVUElIR1iwIDaRt9UDLwGVfJuQoN0+YGTvLoz/xbbRCokEqVq2Ji1R+KVNuy7zREI5N0+PRsdFtTWjb+VRSlp/HkMyipTkSJr53doAdq1SU667xshkDnzJACIrJH3X+5+p6crjgI0b5/eUc0mOuDD/reyqCFLE6pO2fp/uOOp29dpp0grsKaW1llr9q7as18xEtIYc0ECCNjTjbYWCP2G/8i3n31Tz163QpdZM7NQIijqwz6hjxyjnPEgWLWK+7gKvXfoQ6Y5CO/QRK3rZq4YTA7lt7AnX7QGiy944biMksKE0pSTB+e16orDg8DEZqNlYbq08ZbpS8jAaRdlDbFwpW9sTCGu0YziVQZr0gNYxc6/yeCLRkOBUjE1AsPJCnsovjJFGSiTN7F2KBpvLZPnG1k6b8iDQ/OeucAn/T68BYp6L7NtipHKWz9qrZAwJkykf/52BrhTMfJshaILDMShMuEuLQ==;tstXymptwUmygCG8yQcaJA=="
 ---
 

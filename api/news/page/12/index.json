@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
+      "title": "3 Impacts of AI in the Machine Translation Industry",
+      "excerpt": "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
+      "originalUrl": "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
+      "title": "Q&A: More-sustainable concrete with machine learning",
+      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
+          "width": 999,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-ex-tesla-engineers-claim-full-self-driving-autopilot-video-was-manipulated-and-edited-out-barrier-collision.md",
       "title": "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision",
       "excerpt": "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers",
@@ -439,6 +535,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
+      "title": "The FinTech Revolution In China",
+      "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERJsVp4-GWkA/article-cover_image-shrink_600_2000/0/1638896477318?e=1645056000&v=beta&t=Wu9KRdTKpjhJgYLbVfxCTqw4bkOwfHE4iF-IUWuDt9k",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
       "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
       "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
@@ -867,6 +1015,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing-demand.md",
+      "title": "The National Captioning Institute Uses Automated Speech Recognition (ASR) Closed Captioning Solution to Meet Growing Demand",
+      "excerpt": "Closed captioning providers have been challenged to expand capacity quickly and effectively in response to a heightened demand for services. When comparing March",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidenova.com/news/state/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_5a308a38-3b88-5412-b6f6-327d6f1533a3.html",
+      "originalUrl": "https://www.insidenova.com/news/state/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_5a308a38-3b88-5412-b6f6-327d6f1533a3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/2/cf/2cf7695b-f99b-5ad8-b913-826ebc13ce7d/61af694d2bf9e.image.jpg?crop=604%2C317%2C98%2C0&resize=604%2C317&order=crop%2Cresize",
+          "width": 604,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INSIDENOVA.COM",
+        "domain": "insidenova.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
       "title": "Facial recognition isn’t working for some Windows 11 users",
       "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
@@ -1003,186 +1194,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
-      "title": "How AI ethics falls short - preserving jobs is not enough",
-      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "publishedDateTime": "2021-12-07T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed.md",
-      "title": "Artificial intelligence carries a huge upside. But potential harms need to be managed",
-      "excerpt": "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop",
-          "width": 320,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "publishedDateTime": "2021-12-07T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test.md",
-      "title": "Flagship Pioneering Launches Harbinger Health to Detect Early Cancer with a Simple, Bio-AI Based Blood Test",
-      "excerpt": "Flagship Pioneering today announced the launch of Harbinger Health, a bioplatform company pioneering the detection of early cancer with a simple blood test",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test-301438732.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based/article_d1a3b857-7adf-59c4-9ab6-4c6bae8b3f2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1027035/Flagship_Pioneering_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-your-face-is-or-will-be-your-boarding-pass.md",
-      "title": "Your Face Is, or Will Be, Your Boarding Pass",
-      "excerpt": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/02/business/02biometrics-video-still/02biometrics-video-still-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
-      "publishedDateTime": "2021-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network"
-excerpt: "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,"
-publishedDateTime: 2021-12-17T11:33:00Z
-originalUrl: "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now"
-webUrl: "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now"
-ampWebUrl: "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp"
+excerpt: "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource. As Metaverse become the new hot space to enter, high-performance computing power may become important basic infrastructure."
+publishedDateTime: 2021-12-17T11:46:00Z
+originalUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-blockchain-artificial-intelligence-5baa7937549a0f02b1cb0612f9afefa5"
+webUrl: "https://apnews.com/press-release/MarketersMEDIA/technology-blockchain-artificial-intelligence-5baa7937549a0f02b1cb0612f9afefa5"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "wwZM1sryQwT7KUj968oyvrWrBMN79kMJIzcwJHF2VeDX2j1EZ3EHie6sf3N8S2oZffjoU8GtkPci7FfLRVRVPiI+pUXEmhetx+sX/Jf2jAed2f7LN4O3TFwGuEkqrOKREExgCikKR4fKO7e9dfTxIRvTx8D5IWYN04dL24eSXyTsbNyCGKOaZ/WqjHWrzGqoGNo+cBzpZlCePRV3twQX8+jos4+lMSsUXZ2vEbqadi8wj/m8mOuRJnDMvxbFwQtMLuyM1JIISfRd2yh3KDKgFnIY/4tcZpKoZKX+fqbIXpSh1W4VdAUEqGUZJo/YKEHSY6lLUjKRPmp+xYXFeJNMdQfyoWg0+1u2ruS3T1uq77Y=;hqKXO+ikcCmJvvsLHTb34w=="
+secured: "P89gQ7+W9XpZthAM4xxapTPZYaJ1gSE6pmY4FxWHElRnR3TMLb/v+zvE0yh+H/0Rsk+O9owNGNlv0C0o/wIBopr4vDw8Q8aS7GkmOUd21k39L5Z49R0wyJB4JPtbnZ2MT3WDLnHYxu4ZBM/NRTjWQuSdGSKjHAZshMwoJ51DrdnG2dIFmJTm/Qki1enNZVaookIJHG4saTW2aIqF9S4n6xpuEdAG0nPF7aApoV8L+VuJlWaG9SGTXY2bTYZ2+7dPU+5Dn80G21WXk1MdGqPxdErfPTLaXezj+vfpFkKkkF0af6yelZdhi9EOoX1ukY3Yb4pbKORvwB7wzGQzwb7GDwb9nKcBt2wwHPpaSuzYeog=;Ko3VvgV2lCSwas9YrNFqhQ=="
 ---
 

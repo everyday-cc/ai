@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-05-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
+      "title": "Fintech 5.0: Evaluating how FirstBank strengthens collaboration",
+      "excerpt": "Take the fintech (financial technology) space in Nigeria, where one bank is known to have stood as a giant with very broad shoulders, having capacities that have been built up and accumulated over 127 continuous years.",
+      "sourceUrl": null,
+      "webUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
+      "originalUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/10/05084959/FirstBank-HQ-image.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
+      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
+      "publishedDateTime": "2021-10-05T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-oracle-promotes-responsible-use-of-ai-in-financial-institutions.md",
       "title": "Oracle Promotes Responsible Use of AI in Financial Institutions",
       "excerpt": "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application.",
@@ -1319,58 +1362,6 @@
         "AI in Finance",
         "Natural Language Processing",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-the-disruption-of-legal-services-is-here.md",
-      "title": "The Disruption Of Legal Services Is Here",
-      "excerpt": "In the world of disruption and the promised gold rush for the companies that do the disrupting, size matters. Legal has just been low on the industry list. Its number is now up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144a30dd7fa160726fcacb8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
-      "publishedDateTime": "2021-09-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
