@@ -2,14 +2,14 @@
 category: news
 title: "Scared about the threat of AI? It’s the big tech giants that need reining in"
 excerpt: "The case for regulating social media companies is clear, says academics Devdatt Dubhashi and Shalom Lappin"
-publishedDateTime: 2021-12-16T12:07:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in?via=indexdotco"
+publishedDateTime: 2021-12-16T17:27:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
+webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -32,8 +32,8 @@ images:
 related:
   - title: "Scared about the threat of AI? It’s the big tech giants that need reining in"
     excerpt: "The case for regulating social media companies is clear, says academics Devdatt Dubhashi and Shalom Lappin"
-    publishedDateTime: 2021-12-16T17:27:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
+    publishedDateTime: 2021-12-16T12:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/16/scared-about-the-threat-of-ai-its-the-big-tech-giants-that-need-reining-in"
     type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "FWUMNOTapDKlLSG2qmf3jVfoViyu9XWe8Ky1eUJOyZ44D01mxMrSvPBzVHHgL20KhpA+kqG4o4B95vhZ637E0zDPWe1p0bVtvC9abAYoTmqqj0tHMGjHcpQgmiPg4ykeHwM2mOTcgVknbl+Een5HTElDqxuwIM8SRY4vwnsCSI9N0ZAGi5Rol4zXDnq3Q6y2jEuYVEquqyjCFobUDYNKSPKkhFXcS587ZLgslqL3S6etIooRJm29Bo4VdfuxtICYweKNmICu8UWe47FECmjRIY/aYNebmLTtokX6BexfqUnEFXUaMib9H9d39xkOLMZJO71AegofbkeJg+DAmkl7XLkv5bmSoQtFB8f7Nm4RJEQ=;1NLNsOTFL4irDcrBTfyN4g=="
+secured: "8x5LTPNHlWT6rb96xVxZigZAJoxehcC0ALFbNvS7pkcxwlPIYekD984gbG2IyrfMf3ADgm9HDx3i+6tApGyZuyemq/qtblLNEjOr6I/3u0QijMSFmGvDJ+mkTd9y7S1mX9K8IyDuKlik3O0gd2RcDpwPwUEKHnKVzN4QFeyUaje9J5913IUP8m9XEzGchpSJCMwJ+wwJpssYnxBiwtLqfuO4puiDK0stSblHapQuNrTjfYvRuC8h16+BfqTJzWWTTq+mZgDWMucdAIB1XGn0kvp3ImVdTRrf4Gsr7yJAN6AoYKVxDUVDJHnMG6bItLajsp1VstxXCfK13hJWOeVObzMAA/1eZ0Xn+t+7QjDFHvA=;JgGjFPXOwkrCeOeK+SRLPg=="
 ---
 

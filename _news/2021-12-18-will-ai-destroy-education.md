@@ -3,10 +3,10 @@ category: news
 title: "Will AI Destroy Education?"
 excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
 publishedDateTime: 2021-12-18T15:18:00Z
-originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
-webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
+originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
+webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ topics:
   - Facebook AI
   - AI
   - AI in Education
-  - AI Ethics
 
 related:
   - title: "What Challenges In Education Can AI Solve Today?"
@@ -38,6 +37,6 @@ related:
         height: 801
         isCached: true
 
-secured: "d/1Q8Bt6OKJiCRh2NxuLg6HzoVUoE1HYqZlXmcAP1GtG6b3f6Fd1YWeYFG1RSE7T1V6kVdpzBj1rzWqlLgwvHygiPki4iRNF3DZdV77y9NiHIwlhDMNl6cH7LnP0yCtP+04OVPaz9jn+WKZtB4YVx+0XoysUQU9z1qgpK+BS7mr3fBUMxz/o1DAOp/BrM0tdqQiqoUZQIg//U0TwpIHz1bgAfh1EvGeAwyahNTPpaLDT2AuUMapWLo9CpEzv86XHaIh4FcFihsytxBTqFEA/QpbwIZhka4bL0NmSGRJx01lvQOeEpoHoxpyftJBIc9fW6pL0YY0kFbgHXnSSat31A30PTdnfnIICQIo1FG3t62QXJp9anBIkwkI4+19XU9JAiq7NMN3xHVtdqrlqAgDCAXx5WXSA+st57iQf/Zg+wE+TabNMV+SXpS/fB/lbFv6GSA7y3hQnutRyE61wCADoQBLqY2dgmmhizbQIK4+xeI+mBCJzPtz8usrpXqFzshlt+7T0wsY5AereqUQSBuYIbA==;Hi8DqVppOgCIThJgiW8zXQ=="
+secured: "aMeJBymNe5kcHNh0BA7wOtlc7fXzBDpzHTefqunDkCdYEHJ6vPea8XrG6hgUu5ieZwwUHMyHaXdaHv1rRNBnpdT90tIEjVNqD6G9BzfMYLxmfMJXATHL4srXXodRPSVgyIJJ6hEAoZEy8iBkBzmgJ5EAT3+8a1YRyWPmFHfWQ/0Ir7AQeDQJPmmU1shKpC2D62BhrBC6G0xIqOtdu3IlWbJTlgCI5MaxoulP2Vk/rICYic58pPCPl1JPQsAe22rDVKGUTWDdXFlrlgJTyczKuzFfqTrXjGEiZP6RpM0n7ZPgXgcrGUrF0wB+gn+KvskfwJR72QtXZod0cEdEr4zVYeNhP2w2QhdgyZVOVOcuGJCezWehs5C08D2GDBfijoKH9AiAXEHZCTFc5TjP96j5DTg0aGZoolOYqedKtsHcli3FjNMVjI++K2VNMeeXU9TLj/Sw6hSy1MQzySGf6C6+yEgfNAVSG43IOrLmZLnXf5R4vBvReKszisxEc/4oucbpKX1KcbUKKzQ9WxEpush5DA==;g/clzcQAOSPEFmbdFvW3aw=="
 ---
 

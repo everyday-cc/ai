@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-16T20:45:00Z
 originalUrl: "https://siliconangle.com/2021/12/16/octoml-introduces-ultra-efficient-ai-models-latest-platform-release/"
 webUrl: "https://siliconangle.com/2021/12/16/octoml-introduces-ultra-efficient-ai-models-latest-platform-release/"
 type: article
-quality: 41
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/octoml.png"

@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Self-driving truck company Aurora launches pilot with Uber Freight"
-excerpt: "A Peterbilt 579 truck equipped with Aurora's self-driving system is seen at the company's terminal in Palmer, south of Dallas, Texas, U.S. September 23, 2021. REUTERS/Tina Bellon"
-publishedDateTime: 2021-12-15T20:15:00Z
-originalUrl: "https://www.reuters.com/news/picture/self-driving-truck-company-aurora-launch-idUSKBN2IU1MB"
-webUrl: "https://www.reuters.com/news/picture/self-driving-truck-company-aurora-launch-idUSKBN2IU1MB"
+title: "Self-Driving Truck Company Aurora Launches Pilot With Uber Freight"
+excerpt: "Using autonomous trucks, carriers will be able to increase utilization of the truck and haul more goods more often between terminals, Aurora said. Human truck drivers are not allo"
+publishedDateTime: 2021-12-15T20:22:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-15/self-driving-truck-company-aurora-launches-pilot-with-uber-freight"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-12-15/self-driving-truck-company-aurora-launches-pilot-with-uber-freight"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211215&t=2&i=1584834721&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHBE138"
-    width: 810
-    height: 607
-    isCached: true
-
-secured: "vr86JQ5yObcM/rxuPfBs7ymzMeXPckwfY3w2uAxAKkV9k3cplF9x7dmR7CkWFt6NaVz06qzJO62UGLqCVW8n+B17ES7ZzgrXJzy1fGgH2LJtmasPYlr7ZI/jmPsl5bTy9xB+GiUVkBAsyU6qq4vIunozFBleuuwAPhFJDry69lrgmvSiPJwz09GEs0dJG5pI5FmiKuUpQXRquGznvCT/VtOKtnB92RQjew+sPl0079AAOR412lPir+1hXa6yOBfA7MYgrW6Y0+n9JAVqRsKybQma8j+JFHVXoGZYIl1ZQGqQtqYrl3hR+rZY5sQMyK+4HyJgp8q71ECFDCira5BU6rbWbVeIUUSACxHd3O+g9oSvJih9ISppGwDmaC0qewe5z1wQ6OfAWNDFe1FKViMbqFgcunVbjGgvdXXFQPiTlSCfsNtFfpf8EIQyMKsQM+TCGFPIrxr3YbIszz6vfnoZVEKC7ctbZwQ0uR/rpMGuAq8N/arocbEcJgAOh7wen2tELET/5V6aWFOn6lZsKkrbbw==;iivZ+Zs6iRQkTlxMFpsS/A=="
+secured: "fwEH5A+LH3K17I4Plh2+9pAPOdJJ2rnTGBglPuSSeFmp2gIag5Oil9KZIAKAEwE6oKTlnL13Ts/aGtNwu+bcFDqX/Rr45yBhefKHgIHlFMgi1W8BxMJvWpsHbe0akg+H9WEgLHcldCULWVmstY9jRNwhNHjpzZWSzrdwE0PPiRXcNyprKhKM0bR8yrvql2BjH+lOvKUY3n/X6hrYMKOFoy6iu182vXVfxN954CjsisF05j6ciZ3pZljE1NVBipE/7Wq/mlFxRsew0ZSZDX4GpBKTmUYRo9mMvQvtg9Hejk90fbIv+8olny54prBmw7PGuNWll13yaKMbbcV/FVKPJchH5ApRTpQhZ+sp4SZ6akw2EI3pqtDPoDXm+zCBYUWWUKNS3Roof3PkW0d9/eNwOmufMrMehqXZwNX6EwGv6LfKay7D+l8KME9PHsOQdhb2mMREbNwGpLyXmzn1x4cVPL+xIZMFOnXwzPvOTdRdgnD2+C7ubuStlDW2NBA2ul+1YYnIEydxO+qrP9EO4KNEKA==;GKdRmn5yIjRorh08wW7Vdw=="
 ---
 

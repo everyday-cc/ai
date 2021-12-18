@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-18T08:00:00Z
 originalUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 type: article
-quality: 84
-heat: 104
+quality: 86
+heat: 106
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e"

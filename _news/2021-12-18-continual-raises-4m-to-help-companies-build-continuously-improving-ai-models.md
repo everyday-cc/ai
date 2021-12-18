@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-17T21:37:00Z
 originalUrl: "https://siliconangle.com/2021/12/17/continual-raises-4m-help-companies-build-continuously-improving-ai-models/"
 webUrl: "https://siliconangle.com/2021/12/17/continual-raises-4m-help-companies-build-continuously-improving-ai-models/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Continual.png"

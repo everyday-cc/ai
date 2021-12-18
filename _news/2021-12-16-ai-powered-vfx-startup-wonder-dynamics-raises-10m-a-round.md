@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dyna
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
