@@ -7,7 +7,7 @@ originalUrl: "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performanc
 webUrl: "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 678
     height: 291
     isCached: true
-
-related:
-  - title: "MLPerf- Setting the Standard in AI Benchmarking"
-    excerpt: "By now it’s evident that artificial intelligence (AI) is the singular most definitive technology of this generation, and it’s powering broad industrial transformation across critical use cases. Enabling this AI-driven transformation hinges on accurate,"
-    publishedDateTime: 2021-12-13T19:42:00Z
-    webUrl: "https://www.linkedin.com/pulse/mlperf-setting-standard-ai-benchmarking-ronald-van-loon"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH1QGiB9wFKyg/article-cover_image-shrink_600_2000/0/1639409459731?e=1645056000&v=beta&t=qWIGe55cQAVcT0_QRuzHAeVeoMYIjr6ONBp8nbeHTSk"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "r97mQ4Q/9qyzw/oHG/DnIy9n/8NRdBmrZOOxc+YsfaBbrQ1BLRDIsgkZhz2e1vkrwbHMuskXHKtJWOVnYH1SHU4z7LMhPdCDcUMRZvcU9ucH76MoUFid4WyKFQZxTCkjd1j4wbR5TgJfHrCzqKs4ywD+2z99PDUqxANWfgj2voVgimNQ1N9NP1DBkcM+ue5fiaROX9fk97Xm72GvUplw2xpNDY3FSm4jon5wringX0bMDEJ6mRzgvqp2TIBMC3WYO/BsI6dXgPOTNMMKeBrR37WKgCpfc516EE9vWDnUhchEjQtJzRR27N1//AHsTyL4R0uDLm7ufVcVXB7F0LR+qAZ3rrBWHltBL+0CL9TmTuzsUbPHFSvDmcDuYQI/lLyIcARbSzZgdrz26IeaFfIs1y7+VaeTWw8CBXThpXPEPJQiCUfoQbDwv+VjcKHwfTtnx0KBtTxH9X/AZcI3nvaa3b8bzjANJoSnJ0x4X0qNxbZ6D0vP/dw/ssS0z3zVkfk/qacEejaRtlBrZLCyltI6Wg==;Ivod9nf63/A8AygbOR/Kow=="
 ---

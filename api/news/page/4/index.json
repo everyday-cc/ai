@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
-      "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
-      "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
-      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/2JujMcBEEQgmJwUsT2xmKd0PYH8=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZM3E67HFFFDRDI23WEKRKHETY.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
-      "publishedDateTime": "2021-12-14T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now.md",
       "title": "AI 50 2022 Nominations: Is Your Company Transforming An Industry Using Artificial Intelligence? Apply Now",
       "excerpt": "AI is essential to nearly every industry, but it’s not easy to identify the companies that are using it in truly transformative ways from marketing hype.",
@@ -713,7 +670,7 @@
       "originalUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1212,6 +1169,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-can-artificial-intelligence-ever-be-ethical-answer-might-surprise-you.md",
+      "title": "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You",
+      "excerpt": "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
+      "originalUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
+      "publishedDateTime": "2021-12-13T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

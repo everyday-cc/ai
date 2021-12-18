@@ -30,17 +30,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Vision Guided Robotics Market Size Worth US$ 12,958.9 Million By 2027 | CAGR 13.8%: The Insight Partners"
-    excerpt: "The Insight Partners” Rapid Expansion among Industrial Application in Asia Pacific to Lead Vision Guided Robotics Market Growth According to our latest"
-    publishedDateTime: 2021-12-13T19:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24580252/vision-guided-robotics-market-size-worth-us-12-958-9-million-by-2027-cagr-13-8-the-insight-partne"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24580252"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24580252"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "High Speed Camera Market to hit US$ 550.36 Million, Globally, by 2027 at 7.26% CAGR: The Insight Partners"
     excerpt: "The Insight Partners” Increase In Resolution Is Going to Offer Higher Frame Rate in Even Higher Resolution According to The Insight Partners study on"
     publishedDateTime: 2021-12-16T21:05:00Z

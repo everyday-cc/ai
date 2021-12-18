@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-16-robots-taking-more-jobs-because-of-covid-19-pandemic.md",
-      "title": "Robots taking more jobs because of COVID-19 pandemic",
-      "excerpt": "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "originalUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-how-to-contribute-to-better-quality-of-life-with-responsible-ai.md",
       "title": "How To Contribute To Better Quality Of Life With Responsible AI",
       "excerpt": "Hitachi is leading with a world-class Responsible AI framework is based on all of the latest ethical standards, legal and best practices, and the company's operational capabilities to manage risk better and work with stakeholders around the world.",
@@ -1197,6 +1154,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
+      "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
+      "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
+      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/2JujMcBEEQgmJwUsT2xmKd0PYH8=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZM3E67HFFFDRDI23WEKRKHETY.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
+      "publishedDateTime": "2021-12-14T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -28,14 +28,14 @@ images:
 related:
   - title: "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies"
     excerpt: "Drugs like ketamine and psilocybin — the active ingredient in magic mushrooms — are showing real promise in addressing mental health"
-    publishedDateTime: 2021-12-16T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
+    publishedDateTime: 2021-12-16T13:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-892875587.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.com
+      domain: prnewswire.co.uk
     quality: 13
 
-secured: "QE5R8mGqz4Foh55FsmoNLfSPPkb84yjzhay9NwrOrUhvOLMoUdFkyaz6n1qd9UBp3KAk5+++DwPHdOiO1SnaPayX5Oo367jiRB/LnBhldctXkG/oi3c/zPTSLbLdH2iTW9cGo+j1w0tkufVpIPPeHX5gVNgCQRV9faYd8q5UCz4Gejfd6DxVENfKKf1ML+XfX47gC90wwVJLDIFosPI46Fjen1DQB7px8gT06n4wIW657Yem7U5saydBM6VrOdUBoOcwBdwqrENRMWTlOW6tTabD73Cj0rKdZU6YmnhjMFfUC/vR8Af4bhoHAnqCumlUiqJyhKAQ1/J0VufKMJEUwKz58GSXtVNzG2Z9Bjf+Tv4=;v56Bas/qRKjxOKPxDU4Amw=="
+secured: "s6NSkG62fBWm9AZjgqrXtdTDsIGaO1WLOwjA530j44FLqucDlVWRRbanvY4DWxcYQ1l6AeHuANAiFbmSYtMtW1Hnwdc4rpG7zUURNcE3l2mbLiiqULv7U6SyHxn/zMTdFwkJz/ADkob47bTwu8+IN0W5cQu17BI46IQ6q+47XBcd2bhH2+4u/B19ed1CutC3TSfLuFMBNM2QKedLqT/3xUCX+8lsg/R4TPKL2Wk2a9Smwa5GyrA2KMZiskrv2Bs9P2mLUYz0jxL1SHoKaUvAQY8C73ADF9eK+dcNxYSRvAcxgqNwkzoqSfQqFMhhUsd1hw4ha6kJR9A2jq8oN++O+JPtScObTBekTGkjKjncHBzwzlww5SwJEJzSSuJoD2bMrkULbaS9WakGag4aWcgFEubu4/uJRO71lQSmNYC6Lwi/ULfiZ8wVr0el47xBXOqdil4lkjRYjlOVps3tNV437h9Ai9zCWsjNp8MHi9kcfnci+C2iJCtTZ1Lsk3qpRO9jEe1WrwkHTd4sN44nnCC9/Q==;XAme63tso84W7bgnCzTTug=="
 ---
 

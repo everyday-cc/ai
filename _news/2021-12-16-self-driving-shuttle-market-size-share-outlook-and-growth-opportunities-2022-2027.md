@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AGV Driverless Forklift Market 2021 Key Players, Industry Size, Share, Segmentation, Comprehensive Analysis and Forecast by 2027"
-    excerpt: "Global AGV Driverless Forklift Market Growth 2021-2027 is a study reported by MarketandResearch.biz that offers detailed coverage of the AGV Driverless Forklift industry worldwide. The regional section of the study has been segregated into 33 countries,"
-    publishedDateTime: 2021-12-13T20:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-agv-driverless-forklift-market-2021-key-players-industry-size-share-segmentation-comprehensive-analysis-and-forecast-by-2027-2021-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The healthcare claims management market by revenue is expected to grow at a CAGR of 4.79% during the period 2022–2027"
     excerpt: "Reportlinker.com announces the release of the report \"Healthcare Claims Management Market - Global Outlook & Forecast"
     publishedDateTime: 2021-12-16T11:03:00Z
@@ -131,6 +117,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Artificial Intelligence – Based MRI Market Size, Share, Trends, CAGR Growth and Analytical Forecast 2027"
+    excerpt: "Global Artificial Intelligence -Based MRI Market Artificial intelligence-based MRI market is expected to gain market growth"
+    publishedDateTime: 2021-12-16T10:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-mri-market-size-share-trends-cagr-growth-and-analytical-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Omicron-first-detected-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
     excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"

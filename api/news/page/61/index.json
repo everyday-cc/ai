@@ -2,49 +2,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_news/2021-11-02-from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot.md",
-      "title": "From a garage to Swiss lakes and rivers: the story of Proteus, an underwater robot",
-      "excerpt": "The project involved underwater robots, also known as Remotely Operated Vehicles (ROVs). But now Christian wanted to step it up a gear. He not only wanted to build an ROV, but he also wanted to take part at the international MATE ROV Competition 2019 – the biggest ROV competition in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://robohub.org/from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot/",
-      "originalUrl": "https://robohub.org/from-a-garage-to-swiss-lakes-and-rivers-the-story-of-proteus-an-underwater-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robohub.org/wp-content/uploads/2021/11/04_20210616_051338-512x384-1-425x319.jpg",
-          "width": 425,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robohub",
-        "domain": "robohub.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-the-challenge-of-being-human-in-the-age-of-ai.md",
       "title": "The Challenge of Being Human in the Age of AI",
       "excerpt": "Reason is our primary means of understanding the world. How does that change if machines think?",
@@ -1174,6 +1131,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
+      "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
+      "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
+      "originalUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
+      "publishedDateTime": "2021-11-01T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24651670"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24651670"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Tectona releases AI-generated NFT collection in major metaverse move"
-    excerpt: "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs."
-    publishedDateTime: 2021-12-13T20:10:00Z
-    webUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move"
-    ampWebUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Next-gen crypto-based metaverse SpecTrue aims to elevate clinical diagnosis for people with special needs with the help of AI"
     excerpt: "SpecTrue is looking forward to using AI to improve diagnosis for people with special needs and the metaverse platform is also aspiring to influence other aspects of life,"
     publishedDateTime: 2021-12-17T23:28:00Z

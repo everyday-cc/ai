@@ -2,57 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-12-08-fegoai-raises-15-million-in-seed-round.md",
-      "title": "Fego.ai Raises $1.5 Million In Seed Round",
-      "excerpt": "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401435",
-      "originalUrl": "https://www.entrepreneur.com/article/401435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team.md",
       "title": "Unstoppable Domains Hires AWS and IBM Veteran Sandy Carter to Executive Team",
       "excerpt": "Unstoppable Domains, the leading platform for self-sovereign identity on Web3, today announced the hiring of seasoned Fortune 25 leader Sandy Carter from AWS",
@@ -1130,6 +1079,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
+      "title": "Q&A: More-sustainable concrete with machine learning",
+      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
+          "width": 999,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

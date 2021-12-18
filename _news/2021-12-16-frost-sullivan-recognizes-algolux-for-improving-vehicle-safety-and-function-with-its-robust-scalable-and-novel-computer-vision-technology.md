@@ -1,47 +1,45 @@
 ---
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "(MENAFN- Frost & Sullivan) Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology Algolux's solutions improve ..."
-publishedDateTime: 2021-12-16T06:02:00Z
-originalUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
-webUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
+excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
+publishedDateTime: 2021-12-15T22:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/15/F&S_3092cimage_story.png"
-    width: 698
-    height: 360
+  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
 related:
   - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-    excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ..."
-    publishedDateTime: 2021-12-15T14:03:00Z
-    webUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
-    ampWebUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
+    excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
+    publishedDateTime: 2021-12-15T08:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
     images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
+      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
 
-secured: "VF5GxC4YywXU51ZA2yY4u3jU3BUZhp9vUjstx3rfWJD4sDXQA0gl6qcX/drXilDeBIrDUzlq9p0I4YTuWgeom3s2pAwi8AdTCvAaX4Pwof+FcVtyy7UeBHkkJbDc60tNssD8CeP4Kr8POqL7l0GW6weP/mCK1L/yVTOqTBYuE3APjxrCJPmf5oPN09/jnwxiPh/7bHwu1hENcCSwWPae3Kihiefi5J11+FKR5xBpmQ93Qxk0mkFjOXmXUjqxSI0LSHMjvxUCkQZe9mtlNQdT12e1XrNjRCT3BdY5eAtOqz6DaQIPPhF4ot/B3RDPn81G4e/DJOV1jQ5Q8vqjTAfnzSHLCcpyc9Qgei/hn741mwc=;u7nH/+Y7pjVubh5DyXSgZA=="
+secured: "ZbnaHTMR5OoPDxD8rA0f1+yn4iO6XzlgL1q4d9Jo2AWkrcHzUgtqFIS6qd3UJDl4R7K3AmfDU9piL5Uk8LXTRtwOTznfDwx3Si5EGJovrPv8JTEWiKtBDyV/VxASdqY7bSp7K2iJojzZJ1PyYg48Jr9ZSaEzpZmCTgOESFKXKR4vK1wkLFggxfojcHH1SNhLgYCmG+6rYlbXq52yHgg1P7YZmmQxc8MvxAxe824JFPLLHLVG2bpBV5wcbQYEvO2Od0x8LGYK1TPucaAfMpRZb58eoYn/NVt4b2lvCmVLizJTU2IZsy0EDMPoPCrOmPQEeJi0GwIKqyjQ8mLWfDlNzNIJE78WwLUzaV17WW9t3/Y=;FjJGDSe6iXEOiWioolsqQw=="
 ---
 

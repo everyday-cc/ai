@@ -39,22 +39,6 @@ related:
         width: 1000
         height: 595
         isCached: true
-  - title: "Wilmington robotics maker going public in $5.5 billion SPAC deal"
-    excerpt: "Symbotic, a maker of warehouse robots, said Monday that it plans to merge with a blank check company sponsored by Japanese investing giant SoftBank. Its customers include Walmart and Albertsons."
-    publishedDateTime: 2021-12-13T20:16:00Z
-    webUrl: "https://www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/13/business/wilmington-robotics-maker-going-public-55-billion-spac-deal/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 74
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/jQtjgogdek3pE7KOlPw7otrQiRc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZFQOUR573H2QNWDZJKC6C26X6U.JPG"
-        width: 506
-        height: 284
-        isCached: true
   - title: "Two Firms Aid SPAC Merger With Symbotic Warehouse Robotics Firm"
     excerpt: "Sullivan & Cromwell is advising Symbotic LLC, a warehouse robotics firm that has Walmart, Target and Albertsons as customers, on its go-public merger with a special purpose acquisition company."
     publishedDateTime: 2021-12-14T11:55:00Z
