@@ -85,20 +85,6 @@ related:
         width: 800
         height: 601
         isCached: true
-  - title: "Artificial intelligence could provide a way forward in treating COVID-19 | Video"
-    excerpt: "The answer remains fluid in the face of a constantly evolving threat, with new data on therapies emerging almost every week. As Sherlyn Seah finds out, tapping artificial intelligence could be one way forward."
-    publishedDateTime: 2021-12-13T15:27:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-could-provide-way-forward-treating-covid-19-video-2377041"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 32
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--q06_-mw1--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/12/13/4c6cbea1-f52f-4626-b9ab-649c8d35da46.png?itok=ZyQNEfNu"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
     excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"
     publishedDateTime: 2021-12-14T14:41:00Z

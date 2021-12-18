@@ -46,20 +46,6 @@ related:
       name: FinYear
       domain: finyear.com
     quality: 54
-  - title: "Russia's MTS buys computer vision specialist VisionLabs"
-    excerpt: "MTS also pledged to invest up to $100,000 in start-ups in its accelerator programme. At the time, Alexey Posternak, CFO of MTS AI, said the investments would focus on start-ups working with language…"
-    publishedDateTime: 2021-12-13T15:12:00Z
-    webUrl: "https://www.totaltele.com/511964/Russias-MTS-buys-computer-vision-specialist-VisionLabs"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/ai%20head.jpg"
-        width: 450
-        height: 450
-        isCached: true
 
 secured: "dOhLYQYI2ZSIgHwFsRvBGo6+GCjEyk99+oGXq8P3VZTqRvhdDsPqSdtwWoJhA8L71UXrAh+g39Q2PhrJLVhdmafkdT47zvt/AH8BSXmGQ2NO4ENgnTeP+8RD6cdIWhHz8F0uzFbaBT5jJgd2X13lLI9FT9cIAd8mrcI1q1Uam3M1WQZLkhNwReFbb6iA+IDSb/8B2IUMkb6ONAbEB5jTVhjGYtUJTnbMtdZZvqkhdNlMYNHAwfxDVthjBh3KfIrhwOaE6EpysbweUq/XDZwXoVTO35KFh719yVXf66qD/51e8VdkE8aGqEH+FBJFfKH3pb2C+9Zo+ZTXAkVslHY0wjfYTTysy0LznvB2pAAYrVs=;9oSeL2b7OKpPrbucZZ4prg=="
 ---

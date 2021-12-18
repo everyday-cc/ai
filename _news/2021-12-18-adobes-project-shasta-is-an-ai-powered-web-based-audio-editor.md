@@ -3,8 +3,8 @@ category: news
 title: "Adobe’s Project Shasta is an AI-powered, web-based audio editor"
 excerpt: "Adobe's Project Shasta is a web-based tool is meant to make it easy to edit audio recordings without professional equipment or other advanced software.."
 publishedDateTime: 2021-12-17T22:34:00Z
-originalUrl: "https://www.engadget.com/adobe-project-shasta-ai-audio-editing-220144426.html"
-webUrl: "https://www.engadget.com/adobe-project-shasta-ai-audio-editing-220144426.html"
+originalUrl: "https://www.engadget.com/adobe-project-shasta-ai-audio-editing-220144426.html?src=rss"
+webUrl: "https://www.engadget.com/adobe-project-shasta-ai-audio-editing-220144426.html?src=rss"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "tm3EsvHUBlk0oVdsi3WU2CLZd1db3jkyoU0xS5yex58bMJXJvx5HWOdgup90+BrFcbXEhNyCBXM83qwln4xvsSS1wCAzbx8DBV3AK1vWnx6KkrF8bDU7jAJCgWtgG/BwKDFyfF55uKJl6w0fWqmNlu5tXmn8BTypQ4VtS1ybX+aaeEjoK/y5qReennl2Hlbr96PcUuF79083C3idl9NBguafKZ8fUd830vNdo5PKo6wvUrfq0ASgYGgRLdo5xXnGCOl9b8MLU2UTCMusH99jzJ48mYurJw00L0d67056CDi8olZlEkZy/fX03Jn3RFz8TZRicooz1PtMlr/gxz2HKVj/9FpT9V6EUEDhBFwrg1TVXqiUxrMw3cdhjNdPDPdOE50pwXs7QZmIedbyTXWhMkIgHU/F12Q8XtmLPxPfWaf1ZUVQ9GEMnj1+AH2IK6IpZtzN4rL1yG8SxHpTIbCFEd5fxZLHiiCXm3NuE6R4AXC0tx3XLKNWV4E7krqSdKx1g1oGNYYeZrTXmrcY8L3rog==;5746m7GVBL8MNjPnQWLR4w=="
+secured: "ArKWFso2TiNxq9jNfJ702mb7Kf1DkXXbhIlJPjzUxmBch4Lxw6i1a2XzbW9j4EL1p4kqpXq9Tk0xUzSRotSdXNEfJpCgGC+yDZhTIz+fJ9OzeHf2Ze+XJsF58CbBevgIYh75X7EB622xQk2O06yGJwDLI5eQqc6PUviIt6VTA+MpY1iVChGYBSOhiinPgTF4ewM62eivCrrvSjWObUD/tO9G4ccnteb9ZRGRnECU0Y0emB23iUfLdSvKFdIBN0zPDon2KYBLlfPYvS+lvAZIuiWufZI28PELFH4W7ktcGBOd84gVbshHLR+MjV/utHhNO6LrXt9OP4LvtppXX7qOYg87SiuH8AYHzv05exBmGTk=;tMy2RKR7BLXTMLM4xdnSUQ=="
 ---
 

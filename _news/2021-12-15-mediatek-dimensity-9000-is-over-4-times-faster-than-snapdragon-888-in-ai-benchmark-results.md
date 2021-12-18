@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-time
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 189
+published: true
 
 provider:
   name: Gizmochina
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek’s Flagship Dimensity 9000 SoC Isn’t The Company’s Only Interesting New Chip"
-    excerpt: "A few weeks ago at its Executive Summit in Laguna Beach, CA, MediaTek announced its first foray into the SoC market: the Dimensity 9000. The company’s first 4nm chip from TSMC features a multitude of flagship-worthy features that make it competitive with what’s already available in the market today."
-    publishedDateTime: 2021-12-13T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7767c680a8fce940d569a%2F0x0.jpg"
-        width: 1200
-        height: 915
-        isCached: true
   - title: "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1"
     excerpt: "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s"
     publishedDateTime: 2021-12-15T14:52:00Z
@@ -95,6 +79,17 @@ related:
         width: 437
         height: 450
         isCached: true
+  - title: "MediaTek Surpasses Google and Qualcomm’s Chips in AI Benchmark"
+    excerpt: "MediaTek Dimensity 9000 is one of the highly anticipated flagship chipsets of 2022. It is built on a 4nm node by TSMC using ARMv9 architecture to compete"
+    publishedDateTime: 2021-12-16T11:26:00Z
+    webUrl: "https://propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/"
+    ampWebUrl: "https://propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 54
   - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
     excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
     publishedDateTime: 2021-12-15T18:15:00Z

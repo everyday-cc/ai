@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-a
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "2021 Big Data Year in Review: Part 1"
-    excerpt: "December, and the news has started to slow. As presents start to gather under the tree and the calendar approaches 2022, it’s worth taking a look"
-    publishedDateTime: 2021-12-17T22:41:00Z
-    webUrl: "https://www.datanami.com/2021/12/17/2021-big-data-year-in-review-part-1/"
+  - title: "Sure, DeepMind’s AI is impressive, but can it guide human intuition?"
+    excerpt: "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,"
+    publishedDateTime: 2021-12-18T08:00:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/year_in_review_shutterstock_marekuliasz-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
+    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
+    publishedDateTime: 2021-12-15T09:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 41
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "8WUEya4N+vROp3CosRISfI0zi+svt3rYHt43MwSp8Fr4ptzRl34i6rzGca5nQOHDeFeU+waE2208EaWNvgd69qjX1W84bzBqWqSESIQEb/S3OhISb8r7hq0tdxbcO0avoQNao4Eq/xkCrXUcZwaZ4oXobKmTp1LT/4DOQCAVv1Vb+7NNR6BG2JgYKHfdZ/rzwW3ovIkg9FdOY/bYMOSAt9sIhRAC5gThkvu7mO7tQ7+9xXjAuQHZKK9OZd6FPZMMnT1HL+JDvA50BemYricnmXYbdgw96mLwXJSm9sXWagBltYsrpiIjGMov8KHTwN0kfGOq1UPn2YCZKUWuCl7hEApzp6XEPhmlt0EWj5/xgjoZoclYfoVlQQZmY5biKNr+4n70FotNPUiNHg0swzQGB4Jlti9P3lq/nOl8BBjcU3wVdNUTl9HYyG5Q4F1aoMidstxEoovW0N092FRv/ilwqbUxyDRMusi3OLyiUPRmIwcqerVmoHptuXkaxnhmc79jM+QYGL5fiTB2munbZAt3fw==;sKo29gxN56XO2ZN74ytJSQ=="

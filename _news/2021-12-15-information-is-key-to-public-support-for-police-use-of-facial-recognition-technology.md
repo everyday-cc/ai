@@ -59,15 +59,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "eDesk Awarded 'Innovative New Technology' for eDesk Smart"
-    excerpt: "Desk, the eCommerce-focused customer support platform, today announced that it has been chosen by Google as winner of the Deloitte Ireland Fast 50 'Innovative New Technology Award 2021' for eDesk Smart Inbox,"
-    publishedDateTime: 2021-12-13T16:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edesk-awarded-innovative-new-technology-edesk-smart-inbox-/2021/12/13/9510000.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "kE+LjHtjJJJd3eKjPJm2dD49Y+IIeazlaFCeLqzTB4GnkFGd1QWlmyPyPhAZat8qHFdOePHcceliledgoO159KomCjNvBzzEbIbJmdqZ0o9pLYdfFfE7pyp5x9IoB2Ew5J8et9awSRw0Te35kc8ZehmHQzXeWLl98J+3L5CPcYn1N+o3h36kFpU546WbKbAgdBlKG+qStORHqVjk3RWbQ12BYPQD/7Mq8uc43mYc59vhbHE/cOE+15Om8OkponvjX7m7UaUD83Pq1qZxgTUfJpzQtDf9atI7DAl2mFC8tLNk/MZo4it8Iv3MqVb0F3GZyjVCHVEYKUaFcEHTpeBloLkPIByYlyCOoXZQGieQNlgd+nLrQ/a48zdaDtoCeFbiEbVV2F2uR06MyqEmXE5Gz5dOTEpvlAYE9z8bv0wzm4+81fGB1dvuSWLjZlA6OBptA307uFO4ljtgE65aWOFPly/hwVrLO+ix9f5agz03uyIA5QUdYKfQjiEfk9e2XUjtSKM9oHw3/zWE3xJPMkgqMg==;/lcWqzqd/jEMizgQRE5xAw=="
 ---

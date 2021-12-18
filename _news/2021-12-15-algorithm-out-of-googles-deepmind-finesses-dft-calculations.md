@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-12-15T10:01:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/"
+  - title: "Sure, DeepMind’s AI is impressive, but can it guide human intuition?"
+    excerpt: "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,"
+    publishedDateTime: 2021-12-18T08:00:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 66
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Google GLaM Vs DeepMind Gopher: Who Wins The Large Language Model Race"
-    excerpt: "A day after innovation leader DeepMind came out with Gopher, a 280 billion parameter transformer language model, tech mammoth Google introduced the Generalist Language Model (GLaM) – a trillion weight model that uses sparsity."
-    publishedDateTime: 2021-12-14T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-glam-vs-deepmind-gopher-who-wins-the-large-language-model-race/"
+  - title: "2021 in review: AI firm DeepMind solves human protein structures"
+    excerpt: "DeepMind announced that its AlphaFold model had worked out how most of the proteins in our bodies fold. Pushmeet Kohli tells New Scientist that there is more to come"
+    publishedDateTime: 2021-12-15T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/"
+    ampWebUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/glam.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/14115744/PRI_2139177911.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "oyk7s3Ga77HUJHfF5kH05u4Dl++JT8jiqN+wpkAfm0AcAglvwJ3UL46T4PyV6DAjxiebm3K+wjqgZXvZObWPC6YjNAnI7hj4l6o/Obcyop1SgdEcYXDflCNNXtW9LyiizFDxpX+cF6xzOAn0rEfPnj6eaZ7ZRPpcT/lUAW0O0BQdG5VUXkn/4Gvd5EoXmrdGnPnJpvxXve/dI8ByFfHeBdfOdNwt6l1uGBd0I2jMRmM1+qrOtUiiaBxYuKdPhpFZIqVhtxX53UnueW3e1/sYFU51Oe620pnS8590GoeL/ZkOW7Lr71I+LA6RLOZkt65Mr/MPgH5g53wi4nZD0nFFJpAkkKkR8iXbHI1oc2YaBiLCqlMUdMMhOvszD3T5u/eKBIgm3kP4Kymau673NR87IJu53Pj8zdsQBxexOKEg44mw1i6kKKpnoYMZR13LpUry8KQLD8hBYOfxVu4OU6oQPrfvFE08BfbyfjU2gjqQ5igcoBwjugoWI5JxA8w8BeGG8Ob6j6dmW9cdZ0V3VA70nQ==;px12H2LBCtxmHYjTA2hpyA=="

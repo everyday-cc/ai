@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
-    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
-    publishedDateTime: 2021-12-15T09:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 41
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Google GLaM Vs DeepMind Gopher: Who Wins The Large Language Model Race"
     excerpt: "A day after innovation leader DeepMind came out with Gopher, a 280 billion parameter transformer language model, tech mammoth Google introduced the Generalist Language Model (GLaM) – a trillion weight model that uses sparsity."
     publishedDateTime: 2021-12-14T11:30:00Z

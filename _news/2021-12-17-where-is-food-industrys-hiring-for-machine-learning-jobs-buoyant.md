@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Asia-Pacific is seeing a hiring boom in railway industry machine learning roles"
-    excerpt: "Asia-Pacific was the fastest growing region for machine learning hiring among railway industry companies in the three months ending October.  That was followed by Europe, which saw a 1.4 year-on-year percentage point change in machine learning roles."
-    publishedDateTime: 2021-12-13T15:28:00Z
-    webUrl: "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 50
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/12/blur-g504dc2ffe_1280.jpg"
-        width: 1280
-        height: 838
-        isCached: true
   - title: "MEA is seeing a hiring boom in auto industry machine learning roles"
     excerpt: "Middle East & Africa was the fastest growing region for machine learning hiring among automotive industry companies in the three...Read"
     publishedDateTime: 2021-12-17T11:57:00Z

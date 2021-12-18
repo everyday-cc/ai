@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Russia's MTS buys computer vision specialist VisionLabs"
-    excerpt: "MTS also pledged to invest up to $100,000 in start-ups in its accelerator programme. At the time, Alexey Posternak, CFO of MTS AI, said the investments would focus on start-ups working with language…"
-    publishedDateTime: 2021-12-13T15:12:00Z
-    webUrl: "https://www.totaltele.com/511964/Russias-MTS-buys-computer-vision-specialist-VisionLabs"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/ai%20head.jpg"
-        width: 450
-        height: 450
-        isCached: true
   - title: "MTS to acquire AI computer vision company VisionLabs"
     excerpt: "Russian operator MTS has has signed a definitive agreement to acquire the company VisionLabs for RUB 7 billion. The final deal amount is subject to future performance-based metrics of VisonLabs over the next three years."
     publishedDateTime: 2021-12-14T08:14:00Z

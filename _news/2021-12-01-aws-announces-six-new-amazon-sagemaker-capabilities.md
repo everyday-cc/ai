@@ -3,8 +3,8 @@ category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ..."
 publishedDateTime: 2021-12-01T00:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01?dist=bigcharts&tesla=y"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "fLQp31BmB8diApFabcMI3GWcJETy7e3BMwrxlpETidSfqwafN9yxkQbsG4W7A/GLD/HG+sr1u8YRSjlEPVUGY2Tkkv/kLUqOqUVIyX85AqMM0C40doBvXDAW8D5eCKMGO+RFJyH3dlCapjAbvwJM44Gi+OhTWFy3JAXRJgunBpUduEqs0ChkTeOtheMwSgTN5xWyhdxH/HdRQJBGU3mPcCyc+nopAElSZoULuEOennEe3sjyYfRZpxi4qndv7Iu7plIAIJsREI/zOb/sPGremo5i1ZINlHnwqCH6K8PZRueaQLloio9IXgDazsdhR3IiKTAnxUrZJyyXDR/OY68mD8U3GLodFwlEQ+ORtyRQezs=;/YVhOyiK8jRNqj9mraWK6w=="
+secured: "2u7BQsPBrnkolJ2rtcZLzYDRdWQjAftM21jzdddLG/sItzjusfCOAmjybHmJGDL3BJDJqzHw6yh9B7lEb3kLacut8VycKArmtRGNpmHdH/bJAwLMJlWPSuhy6RhqqDaWB1Lgjx+0fnNNjf3iq/dw9C0qfvgrv6Cyjlw0H9VtolQYR/Aqj+WCP3s0jPpSAKJsAdSRXcYj0yLegGY7gHI8UvWnXPbbDLFj+IJNIbH7F/4tctSeQiHDJLwdd1WHCtUgry4ZsPdaxJKf8HX6jmZuBIoJfdW6x6SU7LGP6qPwlOq/jBVhJ/cgAc+Pe0mAKfBvZMUIaSZRcJlZSbvchLwTGV8EOxd1SgRzKxfOrTYU5do=;osG/iMznjowWbeBOgK10/g=="
 ---
 

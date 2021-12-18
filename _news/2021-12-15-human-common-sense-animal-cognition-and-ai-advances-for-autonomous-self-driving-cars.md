@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sens
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving AI is not just for cars — it’s coming to ebikes too"
-    excerpt: "ADAS technology has created new safety solutions for connected vehicles. Now, the tech is being developed to make ebike riding safer."
-    publishedDateTime: 2021-12-13T16:28:00Z
-    webUrl: "https://thenextweb.com/news/adas-driver-assistance-tech-is-making-ebike-riding-safer"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Frsz_1u4xp0dho_1.jpeg&signature=868cf333f0b3901091369a5ceca0d525"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Zoox, AutoX, Pony.ai Execs on Self-Driving Cars"
     excerpt: "Founder and Chief Technology Officer, Zoox; Dr. Jewel Li, Chief Operating Officer, AutoX; James Peng, Co-Founder and CEO, Pony.ai spoke to Bloomberg’s Edward Ludlow at the Bloomberg Technology Summit about their outlook on self-driving vehicles."
     publishedDateTime: 2021-12-14T21:19:00Z

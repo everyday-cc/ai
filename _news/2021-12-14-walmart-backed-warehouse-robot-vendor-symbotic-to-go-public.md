@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "San Carlos-based SoftBank SPAC to take warehouse robotics company public via $5.5B deal"
-    excerpt: "Symbotic's AI-powered software manages a fleet of autonomous robots that move products around the warehouse. It has partnered with retail giant Walmart."
-    publishedDateTime: 2021-12-13T16:48:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/13/softbank-spac-to-take-robotics-company-public.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 26
 
 secured: "k2nqMmmzU2pjrTMQ1N6QduMDuQYUnKzFtr5NJCmil+HpzV8HTE//czB8HErlnMktYoZcV4Vge+2sq3Vh48D3bOziA88ZOUYYhbuBtgp5FBlT1ZM5zINeLFTe26lIevZUrWLlu5d1QqZqVEIc6GbV8ifxjfzxLwUPb6W+fazLPpxKo5G617/O0TjQFJk76P0mGNU/uSNdMB6z0DmhG0DndwxNpUMBvBO2UY1IY2Rbp2rJpZsTmPzO5diHOCMvE6BOJ+YsNTCw300E74X0y09rO48jYxQcNw70O3TB391dwu9jtVpPwZMDCmNEUpZpuFrqnO6mkEPxaP0Ypj3zY0tnHwaIVccRh8GbkSpL/w+6Mn8pOM5iqsl2hd0LwPqPX6gFqo9wSTsrqjb8G3L11OmD6YCzKcNs4kEh2wpoCn2O0MrcT4mRroD7lv7NHwwDi0g0tFgDq/h/4TAuyy/kvKDzo9y+RMxe6sHizTd4U1KPLw63DhE+3kQz4cJkt+iOXZglD0qbIfKTHzEUFnECyrquyQ==;vS5hzAudFN5qr97LThUj2A=="
 ---

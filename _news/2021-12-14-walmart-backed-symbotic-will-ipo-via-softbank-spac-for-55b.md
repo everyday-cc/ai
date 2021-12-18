@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/finance/companies/walmart-backed-symboti
 webUrl: "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/"
 type: article
 quality: 122
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 600
         height: 473
         isCached: true
-  - title: "San Carlos-based SoftBank SPAC to take warehouse robotics company public via $5.5B deal"
-    excerpt: "Symbotic's AI-powered software manages a fleet of autonomous robots that move products around the warehouse. It has partnered with retail giant Walmart."
-    publishedDateTime: 2021-12-13T16:48:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/13/softbank-spac-to-take-robotics-company-public.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 26
 
 secured: "8kRLryQcmcqp3znP3QnDU2EnPMlwmk6Y+UDEslgT1s+ryx+b9aAbvEgOxbDwwPgjBmSBczBNQyq/miqUIkZqByYba29yMSPH+Avl9UCZnef9ZouuAzDnEfB3/pLEd0wrFMXeaed1lASY9jxLtsM7n1029VfI1xBiP7ShUm96w4bpuxTP+abFAeUMXpIxeaJeaMAtUtOPravthqt7yM7I5pMzLn84aIJwCUzJ9oPsmEcVmsTx3+ESG4eOdqwbhNe18BFMnB4h0iOVXgeHmWu0HEl6GHw9o4SplqofwfQNTPvkdwmIfOJDEEYBJOSKMl+6kRV6UgrGxRcAfxICoVCZ1YbHq5iH2qYRwvz52y2VG9mSGZhVubz9box8TKRNDPGlOzYi/y8vR/cxNRe2CfGq8nw259fbQM0Kdp6MIJSHp4CkA8tNmpeBwX9M/HWrAPs9UOQ060W+dOvuffGGYS7k5PDOCPMeTCyibvmPVnkpJL9je0GF27FHdMvDhqYZqEM+DfNgN0uoCP5ptNVCaWMShOPqr9CzJ1ijaYuOCd7dRd0=;RtzinpvzMUxrxbAc6ftCog=="
 ---

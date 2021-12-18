@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
-    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
-    publishedDateTime: 2021-12-15T09:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 41
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "Cdqm1oZJPma491uMiEdXKERe4kRDDLiUu0m34bYCHTHEDyON9G33bmSVVJW86vkk3skT0tQKDvaa2WUxqIKOrJaBhziRPc+pi9tpx13Ky9n651i5bSkWHB7eMQnHz+QknqfXLzAs8oasSaFe/rDQwmDoXh4jYxNCKNLNpx1W5+2u5k0ymEi1kyZzVvdhyzDDEeLD/BqKCSqt0G6UTIHtiSgu+cl27zU2qq+EkOqUPYxrCIIQgwsmd/V/z8YBXLBKUYtJM0O4FNpFtjxgOFS6Klu02du7dhAoy+0JnocFHXBJx1TJiKFdsHVvq3YUoW3J9OZm0rW9pM1yxcmwTLJ/zIlIhOr6FZVyAiTPGx//3FSdMtecuOxt2BopgRuOUKe3NlXI7H9q9PTmGFgkQ0dO7nAIYbZtlGqzbkbN4olgG23+3pq9pN0uwGj1rM8pJd5gQAVME8j1NOokss2rGuEYGHKF2Nx3iWLS6HdzDRd8GDixbzKNR+MhTUIBtC+/snjqoySs1ATq6SJCZ+6nMmWZFA==;ya3IeCQpbDi3s98dFnLRLA=="
 ---

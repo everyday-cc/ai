@@ -98,20 +98,6 @@ related:
         width: 1600
         height: 1109
         isCached: true
-  - title: "Artificial intelligence could provide a way forward in treating COVID-19 | Video"
-    excerpt: "The answer remains fluid in the face of a constantly evolving threat, with new data on therapies emerging almost every week. As Sherlyn Seah finds out, tapping artificial intelligence could be one way forward."
-    publishedDateTime: 2021-12-13T15:27:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-could-provide-way-forward-treating-covid-19-video-2377041"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 32
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--q06_-mw1--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/12/13/4c6cbea1-f52f-4626-b9ab-649c8d35da46.png?itok=ZyQNEfNu"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-14T21:12:00Z

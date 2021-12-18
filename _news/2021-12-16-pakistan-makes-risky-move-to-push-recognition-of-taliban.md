@@ -24,6 +24,17 @@ images:
     height: 418
     isCached: true
 
+related:
+  - title: "With more supporting voices, Pakistan’s stance on Afghanistan situation getting recognition: Qureshi"
+    excerpt: "Foreign Minister Shah Mahmood Qureshi Saturday said that with the world joining its voice, Pakistan’s stance on the prevailing"
+    publishedDateTime: 2021-12-18T08:13:00Z
+    webUrl: "https://www.app.com.pk/national/with-more-supporting-voices-pakistans-stance-on-afghanistan-situation-getting-recognition-qureshi/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 0
+
 secured: "PuNs89Y8ao0fd0F70983xKV543ypUYQoyFhgBk/lz/O0M3hdNYyUdmQ7eyXAxmoaNipHcfRwxAhB5XvL+OoEsFyWFRo8AP4j0OvuYBBv1YIasnIyOZzII7ZZPXqyrlIu5oz96/ClG3a4Im0E4xJmXQSzmtJb4ixynffUmQnz34X2FJEFhV0EYgYj2arQRodCrU/STDye0/sbDUGdYaz7MKf8CGjHMwB2vcr23QeNFns+EfErQg8ofSrj9g7BZFjiGp1ziONl0u6pbpYXOeyzsD+UsSxu39GujMCNNpacDx77vQYmFQyTC+OXP2yuDJ73kkSZZpc1KG3vggCmBmjgtbv5YXV4gDSd493qgGWpJPRoEQMWw8kwlAcm7DEKouXRFl6H4P8l2mDMUYmNoKlB8AcVfCDtoSqqE+scIlIOaHllHEBfGKzSxDtj7OmfwPtxgjZ3a5SS2IgF+lzmZWbkxTvdTvCYe6b/U/z6IZUoiLkr1QUaGFeR4yHYTE1bYWXVDhu+UzcIspD69Z62jVeT8w==;NWHcDYnHgmBXW13n1FE5Zw=="
 ---
 

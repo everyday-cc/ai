@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innova
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "eDesk Awarded 'Innovative New Technology' for eDesk Smart"
-    excerpt: "Desk, the eCommerce-focused customer support platform, today announced that it has been chosen by Google as winner of the Deloitte Ireland Fast 50 'Innovative New Technology Award 2021' for eDesk Smart Inbox,"
-    publishedDateTime: 2021-12-13T16:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edesk-awarded-innovative-new-technology-edesk-smart-inbox-/2021/12/13/9510000.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "Ai4PUjA6fu8vizaGTqy5aVkROx4mSM2EhmeGQs0zcLCAGh3VwZMfwOuY1nbKNZZQWqUkjDgTkRb1kHxFxRzNmhECV7ColI59q+pxmRXQg/l0FV7OUvIuN93rCZgOnwMvgJjmPFQ33Jyuo429W85/JQX3h3Hrg4jYpVEuUoANH8MVTyLBEZ2Bf1e7QwWQ0DAez2uedp3ypYCHgo3wmmx1/xVaz/GtJ8ECOr83P2d8Px8p8YVIOhLHacCFG2SFa1ebbQYK3Dkb24ugfN3SAU00ukxAFJPRd9i5NGwA+snirtpvq//nzRV5JZHtYVRvzMmb1SInXp0TpxE/7/KTKqDKYH14jR63mYDm5jSDJ2YFid3MVJm9PRQnp0E202MqaPjIC3C+RAiMeU1oBXcQD2J03a9WWgAJ9Ew9VNXpqLx5vsr+0I7ddZhwxnro7slqRuGiv18+PYX/c3PoKlsjriTmtmFFOKIwUyBnhh/dWBVFyjGUH9FutXiUViNOjF3nw4IhdCZiTzeHdjg9PH4vXoGJYA==;gNhBjgMPO1RiiOcj022Mpg=="
 ---

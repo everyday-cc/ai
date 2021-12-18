@@ -7,7 +7,7 @@ originalUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-re
 webUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-report/protecting-artificial-intelligence-inventions-in-drug-development/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,16 +26,32 @@ images:
 
 related:
   - title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-    excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ..."
-    publishedDateTime: 2021-12-16T14:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24643155"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155"
+    excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ..."
+    publishedDateTime: 2021-12-16T13:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 23
+  - title: "MTS AI's INTEMA Joins NVIDIA Inception VC Alliance to Invest in AI Startups"
+    excerpt: "INTEMA by MTS AI is pleased to announce that its AI accelerator programme for education has today become a member of the NVIDIA Inception VC Alliance, an association of 200 leading venture funds and investors that has been established by NVIDIA to support the growth of startups across fields ranging from AI,"
+    publishedDateTime: 2021-12-15T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mts-ais-intema-joins-nvidia-inception-vc-alliance-/2021/12/15/9511779.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "Learning from previous research: Shedding a spotlight on development interventions supporting forcibly displaced populations"
+    excerpt: "This blog entry is part of a series that highlights insights from research for development policies and practices, supported by the Knowledge for Change Program (KCP). At the end of 2020, 82.4 million people were forcibly displaced worldwide,"
+    publishedDateTime: 2021-12-16T18:35:00Z
+    webUrl: "https://www.publicnow.com/view/E1C762A82A7A10C189E56707EB189B612A93B72A"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
 secured: "aeGApv5iaQ06HKcfAeFDWCxL6Hy2jEYZTJj0jqXEtWAtBQtXVXzKYBLEGHGe5XKrwZzzMejx/BXQXGOLZ4IIyIifnGDuS9XB0SS5y0erT/xId+mexUaakwYgWRvLMDrzP+zKWEuY1dMp99g8bTKQWapgdGov70jwDI9bFtCKKri4ZVQEG7P5vee9yMlUOEEQRvB8MTlT3O/rM+eOoV9zeoFL1jqATZFfpsxnh4iKdLuuxMRMOkZEOZgyz+/mZqAwVYNLdxvr9t4MbuIL+O6mxu9O3nPqW1sQ21NtteXBsRm2ZPCDRgzOMsp0jRzGGqxHzouS1wacftISDgqS5Xdz5fB/VVffq50HhQQVAtvGpZta+/psQHJZ2w0NEw7kT49NTYZ36FjCovqrryFlrHlxvl2yetHH2Gl/jNb8Zelsoi6t2bLuCfzK5N5jBn6pPzTx/ER747YrHarzsoVJlZKvIDZekrWVzUjJjRxsOCpB6wUoKQxqj7FRTiF0vuw8ahmKqouYu9Yy9BY35zv0Dd9tWQ==;My8ttob5OYsezXLxM3FkVA=="
 ---
