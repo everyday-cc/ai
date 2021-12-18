@@ -37,6 +37,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "MTS AI's INTEMA Joins NVIDIA Inception VC Alliance to Invest in AI Startups"
+    excerpt: "INTEMA by MTS AI is pleased to announce that its AI accelerator programme for education has today become a member of the NVIDIA Inception VC Alliance, an association of 200 leading venture funds and investors that has been established by NVIDIA to support the growth of startups across fields ranging from AI,"
+    publishedDateTime: 2021-12-15T13:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mts-ais-intema-joins-nvidia-inception-vc-alliance-/2021/12/15/9511779.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "cB3EDZJ4fSdF4WKptqE/7Pw6J1qzaI2TNMtMLam9oxRXwJRXGpqhosb4aHvqUbxaGRGPX69RJkpNKWk2O6g7ak9ykqnuqRLb6D9Xv7bb1dtKGypfu3g6tWCUdc4HecQmkbxnfB8abeq1CaFcviLK6aely+QbLUrnXd2tCbOyV3umeErMKF+m85KxhmETM0o614/DdQEn8ksQE7nXPS28T80PliLtJ2bxmEXUOtnfuZPDr+w1pl9zBRIJRiiyog/sDq1SfJD97oWNtSEK0plMR7h8+6MRJ0DK3I5sTNIe3R9feTDVfy4uHcCkPgJrCnDRSvavuJM1MAyXgeZrpp/rPKr5h4ChbihuaLmfIMp+R0lZwtM7kcpnXfzpTsSXZ6LZ0pOLWDpzGE47XMK8vScrxhpBkDykHBfY68t20ieGw/bHH1jqeAIhnylLcZ9rIVkWgCiCRg7XbYo3RXIQpMEy0kf9CbaAeTsAH74Rn7BdZVzkKGtVBNKetX+FLlZ3sItGQoN/u7jKjlxeuPoOKFBGBA==;ND/ERh3B5aK97G7EEJsCDg=="
 ---

@@ -134,6 +134,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Webinar on career in artificial intelligence"
+    excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
+    publishedDateTime: 2021-12-18T02:15:00Z
+    webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Top 5 Edge AI Trends to Watch in 2022"
     excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
     publishedDateTime: 2021-12-17T17:23:00Z

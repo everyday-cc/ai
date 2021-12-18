@@ -83,20 +83,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
-    excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
-    publishedDateTime: 2021-12-13T10:11:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Soul Machines and Microsoft to collaborate for AI products"
     excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."
     publishedDateTime: 2021-12-16T10:48:00Z

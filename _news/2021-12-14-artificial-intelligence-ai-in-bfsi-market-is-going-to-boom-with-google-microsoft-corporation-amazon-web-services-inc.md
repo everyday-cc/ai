@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfs
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with"
 type: article
 quality: 81
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Deaf_or_HoH_person_at_his_workplace_using_a_Video_Relay_Service_to_communicate_with_a_hearing_person_via_a_Video_Interpreter_and_sign_language_SVCC_2007_Brigitte_SLI_-_Mark-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "A Microsoft Researcher on the Power (and Perils) of Building AI"
-    excerpt: "Just ask Mary Gray, a Harvard anthropologist and senior principal researcher at Microsoft Research who this week stressed the importance of collecting data mindfully when building AI--and how failing to do so can result in social injustices."
-    publishedDateTime: 2021-12-13T10:11:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/artificial-intelligence-social-justice-responsibility-microsoft-mary-gray-neurips.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1235753675_489895_u48iav.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Soul Machines and Microsoft to collaborate for AI products"
     excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."

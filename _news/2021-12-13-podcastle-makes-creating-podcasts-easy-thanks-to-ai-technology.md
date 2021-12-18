@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-02-deepminds-ai-helps-untangle-the-mathematics-of-knots.md",
+      "title": "DeepMind’s AI helps untangle the mathematics of knots",
+      "excerpt": "Researchers at artificial-intelligence powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-03593-1?ref=dailydevbytes.com",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-03593-1?ref=dailydevbytes.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
       "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
       "excerpt": "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ...",
@@ -1126,49 +1170,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-qualcomm-and-google-are-partnering-to-provide-a-better-ai-experience-on-smartphones.md",
-      "title": "Qualcomm and Google are partnering to provide a better AI experience on smartphones",
-      "excerpt": "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/",
-      "originalUrl": "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/",
-      "publishedDateTime": "2021-11-30T23:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

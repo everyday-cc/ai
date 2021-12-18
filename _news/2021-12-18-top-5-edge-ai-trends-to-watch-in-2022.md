@@ -138,6 +138,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Webinar on career in artificial intelligence"
+    excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
+    publishedDateTime: 2021-12-18T02:15:00Z
+    webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "d1Oi8mxDdEXXBQqXfabg18iJ4WcJBTnx4WXcwSEb90uWZDzL4M3NUEZum3oHmf3pEhcRySWvZwNWjRTBLCyZflAP99FQsPW1tAHmGFriZEjXgzZIZoOnXyOOFBIgYl0CtgBM+RZ8hTJwUCcIrNBKcjK8FwSSoAlG/17x8YMYnd6IEJrTpgNfRkrelrCAeG9RlVuGV8oI7qNlTBTVYBDbGa9CQC2NxCtWGBW9vV2jkRhrH0qS1qwDYJKtl3itTShRU1ZYyyyyNzLOGHM3yJ1Tu8t9r6WAIRdkRVyqDfIBJ+EPG5qvxkuUR9y+f4ZEtFJMO5AxG/7rziu7P2QU0OyB6TDWy32nTaoIRKUC9QKmzJM=;jmJJHrSTW1NNxKCit8XkPQ=="
 ---

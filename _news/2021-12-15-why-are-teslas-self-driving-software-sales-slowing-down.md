@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 181
+published: true
 
 provider:
   name: Nasdaq
@@ -22,22 +22,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Why Are Tesla’s Self Driving Software Sales Slowing Down?"
-    excerpt: "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars."
-    publishedDateTime: 2021-12-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
     excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
     publishedDateTime: 2021-12-15T15:05:00Z
@@ -98,6 +82,22 @@ related:
         width: 2389
         height: 1331
         isCached: true
+  - title: "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident"
+    excerpt: "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers."
+    publishedDateTime: 2021-12-17T14:39:00Z
+    webUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/"
+    ampWebUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif"
+        width: 600
+        height: 325
+        isCached: true
   - title: "Drive around San Jose with Tesla’s latest Full Self Driving beta"
     excerpt: "If you are at all interested in the state of self driving cars, this is worth watching. First off, Tesla’s Full Self Driving mode is amazing to watch. A bit nerve-wracking if you are a passenger, but amazing nonetheless."
     publishedDateTime: 2021-12-13T14:04:00Z
@@ -111,20 +111,6 @@ related:
       - url: "https://www.loopinsight.com/images/logo.png"
         width: 520
         height: 208
-        isCached: true
-  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
-    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
-    publishedDateTime: 2021-12-14T21:52:00Z
-    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 39
-    images:
-      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
-        width: 540
-        height: 420
         isCached: true
   - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
     excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."

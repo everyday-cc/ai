@@ -18,34 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Top VC Firms Investing In AI Right Now"
-    excerpt: "The Softbank Vision Fund for technological development is the largest private equity fund adding up to $93 billion"
-    publishedDateTime: 2021-12-13T10:35:00Z
-    webUrl: "https://analyticsindiamag.com/top-vc-firms-investing-in-ai-right-now/"
+  - title: "DroneBase Acquires AirProbe, a Leader in Artificial Intelligence for Solar Energy System Inspections"
+    excerpt: "DroneBase, the leader in intelligent aerial imaging, today announced that it has acquired India-based AirProbe, a leader in drone inspections of solar energy systems and AI-enabled analytics of solar inspection data."
+    publishedDateTime: 2021-12-15T12:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-asia-india-artificial-intelligence-7933de4f9a43be8e66aeac732bb92e3d"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/avi.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Protecting Artificial Intelligence Inventions in Drug Development"
-    excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."
-    publishedDateTime: 2021-12-16T19:12:00Z
-    webUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-report/protecting-artificial-intelligence-inventions-in-drug-development/"
-    type: article
-    provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://bioprocessintl.com/wp-content/uploads/2021/11/iStock-1195775373-1.jpg"
-        width: 875
-        height: 492
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Kedaara Acquires Majority Stake in GAVS Technologies, an AI-led digital transformation company focused on healthcare and other verticals"
+    excerpt: "Kedaara, a leading private equity firm, today announced the acquisition of a significant majority stake in GAVS Technologies Limited (GAVS). GAVS is an AI-led digital transformation company that focuses on differentiated managed services and product engineering in Healthcare,"
+    publishedDateTime: 2021-12-15T14:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kedaara-acquires-majority-stake-in-gavs-technologies-an-ai-led-digital-transformation-company-focused-on-healthcare-and-other-verticals-1031047466"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "wU6aItGvvwSrfPzaW1m3oDth6HtM4QfYOXbymuCIdBITHnZrGa3Il/SCYr5T/gJF5b+Xfq6fMSzBhXWuwH0577Elu9DzrOPRnMb+6W1c7RuD/BNesShzGuZq914BVbyyg0uJvztmBj917OhBbUvli+Os9X6k7RvT7zgO3togT0YB0c5ygAsdyZ69jt6cH+22cyyLG0dur+kinOqg9H9KY+J5Rq3ulrNJCZNqs1VmYeEY2+6Bh2uFl5gpltXRj+KZvSLiPdrdj/qOYIBh75KFTUMVb+6P5LH+DbeoGF8nHGgzUYOBUr06yMuFoOm09zNvAiwy1fEVkjYlubCZiAlUxjI/EL/tFLMrKXrgbXce0XE=;3cSybMkJ3hhlLTaYzLpBTQ=="
 ---

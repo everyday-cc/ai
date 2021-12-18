@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Human-Computer Communication: How Businesses Are Using Natural Language Processing To Talk To Data"
-    excerpt: "Today's business users rely on a collection of reports and dashboards to better understand the data underlying their operations. These tools are most often designed by IT organizations, which use coding languages like SQL to ask questions of their database and report the findings back to business users."
-    publishedDateTime: 2021-12-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/human-computer-communication-how-businesses-are-using-natural-language-processing-to-talk-to-data/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ohio legislation seeks to streamline state laws, rules flagged by artificial intelligence"
     excerpt: "The bill would allow Ohioans to get state tax documents online and permit driver’s license suspension hearings to be held remotely, among other changes."
     publishedDateTime: 2021-12-14T17:00:00Z

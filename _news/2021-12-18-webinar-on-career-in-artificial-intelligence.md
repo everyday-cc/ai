@@ -1,37 +1,45 @@
 ---
 category: news
-title: "How AI And ML Are Changing Finance In 2022"
-excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
-publishedDateTime: 2021-12-17T11:00:00Z
-originalUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
-webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
-ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+title: "Webinar on career in artificial intelligence"
+excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
+publishedDateTime: 2021-12-18T02:15:00Z
+originalUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
+webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
 type: article
-quality: 121
-heat: 211
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI
-  - Machine Learning
-  - AI in Finance
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb4ea97e034c7c7b01f125%2F0x0.jpg"
-    width: 1200
-    height: 801
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
+    width: 660
+    height: 440
     isCached: true
 
 related:
+  - title: "How AI And ML Are Changing Finance In 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb4ea97e034c7c7b01f125%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "3 big problems with datasets in AI and machine learning"
     excerpt: "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources."
     publishedDateTime: 2021-12-17T14:30:00Z
@@ -136,20 +144,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Webinar on career in artificial intelligence"
-    excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
-    publishedDateTime: 2021-12-18T02:15:00Z
-    webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Top 5 Edge AI Trends to Watch in 2022"
     excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
     publishedDateTime: 2021-12-17T17:23:00Z
@@ -160,6 +154,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "px+Vcf/9n8x8PXduE9WVMPCFS8WvUeZDFm83NFn4XDU9UXkIzr95nDik9cFh4WPmY24gvAho9S209o3OLVAvsbXPU77EjyWNMeUuR+2nY/h/7gUhiMO2xN/NJpwWd4hqTWdVEyvKY8kTb6MTGyMTjNfu0Aa5/i2ugGurTygPaNp+DiMqR5y7qYwxDCuDDh1LMoc+EUzl0/lPGAJYGOmjUAUF0XaiZaipcyXGrr3/e+tDRPx7ncIpkvXDyLoNd+tU1rpF7evTamuSs7MLS9EQghs/QZh/QAvgM6V71sw8NMRCO7ddjJGh1DGCai67jD1B2Wap4QmYcv3Exh6FK/yXIhXKkBvfnm13FBFwdglG9a/RPMQqwiRx7E9E8r6lt7oDhJ8UC+AdQhXq2g/ib7L9lfieoL813b17N0fgLO3uClnZRcmLIQwJ2jZVzC+HEVSLuDnvuUCJ7g+QdKNRvIknhztbhH9Sdp3kFAsGk+v6h+tMQc9cs8w6Ox3IPnYrAi9gy+N91bt5Fr+2bLztseJvhQ==;72LzZaw26mOKsP/Eg0BA6A=="
+secured: "W3JUlqBSrfyh8jm31JmcLanUhZ9fcfmW8NlF+vcMQYsHv092FjucIWB0Jcc5zbJtHwuU6E6TGmbwq05wuMDtrVRfNWCuxr3RAHPrSrCMTuN95TDQw1UguZBH2Y/6+3NwpcdHoovyKboCcjbZFWg6v4udTuFXKZS4OOM3NGd41u9haN2zTS79DzvDYQoWVQvsCj6iFim4TuD2n96is/hXkmunfn9gzc2Agxby4M04eLTT9BA5Ri0/1kCP18xR0VSSU03JF/UPHmulabvzV1WH95SBy7EqKz0cfDAdUNcQ8YpNrvZNNprQh4RyCsMk0ZuM8b0FCftoVfZBn9s/A/5rDZcymC7cW8SMnr65MyP6dMw=;GMPikueC4JXG+6cHukP2PA=="
 ---
 

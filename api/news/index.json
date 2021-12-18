@@ -55,11 +55,11 @@
     },
     {
       "path": "_news/2021-12-18-killer-robots-arent-science-fiction-a-push-to-ban-them-is-growing.md",
-      "title": "Killer Robots Aren’t Science Fiction. A Push to Ban Them is Growing.",
+      "title": "Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.",
       "excerpt": "A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.html",
+      "webUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -76,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/killer-drone-ban-robot.amp.html",
-      "publishedDateTime": "2021-12-17T14:07:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
+      "publishedDateTime": "2021-12-17T14:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",
@@ -469,7 +469,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -890,7 +890,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {

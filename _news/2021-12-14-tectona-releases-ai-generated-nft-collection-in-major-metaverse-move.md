@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/tectona-releases-ai-generat
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -38,6 +38,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Next-gen crypto-based metaverse SpecTrue aims to elevate clinical diagnosis for people with special needs with the help of AI"
+    excerpt: "SpecTrue is looking forward to using AI to improve diagnosis for people with special needs and the metaverse platform is also aspiring to influence other aspects of life,"
+    publishedDateTime: 2021-12-17T23:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24685392/next-gen-crypto-based-metaverse-spectrue-aims-to-elevate-clinical-diagnosis-for-people-with-speci"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24685392"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24685392"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "mXproWQQVDUrB29/tKRF/6RVgS7a4J7DMf7Lia9UPQ1dm6vlrXb6GY4IwPfJtF1wSDOW2MPFZ+8RRKSVioMzByXOYuSh+2zO87VMqGPE6zIk8gt0NfEOzZKn5H1VjsWflRmUtRCdIQOffQbw3M6eiflRwOsiuB0QyyYs4gDWgHVkps8H9yf3PaXDq12fonczPmZ0b3itMxpvC0VtB+WTCZTNcUGOoa0MfL6cD0J81Npmsxfl759w8RsOQslFYYs1MOZviEsyBXCiPw6Szrjg0mbsyJfOiXbM471vCwt19BR8UbBakcQw8imMRKj8fd80CuLf/E91bz5Kz+mc8w1MFxkK3cY3+pqu9NzLkmmFqASgiQArzHUzcwIDF7um9j0PcmIWPViGx0da6u9RVEB7Eoo/O0YEAMyy0Gv6ft33CLjMOL4+sv09Jv31vgHdyOuUHpwR6iBDetIyvrrMlutS/56G7M/uGEskFgdDpiG90dIBwDJ9uMQhvyLxKkDUwnXzntZIJgsHgdwU+Nzj8ooQpQ==;2RaQ+6MCCyhZUqiOvOY4nA=="
 ---
