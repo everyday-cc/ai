@@ -2,7 +2,7 @@
 name: "DataRobot"
 overview: "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes."
 type: "profile"
-heat: 108
+heat: 92
 
 website: https://datarobot.com
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "RnPAb8j89sz1KmmGPb43M+wDM68SBhNeXU2UrfV69/1Kdg6joI4JFiNS/oJkZudhbVgEMzzeoNBKZEilvELLf2+9jgNFgoVvWymgJ8OFPfr2LEWzcw+CFTW7mdvxYZHHdBjy3Fi2M+5T+A1C3wl6bQL2DXOEjyzrC3FrNBBoVIowMKPJkoXIrhw3bxIh8hExawUmDDX6rrWpLMY+T9Kyj6dlvWPu8ehP7pd3SybOEc5pd27lWTXtg3OXAcQPnATRqk+LsbwZ0ozYODi7Qfc7QO89PnEnK4DLhpDcm85fwCDv5hBbAVWszoZaIQZPHIQaWN3EHv8ZjqW6gVZgvw6DbvypY/W/jLQUWph0WBaibnsA+JEIKx0t3EIjOvi+nHpV0cZPSn8nw6A4nRbbmg3R0irhsRL4+IWhOGi46IfyTvo=;Wia0hs4KT2mjwjYiw5rilA=="
+secured: "fKNWmfpF3cLt3RzcMpYfLpju1Gou2RVd/qoR5yrtiTfyQG8HZjlmdIm6WqJNFNJwjBHOSvqXWfjCki7EOebbsGc3ztSQ0TaYxX3XL1/PA4MLsssFBzzev4Em8AAjjzVFQdeiSuUDR9axeAbrCxH4EidfPS6OepS5xIK3TRV9lJDOH5WRPXVBefIirJdeFhSlp25s/tdZIqymE5ElkNpMFCFZ741Zvdq9wdcW6jFNAUJW90Ydc53F756zUCHGG8FnG8OgHIiCSdXnvj1Wm5PRqm0t73PdszUxMlJ4BcwxnkW6hn8RSvXXK6pklwm6AXuIovez4ZId3soAJeBrEGp1EPAV6VHAl+PzM++ZK9hQxirJiJgEhYUQVii9fd3DjUcizzR+6UUJlyFdiDgEqT2UgqOGKt1VbMOuM3065hju/ow=;aj+Is11AqrxfeGgxb/P5NA=="
 ---
 

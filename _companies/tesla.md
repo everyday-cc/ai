@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 621
+heat: 609
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 12098930
+  followers: 12099841
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "rB9qf3LCTCWvMiw3Ez/2BpZN19/me/Kswh5UcfMzINP0+zSLAMWRlED/zRvJ8XH4SoDBFEROEKTq0/oVqbSTAGx8E16/q+wEjuZBl4FfBnGq0hT9GJecg9/0LqFrjGp3tiGjzFOgyzceN4R6OjUEGfsG/pg33r+NAgTW7wgC86GI4E3YIaJRph+6T3unWNlaTXHMEp5zFik/YJoznhhcweIyfm4Ysz4z3mvAonZ2GbLtTIgDOEtTcw/l2/kexNuoUZfwInPytzWglXRqnpb2fcqJP0+HepzAONiFoN+54e/Uf2ekxS8eaCRmUS62qsB6aOTjROue7rzTX04mwQCPi22NvIsEROkGJIJvPV3N+eictEd0Vd/q5uosbF8MXPT0z3JRcz1TMXwmG8ue/fncqBDLi9NpQkVH8xtuXN8COfM=;Fo5PsDtmS9uukX0cqlyQDg=="
+secured: "BiGOyqiFshcBkQGR4rLYmRCYVk3hXdjit+VBJyjDhluu4g0nsBEK6J4S6bIZ1O7s/khoO+0y6uT8xuZKsp/NqOPLCD55V9lyGk4f1K5oWePvnWEVkRvKQx9HklGKekpQmHojKOCakQGI8jn+aqGB1Bu7AdgXYlNxenLXr2Nr8vIK/Pq54PjIW6mu1Evog1SnxL+FGbibOBiBI3/RDq/rjgmfW3lcG5KcXS82p0Eozbjr42nVQTYCHFKC26LIL/iWMqxCIqGF90bdeB/6gNw77Bu9aGEszjoC3oUuza90nrV2e8BLo6NVYYHmdmTO5JSRxOqsjCDmVWUyxPWYwgS2LOlJPZTdsyLf99Ns2XCNBfF5wKVFoSlnnDW11vRm0EM2ri7u1Ivw/+5vArMvSAJLdBn9HLDofb0f6BNkK4s/4oc=;RCBE/armTcPR90Blz35sMg=="
 ---
 

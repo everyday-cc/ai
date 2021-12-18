@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarshipRobots"
   url: "https://twitter.com/StarshipRobots"
-  followers: 11511
+  followers: 11509
 
 size: 201-500 employees
 yearFounded: 2014
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "k8wF9FM9A0b+MlbGHqJuI+fET9bD5wdGe1wdrvXbFcctG9qWin4m2ifVSeJjQlaMQC0jYKid/tSr+Ly7Pb4Fu85rJg9tH8tbFv/i/EKiVypc1F09ocLHyx8z1ID6GqoNwH5Yhe6Xi+iT8FFFEwlfnOOzEhIqFDHzhbtlcQEVmNCv5Syi7D8E62b2RBAgi2tYBF/ucXcEy0KcZIETQxGhWf96NdE/zfiAIoUFmujs3+x9QR76zktnsE9LGyxK9BsFXVhr40BjSyODPKSS1eqs+9hYPAI13/jvE7XeUj1ysXpWqFNX6EV/YtVOaXgUKITKntdZxPikSC0T19Qxw3/jSkp5uvgmyVfWtDCTuC/V8yvoADEboauv1cNR3BZk9zKuq5Ok2xojkbtPZiJpZDeMXQpU53ukBAh3oQSvI9znOfQ=;Qum9i677j/FyGTWviGyJlA=="
+secured: "uwYaE0d4SpBGEKwEbCVjjmoDPqrGqlPrpM8Xm8HswEn780HACfwG6d3QNZODNQnLiuyPyy2kz5vwfKq8LYjImUX2unq0BHk5SZcd1TzleP0pZwgAue/GiVM+mc9z37N1AzhYNm5GqEjYic8FidjcYq9GlSfzR5jTs6I31zGlQQBhiLEEoDhg9YY1KgNoUkHb3rHHsvzbTJqkRUH398BedHWwOBKn69h7tiARLOziG3cOVJyUf1bvMqQSKEwhjI1ZZedOCS4ETLl+E2ZQiYn467AhN1KBKLSVvvFFLP1qdrY9MCOTvg0BiLlB5iq1QGnDXt1mL7vpIVts7vOM3kqQ0nhX9s4Gjjn9xdzkD/7O0sxspohoTN25TD+zQW3u4xiYaaQLAYtMj10qHM4fMb2XqVKPfoQPp6s+kXOTufejc5Q=;6oal+vy/ZbPn3CuVW1HwDQ=="
 ---
 

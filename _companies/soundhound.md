@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SoundHoundInc"
   url: "https://twitter.com/SoundHoundInc"
-  followers: 614
+  followers: 615
 
 locations:
   - Santa Clara, CA
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
 
-secured: "BC8fEQtAMFXqIRIGLI1zBX6i27y5dNjkOz+E6wLM96zhfHW/2GFDPj+hd+pvTyA/RuC7h8l4I0tfICIit/UgS17KCc0suPQXJJAIMgPdVPOi1pOc8/cYOWt0OKBEkUaIjnIM8sajkayiREaza5/EVy0BJZs4LC5RExFyzokpn8zL61lP4bHPJfQrz5yBAkhWdGkd9TEhQdXtAXYMaVsI47KYZVEhGkZdVM8lZycakDWEw6rqxiyUuO06Rp5l/xZoNjRQP6J6U4eqgkmf9AZ6HlQSo16xju8OQ7lTo4/0II1gu5TzRlt7AatU8BjP5TGYV5WhjCUvTGWBzXc9nZQTppUGeNQ4rFnEVQWPh8mbS/RIVYW0FJ1jYMpWX5zpQBeypMXuo393tRn6lASvFA2H7A==;g4k9pMg9zQYniDhs8nW7uA=="
+secured: "YYsVwXVO7BTmAvE1iePzZU8cY/q4VkpRgXhN/jItOk4xGHlT5cMvqzJIREanDQFr67VN7ZFCORdQKeZkQyEJgVnll+qD8LVVSgTy/jD8afBW8fFf5rEaHyxfmRHmXKXAC92CryXODlTVS7ZmPQgiqUvbUz//VOa2fNHqyu6E58LEu8V2b+VzbEDKkxX3jC+Lgx8BvtPeTJ8HfiwjWM+aER6cy2nXZxKu+1XA+ZIanr45nfnx9zHab0MQJJxyypoQkKM0rMFpMTydXiAjsAoSU3U+TP9KPlcIuVKknr4BgymwkHrTALlRCvkt5lAXzy7LDngnD5YYow8AlKLb/5kxsdnPrkND6L36NQVwuMrV1BpwZWINjuXg1id4YhJlzM3OIDqENccfDS6XghHbJjoTWQ==;0+9mbwY+YTKppEJTNa/a+g=="
 ---
 
