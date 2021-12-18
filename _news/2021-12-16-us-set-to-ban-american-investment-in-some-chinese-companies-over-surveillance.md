@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
 type: article
 quality: 168
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "US to shut all doors for Chinese chip manufacturer, AI Giant"
-    excerpt: "Officials want to close regulatory loopholes that have allowed SMIC to buy critical US technology, despite being on the banned list. Separately, Americans"
-    publishedDateTime: 2021-12-14T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/the-us-is-looking-to-shut-all-doors-for-chinese-chip-manufacturer-ai-giant/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/smic_afp_2018-6-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
     excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
     publishedDateTime: 2021-12-17T10:49:00Z

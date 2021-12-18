@@ -67,15 +67,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
-    excerpt: "Innoveo, a global technology firm and a pioneer in enterprise no-code solutions today announced their strategic partnership with"
-    publishedDateTime: 2021-12-16T13:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-301445933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "84qkiUfBvCuGYwDT1zelJljMGln/afZ/mVvaYC6amlpx2yZO06CdzDS1BZAlIDWj4liRP6xtAJkyNIvar+WnozzdYCW11/NHQDONxs+1kHbhKM/vpQb687xp+Sj532NV8kaZ6OFLtGiEIR4p+Ax7ZoWwkbVpRr+kEv7Qmp0yKC9QWFxthZ+kQiODUI9bMqZzIV45lpz58ztliFFjiOgf5HIMsABJJMxmX3/025I3tWH1gMvfQCLpMNS9cYjWqnlgTt/v4Gl0LZ6HGkVrf/wPUIaOekQTCB+W7AUMq8WRmMcPgl/J2F5SvLMN+ieRLRXL+omq+Znal8zeOUF6berlWTtqzLiT2yNihsGNDD9HilUX13Ql/0qPhjE+Ox/cKpt85nEJ+cvabcHoLa4Mx1wq+eT4mW7mDzSWyl5T8bf5k2cChk6ENTp0jB4Q+cBUgdmJrxWWugOMa46drYAOAjzU73MnYGd1lZ92UeCMEvzcwbGtPPUG8tmaY1xcL5JzUyqdZy30tMC6P3JZD68muB4vow==;uqa+7a8o9y9/l1tYVNXcqA=="
 ---

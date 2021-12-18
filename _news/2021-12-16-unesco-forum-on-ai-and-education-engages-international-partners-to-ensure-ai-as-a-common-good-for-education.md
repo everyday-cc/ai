@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 474
         isCached: true
+  - title: "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All"
+    excerpt: "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car."
+    publishedDateTime: 2021-12-18T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317"
+        width: 1200
+        height: 760
+        isCached: true
   - title: "With artificial intelligence, common sense is uncommon"
     excerpt: "Common sense isn't common, especially when it comes to artificial intelligence. Computers struggle to make fine distinctions that people take for granted. This is why websites require you authenticate your humanity before logging in or making a purchase ..."
     publishedDateTime: 2021-12-17T12:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
 type: article
 quality: 60
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -149,15 +149,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
-  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
-    publishedDateTime: 2021-12-14T00:08:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "R60Ehs3hTw6+wzS4ngHVIooK+NbSugAyPS0EjUyWC5x5mRYwOHQyxRBow4sizHJySxyZ5DwIYZ3GMyNodXQCXzvAmaRpyJloJeGsrUguOpL20zO8ISfqsuFhoRgw53teQTAIMY99gzJ+VmJVjdm8cHFRyn4golK2iMzQGBzSKFwRmjwsNrB/tns5Apx7b4rYBrcbSXcZr4IlltbLiAJF5Li4eX4NVbSVyoC3bYXqbj+I0kkiTgWGADbVbpIoZXy/h5442X/oSYb0n9KpBVyyPE559uBq9WeiL2UgPNrnB3+4b7jygbkOIjLUPgoQMoEUdaaOgfh9TPnXqiIhecDeIp9GqHsNFr1aHg+qEKY6ip4=;H8YegmklkJ7G5fU9lhZlSw=="
 ---

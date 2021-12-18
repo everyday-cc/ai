@@ -70,15 +70,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
-    excerpt: "Innoveo, a global technology firm and a pioneer in enterprise no-code solutions today announced their strategic partnership with"
-    publishedDateTime: 2021-12-16T13:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-301445933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "rslrDVGMj9/yecEg578qgUWwc1oO1ynoHxjy5ZacvbNKN4V8O+I1L64k1OloPJG7Hr11vMKfI335ipmYFqwy/IWlRojv6hnqqAJdlMtd5yvs0FdYh+DMJqTq31RrS2q+No7r7QZ4a+g6CfzGpJ7RtVuV/be1n75evrMThZjdgzj/gwxhdHe0gHeDLE9IqkNsb+2aSFn1TK4dwvC0E1AbhFwB9GEIUDkjlTa0cfj9oND+eZS6zwtBcK17OYZcEGSbH98ciG2N5grMzd763kx+8yQzojLKF27FOlIk7h97IuWA1peqkB3h7vIFnAGHgnai+b0cOd7o+fVGRJXansjCIS8M5H7CYKj3GamJ6rcFv/A=;ugIGstHvQq/lJzZcxg8JEA=="
 ---

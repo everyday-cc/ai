@@ -41,6 +41,20 @@ related:
         isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
+    publishedDateTime: 2021-12-16T13:08:00Z
+    webUrl: "https://europe.autonews.com/automakers/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Mobileye's self-driving technology takes on Paris traffic"
+    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T19:37:00Z
     webUrl: "https://www.autonews.com/mobility-report/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
     type: article

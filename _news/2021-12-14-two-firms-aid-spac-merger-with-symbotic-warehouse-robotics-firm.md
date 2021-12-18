@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/business-and-practice/two-firms-aid-
 webUrl: "https://news.bloomberglaw.com/business-and-practice/two-firms-aid-spac-merger-with-symbotic-warehouse-robotics-firm"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B"
-    excerpt: "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,"
-    publishedDateTime: 2021-12-14T00:07:00Z
-    webUrl: "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/"
-    type: article
-    provider:
-      name: therobotreport.com/symbotic-going-public-via-softbank-spac/
-      domain: therobotreport.com/symbotic-going-public-via-softbank-spac/
-    quality: 122
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg"
-        width: 1000
-        height: 595
-        isCached: true
 
 secured: "whBoon0hLBeWrjdERjOkXR+OdHvq3wvdF+ydN8n3KKscISJ5KO5H0G6OWZMg7qWoyjkHqCA7lMq0A7zq8hHk++/eCevZoCoHSRRIgcBHm4oFTrAjkz6i5IknYebQMZuJkL6bukdaWodK8wJY2/y3AZXR7vZjuALOMNZK2TXoSGE6lzqSIC49dIgZ+ShMrKUdul2mBqOfcQM3qkX/KODWWUIBEwJupo2yDrDPvCngJy9ji1Ub47eOJ5XkZL/vKsQVcb8BqaM9VHLruFOe9q5sT7gibE3fuj1jvzfgXypuckyLA3Q84eG1FuF5QuaTy5zV3xGoqzc4TQ+8DAkFiMWUfhTxUIICWVk/LH0gCldTQ1Q=;T5cD5sNu+jg0DoJRAoAxTA=="
 ---

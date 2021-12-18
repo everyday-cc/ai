@@ -143,15 +143,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
-  - title: "Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Self-inflating Life Jacket Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Self-inflating Life Jacket market report provides a"
-    publishedDateTime: 2021-12-14T00:08:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5161883-global-self-inflating-life-jacket-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "nJh08bH4OcLMIwHBNDE7RzIY+QpBY1VNXhtr78MSD7yUCgxAVZAuV6jRKz6ON0r38nFQpoaz+TMKmUvuPeSqixSR148+enRDFv0nhO0W5yWAsZjxtO0kzL7/iO9i5K7zz92MNK5yWCehU5Lz49HlTWHq0I1/rw0tuAsBgWQtuDtAYwol0MbBFctugcEeC4MNlQndYCj4U1NQX/6tJ8qCUs+t8TZakgJUGUl2YLphRgBdFBtMrGsdL3igcWd6FPL9bR7n30+9Ok56bHTk4QvrwuiVcyuzr3CKANQLeoJfZedfX3UAeFvKWulVDeNtE4Sl4dc9rFDU+lZTXIfTwy8W68mcL0j5uIFc13eGEio5BZs=;o6gF8AVgg871AArRJaZBCg=="
 ---
