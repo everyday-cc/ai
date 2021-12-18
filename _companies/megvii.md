@@ -23,7 +23,7 @@ crunchbase:
 twitter:
   username: "faceplusplus"
   url: "https://twitter.com/faceplusplus"
-  followers: 876
+  followers: 875
 
 size: 1,001-5,000 employees
 yearFounded: 2011
