@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d447b0d2afa5d0dda795%2F0x0.jpg"
         width: 1200
         height: 1062
+        isCached: true
+  - title: "How AI regulation is developing in the insurance industry"
+    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
+    publishedDateTime: 2021-12-18T20:05:00Z
+    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI and machine learning in compliance technology"
     excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"

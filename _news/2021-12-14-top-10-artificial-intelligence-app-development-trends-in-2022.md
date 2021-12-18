@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 1062
         isCached: true
+  - title: "How AI regulation is developing in the insurance industry"
+    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
+    publishedDateTime: 2021-12-18T20:05:00Z
+    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI and machine learning in compliance technology"
     excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
     publishedDateTime: 2021-12-17T10:50:00Z

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-    excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
-    publishedDateTime: 2021-12-15T22:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+    excerpt: "(MENAFN- Frost & Sullivan) Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology Algolux's solutions improve ..."
+    publishedDateTime: 2021-12-16T06:02:00Z
+    webUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 4
     images:
-      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-        width: 1500
-        height: 785
+      - url: "https://menafn.com/updates/pr/2021-12/15/F&S_3092cimage_story.png"
+        width: 698
+        height: 360
         isCached: true
 
 secured: "cS0xF+Y4wOrGSugyRCmNAjpuPqE8g5d12JhPo7g8eSMg+1OVWOyKccyGF2ZPcfddbaJy3pPy7u74TFB5cBYwzVoOKSN6AOfmkPlF3Rv1IaOoVGYEa+Rt8bEGPohB6CBLjn0w6kQftgwZ/GTolxfrFXGaxcCtwggRvlLOpHxnNzpr9U8whAU6+1E1ov7N00NuSSrj/dv+YLUISP+jPEgK1/n/mxS0dByH/ZMWPSxswrVNmkOuQt2tCIHMlF+K5MnmYJUZL0l8pu/JOq6vzaCzVOKuwslS/pxuI5W9oOy/gWykbnLVvlQyMwE5fdPU6IqdGSvYPQX46mKRFnIlw/nUb/infd3L6HpQTntuztS1Lrs=;X+5wwz6hlulBUo2zhXx3Jg=="

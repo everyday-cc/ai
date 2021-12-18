@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "5 Green Fintech Startups in APAC Worth Following"
-    excerpt: "Though green fintech remains a nascent space in Asia-Pacific (APAC) compared to Europe, the ecosystem is evolving rapidly. To get a sense of the region’s climate fintech industry, we’ve compiled a list of startups and projects that are making waves and which are worth following very closely."
-    publishedDateTime: 2021-12-14T04:43:00Z
-    webUrl: "https://fintechnews.sg/57968/fintech/5-green-fintech-startups-in-apac-worth-following/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/12/5-Green-Fintech-Startups-in-APAC-to-Follow-5.jpg?x86795"
-        width: 2048
-        height: 1136
         isCached: true
   - title: "Top 3 trends of software development for FinTech"
     excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."

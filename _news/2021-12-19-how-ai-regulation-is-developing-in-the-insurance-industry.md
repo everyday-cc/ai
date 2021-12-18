@@ -1,27 +1,32 @@
 ---
 category: news
-title: "5 AI and machine learning trends to watch in 2022"
-excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
-publishedDateTime: 2021-12-14T16:10:00Z
-originalUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
-webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+title: "How AI regulation is developing in the insurance industry"
+excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
+publishedDateTime: 2021-12-18T20:05:00Z
+originalUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
 type: article
-quality: 54
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SiliconRepublic
-  domain: siliconrepublic.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
-    width: 800
-    height: 600
+  - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -89,22 +94,6 @@ related:
         width: 1200
         height: 1062
         isCached: true
-  - title: "How AI regulation is developing in the insurance industry"
-    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
-    publishedDateTime: 2021-12-18T20:05:00Z
-    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI and machine learning in compliance technology"
     excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
     publishedDateTime: 2021-12-17T10:50:00Z
@@ -118,6 +107,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "5 AI and machine learning trends to watch in 2022"
+    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
+    publishedDateTime: 2021-12-14T16:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Top 10 Artificial Intelligence App Development Trends in 2022"
     excerpt: "Artificial intelligence is the most demanding topic that is spoken about everywhere. AI is the ability of a system to think and learn from its experiences. Let’s see the top 10 artificial intelligence app development trends in 2022 in this article."
@@ -157,6 +160,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "T8tMfeRKNnAYAmADRt1Ll/6Nj9Ntcu9grnsHKJ2PZZdedTMuM7LVOgt65mX0SA4bS/Eob9PirDcTsT5SKjq/oyF7fnEFbFHktB4cuBNgAjWqElrIWRf/uth7lwolaj/pIByLsNmF2zshdJqg3FzMP2iJlCMHc8wX84vcu85EPna+elHxJ6LELYI0B2hCxRzJXP8r0SFjsuRQlV9zNqnOVOkkcIXnOQ7ZWHug+c5kELWNwdJSpUNJbGIJNO/X6F3TNi3vgJYW3bOLTOnCtlMmQNXRAbAalMRwuKRVNYXFBX63V2xEyq8lfekZjrYNVA+t70CEXQfE9Xkww7VU7kbzsWMZ31I4Jp+YyMKpmiawj1A=;5Q5l5jipRzA3ejCUhAhTzw=="
+secured: "3OajSD2F3ipQdB/LEAiBbz0XMR5R9MrBDWhnvwhm4/Udg9WP7ZxkOz3fSJhy7RtKMv+b/+dGlM/bKGfe+9fDMNtlzeSufhEDXBS6x7eeH7iX98HpcXEdZPMTs1jkQUS6Nk0HnwDTbAoPqRwyG5JExjIS1yg6eM5vkZtPx1S7xoMfkskNDKAnXThGaniI+XqWyNBcHJiE39tXHqq3NaxH/G3eZ4lY3z2Xj1M6S6Evh+C+g4yFcqE6Ig8j3zjBlN47RrDy176HkuUKQg7DKBo0Oq2+rsiLVLduGYNKmKj31CiAHcP5/tWfrUR32LQ8Q4IsPzzus7+qvkZ16dnuADVyyzvQItAIHayaMWYQW90iO1M=;v8RadVNNKYTL3uvAyjDpEg=="
 ---
 
