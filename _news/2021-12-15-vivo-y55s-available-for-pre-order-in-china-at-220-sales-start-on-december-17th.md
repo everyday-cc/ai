@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-or
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/?amp=1"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 748
     height: 748
     isCached: true
-
-related:
-  - title: "Top 10 Deep Learning Jobs to Apply for in December 2021"
-    excerpt: "The use of deep learning has increased and so has the number of deep learning jobs. There are many deep learning jobs to apply for, and this article lists 10 deep learning jobs for freshers and professionals available in December 2021."
-    publishedDateTime: 2021-12-14T11:12:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-deep-learning-jobs-to-apply-for-in-december-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Deep-Learning-Jobs-to-Apply-For-in-December-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Zs7kOD9RuZOFobmrqlN/x1MhBt0xJXYW9pD/BGt6UaVjwadYFP0CUmZaLCFGKD2KVbUQWilPKiFx0MK+Vadtiw+6fGCCxpKk6Fo4NHFbbko4hBjU4QmGI4T7tJN01HVc9UTpiAVtTDbjLodPS0ozlAJ8ANOjPU+qDb+3nwVObJzFUws2RAOszjcnm8i/fbpCTm2ZC39rH3hPcBz+zhfbKemOt9Szysyjoi4OWdqf02DsyeDbteouHl0j8Z+SNCH9K3lc/NGSsBfoLoSxfYHRL5iPClLUqRQB8wEmW5qGST6gDmloCpAbi8oTgSPirzStG9KBxBQY73IspDv7KKhNUTesnlYnRXGBAFC3BABeh3c=;igVRtFPEhu+V4pOUAvE2mQ=="
 ---

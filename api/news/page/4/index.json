@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-15-veritones-ryan-steelberg-on-building-an-ai-deployment.md",
-      "title": "Veritone’s Ryan Steelberg on Building an AI Deployment",
-      "excerpt": "Artificial intelligence needs to be demystified if it is to be effectively deployed, says a leading industry expert.",
+      "path": "_news/2021-12-15-mlcommons-releases-open-source-datasets-for-training-speech-recognition-models.md",
+      "title": "MLCommons releases open-source datasets for training speech recognition models",
+      "excerpt": "The MLCommons Association, a nonprofit consortium that has the goal of improving machine learning for the public good, has announced the release of two key new datasets that it says can be leverage by organizations to develop superior artificial intelligence models.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
-      "originalUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
+      "webUrl": "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source-datasets-training-speech-recognition-models/",
+      "originalUrl": "https://siliconangle.com/2021/12/14/mlcommons-releases-open-source-datasets-training-speech-recognition-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/12/New-eSPEAKS-thumbnail-4.png",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/modern-microphone.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T15:45:00-08:00",
+      "publishedDateTime": "2021-12-14T15:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,6 +40,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -644,7 +636,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {

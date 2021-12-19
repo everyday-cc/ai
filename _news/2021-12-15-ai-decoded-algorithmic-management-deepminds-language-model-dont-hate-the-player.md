@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: POLITICO
@@ -25,22 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Google GLaM Vs DeepMind Gopher: Who Wins The Large Language Model Race"
-    excerpt: "A day after innovation leader DeepMind came out with Gopher, a 280 billion parameter transformer language model, tech mammoth Google introduced the Generalist Language Model (GLaM) – a trillion weight model that uses sparsity."
-    publishedDateTime: 2021-12-14T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-glam-vs-deepmind-gopher-who-wins-the-large-language-model-race/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/glam.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "UpJzEzvXvs4gnQpvyh0+fcwai8EyL+FBbSsWTaw36NhFcpvgVbpD70YVAtDk7nhw7l4dZizqwBBTOSuvstQZD5z5rzaE6ptqXQeN/OlnvXUSd1XY1lA4fNaQt1M7eAFpqRWERTAVlAJjerd8/aShL/2xwpnsG80cxX3p6zrmFLvNg56zJ+KEcATTym7++iYaowiuKgPVdQNc4iyS5OZHvQytlXcXIr7if1EzWGFTOZL929B/bRybTn/t6hlLgXbVhMVPDTKHPmHYCMMzT08G4pk1SrncOONnBwP2Dy/sNHVWmxfzq6RScfVH/EFFkgJlZI3iUDnkY2jAkH7BNGZIpsL2h7BZaScxMuP+x9Kk1DenTDV3cUmdFA0YGdTAK9CDMrsbE+7959aHwDEGTo83nxS0+Pyjkjp0sgOMGP5vCSvfrWejTPoM9/HaskNeq+m9lJnztH+1YikLUmrb6ky2/oKbt/iwnSCJe+fywLB+AD/mErIeLaqxkCMIdwczLnEYG5X/a2XjzGSEHA31C29ydw==;N5dygbeNTFgJnyHylnWeEA=="
 ---

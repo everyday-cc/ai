@@ -88,6 +88,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "AI-powered decision augmentation platform Signal AI raises $50 million"
+    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
+    publishedDateTime: 2021-12-15T12:13:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-decision-augmentation-platform-signal-ai-raises-50-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
+        width: 960
+        height: 545
+        isCached: true
 
 secured: "F1nTxH/Od9rGqzSwbj0qDrRrdHZ5f2yy7dTph6gFVCqwsE5gGQq5ivt0LzBbaO5uOEo5m/J7APSxTcNo8lXEvWvNP9WZujHWp1svFWEL9hBRip8FIMjNU74sFOWd29GfXKQecucpwAaTerzCvej6Bwgpgh+YM+zw7b2d9bGqg9MTzxcVdCrtbHdII5vENNbLO57NeMJe88Wvp1WrEbHBz90O0mmtylzYHv9H9zyqwOco+14Y5b6L1pqeLmsdW/DFmTh/n4epzJ7ufg3RIbCsJqGMaRiGpEww9LXgpoATihm/8dGtJ8MI9AhY+XGxmFy+E28BS2jdffcQh9eU70eYo2uXD8t4JMmf16JsQANAPjvgPjyGqO9yVXG5aUpDrPeXgDQLm5FCBQmwmDKM99A8PuYMzwi3dK22wVnO1TcWTPLpTQBL7182Oa2KayAGEe+cDVrB4IhN5ZatmFs41zI7ihLknexoyqBfZ/iP/D8XtoxMdDf+faFcshZlnFMrX9lSGFbAcol0Nmfki/ZjN57TUA==;0y2Q4+z4UvTcXha8fYFZMg=="
 ---

@@ -18,31 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "S Korea to test AI-powered face recognition to track COVID-19 cases"
-    excerpt: "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,"
-    publishedDateTime: 2021-12-14T11:46:00Z
-    webUrl: "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/13_mon/img_1639399210184_127.jpg?"
-        width: 1080
-        height: 600
-        isCached: true
-  - title: "3 startups spearheading AI growth in South Korea"
-    excerpt: "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,"
-    publishedDateTime: 2021-12-16T04:08:00Z
-    webUrl: "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
   - title: "UAE - Global Conference on Artificial Intelligence & Internet of Things to spot light on life after COVID-19"
     excerpt: "A prominent line-up of researchers, practitioners and stakeholders from academia, industry and governments from 38 countries will gather tomorrow in Dubai for the IEEE Global Conference on Artificial Intelligence & Internet of Things (2021 IEEE GCAIoT) to share their latest research contributions,"
     publishedDateTime: 2021-12-14T14:41:00Z
@@ -57,15 +32,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
-    excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
-    publishedDateTime: 2021-12-17T11:23:00Z
-    webUrl: "https://europepmc.org/article/MED/34866808"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 7
 
 secured: "hzgUTTYkqcOlRYxrmdhEmLrLt6T/7xYaR1AvTJMZlZ83x5bVfam9/uQyj6vWqmxVIBSUdiqGqpWsgXJ0muhwZzTxolsK2MkFWeHO0IyUWHNsVITM0kSaOOtlWDB5xmjEktb5X8ZX7z0IIqVTGhJhQWpTrQHjgNqmj6J+NGJojiBh7D6r4vH0CVXNv4fC+eqwSyu8RhEnBo4aHaqoVfR78UZInBHI5TglhTyYC+N967HA0IMDM/hsdLDG1PHK6FByYxje/mcsOF9ILKH/z/bENScVh8HK6haIIpuGUDAz2Q8LzBL0462kDQ7+OENyIUycEYpr0W24Qopi30J5cvk/KFdlkjWV+bJsHX8X466+Dik=;Ym5uOelfyp30IKwJE282eQ=="
 ---

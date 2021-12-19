@@ -44,6 +44,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 7
+  - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
+    excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
+    publishedDateTime: 2021-12-17T11:23:00Z
+    webUrl: "https://europepmc.org/article/MED/34866808"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 7
 
 secured: "rnGneo8uVMuFrkupoj5pdjOLO03OBxGH+1qEyV629JWPDH30gTZGYAQieTE8ZBep9P3kIk8G/CNjh6kDK1MOIMDKIeoEyjH5pqCqvoznVMC6M65vxAkVAFJ7J9MkBK5EN7m8YVlcsInRMkP/esLO1Vkl2qxBcRIzkaWAggxUGwH6YCLrSyjgc13A6ZQ55/YMblxxphsgPKwxvsGDqZwWWIrQE0aa/k9gtJkhYodhRHy0PPf+nn/osj0MS0XKyyv2uCkHjCkfnqA7ZeZ3yN3BivtpW7ITJIvmmMdwJxpTqUCIn0zh/eFdecVIiqpcrA2n6gT/De9/xZ1O+soGT+pxVCxFhZHkyx6619IeMkvOCE8=;hA+08A0t/WAG77R/VK9Lqg=="
 ---

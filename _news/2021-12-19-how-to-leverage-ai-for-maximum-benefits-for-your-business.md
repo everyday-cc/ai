@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-18T22:31:00Z
 originalUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
 webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.hdnux.com/photos/01/23/24/17/21840885/3/rawImage.jpg"

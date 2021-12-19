@@ -400,6 +400,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-10-all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars.md",
+      "title": "All Hands on Tech – Amazon DeepRacer League encourages developers to train self-driving cars",
+      "excerpt": "At Amazon Web Services re:Invent in Las Vegas this year, Amazon launched an autonomous model car racing league and hosted the first race. Meant as a way to engage developers to train reinforcement learning models, Amazon says it will host more races at its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "originalUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/12/AHOT-AWS-Conference-Thumbnail-For-web.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "publishedDateTime": "2021-12-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
       "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
       "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
@@ -1421,50 +1465,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
-      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
-      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

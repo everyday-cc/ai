@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Relevance AI Raises $3M in Funding"
+    excerpt: "Relevance AI, a Sidney, Australia-based startup that has introduced a vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors, rais"
+    publishedDateTime: 2021-12-15T10:42:00Z
+    webUrl: "https://www.finsmes.com/2021/12/relevance-ai-raises-3m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/12/relevance.png"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Continual raises $4M to help companies build continuously improving AI models"
     excerpt: "New startup Continual Inc. secured a $4 million seed funding round on Thursday to support the rollout of its cloud service, which allows companies to build artificial intelligence models that improve over time."
     publishedDateTime: 2021-12-17T21:37:00Z

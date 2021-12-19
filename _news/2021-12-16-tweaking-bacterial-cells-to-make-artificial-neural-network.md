@@ -24,17 +24,6 @@ images:
     height: 797
     isCached: true
 
-related:
-  - title: "How far away is \"artificial man\""
-    excerpt: "The authors claim that a careful examination of robotics science and technology from its origins in the 1950s to its current status reveals that such progress, albeit very important, profitable, and with a strong impact on society,"
-    publishedDateTime: 2021-12-14T11:11:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/924367/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 4
-
 secured: "ZD34gQWh8eRaV+PYBgHVKbsp8vxT70GT5tVFoJ3VcaqZd0BOpfzNSNPBwPlLb4iNMbhTGewHeJ8Jk0ibVUsCxZkqmCRRNVKAJ0mwAC0B5QOitTJpMvQlak7eC5K+Vh40nhDzZ4MIvNH01VlLsDo3Rk6OuVsX3EQSN606kHMWEN5+rnyqw0tstGSQFicUnFY/l9tut3PqSIYxeIp7k6E8pLXVKnxGrdx00VBfdkRt0D2niEDDJFy1pT9NzQHPpm+SVcflCJL3UmA/5fnDcoGL5U6d2Rk1JrCxPNpTqY5LjnqcOm2WuyeaaLrF27w21CoMFPZRVf24gw+3Vt4BZYejLkDBQFyiuCJP0Z8JwsIw5Z92eOqtBwiROf+ukf1Mfbyrswe6aW3p0T8aGOcBZ8Fgu27HdMRxDf9gx/qSUeF9aP5ZmXiwd6nO8IWORSXqhkltQAm91GLcpjhB5f1AmYT0BLCBaNGQPMAEgfA+Jfprh/FK2jGluk+536CGlBfCUkp0yn0P0/2nWGwmCvEUkkMZtQ==;cPYRp2qlggrI2BukGde2yA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/12/17/ai-in-2022-what-decision-you-need
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-in-2022-what-decision-you-need-to-make-in-the-new-year/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "2022: A major revolution in robotics"
-    excerpt: "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,"
-    publishedDateTime: 2021-12-14T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/"
+  - title: "2022: What's next for financial fraud?"
+    excerpt: "Against the backdrop of continuing economic uncertainty, financial fraud will continue to thrive in 2022, with fraudsters expected to exploit consumers across all digital channels. Sadly, the industry has not yet solved the age-old question: “Who are you?"
+    publishedDateTime: 2021-12-16T13:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/21432/2022-whats-next-for-financial-fraud"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Aaa6JfgrnJnh9rk0vReN6LtWwuxqmid49QYCPBgsXnE9WZGS7Lm0fqnN124Q9a/7oKG/qYyZW4AT2Ire7saPwF7ps1/t9QhSMn7tfruNyQU2M9ugFEzT2z2JHOm0W/K6uSg7oG5wK/DJu44JsmlT/hyRbv+9TvHajAyulxfs6xPYSRTpCUvkxvU5t4g8EuY71pHvfWrKJhYDaYgrRfSlu/8jRmg6258IVj1qB/T4bd3tIjmnvngD7Mp/rfDQBLGHK5Y5QNq4Z1vNcGRfOUFSydpytYBBKusVEI3HTQfBIxW4nZ46uiyfq8GYMpDr0uXYHIR/mBMeqO6cjcJp10WG1SXjbzjhoc1cebmNJF6Cp5skPSgMfahodOUp3Tsu+JCS1KRyBXIKkHJImDq6lClu5EQKRPXZIdkLMS/pelR7I/1F8M5Qby+IEMiAGopkb1eZMMMbamCZG4wICI/JlZLFwzDlUOr/0y7I6R5bgtUpzgzz2jhD6ZZa7o3oiWYAFYoIzAo/D3vKr4i9mqDQU1JgBw==;plc/RlxJm3EoTiW0CDQ6ZA=="
 ---

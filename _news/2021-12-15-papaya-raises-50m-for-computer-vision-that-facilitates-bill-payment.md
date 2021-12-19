@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-959508862.jpg?w=1024"
         width: 1024
         height: 575
+        isCached: true
+  - title: "AI-powered decision augmentation platform Signal AI raises $50 million"
+    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
+    publishedDateTime: 2021-12-15T12:13:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-decision-augmentation-platform-signal-ai-raises-50-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
+        width: 960
+        height: 545
         isCached: true
   - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
     excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."

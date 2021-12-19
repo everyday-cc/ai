@@ -57,20 +57,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Pony.ai's driverless testing permit halted by Calif. after accident"
-    excerpt: "Accidents during driverless testing are not uncommon. It was unclear what aspect of this incident prompted the suspension."
-    publishedDateTime: 2021-12-14T12:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ponyais-driverless-testing-permit-halted-calif-after-accident"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
     excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
     publishedDateTime: 2021-12-14T20:56:00Z

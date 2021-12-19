@@ -162,49 +162,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-15-ai-decoded-algorithmic-management-deepminds-language-model-dont-hate-the-player.md",
-      "title": "AI: Decoded: Algorithmic management — Deepmind’s language model — Don’t hate the player",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/algorithmic-management-deepminds-language-model-dont-hate-the-player-2/amp/",
-      "publishedDateTime": "2021-12-15T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
       "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
       "excerpt": "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler.",
@@ -1461,6 +1418,49 @@
         "AI Ethics",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-christiano-cotra-and-yudkowsky-on-ai-progress.md",
+      "title": "Christiano, Cotra, and Yudkowsky on AI progress",
+      "excerpt": "This post is a transcript of a discussion between Paul Christiano, Ajeya Cotra, and Eliezer Yudkowsky on AGI forecasting, following up on Paul and Eliezer's \"Takeoff Speeds\" discussion. Color key: Chat by Paul and EliezerChat by Ajeya 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "originalUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/887568029733519391/889924404392370226/ChessEnginePerformance.png",
+          "width": 1146,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LessWrong",
+        "domain": "lesswrong.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

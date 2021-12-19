@@ -2,6 +2,40 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2021-09-17-how-can-we-ensure-that-ai-is-responsible.md",
+      "title": "How Can We Ensure That A.I. Is Responsible?",
+      "excerpt": "Artificial intelligence (AI) technologies seek to address this problem by enabling computer systems—trained on large data sets—to model human problem-solving, including finding patterns, performing object recognition, and making predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2021/09/17/how_can_we_ensure_that_ai_is_responsible_794856.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2021/09/17/how_can_we_ensure_that_ai_is_responsible_794856.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearscience.com/articles/2021/09/17/how_can_we_ensure_that_ai_is_responsible_794856.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearscience-com.cdn.ampproject.org/c/s/www.realclearscience.com/articles/2021/09/17/how_can_we_ensure_that_ai_is_responsible_794856.amp.html",
+      "publishedDateTime": "2021-09-16T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-computer-vision-dev-platform-roboflow-raises-20m.md",
       "title": "Computer vision dev platform Roboflow raises $20M",
       "excerpt": "Roboflow, a Des Moines, Iowa-based startup developing tools for building computer vision models, today announced it has raised $20 million in a series A round led by Craft Ventures. This brings the company’s total raised to date to $22.",
@@ -1091,49 +1125,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-fintech-market-to-witness-huge-growth-by-2026-ant-financial-adyen-qudian.md",
-      "title": "Fintech Market to Witness Huge Growth by 2026 | Ant Financial, Adyen, Qudian",
-      "excerpt": "The latest research on Worldwide Fintech Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "originalUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U916568378_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "publishedDateTime": "2021-09-15T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

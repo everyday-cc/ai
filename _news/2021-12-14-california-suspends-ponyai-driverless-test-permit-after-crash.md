@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg"
         width: 375
         height: 210
-        isCached: true
-  - title: "Pony.ai's driverless testing permit halted by Calif. after accident"
-    excerpt: "Accidents during driverless testing are not uncommon. It was unclear what aspect of this incident prompted the suspension."
-    publishedDateTime: 2021-12-14T12:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ponyais-driverless-testing-permit-halted-calif-after-accident"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/pony-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "California suspends Pony.ai’s driverless permit after crash"
     excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
