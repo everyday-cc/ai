@@ -444,49 +444,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-18-announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure.md",
-      "title": "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure",
-      "excerpt": "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/",
-      "originalUrl": "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OpenCV",
-        "domain": "opencv.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-17-this-archaeologist-fights-tomb-raiders-with-google-earth.md",
       "title": "This archaeologist fights tomb raiders with Google Earth",
       "excerpt": "In the summer, Dr. Gino Caspari’s day starts at 5:30 a.m. in Siberia, where he studies the ancient Scythians with the Swiss National Science Foundation. There, he looks for burial places of these nomadic warriors who rode through Asia 2,500 years ago. The work isn’t easy, from dealing with extreme temperatures,",
@@ -1206,6 +1163,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
+      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
+      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-452886/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "publishedDateTime": "2021-12-16T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

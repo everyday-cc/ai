@@ -34,7 +34,7 @@ related:
   - title: "Will AI Destroy Education?"
     excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
     publishedDateTime: 2021-12-18T15:18:00Z
-    webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
+    webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
     type: article
     provider:
       name: acm.org

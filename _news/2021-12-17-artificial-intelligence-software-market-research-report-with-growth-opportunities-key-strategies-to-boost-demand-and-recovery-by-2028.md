@@ -35,20 +35,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 11
-  - title: "Global Self-driving Submarine Market 2021 Top Companies, Research Strategies, Future Growth and Geographical Regions to 2027"
-    excerpt: "A report on the MarketQuest.biz was recently published by Global Self-driving Submarine Market from 2021 to 2027. It offers data on the current state of affairs, focusing on"
-    publishedDateTime: 2021-12-14T10:08:00Z
-    webUrl: "https://www.wboc.com/story/45435814/global-self-driving-submarine-market-2021-top-companies-research-strategies-future-growth-and-geographical-regions-to-2027"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "J1v6ZrJVrvuaAtPoBIBUFROIsbHCceDPd6BuKP/R6/3AtLOprEfcFhd11l20ClA6wdHDerZCYbRkjTMsDaPKZ5z4HZ9FjtXyecEDG/HWfz7fGrJQsH+7Wydaz79TgpMtM/v0XiSmjmTwAwTZBiDMk+JmGtMZk/rrSrtsFcdnz1FcUZaXxvQy3P3teriqLgvqq2lqXue/eR45ARSqhcazAX2eO90jKBqyModvVHU8c3rx2f5wiv1e5P13/LXufx+LV+1houpqSl4kWk/goNRzQ4FV5ttMps9w9F/NaivZlJJM9RCNVQpC9K/ZUyYw3hmGTe2ddj7La64J3dQqW+U6RSDGti194shgH/S7rAt8EmKsn47lOINE8o4OGsdNw3z2ypsWtZVc5uhuODqMXQXsl0ccOl0rP5mkpnItWenqQ1JaQzTOXk47rgOWSb2UcVN5lYSHQ7zS9Ws+2YcmXcVSsGm/jeAdmonpZzwa0Bal6t9O+mK+h+4XjheZs5vwKO5Iy0ty8/cq9dXq6dFnNk9ofw==;vK6hF1usV0NYyE7KCgggZA=="
 ---
