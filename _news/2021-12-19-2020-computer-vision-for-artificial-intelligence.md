@@ -8,8 +8,8 @@ webUrl: "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artif
 ampWebUrl: "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://static.timesofisrael.com/www/uploads/2021/12/Dataloop-1-640x400.jpg"
@@ -26,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "yndCCCMTWNfH9u/bZJ+NeTZzucGBkqB17XTeFKa7X3lcNyPsTneLuzaNW19nsdLs9RpTeuNrU+t+pOIjoizpPY7qbjnN4qFRnhwRF7pgUAtzvT9FPa2oyg/LK+9I1YwIVelhD1AsPoB/D0kSnQMk9PC9UDhR2KuPGCHFZEuIPeLUjlNNWFOkdARamjnxSS6cAOTXY1FMspmB8xZYlHVgqGG6iGbJVsnllmaSnHChLVkrwP5Fk5JRlh5yaFWJ9CppuTE2r9/kvKmMLLJm6nqTY0f5+MdLZ5g39zX5mRfft5I7IPHD3j343KBFLBEj3J3J8+q4CQnnd2mcaP5TeCCWHfN3yYdA83NDrkp75BRnyaU=;U/NC6wjgG04rbFpFFAy8Tg=="
+secured: "69RVw/0pZc83raOE+9T86AOYZlYFq0B5hqZTjxIj89QZNRs78DZk9UDX33N8aDMpG0O8TwdUm88zjjRO4bLcIoACm9fvWlIwRd2s551CAYF8EZ5LbI/P+8dSI+Ba35SieLSFuJncEftUDfy67ls550c8R+ZKsZzzqIDm4gztgRGYURspOGWhPAKGZNlsL4cBlvgoYqIeYPtdMZUaUJVjeItQ7QxbL831dZwtZtx4ka4ftVzWJaGGfVy8jmY/LGKMjX+LM9FNkJ5br7GxrttKboJ17KMCa9LCa3IUddCTPn/583BtuKjLEok6YBbbgPxxnGApocIZjfWJB5S27GHosxVPCC3JRq+HtqK6IPvoIHsvKfhn9anRuD0xpURCBfyw8/uNP0GRpntAcyJ1EVo4Tbz/tWUdmuwzHIz2u/raLnusVx7EdBINjH85oae8ngZ/KHGP0fs3q21X/bZ1fCSloD1WHvxz5hotAEomuukrqUdbHYehdojR4tA4HLhm0E0f4Kwx1u80ldN835kxb0CYmA==;3Z658R8rdC7CzL4cw4b/Gg=="
 ---
 

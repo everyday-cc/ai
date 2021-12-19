@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
 type: article
 quality: 58
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
         width: 752
         height: 501
-        isCached: true
-  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
-    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
-    publishedDateTime: 2021-12-14T20:25:00Z
-    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 26
-    images:
-      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
-        width: 800
-        height: 476
         isCached: true
   - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
     excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."

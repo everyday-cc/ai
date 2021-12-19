@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
+      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
+      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
+      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
+      "publishedDateTime": "2021-11-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report.md",
       "title": "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report",
       "excerpt": "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by Reuters, the two companies have secured the ...",
@@ -1323,58 +1366,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-self-driving-robots-key-to-future-of-food.md",
-      "title": "Self-driving robots key to future of food",
-      "excerpt": "The acquisition is a sign of rapid maturation in smart farming, which uses IoT sensors and AI to manage farm operations with unprecedented precision and is helping reshape food manufacturing in wealthy markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8bd3f5ef1c28fdf85a3689f525d2b04b8cf1279d/2021/11/18/e7a61c0c-776f-47ae-a4da-65f3f96a2951/fieldin-tractor-1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
-      "publishedDateTime": "2021-11-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

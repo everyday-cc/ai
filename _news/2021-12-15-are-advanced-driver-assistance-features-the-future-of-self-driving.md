@@ -83,20 +83,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
-    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
-    publishedDateTime: 2021-12-14T20:25:00Z
-    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 26
-    images:
-      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
-        width: 800
-        height: 476
-        isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T13:08:00Z

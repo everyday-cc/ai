@@ -72,6 +72,20 @@ related:
         width: 291
         height: 291
         isCached: true
+  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
+    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+    publishedDateTime: 2021-12-19T10:23:00Z
+    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j7DKKELO0aQxj9QNrLQsSkPQmxI23CUR23BBss02MpqTYDLYJvD/w11dpn8eYVJ6bR7cVZgVS7pTfdCpH0fKhwmqo5DLlPd/j0irE0Vvm192m3LAWQN+TnBsqsVn+FJNeQ7wuXWkJUXxuin63PV/dQUZfX/mL/J1PCSuqLGdGTgumEqjW1FfQ56UlJg0ldTE8c5eNUUSD8zACtwHcV21GtRw9UhxIHokUoHmxT0o6kjMnSINkO5kZDG1yOxL0aJe4FnKEEbY9Z5eIaQubpKbUhgEmuSS+OIjWVzRky519a57aON432PF3ilTIXlakhaGHYzq/flfTmesAtvVN2e+8MHi/6wtCkT0xD8EtKXSv3VFZtCvU0tiJ/Rdpstt3pKnQ89hFo+EnO8rH6Auscg+PQeODVFdk7mMY+VF5CP8s8IAdtVcFcPnwDYnmcS3zVNRuINHQrUHv2xSz2k2dmeojQ5jzRmpDVrkqpFmeUTkmBSEdHSt32JEgMrV59xw0Yr2n8UrNZHN9BpIGRYJHFmRxQ==;K7SDJ3EsNLnER5CwCHQQnQ=="
 ---

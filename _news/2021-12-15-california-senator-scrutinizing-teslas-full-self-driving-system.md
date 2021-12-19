@@ -52,22 +52,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla's Self Driving Beta Software Shows Humans How To Drive This Dangerous Road"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) has been testing its self driving software, dubbed FSD Beta, for over a year now with a small set of public volunteer testers. Recently,"
-    publishedDateTime: 2021-12-14T19:46:00Z
-    webUrl: "https://www.benzinga.com/tech/21/12/24600482/teslas-self-driving-beta-software-shows-humans-how-to-drive-this-dangerous-road"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24600482"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24600482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/model3_02_7.jpg"
-        width: 580
-        height: 387
-        isCached: true
   - title: "Tesla self driving Beta went against the most dangerous roads in the US"
     excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
     publishedDateTime: 2021-12-16T04:08:00Z

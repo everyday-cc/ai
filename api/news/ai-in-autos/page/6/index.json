@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-04-siemens-mobility-spotlight-october-2021.md",
+      "title": "Siemens Mobility Spotlight – October 2021",
+      "excerpt": "Smart Trains Intelligent rail infrastructure Holistic Rail Cybersecurity Digitalization and harnessing the power of The Cloud were at the front of discussions during the Siemens Mobility 'Industry Trends' event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.railwaygazette.com/sponsored-content/siemens-mobility-spotlight-october-2021/60170.article",
+      "originalUrl": "https://www.railwaygazette.com/sponsored-content/siemens-mobility-spotlight-october-2021/60170.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/1024x536/1/4/1/45141_siemensmobilityspotlight2021a_590894.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Railway Gazette International",
+        "domain": "railwaygazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
       "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
       "excerpt": "LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in ...",
@@ -1374,49 +1417,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-what-do-sae-automated-driving-levels-mean-anyway.md",
-      "title": "What Do SAE Automated Driving Levels Mean Anyway?",
-      "excerpt": "There is a lot of confusion surrounding SAE Level 0-5 autonomy, so we’ll take a crack at clearing it up. Social media hyperbole has combined with somewhat opaque industry standards to create a level of misunderstanding about nascent autonomous driving systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
-      "originalUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/BlueCruise_technology_02.jpg",
-          "width": 3080,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tag: Facial recognition tech"
-excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
-publishedDateTime: 2021-12-17T14:30:00Z
-originalUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
-webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
+title: "Survey sheds light on police use of facial recognition in Massachusetts"
+excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+publishedDateTime: 2021-12-19T10:23:00Z
+originalUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
+webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NationofChange
-  domain: nationofchange.org
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
-    width: 291
-    height: 291
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -64,19 +64,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-19T10:23:00Z
-    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
+  - title: "Tag: Facial recognition tech"
+    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
+    publishedDateTime: 2021-12-17T14:30:00Z
+    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
     type: article
     provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
+      name: NationofChange
+      domain: nationofchange.org
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
+        width: 291
+        height: 291
         isCached: true
   - title: "Another major Massachusetts city votes to ban facial recognition"
     excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
@@ -88,6 +88,6 @@ related:
       domain: dailydot.com
     quality: 19
 
-secured: "hQnxQQxZdMzcxDJH3St/5IJMM+86QTyWt0ictInJ7mugm7gMjVb2k/XIJC2Qv0IgowqWhvfK4qJm47/vYHfPmum3Z+Q2KdQRXz2JK8F/rXXV2jzamKnwtQ+iL08RlHWeWUtN4KVdj/lelHjpZ6cRgV80C7nimfLkqOyctrA6fBKyJFoAaGcuiMDZaNykdozMGmKL+bvRPPDnGZt1kCocA5h+CDCHjN4qVDrvwE/ujn6tPC4ZIL+kE3YVE3JyziKzcO1b1GRQsPKxfU/M91p0KTqX2eYFQoNwTlOQCV7jTkFU6tTts5c/SqkWg/p8S6tuJfJ40VYrmzc7uFSSFx1zmBaO405qf684z1YZyfxsgcWlP43bV0+ZO7fmuOrf/glKNVLNEtFlJ19j75YtHqtcr6rJZz5BACEoH1OIE3xJtt29Pb6CL4GxXEQsIyRYkVIrtEfotJcXfVWUFgY56U8vmEwNhfztROiJK8rlBX5UaaBOEEJqOUzop11EUOZ+QLLC+E+jnx2g6RyihLFVfxOEjQ==;QlsVdWO+du0x1DlA+iZ3hg=="
+secured: "+bOKw2e5V3YhOEEtN0Fmr3re1CIbxTeiKYxJUfPTZJx3C+wk+Y/T7LncIbX80gAjd5pfRVYkGiFfg9aj8Ze//VwY1cS+zdPZEzAS9PDlGHK7Jz5XWJ/NP6zrAEURc1ZOKJhzqDBfGm9y9lUVH+o4ojSeeTMsFvZRjJ7YO1Yh2hDisBgj6Gv9+3TRVUbm5wlVdxZ+zmxj7LG+OaURT6ltet78DTk2RTLIZ4gKjGUDMOovuDl7BUCFW0sJGixaQ/w2KJFE+7/6XmayXVzhwFSqqhEIHsGQNZ0akKC+EQemH6bTpz8I54I0EcHYifsjn60OWy2QS3DgBpqKCGZvM8VF/oirO0hivR2uQV5zXRsBMxo=;0yluXKXRwKaeqjq6doXyag=="
 ---
 
