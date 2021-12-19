@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 12101542
+        "followers": 12102166
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1071071
+        "followers": 1071080
       },
       "yearFounded": 0,
       "locations": [
@@ -117,7 +117,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 80716
+        "followers": 80725
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -181,7 +181,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 70784
+        "followers": 70786
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -337,7 +337,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 19178
+        "followers": 19181
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -528,7 +528,7 @@
           "url": "https://www.youtube.com/watch?v=4J742uB60NY"
         }
       ],
-      "heat": 109,
+      "heat": 108,
       "tags": [
         "Autonomous Vehicles"
       ],
