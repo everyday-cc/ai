@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-publishedDateTime: 2021-12-15T07:15:00Z
-originalUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
-webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+title: "Artificial Intelligence (AI) in Drug Discovery Market Size Application, Price, Demand Analysis and Growth Opportunities to 2026"
+excerpt: "Artificial Intelligence (AI) in Drug Discovery Market report includes a survey, which explains value chain structure, industrial outlook, regional analysis, applications, market size, share, and forecast."
+publishedDateTime: 2021-12-15T12:55:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-size-application-price-demand-analysis-and-growth-opportunities-to-2026-2021-12-15"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-size-application-price-demand-analysis-and-growth-opportunities-to-2026-2021-12-15"
 type: article
-quality: 36
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ReportsnReports
-  domain: reportsnreports.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026"
@@ -61,20 +70,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Size Application, Price, Demand Analysis and Growth Opportunities to 2026"
-    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market report includes a survey, which explains value chain structure, industrial outlook, regional analysis, applications, market size, share, and forecast."
-    publishedDateTime: 2021-12-15T12:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-size-application-price-demand-analysis-and-growth-opportunities-to-2026-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
     publishedDateTime: 2021-12-15T08:16:00Z
@@ -89,7 +84,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
+    publishedDateTime: 2021-12-15T07:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 36
 
-secured: "S7iqSwgGwwaGkXy3aDEz6Fpn00uwibrW0Yolp/e70lEJJCzmINpX+bNp1r8mJTQfy8l4vZID4FaT7xQYtfTBtfwR7LqM4R0zvkLs5fPKZwAwpBvHYhHE6E/JGFNaMGfu9n21LN+2PiPuC0nCCH3fEs+a5BXq3SklnO2aPLqOfWrtdVuk4Cwu4ou3E+0IeFb97tnKjhc4VnC6Fnzgq2+LHXqXioMv5uekBb3kYQLWuHv/2Sqco72nIprRZhDgEcYmf47PhoGyqHo/SLQCOicbprVLElSXybTgL7OBf4fubNQ7eVbin8LqVhMPN/eTVNxJvX0bhFnjwRg0fcS1W+Sx3/2G43R+eLVc/6NZoAG5/hY=;ULu19vrWiSIf1fOrtrvwiQ=="
+secured: "X5/RHvRVDYo1FxObibteQZIqRelmbbkcsDeWJsupTahDBk7AZuYHm0v3y5zZHMARWqqn4tiise2ct09wBkk6OhD7JjUvMZp5c7ohwcGAulWcP8G7SB1ukwJ8jsaBzeYXgoima5DuJBVJTokAPutGLgLMEHpOVwxi6V19hjEptT36PnO77inFdw7tDlMCocE6XqJJBzdijvFRlSpDNH/rLrbhYlMKiywp4YUSfKFIonef1vR/DY9Os1W7HBEPYiuJj1vK0j1GsA21eHhZ8WWFWKLhrsk3NFqnUiaLpWr/G6Bn3z3ogOFASISV480X40GvpK2diaL3uR5PadM70A1QjnKDf/OV2iYOURj+h9/nzfo=;RC6hnjZF0mQvyCt7sPPdJg=="
 ---
 

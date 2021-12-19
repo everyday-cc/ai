@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Size Application, Price, Demand Analysis and Growth Opportunities to 2026"
+    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market report includes a survey, which explains value chain structure, industrial outlook, regional analysis, applications, market size, share, and forecast."
+    publishedDateTime: 2021-12-15T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-size-application-price-demand-analysis-and-growth-opportunities-to-2026-2021-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
     publishedDateTime: 2021-12-15T07:15:00Z

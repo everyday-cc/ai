@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-children
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
 type: article
 quality: 57
-heat: 79
+heat: 80
 published: true
 
 provider:

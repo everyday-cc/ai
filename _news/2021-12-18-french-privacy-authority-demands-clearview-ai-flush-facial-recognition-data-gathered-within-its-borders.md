@@ -73,31 +73,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Provinces order Clearview AI to stop using facial recognition without consent"
-    excerpt: "The privacy authorities of British Columbia, Alberta and Quebec are also requiring the U.S. firm to delete images and biometric data collected without permission from individuals."
-    publishedDateTime: 2021-12-14T23:48:00Z
-    webUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/"
-    ampWebUrl: "https://globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/8451440/clearview-ai-facial-recognition-order-stop/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 51
-  - title: "Provincial watchdogs order Clearview AI to stop using facial recognition tool"
-    excerpt: "OTTAWA - Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of"
-    publishedDateTime: 2021-12-14T23:34:00Z
-    webUrl: "https://www.thestar.com/politics/2021/12/14/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 51
-    images:
-      - url: "https://images.thestar.com/FE8jJ3etiSIpraLI76cOyRjp9cg=/1280x1024/smart/filters:cb(1639524850024)/https://www.thestar.com/content/dam/thestar/politics/2021/12/14/provincial-watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "France says facial recognition company Clearview breached privacy law"
     excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
     publishedDateTime: 2021-12-16T09:52:00Z
