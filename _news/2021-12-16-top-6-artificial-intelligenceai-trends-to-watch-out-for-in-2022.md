@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026"
-    excerpt: "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,"
-    publishedDateTime: 2021-12-15T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Size Application, Price, Demand Analysis and Growth Opportunities to 2026"
     excerpt: "Artificial Intelligence (AI) in Drug Discovery Market report includes a survey, which explains value chain structure, industrial outlook, regional analysis, applications, market size, share, and forecast."
     publishedDateTime: 2021-12-15T12:55:00Z

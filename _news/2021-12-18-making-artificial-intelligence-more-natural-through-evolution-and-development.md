@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Natural Language based Financial Forecasting"
+    excerpt: "Natural L Objective. The aim of this thesis is to proof the suitability of natural language based forecasting for price and volatility developme"
+    publishedDateTime: 2021-12-19T21:16:00Z
+    webUrl: "https://github.com/thummd/NLFF"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 24
+    images:
+      - url: "https://opengraph.githubassets.com/1644f545838b5545bc94fd87006b63a95a670e36885cdb9b3efa7170b7e1ef0e/thummd/NLFF"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Making artificial intelligence more natural through evolution and development"
     excerpt: "How can artificial intelligence (AI) draw on principles from nature to solve complex problems? When it comes to recognizing patterns in large amounts of data, AI is faster and more capable than humans."
     publishedDateTime: 2021-12-16T14:50:00Z

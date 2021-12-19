@@ -47,6 +47,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Natural Language based Financial Forecasting"
+    excerpt: "Natural L Objective. The aim of this thesis is to proof the suitability of natural language based forecasting for price and volatility developme"
+    publishedDateTime: 2021-12-19T21:16:00Z
+    webUrl: "https://github.com/thummd/NLFF"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 24
+    images:
+      - url: "https://opengraph.githubassets.com/1644f545838b5545bc94fd87006b63a95a670e36885cdb9b3efa7170b7e1ef0e/thummd/NLFF"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "c1p2ET8yAp9XNtXh4NRN+VQVy1kMxYdQbBlCAD9TAY2HVORGi1h2W0bkjDD3u1nxrgRGbfkQB+MRlxuWoURZRnhoS9n4idgTW/c2XQWZsOZVSDNQAkMz0fAjcxCIwuYlXzCy/X1qzfasSvyB/1Nveewvevt9vxi0rILxXesND1TvEa/YgMQmIfaNE9tJnOd9svmXOKVsw+CT8YCa00W73Gi7oZUGpSVJZbA1Be2EP+poIRfAS7GYxax5bgFuMbvPd4DW1n9X+E489MCsVNpFzcack6nXTxKS7n3VxvqREmfDmdTSEjlpw7uWlG1MhhbGCD0pX3ogZzVoMdvhv3vkZm9JV/7qwVNgEYkKAeOyjPU=;Jmt7siTfvNg0aA7dS4Acew=="
 ---

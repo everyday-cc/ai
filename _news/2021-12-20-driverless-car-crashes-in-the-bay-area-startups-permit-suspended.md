@@ -125,6 +125,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple’s self-drive car could have external warning sign to tell other drivers when computer is in control, patent shows"
+    excerpt: "PATENTS for Apple’s first self-driving car seem to reveal features that the vehicle may offer, including an external display that would tell other drivers and pedestrians when the car is"
+    publishedDateTime: 2021-12-19T21:51:00Z
+    webUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/"
+    ampWebUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 20
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/LM_AppleCar_Offplat.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
     excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
     publishedDateTime: 2021-12-16T20:25:00Z
@@ -135,6 +151,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "Byg1u1YGqbO2dxx8q7pDhctfgNQ72MFHGXdL/ITUpwSTCE/F3qlB04NFjZguH6xbGXIRi3Hfe29J/uaQf7kMkv4IHqsL7rRWNiem4O6OQGu2laKetS4N0ztKUEMH0/4thkmTVA0uHS5BX4sNKCP/2oWqbJuwi+QfREcvaNtxGFK3BaufNH2p5dv4/AhlrcxaphGIDaU74SgXb05HB5QdhBbA6Kglwqx5WqswNwkC8gEiWlrepvJfw0jPOXvknOsTpaRyvPG7cqvX1vbp0rjhfROJ++dDVI4f2V6QPR3pPYI8Uvv895xfhpZYhBLY8ciCm8Is1AxLi/f90S/DNSkZ7mMXpVxbjuF9WVry827+0fo=;ThfQPshqk84XYVEAeiQVIA=="
+secured: "CLSkedHnAf3ZVxNMgUrRrY+Hpg99N+ZawzX8Mztz80RJXR2IgtKcMnRDLA6JH3Gd9kyol3mScz6BvBiVtjlgta+l2WT1ROTF68IFL3wsVPl/+GzOWHDjm6QOitixYzVXfL/aiUe9yJQsPheQL95Y3uz0UZTzrPLz8lcsGm+zaJGUxtrb2TFEag+WpBosYBKjCCve2p7wW1LXxBxrXVrT9rQW+w/zZT6XTtrki+QRnjasrvh/fION/EqBPyH+3EzfF5qq/l+Mtk+ePuTyfXIrxgzU2FSi0QCGoE4l1Mu3BQMxfOr9nF8CAvV5dEfk1zoC3Z4Oo44dPREoyOcLYs6mtljqsqFe5rLstHMdLzyd2O9h38yHRwyUjkyTtyrQQ0ODE91l2QFnb2xaWecYWUAUuVSQ26qvIiOm2BUoXbxyNCziaV1PGjZ2Ufkr2aoh8RsZIgrH1rnqFyhT5Pt/cP6IMyYRQ9aFBw9igiKUuDnYrfAMFNftKLZzS6F/XYhibDzVizgATJdARselUkH/K3O7zQ==;GxbwZ4o33ZG0iFtLUNgxqg=="
 ---
 

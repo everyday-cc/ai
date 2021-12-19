@@ -125,6 +125,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple’s self-drive car could have external warning sign to tell other drivers when computer is in control, patent shows"
+    excerpt: "PATENTS for Apple’s first self-driving car seem to reveal features that the vehicle may offer, including an external display that would tell other drivers and pedestrians when the car is"
+    publishedDateTime: 2021-12-19T21:51:00Z
+    webUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/"
+    ampWebUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 20
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/LM_AppleCar_Offplat.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
     excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
     publishedDateTime: 2021-12-16T20:25:00Z

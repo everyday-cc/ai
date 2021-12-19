@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026"
-    excerpt: "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,"
-    publishedDateTime: 2021-12-15T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top 6 Artificial Intelligence(AI) trends to watch out for in 2022"
     excerpt: "While the COVID-19 pandemic affected numerous parts of how we carry on with work, it didn't lessen the effect of Artificial Intelligence(AI) on our day-to-day existences. Truth be told, it is ending u"
     publishedDateTime: 2021-12-16T07:24:00Z

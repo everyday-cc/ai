@@ -1,39 +1,26 @@
 ---
 category: news
-title: "CyberLink's FaceMe® Brings Best-in-Class Facial Recognition to Bitkey's Smart Office Platform, \"workhub\""
-excerpt: "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into \"workhub,\" a connected smart office platform."
-publishedDateTime: 2021-12-07T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-brings-best-in-class-facial-recognition-/2021/12/07/9506277.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-brings-best-in-class-facial-recognition-/2021/12/07/9506277.htm"
+title: "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”"
+excerpt: "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform."
+publishedDateTime: 2021-12-07T14:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af"
 type: article
-quality: 2
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Bitkey integrates CyberLink’s facial recognition into smart office platform"
-    excerpt: "Registered users can then use their face to automatically unlock doors and access elevators as they approach their assigned facilities."
-    publishedDateTime: 2021-12-10T17:22:00Z
-    webUrl: "https://www.biometricupdate.com/202112/bitkey-integrates-cyberlinks-facial-recognition-into-smart-office-platform"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "rvQfuVxYXfScuUyucvxAZ5vYxxk0l43/U9+BA5SeeuxDOeJuCskGgtH3BnqaE4FjyUcx4dM2huYB9kyv1aMQVt+UjltiTIxth+sRFX7Tlwg4bD3rYHYEV/LsYYX6HsqJ+1rKuVcRGbbLU62PnIVcKY4iSmGX1v9zXwtb3ecEtFvWvIapEKMEZW8n7hYHbBJa/DhGaj7Y62BGS4mTpIUOppp6RpYOw/nLgOYuicYBhYAnmiOt01Zafoi+JSs02Y9IvjtJYR+PyRz+GwEBgtZDTcKEXEoMjFHQETXrY2RhPdBBR8vShstynxVZeW0jtYHijNHLvsC+7ZbCgacac3KAxJ+COl5c37N8diSakQcELUE=;WZoBVnCDKDXhsxvuX8vfEg=="
+secured: "D2NehbwM3oslK8zAbAYpgzYW0lxDKAGScfNAI+47q4Oql1/9Db0dBeWJTooRORlc7+6PYs7y7OvAZAsLzsq5klZqQPzW+MwpmK3QT+HH6a+rySkeJK8pu8o/kFPjDmoJIZvEH1ErRYYJJK0NlqzwwX8p6Ha+t8HJN6IvVfJxJiBpYNGvd1ZEjz3jmNqyHFY2cqrapsMvC4h+2JdGMSTwKImvhjujfixGkrfWzkFmB+tS+OlFIyx/RWPj4XqmG2ZgEH5xK3o4+JSZa+YRlaaxe7Jyd/3q8Q5mdANBf5fyS4hxgPRmlbVgrBG7ADZ3hGlrhF1U2BWF4B0m1S1uvnViNiti/YsUqPh64MPKdIrg6LY=;2e9cwwb5cA4SbEra4Zkwfg=="
 ---
 
