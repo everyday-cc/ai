@@ -1,30 +1,24 @@
 ---
 category: news
-title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
-excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
-publishedDateTime: 2021-12-17T05:18:00Z
-originalUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+title: "Dimensity 9000 Vs Snapdragon 8 Gen1 – See all the running score comparison"
+excerpt: "Since the official release of the Dimensity 9000 and Snapdragon 8 Gen1, there has been a consistent tussle on which of these chips is better."
+publishedDateTime: 2021-12-17T11:44:00Z
+originalUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/"
+webUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/"
+ampWebUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
+cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: www.bgr.in
+  name: GizChina
+  domain: gizchina.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results"
@@ -132,6 +126,22 @@ related:
         width: 340
         height: 400
         isCached: true
+  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
+    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
+    publishedDateTime: 2021-12-17T05:18:00Z
+    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
+    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 52
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MediaTek benchmarks the Dimensity 9000: faster CPU than the Snapdragon 8 Gen 1, slower GPU"
     excerpt: "MediaTek has gotten bold – it published a video showing a Dimensity 9000 -powered device running various popular benchmarks, throwing the gauntlet at Qualcomm. Long story short, the Dimensity wins the CPU battle,"
     publishedDateTime: 2021-12-17T12:07:00Z
@@ -164,17 +174,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Dimensity 9000 Vs Snapdragon 8 Gen1 – See all the running score comparison"
-    excerpt: "Since the official release of the Dimensity 9000 and Snapdragon 8 Gen1, there has been a consistent tussle on which of these chips is better."
-    publishedDateTime: 2021-12-17T11:44:00Z
-    webUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/"
-    ampWebUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 22
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z
@@ -194,6 +193,6 @@ related:
       domain: pocketnow.com
     quality: 19
 
-secured: "W1XJqTS/lckVFkJPBXaswELy6yp5IVlfK4QKqqJGrfhrfb+FbrQ/NZ54f63ae0aWJcoTFzz7dBRVo2iDjO4jFGm5okAmD6iJu5tjCvC/dC0AbzaIiXL8awsIB49SQfVK1jqnL9Df+s1xAjn4qGcnhjfwFNlmRG6HbIHQdw44+jWvPgbU5RGmXZ5EGuhRyTs03QbrLEyzRNcm8PMTYq7lGi90tpvSYt8VGGk03Oj/QWZrv/mrZ9MaxhzbnfXRxjSh9hmkFXVirstvKrfd117Y37nYHyPOPZ+gt6suqZJ2Rrodp3WUmyaNszl7O9eVk8U2oUVYtQY0GbePgAw2nbWQ9ueFMZqcc4pkdgNaqRfGZxK72/HknZhZpwKoSzy/SbFfqMuIc0FToy2AdlWJSKoqmdkFL8YInrZIAdN65r+8863FL5+acmU8YZGDWV5oUmMSc9rgYuOe/Qt6BbROBRRWXjVXtvf0I69j0UUEhh/FzjXfS9b34opqP+y7PaHkIUpKAuUsdrLv3RzpWXTWWnrBQg==;yl38dYVUSMmhRIOITFIGTw=="
+secured: "EZVXWuZmUd+ejB6c/hrs3aRnNdiyAaPOjjUc2Ck1dBoH88Cs+GxPyGGx80lYJmP8mXILLUpiWs5M/J9i3w2y7kdnPxuADHO2jIj5M8fCTh11CgP+7b1qmTQ15muGfMf2awP/WdW0IoqHQW9gFmk5nZWmt1n7i1aE5IZvhtPi61AUFY5bJs73G1yR+FNhI5Iug5gyGlhdzzSMyxf6hXYZjS6i09PqxHXyI48sCCz9SqdfJ4arnlr5Py+XKVD+7wGC9ybdo1uo6XVvJMX5HadXD3JntwuW5h7J6gXjUVDdpMAN0kOSdyCYt9QMZ7HjGYc/SCn/7phjazYGwROFVuHE3cdzr4C6yrLPFjzsGQGRrcOKzfcRyWF27nSHO1a6pDbKhwjnmUt1Ny/EgXnceWNEw8wQEdM195kVa68LbdwJcsmAw2OCvZCkhTAiHYzqNX51VwsPgfP4i4ydrbzSdAtY/GiIsZU58p1KvkBgK6KeTr+GODLDJFMlGCTR8SNrPWAHUBoJsyeifOUHNam3rnawYQ==;ZeA1E5sPb+E8dNs1xCMYNQ=="
 ---
 

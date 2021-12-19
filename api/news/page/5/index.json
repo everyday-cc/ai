@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-14-what-challenges-in-education-can-ai-solve-today.md",
+      "title": "What Challenges In Education Can AI Solve Today?",
+      "excerpt": "The core idea of e-learning mobile and web applications is making the process available anytime and anywhere through personal devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7a6ef32363c07c9a0c8b%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
       "title": "2022: A major revolution in robotics",
       "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
@@ -1112,50 +1164,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
-      "title": "Human-like brain helps robot out of a maze",
-      "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg",
-          "width": 1152,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "publishedDateTime": "2021-12-13T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

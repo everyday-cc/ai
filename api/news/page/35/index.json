@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
+      "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
+      "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61981d5e16a15abc836db9ec%2F0x0.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "publishedDateTime": "2021-11-19T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-fleet-operators-want-teslas-but-not-full-self-driving.md",
       "title": "Fleet operators want Teslas. But not 'full self-driving'",
       "excerpt": "But for all their Tesla enthusiasm, there's one feature they overwhelmingly aren't touching — \"full self-driving.\" Some say the technology isn't ready yet. The $10,000 optional software feature ...",
@@ -1158,57 +1210,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition.md",
-      "title": "Meet The Boundary-Breaking Jewelry Artists Showing Alongside Ai Weiwei In Force Of Nature Exhibition",
-      "excerpt": "Open today at Elisabetta Cipriani Gallery in London, Force of Nature brings together 17 contemporary artists who have vaulted the barrier between art and jewelry. Curated by jewelry editor and author Melanie Grant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
-      "originalUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619778742c2e9fcf3d8aedae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D126%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
-      "publishedDateTime": "2021-11-19T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

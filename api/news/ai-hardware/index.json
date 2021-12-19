@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-20-oxford-invited-an-ai-to-debate-its-own-ethicswhat-it-said-was-startling.md",
+      "title": "Oxford Invited an AI to Debate Its Own Ethics—What It Said Was Startling",
+      "excerpt": "Nvidia's Megatron AI recently took the floor at the celebrated Oxford Union to debate whether AI can ever be ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/",
+      "originalUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1",
+      "publishedDateTime": "2021-12-19T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-aiml-powering-metaverse-and-more.md",
       "title": "9 Semiconductor Themes For 2022: Automotive Chip Shortage, Strong Cloud Demand, AI/ML Powering Metaverse And More",
       "excerpt": "Recent supply chain conditions set up the semiconductor sector for substantial revenue in 2022 with much of the growth coming from substantial restocking by customers, according to an analyst at Morgan Stanley.",
@@ -106,7 +150,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1370,49 +1414,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-us-government-sues-to-block-40-billion-nvidia-arm-chip-deal.md",
-      "title": "US government sues to block $40 billion Nvidia-Arm chip deal",
-      "excerpt": "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/8849542002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002",
-      "publishedDateTime": "2021-12-03T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

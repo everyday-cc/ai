@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-20-oxford-invited-an-ai-to-debate-its-own-ethicswhat-it-said-was-startling.md",
+      "title": "Oxford Invited an AI to Debate Its Own Ethics—What It Said Was Startling",
+      "excerpt": "Nvidia's Megatron AI recently took the floor at the celebrated Oxford Union to debate whether AI can ever be ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/",
+      "originalUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1",
+      "publishedDateTime": "2021-12-19T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-19-2020-computer-vision-for-artificial-intelligence.md",
       "title": "20/20 computer vision for artificial intelligence",
       "excerpt": "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen.",
@@ -549,7 +593,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -696,7 +740,7 @@
       "originalUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1050,7 +1094,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1166,49 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-location-data-ethics-project-completed.md",
-      "title": "Location data ethics project completed",
-      "excerpt": "The Geospatial Commission has published the findings of one of the first public dialogues on location data ethics, following a project carried out with social purpose consultancy Traverse and the Ada Lovelace Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/location_data_ethics_project_completed/id/5093672",
-      "originalUrl": "https://www.research-live.com/article/news/location_data_ethics_project_completed/id/5093672",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed",
-      "publishedDateTime": "2021-12-17T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

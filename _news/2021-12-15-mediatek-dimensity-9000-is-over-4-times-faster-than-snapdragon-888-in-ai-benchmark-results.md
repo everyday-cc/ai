@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-time
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
 type: article
 quality: 79
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -168,6 +168,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Dimensity 9000 Vs Snapdragon 8 Gen1 – See all the running score comparison"
+    excerpt: "Since the official release of the Dimensity 9000 and Snapdragon 8 Gen1, there has been a consistent tussle on which of these chips is better."
+    publishedDateTime: 2021-12-17T11:44:00Z
+    webUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 22
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z

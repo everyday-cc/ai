@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
       "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
       "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
@@ -1130,49 +1165,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
-      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
-      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
-      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
-      "publishedDateTime": "2021-12-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2021-09-18-how-will-ai-and-robotics-transform-jobs-of-the-future.md",
+      "title": "How will AI and robotics transform jobs of the future?",
+      "excerpt": "We can either be fearful of artificial intelligence, or embrace it as a tool to help us improve service. Share How will AI and robotics transform jobs of the future? on Facebook Share How will AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://bigthink.com/the-present/automation-jobs/",
+      "originalUrl": "https://bigthink.com/the-present/automation-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bigthink.com/wp-content/uploads/2019/10/origin-70.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices.md",
       "title": "Microsoft and Honor sign partnership to develop new AI, devices",
       "excerpt": "According to the strategic cooperation memorandum signed by the two companies, Honor will adopt AI speech and AI translation services based on Microsoft Azure.",
@@ -1104,58 +1147,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
-      "title": "Google’s new deep learning system can give a boost to radiologists",
-      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "publishedDateTime": "2021-09-16T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

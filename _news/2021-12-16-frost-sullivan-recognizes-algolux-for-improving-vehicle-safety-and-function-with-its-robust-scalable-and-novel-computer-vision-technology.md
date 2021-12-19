@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "(MENAFN- Frost & Sullivan) Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology Algolux's solutions improve ..."
-publishedDateTime: 2021-12-16T06:02:00Z
-originalUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
-webUrl: "https://menafn.com/1103374072/Frost-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-Its-Robust-Scalable-and-Novel-Computer-Vision-Technology"
+excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
+publishedDateTime: 2021-12-15T22:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/15/F&S_3092cimage_story.png"
-    width: 698
-    height: 360
+  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+    width: 1500
+    height: 785
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 785
         isCached: true
 
-secured: "uU1L1NecqmjABGmW7bzoLRQ+rfkHvnUt3Y36QIt0VIY6UOl3a12R3Z4gzhOFtarXZd4iXIMy9SLGmQ4lTdEPbAB5vpASaACVvwxe6DXj06FH1M9YYncF8eQtE7UBY58wHCsFdlHyyKHbdWxaJfnVYdFJIv1Dms/+uP7RJCQCKgNrqiN9p386lYr8DjpfBqzz7UPp3rYAtCk+3n7jQ0JXbkqFsCJvbBKOcMB+XXZEhKpm3Z5IWBmalvKOcLJh5YD6z0mZADCdzLHuoEs7014cQInVtRxxiAoD2rMqowkp3InxqiZrksM/5qkUYyiJzTyzwAKqOoo0shlLK8KHDpTisIlq6MkcW7hPFEfLmlNJ8o0=;gtZkc/bqLLZTZKY4Bkwjbw=="
+secured: "OaJADK9GUmYjQXTM0vo5v9nqkMaj5+6fXdKbgRG/ZAImtlrG0KM6xkSyhKY4gD1iu5DgDzU1j/6WRc6w1hQmaY2AJwxgKHAE54RCZhe2kBud8rIfRsRPtbshQj+oyKaBSZy8sGupcCxpEH/9u0CKSJeDm9LJm38M52UV/ZhMJw/c4ZEFm+VQrgrFCNSliVRG0McE9ZjLUjqgJoVAtdCIcytLK9PadIO6wSHb6AtxUjwkicJ+KlbTFXqUaMxQ4Sjc3fnpvZyC5tEPYKhTW4QEJ/yaiRoG7BW6P8pTnGIaVvWDmw2OCpC4I2lEAjecgG5VZF/Jx9bPHt057zi78SjAl+eACVzTnFbC3/gJ0BJFUz0=;1a80MVwWLij2XtTK6AfIXA=="
 ---
 

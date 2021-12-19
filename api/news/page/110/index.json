@@ -2,6 +2,57 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2021-09-28-sims-creator-uses-blockchain-ai-in-new-video-game-about-you.md",
+      "title": "Sims Creator Uses Blockchain, AI in New Video Game About You",
+      "excerpt": "The creator of life-simulation video game The Sims is releasing a new title where players meet their inner id, and he’s using artificial intelligence and the blockchain to do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-28/sims-creator-uses-blockchain-ai-in-new-video-game-about-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA7qqgcxrefs/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-best-cheap-robot-vacuums.md",
       "title": "Best cheap robot vacuums",
       "excerpt": "This bump-and-clean robot is controlled via the onboard buttons or ... If you’ve got a budget in mind, this is obviously the first thing you should consider before you buy a robot vacuum.",
@@ -1078,49 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-carahsoft-announces-availability-of-zoom-through-aws-marketplace.md",
-      "title": "Carahsoft Announces Availability of Zoom Through AWS Marketplace",
-      "excerpt": "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced the launch of Zoom Video Communication’s first product listings in the AWS Marketplace specifically for U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-152c3c7d47bfd44171c1b37b5a9b60d9",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-152c3c7d47bfd44171c1b37b5a9b60d9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

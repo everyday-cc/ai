@@ -2,6 +2,58 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-10-07-ecommerce-accelerator-patterns-machine-learning-and-ai-raises-225m.md",
+      "title": "Ecommerce accelerator Pattern’s machine learning and AI raises $225M",
+      "excerpt": "Today, ecommerce accelerator Pattern announced its $225 million growth equity investment for its machine learning and AI-driven logistics ... of impressive.” VentureBeat's mission is to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Online-shopping.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "publishedDateTime": "2021-10-06T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-marketing-automation-the-best-ai-tools-for-boosting-growth.md",
       "title": "Marketing Automation: The Best AI Tools for Boosting Growth",
       "excerpt": "This AI tool can be placed on your website or connected with LiveChat, Facebook Messenger ... automated intelligence with your business’ research and knowledge on a central platform for ...",
@@ -1078,49 +1130,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-tdsi-gardis-software-now-features-full-integration-with-hikvisions-face-recognition-terminals-and-anpr-cameras.md",
-      "title": "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras",
-      "excerpt": "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals and ANPR cameras. John Davies, the Managing Director of TDSi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html",
-      "publishedDateTime": "2021-10-06T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
+      "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
+      "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "publishedDateTime": "2021-12-11T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-top-free-artificial-intelligence-courses-to-take-up-in-2022.md",
       "title": "Top Free Artificial Intelligence Courses to Take up in 2022",
       "excerpt": "Artificial Intelligence makes it all possible and more. Artificial Intelligence is a useful skill to keep under your belt, especially since it was all the rage right now, as the dot-com boom a few years ago.",
@@ -1151,50 +1185,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
-      "title": "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling",
-      "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop",
-          "width": 320,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
-      "publishedDateTime": "2021-12-10T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
         "AI Hardware"
       ]
     }

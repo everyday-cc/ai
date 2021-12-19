@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-17-location-data-ethics-project-completed.md",
+      "title": "Location data ethics project completed",
+      "excerpt": "The Geospatial Commission has published the findings of one of the first public dialogues on location data ethics, following a project carried out with social purpose consultancy Traverse and the Ada Lovelace Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/location_data_ethics_project_completed/id/5093672",
+      "originalUrl": "https://www.research-live.com/article/news/location_data_ethics_project_completed/id/5093672",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093672&name=location-data-ethics-project-completed",
+      "publishedDateTime": "2021-12-17T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
       "title": "The Sims 4 could use AI to automatically turn photographs into characters",
       "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
@@ -700,7 +743,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -898,7 +941,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1239,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
-      "title": "TuSimple locks in self-driving trucks deal with DHL",
-      "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024",
-          "width": 1024,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-draft/amp/",
-      "publishedDateTime": "2021-12-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

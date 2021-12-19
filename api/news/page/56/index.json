@@ -2,6 +2,60 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
+      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
+      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "publishedDateTime": "2021-11-04T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-pamela-mccorduck-historian-of-artificial-intelligence-dies-at-80.md",
       "title": "Pamela McCorduck, Historian of Artificial Intelligence, Dies at 80",
       "excerpt": "She interviewed many of the scientists who were at the heart of the field through the end of the 1970s, and she compiled a groundbreaking history of its early years.",
@@ -1128,50 +1182,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
-      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
-      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-345715/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "publishedDateTime": "2021-11-04T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

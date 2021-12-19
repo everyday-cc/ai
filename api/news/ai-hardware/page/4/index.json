@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-11-chip-developer-cerebras-bolsters-ai-powered-workload-capabilities-with-250m.md",
+      "title": "Chip developer Cerebras bolsters AI-powered workload capabilities with $250M",
+      "excerpt": "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
+      "publishedDateTime": "2021-11-10T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-ai-chip-startup-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation.md",
       "title": "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation",
       "excerpt": "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships.",
@@ -1402,49 +1454,6 @@
       "provider": {
         "name": "HotHardware",
         "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-intel-turns-focus-on-developers-with-new-pc-and-data-center-chips.md",
-      "title": "Intel turns focus on developers with new PC and data center chips",
-      "excerpt": "The development of new chips took centerstage at inaugural Intel Innovation event, with announcements spanning new products, developer tools, technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
-      "originalUrl": "https://techhq.com/2021/10/intel-turns-focus-on-developers-with-new-pc-and-data-center-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/10/intel-chip.jpeg",
-          "width": 480,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,40 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
+      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
+      "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots.md",
       "title": "Facebook's AI research could spur smarter AR glasses and robots",
       "excerpt": "To make that future a reality, the social network needs its AI systems to see through ... memories,\" said Kristen Grauman, a lead research scientist at Facebook. The technology could eventually ...",
@@ -1133,58 +1167,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-stock-news-analysis.md",
-      "title": "Stock News & Analysis",
-      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
-      "originalUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
-          "width": 400,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
