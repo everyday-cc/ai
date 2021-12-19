@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Relevance AI raises $3m from Insight Partners to build a developer-first vector platform"
-    excerpt: "Relevance AI, the Australia based start-up founded in 2020, has introduced a powerful developer-first vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors."
-    publishedDateTime: 2021-12-14T14:15:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211214ny07545/relevance-ai-raises-3m-from-insight-partners-to-build-a-developer-first-vector-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "EW+Rk5IMvI0Ik5NecILWpY9PGAP0OwrpzigXN5P3abMAwHvI+dQvnio9q33+fl1R3IHb/y75pYftrbSrPtVOOflxWav3ECB05mH+dIu8MkQky0pWvd/+p/tqvpTNXqJOdnPlrGzcaBBE3XvRKRFAQW9gbL4aJ0B37Qlh8jTVvsG+mtw2OJ8gOd21j9qZ/9Ci+bCHDQCl4mhnYotYGI2k9Y5d2QyYrLnQ/CywQ0kYGLux/VaoKJqlboxiNnuv807ZPICBkVOklM2QWWXMjc5SRxNlm9TUkVNCXEJ58YL/3LA2qdIbYxOErfts8zVwiBwCJPap6C/eHiqbRpl9q76HZKdJ0CilpYYboEkqfjZrbz/Nni9gFqLkqApbQM0+qTSzSNmEWt6XyxbDMpCrOismsf1SZ8hH4edlzXTr5UBydmsm9PJOMiHUfxXnPqv5pSPr3hlurOqC+jkjY/pGMf35gig4iCFF7gK1rbYj2NdR3E5bsY2kMOfhaC+5+bzMy6sEzMhvtOLeP/6Sawv2rHkWeA==;9e2T/9di64J1TKd8ZEwxjw=="
 ---

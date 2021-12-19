@@ -2,6 +2,91 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
+      "title": "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital",
+      "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
+      "publishedDateTime": "2021-12-10T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
+      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
+      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
       "title": "Supercharge your GeForce GPU with these 6 must-use features",
       "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
@@ -1098,82 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai.md",
-      "title": "WisdomTree Launches Artificial Intelligence and Innovation Fund, ‘WTAI’",
-      "excerpt": "WisdomTree Investments launched the WisdomTree Artificial Intelligence and innovation Fund (WTAI). WTAI is a targeted investment strategy focusing on constituents involved in the development and deployment of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai",
-      "originalUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/wisdomtree-launches-artificial-intelligence-and-innovation-fund-wtai?amp",
-      "publishedDateTime": "2021-12-09T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-black-people-use-facebook-more-than-anyone-but-now-theyre-leaving.md",
-      "title": "Black people use Facebook more than anyone, but now they're leaving",
-      "excerpt": "Brandon Keyes, a 37-year-old Army combat veteran from Detroit, has an on-again, off-again relationship with Facebook. These days, it's mostly off.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-black-people-facebook-theyre.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-black-people-facebook-theyre.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/facebook.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-black-people-facebook-theyre.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-black-people-facebook-theyre.amp",
-      "publishedDateTime": "2021-12-09T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
+      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
+      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "publishedDateTime": "2021-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology.md",
+      "title": "Podcastle Makes Creating Podcasts Easy Thanks To Ai Technology",
+      "excerpt": "Podcastle is a new platform that aims to make the creation of podcasts easier and more professional thanks to some nifty AI technology and a text-to-speech editing tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b766faecb256acfde84010%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/",
+      "publishedDateTime": "2021-12-13T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-synectics-introduces-cloud-capabilities-to-surveillance-control-rooms-powered-by-microsoft-azure.md",
       "title": "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure",
       "excerpt": "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the",
@@ -1070,100 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
-      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company’s RR.AI commercial unit was now capitalising on it. “That’s one of the reasons we have sought investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
-      "originalUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2SS196",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196",
-      "publishedDateTime": "2021-12-10T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
-      "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
-      "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d70ba295950230358690ae93de9e3cd78a0a4f16/2021/12/11/956f4dc7-de64-4b18-aa0d-20f338995549/reflection-ball-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
-      "publishedDateTime": "2021-12-10T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

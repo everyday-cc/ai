@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suspends Pony.ai driverless test permit after crash"
-    excerpt: "Pony.ai, a Chinese autonomous driving startup with an office in the U.S., has paused its driverless pilot fleet in California six months after it was approved by local regulators to test autonomous vehicles without a human safety driver."
-    publishedDateTime: 2021-12-14T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/"
-    ampWebUrl: "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024"
-        width: 1023
-        height: 536
-        isCached: true
   - title: "Intel steers toward driverless future with Mobileye self-driving car unit"
     excerpt: "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022"
     publishedDateTime: 2021-12-17T10:50:00Z
@@ -57,43 +41,34 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "California DMV Suspends Pony.ai Driverless Testing Permit After Small Crash"
-    excerpt: "Founded in 2015 by two former Baidu developers, Pony.ai is the first company to test driverless vehicles on public roads in both the United States and China. After getting approval to test autonomous vehicles in California in May 2021,"
-    publishedDateTime: 2021-12-14T20:56:00Z
-    webUrl: "https://www.autoevolution.com/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549.html"
+  - title: "Intel's Mobileye Puts Its Self-Driving Cars to a Stiff Test: Traffic in Paris - Bloomberg"
+    excerpt: "Mobileye is piloting a robotaxi service in Paris that’s ferrying employees of one of the French capital’s most famous department stores to work. The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system,"
+    publishedDateTime: 2021-12-16T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-16/intel-s-mobileye-puts-its-self-driving-cars-to-a-stiff-test-traffic-in-paris"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 52
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 45
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/california-dmv-suspends-ponyai-driverless-testing-permit-after-small-crash-176549-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0GGpECur7h4/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
-    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
-    publishedDateTime: 2021-12-14T21:52:00Z
-    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+  - title: "Mobileye obtains permit to test self-driving cars in Paris"
+    excerpt: "Mobileye, a division of Intel, is expanding its autonomous vehicle testing program to France after receiving a permit to operate robotaxis on the streets of Paris. It is the first autonomous on-demand service in the city of Paris,"
+    publishedDateTime: 2021-12-17T13:54:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17553/mobileye-obtains-permit-to-test-self-driving-cars-in-paris"
     type: article
     provider:
-      name: Land Line
-      domain: landline.media
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
-        width: 540
-        height: 420
+      - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
+        width: 752
+        height: 501
         isCached: true
-  - title: "Pony.ai's driverless test permit suspended after Fremont accident"
-    excerpt: "The California Department of Motor Vehicles has suspended a Silicon Valley startup's driverless vehicle test permit after it reported an accident in Fremont. TechCrunch reported on Tuesday that Pony.ai was notified on November 19 of the suspension due to an accident that happened at the end of October."
-    publishedDateTime: 2021-12-14T14:34:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/12/14/ponyais-driverless-test-permit-suspended.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
   - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
     excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
     publishedDateTime: 2021-12-14T20:25:00Z
@@ -107,6 +82,48 @@ related:
       - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
         width: 800
         height: 476
+        isCached: true
+  - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
+    excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
+    publishedDateTime: 2021-12-15T13:00:00Z
+    webUrl: "https://news.crunchbase.com/news/autonomous-vehicles-driver-assistance-stan-boland-five/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/Aug_chart_2.png"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Mobileye's self-driving technology takes on Paris traffic"
+    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
+    publishedDateTime: 2021-12-16T13:08:00Z
+    webUrl: "https://europe.autonews.com/automakers/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Mobileye's self-driving technology takes on Paris traffic"
+    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
+    publishedDateTime: 2021-12-16T19:37:00Z
+    webUrl: "https://www.autonews.com/mobility-report/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
     excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"

@@ -98,6 +98,20 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "California senator scrutinizing Tesla’s Full Self-Driving system"
+    excerpt: "Sen. Lena Gonzalez is urging the DMV to look into Tesla's Full Self-Driving system after videos appear to show drivers misusing the technology."
+    publishedDateTime: 2021-12-14T21:52:00Z
+    webUrl: "https://landline.media/california-senator-scrutinizing-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: "https://landline.media/wp-content/uploads/2021/12/211214-Tesla-California.jpg"
+        width: 540
+        height: 420
+        isCached: true
   - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
     excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
     publishedDateTime: 2021-12-15T12:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-12-16/intel-s-mobiley
 webUrl: "https://www.bloomberg.com/news/articles/2021-12-16/intel-s-mobileye-puts-its-self-driving-cars-to-a-stiff-test-traffic-in-paris"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Intel steers toward driverless future with Mobileye self-driving car unit"
+    excerpt: "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022"
+    publishedDateTime: 2021-12-17T10:50:00Z
+    webUrl: "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 58
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "California suspends Pony.ai’s driverless permit after crash"
+    excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
+    publishedDateTime: 2021-12-15T13:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17537/california-suspends-pony-ai-s-driverless-permit-after-crash"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 54
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/537/17537/Beijing_Driverless_Photo_1.jpg"
+        width: 752
+        height: 501
+        isCached: true
   - title: "Mobileye obtains permit to test self-driving cars in Paris"
     excerpt: "Mobileye, a division of Intel, is expanding its autonomous vehicle testing program to France after receiving a permit to operate robotaxis on the streets of Paris. It is the first autonomous on-demand service in the city of Paris,"
     publishedDateTime: 2021-12-17T13:54:00Z
@@ -42,6 +72,34 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
         width: 752
         height: 501
+        isCached: true
+  - title: "Toyota-backed Autonomous Driving Developer Pony.ai Gets its Driverless Test Permit Suspended in California After Minor Accident"
+    excerpt: "After a minor accident involving one of Pony.ai's autonomous test vehicles in California, the state has stepped in and suspended the company's deployment permit while it conducts an investigation to find out what happened."
+    publishedDateTime: 2021-12-14T20:25:00Z
+    webUrl: "https://www.futurecar.com/5068/Toyota-backed-Autonomous-Driving-Developer-Pony-ai-Gets-its-Driverless-Test-Permit-Suspended-in-California-After-Minor-Accident"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 26
+    images:
+      - url: "https://img.futurecar.com/202112/14/l_61b9093371f16.jpg"
+        width: 800
+        height: 476
+        isCached: true
+  - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
+    excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
+    publishedDateTime: 2021-12-15T13:00:00Z
+    webUrl: "https://news.crunchbase.com/news/autonomous-vehicles-driver-assistance-stan-boland-five/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/Aug_chart_2.png"
+        width: 900
+        height: 506
         isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
@@ -71,6 +129,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
+    publishedDateTime: 2021-12-16T20:25:00Z
+    webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "2VyUTPhWU9CPnwbXlLgKxgkIj0ZavUsviH+R3QdnDbnDin8nppMobyydpwCjPGhh16C/5uItx2YiMQ5dE8FR46bicKskFOJ40nvw4DkXbAELzwLHUtbXJumJVRMBmOEah9/JD4lOGrxRgXKnqg3v2YsAPwGwfHRCN/XUlkTs7JAoqyRcCYtZqUV60xSnTdDvFNOKCsIOVAHcinNy1YR4UD1mENtQgLhcBrFQHTfPvrIFHS5DgcxYh86WjZbn3oICrkfOOYl0DdtLDQHF4nyrJlaOD9ywmPFpSirt4iGMmsNSy2hiFObP48L89vU/WklI0QT8gg4mkoVd+gwSdTysFj4IKUlaWbJ3cgtkBOSa7syeyfMkqNLQ4XqGkjQTJQiMk73oK+D4LFZWlvUu8vrwmbrF3Z8lbOgdhWO8c9Pp+p54gbVYnZdODSGnr4gmE/BX4YrrlcQk422F1H1q3wx1xGXo5UUrn9QJlUjWyOzvXF02rbAhnx5rEIVOnrmoTFtWPWdT/fTQSoz/wfY28hj+Rw==;Nrsoi66gwd2DPJrghJQVJA=="
 ---

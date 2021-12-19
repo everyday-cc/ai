@@ -41,20 +41,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Mercy Health Saint Mary’s receives national recognition"
-    excerpt: "A health care watchdog organization awarded Mercy Health Saint Mary’s the title of a Top Teaching Hospital after meeting its rigorous standards in a nationwide survey."
-    publishedDateTime: 2021-12-14T13:41:00Z
-    webUrl: "https://grbj.com/news/health-care/mercy-health-saint-marys-receives-national-recognition/"
-    type: article
-    provider:
-      name: Grand Rapids Business Journal
-      domain: grbj.com
-    quality: 39
-    images:
-      - url: "https://cdn.grbj.com/wp-content/uploads/sites/143/2021/08/Matt-Biersack-scaled-e1630070496690.jpeg"
-        width: 1000
-        height: 809
-        isCached: true
 
 secured: "kMNRkpfM/EgBnB6cX3lGdRlgLLeo7MI3ZCZVP6a2W64343wWjhPXelNnr/p/s8nEo1/ZHRlVo3iCuYu19D297c4MtHXx02w11kRdoYDMWkDorq5/3srIEQoCaiZ8yFOPjR7s3f9WlGDS8dNwFlpxnZy+W6EKGDzc83w0ooVkuBHKsJJg/5gyj8hBjRX7c36m4fcmIV1kpsdr0nO5OJ7A4u5DAgz4zNLkEUNRJXPiNDTciNcjZjYNvZVtrTQuN6BpO/wTBVd1mxZmPCK5zoy0FIJb7ik41udESzGGQ9yT8MfEKyM8y2a3S6wBC2gwZhw3ndLjrRGk5/YpqnWZKtmrW3IJa2FM4k3QZx+f7ZVgdNdavh7af8kl+RZbddZZ/TcQ1/nfD+Qt+0IdKkG6GcDstvR1bD+dJFM4sgHRKluIC3WF0O/jGvQ/0dRkFWFGm01TTE0NFi1BYopR5r/g2BFSfaTdA0LdbP030YZL0Id2niQb1UJinAwEGlBbz+iquY45m19bqbJdICOLDBN1aIoLJg==;Sgvc0llvj3QzYomeTeekCA=="
 ---

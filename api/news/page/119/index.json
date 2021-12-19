@@ -2,6 +2,102 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
+      "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
+      "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "originalUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian2.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "publishedDateTime": "2021-09-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-making-games-immersive-and-engaging-through-aws-aiml.md",
+      "title": "Making games immersive and engaging through AWS AI/ML",
+      "excerpt": "He also cited the case study of how Sony Interactive Entertainment modernised the PlayStation Playstore, using Amazon SageMaker and Amazon Personalize. In terms of monetisation strategies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "originalUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagek34f-1632226292285.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/making-immersive-engaging-games-through-aws-ai-ml/amp",
+      "publishedDateTime": "2021-09-21T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms.md",
       "title": "Computer vision-powered workplace safety systems could lead to bias and other harms",
       "excerpt": "AI-powered workplace safety systems that monitor for factory floor and fulfillment center hazards are potentially problematic.",
@@ -1072,102 +1168,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-pixel-6-live-translate-will-combine-googles-best-translation-features.md",
-      "title": "Pixel 6 Live Translate will combine Google’s best translation features",
-      "excerpt": "Although Google serves many users on many platforms, it often shows preferential treatment to Pixel phone owners. Some of those exclusive features eventually find their way to other Android",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/",
-      "originalUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/pixel-6-live-translate-0.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/amp/",
-      "publishedDateTime": "2021-09-20T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-researchers-study-recurrent-neural-network-structure-in-the-brain.md",
-      "title": "Researchers study recurrent neural network structure in the brain",
-      "excerpt": "such as language translation and object recognition, by simulating the neural network in the mammalian brain. \"This paper provides a basic structure of neural networks in the mammalian brain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-study-recu.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
-      "publishedDateTime": "2021-09-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

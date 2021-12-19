@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercy Health Saint Mary’s receives national recognition"
-    excerpt: "A health care watchdog organization awarded Mercy Health Saint Mary’s the title of a Top Teaching Hospital after meeting its rigorous standards in a nationwide survey."
-    publishedDateTime: 2021-12-14T13:41:00Z
-    webUrl: "https://grbj.com/news/health-care/mercy-health-saint-marys-receives-national-recognition/"
-    type: article
-    provider:
-      name: Grand Rapids Business Journal
-      domain: grbj.com
-    quality: 39
-    images:
-      - url: "https://cdn.grbj.com/wp-content/uploads/sites/143/2021/08/Matt-Biersack-scaled-e1630070496690.jpeg"
-        width: 1000
-        height: 809
-        isCached: true
   - title: "Laredo council awards recognition to LPD officer"
     excerpt: "During today’s Special City Council Meeting, Mayor, Pete Saenz, and Members of Council recognized Laredo Police. Officer Velasquez was awarded the 2021 Honorable Mention TOP COP Award from the National Association of Police Organizations."
     publishedDateTime: 2021-12-14T20:21:00Z

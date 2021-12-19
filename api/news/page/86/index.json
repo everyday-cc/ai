@@ -2,6 +2,92 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2021-10-13-cognitive-medical-systems-and-thornhill-medical-receive-army-award-to-help-accelerate-medical-device-interoperability-and-remote-control.md",
+      "title": "Cognitive Medical Systems and Thornhill Medical Receive Army Award to help accelerate medical device interoperability and remote control",
+      "excerpt": "Cognitive Medical Systems and Thornhill Medical announced today that the two healthcare innovation companies have been selected by the U.S. Army Medical Research and Development Command to receive $853,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "originalUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/SXFVT8Wlr7YmbcFKT-AgTn8yv38=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/J32LS2A22AOMKKBCBFUKYQ3MHM.jpg",
+          "width": 980,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYT",
+        "domain": "wkyt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-deep-learning-helps-to-predict-traffic-crashes-before-they-happen.md",
+      "title": "Deep learning helps to predict traffic crashes before they happen",
+      "excerpt": "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-deep-traffic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp",
+      "publishedDateTime": "2021-10-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-why-ai-and-human-intelligence-must-work-together-in-medicine.md",
       "title": "Why AI And Human Intelligence Must Work Together In Medicine",
       "excerpt": "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care.",
@@ -1076,102 +1162,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024.md",
-      "title": "Natural Language Processing Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024",
-      "excerpt": "Oct 12, 2021 (The Expresswire) -- “Natural Language Processing Market” report explore recent market growths and competitive strategies, such as alliances, joint ventures, mergers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero.md",
-      "title": "Global Artificial Intelligence for Accounting Market Share and Advancements 2021: Microsoft, AWS, Intuit and Xero",
-      "excerpt": "Pune, Maharashtra, India, October 13 2021 (Wiredrelease) Market.biz –:Global Artificial Intelligence for Accounting market report supplies information to run predicated requirements and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-for-accounting-market-share-and-advancements-2021-microsoft-aws-intuit-and-xero",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/8e454b344ac33cd3759cbee9375e3af61f6c5512-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Microsoft AI"
       ]

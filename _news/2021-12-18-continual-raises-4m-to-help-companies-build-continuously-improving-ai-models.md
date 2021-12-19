@@ -55,15 +55,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Relevance AI raises $3m from Insight Partners to build a developer-first vector platform"
-    excerpt: "Relevance AI, the Australia based start-up founded in 2020, has introduced a powerful developer-first vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors."
-    publishedDateTime: 2021-12-14T14:15:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211214ny07545/relevance-ai-raises-3m-from-insight-partners-to-build-a-developer-first-vector-platform"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "inUwBp+wGeUPBxG4f7mddBFI2yDVUcyJBDNNtUJbY8Lofxx3b10htkHTx+9CG2KvLZMrRs1s8FiniYCiJsCZy8R0dXEulhNyxsGLqNrbSe08suJxANVuSngGbU41akZ741pQZidEpK5dZUWL5L59Vt/8uQ0KEtzNaWJboRhX+iqg2qg319EcmYWX2/PEASwO26D5BfyEQKfdUfWkWvTezwGBh9gsj7DXn8CvuVPl0/AgXbzBeMhmZjiRN9KFOjsTRStgVHW5cEDHE9dFrcxx7pd3u7I9ZRdhZSXI5tZDrCUzbTH5KU6kbgCO7HApVl5XLmR/puHwK1imr+pC5GPfE2qSgQfj8IbodvHHnQn8k8pU2hdQqkcJ4DLLBk0GpjZ1eaw2k3ecBnu8FeuwR/yJooMqKBAI06uxVwkiDpxa32TM+v6iS9DQGaf4aAAEHkyywinBvT2dx+Ptsb4Pot+3fYTDFaikn6NUA5xsNnIzuB211MuZ7veO6VW39hnl6FxrQSiptP5A6+G+KsziIxFZlA==;iBWA2jdf1Bdeydg7pCq1rg=="
 ---

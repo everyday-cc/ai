@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
+      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
+      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "publishedDateTime": "2021-12-17T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
       "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
       "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
@@ -263,7 +306,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1387,40 +1430,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "Waymo's slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2021/12/08/alphabet-waymo",
-      "originalUrl": "https://www.euronews.com/next/2021/12/08/alphabet-waymo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

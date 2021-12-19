@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Find A Pain Point, Don’t Follow Your Passion And Seek Out An Unsexy Sector Are Some Of The Keys To Building An $8.3 Billion Fintech Unicorn Company"
-    excerpt: "Tipalti is an Israeli-based accounts payable fintech company. Their name comes from the Hebrew expression—we handled it. The fintech company raised $270 million at a valuation over $8.3 billion in an effort to transform and disrupt this sector."
-    publishedDateTime: 2021-12-14T13:47:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/14/find-a-pain-point-dont-follow-your-passion-and-seek-out-an-unsexy-sector-are-some-of-the-keys-to-building-an-83-billion-fintech-unicorn-company/amp/"
+  - title: "Fintech Startup JustiFi Secures $6.6 Million Seed Round"
+    excerpt: "JustiFi, a Minneapolis-based fintech platform aimed at vertical SaaS companies, has announced a $6.6 million seed round. The round was co-led by Emergence Capital (an early investor in Zoom, Salesforce,"
+    publishedDateTime: 2021-12-16T22:08:00Z
+    webUrl: "https://tech.mn/news/2021/12/16/fintech-startup-justifi-secures-6-6-million-seed-round"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
+      name: TECH
+      domain: tech.mn
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8acc0a8d284aaa665c72d%2F0x0.jpg"
-        width: 1200
-        height: 1138
+      - url: "https://tech.mn/wp-content/uploads/2021/12/justifi.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "Kraken Ventures Raises $65 Million for Early Stage Fund to Invest Across the Crypto & Fintech Ecosystem"
+    excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early stage companies and protocols across the crypto and fintech ecosystem, has today announced the successful closing of its first fund,"
+    publishedDateTime: 2021-12-17T12:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-austin-texas-7013c82d4df24905877e49c1d27e7e3f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "IRvCUnfdGZk4mvIzCzcHJxJBhzZm1s58nBEagQCvx9GjgIj0w5WU26Of85j7RX9mFv3f2epnbTwzjVLhgYRjlydoKw0rkqdLj/wdyMZp+DSXMpp8CWCPXhnO1YwJMULugxplUnhriRKkkx0rq9NXYAoMskFx7K+Fb0euLVjSUfX7/YdhTBHtl0SFd8uMPJXu5x5CzZq9Gq4a97PznXOaey0F1HmLGwtw/6JIGWCFGnEeP42DRS6+Odcooz1tRxGURkBOItZgy5Z5Wzolox41MNW2ixu+D5S++o5Wy2yu7n2Ib4MNN6UbavqP+ZWogbWOYTTErfGlYZkf4t9l0dKzsW9/Q5Tl9slPPWP5t237M34=;Y1iRNykhi0VKk7vlEsxIDw=="

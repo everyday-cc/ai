@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-s
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1600
     isCached: true
+
+related:
+  - title: "Researchers earmark unique hack for better human face recognition"
+    excerpt: "Accurately verifying a person is who they say they are by comparing their face to official forms of ID can be improved by as much as 6%."
+    publishedDateTime: 2021-12-19T05:49:00Z
+    webUrl: "https://www.themandarin.com.au/178098-researchers-earmark-unique-hack-for-better-human-face-recognition/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 39
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2021/12/jigsaw-face.jpg"
+        width: 795
+        height: 531
+        isCached: true
 
 secured: "7JcIyi2tyIpCmbKWv94j0s7J0ucYiUFD+U7uOi/ibGMvwCYbqNexI6jnYtOteFXKt6awx0QSxtN8n1BbonnBwG+2opKLQySm4fmQwoOBQcwmnIXnoQk2W1J38xYbMTcGX3C8mcSGoXV5dpLJs/c+YD4lkvUptF4KV1MFCPa2zwHMjLQ14WIQCMgMhESKIqRr4RT7WtSLNlZRtt21nRdgdO95w2alL4DNe8GD9IETkZkDAfn9pvGV9Dt8XtPUQXrvfVhyVQUKmWcZx3UgVu6kGVYmSbUmfQRQFXyoN/tty9QN81LwbYVEvt2tkPpdYpKyPOGxpCPq777JCfh5lJtoYXNFoQKHHypamRmpYDTUQRH0bpHHIcyo2diKZdFT7ppFhX9a7Zu7MFdE68YO/+IOtG3zvB4G+7AT3pPiPPyBVeyEQ11gxflmuFToEc+r+bvMpZSbVSYjGTfG0CpMDyoSWEs7d27ZjpH+wDwe+RSS4RQieteOiO7wg9fXGxSZtQ0WU5Tm6VhUHME1vmr4Ort4iw==;JchVPTvyHFMXKDppomexBg=="
 ---
