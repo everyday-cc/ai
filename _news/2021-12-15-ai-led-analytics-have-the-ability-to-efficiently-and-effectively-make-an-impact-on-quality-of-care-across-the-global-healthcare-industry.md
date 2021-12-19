@@ -55,20 +55,6 @@ related:
         width: 857
         height: 583
         isCached: true
-  - title: "AWS launches AI for data analytics partner solutions"
-    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Business Analytics BPO Services Market"
     excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
     publishedDateTime: 2021-12-16T09:58:00Z

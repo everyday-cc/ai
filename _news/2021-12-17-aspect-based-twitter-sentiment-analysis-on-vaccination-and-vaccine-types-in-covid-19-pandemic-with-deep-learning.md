@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-14T21:12:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5125251-global-computer-vision-software-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
 
 secured: "rnGneo8uVMuFrkupoj5pdjOLO03OBxGH+1qEyV629JWPDH30gTZGYAQieTE8ZBep9P3kIk8G/CNjh6kDK1MOIMDKIeoEyjH5pqCqvoznVMC6M65vxAkVAFJ7J9MkBK5EN7m8YVlcsInRMkP/esLO1Vkl2qxBcRIzkaWAggxUGwH6YCLrSyjgc13A6ZQ55/YMblxxphsgPKwxvsGDqZwWWIrQE0aa/k9gtJkhYodhRHy0PPf+nn/osj0MS0XKyyv2uCkHjCkfnqA7ZeZ3yN3BivtpW7ITJIvmmMdwJxpTqUCIn0zh/eFdecVIiqpcrA2n6gT/De9/xZ1O+soGT+pxVCxFhZHkyx6619IeMkvOCE8=;hA+08A0t/WAG77R/VK9Lqg=="
 ---

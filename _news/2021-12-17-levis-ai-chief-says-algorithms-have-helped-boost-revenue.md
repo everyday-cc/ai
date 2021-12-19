@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

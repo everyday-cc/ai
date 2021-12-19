@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5919-image032.png"
         width: 857
         height: 583
-        isCached: true
-  - title: "AWS launches AI for data analytics partner solutions"
-    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Business Analytics BPO Services Market"
     excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"

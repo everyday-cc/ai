@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing"
-excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision"
+excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,"
 publishedDateTime: 2021-12-16T23:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-ampWebUrl: "https://www.benzinga.com/amp/content/24662164"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24662164"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
@@ -35,18 +33,7 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Latest Trend In Artificial Intelligence Technology Drives The Market For Data Extraction Software"
-    excerpt: "Introduction Data extraction has emerged as a technique of extracting and discovering new knowledge in data implicit in a large data warehouse to enable better business decisions and strategy formulation Various organizations are focusing on data extraction techniques to handle"
-    publishedDateTime: 2021-12-17T06:10:00Z
-    webUrl: "https://www.openpr.com/news/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    ampWebUrl: "https://www.openpr.com/amp/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
-secured: "l2l3mXYzrhS1asryDHeMe0h04zDQTpSGVW+lfL2KgCFle/rTaDYYfgWMlxiwgor+lQqJkPuizj9hFNJtFnevNitxymiC0LW/zVDoA165Mv/ySHzmSH/0g4a8n+24FaEBTUl2T/cLcYO7mfPNGB3fhAWr9buzIT1Wk1BulMkzjUcn8qadnFqzwsg1kUR5658avziiRoNM346jGl1/oHxVpJQMFDM767uoP2KmgA1w812f4hvOV4/YFXAl9rxoFtQ6xoHsZH5wI3rK6SYAk/CamNG0NBl4sAmV/P18mJ3+nj4oPqQqeGD69EBmu/SIDnURyVwXay2MvncRGeDf0XGWby2uA6+VCWSN6NIYf0RqJpU=;HlLl7Xg/LcDzomXauFx+2w=="
+secured: "wFi3RD9q01cuFkvNCpcJYVhk1OyIxgBaHWaYXI6qVO0YgpngmykRGuGhZ06hX3eRP+WyJ8TDb3iDBCNzPxTvCLJ7sui0isloDJK6ob27msJvA0i+1J0l9WOYYfU7DJ2/eMGRBHG/MBxIxlT8DFA1HeEyybhsBC4PSTY6YBIi+p8KkaKHCWoEwVNtavi1f8m6Y0pVSKWPRbt0GprLWJ8WeSuQ+1mKaW0h+FKW+C8Req3TY3vhNzWXn+An3g3V6X9iLWbLqp2wqqW3rmUd5kWp0iKFzWBSLTnv3VWqTqS3ZWLN2lcn1BM5jWY5K3CiRFFk6iOt8ZxzvRfhzlZ8AJ5JE04agN9q82pGzSwjhV1M3L8p542wRMz3CJmIsA6tYukfb1z8ohcUsiRvhsgYlo+hf9KB+yCI3utrvsWisZhEVbAJWTwq1fYruoxdl6ldIzF++Lb6PVHTyAwe4fSGHjpeKu+FDbo3Gjeaep1mhwgr6Fmdjup4LjNC2knSE1r1r7te4QaqzZDNfJhUHf7Lg8FRXA==;J15coJliLZh+ZLiK4ngAwA=="
 ---
 

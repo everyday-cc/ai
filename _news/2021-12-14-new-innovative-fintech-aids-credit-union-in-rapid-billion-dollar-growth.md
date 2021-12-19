@@ -103,22 +103,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Asian Fintech Credit Management Leader Flow Doubles Revenue, Prepares for Series B"
-    excerpt: "Flow, the Asian fintech credit management leader, announced today that it has been observing a strong recovery of consumer credit collection revenue from the"
-    publishedDateTime: 2021-12-14T07:52:00Z
-    webUrl: "https://www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b"
-    ampWebUrl: "https://www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/asian-fintech-credit-management-leader-flow-doubles-revenue-prepares-series-b?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_1379.jpg?itok=pxWCsnQW"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Banks and Fintech on Platform Economies - how payments transform the banking experience"
     excerpt: "The advent of platform economies is a tsunami for the traditional business culture, especially for bankers. Still, Paolo Sironi, Global Research Leader in Banking at IBM, reveals how should the FIs"
     publishedDateTime: 2021-12-17T06:17:00Z

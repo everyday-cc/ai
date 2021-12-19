@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-15-veritones-ryan-steelberg-on-building-an-ai-deployment.md",
+      "title": "Veritone’s Ryan Steelberg on Building an AI Deployment",
+      "excerpt": "Artificial intelligence needs to be demystified if it is to be effectively deployed, says a leading industry expert.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
+      "originalUrl": "https://www.eweek.com/news/veritones-ryan-steelberg-on-building-an-ai-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/12/New-eSPEAKS-thumbnail-4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-wall-climbing-hb1-robot-could-find-work-in-high-places.md",
+      "title": "Wall-climbing HB1 robot could find work in high places",
+      "excerpt": "It's safe to say that any task which involves going up high is at least somewhat dangerous. The HB1 robot was designed with this fact in mind, as it climbs walls and even scuttles across ceilings so people don't have to.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "originalUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b6d7f43/2147483647/strip/true/crop/2106x1404+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F88%2F06%2F18a9f5864ede8ee531a4a3883785%2Fscreenshot-2020-07-22-at-08.44.19-5.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/wall-climbing-hausbots-hb1-robot/?amp=true",
+      "publishedDateTime": "2021-12-14T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics.md",
       "title": "Zhejiang University: Joint efforts called for to promote AI ethics",
       "excerpt": "A multi-country panel of scholars, researchers and stakeholders called for global efforts to tackle the peril of AI usage with AI ethics at the Workshop themed on “the AI Ethics & Internet Governance: Global Lessons & Practices”.",
@@ -1125,101 +1228,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-growth-of-global-gpu-as-a-service-market-report-till-2025.md",
-      "title": "Growth of Global GPU as a Service Market Report Till 2025",
-      "excerpt": "GPU as a Service (GPUaaS) market is projected to surpass USD 7 billion by 2025. The growth is attributed to a sudden surge in crypto mining and rapid growth in cloud gaming. The growing number of data centers to provide data storage and predictive analytics using deep learning to enterprises across various sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath.md",
-      "title": "DRDO adding IT, artificial intelligence, robotics in tech warfare: Rajnath",
-      "excerpt": "Defence Minister Rajnath Singh on Tuesday said that the Defence Research and Development Organisation (DRDO) is adding new chapters like information technology (IT), artificial intelligence (AI) and robotics in technological warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/14_tue/img_1639478703391_58.jpg?",
-          "width": 1080,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "publishedDateTime": "2021-12-14T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

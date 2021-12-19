@@ -55,20 +55,6 @@ related:
         width: 857
         height: 583
         isCached: true
-  - title: "AWS launches AI for data analytics partner solutions"
-    excerpt: "Amazon Web Services has launched AI for Data Analytics (AIDA) partner solutions to empower business experts with predictive analytics"
-    publishedDateTime: 2021-12-14T07:19:00Z
-    webUrl: "https://gadget.co.za/aws-launches-ai-for-data-analytics-partner-solutions/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 54
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/01/puzzle-brain-head-AI-artificial-intelligance.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
     excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
     publishedDateTime: 2021-12-15T12:28:00Z

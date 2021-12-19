@@ -20,31 +20,24 @@ topics:
   - AI
 
 related:
-  - title: "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing"
-    excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision"
-    publishedDateTime: 2021-12-16T23:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24662164"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24662164"
+  - title: "Podcast Recap: AI ethics and immersive technology"
+    excerpt: "Future focused., covers unique insights and stories for how to successfully implement AI across an organization, protect consumer data, and immerse yourself in the world of Internet 3.0. Let's One of the most exciting and widely used applications of AI is facial recognition."
+    publishedDateTime: 2021-12-16T16:25:00Z
+    webUrl: "https://www.publicnow.com/view/5EC41FBE86E664FC757BD0D31DB78292182FD9E3"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Zensar Technologies: Accelerating Business Services with Artificial Intelligence Strategies"
-    excerpt: "This article features some of the top AI strategies of Zensar Technologies with AI models and effective partnerships across the world. AI in Zensar Technologies is thriving to adopt digital transformation efficiently with artificial intelligence."
-    publishedDateTime: 2021-12-17T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/zensar-technologies-accelerating-business-services-with-artificial-intelligence-strategies/"
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
+  - title: "Webinar Recap: Experts Examine the Next Frontier in BI"
+    excerpt: "That's why actionable intelligence is not only becoming a term that more and more business leaders are familiar with, but a methodology that they are building entirely new BI strategies around. Indeed,"
+    publishedDateTime: 2021-12-14T15:32:00Z
+    webUrl: "https://www.publicnow.com/view/1102CA13892F5C03F84CDB508AED3706FD36B0BA"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 29
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Zensar-Technologies-Accelerating-Business-Services-with-Artificial-Intelligence-Strategies.jpg"
-        width: 900
-        height: 500
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 4
 
 secured: "z06G9BLzqbRhFudUopqLU3udxhIhRUhwuwFLUEo6HyeHRCIGnQPJbnTig1zxbyCnx0JA83KX7yS0PhH27ccAr7atFfIJbqDQXpTPP7WrRBWrokSV0sn3vCIusVxy8LOdHKaGkcBX57gKeXVFG+SU0f4NkoYc0W3Q7RfClyWqyvaxgWt4PTGWig4uiiZ2CHfSbUmFNUG8A6+vWpvzF5/BnI74PEw/+bRxBxXT9udEGho4lDSLkwiSMPnTNGoFDeKiCXySfFt6DLdu6TfzQ6ABGHqGAqCdiMsbAd+j8kX4VljcNWJ6w+AMYbR92Lv4GwmxIWo30fcfK6T69qMBET/sqp7787gSZeovh6BgDR5T++w=;x2J5FREJZ9bx0Y6o3NBmwA=="
 ---

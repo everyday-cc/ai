@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-15-how-surveillance-capitalism-influenced-digital-slave-labour.md",
+      "title": "How Surveillance Capitalism Influenced Digital Slave Labour",
+      "excerpt": "I Cut the 'Big Five' Tech Giants from My Life” by Kashmir Hill Technology creates the very problems that technology solves. Sometimes we make the choice to bring technology into our lives, but sometimes it’s forced upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
+      "originalUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGoJprBjRAl5g/article-cover_image-shrink_600_2000/0/1634229682190?e=1640822400&v=beta&t=wTb-0cey0kHKTP6i8vUTVdqiw90Hehe18MODvg6HT10",
+          "width": 612,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-execs-from-github-and-microsoft-azure-invest-in-new-ai-startup-that-helps-devs-build-intelligent-apps.md",
       "title": "Execs from GitHub and Microsoft Azure invest in new AI startup that helps devs build intelligent apps",
       "excerpt": "Aseem Datar, a former Microsoft Azure General Manager who just joined Madrona as a partner, said Spice AI is “going after a large and significantly important mission as the world sees more and ...",
@@ -1296,40 +1348,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
-      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
-      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPLC",
-        "domain": "kplctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

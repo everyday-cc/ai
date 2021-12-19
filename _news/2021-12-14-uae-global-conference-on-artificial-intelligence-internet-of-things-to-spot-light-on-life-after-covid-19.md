@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Movement of COVID cases in this country to be tracked by AI-facial recognition"
-    excerpt: "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,"
-    publishedDateTime: 2021-12-14T07:28:00Z
-    webUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition"
-    ampWebUrl: "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "S Korea to test AI-powered face recognition to track COVID-19 cases"
     excerpt: "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,"
     publishedDateTime: 2021-12-14T11:46:00Z
@@ -56,29 +40,15 @@ related:
         width: 1080
         height: 600
         isCached: true
-  - title: "How has COVID accelerated use of AI for mental health?"
-    excerpt: "TLDR Research on how AI can integrate itself into mental health treatment is in its early stages of development. While AI is not ready to be deployed as a sole treatment, NLP has shown promising results in tandem with other methods of treatment."
-    publishedDateTime: 2021-12-16T00:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-has-covid-accelerated-use-ai-mental-health-magetech"
+  - title: "3 startups spearheading AI growth in South Korea"
+    excerpt: "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,"
+    publishedDateTime: 2021-12-16T04:08:00Z
+    webUrl: "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEPR7DR_w61Aw/article-cover_image-shrink_720_1280/0/1639612335183?e=1645056000&v=beta&t=_VhZc_J0VlpkI3dMoYzuBaLgAwgfruip0ggHK6BH99M"
-        width: 800
-        height: 601
-        isCached: true
-  - title: "Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Computer Vision Software Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-14T21:12:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5125251-global-computer-vision-software-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
     excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
     publishedDateTime: 2021-12-17T11:23:00Z

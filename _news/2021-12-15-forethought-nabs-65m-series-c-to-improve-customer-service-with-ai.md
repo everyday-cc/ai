@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 819
     isCached: true
-
-related:
-  - title: "Voice Tech Leans on AI to Humanize Customer Service and Experience"
-    excerpt: "Raghu Ravinutala, CEO of customer experience automation firm yellow.ai, discussed the dynamic AI-driven changes that are impacting conversational commerce."
-    publishedDateTime: 2021-12-14T09:00:00Z
-    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/"
-    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/voice-tech-leans-on-ai-to-humanize-customer-service-experience/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
 
 secured: "EGfLuhesnuPZsCayFNfffroU4YHjaI9Vw/K/Sh4JcbRd6sXyf+O6BwwxSXb/0KAJuRpY5fv4zXjg2egWT4nlgWFYv/HD7egxlZXppAnjVxtXCFzjJtzHEwTY1phfVLu8ZxGH28a87JoUrYBinju4JjkHjqBSjSe6twWboC6d0YM112QAC81nMvKGa5odixdxvQ1oFZpAyuSgHmqhMpnhphlUyAxmJsUrEVPfPn4ab4cyZxbbeyjoPkm/BZwH0oNX98ZL+H7O0mas0kpBq5I8TE/XWmjrAC1g3WVt0usw7n/+4Pv7M3xXcofdTdRjCr+ythj4JGkuPClTTaqV6h7ltm8i1aXRr20Rkznk0GgEnQno/KLt2j0O62PNgnbnpdYrgiC1clnSu199kO0dF9Eikft2+raxYBBCwmXUPNFTzpl0Ydqh2f3hetxrzxqVUPtdtHOtQsRdKtUyUAj0UB2uN/ZQ9AvZqCk0v6JuercZ9WsmP/YH2XmLJjOzewGxEoYw81r5+usE4LrrX3z9xIkUCg==;/4tk5N+1r84pPT7UHn58aw=="
 ---
