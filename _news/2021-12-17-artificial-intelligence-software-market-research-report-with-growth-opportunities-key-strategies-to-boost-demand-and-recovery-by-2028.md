@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
+    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
+    publishedDateTime: 2021-12-16T10:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
     excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
     publishedDateTime: 2021-12-15T09:46:00Z

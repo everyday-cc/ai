@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedenverchannel.com/news/national/sewer-waste-managemen
 cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process?_amp=true"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: 7News and TheDenverChannel.com
@@ -36,7 +36,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
         width: 700

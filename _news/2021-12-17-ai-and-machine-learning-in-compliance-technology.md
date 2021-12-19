@@ -107,34 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 AI and machine learning trends to watch in 2022"
-    excerpt: "Verne Global’s CTO talks about which trends have changed the AI landscape so far and what he sees coming next for the industry."
-    publishedDateTime: 2021-12-14T16:10:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-trends-2022"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/5-trends.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Top 10 Artificial Intelligence App Development Trends in 2022"
-    excerpt: "Artificial intelligence is the most demanding topic that is spoken about everywhere. AI is the ability of a system to think and learn from its experiences. Let’s see the top 10 artificial intelligence app development trends in 2022 in this article."
-    publishedDateTime: 2021-12-14T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-app-development-trends-in-2022/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Artificial-Intelligence-App-Development-Trends-in-2022.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Webinar on career in artificial intelligence"
     excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
     publishedDateTime: 2021-12-18T02:15:00Z

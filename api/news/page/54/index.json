@@ -2,6 +2,50 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-11-06-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things advanced analytics software, announced today additional integration support for Microsoft Azure Machine Learning. This new Seeq Azure Add-on, announced at Microsoft Ignite 2021 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
+      "originalUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/11/Seeq_Azure_Add_On_press_release_image.6184150d0c127.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-google-nest-cam-indoor-wired-review-the-best-nest-yet.md",
       "title": "Google Nest Cam (indoor, wired) review: The best Nest yet",
       "excerpt": "It's also the smartest. With on-device machine learning for specific object recognition, sound recognition and some free video history, there's a lot to like. The price is high and other ...",
@@ -1124,58 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-how-fintech-lending-trends-benefit-small-businesses.md",
-      "title": "How Fintech Lending Trends Benefit Small Businesses",
-      "excerpt": "Disrupting the closed-club of legacy financial institutions and bringing alternative, tech-focused options into the mainstream is creating a new sector and also enabling more entrepreneurs to build and scale their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb5527222b100007dd1410%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/05/how-fintech-lending-trends-benefit-small-businesses/amp/",
-      "publishedDateTime": "2021-11-05T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

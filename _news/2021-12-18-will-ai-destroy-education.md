@@ -3,8 +3,8 @@ category: news
 title: "Will AI Destroy Education?"
 excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
 publishedDateTime: 2021-12-18T15:18:00Z
-originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
-webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
+originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
+webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
 type: article
 quality: 36
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: acm.org
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
   - AI in Education
 
@@ -36,7 +36,16 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
+    excerpt: "Joint go-to-market enables enterprises to deliver next-gen experiences powered by Innoveo’s no-code platform along with Techforce.ai’s"
+    publishedDateTime: 2021-12-19T08:00:00Z
+    webUrl: "https://www.pr.com/press-release/851525"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
-secured: "RX1Em2wffoQKk7WCp9QcBs7cD/7HIR6qofeqzW+ZvinFqAxUUFGLFqgljYsR+ua0FtqRf/VZaHztUMGmvPrL0la/nHKYKl8kVYl07hEXPR7VaPMwkfKUkC6sKwLiTI68BWFpIRTOrgl6tWYRY+Apk4X2zR9HITY5nqZrP6+PrBLPHTKcoWJoB8QeY7Otx8FBwTLmB0IL7z9ZLG6vuMLpDJaQ8Qu7CnfcygfFxOiLgxLDNkjDXDKMA0+G8JFrK90o5SH3tMEglbrIPJxkGhzrPr8ymWsEEDbJNDCXEKrURmrGmhhOAN7fx6n6qfT1g1dtETwBKTsQgWF5XaB5evjGoBaOM1qi+glw2GxuE7FuuUqHYcBNibvyK0E6Xu+D619BKrCwVUuL6NvxPF6prJsEzrZTpnYTRXdPg7FNax+GomQLKxW/NnXz9l2xE5i089UHQ92To5hl3uFpSqFlf4TqiXAZ0ngP+ohhVJQ8uvTr+kGDvMSChp756FMjfSQTrT2U1wNxyT1lnGZhBcBR3vnb2A==;ZLnFEHx2RL3qXqzc/cplHg=="
+secured: "ysZflpsdzUEkiIqLATIkRV6BIuSe3qJZQUXC+3uUpUrGg85wXqgI4B26lLGYQS6N9vtbHhfcn71brvgUtKWIDB7YeZH0IWQz1+kt58oU74sJM0dNfvjfRyhA2QwjYpvhk5In9d/Te2RomRGonoB56TuLomHA79brTeRLZ9A1Kfy9T8oMczGW6HQz297hvs1TQykNKg0TgOWhZ7buDVlu725qIhOHREsbz6uxvmaAooHxfEVjdmo9ZxdeeLzeQKqWwQxbdR54wCN8KI0w2qCWn+Ll2Ltx9MZpNrbnKvbdw/ZIOf6SNT9+86q6AfVzGuPMQCKTKKQ0SkxNcyGIOMvmGD7CK7dKMCcbk1c4Wvu+5iZ/WSu2VIUrKjVSTJyt2xvUcakeGv93quDsNwwa28swHD3uQ/hVjHSXgZcKGMGtZgwUkIK3ffvrGeFZYAXxQnc4PZhQhjWJ59BUiv8tHJVuWXvpXX76NR9nzGDkLrHtRzoodpUP43s8ZZcuUqIkUBstSDy+aSPrpaYhiGD16IO16g==;C4VkRSCLyI7Tq78Y6Zwoog=="
 ---
 

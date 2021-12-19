@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Ohio legislation seeks to streamline state laws, rules flagged by artificial intelligence"
-    excerpt: "The bill would allow Ohioans to get state tax documents online and permit driver’s license suspension hearings to be held remotely, among other changes."
-    publishedDateTime: 2021-12-14T17:00:00Z
-    webUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html"
-    ampWebUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 48
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NDKGQ7RV5A5RFBUGGKCZ7DNXQ.jpg"
-        width: 828
-        height: 621
-        isCached: true
   - title: "Enabling a thriving and innovative UK AI Industry through AI Assurance"
     excerpt: "Artificial Intelligence (AI) is changing our lives. Like it or not, break-through the hype (of which there is a lot) and the machine learning algorithms that underpin AI are increasingly being used in a myriad of ways to make our lives easier and more productive."
     publishedDateTime: 2021-12-16T11:11:00Z

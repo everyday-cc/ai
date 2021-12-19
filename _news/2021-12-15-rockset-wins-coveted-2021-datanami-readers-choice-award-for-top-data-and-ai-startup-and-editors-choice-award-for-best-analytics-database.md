@@ -20,33 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "Live call analytics for your contact center with Amazon language AI services"
-    excerpt: "Your contact center connects your business to your community, enabling customers to order products, callers to request support, clients to make appointments, and much more. When calls go well, callers retain a positive image of your brand, and are likely to return and recommend you to others. And the"
-    publishedDateTime: 2021-12-18T00:47:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
+  - title: "Teradata and Dataiku join forces to improve data analytics"
+    excerpt: "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers."
+    publishedDateTime: 2021-12-19T05:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/"
+    ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5911-image021.png"
-        width: 1066
-        height: 542
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Post call analytics for your contact center with Amazon language AI services"
-    excerpt: "Your contact center connects your business to your community, enabling customers to order products, callers to request support, clients to make appointments, and much more. Each conversation with a caller is an opportunity to learn more about that caller’s needs, and how well those needs were addressed"
-    publishedDateTime: 2021-12-18T00:38:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/post-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
+  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
+    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
+    publishedDateTime: 2021-12-16T16:30:00Z
+    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 59
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5919-image032.png"
-        width: 857
-        height: 583
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Business Analytics BPO Services Market"
     excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
@@ -63,36 +67,6 @@ related:
       - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
-    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
-    publishedDateTime: 2021-12-15T12:28:00Z
-    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 41
-    images:
-      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
-    excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
-    publishedDateTime: 2021-12-17T08:45:00Z
-    webUrl: "https://warontherocks.com/2021/12/more-than-math-toward-a-better-strategy-for-advanced-analytics/"
-    type: article
-    provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 41
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2021/12/AI-analytics-dec.jpg"
-        width: 1330
-        height: 850
         isCached: true
   - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
     excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"

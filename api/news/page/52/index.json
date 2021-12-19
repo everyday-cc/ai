@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-11-08-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.md",
+      "title": "IKCS 2021: Use of Artificial Intelligence for Renal Cell Carcinoma Diagnosis of CT Scans",
+      "excerpt": "The International Kidney Cancer Symposium 2021 annual hybrid meeting included a role of perioperative therapy in renal cell carcinoma (RCC) session and a presentation by Dr. Christopher Weight discussing the use of artificial intelligence for RCC diagnosis of CT scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/conference-highlights/ikcs-2021/133731-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.html",
+      "originalUrl": "https://www.urotoday.com/conference-highlights/ikcs-2021/133731-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
       "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
       "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
@@ -1139,57 +1173,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-artificial-intelligence-is-still-no-match-for-us.md",
-      "title": "Artificial Intelligence Is Still No Match for Us",
-      "excerpt": "Scientists misunderstand human reason and an AI system fails the Turing test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
-      "publishedDateTime": "2021-11-07T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

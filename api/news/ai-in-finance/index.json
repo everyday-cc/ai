@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-19-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space.md",
+      "title": "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space",
+      "excerpt": "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819",
+      "originalUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp",
+      "publishedDateTime": "2021-12-18T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
       "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
       "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1290,50 +1334,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade.md",
-      "title": "AF Blakemore sales rise by 12% in first quarter following disrupted year of trade",
-      "excerpt": "According to its latest financial results filed this week ... New functionality includes voice search supported by machine learning algorithms providing a more accurate result when the retailer searches online for a product. It also has enhanced product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
-      "originalUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/3/6/0/250360_a.f.blakemoresbedforddistributioncentreexterior_521992_crop.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grocer",
-        "domain": "thegrocer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

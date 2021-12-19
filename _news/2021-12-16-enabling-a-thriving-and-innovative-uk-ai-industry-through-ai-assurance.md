@@ -61,22 +61,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Ohio legislation seeks to streamline state laws, rules flagged by artificial intelligence"
-    excerpt: "The bill would allow Ohioans to get state tax documents online and permit driver’s license suspension hearings to be held remotely, among other changes."
-    publishedDateTime: 2021-12-14T17:00:00Z
-    webUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html"
-    ampWebUrl: "https://www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/12/ohio-legislation-seeks-to-streamline-state-laws-rules-flagged-by-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 48
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NDKGQ7RV5A5RFBUGGKCZ7DNXQ.jpg"
-        width: 828
-        height: 621
-        isCached: true
   - title: "Four Trends Driving Artificial Intelligence Innovation"
     excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
     publishedDateTime: 2021-12-14T22:23:00Z

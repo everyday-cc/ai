@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-03-computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year.md",
+      "title": "Computing Security Awards 2021: Heimdal™ Wins AI and Machine Learning-Based Security of the Year",
+      "excerpt": "We are delighted to announce that Heimdal™ secured first place in the AI and Machine Learning-Based Security of the Year category at the Computing Security Awards 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
+      "originalUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/Computing-Security-Awards-Heimdal™s-prize-social-media-image.png",
+          "width": 698,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
+      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
+      "publishedDateTime": "2021-12-03T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heimdal Security",
+        "domain": "heimdalsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge.md",
       "title": "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge",
       "excerpt": "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,",
@@ -1303,49 +1347,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-twitch-to-detect-people-evading-bans-with-machine-learning.md",
-      "title": "Twitch to Detect People Evading Bans with Machine Learning",
-      "excerpt": "Twitch is advancing its efforts to reduce bullying with a new tool that makes use of machine learning to detect people who might be trying to evade bans. Suspicious user detection will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
-      "publishedDateTime": "2021-11-30T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
         "images": null,
         "publishers": null,
         "authors": null

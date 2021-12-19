@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-08-enterprai-launches-new-way-for-global-macro-players-to-stay-on-top-of-financial-markets.md",
+      "title": "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets",
+      "excerpt": "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
       "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
       "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
@@ -1367,49 +1410,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class.md",
-      "title": "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class",
-      "excerpt": "Program founded by Accenture and Partnership Fund for New York City seeks companies using innovative technologies in major areas such as cyber-tech, blockchain, analytics, future of work and sustainabilityNEW YORK--(BUSINESS WIRE)--Applications are now being accepted for the FinTech Innovation Lab New York,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=549207",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=549207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

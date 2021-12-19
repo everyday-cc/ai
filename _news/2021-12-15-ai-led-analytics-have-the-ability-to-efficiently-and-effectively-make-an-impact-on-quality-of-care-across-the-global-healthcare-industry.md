@@ -55,22 +55,6 @@ related:
         width: 857
         height: 583
         isCached: true
-  - title: "Business Analytics BPO Services Market"
-    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
-    publishedDateTime: 2021-12-16T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
     excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
     publishedDateTime: 2021-12-17T08:45:00Z
@@ -85,26 +69,6 @@ related:
         width: 1330
         height: 850
         isCached: true
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
-    publishedDateTime: 2021-12-15T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Tosu6IrF5c2RGB4UBWcomhBBRChqPhq91X1phtqvGEajDu8lfarmJ01wjoitjA9ujU0po6hjCu7DUJ9SEPLiycRK6QO5Xrz5FSjHpecKR/TX2dU/Q4+XxQ4gUpKyGdhNNyMMdfjS9BHuB8SZuOz8FpXkSTxQ/fOq/vUDyNau/94HecmUtJPpfGdfS5xdjbyGT5N4r559r1wuzyNB7HXP2xoRhBHQFL51TgE0PWXtuy5gzu+8OUM1bBliyL0EKjluJIPLtpsfruY3c1miwrpNhypnpx99rrDDrAaMcULTphYz5nLikoudn6oLgGTzwlO9jFlw0R2g8m1ZDWKxWyez/VSVnLERXAjpZWhxhNc5Gn0=;8GZqvdacpP2+wAVhQ7IV7w=="
 ---
