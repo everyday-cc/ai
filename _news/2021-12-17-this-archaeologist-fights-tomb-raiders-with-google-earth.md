@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/earth/archaeologist-fights-tomb-raiders
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/"
 type: article
 quality: 109
-heat: 110
+heat: 109
 published: true
 
 provider:

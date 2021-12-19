@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OPPO’s self-developed MariSilicon X imaging chip will bring 4K Night Video to the upcoming Find X4 series"
-    excerpt: "OPPO's INNO Day event kicked off earlier today with the news that the smartphone brand has developed a new imaging chip that will enhance the photography and"
-    publishedDateTime: 2021-12-14T18:32:00Z
-    webUrl: "https://www.talkandroid.com/372110-oppo-marisilicon-x-find-x4-inno-day/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/img.talkandroid.com/uploads/2021/12/MariSilicon-X_1.png"
-        width: 4000
-        height: 2250
-        isCached: true
   - title: "MariSilicon X: Oppo’s in-house NPU promises “stunning 4K AI Night Video” processing that will debut with Find X4 next year"
     excerpt: "In the weeks leading to Oppos Inno Day conference, most people may have been expecting the company to announce its first foldable smartphone. However, the event had more in store for the brands fans after Oppo unveiled"
     publishedDateTime: 2021-12-16T03:00:00Z

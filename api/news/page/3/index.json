@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-16-why-computers-dont-need-to-match-human-intelligence.md",
+      "title": "Why Computers Don’t Need to Match Human Intelligence",
+      "excerpt": "Speech and language are central to human intelligence, communication, and cognitive processes. Understanding natural language is often viewed as the greatest AI challenge—one that, if solved, could take machines much closer to human intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "originalUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61afc200d184762c75e00412/master/pass/WW2022-WIRED-04.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
       "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
       "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -946,7 +998,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1178,58 +1230,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-mediatek-dimensity-9000-is-over-4-times-faster-than-snapdragon-888-in-ai-benchmark-results.md",
-      "title": "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results",
-      "excerpt": "A new benchmarking result has just showcased some interesting information regarding the upcoming MediaTek Dimensity 9000 SoC. The chip managed to easily outclass almost every other chipset in the high end smartphone market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg",
-          "width": 4949,
-          "height": 2775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
-      "publishedDateTime": "2021-12-14T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

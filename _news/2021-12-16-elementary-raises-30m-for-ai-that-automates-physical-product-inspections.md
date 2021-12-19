@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "TealBook to power supply chain visibility with AI and latest $50M"
-    excerpt: "TealBook, a startup that leverages AI to update and maintain a database of supply chain data, has raised $50 million in capital."
-    publishedDateTime: 2021-12-14T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Signal AI, a ‘decision augmentation’ startup, raises $50M for a platform that extracts insights from the internet and other public content"
     excerpt: "Signal AI, an artificial intelligence startup that trawls the vast sea of internet and other publicly available data to provide organizations with sentiment insights and other information to make better business decisions,"
     publishedDateTime: 2021-12-15T10:38:00Z

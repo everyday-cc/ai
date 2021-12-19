@@ -54,20 +54,6 @@ related:
         width: 1158
         height: 599
         isCached: true
-  - title: "Train and deploy a FairMOT model with Amazon SageMaker"
-    excerpt: "Multi-object tracking (MOT) in video analysis is increasingly in demand in many industries, such as live sports, manufacturing, surveillance, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
-    publishedDateTime: 2021-12-14T18:00:40Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-a-fairmot-model-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/17/ML-5167-image001.jpg"
-        width: 608
-        height: 491
-        isCached: true
   - title: "Add AutoML functionality with Amazon SageMaker Autopilot across accounts"
     excerpt: "AutoML is a powerful capability, provided by Amazon SageMaker Autopilot, that allows non-experts to create machine learning (ML) models to invoke in their applications. The problem that we want to solve arises when, due to governance constraints, Amazon SageMaker resources can’t be deployed in the same"
     publishedDateTime: 2021-12-14T22:40:46Z

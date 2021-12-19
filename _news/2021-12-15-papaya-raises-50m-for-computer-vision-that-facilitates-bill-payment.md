@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "TealBook to power supply chain visibility with AI and latest $50M"
-    excerpt: "TealBook, a startup that leverages AI to update and maintain a database of supply chain data, has raised $50 million in capital."
-    publishedDateTime: 2021-12-14T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/tealbook-to-power-supply-chain-visibility-with-ai-and-latest-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elementary raises $30M for AI that automates physical product inspections"
     excerpt: "Elementary, a company developing an AI platform for automating physical product inspections, has raised $30 million in venture capital."
     publishedDateTime: 2021-12-16T14:00:00Z

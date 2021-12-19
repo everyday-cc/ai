@@ -64,20 +64,6 @@ related:
         width: 291
         height: 291
         isCached: true
-  - title: "Vermont AG requests information on Border Patrol use of facial recognition technology"
-    excerpt: "Vermont Attorney General T.J. Donovan Monday requested information about Border Patrol's use of Clearview AI facial recognition technology in Vermont. Clearview AI aims to support law enforcement"
-    publishedDateTime: 2021-12-14T18:02:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/vermont-ag-requests-information-on-border-patrol-use-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 32
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Another major Massachusetts city votes to ban facial recognition"
     excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
     publishedDateTime: 2021-12-16T17:02:00Z

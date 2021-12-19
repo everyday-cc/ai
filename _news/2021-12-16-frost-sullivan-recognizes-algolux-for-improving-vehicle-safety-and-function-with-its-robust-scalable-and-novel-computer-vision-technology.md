@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-    excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ..."
-    publishedDateTime: 2021-12-15T14:03:00Z
-    webUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
-    ampWebUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
+    excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
+    publishedDateTime: 2021-12-15T08:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
     images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
+      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
 
 secured: "JYBrlnpcfF+XHDPIt1V5PozIX4tgh0QfCwoZLedp68VyaKhcDKOWCigxQQVjFzpm2Tm1ngCQIwl9SlnCzmSwvrFNDoUBpv8NKKqe7eHaO2jjzcSxMtAsEqRGICdxrhhJZfW1Bf5IqfwHDbxD3qrobXAwZWja02UWXwIGHZhRPt7A9eTwB0gOpbXuj/YJ7kUPpmJPWBavg34j4gSL0jJjWrfVpTgugX2PfmIbZp8mNjNPQiLVeIo6mxC5qfb2vKp5YA+TfyHgMqqTfbKNeUiH90PehEj/G3JtZVuFMaSaVYOnMyPaNfcN1Oa+FLsCE00waeYOjVfO4BfllvBjzFrAuD0c6aD6I00fhOBGDBKK5lI4Bfe3fnF9ZQUKN7isGvCHUiGNzrUFN/O7xvdHbphN4MDCSmP/oINOQssuZpwtfRyvo5OvbQIT6Od6kYYnAmSF9HZ7Q5BwVDlq7D7fNjywWo0ASYpEU2YKtvUDkYkWIQfP2RDih0WPCmEqE/axWMTbiNQHHNC4Yh2V6IlNvJpSvQ==;3MjwoMEVg7il6gMOXvp+Sw=="
