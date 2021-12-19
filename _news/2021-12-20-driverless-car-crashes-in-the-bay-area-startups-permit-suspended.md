@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Driverless car crashes in the Bay Area, startup's permit suspended"
-excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
-publishedDateTime: 2021-12-16T20:25:00Z
-originalUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
-webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
+excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
+publishedDateTime: 2021-12-19T18:11:00Z
+originalUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
+webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Santa Rosa Press Democrat
+  domain: pressdemocrat.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Intel steers toward driverless future with Mobileye self-driving car unit"
@@ -77,20 +83,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
-    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
-    publishedDateTime: 2021-12-19T18:11:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
     excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
     publishedDateTime: 2021-12-15T13:00:00Z
@@ -133,7 +125,16 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
+    publishedDateTime: 2021-12-16T20:25:00Z
+    webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
-secured: "4EYh/TwsTV8McPNgpyq2fI/rVlpxmmWH2w4lcko+ymYm6MokMRBVnLxMGYcN37f7/DsnTUC5YXZR8x0UGKG1+djkSTxsOoLYMaLkNTopNXRfOJTV3Yut7lSGZ6rZOv1Fc7gVdnpHWhFbZMoQoVTLrUkw7x+w7oyd54DUGPEfgGT1iFaw11FBArSyNHLlwYNu+fG3Lp86bXCVGhoA12MSz/KFEspilX9t/9piQMCgrhFesu3Td/MwHL1ZMyQ/Q1+ZNa99hMCjEjltSKUluayj9U9w4NRgMuCE57axRi4tz7rR8PW1sx97Sv1l+6Y1WaJj4cs4oph9RDj59s5bHuCbVKcAsVah+BZv078rCTM+p3qsZwNzvBEkci5ZVNlQDQ8FQaVphfXD/PFbFrY9zzFugSdQIHciCpD6coj47OTk8gWwElgCJGYlr5I6sRdSMtEdfhR96no/b5mNf8vhFiqdQo5+/qWNAcIIcimOlqQbWbmiZMBzdZYciiVXMx6Hkimetm8fLPBM+tFpUZn5pFR2aQ==;BoIsilY8yCUPJ/j3tacprg=="
+secured: "Byg1u1YGqbO2dxx8q7pDhctfgNQ72MFHGXdL/ITUpwSTCE/F3qlB04NFjZguH6xbGXIRi3Hfe29J/uaQf7kMkv4IHqsL7rRWNiem4O6OQGu2laKetS4N0ztKUEMH0/4thkmTVA0uHS5BX4sNKCP/2oWqbJuwi+QfREcvaNtxGFK3BaufNH2p5dv4/AhlrcxaphGIDaU74SgXb05HB5QdhBbA6Kglwqx5WqswNwkC8gEiWlrepvJfw0jPOXvknOsTpaRyvPG7cqvX1vbp0rjhfROJ++dDVI4f2V6QPR3pPYI8Uvv895xfhpZYhBLY8ciCm8Is1AxLi/f90S/DNSkZ7mMXpVxbjuF9WVry827+0fo=;ThfQPshqk84XYVEAeiQVIA=="
 ---
 

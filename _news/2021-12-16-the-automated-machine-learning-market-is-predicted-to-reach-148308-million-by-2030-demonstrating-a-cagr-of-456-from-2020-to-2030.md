@@ -32,17 +32,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
-    excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"
-    publishedDateTime: 2021-12-15T03:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24613501/worldwide-ai-in-manufacturing-industry-is-expected-to-reach-usd-9-89-billion-by-2027-at-a-cagr-of-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24613501"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24613501"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
   - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
     excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
     publishedDateTime: 2021-12-15T09:46:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Information is key to public support for police use of facial recognition technology"
-    excerpt: "Police forces around the world, including in Australia, are using facial recognition apps to identify persons of interest on the spot. The public, while wary, are generally supportive."
-    publishedDateTime: 2021-12-15T03:47:00Z
-    webUrl: "https://theconversation.com/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    ampWebUrl: "https://theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/information-is-key-to-public-support-for-police-use-of-facial-recognition-technology-173584"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/437097/original/file-20211213-23-aodhoz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "JEW7cAUq/fYYBfz3+8u7G3Jstwb57Bj9VYB+nafA+FUUMGwK7yuan2ocY6DHae9067Q3EwPbSgeJ4VP2FDq9dvq0DWWksoiKnAzBKLtPmwrM95ejLGY3hjR0pUDeBhg7WzNTGJS2vk+5thPnFQP9Kzh7YVLs/sJqf16zEuJm1ZrTrreigVsWH4obU75C4rz1oSaD9cACp8fXqsSCiRf4E9UUuSFHIKBLZLMrNHUQwmZk5Ss0hfCzAtox/We5Rxo2v56VZqD6h08FG8fGuyh+YCfPskokkq5gafQEvdzTSHLkR2wzv3BwGR5B0jeTqYxiXl15l8sWYXHHXey/SsvAQ98Fehv7u+BJetPNmp6xdB6n5hY6u5VbPDuRAR/+C7M76MAoW2snCEArvFO1S6d+/jM+cUH/c8iisqARs956v2UOB6eU9wc2R3mmquVJ/VQE1lkapMe1WIKRnvrfjz9S8XsY5/OGn6i2VsKvtyBio4eZtBVwGTNspRGdhom+OUPywNEnByOCXkxHbaPVJqOs6g==;2cnPBWSgDnA6pT76R/hO1w=="
 ---

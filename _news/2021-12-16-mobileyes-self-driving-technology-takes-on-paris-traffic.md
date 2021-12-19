@@ -83,6 +83,20 @@ related:
         width: 752
         height: 501
         isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
+    publishedDateTime: 2021-12-19T18:11:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
     excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
     publishedDateTime: 2021-12-15T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-eve
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 405
     isCached: true
 
-secured: "opzRuQ/HRmuxL1DDrzAM4QJ/3rYttZQYfdkzNLgdyzrkDjYxJ4XtsMi2u6jsp7SdZfB0WZYUsJxHLKQVZBw9XzUXD1/0vdquS/saZ0+tJkdlnxkQ7vc2xzKHK5xEJk//bZ63hYbpz8elilqEtMWqWWwQSTwPT1xyGfi94uwqtlH7DmFRM1Ql49Y37Hmc0lmI9k43P/41IlcGI6To+fObw3A2EFauyinp76KS2E0tpBfeez0ggSS+m/63l/i40/0a4C1RTusS8NwAOgZ1WHUOS1/jT9LsLTKeefJMDt3PrWP3PRaE7C4W8j5r9jcAnY6GSx2McvR4RVSfgmVIEBkYk+CCWCjFhUSDaYuHGkpJBBY=;37KibLz3OS4Cmbgan+CzEg=="
+related:
+  - title: "Sheikh Mohammed signs UAE Declaration on Arabic language"
+    excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Deputy Prime Minister of the UAE and Ruler of Dubai, launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai Sunday."
+    publishedDateTime: 2021-12-19T19:46:00Z
+    webUrl: "https://menafn.com/1103397481/Sheikh-Mohammed-signs-UAE-Declaration-on-Arabic-language"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/19/KT_a98dcimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
+secured: "eqQzIqSkPR/EKAVwVm2n2c99ZSfwdi4Q+J/+eKo/B4d8jdP7X1yFxE2yIz9yaLPZ2vKfbDpn2tQ9rEqQrDY40zOEQuaUTmkrPAc8X+xBGZNeq62sS21dZD/3CDCgVwGwaqwZn1Dyu2NxYu+G3OCT+j3WuLmpM4mg7l7T3qwT5On6sJe3iiAc41GlwBoD9R9zZ4QV7P1niiM4/g4YrbdBXDHf8ClZrAcrhsxh8rG6EHu1zcWWytVTSkoeRWjjXg/oASWYS7j6a4XOjrYJcymW0FIXQU/1ptzd5GaSlXiLtdMWNpn82tA+S4Qfgk15hNxuMvqtE5kToZJ+l1b6iezT2cD3ewMzlMt044wU2O09+N+i+C0tDHkMVPZ/O4OiPF72tKPqm+5eMJSBDqItOKC2q3+035TsBkLWtQwyX8CcWQ0OJuSKdEer7H4+4RKftA66nghcrbh+Tir8xYVKUy2ipDxLNZKsLkEmHxfFzzTnuuaqR0vHr9xwVeEyuu5IKnQYeZ7ohtUDa+btqjDRxJv9ZA==;Yu9YA4nx/WtMqKMk2zsIbw=="
 ---
 

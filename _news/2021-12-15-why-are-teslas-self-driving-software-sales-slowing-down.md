@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
         width: 1024
         height: 570
-        isCached: true
-  - title: "YouTuber Challenges Tesla Full Self Driving to Handling the Tail of the Dragon"
-    excerpt: "For all of the flack Tesla and its Full Self Driving technology gets, it's easy to forget that it's objectively very capable. Still, we've never seen the system tackle something as wild and twisty as the Tail of the dragon."
-    publishedDateTime: 2021-12-15T03:52:00Z
-    webUrl: "https://www.autoevolution.com/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 65
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/youtuber-challenges-tesla-full-self-driving-to-handling-the-tail-of-the-dragon-176560_1.jpg"
-        width: 2389
-        height: 1331
         isCached: true
   - title: "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident"
     excerpt: "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers."

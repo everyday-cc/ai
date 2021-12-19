@@ -30,17 +30,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
-    excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"
-    publishedDateTime: 2021-12-15T03:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24613501/worldwide-ai-in-manufacturing-industry-is-expected-to-reach-usd-9-89-billion-by-2027-at-a-cagr-of-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24613501"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24613501"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
   - title: "The automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 to 2030"
     excerpt: "Reportlinker.com announces the release of the report \"AutoML Market\" -  The major factors driving the market are the burgeoning requirement for efficient fraud detection solutions, soaring demand for personalized product recommendations,"
     publishedDateTime: 2021-12-16T08:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
 type: article
 quality: 58
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
         width: 752
         height: 501
+        isCached: true
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
+    publishedDateTime: 2021-12-19T18:11:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
     excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
