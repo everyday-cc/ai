@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-tr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/"
 type: article
 quality: 111
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ML-6149-image013.png"
         width: 1158
         height: 599
-        isCached: true
-  - title: "Add AutoML functionality with Amazon SageMaker Autopilot across accounts"
-    excerpt: "AutoML is a powerful capability, provided by Amazon SageMaker Autopilot, that allows non-experts to create machine learning (ML) models to invoke in their applications. The problem that we want to solve arises when, due to governance constraints, Amazon SageMaker resources can’t be deployed in the same"
-    publishedDateTime: 2021-12-14T22:40:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-automl-functionality-with-amazon-sagemaker-autopilot-across-accounts/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-4196-img1.png"
-        width: 641
-        height: 241
         isCached: true
   - title: "Process Amazon Redshift data and schedule a training pipeline with Amazon SageMaker Processing and Amazon SageMaker Pipelines"
     excerpt: "Customers in many different domains tend to work with multiple sources for their data: object-based storage like Amazon Simple Storage Service (Amazon S3), relational databases like Amazon Relational Database Service (Amazon RDS), or data warehouses like Amazon Redshift. Machine learning (ML) practitioners"

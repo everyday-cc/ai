@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Zoox, AutoX, Pony.ai Execs on Self-Driving Cars"
-    excerpt: "Founder and Chief Technology Officer, Zoox; Dr. Jewel Li, Chief Operating Officer, AutoX; James Peng, Co-Founder and CEO, Pony.ai spoke to Bloomberg’s Edward Ludlow at the Bloomberg Technology Summit about their outlook on self-driving vehicles."
-    publishedDateTime: 2021-12-14T21:19:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-12-14/zoox-autox-pony-ai-execs-on-self-driving-cars-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_SK6LDSCDaA/v53/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All"
     excerpt: "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car."
     publishedDateTime: 2021-12-18T15:30:00Z

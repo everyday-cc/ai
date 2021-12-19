@@ -25,68 +25,159 @@ images:
     isCached: true
 
 related:
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
+  - title: "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027"
+    excerpt: "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
+    publishedDateTime: 2021-12-16T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
     type: article
     provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
-  - title: "Worcester bans use of controversial facial recognition technology"
-    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
-    publishedDateTime: 2021-12-15T21:27:00Z
-    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 39
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-19T10:23:00Z
-    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Another major Massachusetts city votes to ban facial recognition"
-    excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
-    publishedDateTime: 2021-12-16T17:02:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
+  - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
+    excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
+    publishedDateTime: 2021-12-16T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 19
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
+    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-12-16T08:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition helps shelters reunite lost pets, owners"
+    excerpt: "Once you upload a photo and click search it will bring up a gallery of animals that have been found near you, that look similar."
+    publishedDateTime: 2021-12-15T21:45:00Z
+    webUrl: "https://www.wfmz.com/news/area/berks/facial-recognition-helps-shelters-reunite-lost-pets-owners/article_2b8f0198-5df1-11ec-a42f-2feac7090d8c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/61/861d51f7-c3ef-58c9-b53e-df25111ca989/61bb85c63a3c3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
+    excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
+    publishedDateTime: 2021-12-15T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-artificial-intelligence-9b77e2d1727f4a6ea3e6c11ee471d64d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
+    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
+    publishedDateTime: 2021-12-17T12:26:00Z
+    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
+    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
+    publishedDateTime: 2021-12-17T15:25:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
+    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
+    publishedDateTime: 2021-12-16T10:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
+    publishedDateTime: 2021-12-16T13:57:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=589401"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
+    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-12-15T14:39:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=588603"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "hQnxQQxZdMzcxDJH3St/5IJMM+86QTyWt0ictInJ7mugm7gMjVb2k/XIJC2Qv0IgowqWhvfK4qJm47/vYHfPmum3Z+Q2KdQRXz2JK8F/rXXV2jzamKnwtQ+iL08RlHWeWUtN4KVdj/lelHjpZ6cRgV80C7nimfLkqOyctrA6fBKyJFoAaGcuiMDZaNykdozMGmKL+bvRPPDnGZt1kCocA5h+CDCHjN4qVDrvwE/ujn6tPC4ZIL+kE3YVE3JyziKzcO1b1GRQsPKxfU/M91p0KTqX2eYFQoNwTlOQCV7jTkFU6tTts5c/SqkWg/p8S6tuJfJ40VYrmzc7uFSSFx1zmBaO405qf684z1YZyfxsgcWlP43bV0+ZO7fmuOrf/glKNVLNEtFlJ19j75YtHqtcr6rJZz5BACEoH1OIE3xJtt29Pb6CL4GxXEQsIyRYkVIrtEfotJcXfVWUFgY56U8vmEwNhfztROiJK8rlBX5UaaBOEEJqOUzop11EUOZ+QLLC+E+jnx2g6RyihLFVfxOEjQ==;QlsVdWO+du0x1DlA+iZ3hg=="
 ---

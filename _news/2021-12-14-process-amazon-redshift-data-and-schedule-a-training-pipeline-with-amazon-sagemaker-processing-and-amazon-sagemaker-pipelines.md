@@ -57,20 +57,6 @@ related:
         width: 1158
         height: 599
         isCached: true
-  - title: "Add AutoML functionality with Amazon SageMaker Autopilot across accounts"
-    excerpt: "AutoML is a powerful capability, provided by Amazon SageMaker Autopilot, that allows non-experts to create machine learning (ML) models to invoke in their applications. The problem that we want to solve arises when, due to governance constraints, Amazon SageMaker resources can’t be deployed in the same"
-    publishedDateTime: 2021-12-14T22:40:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-automl-functionality-with-amazon-sagemaker-autopilot-across-accounts/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML-4196-img1.png"
-        width: 641
-        height: 241
-        isCached: true
   - title: "AWS Launches SageMaker Studio Lab, Free Tool to Learn and Experiment with Machine Learning"
     excerpt: "Subscribe for free. AWS has introduced SageMaker Studio Lab, a free service to help developers learn machine-learning techniques and experiment with the technology. SageMaker Studio Lab provides ..."
     publishedDateTime: 2021-12-15T14:07:00Z

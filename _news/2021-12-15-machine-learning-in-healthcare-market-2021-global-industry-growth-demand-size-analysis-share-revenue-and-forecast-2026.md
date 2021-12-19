@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-2021-global-industry-growth-demand-size-analysis-share-revenue-and-forecast-2026-2021-12-15"
 type: article
 quality: 60
-heat: 150
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,35 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027"
-    excerpt: "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-12-16T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Drug Discovery Market Research Report provides key analysis on the market status of the Artificial Intelligence (AI) in Drug Discovery manufacturers with best facts and figures,"
+    publishedDateTime: 2021-12-15T18:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
-    publishedDateTime: 2021-12-16T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
+  - title: "Top 6 Artificial Intelligence(AI) trends to watch out for in 2022"
+    excerpt: "While the COVID-19 pandemic affected numerous parts of how we carry on with work, it didn't lessen the effect of Artificial Intelligence(AI) on our day-to-day existences. Truth be told, it is ending u"
+    publishedDateTime: 2021-12-16T07:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-6-artificial-intelligenceai-trends-watch-out-2022-jaideep-gautam"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
-        width: 640
-        height: 480
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHoOIEzYNxHew/article-cover_image-shrink_720_1280/0/1639638816856?e=1645056000&v=beta&t=ZhcQ4OW4rNuf9PACZ-8_nKrmKeWaUZT7ppw9SyjX3MM"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
@@ -74,81 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
-    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-12-16T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
+  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
+    publishedDateTime: 2021-12-15T07:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The healthcare claims management market by revenue is expected to grow at a CAGR of 4.79% during the period 2022–2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Healthcare Claims Management Market - Global Outlook & Forecast"
-    publishedDateTime: 2021-12-16T11:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24640377/the-healthcare-claims-management-market-by-revenue-is-expected-to-grow-at-a-cagr-of-4-79-during-th"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24640377"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24640377"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-  - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
-    publishedDateTime: 2021-12-15T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-artificial-intelligence-9b77e2d1727f4a6ea3e6c11ee471d64d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence – Based MRI Market Size, Share, Trends, CAGR Growth and Analytical Forecast 2027"
-    excerpt: "Global Artificial Intelligence -Based MRI Market Artificial intelligence-based MRI market is expected to gain market growth"
-    publishedDateTime: 2021-12-16T10:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-based-mri-market-size-share-trends-cagr-growth-and-analytical-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Omicron-first-detected-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
-    excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
-    publishedDateTime: 2021-12-16T08:13:00Z
-    webUrl: "https://www.openpr.com/news/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Worldwide AI in manufacturing industry is expected to Reach USD 9.89 Billion by 2027 at a CAGR of 24.2% from 2020-2027"
-    excerpt: "The global AI in manufacturing industry size is expected to rise owing to increasing demand for collaborative robots and"
-    publishedDateTime: 2021-12-15T03:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24613501/worldwide-ai-in-manufacturing-industry-is-expected-to-reach-usd-9-89-billion-by-2027-at-a-cagr-of-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24613501"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24613501"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 36
 
 secured: "R60Ehs3hTw6+wzS4ngHVIooK+NbSugAyPS0EjUyWC5x5mRYwOHQyxRBow4sizHJySxyZ5DwIYZ3GMyNodXQCXzvAmaRpyJloJeGsrUguOpL20zO8ISfqsuFhoRgw53teQTAIMY99gzJ+VmJVjdm8cHFRyn4golK2iMzQGBzSKFwRmjwsNrB/tns5Apx7b4rYBrcbSXcZr4IlltbLiAJF5Li4eX4NVbSVyoC3bYXqbj+I0kkiTgWGADbVbpIoZXy/h5442X/oSYb0n9KpBVyyPE559uBq9WeiL2UgPNrnB3+4b7jygbkOIjLUPgoQMoEUdaaOgfh9TPnXqiIhecDeIp9GqHsNFr1aHg+qEKY6ip4=;H8YegmklkJ7G5fU9lhZlSw=="
 ---

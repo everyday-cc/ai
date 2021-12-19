@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies"
-excerpt: "Psychedelic therapy is still in its early days but combining it with telemedicine (and AI) could make it easier to scale while gathering more granular data about its effectiveness.\" Mind Cure Health Inc."
-publishedDateTime: 2021-12-16T13:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-why-some-psychedelic-assisted-therapy-clinics-turning-artificial-/2021/12/16/9512975.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-why-some-psychedelic-assisted-therapy-clinics-turning-artificial-/2021/12/16/9512975.htm"
+excerpt: "Drugs like ketamine and psilocybin — the active ingredient in magic mushrooms — are showing real promise in addressing mental health"
+publishedDateTime: 2021-12-16T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
+webUrl: "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "m2WuK3ExcH+lq9ji88n5MIfNFD0KZ+/LHNoQ0FYpAqf56/k3FBeZTjhYOtnnCn4ZM/kMC/Z37FDyNM7L+sO1xDeMVKnIg+j1UbH3NWjJHEU+gv3LwEvj1Nd+4AvzJunllUmPyg0Mqfa9KnqkuqW98xhQVPhsu8JM5s95ltSo12RYgzgLfDSKVqfS5ihag8qZiaap2G7jOE9pJUXMLmOQ8TFpSqjE/xYHOAon4W4X7MWi5YR955+YtzLIoVTi4N/A4z7k/x1vNwmNKrFfZWmEu50TeSzTWmaQqzvE9x5ox3UHBVC6FqriqXvUosf0jeZlFJRKhrBoWA97FBzljKrP4JtRg8k1CqafJFcDWdZb55k=;9EGi1qWDWDtWJQ83cO251A=="
+secured: "m0beun0isa4luKuRMEgU5LbcLDJ2IdECrNW2zEHO+yqsQ5WY6Hth9iNA9RiWvD3/mU+xdgAAfby/Yt8o0jlCLT1bdc88tt3sk5o9XyyWtuTZFH2hUWFsvh1UBTtq26Zzc0/g8dMvxp6pzb5PfikizR8+vsvbR3mXq1cKxX8XWUir9+eqdSxwQLKN9ljNuU0mkSLls4Au1pWJiykyCuTRx7ds0WeA11JEVS12HHtITwa55FY/dUXRD1KYhu71JOgq55E7tjgdPHrSEPcRXjJJrSE2YWL10wtG0LcBSs8ybTypnG7X7X2rVav71vcE/nVpdjleOI0pMkMOndN0BP7G0L8Gy5mzVKXLO+jfmmekyHw=;RXtbk5kqYm8Qp86l8Df/XA=="
 ---
 

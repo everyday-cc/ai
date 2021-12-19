@@ -3,8 +3,8 @@ category: news
 title: "Will AI Destroy Education?"
 excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
 publishedDateTime: 2021-12-18T15:18:00Z
-originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
-webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education"
+originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
+webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
 type: article
 quality: 36
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: acm.org
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
   - AI in Education
 
@@ -46,6 +46,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "WfnHy1CJg6Nx1jsVBXAl3TfKQy3RD67t6h/ImWr7cwXdtTlj2VUkYlcH5erVIN1dKdb5P58Z4aYkE1nvifHVEspGfhdXN4W20QPX5Gj6uoGJnu0eAlpGmK+fChmnR9jKw7FIwFC7bQuJ9rZvCDz3New6YOWeVSW0/TCiFv8Mns2OwNKNU3MaDyWYDFB7UCO4woJoW4UJxBARoUp0rmAjANeUfbSRtS40Un1rHtm3YYRMCaZ/atcGRELcQGg6qRpeVB1ltvLsZ+vrhtunkFRQAfUF8+MRTgdj/pNNbj29QBuO8Hh7ZpVLSvoryv6dTDNBtmw63bzQcKRIHplIqBcYz9BTsSzR2fnWm991BfqqCEBB6KEruBDIHkg6fZmyn1Bv7xR+TyLOzJe+3zS/cgpWWulMCMkoWozWz0JLsB0Tw0ftcpRtKY7iV48AVIY5CSQujTIBSdEP1SBhPYPB6SgPQArmYfFE+hYks+GFoG5ivGcFapU52+o/aNwamZUEhNwp2juuuEG36R/ff+cfIWQCiA==;lyX0Tm0mLgRMFtgN1pWA5g=="
+secured: "FAMc0J3Iv1qlwKhu0ZWrC98rdR+bbdELJMu6PB1Vqv4iVN97BtCeohX+BgvzloBr8H71OuSFjGRpw/bu//RgqjEZIcoW5UvVECs2oOi1zZE7AvWGSu3sFKuV12mHeetpMYQzAELf+4j9XIxxrlsXd5EXV2y3xzugbYAUA5XXeKkpBOR1vwZLdC45ZEptMnCDOxyJsWHCfilLThNjGT8dUkdWPcLkwvtUNDs9KjNoY9a0X6MCgJc0eSQDSoAW+OZ2y4Nx8VwPR3T4jRMS3Wpi9d+2GW/T36Yt2u2syc5YFm8OE+VmPuJ0RemeUUPqk9Bdpeh+DS3Ji0uR9TWlFnafIoNf8xJcHyqxXYvbepDxfi5ZOYkCVr0uENlaPQvNRxABi/hRKD8tEcZe7HsHEyl46YrwM9iEZ20rar8wzirVXBMjkK5FA4pojysp++Ux75Kx86txhMUBa1bpa2zpJnMaAPPxmZnUgUMN/l1EXMepNTzw+9k25chXbArdVzgcFNDYRYMShdg4/2ZQjTs76IbDCQ==;NmDiL1tNyrExD2BpGJZ8Iw=="
 ---
 

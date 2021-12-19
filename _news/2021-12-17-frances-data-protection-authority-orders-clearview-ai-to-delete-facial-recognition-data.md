@@ -118,20 +118,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
-    excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
-    publishedDateTime: 2021-12-14T21:35:00Z
-    webUrl: "https://www.richmond-news.com/national-news/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent-4864296"
-    type: article
-    provider:
-      name: Richmond News
-      domain: richmond-news.com
-    quality: 48
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/12/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg;w=650;h=456;mode=crop"
-        width: 650
-        height: 456
-        isCached: true
   - title: "France watchdog orders Clearview AI to stop processing personal data for facial recognition"
     excerpt: "France's National Commission for Information and Liberty (CNIL) announced Thursday it had issued a notice on November 1 to US-based facial recognition company Clearview AI ordering the company to"
     publishedDateTime: 2021-12-17T13:41:00Z

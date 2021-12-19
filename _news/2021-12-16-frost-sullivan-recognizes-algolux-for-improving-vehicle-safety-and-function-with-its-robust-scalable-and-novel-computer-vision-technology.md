@@ -1,45 +1,39 @@
 ---
 category: news
-title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
-publishedDateTime: 2021-12-15T22:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with its Robust, Scalable, and Novel Computer Vision Technology"
+excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America Technology Innovation Leadership Award in the computer vision space. The company offers innovative ..."
+publishedDateTime: 2021-12-15T19:04:00Z
+originalUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
+webUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
 type: article
-quality: 4
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
-
 related:
-  - title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-    excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
-    publishedDateTime: 2021-12-15T08:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
+  - title: "Cogniac Named Frost & Sullivan’s 2021 Best Practices Entrepreneurial Company of the Year, Global Computer Vision Industry"
+    excerpt: "Cogniac Corporation (“Cogniac”), a San Jose, California-based provider of enterprise-class Artificial Intelligence (AI) image and video analysis, today announced their recognition as Frost & Sullivan’s 2021 Best Practices Entrepreneurial Company of the Year in the computer vision space."
+    publishedDateTime: 2021-12-16T20:07:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-california-san-jose-artificial-intelligence-38c121186dcb49dc70b80ef0f8bcb345"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-        width: 1500
-        height: 785
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "JYBrlnpcfF+XHDPIt1V5PozIX4tgh0QfCwoZLedp68VyaKhcDKOWCigxQQVjFzpm2Tm1ngCQIwl9SlnCzmSwvrFNDoUBpv8NKKqe7eHaO2jjzcSxMtAsEqRGICdxrhhJZfW1Bf5IqfwHDbxD3qrobXAwZWja02UWXwIGHZhRPt7A9eTwB0gOpbXuj/YJ7kUPpmJPWBavg34j4gSL0jJjWrfVpTgugX2PfmIbZp8mNjNPQiLVeIo6mxC5qfb2vKp5YA+TfyHgMqqTfbKNeUiH90PehEj/G3JtZVuFMaSaVYOnMyPaNfcN1Oa+FLsCE00waeYOjVfO4BfllvBjzFrAuD0c6aD6I00fhOBGDBKK5lI4Bfe3fnF9ZQUKN7isGvCHUiGNzrUFN/O7xvdHbphN4MDCSmP/oINOQssuZpwtfRyvo5OvbQIT6Od6kYYnAmSF9HZ7Q5BwVDlq7D7fNjywWo0ASYpEU2YKtvUDkYkWIQfP2RDih0WPCmEqE/axWMTbiNQHHNC4Yh2V6IlNvJpSvQ==;3MjwoMEVg7il6gMOXvp+Sw=="
+secured: "UHt9jePWG4vxbkF4wl5XUmvE9I0PWYr2j+t2UIbjfKvGWUoad3xOOMTCR4sZ5VSXAB8qkkCxgxpAOSnWrBbIE6ZwK5D++F+owd1W5H9xyMh1ZfclvGqn/13FKlOGDNbFjCwzIThUcFDfsXVBW9B1u3iYO7xqsPPmUIwD4c34IL3shWi6/4oeCyLLOt2YeNvnHgHI3PbIjSktewBWO4HdUG+RMTz4COcEblOOFXjv35qbpAn/l4AinwCVMrmQt6C23bV+esRZLe7IOOuwttBiZ+X5wuyQfllE2dR30PlCk3w46Uj/2Kcs/kGduXzu6H3/THsxzIw7tPEMkG6fxOCxvoZs1bglDqq0dJhumFoNJnE=;qW+9W2mZot+kFJMjMcNYcg=="
 ---
 

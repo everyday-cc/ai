@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Is Focus on Better Customer Experience Strengthening AI in Fintech Market?"
-    excerpt: "A number of factors, such as the increasing adoption of the artificial intelligence (AI), machine learning (ML), and internet of things (IoT) technol"
-    publishedDateTime: 2021-12-14T21:10:00Z
-    webUrl: "https://menafn.com/1103359096/How-Is-Focus-on-Better-Customer-Experience-Strengthening-AI-in-Fintech-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/14/pr_11875_eb33aeb9_image_story.png"
-        width: 900
-        height: 522
-        isCached: true
   - title: "TaskUs Partners with Artificial Intelligence Provider ASAPP to Offer a Customer Experience of the Future"
     excerpt: "(Nasdaq: TASK), a leading digital outsourcing provider for high growth companies, has announced a strategic partnership with ASAPP, Inc., an artificial intelligence (AI) research-driven company, at Customer Contact Week (CCW)."
     publishedDateTime: 2021-12-17T14:02:00Z

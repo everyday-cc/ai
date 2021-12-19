@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/14/openai-begins-allowing-customers-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/openai-begins-allowing-customers-to-fine-tune-gpt-3/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI rolls out feature for creating customized versions of GPT-3"
-    excerpt: "OpenAI LLC today introduced a new feature that will enable developers to create custom versions of GPT-3, its powerful natural language processing model. OpenAI provides GPT-3 through an application programming interface with on-demand pricing."
-    publishedDateTime: 2021-12-14T21:20:00Z
-    webUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-customized-versions-gpt-3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/openai.png"
-        width: 859
-        height: 478
-        isCached: true
   - title: "Startups and Developers are Rushing to use OpenAI's GPT-3"
     excerpt: "Hey Guys, I write everyday at AISupremacy and you can sign up here. Without community support, I cannot do this much longer."
     publishedDateTime: 2021-12-15T15:50:00Z

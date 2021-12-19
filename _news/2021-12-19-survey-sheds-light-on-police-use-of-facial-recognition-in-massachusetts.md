@@ -64,20 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tag: Facial recognition tech"
-    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
-    publishedDateTime: 2021-12-17T14:30:00Z
-    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
-    type: article
-    provider:
-      name: NationofChange
-      domain: nationofchange.org
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
-        width: 291
-        height: 291
-        isCached: true
   - title: "Another major Massachusetts city votes to ban facial recognition"
     excerpt: "Worcester, Massachusetts joined other cities across the country in banning the use of facial recognition technology by the government."
     publishedDateTime: 2021-12-16T17:02:00Z
@@ -88,6 +74,6 @@ related:
       domain: dailydot.com
     quality: 19
 
-secured: "+bOKw2e5V3YhOEEtN0Fmr3re1CIbxTeiKYxJUfPTZJx3C+wk+Y/T7LncIbX80gAjd5pfRVYkGiFfg9aj8Ze//VwY1cS+zdPZEzAS9PDlGHK7Jz5XWJ/NP6zrAEURc1ZOKJhzqDBfGm9y9lUVH+o4ojSeeTMsFvZRjJ7YO1Yh2hDisBgj6Gv9+3TRVUbm5wlVdxZ+zmxj7LG+OaURT6ltet78DTk2RTLIZ4gKjGUDMOovuDl7BUCFW0sJGixaQ/w2KJFE+7/6XmayXVzhwFSqqhEIHsGQNZ0akKC+EQemH6bTpz8I54I0EcHYifsjn60OWy2QS3DgBpqKCGZvM8VF/oirO0hivR2uQV5zXRsBMxo=;0yluXKXRwKaeqjq6doXyag=="
+secured: "olxD7zBxaw8uvnIYTutEb7hf2Y33pZaqemCaTmSjsmWpmL3l6CvVsK75Zaf4RB0xbpDyHo6W49M5O0PzgbMcRHyvWDJ1yZzH/o6OEUIWzqgo4LdEmrwmbrB9/R413h76EyGtuES1l6cw/hqQQHCtjc/eRLr9lMnuS/3IsBOQvLj6Fpb8qSUSppGsoNo0Q+9LHH916vC2eEHK+tacBO6Z/XDflsNJOSLYby1iKp68+V+m0B1DTxB4k1KLnLGw/ezWtX6JZ0QqYqaoyj7wj2mCkapdXgEw03aOkF5NrDYyuMbVmEjqrutUDE1bysOA6BJjJAMzsAzs2mre6gw+SgRWTuLzoXVYEMJKlpTsMEMSIc6KlsU688QXsuOyieab2i6JLIO1S897arisCkNR3KzbQY6+ABaSlZYI3CtwZq0jedLUlNX/1P8I56MatqOS1Nqijh68Cf2pg5tTo7aVCBZY+xk3P82WVOpBRfeNwye3qsDn9VitH3yq4RACO4Fj+/O6veRqqsA5KXN6Bc+3aSCzMw==;Gthqe6Gs5FswkAnywhKCKQ=="
 ---
 

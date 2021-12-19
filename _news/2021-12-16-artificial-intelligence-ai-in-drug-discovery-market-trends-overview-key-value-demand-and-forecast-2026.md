@@ -1,38 +1,33 @@
 ---
 category: news
-title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-publishedDateTime: 2021-12-15T07:15:00Z
-originalUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
-webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+title: "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026"
+excerpt: "Global Artificial Intelligence (AI) in Drug Discovery Market Research Report provides key analysis on the market status of the Artificial Intelligence (AI) in Drug Discovery manufacturers with best facts and figures,"
+publishedDateTime: 2021-12-15T18:17:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 64
+heat: 104
+published: true
 
 provider:
-  name: ReportsnReports
-  domain: reportsnreports.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Drug Discovery Market Research Report provides key analysis on the market status of the Artificial Intelligence (AI) in Drug Discovery manufacturers with best facts and figures,"
-    publishedDateTime: 2021-12-15T18:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning in Healthcare Market 2021 Global Industry Growth, Demand, Size Analysis, Share, Revenue and Forecast 2026"
     excerpt: "Machine Learning in Healthcare Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis, and other basic information that have been experienced and authorised The Machine Learning in Healthcare market report contains,"
     publishedDateTime: 2021-12-15T06:29:00Z
@@ -75,7 +70,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
+    publishedDateTime: 2021-12-15T07:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 36
 
-secured: "S7iqSwgGwwaGkXy3aDEz6Fpn00uwibrW0Yolp/e70lEJJCzmINpX+bNp1r8mJTQfy8l4vZID4FaT7xQYtfTBtfwR7LqM4R0zvkLs5fPKZwAwpBvHYhHE6E/JGFNaMGfu9n21LN+2PiPuC0nCCH3fEs+a5BXq3SklnO2aPLqOfWrtdVuk4Cwu4ou3E+0IeFb97tnKjhc4VnC6Fnzgq2+LHXqXioMv5uekBb3kYQLWuHv/2Sqco72nIprRZhDgEcYmf47PhoGyqHo/SLQCOicbprVLElSXybTgL7OBf4fubNQ7eVbin8LqVhMPN/eTVNxJvX0bhFnjwRg0fcS1W+Sx3/2G43R+eLVc/6NZoAG5/hY=;ULu19vrWiSIf1fOrtrvwiQ=="
+secured: "PtpM2HDw/mWH4d69FIC0A/40FQzC+ZTfBNo8ZIwpFM7gOFEpFGVgUgZSHRUlW3B02a7APGTVxeeOc9m9rSQ1QFILdNnIscKzztu5hIBapA3wGzR+Vq7ymIQKoqnCP3go/Pk6LQThmZn87LvDb6FpmSmwvYEWp0Pp+9vpPyEXcs5JxIHzOade37F6QK1BhOzERdg4WfoaF0qXA8uKGlYurtQSCn2YUb1dB3aIDHDMYSqOXrWKazOeBSPEUkK9Fv4YvhEnaElTWs8gPX8XUwv5icHqkcW4a0PGi9sz7z6QYzUieMLosSaVnlsapq7sWGOvtKIpng/80V7vwyF7b/xsDIhneqQ8Wi5zuh7aUPla0QU=;w16UCJa97lNS8xCuZ8iF0A=="
 ---
 

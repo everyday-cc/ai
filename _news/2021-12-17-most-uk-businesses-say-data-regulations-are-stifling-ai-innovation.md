@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGgD4ovyt8EKA/article-cover_image-shrink_600_2000/0/1639652206330?e=1645056000&v=beta&t=yTrqNLymLIsV6tUcM8VOulyoTPxvuSzTfbmawgFmlCY"
         width: 720
         height: 405
-        isCached: true
-  - title: "Four Trends Driving Artificial Intelligence Innovation"
-    excerpt: "Four key trends have been identified on the Gartner, Inc. “Hype Cycle for Artificial Intelligence, 2021” as driving near-term artificial intelligence (AI) innovation. These trends include responsible AI;"
-    publishedDateTime: 2021-12-14T22:23:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/dec/14/four-trends-driving-artificial-intelligence-innova/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/static/labj/customcontent/LA-CC-Banc-CA-211101.png"
-        width: 294
-        height: 382
         isCached: true
 
 secured: "0pfTbdWL+S6l5N7tLGc9kNSp6+U0N1EnOde+Q3F6W+wGJjK4y/gQj2UpkassyEu7RWFgaA7cr8NYPLaolmJ2EHf5zH50PQy12q4/0PhscJEhm1gevAaHaH13HZC1+7fk92+KzaFG/bzgfhE2VHjFERcbFdfYNfsex2JChp8mCF3f+DVnF9WZn8+RYImxr0FvYahn5zLcHeTsuYxjS77BXc2xF3cxRYVWMXJYTMcthJGORiXDO9oqI35cDz7NWIvTUr48LWnyaKJHmoZYTnZK69IfzBpGjbCYUxsRwKfYN1AzpLSkUY2W0KtP6YWGa+ViNjQ1ZISseC7ZsmoqvZiayFXASQE0YsfJJiaWV1x1jtw=;NKVp0OzuVS+Jd0HNWAHv6Q=="

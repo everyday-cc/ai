@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 187
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Watchdogs order Clearview AI to stop using facial recognition tool without consent"
-    excerpt: "Three provincial privacy watchdogs have ordered facial recognition company Clearview AI to stop collecting, using and disclosing images of people without consent."
-    publishedDateTime: 2021-12-14T21:35:00Z
-    webUrl: "https://www.richmond-news.com/national-news/watchdogs-order-clearview-ai-to-stop-using-facial-recognition-tool-without-consent-4864296"
-    type: article
-    provider:
-      name: Richmond News
-      domain: richmond-news.com
-    quality: 48
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/12/20211214151232-61b8ff73155e4df3bd38040cjpeg.jpg;w=650;h=456;mode=crop"
-        width: 650
-        height: 456
-        isCached: true
   - title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
     excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
     publishedDateTime: 2021-12-17T10:08:00Z

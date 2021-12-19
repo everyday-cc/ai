@@ -45,20 +45,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "OpenAI rolls out feature for creating customized versions of GPT-3"
-    excerpt: "OpenAI LLC today introduced a new feature that will enable developers to create custom versions of GPT-3, its powerful natural language processing model. OpenAI provides GPT-3 through an application programming interface with on-demand pricing."
-    publishedDateTime: 2021-12-14T21:20:00Z
-    webUrl: "https://siliconangle.com/2021/12/14/openai-rolls-feature-creating-customized-versions-gpt-3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/openai.png"
-        width: 859
-        height: 478
-        isCached: true
 
 secured: "+xM5mb5Q44Bu6lw0RdNsPxcg6tAS9h7oSHu13qM9dIfruuJn4rFtlkNcN+suC/70oHAXzQVuIjhPtu+CAdMzZ06cmHZ5fyQ9dbq3XpLqviYGlHw4iDWkEOxzE4gLeKgifhL7jK0m69ODdt/j18lQyUhidCwGIQcWJ/OraoVUANR97rbsshLuB4pLa2mY1UxXsmVrf2lFn8MAJopYfaRyFSO6gp6wa+yNDaeGlU7aOrktz9Ze+MvJqNbmr2mB3cWOwTI8bR6p45qHmZ9cREjfaPmi8TImpaCdVESGZW0u/f2o5TNVa43loEnqI0qBdibTDIrmkmsPvNwDCGfSP5puRedbgYuF1J0ooAi2ZaMWEfirTuTJOS8L3dLCFx8lGuscON+jK1zV6SrIpPHLuSX4qa9s6jnqxtxL7qjw9LgwEmMcSSkTWl4U72Ha/6IC05QzAsXAVLXbZJpHNDsE0A61aQWdmljarSQ5H1wsgdqZve3jbEJ2AXjdqjC142fy/FCzpVvMVcZtoH9O1g50KxXQIA==;DJ2KoEvRE2ZgS9XFnuysWw=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 629
         height: 607
         isCached: true
-  - title: "How Is Focus on Better Customer Experience Strengthening AI in Fintech Market?"
-    excerpt: "A number of factors, such as the increasing adoption of the artificial intelligence (AI), machine learning (ML), and internet of things (IoT) technol"
-    publishedDateTime: 2021-12-14T21:10:00Z
-    webUrl: "https://menafn.com/1103359096/How-Is-Focus-on-Better-Customer-Experience-Strengthening-AI-in-Fintech-Market"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/14/pr_11875_eb33aeb9_image_story.png"
-        width: 900
-        height: 522
-        isCached: true
 
 secured: "28kyFkec4hgCMBIU98dVeJKGxZvxFCwdAhwnc1xSGg8Hhdq+9wPoDuFubahlaNaKssKmKq6gbko/C3IwgdxFrA4ByKUzdDPPZxi3xhPk8IzyYsI/gd1r8puTzsuvK0GXcUcNa7zMA3E+qOJ6dvXcTqx2zeO/ek7CnbzpQxuuGA/Xe0TmFXsMFmweK0RmDBOfF9t9HgGhWHtdbgc8+AGgfaJYYYI+UhGos48BY7xfJTM4+hUT6cwUaIouDFsQRCT6dP0LTyB6NBib5pQgtk+Fqmm6NyT3VMHA/xD2yit3EC1vqpijKlLtgWJJdJvKfYxxq/GE4GfaVNvBBjp6UG+1tSSn3Mzf4+KOOvt4Q7/MjEM=;5OoSd8WcONpiu59/fzfQSA=="
 ---
