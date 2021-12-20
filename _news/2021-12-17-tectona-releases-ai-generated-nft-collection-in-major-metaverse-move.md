@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "The Metaverse is Overhyped; But by 2050, AI Will Make It Real"
+    excerpt: "There is no doubt that the concept of the metaverse is being overhyped. People are talking about it as if it exists. But the truth is it is not even well-defined … yet."
+    publishedDateTime: 2021-12-20T17:26:00Z
+    webUrl: "https://www.datamation.com/networks/metaverse-overhyped-2050-ai-make-reality/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
+        isCached: true
   - title: "Next-gen crypto-based metaverse SpecTrue aims to elevate clinical diagnosis for people with special needs with the help of AI"
     excerpt: "SpecTrue is looking forward to using AI to improve diagnosis for people with special needs and the metaverse platform is also aspiring to influence other aspects of life,"
     publishedDateTime: 2021-12-17T23:28:00Z

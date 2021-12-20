@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space"
-    excerpt: "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services"
-    publishedDateTime: 2021-12-19T06:40:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
+  - title: "How to prevent mass extinction in the ocean using AI, robots and 3D printers"
+    excerpt: "The world needs to protect 30% of the ocean by 2030. We won’t achieve this goal without using new technology to patrol and preserve marine protected areas."
+    publishedDateTime: 2021-12-20T18:41:00Z
+    webUrl: "https://theconversation.com/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
+    ampWebUrl: "https://theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 65
+      name: The Conversation
+      domain: theconversation.com
+    quality: 71
     images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
+      - url: "https://images.theconversation.com/files/437626/original/file-20211214-19-pmg6y1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
+        width: 320
+        height: 240
         isCached: true
 
 secured: "bZ9R10Rn2Y3L83wDwpIJmLYTv4ze6jXev5l6CixzXnlGxcmii37mmDmByZqLOLn0BpbnoPB3FOD0Bn1lX4thhwxdFJB3tI840vLxwfwRe1wBthz1vE2xAcffJea79N8tInxEL4Sx7tEIuLqgUElixEhtOiATetZ+R0dojUY0DSEPTfSJLZqUoAoH0loAD+0oSg+WtbJUvdXTU73Xq1M0cTTiJxxOYPOQnPYsn0+VMcL9awaCtY4Xvyvw05ui84Q5uA3iG2FfgC7bMu8GaOvG8wDTUraHT0cR9IMFm57/E/D871/Jgd0l4wO0O1j8MA1LjgXU8VlUy37WzR/+bGGweDIb/b1Q74ijhlWc42++zCw=;dyHMz77Oyje1rgpx55g/4Q=="

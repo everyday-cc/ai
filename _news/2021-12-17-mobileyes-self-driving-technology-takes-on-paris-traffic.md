@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
-    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle platform built from the ground up with autonomy and sustainability in mind - Scaled in size to reduce heavy congestion,"
-    publishedDateTime: 2021-12-20T13:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-tdk-corp-6aa4365a07e04f4aea87dff822ce2d6d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T13:08:00Z
@@ -136,6 +122,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 19
+  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
+    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
+    publishedDateTime: 2021-12-20T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
 
 secured: "S8XMLW2m/L6UGYH4U91YN8enuQixxCtl5/0htrMwHmVxEnVGc8njy4Q/CUGOLJ10G6z3Ufm2W3EHw0SRDYqYZ6LEci1o+7l8STCUyGSx7P62maiL+wwDA5q4EV2XBc33JYlTt+oeFXRn2gECnsyzo3c6CFlqcDtTCKm7cohWYeNpPGtRdtj+xXRQrycG/vHf0mBahlqoFl6Ch46ug6hsZs2c1Ra9TjpJhoFjqjtAv+zf9ZpMijV+EzUROkg3CsqalcxU5kkW2WQHLtuLT/1OJC4aR5xnnmjdy74Rq3gpG5cW6uUwSEa9RMdMvNGszjv33Lal5cPAxeZEn1u2u8MKddxOQngSQJvsR5328SpX3wF2oZqU85KliudSOvldTJNwy8r+CHAAOV2vs22+ILHVa33XSRlvvzPNtsxaFpfSJUkpDVM3lOUS9+Lh6ghyW5BOjzaHNnqlm+xZ6rUi2wQLbAKG4H8oJnUlWAuv75QXljFrkvsUDp5rKmt5KYS2X0PfuOOco4245S5NKLBUo4Dj7Q==;Jkpqown3pKtqd2ETSL71HQ=="
 ---

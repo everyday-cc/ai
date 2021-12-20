@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report,"
-    publishedDateTime: 2021-12-20T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-evolution-of-cyber-insurance-in-2021-through-the-lens-of-expertais-artificial-intelligence-301448069.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
     excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
     publishedDateTime: 2021-12-19T22:27:00Z
@@ -154,6 +140,15 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "d1Oi8mxDdEXXBQqXfabg18iJ4WcJBTnx4WXcwSEb90uWZDzL4M3NUEZum3oHmf3pEhcRySWvZwNWjRTBLCyZflAP99FQsPW1tAHmGFriZEjXgzZIZoOnXyOOFBIgYl0CtgBM+RZ8hTJwUCcIrNBKcjK8FwSSoAlG/17x8YMYnd6IEJrTpgNfRkrelrCAeG9RlVuGV8oI7qNlTBTVYBDbGa9CQC2NxCtWGBW9vV2jkRhrH0qS1qwDYJKtl3itTShRU1ZYyyyyNzLOGHM3yJ1Tu8t9r6WAIRdkRVyqDfIBJ+EPG5qvxkuUR9y+f4ZEtFJMO5AxG/7rziu7P2QU0OyB6TDWy32nTaoIRKUC9QKmzJM=;jmJJHrSTW1NNxKCit8XkPQ=="
 ---

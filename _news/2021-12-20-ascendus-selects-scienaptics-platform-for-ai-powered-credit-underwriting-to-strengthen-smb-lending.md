@@ -54,6 +54,15 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
+    excerpt: "Leading AI-powered credit decision platform provider Scienaptic announced that Ascendus has chosen its AI-based underwriting technology."
+    publishedDateTime: 2021-12-20T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "kG/3j++yyNtL37syInIy7q2HUc19YGq9pXXjDeR1eE8OfNeWLxW2VcTS2TZcvqqj+xOK3sweh33wjANFXN9RIdQYaAPKenVp4Rza4npzIna1IXBrSCgtAeoTaevWUvYwTvuyxqqgeEalgB09Z+yl1IMrEsdQnWygUWY01pMbCdCl+zivOuWkIOzDQJCMS4nsufrZarzWBjj/VKF3JwdF16YFAJIqpUtuDXJhb7DezDZ8FhZ6OYhU0/VCDuXzQ92Kpma782PqpjFAjgdeYw39pVUlqmH+rVXYIOfc4Ni9STTn+yMNHca7FPdwAlHsE/hc6CK8uMmtrDhJouz+qvdbgDd3AMFACiGHPL5cYG76+0g=;JrDU9sLFjJJCjOf1JHKHMw=="
 ---

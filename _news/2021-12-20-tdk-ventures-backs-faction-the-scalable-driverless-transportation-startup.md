@@ -1,28 +1,22 @@
 ---
 category: news
 title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
-excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle platform built from the ground up with autonomy and sustainability in mind - Scaled in size to reduce heavy congestion,"
-publishedDateTime: 2021-12-20T13:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-tdk-corp-6aa4365a07e04f4aea87dff822ce2d6d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-tdk-corp-6aa4365a07e04f4aea87dff822ce2d6d"
+excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
+publishedDateTime: 2021-12-20T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
+webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Intel steers toward driverless future with Mobileye self-driving car unit"
@@ -137,6 +131,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "dMWE/oPLGyJ5OXNssPmcsojpEZwoicjM0Ye6Lo+NIhKN93GohV1Duugnfxgn6/BkLPRjK4KAm/7seHW+4+xN45sI5GS0Yb7jBVFUuwG3Krue5PI4+9XMVp14I7SLjs4gExKb3uXaAKDcOqsTNLDwDValji+2erHg+5FtN8Rsu6+jhhm176vRNIlIdm1kHUyvShcT+c1Kd0XxQInCVFEKr59B72deaBYifEKXdKqkarkbIybsphPcOMj+6MNE4HDOopHiMFQiEqPCVJ9Apw6uJegsLCXEc0ET9alyCIijfQJPoiRhemn5qZIJE4KTah4K8VGEcXEban6puhUu2CoGTjd292c+lqQphkPT/jBJTIM=;fizpc7peI1DJXEqo/f5BOw=="
+secured: "VxqaUBzL+ZPISyRIXCTleZ5wyotycUzs+WVHgiGI+b3t9QxcFqTgwBKHl6I18Rae/ivE2ntC1OWO5KZPB/cWzMiTq46ICv7aMWGzxlg9K0qj3v+LHZYsdxsOABr7J9PDbaCeP2VgoI8YFxXXCrg8H1sp9ZG0l4b9cesQgOTMu532OdQHN/ZcMGd3bnbO3ZDHmREEFIjFpYPrL5lKapqXFNHgc3Q3+K+UrzpYCdnUB9B9QrJPmiAFZiCDVjOlKDabF0MQzC/YCAk/i9nS3Hj/dPXE7z4lXvK/nuqaqbTdZWksikpCZyPb3Ennmk9Sh57SjS+L8bgK+0y4uFYEA6jU4k86odLCM3PPIsVhcQR5H7A=;tT+/1o8UYlzHdlQr9vTS5Q=="
 ---
 

@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report,"
-    publishedDateTime: 2021-12-20T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-evolution-of-cyber-insurance-in-2021-through-the-lens-of-expertais-artificial-intelligence-301448069.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
     excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
     publishedDateTime: 2021-12-19T22:27:00Z
@@ -146,6 +132,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Top 5 Edge AI Trends to Watch in 2022"
     excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
     publishedDateTime: 2021-12-17T17:23:00Z

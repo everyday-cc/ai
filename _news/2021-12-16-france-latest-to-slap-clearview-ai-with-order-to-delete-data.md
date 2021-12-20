@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 187
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
-    excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
-    publishedDateTime: 2021-12-16T02:56:00Z
-    webUrl: "https://www.zdnet.com/article/oaic-determines-afp-trial-of-clearview-ai-interfered-with-privacy-of-australians/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 41
 
 secured: "Vsuq6i7H8IfFVLMwI0SxgYQ6pgrd0++m5EisJjXfehDBh3B05NJTueO4mVAO+Cz+SNAo+xIEVpO1bVOCCywVGVHQtPkCGMI29/ywjPFd0/RKsJfWomW0O1GK0SKdbVabsgyALaFyJJQj3JdfQeWz2xPO8nDEVJqowMzhJSiOD0BckPcFga6MSdQCsx1oI+ZGxBLrKXDrepy3w/tkQgsjZr8itXalu62dOW/PHI/tZU58JpTcJ5Tc5yVCoZpIGTnEaTKz1jDxNa4ulZhMFXOugupSbLwmrasxAdWrzhDLrJ/4hm1RTBqwvYu6/KYHY9TKAWmVMLQsQK3dqmkuxhgdKKE8UwtI6CmOecJRGkYVLdRvaD7VvgL0IKWhNtiiN00/HqM9FHh6mTHLy0U26UqjyRjeX/OmhaJV+bxbdYF4qOnKswWYP58FUbvkWLFDrC4W9QVplrTRCL89v6AcV6yN3+Wxg+ut98uDtMkzJLOCv3vDddnCm7FBp7z7S9DfBSpqy5atKeAzHkfrHoRsdeKAGeI8sLmZnWOb9Y8M7QvajH0=;P4M8YJYjGrtmWV1nmVefmw=="
 ---

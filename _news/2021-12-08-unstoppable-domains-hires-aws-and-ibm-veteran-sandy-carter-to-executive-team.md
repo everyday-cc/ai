@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Unstoppable Domains Hires AWS and IBM Veteran Sandy Carter to Executive Team"
-excerpt: "Unstoppable Domains, the leading platform for self-sovereign identity on Web3, today announced the hiring of seasoned Fortune 25 leader"
+excerpt: "Unstoppable Domains, the leading platform for self-sovereign identity on Web3, today announced the hiring of seasoned Fortune 25 leader Sandy Carter from AWS"
 publishedDateTime: 2021-12-08T13:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team-301440191.html"
-webUrl: "https://www.prnewswire.com/news-releases/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team-301440191.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1533165/unstoppabledomains_Logo.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/e4/5e40845d-7110-5488-ad85-6b5d5ee10786/60c8ced79bf1d.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+    width: 1194
+    height: 627
     isCached: true
 
-secured: "4WTLVsmxlamrAFgYOrk6Tlj0/SrDMVVUNMCQX7idj29myb7s6j03RsDLi7Jd2I2ne/RGE5c2DIJ3kOQJxfVf3XMqmqc4I4eXzdsjIboaQ8zt3YMFZYbE2NmCiZwhJjSJumnPuDTQ3FpgK+NSHZXH8TgX7kzQTCmsvaoB0TBu+GrP47AMxDQQrGbP4c3e6LmnAxNJQkl/68UwP082CxCaBjToVh4WvbmP/QnHE3pz7KTwnmdOecS5JPWKc4KCbQ8Q4dPxoXfBp3VVWQr3f2SPcYtA1J9myEp83QkUwXmRdHNW+a9mnpanqleq/Vq1GiGpw8gwjciFOyMvtx6VtH0c8Pq2uLgEmUGAB+BjxrHcWm4FtTz8+FSeF5eBdDxExlZSevCUdHawCK5/s7Br7+MxZ19oq6S4nZklgk8QrO3eSZrDLlqsgBQIAmh5h+u4iqA0L7tKfxtgmwhtAiq14Bk10fcmP4QE7KHPvcVDH/nQA3mqkVCZeChAZ54xDZsTHzfRwYl64rtBFO9NidxFcvKqgw==;MzfJbqSL0MBppKa2aTJRLQ=="
+secured: "cTOoRv7rUhybsBVxO0ECtaGQzs/CTAbiM+NT4GxoIcPvo0eDgruSDT86mxHKSSgw1HzSXlH74FDfewroLEwWyiTM3+M8fePJLma7Y3+4t0Y3WTcUZ4LlGW+VC+ME+dykrOzIDponh0ZlWq3aH1u0Ejj+f5flBdbsSVG8kL3rTpFLRZ1aEoH9umqxgvB1RxKJZHUGCzqQkC+WPfKatpdBCxtLfbmFRpRwMC/vR6hwr9lCKhTxLYIJfqwzTcJiluttrcho7nhnMMMc9EeCDQfM1ZCKdsbK0gVpFgInDZ0/xRNZLP3EAlcqILIpBh8RxNB8Y23PB8iGAPitqgjbWI+1nx73/bJcf3EX89kx6g9Edoc=;IwGVnNNoD4SyL01C1ChdUg=="
 ---
 

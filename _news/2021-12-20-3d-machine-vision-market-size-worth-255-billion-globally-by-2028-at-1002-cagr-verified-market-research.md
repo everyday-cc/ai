@@ -1,22 +1,28 @@
 ---
 category: news
 title: "3D Machine Vision Market size worth $ 2.55 Billion, Globally, by 2028 at 10.02% CAGR: Verified Market Research®"
-excerpt: "The rising demand for quality inspection and automation in various industrial verticals, demand for vision-guided robotic systems across food & beverage, automotive, pharmaceutical & chemical, and packaging segments is potentially driving the market The 3D machine vision market is largely driven by factors such as an upsurge in demand for 3D vision systems with robot controllers and an increase in the use of automation in 3D vision and applications."
-publishedDateTime: 2021-12-20T14:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/12/20/9514751.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/12/20/9514751.htm"
+excerpt: "Verified Market Research recently published a report, \"3D Machine Vision Market\" By Component (Hardware and Software), By Product (Smart Camera-Based Systems and"
+publishedDateTime: 2021-12-20T13:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3d-machine-vision-market-size-worth-2-55-billion-globally-by-2028-at-10-02/article_89595a46-69bf-5b45-b9ed-a21dc6b27689.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/3d-machine-vision-market-size-worth-2-55-billion-globally-by-2028-at-10-02/article_89595a46-69bf-5b45-b9ed-a21dc6b27689.html"
 type: article
-quality: 0
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "High Speed Camera Market to hit US$ 550.36 Million, Globally, by 2027 at 7.26% CAGR: The Insight Partners"
@@ -31,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "NSjiVGQhIxpQozsy9o5LBjtIh4X2AuAectdHphCHkslgWZlcX7Nn7f9Pd4rT2KblmMXeWTABRjqJE3Bro1oBsltLRUOPHtByHdHvsX2RjiD2VfXyNrqB/8MiZhrsyXA4wMFswO6pQUNYBILhJX72Pnm/3KFT4QBmIaClJYa/v8NTCJxtjA3ncIrRbr9Cgi+Om+pL4Gash4L7PP0Rq2SqjthqylHEx268RQ8nk/sUHIozXSbP8TXLHw5K+EAFVYAXUG2UAyX/KBLlUBx1ODCZhE68UINeqhrwr0OaQWJxViYvXDXDJufjUDr7zOIGQZduANT1HSMRjIsLbIWJSXNOcNaZsyg3LlOT9cCFcf5G2/s=;C4nETfFF5hRyJsk/YFA+ug=="
+secured: "eg4rDiLkPauxIfI3jneEI1dMjgTjzHuqfinwnkgdP+KHYlkIijweBCrE1g8QeF+dSwVUXnQ8E0ASl8RCrEDb65TPDmq7VsDhdSn+PYleyFNOykeCgYvSVIPeJGuke1HRD3Pv7Wypoj1+iask4arvHfomGKrD9UVXNoXkSUPokkaqDxk6w9i2Gg62WGv/S/loBb8Up98ukyBVr55UrEJe+hxjN7qnaN1rW8mT2qLulCk8l0aNM6KxRWZnhXky6OM1ParqWUZkGsAScof5eBYLzoWwZSPIP3Fpur8ap+DOZ8QjQV/RDjkBarAoEgBGiiCsvZCV91zgsKKj+Vapm4GJDlZG+k/T0SCgvsgNZ9tpWXo=;8QtX1E+9A2+8V+yD6LeMTg=="
 ---
 

@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Fordham University Hosts Global Ethical Vision AI Conference"
-excerpt: "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ..."
-publishedDateTime: 2021-12-03T12:16:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211203005109/en/"
-webUrl: "https://www.businesswire.com/news/home/20211203005109/en/"
+excerpt: "Oosto is a leading visual AI platform enabling enterprises to protect customers, guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls ..."
+publishedDateTime: 2021-12-03T12:32:00Z
+originalUrl: "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/"
+webUrl: "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/"
+ampWebUrl: "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
   - AI Ethics
 
-secured: "E4dBR9HEQEe45Ml71zLz85TcoeDM60u9AQJGyTCw51UKMh4tEPaPeVYIFRRGQaH6QqKfNGF+Ss7Ec4rY0yzA834U2tGZqZT2GGRYS/n2WPNR6b7xgwhxpkoPXZKnIeNk21krZJwpOy4/p22hR7FAguc5Sw5INuv1Sl2WFUDdqEcpGq7yLc2zOXlJXqGy5AvCgZ5/bToxmILgtSQfweYPZ/EIvTbqfEWvDgJojjOZJ+MLBT9SzTJRLxAvyzUYhku5X7AZDzeeDogavL+aV6cTU9eeAAlci/LotbzqwCBXdx+kdsJ6okjq0+6DhcueZFU8XgsaFbbGJu7iIprqgOIkUugmZQJIoX7M8oRmtv6K9MQ=;KRj3gKY4h5C6iOKjkeZy3A=="
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "V+J4IZ46PvHmqlE2dO1OYH9sDZMAk2fX4ilsViQILPKLdEkuKSMfn0OEDumAwFFz79rLqkb9c5uPqDFpblySl+0mNbPhdu8zkVmaHHRnDiQPpAPjD183Yvrshqs82Cu3A07V46q4iwUPVfOcIQYGwAqjq+qKTDouT2Em2brh/2a58QcqepVRDhtE5bFP7lVwSnauOUQmJaWYhzgS5AiXEaXrM+Gw9L+EAldAt5hneT1gzMhk9Dx0/PBNLdsCHI3STv0Wy4XXUhe9c+62JEJBFfZBCUzAEmVOs8nWPYkeDOB0R4Tpa30vfcgyhbttUrazkj8jUcqVI/IUh0CQygccdM5dGZciDbg0UVH5MuLxy10=;cbPylnpZ79D4JBR+HtYHqA=="
 ---
 

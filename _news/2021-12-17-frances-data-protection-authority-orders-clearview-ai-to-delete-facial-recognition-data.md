@@ -107,15 +107,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "OAIC determines AFP interfered with privacy of Australians after using Clearview AI"
-    excerpt: "An investigation into the Australian Federal Police has shown it has not taken any steps to improve its privacy practices since using Clearview AI's facial recognition tool without the backing of an appropriate legislative framework."
-    publishedDateTime: 2021-12-16T02:56:00Z
-    webUrl: "https://www.zdnet.com/article/oaic-determines-afp-trial-of-clearview-ai-interfered-with-privacy-of-australians/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 41
 
 secured: "atZ6/jSi0r8e4Ib/fH4QFguv6gu4D6Z2kpM0KmWXDXazVWLMOWBhANTpelfRgp01IwbazpJgti20WjrQsC7i/OKWkwl0fhtAu8i0Ucp6QfeyrtssehuPYlkv4dvZFYJximUe7fx4/f5V+6gjecggA6blRd90qSPy5UXTuls3iMdm2052nIXWFtG+PNOu7cCOKNJqT08zKKYQh/eszO9zyREt/1uECX9/dI9VvTM4ULPdrv7ui8MpI80dEiMp2PSAt/IVMGmgvxTUWxUD8dhf4Il4MbPFZxxLBXpZF2u4EqcDqleA2paPmQiCEwB/Hvb7rZKya4s4lDgx8Psxar/sXOcQzWB6+3p9GB2Os1ISqCk=;h/HTEVh1jHvVKCt7/afByA=="
 ---

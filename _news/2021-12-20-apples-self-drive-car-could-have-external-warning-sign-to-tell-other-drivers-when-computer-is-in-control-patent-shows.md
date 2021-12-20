@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
-    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle platform built from the ground up with autonomy and sustainability in mind - Scaled in size to reduce heavy congestion,"
-    publishedDateTime: 2021-12-20T13:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-tdk-corp-6aa4365a07e04f4aea87dff822ce2d6d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T13:08:00Z
@@ -136,6 +122,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 19
+  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
+    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
+    publishedDateTime: 2021-12-20T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
 
 secured: "lHcZ5vARotbyNDZdRcUEhuv6lcqVPHzuY4DHZJIGX1/4KmkKXWYgvdkvaraloUEz9CfMeW/1FT4UgRnBcsOROiNEy01nX62uHInMnArHQ9oDL7FKN4rMI0VoGw3/Qg3Eiop1PN61Z/DStD4Yroa18L9oXiw/U5oCof3MtkGFfJpzxuFafK7f1MRMvN15ZHacGwM53QRbXlL/0L6O9ZctK71yjY2NjRKsimKZagcCb7yc2okE2o1/t1ReiZ+WLZYRwQQnewsBUY4ISLNwTdo50qi8P3u0H7RKgZMt8hQENjAR3+ngQ7JRDIQ3R0hOKh2WVy/wemocZpE/I8vqxAmXMNwQl598H3zt2ZDC9vps9Ko=;LVTZkSi83s5z2K9qOXglqg=="
 ---

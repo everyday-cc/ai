@@ -32,6 +32,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "The Metaverse is Overhyped; But by 2050, AI Will Make It Real"
+    excerpt: "There is no doubt that the concept of the metaverse is being overhyped. People are talking about it as if it exists. But the truth is it is not even well-defined … yet."
+    publishedDateTime: 2021-12-20T17:26:00Z
+    webUrl: "https://www.datamation.com/networks/metaverse-overhyped-2050-ai-make-reality/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
+        isCached: true
 
 secured: "wnMe/kcbQAua7PWCW4hIaoYt2+dhcpgKHrbzTNxnfot3NbkccelIITxlMChSQxOgX4sK6Gu0nlT+uDFp4Rb8HN+qhCfovNYwJ499WRjjuoYfaikWHk55BZxpAgtgxC6hlhPI/oEBAIyh8Ery1rUIviZeXJLmJ/tvpgUZ5F0TTf8wM/4U2dYm561ClEL3sR5XAdKBXPKOYeTBm84Ast7jrAkN9PSuPoCCK/vpJVviRdEoUupzntkXm7v0JMloZAtfL/yNgZVP48HNycjM4B8SM7M8jKjGUKpeaLJ3w2f+abA0616ag2Syqao5JSGnKzCx81yEaXLoP52ofbLAhysspgOxADq+W4a1jTBd1Vw93AqSPTEXB/7JPDAenRaclk8ghgvOK2svHMG3+WuIP/FrsAlgIbEDnTequt/jMDc1YAcfBPiVbfsqCn/s4O3w5L98Rt0kKwvuQ4R56YMWRnCdwtyt/6HZsV9E5G88d9FkqVJ/kqUMg2ZzA8aqqnEXE3BxVRHv58XvAH4NYHysdrP3AQ==;xGTjfeOmFypTtTMgq6fe1g=="
 ---

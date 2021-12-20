@@ -1,27 +1,21 @@
 ---
 category: news
 title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report,"
-publishedDateTime: 2021-12-20T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/the-evolution-of-cyber-insurance-in-2021-through-the-lens-of-expertais-artificial-intelligence-301448069.html"
-webUrl: "https://www.prnewswire.com/news-releases/the-evolution-of-cyber-insurance-in-2021-through-the-lens-of-expertais-artificial-intelligence-301448069.html"
+excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+publishedDateTime: 2021-12-20T14:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
 
 related:
   - title: "How AI And ML Are Changing Finance In 2022"
@@ -156,6 +150,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "fxg7DB68HYFI023G670i76OJCRfZZoob/BL8Jxqe7DXKq8aqo9byO3hxGGsMpfy8UvR+XHv8X7fpO1qZmHYInVpkpdmC/4Vzdvqm74Bf6IuNirBYosYecCMQg1wBld4ZNAr/O2PoYlIcSvBMhrQtSZGwUFDExvrVZCOvhv8P1HSjxR8BbFLl7o2u8epSIb49pXxXWRy4PZrMYdshhsq4XYor99mTFzN1Tmm1sTst1TINUB7hMXRGDUO6FNNY8QSVPaipcsHRQOngqdi9U4b6qA8AKYG98SzYIDI/AaITP1atyfk7Z93n8RnxbWQB6ElcqDfS1bileRFAZohBESPOfitxmpi7k8EO4PtiEfkPNdo=;0Ui7gCEr2/BiEtK1NMI5Xw=="
+secured: "PR+BSrjeCnRsz1NfLuIWn1ItGz1POYacDejM0YOHkClDGjORJsQ3rdcKn6AImYn7C1VfLrpMA58LESVOrKlty/3EjlFPB0hVYmDMJ7Aqf+aHuGk9vxj4pBxQ9MHyRssy8da4SzWhg1zKJ4TZba9NWmcJjSIylKTo4aU58u3WO2sgDEGYqJnUK4nPUkUy/jgpqLUFO4Thy+Cun/zwN27lHFLTLoJG/KQNB5l1JVpU9ubVoFwHKXRjJv1SVMF2oCv7qV5CqUQZ+xkIAG2CdsYAhDflobiScUMKLzBvq67ipBElF3o4hsgvOrPOufrTfRhTi37q4wpA3gIUTIsK2FQHMtR18tZ6gqhuq3aKN3S6NH3o+szKm8tWKSNfRmHpnY38a1x16/AFqArQSJMWq3oj+JKf1yt2haa/KZSK+wCB/0XjZyJphL8oepTXtVgXnC0i1ncCvHlBnKn/ObSAckQ75/OE2nPBv47wDypIa2HoYxRyg2THkgH6DgqYznUKl7LcDAyrFSCQ+2oyhvwVOnHAxA==;lDz22JlujPN+TsYy+eCeCQ=="
 ---
 
