@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
+    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
+    publishedDateTime: 2021-12-20T02:36:00Z
+    webUrl: "https://www.bbc.com/news/business-59722830"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
     excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
     publishedDateTime: 2021-12-17T10:49:00Z
@@ -69,20 +83,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
-    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
-    publishedDateTime: 2021-12-20T02:36:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59722830"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "xNB5HUBBhhbQi19cRJYyope/H8dOGVy46LJAFAG8zaj/B/++YaPclCgibSE7nMcwDfNfjjBBstpyOa0ssc0hhpOMurMnYwFof42AZnFPzcVDg5SN2l8UbX4HUI8gQOduzRDq5hIGnk+TMG2OG1DnpUVPak2T2Q8gfxfN59dbqW7C+MaNYXMUmB+HwA52WoKOEPnOUVKCGLqhF42krLykDUBqUPbmAXO2a4CgDgndA6jQCHhjhCQjunOoy5vG+Y/uG5lqx+qSLEGfhy6C89DEQ2Sr1ALApCF+dQO3ca87PkXhs854j85/1zkBeZZIEMiKc7tEIQqoAeQd+KIQI5uK3KOuhVD8GnU5Jx5OY8RZZtE=;/wv0U+tWzbHXL0WLbNWYPw=="

@@ -3,24 +3,24 @@ category: news
 title: "The National Captioning Institute Uses Automated Speech Recognition (ASR) Closed Captioning Solution to Meet Growing Demand"
 excerpt: "Closed captioning providers have been challenged to expand capacity quickly and effectively in response to a heightened demand for services. When comparing March"
 publishedDateTime: 2021-12-07T12:44:00Z
-originalUrl: "https://www.insidenova.com/news/state/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_5a308a38-3b88-5412-b6f6-327d6f1533a3.html"
-webUrl: "https://www.insidenova.com/news/state/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_5a308a38-3b88-5412-b6f6-327d6f1533a3.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html"
 type: article
 
 provider:
-  name: INSIDENOVA.COM
-  domain: insidenova.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/2/cf/2cf7695b-f99b-5ad8-b913-826ebc13ce7d/61af694d2bf9e.image.jpg?crop=604%2C317%2C98%2C0&resize=604%2C317&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/7a/77a10bd8-d3ba-5e67-ada1-a4e0e615206b/61af65d59209e.image.jpg?crop=604%2C317%2C98%2C0&resize=604%2C317&order=crop%2Cresize"
     width: 604
     height: 317
     isCached: true
 
-secured: "UEjXofqtDMvdbRfvHbPNZdRcdxp6G5PKiS3CLVErCwAMWsfpymMEty0RHmAFLRylXTUtEFotKMdTV23Wci2QtopJSsnCrYtDVVUO3NPJN33/M9vZugdPu9mYRuGmuHx8zHvzLp/2hA8tWnhR78ZRElriN/iQ/JoWnfaBvTHTE9QJ6GPJiTZn0LbShIUU79KT+6J2B3rrifOSmI67WJ9wQN0K6/ooFtW/tXJSxZsIjDkwn7rs4w58QLrx0w+7VXIXKPshfAwkMxkDSIbK+jjgCD9xxOplr3LlGHqTW1rmIJopw68K1v5j3EFM9d2+lHfqddSLMKFxFlYwS7KSVVWk24Bb6r4iCAD6Rg0vCLrTlue58jcwK74SueV/dWM3ng7anH47TWN7Yutj/9RyFAZ3ED9lcCXPzDshe5klJyK0YP2v2TUF2WOg3ZTuI7tDSNgb+dhdXsLl2633L0EIXkg0Pmvy2ntMZyTHDSzQaJ3mci1OUHx5Q3svLcXwy5cucRcD0t2Lg3tCcNG0T0UPCTAGJw==;/EBFOCI0slQZZsbJMb4Ftw=="
+secured: "twEuB/ia5uvPvKRvQilnad+hxMMyDf/pnUX+ddy64K67i/85sst9rf9v7P0qY3GGEEfcqLIgc8sBl31LsZZWEcdqZHP9Vu9J8KETdyR5RpuclfA3EQyeabAvYwsRHyyp+7qLgNqhu3Zf+BajP5czFruzLD4XzKCWJxevvIBB28sf38ALHVhR+2SixdkE+m44c2fMW+4lKeIHGErzKZD3+dNL5J+96wqoeay4YufgTC2aJGKbu5D3WgTFNDw4KekNqTRkz6hGO2MPPsgD0N4mvXKhh4YEkKB7qJ3BmRp/rvJ2Cg5d5/eL2COb1cn5EJ1EW8QTCRdTBySQKXdQMdTFUAfoJ2kxJo66BTHiIbXYc00=;1MzOnK9qY7gj0XpqNtNQNQ=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "Researchers teach artificial intelligence to be fluent in Finnish dialects"
-    excerpt: "Finnish dialects create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort. A research group has built artificial intelligence models that can automatically detect,"
-    publishedDateTime: 2021-12-16T07:40:00Z
-    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/researchers-teach-artificial-intelligence-be-fluent-finnish-dialects"
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 37
-    images:
-      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/attractive-woman-sit-at-desk-holding-smartphone-talk-on.jpg?itok=VSLoaEK4"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "ENelfb839oErDyGlQ/agn1IAuaYssB4dUx4qM27uJXXVEuFwicEkY7ARVgP3vnuMHyoepPe+FTR0bH6ZJlJvdfPeh2pVhvBtjiYyxws9SKeXSniovG8h61VJLXBBelKHMQVIXKJEU50MKIvUJLCpJhBpqDBI78FW1J2SGcwVZl+WuMx3gvv0VAJAdBlfuFapHW/+6BC8KhYrRWNyPTaWLt2V8q4RUVJnVk3vc8GBNoq9r9BkSZw7QldIJ3LC1rSFRX0dWEWT9Kjf2X/gF8xZJb/cdbZN8jf7ZAo3yviGcPvOGd6zuSIbV22vH/CxUrpdrBT5xE4lqNm3acjy3D/zferogQ0aalntNoAYCa8uLHw=;qS3M2YiTC0ZfKmVN91O+Iw=="
 ---
 

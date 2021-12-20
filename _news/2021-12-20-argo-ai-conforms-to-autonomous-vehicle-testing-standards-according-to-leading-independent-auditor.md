@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "International certification group praises Argo AI's autonomous vehicle testing for its safety standards, best practices"
+    excerpt: "Pittsburgh-based Argo AI received praise from international certification group TÜV SÜD following an audit of Argo's autonomous vehicle safety practices, which TÜV SÜD found conform to and in some instances exceed industry best practices."
+    publishedDateTime: 2021-12-20T20:15:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/12/20/argo-ai-receives-praise-for-av-safety.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
 secured: "mXf7TRDaKEHpOBRIqmoSEWIQtDkHuw7vAgjQBk/kNg5inPOsv4AJFQtQhmKkZTYsQvj9jRPC0yt4RbTHiIkY7KUhIQWrWFg4HgWGrVnmGktbfxyRMT4IDuLbsIdRdVDmt3jTSUvZOi1gziLs2VvljdvUmnen4o6Ab7bSy1Mphaven7CkYKpdaNqDgDAU3aj2G5vBKUuMV9REs8RASeCKY0ksEzanQ04y82lVIcyhsZabIjnfayDqsmhGg+nPzuhaJzFLJi+dqPjo0QdCm6L/rhv/XaCH3t5unU/BuZEpfBFV9pa1obALZtGDM/Rk2yUn6uccQ52iBh1myTIdBmtZ/wfpG845+FiQezt0tWJB6G4=;gDLLqX0gVIG6G18mTGFb7A=="
 ---
 

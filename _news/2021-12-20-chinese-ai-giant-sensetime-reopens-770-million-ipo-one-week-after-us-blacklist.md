@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
+    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
+    publishedDateTime: 2021-12-20T02:36:00Z
+    webUrl: "https://www.bbc.com/news/business-59722830"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
     excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
     publishedDateTime: 2021-12-17T10:49:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
         width: 512
         height: 321
-        isCached: true
-  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
-    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
-    publishedDateTime: 2021-12-20T02:36:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59722830"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "wO91Ubi/aqcT1uSMUDPEfZczgxkkWfh7VyEup271s6RBoAv/1f6nqZGJmLOJ+0O47GmkN7IHTkKyFuHb8zVKhFHcqWcaKlny3iWBFf8deblz2yAS6ulWlLeWIX68sYrQsVYSC7rgndrXxDXgNiMhQ/x22/mYgXSXfxKRBWaZf4Qv3OXg7fpTzqWINfZhCUm5STNCnbr75HeKxp8Ks2+xETBJ/o5B80O15dxrHAlHoP0LyNSDcOcXvW+F/k1ZTELpFj2p+6IW6Y5y1LVjvT1nWxDIW9W7Zp/4+rjnhic27mgOAv6pAD5XAKlnvbokQidY95w1YRjCzTWuBwS3oc+cVkZfHpvw+b2tmRu1RROLsW7Oe93DLpwXUMmhH8w6PaV/0wA/pWASQste3xxL6tZpZpvIKMi3nNpkQQNLY/7spUZIIvCaNk7J4rDVknraAJRtaF6G84FZsszcfJ6zt6D3tRKP9WGi1GV1dRKe2wM4iJBbrHmutF9H57J+4NPjeZhKl4unEn7gvRW3QBfNc8zymA==;YDnFcqIFYSnAGaie5MUVqQ=="

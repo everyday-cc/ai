@@ -118,15 +118,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "MediaTek launches flagship Dimensity 9000 chip"
-    excerpt: "The Dimensity 9000 is one of the most anticipated chipsets of 2021. The new Dimensity 9000 chipset will be in the next generation of flagship smartphones from companies such as OPPO, vivo, Xiaomi, and HONOR."
-    publishedDateTime: 2021-12-16T07:00:00Z
-    webUrl: "https://pocketnow.com/mediatek-launches-flagship-dimensity-9000-chip"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 19
 
 secured: "9ARgdSYSRGSkn74fVLFX0PuT5cG13KmFHe6JPjXPsaRX1qxn/EzHsnTcc+xTuWJlntA38FP42g3Fc976ROLT0FpKtzBnhGKpZKCHKAnijsi91ozGMC9xiYLKGijxp9tmdZX1bDqE+3IuqwCTgecYV5EcAbGThwMrWe50XGJ19N0+5KqH7BDMeIlQJMn6ZA9FM2lnjkJA2X/M6/ssBP9cPsbPfjImoQg3kBURIyVfv5xJGFGnsh8pqQAvd1oi0TUBwfzOiZKB1pqZYmxJAfe0Dt2i1EkHamlzjg/SJe5UWAY85YlHMmjEYiIqtBFLLbYkW3e/LOr1bn7tY2hDMRfM2kmMoe8TsvEW2zV4FiWkeEkLud/EEWv4te8CehFdyoZMfS3Gh9RFG2yOS3GtOqHIyP2u1O1QkCD9C1Y4CpgadGcPjVGA9s5NWeBEoWrzNJTZ4dv8MdMTNi8SPXEMus4LhvM38D36ElEu9OX8zyGQyS9ECW5gAqqShPJ8+6zIhdDVjsHvrt38k0FkXRU1tgjU8A==;imKduplv9opkqc8H19obZw=="
 ---

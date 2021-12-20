@@ -29,22 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese automaker GAC invests in self-driving vehicle startup WeRide"
-    excerpt: "Chinese self-driving startup WeRide said that it has secured an undisclosed amount of funding from state-owned automaker GAC Motor, a manufacturing partner for Toyota, Honda, Mitsubishi, and others. WeRide and GAC aim to expand their autonomous ride-hailing pilot project."
-    publishedDateTime: 2021-12-16T05:41:00Z
-    webUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
-    ampWebUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
+  - title: "BAIC, Baidu begin joint output of robotaxis"
+    excerpt: "Baidu said in June it was working with BluePark New Energy ... The robotaxis, developed on SAIC’s R-badged Marvel electric crossovers, are equipped with L4 self-driving technology developed by Momenta, a Chinese autonomous driving startup."
+    publishedDateTime: 2021-12-16T17:37:00Z
+    webUrl: "https://www.autonews.com/china/baic-baidu-begin-joint-output-robotaxis"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "UcmuVQTP25rlDNYLAyElH32v9dbn4jy/iKGGkgZk+//a1QEuoUAt7zUTlrVl/HCdvHHM+iENDjOrsatWdrkeXXBvIJzfvZag3Zb8XRfg2ASdW/4kbQNwfysmIkUl/KlEepyhYJIPULJ+q4jYnqyvV4S+CFBq9oR7hveKdbiUU0elfKoV40rGlO8ahGW4Ser2ZEGQhxR+rkcGvYCkwfXSskz6uzgt6fUGJ226pwT2jRpUGdc5a12udGul5VY1yW3ZPZj+Sn+SstlKb30s5HxSR4/XKe3pHXbDACWcXo4a1z+tjhRXiI1rDJZNqsrSIXx075WJbFxupshzTh5OEg5xjwtvORxnlMp1vx5t76sapbDzJWoLXf3dqnlCKOBi0KaLIHKEiIGPqjF1TxJ6cydVfqUyg6zbq0qOIoxrLRtpPtCDB+e9sFpK51eUSFhUMQ1FV0z5NRsLADhJMOZVQqdZMx/EIjpdRaW+zFXWH/jxlRsWhfj5okLmhXphPxtENY8qh7xS4ZOHz/MTrlASK/GF1g==;9gVB8pS7yqUA0zgVgYgjnw=="
 ---

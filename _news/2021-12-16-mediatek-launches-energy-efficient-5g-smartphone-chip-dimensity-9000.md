@@ -9,7 +9,7 @@ ampWebUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartp
 cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 19
-  - title: "MediaTek launches flagship Dimensity 9000 chip"
-    excerpt: "The Dimensity 9000 is one of the most anticipated chipsets of 2021. The new Dimensity 9000 chipset will be in the next generation of flagship smartphones from companies such as OPPO, vivo, Xiaomi, and HONOR."
-    publishedDateTime: 2021-12-16T07:00:00Z
-    webUrl: "https://pocketnow.com/mediatek-launches-flagship-dimensity-9000-chip"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
     quality: 19
 
 secured: "fKc52UbZdlxmmZLWJpvdRfKnhVoNMDVYaGdmMOtUM1pncZWw/SDHdMMI6o6a6GMi+EPtm6gthXAZahChLEVV5YA7My5+rvxMCXMNBNGt4kJlhdI4JC27QZa+Vz9lOVO2pLDxs2wz8OnFYhxfGwLuWzO8WEiJSGiqK2kpx4CzYCduHJ4oCJu0e517/DGT9ls9c+MwhkwxJ9lB3C+aP8FXUImbVukcVgpriXXIn7S6J4sL1Fcwp4PGBoxYEtssp0TOGEeDUUvjEK4r5XUXGSYS4ATp36f9IH3v8azCZ7Rvh3a3wRTnqhX+3NLiVi1llvGcVh1aBeBgFrfaVPvTsxx5DSPWkLL5qn08hWlwyxiHvxo=;AbfeZUitjGUC7Pt1JH2jAQ=="

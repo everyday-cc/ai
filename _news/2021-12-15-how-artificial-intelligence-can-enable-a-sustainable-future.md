@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQGJUoL549SSYA/article-cover_image-shrink_600_2000/0/1639495990897?e=1645056000&v=beta&t=s9_o2Cj50IlKGNdK0qq-wcRL_-kVGkEjdGRHoQBllDY"

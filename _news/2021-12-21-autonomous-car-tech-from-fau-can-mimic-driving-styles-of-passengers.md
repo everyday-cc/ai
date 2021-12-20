@@ -2,9 +2,9 @@
 category: news
 title: "Autonomous car tech from FAU can mimic driving styles of passengers"
 excerpt: "FAU reports the technology can be applied to a range of autonomous systems, including self-driving cars, military vehicles and public transportation systems."
-publishedDateTime: 2021-12-20T18:02:00Z
-originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/fau-autonomous-car-tech-fau.html"
-webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/fau-autonomous-car-tech-fau.html"
+publishedDateTime: 2021-12-20T17:34:00Z
+originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
+webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
 type: article
 quality: 4
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "/nEcghWwz09XfWI05UUT/mV7w0rvtL95VuDsPkf7f06uZnltHmF0oFr8XkKLwKqMh0uX/F/5KqJk86TStgXSsG8jpjornnavKZPt3cmJPIZ/InRbFzFexkN0ijvNVcaaDI3TGTr/Q/ELqQz/QxkiO/B1quFrFhfL6ov2kKDhKqfOmBeFqVa11DeYJ614jYJljV4ekAcpOHjTEbR7wYU3kQKd/R/daJ+ES4Lqh5R/CWwgVi4Uq5ziEKwofWGt3ryCu+29bBxJcrRH+5V9tqxC9T2t9K075GqqaAAw/pKLO7eWsydtU8dzdhCHI91sDThArQRS5LiHiDQRg/qYAonjYyVFnMRcsDNp9glLnTwn7rHaYQbrDeUt6fsUwESWJklooH0GLG1lHiWXSGrbmBrOG9VaU9Lb772ErADgp6gi0CvH+QTZp1pqbXqORZZZZMStRgdm9UKEImXjbpEgwlAQqO39VmZweQKsgv/Ylon1kEjbDcbiYJwwBaG74uGMQ0mcCddPDPxk/VDzwGmSsYLULg==;XbtYn8pX2Pd9Y5GljIF2iA=="
+secured: "JrTNhzrPZsRhopzxzzme91UmA9OVlFMzDTThBMaqhjmbvS+xj1ld+WXtBak2FK2bHl9UhbBMMXZDAhVR/o7rYd9tdAO6fe5Jf++hbObHMkc1CevV5QoEYVXznYG95lGJWq6PPgwx4gjlX3p4vTDPJox/SKOEyUQEukTqB3NuDKmOI8nAYY7EtZtsWQIGJJGaHbGlzR+om9qYBsA5a+V0aoo9z/CKGym78twcS9Oe57E9m1l7OxwpwrzWP+SHOuQKulvph6DFHocIy5cGCmqyYo+M1NAKtcKlNEHXxFS6TgrJ8ZZlaSSYYTAQBea3JI6k+3oPmt4/uTYHYjL29iYMvM+QRF0KEMWmgS0bE9l8FTtF0N+rOM4oUsDkU8TWKI/565K3dzRD6W5uL5I4/vol89DHtCstqLYYv8Sx6Pqao1VRGr72TNRqW0HgisKfisQl2nM41+8Zr42zpotuqAE5RzzHAb5eAr773cBuc+jweyj31WMREHYiss7RLd+vTm4nMFghDGosv/AEEhIjIi3BOA==;Tcc0Pje7bp5bJF4UHpIgXQ=="
 ---
 
