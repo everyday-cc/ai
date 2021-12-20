@@ -7,7 +7,7 @@ originalUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-ma
 webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-worcester-massachusetts/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T18:10:00Z
-    webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 39
 
 secured: "j7DKKELO0aQxj9QNrLQsSkPQmxI23CUR23BBss02MpqTYDLYJvD/w11dpn8eYVJ6bR7cVZgVS7pTfdCpH0fKhwmqo5DLlPd/j0irE0Vvm192m3LAWQN+TnBsqsVn+FJNeQ7wuXWkJUXxuin63PV/dQUZfX/mL/J1PCSuqLGdGTgumEqjW1FfQ56UlJg0ldTE8c5eNUUSD8zACtwHcV21GtRw9UhxIHokUoHmxT0o6kjMnSINkO5kZDG1yOxL0aJe4FnKEEbY9Z5eIaQubpKbUhgEmuSS+OIjWVzRky519a57aON432PF3ilTIXlakhaGHYzq/flfTmesAtvVN2e+8MHi/6wtCkT0xD8EtKXSv3VFZtCvU0tiJ/Rdpstt3pKnQ89hFo+EnO8rH6Auscg+PQeODVFdk7mMY+VF5CP8s8IAdtVcFcPnwDYnmcS3zVNRuINHQrUHv2xSz2k2dmeojQ5jzRmpDVrkqpFmeUTkmBSEdHSt32JEgMrV59xw0Yr2n8UrNZHN9BpIGRYJHFmRxQ==;K7SDJ3EsNLnER5CwCHQQnQ=="
 ---

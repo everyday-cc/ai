@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
+      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
+      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "publishedDateTime": "2021-12-10T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
       "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
       "excerpt": "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler.",
@@ -1133,50 +1186,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
-      "title": "How Sars is using machine learning and big data to nail tax offenders",
-      "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "originalUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/tax-2156-1120-2.jpg",
-          "width": 2156,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "publishedDateTime": "2021-12-10T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

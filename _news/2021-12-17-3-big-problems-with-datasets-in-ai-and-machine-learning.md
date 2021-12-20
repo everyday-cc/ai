@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
+    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
+    publishedDateTime: 2021-12-19T22:27:00Z
+    webUrl: "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 38
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Webinar on career in artificial intelligence"
     excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
     publishedDateTime: 2021-12-18T02:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-sel
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance"
-    excerpt: "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups."
-    publishedDateTime: 2021-12-15T18:14:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
+  - title: "Self-driving developer WeRide partners with GAC Group to commercialize robotaxis at scale"
+    excerpt: "Autonomous ride-hailing is a new vertical, and robotaxis still come with safety drivers who override self-driving functions during critical moments that require human judgement. In anticipation of robotaxis operating on public roads, the Chinese government ..."
+    publishedDateTime: 2021-12-16T10:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-developer-weride-partners-gac-group-commercialize-"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 168
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 15
     images:
-      - url: "https://images.wsj.net/im-452768/social"
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEYuWVUfnb59Q/article-cover_image-shrink_720_1280/0/1639649566996?e=1645056000&v=beta&t=wc1ipeeGOUeuI8c1Zkpp7Cx0qi-1j4ZNmIOFSw1-JMo"
         width: 1280
-        height: 640
-        isCached: true
-  - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
-    excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
-    publishedDateTime: 2021-12-17T10:49:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/17/fa83cd71-c727-41c3-aceb-e575a5f9552f_b0e45619.jpg?itok=NKVXvcSK&v=1639738029"
-        width: 1200
-        height: 630
+        height: 714
         isCached: true
 
 secured: "e2Bv54MXnBGZ/08dK5WQiMwePb0RBAf+P0oYsjXw+MUZGTwptItiVlBVKuk9/lnL+e+5IbEKlqf8G0+p+7QjMgb9omKf1IbenM0kOy4o/240PDcckXOYRMiBtc4OqR/b//y6Fl5j9eFxqWdMUq+fxqJ8hmOru8xmI/jc8PlnsEkIRKck4j0gECbaVLso+3G0RxhcJSgRrrLxBvVMco0WdEX8ucG3mLvFVYG0bPGAzuilkymyLtCv09EpG9zjvNObgfMMplNBGegWGAR1u9gYSfsiBGC32htrWRbfXecgW8YgJ6HWXjeh+3uB8LMddNQvOu/FgAnZGxScb+O54viNR+pW0rINUMDaWQUFVwAx+Eq9gH9LrGdKHOoamYt62+wL0u8Q0IerFxqx8utB2mfSOvd5h3ySZ7j+ZLatSP+K/LRsOMJ1W28aomQ3Kxm9Lcwm1zapGlFEUOXB0CflW83blhD7maOKKx20VXPrKa21sctVYK3cWvyu1dMKeBmzT4llAjIRA3m0MmNnQ/X9RoHtgw==;5U30Xe1UodyIH2haklnPjQ=="

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Startup JustiFi Secures $6.6 Million Seed Round"
-    excerpt: "JustiFi, a Minneapolis-based fintech platform aimed at vertical SaaS companies, has announced a $6.6 million seed round. The round was co-led by Emergence Capital (an early investor in Zoom, Salesforce,"
-    publishedDateTime: 2021-12-16T22:08:00Z
-    webUrl: "https://tech.mn/news/2021/12/16/fintech-startup-justifi-secures-6-6-million-seed-round"
+  - title: "Kraken Ventures raises $65m to invest across the crypto and FinTech ecosystem"
+    excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early-stage companies and protocols across the"
+    publishedDateTime: 2021-12-20T09:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/kraken-ventures-raises-65m-to-invest-across-the-crypto-and-fintech-ecosystem/"
     type: article
     provider:
-      name: TECH
-      domain: tech.mn
-    quality: 24
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 36
     images:
-      - url: "https://tech.mn/wp-content/uploads/2021/12/justifi.jpg"
-        width: 2400
-        height: 1260
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Kraken Ventures Raises $65 Million for Early Stage Fund to Invest Across the Crypto & Fintech Ecosystem"
     excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early stage companies and protocols across the crypto and fintech ecosystem, has today announced the successful closing of its first fund,"
@@ -52,6 +52,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Silvergate partners with EJF to launch joint venture fund targeting digital currency, fintech investments"
+    excerpt: "Digital currency industry investor Silvergate Capital has partnered with EJF Capital to launch the EJF Silvergate Ventures Fund to invest in early-stage fintech companies, digital currencies and payments and banking specialty finance technology."
+    publishedDateTime: 2021-12-17T12:23:00Z
+    webUrl: "https://www.altassets.net/private-equity-news/by-news-type/fund-news/silvergate-partners-with-ejf-to-launch-joint-venture-fund-targeting-digital-currency-fintech-investments.html"
+    type: article
+    provider:
+      name: AltAssets
+      domain: altassets.net
+    quality: 7
+    images:
+      - url: "https://www.altassets.net/wp-content/uploads/2021/07/imgpsh_fullsize_anim-4.png"
+        width: 400
+        height: 971
         isCached: true
 
 secured: "IRvCUnfdGZk4mvIzCzcHJxJBhzZm1s58nBEagQCvx9GjgIj0w5WU26Of85j7RX9mFv3f2epnbTwzjVLhgYRjlydoKw0rkqdLj/wdyMZp+DSXMpp8CWCPXhnO1YwJMULugxplUnhriRKkkx0rq9NXYAoMskFx7K+Fb0euLVjSUfX7/YdhTBHtl0SFd8uMPJXu5x5CzZq9Gq4a97PznXOaey0F1HmLGwtw/6JIGWCFGnEeP42DRS6+Odcooz1tRxGURkBOItZgy5Z5Wzolox41MNW2ixu+D5S++o5Wy2yu7n2Ib4MNN6UbavqP+ZWogbWOYTTErfGlYZkf4t9l0dKzsW9/Q5Tl9slPPWP5t237M34=;Y1iRNykhi0VKk7vlEsxIDw=="

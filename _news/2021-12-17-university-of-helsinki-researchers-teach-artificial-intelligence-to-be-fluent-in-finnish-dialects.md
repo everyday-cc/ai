@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers teach computer to be fluent in Finnish dialects"
-    excerpt: "Computers usually understand Finnish only as the normative standard known as kirjakieli. Finnish dialects, however, create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort."
-    publishedDateTime: 2021-12-15T17:07:00Z
-    webUrl: "https://techxplore.com/news/2021-12-fluent-finnish-dialects.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-fluent-finnish-dialects.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-fluent-finnish-dialects.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-computer.jpg"
-        width: 1920
-        height: 1304
-        isCached: true
   - title: "Researchers teach artificial intelligence to be fluent in Finnish dialects"
     excerpt: "Finnish dialects create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort. A research group has built artificial intelligence models that can automatically detect,"
     publishedDateTime: 2021-12-16T07:40:00Z

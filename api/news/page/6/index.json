@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-14-movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition.md",
+      "title": "Movement of COVID cases in this country to be tracked by AI-facial recognition",
+      "excerpt": "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
+      "originalUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
+      "publishedDateTime": "2021-12-13T23:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-can-artificial-intelligence-ever-be-ethical-answer-might-surprise-you.md",
       "title": "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You",
       "excerpt": "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries.",
@@ -1109,59 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-why-are-teslas-self-driving-software-sales-slowing-down.md",
-      "title": "Why Are Tesla’s Self Driving Software Sales Slowing Down?",
-      "excerpt": "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
-      "publishedDateTime": "2021-12-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

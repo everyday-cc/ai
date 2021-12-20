@@ -30,37 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance"
-    excerpt: "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups."
-    publishedDateTime: 2021-12-15T18:14:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
-    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940"
+  - title: "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist"
+    excerpt: "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged."
+    publishedDateTime: 2021-12-20T08:35:00Z
+    webUrl: "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/"
+    ampWebUrl: "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 168
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://images.wsj.net/im-452768/social"
-        width: 1280
-        height: 640
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Chinese automaker GAC invests in self-driving vehicle startup WeRide"
-    excerpt: "Chinese self-driving startup WeRide said that it has secured an undisclosed amount of funding from state-owned automaker GAC Motor, a manufacturing partner for Toyota, Honda, Mitsubishi, and others. WeRide and GAC aim to expand their autonomous ride-hailing pilot project."
-    publishedDateTime: 2021-12-16T05:41:00Z
-    webUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
-    ampWebUrl: "https://technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/16/chinese-automaker-gac-invests-in-self-driving-vehicle-startup-weride/"
+  - title: "SenseTime Relaunches Hong Kong IPO, Trading to Start Dec. 30"
+    excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. filed updated listing documents with the Hong Kong exchange as it sought to resume its initial public offering, after a U.S. government directive forced the company to delay the process."
+    publishedDateTime: 2021-12-19T23:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 52
     images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Chinese artificial intelligence company initiates SenseTime listing again for USD767m"
+    excerpt: "China’s artificial intelligence unicorn company SenseTime Group has reinitiated its USD767m (£580m) Hong Kong stake sale.<br /> <br /> The declaratio"
+    publishedDateTime: 2021-12-20T10:06:00Z
+    webUrl: "https://menafn.com/1103401661/Chinese-artificial-intelligence-company-initiates-SenseTime-listing-again-for-USD767m"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
+        width: 512
+        height: 321
+        isCached: true
+  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
+    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
+    publishedDateTime: 2021-12-20T02:36:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-59722830"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "gEum7r6BGvoma76RwJEUIWV3LgmhMMJrihB8uYDGatH+OOBECH1DN9NZfCWFS/46M4k1GhgDCLvPHufSfe0X6UOKxTHC+4Hdu+EyErjM2j6Wtu/c2G0GFVWYKj4700nfrIfgTHR0NYPylCyxI3tslv/OyqTkolcCDFSq/utvQAO4aeOyzTEfiEI48V6tWNrHWa52tk1sTexRsMN3PqZaVOyuMGQkZFGVdBSEzrql4gnugzkhR8OwmlK4kn9QKGlP6nWQ2b1DygDEMiYXoAp0gMkcdQYFZe+LmuW8YMwWRf4AXmiW5nQBXMnjXaQv6qH4HJqxm4gsUxIoIz/NDTf8/mkux6ykXUZIjyjg/b/HAv3galg0Vax/KcoaEbsEjnpgRa+27409UJ+x1XiUV+PaQTJkg5raJrLITrboc7QxIKGyKAWiaarCO1OLyrgDL+vKCcs/YjauUvswRPGL+14kpdZ5Da96GD9Smcn+9fqGhQqofDrpBGoMLVRsqvRbpbgLPubhrWmgad81R2EmUabO5g==;ppI0NmqbW8NVwpNQ80M+KQ=="

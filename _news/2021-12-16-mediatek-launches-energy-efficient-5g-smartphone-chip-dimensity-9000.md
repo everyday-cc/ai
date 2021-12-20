@@ -9,7 +9,7 @@ ampWebUrl: "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartp
 cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
         width: 437
         height: 450
-        isCached: true
-  - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
-    excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
-    publishedDateTime: 2021-12-15T18:15:00Z
-    webUrl: "https://www.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-news-52302.php"
-    ampWebUrl: "https://m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 52
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/21/12/dimensity-9000-tops-ai-benchmark/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
         isCached: true
   - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
     excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"

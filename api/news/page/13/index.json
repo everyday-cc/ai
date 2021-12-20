@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-08-major-outage-at-amazon-disrupts-businesses-across-the-us.md",
+      "title": "Major outage at Amazon disrupts businesses across the US",
+      "excerpt": "A major outage in Amazon’s cloud computing network Tuesday severely disrupted services at a wide range of U.S. companies for more than five hours, the latest sign of just how concentrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
+      "originalUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2021/12/71ed0401653f47078aa4a634650406bd.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
+      "publishedDateTime": "2021-12-07T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS17 Raleigh",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-data-labeling-will-fuel-the-ai-revolution.md",
       "title": "Data labeling will fuel the AI revolution",
       "excerpt": "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success.",
@@ -1170,48 +1213,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-algorithms-are-making-many-of-your-decisions-and-you-might-be-ok-with-that.md",
-      "title": "Algorithms are making many of your decisions, and you might be OK with that",
-      "excerpt": "The odds are good that at least a few algorithms helped you find this article. After all, algorithms—which are essentially systems or processes that help make a choice—have been around nearly forever.",
-      "sourceUrl": null,
-      "webUrl": "https://news.arizona.edu/story/algorithms-are-making-many-your-decisions-–-and-you-might-be-ok",
-      "originalUrl": "https://techxplore.com/news/2021-12-algorithms-decisions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_card_image/public/images/people/kyle.jpeg?itok=xLpRSRj7",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

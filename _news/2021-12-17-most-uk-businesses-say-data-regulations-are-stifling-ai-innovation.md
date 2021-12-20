@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGgD4ovyt8EKA/article-cover_image-shrink_600_2000/0/1639652206330?e=1645056000&v=beta&t=yTrqNLymLIsV6tUcM8VOulyoTPxvuSzTfbmawgFmlCY"
         width: 720
         height: 405
+        isCached: true
+  - title: "Will technology SMEs and start-ups soon be involved in AI regulation and standardisation?"
+    excerpt: "In a press release published last week, France Digitale, the French Association for Standardization (AFNOR) and the French General Secretariat for Investment (SGPI) announced a new partnership allowing startups and technology SMEs to participate in the debates concerning the regulation and standardization of artificial intelligence in Europe."
+    publishedDateTime: 2021-12-20T09:07:00Z
+    webUrl: "https://www.actuia.com/english/will-technology-smes-and-start-ups-soon-be-involved-in-ai-regulation-and-standardisation/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 28
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/12/afnor.png"
+        width: 779
+        height: 374
         isCached: true
 
 secured: "0pfTbdWL+S6l5N7tLGc9kNSp6+U0N1EnOde+Q3F6W+wGJjK4y/gQj2UpkassyEu7RWFgaA7cr8NYPLaolmJ2EHf5zH50PQy12q4/0PhscJEhm1gevAaHaH13HZC1+7fk92+KzaFG/bzgfhE2VHjFERcbFdfYNfsex2JChp8mCF3f+DVnF9WZn8+RYImxr0FvYahn5zLcHeTsuYxjS77BXc2xF3cxRYVWMXJYTMcthJGORiXDO9oqI35cDz7NWIvTUr48LWnyaKJHmoZYTnZK69IfzBpGjbCYUxsRwKfYN1AzpLSkUY2W0KtP6YWGa+ViNjQ1ZISseC7ZsmoqvZiayFXASQE0YsfJJiaWV1x1jtw=;NKVp0OzuVS+Jd0HNWAHv6Q=="

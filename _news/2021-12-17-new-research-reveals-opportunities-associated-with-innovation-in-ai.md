@@ -57,6 +57,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Will technology SMEs and start-ups soon be involved in AI regulation and standardisation?"
+    excerpt: "In a press release published last week, France Digitale, the French Association for Standardization (AFNOR) and the French General Secretariat for Investment (SGPI) announced a new partnership allowing startups and technology SMEs to participate in the debates concerning the regulation and standardization of artificial intelligence in Europe."
+    publishedDateTime: 2021-12-20T09:07:00Z
+    webUrl: "https://www.actuia.com/english/will-technology-smes-and-start-ups-soon-be-involved-in-ai-regulation-and-standardisation/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 28
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/12/afnor.png"
+        width: 779
+        height: 374
+        isCached: true
 
 secured: "wwXajymwzp7nUelyM+thP5BbZQxRB4y6Nw8I+oKZJTj+JLKyNSwMOG8ffwLCaJcoUlUsMdTaCSpuwBBDzcfRMhDZkqaVYLq9kzoM9ReWkm/8mgaukj/iYAvYYC5ZsS1+iyjoMPGyGRxzTfsUZg9qCgIxiikmwgNmhO9XJvG5M3fRdnqJkKEM73PCW08uGHGsB30ybZ2+qBntIERP6JvNLGytsS4OpmzV6uJANJIK3TBJqXCQUiB9wVuCk8NGSug0JOgb7Jx2lWovdkwS245hkOIJeGH55FTSvx0+rxlyyi1gkZsL7aoaGc6W1oJtxiUrSqCdjjgHkcFxiSAa3Rem/X4yLyBNnqiVheRYYOUqa4U=;C01jaycsiQPjQWykqSn8Og=="
 ---

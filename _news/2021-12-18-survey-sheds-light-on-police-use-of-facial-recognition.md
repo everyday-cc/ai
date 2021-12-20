@@ -55,6 +55,34 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
+    excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
+    publishedDateTime: 2021-12-19T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
+    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
+    publishedDateTime: 2021-12-19T19:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
     excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2021-12-16T08:12:00Z
@@ -97,6 +125,17 @@ related:
         width: 291
         height: 291
         isCached: true
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
+    excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
+    publishedDateTime: 2021-12-20T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    ampWebUrl: "https://www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
   - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
     excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
     publishedDateTime: 2021-12-17T12:26:00Z

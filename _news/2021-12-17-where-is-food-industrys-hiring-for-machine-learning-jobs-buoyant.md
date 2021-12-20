@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 804
         isCached: true
+  - title: "Asia-Pacific sees hiring boom in apparel industry machine learning roles"
+    excerpt: "Asia-Pacific was the fastest-growing region for machine learning hiring among apparel industry companies in the three months ending October."
+    publishedDateTime: 2021-12-20T10:51:00Z
+    webUrl: "https://www.just-style.com/features/asia-pacific-sees-hiring-boom-in-apparel-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 38
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_435613807.jpg"
+        width: 500
+        height: 355
+        isCached: true
 
 secured: "0AxW9iLnDRaMR2SOmCazHzq7nfr+Mjt/1GKH0JnKhfdlbFHbCGsI6c3vnoYZmbwRuviyIr6cmgqZ2d4qSsCAwZpAr0dYU47F9D5e8smh7rGfu/L2JdlG73icKc3gNEyBDHwk2LBevjLZ/6gsltHeMOyheuUdBQDcov/73LhHSXt1mjkQBPvMJnLQBakqFU5NLh72d4M0rKX1TpUHFhlJ227c5C04CiX2VOVskqhLeDqe2Ai/moQ/gL5i1pf1ZkWqc/LtMHlT56/l4UNNjVlxxzLzGqpgxMEBK7Xu+axPOascnm7xIJWpqItIUHD62C5Qw6FUapEnMr9nl39qtptSbksF1yP3qdR471XR51d0oPBFDi9MyFmXBDhCzHHmDfQVnWB4zsAeuhOIYOvJRC6wvvPzlP5mPdt1rwgQNObBxgM7yWrABbhJ7TjVj+A/XEOlNd19ubjMIE9WfYQUtDaGZM6IMWfSyJ8T8H0HZJ/cgazjHLC1D8YjtTqowa1XpuaMNI8c6r2jxliS2XRSm7rGGw==;xWP5xIEqXokRisoAz97RKw=="
 ---

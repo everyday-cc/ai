@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-h
 webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 type: article
 quality: 86
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "2021 in review: AI firm DeepMind solves human protein structures"
-    excerpt: "DeepMind announced that its AlphaFold model had worked out how most of the proteins in our bodies fold. Pushmeet Kohli tells New Scientist that there is more to come"
-    publishedDateTime: 2021-12-15T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/"
-    ampWebUrl: "https://www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25233651-900-2021-in-review-ai-firm-deepmind-solves-human-protein-structures/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/14115744/PRI_2139177911.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "87jiPy7LRFA+E5/8d7/sR3NU0df4LEeC+IWV8rT6IsIuszLX1bFN8j/ZQ3xCxmSnu5KL+qrU2oxvUUKi1ubOwhj/Tg5SnaF0lpcHIgCf1TJNSuUbPfgXs3Kta4iTxYGLRVwJt6vOuvt8ZI1PEAUM+CQd2sBD8g20npbRbHE+454+BW5iCT+JgViQQibd2kXZ3rnfwlNPJXLKqGFXYd64eXEmX6bjDfFRtVHWLVRaXwqP3cUz/X7CZZM09Lp0smpq3LeSXKbyB/JGz9kvwS26AGtqh08PzRfzI2LTBhyTChwE6esQAnZJDwj265hCPuISLIef7v83utXUmwyadwAyNizwGEh+RjOAsS8uj94lxX+7h1AD4BOuRPbjBTblldnjtA/EYlhywJlOtLCY95JQ8qi9u0bwZseowiJu5PU6Re2/0hYeu9rkV3BIIqD1Ll3KntU7w2rMNXSgfqtmpIuLCooDb9cliYuUSfyFa7Deb0ucjCCxIQMdrEm1TlVaJbVqHdKOBN3K6xmFccFgRDpZFQ==;bH43Ysnt5OyT8oGjOKj4vw=="
 ---

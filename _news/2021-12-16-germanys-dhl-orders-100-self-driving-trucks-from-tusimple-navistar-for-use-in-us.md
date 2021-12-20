@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 539
         isCached: true
-  - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
-    excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
-    publishedDateTime: 2021-12-15T18:20:00Z
-    webUrl: "https://www.cnbc.com/2021/12/15/bernstein-says-self-driving-trucks-are-coming-highlights-3-stocks.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 39
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "DHL orders 100 self-driving U.S. trucks from TuSimple and Navistar"
     excerpt: "DHL said it is looking forward to deploying TuSimple's driverless technology across multiple regions outside the U.S. in the future."
     publishedDateTime: 2021-12-17T10:01:00Z

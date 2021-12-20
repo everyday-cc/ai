@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Qatar - Artificial Intelligence has massive potential to diversify local economy"
+    excerpt: "Doha: Artificial Intelligence (AI) has massive potential to diversify local economies in GCC region, helping countries to lower dependence on oil and gas production. Qatar has already started to harness AI to its advantage."
+    publishedDateTime: 2021-12-20T10:00:00Z
+    webUrl: "https://menafn.com/1103401488/Qatar-Artificial-Intelligence-has-massive-potential-to-diversify-local-economy"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/TP_a71b9image_story.jpg"
+        width: 613
+        height: 460
+        isCached: true
+
 secured: "wowF1Go9fxREX4mHEIf/JLTJLVEuPJV3qAjO1fC7smjqfUW61Aq2I5Mahn9ABQpU3uBgUUEevW5Ympkw/SMEuYUjVOccOM4c6RpEOAX6TpD5WpRv9chBELJndynhbJwx+wz54AXdDA1gU7P+qBFJQWAfE/HCaH/ww+oK0VaSykwE0Mb45uY1RWHs7bjFZslsWAZsPb++0xV7i6Uqsc29ja9C9IcoNZjEaMTnQQLMjGvYJGw4K5shkd9j7u8EOU3ERiFp/ENTkBhBAh/0D4TNHffuiBwgiNV0NZfureuWNe21pvdlkY+gJp5tJce9QzSRgyJABnKb8ocUIgt2qKvyKZK9Xri+ALhQdI7JzEF+2zUZG4ubKxQ95xGrVfYbId5mQMCgnpaeqtGcn/IK//Ab7n/fNVvMtg8xxGzfFXCNdJRmvX8NcYGhrZhjblHffQhZVNU5Y1ei6Gw/8NshP2spCi6tEanOxdg0C7PgfydX8pukFhZLFBVjaKQRKynAKeHD9TFGKYewWvApZhRAl0RaMQ==;etwD0oActARIbIfutZi22w=="
 ---
 

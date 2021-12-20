@@ -34,20 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "3 Things About Nvidia That Smart Investors Know"
-    excerpt: "To gain a deeper understanding of this complex chipmaker, we should analyze three finer points that only smarter investors have likely spotted. The bullish thesis for Nvidia in the data center market is easy to grasp."
-    publishedDateTime: 2021-12-15T18:45:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/15/3-things-about-nvidia-that-smart-investors-know/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/657446/image1.jpg"
-        width: 3200
-        height: 1800
-        isCached: true
   - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
     excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
     publishedDateTime: 2021-12-16T21:03:00Z

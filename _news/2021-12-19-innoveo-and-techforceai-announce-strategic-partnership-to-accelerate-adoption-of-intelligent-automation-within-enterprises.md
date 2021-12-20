@@ -36,22 +36,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "UNESCO Forum on AI and Education engages International Partners to Ensure AI as a Common Good for Education"
-    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
-    publishedDateTime: 2021-12-15T17:07:00Z
-    webUrl: "https://www.zawya.com/uae/en/story/UNESCO_Forum_on_AI_and_Education_engages_International_Partners_to_Ensure_AI_as_a_Common_Good_for_Education-AFPR151220212782/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR151220212782/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR151220212782/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 58
-    images:
-      - url: "https://www.africa-newsroom.com/files/large/ef4fd0d8777c22d"
-        width: 673
-        height: 573
-        isCached: true
   - title: "Will AI Destroy Education?"
     excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
     publishedDateTime: 2021-12-18T15:18:00Z

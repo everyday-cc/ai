@@ -61,22 +61,6 @@ related:
         width: 437
         height: 450
         isCached: true
-  - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
-    excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
-    publishedDateTime: 2021-12-15T18:15:00Z
-    webUrl: "https://www.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-news-52302.php"
-    ampWebUrl: "https://m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/dimensity_9000_tops_ai_benchmark_leaves_google_tensor_and_snapdragon_888_in_the_dust-amp-52302.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 52
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/21/12/dimensity-9000-tops-ai-benchmark/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
     excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
     publishedDateTime: 2021-12-17T05:18:00Z

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 804
         isCached: true
+  - title: "Asia-Pacific sees hiring boom in apparel industry machine learning roles"
+    excerpt: "Asia-Pacific was the fastest-growing region for machine learning hiring among apparel industry companies in the three months ending October."
+    publishedDateTime: 2021-12-20T10:51:00Z
+    webUrl: "https://www.just-style.com/features/asia-pacific-sees-hiring-boom-in-apparel-industry-machine-learning-roles/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 38
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_435613807.jpg"
+        width: 500
+        height: 355
+        isCached: true
   - title: "Where is food industry’s hiring for machine-learning jobs buoyant?"
     excerpt: "Europe was the fastest-growing region for the hiring for machine-learning roles among food manufacturers in the three months ending October, GlobalData says."
     publishedDateTime: 2021-12-17T15:04:00Z

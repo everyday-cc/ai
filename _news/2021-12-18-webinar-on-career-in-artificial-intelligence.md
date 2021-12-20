@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
+    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
+    publishedDateTime: 2021-12-19T22:27:00Z
+    webUrl: "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 38
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai’s Artificial Intelligence"
     excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
     publishedDateTime: 2021-12-20T08:50:00Z

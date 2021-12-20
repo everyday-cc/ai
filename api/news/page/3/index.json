@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-16-datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment.md",
+      "title": "DataRobot’s DataRobot Core aims to accelerate AI system deployment",
+      "excerpt": "DataRobot 's new DataRobot Core platform is designed to deliver improved AI design tools to enterprises in a range of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cc9cf1dd-062b-48eb-9b71-9332024facbf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-elementary-raises-30m-for-ai-that-automates-physical-product-inspections.md",
       "title": "Elementary raises $30M for AI that automates physical product inspections",
       "excerpt": "Elementary, a company developing an AI platform for automating physical product inspections, has raised $30 million in venture capital.",
@@ -320,7 +371,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/16/tusimple-draft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -424,7 +475,7 @@
       "originalUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -562,7 +613,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1203,50 +1254,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
-      "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
-      "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg",
-          "width": 3942,
-          "height": 5905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24614006",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614006",
-      "publishedDateTime": "2021-12-15T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
