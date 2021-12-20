@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-per
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered business intelligence platform Signal AI raises $50 million"
-    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
-    publishedDateTime: 2021-12-15T13:12:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-business-intelligence-platform-signal-ai-raises-50-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
-        width: 960
-        height: 545
-        isCached: true
   - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
     excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
     publishedDateTime: 2021-12-16T15:06:00Z

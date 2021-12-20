@@ -101,17 +101,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Top 3 trends of software development for FinTech"
-    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
-    publishedDateTime: 2021-12-15T14:16:00Z
-    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
-    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 24
   - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
     excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
     publishedDateTime: 2021-12-16T16:19:00Z
@@ -139,15 +128,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "HEPRdwvSuUsjnfyerpK27u6EMCFXUgKNmxO1oMUn4aHNSLT7725NWVOBGZK/BVkVF4F9p0kxlaptMKM8LfHb7shF0RHIOVeyWofV0n9ocveUdidymzUcm4bzfpSHZ8IF2hnO2hdqN4o7bAzPVcVDb1jIWFwHP3kaXeCwRj4FOl9aQ3bBCL48Ab8Y5KVsZ4fiuGHCMVWSzmB91e2JUm/z+T9DPa1m4vPomvD9L7Xy59iRWStrukZBkhHNi0W4UqZy0sXrz6oJQWDeaziqkdCYOieo3SeHzOlyk4/gVv1kvHcCIbHUEq8+kbUZnfFIgVHrEbf4YXOIEELzx7mJFgVJ0lAlhi172KzOQvDnEMLVEzw=;JOeLrvOwXh83kU05ltzM4w=="
 ---

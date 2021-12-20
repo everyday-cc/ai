@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
 type: article
 quality: 58
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suspends Pony.ai’s driverless permit after crash"
-    excerpt: "California officials have suspended the driverless testing permit for Pony.ai, an automotive startup developing self-driving technology. The move came after a Pony.ai vehicle operating in autonomous mode was involved in an accident in the city of Fremont,"
-    publishedDateTime: 2021-12-15T13:33:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17537/california-suspends-pony-ai-s-driverless-permit-after-crash"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 54
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/537/17537/Beijing_Driverless_Photo_1.jpg"
-        width: 752
-        height: 501
-        isCached: true
   - title: "Intel's Mobileye Puts Its Self-Driving Cars to a Stiff Test: Traffic in Paris - Bloomberg"
     excerpt: "Mobileye is piloting a robotaxi service in Paris that’s ferrying employees of one of the French capital’s most famous department stores to work. The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system,"
     publishedDateTime: 2021-12-16T12:00:00Z

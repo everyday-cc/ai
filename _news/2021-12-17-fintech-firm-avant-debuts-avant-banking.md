@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -87,17 +87,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Top 3 trends of software development for FinTech"
-    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
-    publishedDateTime: 2021-12-15T14:16:00Z
-    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
-    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 24
   - title: "Hong Kong’s FinTech Sector’s ‘Wine Valley’ Moment"
     excerpt: "Top fintech scale-ups such as WeLab, One Degree, and Aqumon, as well as so-called “tech-fin” start-ups such as the likes of AI company, FANO Labs, can all trace their funding to these major investors. The Hong Kong SAR government’s own Innovation and ..."
     publishedDateTime: 2021-12-16T10:12:00Z
@@ -139,15 +128,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "aPt67FiUUpYLdbJ1KmoC2okfbMtSM6jZXvqGpsP+UXwJh5T78lo9JmNarJ3HeXAEXf1d8Rt66cV/4ksXnfrlTmTVEjy5Fp58GpSqXJpSSOpRqQyO4IBOuKcsAebIUpja9myDrFNPog4oEvH1yfKZT8FPiCsbR5mY8CuxIMR5EP1OTvIK60NnIUY5moZ6GnwC4RubHGzeK1H480Pamo4uqtVSuOgHVu/pTYVrP3c1Mj3FjH6iUkxlPDZYMOKq3Ir/XCGgEcY4WN1XkBOMhDc6/5XcHcuxQM3ePnmGl8oGvPZ9lqMkrcFLvhuNd6DWAYRa3yj8s8QQDCBYr7diR595TUhLVyKFHmDf1V56cc80gkn0fu7xj/ql1YAWWuA/pJA1N3DZt5Ju0Rfsnjov5EACBlUUGQm9TXnjbYLxhBFUYhTzOHT5MyMke/58TODSXFeWtvszJUwGUak7sbRo7AjbxfQ1r2TWTscFUE+qHNpLecLhBOmqHS8Kctngp1IyCXQScFuwEXy2mWQuTlGn+VFf3Q==;H/YHmkA00MxfGqh3ki8sZA=="
 ---

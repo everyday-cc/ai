@@ -79,6 +79,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
+    excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
+    publishedDateTime: 2021-12-20T06:43:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars-41639977703436.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 40
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/20/600x338/American_Auto_1639981171450_1639981180872.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
     excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
     publishedDateTime: 2021-12-15T18:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-facial-recognitio
 webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -182,20 +182,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 12
-  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
-    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-12-15T14:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=588603"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "09jVrEDYyyAj6xgB93eVi1K247XrmDgtPmEBej/Lq5s2gqLBVJpY39O8Cu2fGpVa2EvSNy1iHIZK5JeNCKAGzbqfcWObTkQsdN8KJS4k0sF6+sQq0vWoE1uYCk3os/YNPYTNxdxPubCAGDpjgXtbR0u7HZTCWh25WBsf/iKImBheEMglzIedVxvb66cXj5h+b/s04EnrGCU3vaQqflvjLK2/HTJhwF0Nxa9x+ZlP6A3c/9o5mCDYDYhWYLbNjsO8a44nnIN3tzn0oZBoIphwA56Ke6q1UjgJsVRGd0lmuRFKgx2hTW4VEi9keYQd+ZNBbZOWNL3qN4ODkgel+qgPXKmMTo3oVwjc3Mk/SV/wEm0=;e8v8ARmiW1Hjo0XX4YA62A=="
 ---

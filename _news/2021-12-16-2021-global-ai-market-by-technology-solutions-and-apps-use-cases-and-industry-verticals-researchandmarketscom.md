@@ -178,20 +178,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 12
-  - title: "United States Automotive Virtual Assistant Markets Report 2021-2027: Text-to-Speech / Gesture Recognition / Speech Recognition - ResearchAndMarkets.co"
-    excerpt: "The \"United States Automotive Virtual Assistant Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States automotive virtual assistant market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-12-15T14:39:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=588603"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "iN3fCyVJ6R6hiO8lIpK1l2P1yfnQgMu8LFDyGuaCoZdt0rioA7dqU3oPmLoC+CQFbIyU4p1+1LZuxywbXevqehVszuAuN853mcbIs0t7MJQe/QoQm95/SVbd9ECli0QQ2ZAsBoSsXixWGr9s8AAahk4F16lMZhuf3OT+bGcoic9R2eiECibgg+/rtwYKBEhaE8IXnPmLMrWtrIg1bqg9IEJElB9rRIhVgWviruOfSbrhd+Xdyy4ts5oHtKGdQpokVNqS2Falqt/kYfnmVuwumpzbH0MPYSIwXi2U3X6TpiAOPWTsS5lf321TUbtphswRupsP1O2yUyIriuemtf18ZpJpINrqQEkTZODgFDi3SF8=;q/Ud/Q/Ob0CRANc43Uf+Ew=="
 ---

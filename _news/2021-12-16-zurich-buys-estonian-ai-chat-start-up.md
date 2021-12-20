@@ -38,6 +38,20 @@ related:
         width: 2880
         height: 1680
         isCached: true
+  - title: "Zurich Insurance Group to Acquire Estonia’s AI Firm AlphaChat"
+    excerpt: "AlphaChat’s customer service automation technology will help to enhance conversational AI capabilities at Zurich Insurance Group."
+    publishedDateTime: 2021-12-20T06:57:00Z
+    webUrl: "https://fintechnews.ch/baltic/zurich-insurance-group-to-acquire-estonias-ai-firm-alphachat/50853/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 37
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Zurich-Insurance-Group-to-Acquire-Conversational-AI-Company-AlphaChat.png?x30842"
+        width: 1229
+        height: 682
+        isCached: true
 
 secured: "sqJnyo36L8rDuebrZJlcfhCrBI6ntAI/kHc7Cbuo3+aCRBbKLYEuoNlp+4FKLXqQcvvYoWrMztEcImA5yFEMk+hSDlbFfCON5SWx/XC5GoopdawQ0hpTVpoOvs12D+naIepC5CD54Fnyu2MYE7iJbCPhsby+gi1lg/uJvr5A8BckrULkW9jdAXUU1g7w4CiNOxW0D0TiLXQNuSXKIVecAvuSe3aYOYTr9tO7QRxRnODHwJQFlxVMOTicwB97Pey4hm4PV3L7h7mKXA7OsK7hctkCtnhMAUpZZjCDu/oKAqn3UiDC5gYoob5BPB6zzuIhl4PEyZB3XrmldS5QFb+faLrh+cJ0mM8kafrCeOOAtrU=;u28x669vFpHNOAfyU8ieSA=="
 ---

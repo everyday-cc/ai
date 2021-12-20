@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-11-11-unis-are-using-ai-to-keep-students-from-cheating-and-its-a-bit-creepy.md",
+      "title": "Unis are using AI to keep students from cheating and it’s a bit creepy",
+      "excerpt": "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication",
+      "originalUrl": "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-3.jpg&signature=487768bc4975bf0afe78f27dfbc5d074",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-ai-chip-startup-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation.md",
       "title": "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation",
       "excerpt": "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships.",
@@ -1088,49 +1140,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-ai-in-fintech-market-to-surpass-468819-million-revenue-by-2030-says-ps-intelligence.md",
-      "title": "AI in Fintech Market to Surpass $46,881.9 Million Revenue by 2030, says P&S Intelligence",
-      "excerpt": "The global AI in fintech market size is projected to increase to $46,881.9 million by 2030 from $7,702.7 million in 2020, at a 19.8%",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-in-fintech-market-to-surpass-46-881-9-million-revenue-by-2030--says-ps-intelligence-301420753.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-in-fintech-market-to-surpass-46-881-9-million-revenue-by-2030--says-ps-intelligence-301420753.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook",
-          "width": 1498,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

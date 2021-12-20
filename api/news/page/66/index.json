@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-10-29-ai-selects-promising-viral-vectors-for-gene-therapy.md",
+      "title": "AI selects promising viral vectors for gene therapy",
+      "excerpt": "US researchers have developed a computer platform that decides which viral vectors are best suited to delivering gene therapy to the retina",
+      "sourceUrl": null,
+      "webUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
+      "originalUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aop.org.uk/-/media/ot/content-images-post-image-optimisation/2021/science-and-research/research/bluedna.jpg?rev=742f631c269645dc8c97a3abd72b2a7c",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Association of Optometrists",
+        "domain": "aop.org.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-chinas-baidu-is-turning-production-vehicles-into-robotaxis-with-its-factory-installed-autonomous-driving-system.md",
       "title": "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System",
       "excerpt": "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care.md",
-      "title": "AIRA Matrix collaborates with MPUH and GIC to develop AI based solutions for prostate cancer care",
-      "excerpt": "AI will help doctors in accurate risk stratification and staging to guide selection of the right therapy in patients of prostate cancer",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "originalUrl": "https://www.expresshealthcare.in/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/13170341/GettyImages-1159401925-e1584099401774.jpg",
-          "width": 888,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "publishedDateTime": "2021-10-28T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -66,17 +66,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data"
-    publishedDateTime: 2021-12-15T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24624205/rockset-wins-coveted-2021-datanami-readers-choice-award-for-top-data-and-ai-startup-and-editors-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24624205"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24624205"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "wLn0/o36wzg/y3Av5PwDXjQ2ghB0U1DUcWKOXx2uVJz7TznP71K2QjHt8IYxPXajbRZJ34b6f3lx77b5W4DgHnlHsbyHnkoarvKC4oYbTzQ6CQ/gIYz8wiPkc+1qzLzUkm5gxUrZoNNHfn4djpNDvampiQTaJ0Kdcf4fbD7v5PkusPmOieL/5mOykPAhE6C1W3j+sIIlQpdUcfPAW91Zl0RktXeGltoV2vp5b986lIOw1FPLha9GMbWkCwEmMbHk41jhmqJfF6WiE/rHvPaMF8IHtrbgLyqmN8OcG5oyuhyCdBdtPR4GzLh6/jQukpeUGde0foF+aS6r6g6aNBuspCSOeWs+kZZ8CXltGnnIBIM=;WhovaN4ZHKV0DwXcUkkVtA=="
 ---

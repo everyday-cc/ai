@@ -93,6 +93,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
+    excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
+    publishedDateTime: 2021-12-20T06:43:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars-41639977703436.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 40
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/20/600x338/American_Auto_1639981171450_1639981180872.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Apple Patent Details Exterior Lighting, Warning Systems for Self-Driving Cars"
     excerpt: "The US Patent & Trademark Office (USPTO) has today published a newly granted Apple patent titled “Exterior Lighting and Warning System,” that details controls used in steering, braking, and accelerating an autonomous vehicle (via Patently Apple )."
     publishedDateTime: 2021-12-16T18:54:00Z

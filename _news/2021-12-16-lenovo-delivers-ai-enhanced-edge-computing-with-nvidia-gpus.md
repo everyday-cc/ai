@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-compu
 webUrl: "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hands-on Machine Learning with AWS and NVIDIA"
-    excerpt: "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs."
-    publishedDateTime: 2021-12-15T14:41:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 66
   - title: "Nvidia brings AI perception to ROS developers"
     excerpt: "Nvidia brings AI perception to ROS developers December 16, 2021 by Mark Allinson Leave a Comment    Nvidia has unveiled initiativ"
     publishedDateTime: 2021-12-16T13:09:00Z

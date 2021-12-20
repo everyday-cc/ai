@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1"
-    excerpt: "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s"
-    publishedDateTime: 2021-12-15T14:52:00Z
-    webUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/"
-    ampWebUrl: "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png"
-        width: 1024
-        height: 497
-        isCached: true
   - title: "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000"
     excerpt: "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more."
     publishedDateTime: 2021-12-16T11:58:00Z
@@ -91,6 +75,36 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
+    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
+    publishedDateTime: 2021-12-16T07:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
+        width: 340
+        height: 400
+        isCached: true
+  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
+    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
+    publishedDateTime: 2021-12-17T05:18:00Z
+    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
+    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 52
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MediaTek Dimensity 9000 Benchmark Reveals a faster CPU than the Snapdragon 8 Gen 1 but a slower GPU"
     excerpt: "MediaTek has taken a risk by releasing a video of a Dimensity 9000-powered device running a variety of popular benchmarks, effectively throwing the"
     publishedDateTime: 2021-12-17T14:35:00Z
@@ -107,17 +121,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Dimensity 9000 Vs Snapdragon 8 Gen1 – See all the running score comparison"
-    excerpt: "Since the official release of the Dimensity 9000 and Snapdragon 8 Gen1, there has been a consistent tussle on which of these chips is better."
-    publishedDateTime: 2021-12-17T11:44:00Z
-    webUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/"
-    ampWebUrl: "https://www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/17/dimensity-9000-vs-snapdragon-8-gen1-see-all-the-running-score-comparison/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 22
   - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
     excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
     publishedDateTime: 2021-12-16T14:20:00Z

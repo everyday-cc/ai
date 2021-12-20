@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-children
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
 type: article
 quality: 57
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta develops AI to bring children's drawings to life"
+    excerpt: "Someday, an AI system could take a complex drawing and then instantly create a detailed animated cartoon using multiple fantastical characters interac.."
+    publishedDateTime: 2021-12-20T05:20:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88383811,imgsize-41518,width-1200,height-628,overlay-etbrandequity/meta-develops-ai-to-bring-children-s-drawings-to-life.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Protecting Artificial Intelligence Inventions in Drug Development"
     excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."
     publishedDateTime: 2021-12-16T19:12:00Z

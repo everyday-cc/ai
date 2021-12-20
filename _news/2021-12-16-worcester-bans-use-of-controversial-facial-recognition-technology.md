@@ -27,20 +27,6 @@ images:
 related:
   - title: "Worcester bans city use of facial recognition technology"
     excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
-    publishedDateTime: 2021-12-15T13:52:00Z
-    webUrl: "https://apnews.com/bcaec3139f334a49e512ab8071513e43"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worcester bans city use of facial recognition technology"
-    excerpt: "Worcester has become the latest local community in Massachusetts to have banned the use of facial recognition technology by its city government."
     publishedDateTime: 2021-12-15T18:10:00Z
     webUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/"
     ampWebUrl: "https://nypost.com/2021/12/15/worcester-bans-city-use-of-facial-recognition-technology/amp/"

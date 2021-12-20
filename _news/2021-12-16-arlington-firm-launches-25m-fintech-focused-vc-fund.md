@@ -95,17 +95,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Top 3 trends of software development for FinTech"
-    excerpt: "FinTech stands for financial technology; it includes the integration of technologies such as mobile apps, online banking sites, and self-service portals into the insurance, investment, economic and banking sectors to replace traditional banking and face-to-face communication."
-    publishedDateTime: 2021-12-15T14:16:00Z
-    webUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/"
-    ampWebUrl: "https://ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/15/top-3-trends-of-software-development-for-fintech/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 24
   - title: "Hong Kong’s FinTech Sector’s ‘Wine Valley’ Moment"
     excerpt: "Top fintech scale-ups such as WeLab, One Degree, and Aqumon, as well as so-called “tech-fin” start-ups such as the likes of AI company, FANO Labs, can all trace their funding to these major investors. The Hong Kong SAR government’s own Innovation and ..."
     publishedDateTime: 2021-12-16T10:12:00Z
@@ -138,15 +127,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Modern Bookkeeping Fintech Zeni Expands C-suite With Key Executive Hires"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of Customer Success and Collin Cadmus as Chief Revenue Officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T14:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-modern-bookkeeping-fintech-zeni-expands-c-suite-with-/2021/12/15/9512037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "HI4tHgx1+lCerSCus2tdKB6O/3tbpsEnsLmWTlei/G3o00squEIFs/8MtGghfsbvibpjEwm4UC8T31i4IHqzDjnv05+WWO2p/jrA0W/2d93CFi7O7C8s6bwu6xmauC1iLz9qwcvY++NrBwNsaIqihy/wnVABWNVXQ/nCFdSZrA23X8etfHUE/NqDiD9wvyzsEo73dq//gvmOEaV1nOfr7qbg1cVgvWKNfogI7iYnrU3AagJDJQqrvIBtNjnTwBxhcyLCMIriGZgWt19AWmqJSVUbXJ9ALJrYZMXhlIqh5T89GbLy+mKSrAsRX8BZ1Joo5Yj83SAPjolE+SkC2cKZ5bcMmcArGLI4p0nJSBSm7foQy23Ht4TaiSBHcUUWZBE52mTtybzKiZEBN6NxcvqODh35M47DVKvBlBlK0J+FlxmGTifjy9PW1P50tiqpePai/SmhBvmEC3GT8NtIF1xD6chxPQJETV/tZ3n8OKjT/ufyltFTST/IY7gZjeF8CDPiPfUkK0w76lyc0bjEG+ohcA==;wU5J3K5J0erd/7otR1bqSg=="
 ---
