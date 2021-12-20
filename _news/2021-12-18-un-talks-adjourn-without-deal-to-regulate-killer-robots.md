@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a rece"
+    publishedDateTime: 2021-12-20T14:41:00Z
+    webUrl: "https://menafn.com/1103404127/UN-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/TC_cf22bimage_story.jpg"
+        width: 1443
+        height: 1057
+        isCached: true
   - title: "Killer Robots: Military Powers Stymie Ban"
     excerpt: "Major military powers are preventing efforts by a majority of countries to prohibit autonomous weapons systems through a new international treaty, Human Rights Watch said today. On December 17, 2021,"
     publishedDateTime: 2021-12-19T23:01:00Z

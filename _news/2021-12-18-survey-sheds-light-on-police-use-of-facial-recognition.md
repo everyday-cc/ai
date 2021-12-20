@@ -25,91 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027"
-    excerpt: "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-12-16T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
+  - title: "Mainstream adoption of facial recognition can have sinister consequences"
+    excerpt: "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans"
+    publishedDateTime: 2021-12-20T14:15:00Z
+    webUrl: "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
-    publishedDateTime: 2021-12-16T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
+  - title: "Facial Recognition Candy Dispenser Only Gives Out Treats to a Chosen Few"
+    excerpt: "Vladimir Janjiš found a candy dispenser on Aliexpress, which features contactless hand detection via an IR emitter/receiver. While a neat device, this wasn’t quite good enough for Janjiš, who augmented the dispenser with an ESP32-CAM board for facial recognition."
+    publishedDateTime: 2021-12-17T02:32:00Z
+    webUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7"
+    ampWebUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: Hackster
+      domain: hackster.io
+    quality: 58
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
-        width: 640
-        height: 480
+      - url: "https://hackster.imgix.net/uploads/attachments/1386311/_px1buzoma2_blob_copy_dnaqh34Atw.jpg?auto=compress%2Cformat"
+        width: 1020
+        height: 573
         isCached: true
-  - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
-    excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
-    publishedDateTime: 2021-12-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
+  - title: "Our casual use of facial analysis tools can lead to more sinister applications"
+    excerpt: "On Dec. 14, the governments of British Columbia, Alberta and Québec ordered facial recognition company Clearview AI to stop collecting—and to delete—images of people obtained without their consent. Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations,"
+    publishedDateTime: 2021-12-20T12:17:00Z
+    webUrl: "https://techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
-    publishedDateTime: 2021-12-19T19:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 40
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
-    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-12-16T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition helps shelters reunite lost pets, owners"
-    excerpt: "Once you upload a photo and click search it will bring up a gallery of animals that have been found near you, that look similar."
-    publishedDateTime: 2021-12-15T21:45:00Z
-    webUrl: "https://www.wfmz.com/news/area/berks/facial-recognition-helps-shelters-reunite-lost-pets-owners/article_2b8f0198-5df1-11ec-a42f-2feac7090d8c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/61/861d51f7-c3ef-58c9-b53e-df25111ca989/61bb85c63a3c3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/our-casual-use-of-faci.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Tag: Facial recognition tech"
     excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
@@ -125,98 +85,20 @@ related:
         width: 291
         height: 291
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
-    excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
-    publishedDateTime: 2021-12-20T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    ampWebUrl: "https://www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+  - title: "Our casual use of facial analysis tools can lead to more sinister applications"
+    excerpt: "Facial recognition technologies have become more popular through increasingly sophisticated devices and popular fads. Casual use of face scanning and analysis features has long-term social impacts."
+    publishedDateTime: 2021-12-19T11:14:00Z
+    webUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tools-can-lead-to-more-sinister-applications-172595"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
-    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
-    publishedDateTime: 2021-12-17T12:26:00Z
-    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
+      name: The Conversation
+      domain: theconversation.com
+    quality: 20
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
-        width: 800
-        height: 450
+      - url: "https://images.theconversation.com/files/436482/original/file-20211208-15-o4dnpg.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5081%2C2540&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
-    publishedDateTime: 2021-12-17T15:25:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
-    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
-    publishedDateTime: 2021-12-19T20:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
-    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
-    publishedDateTime: 2021-12-16T10:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2021-12-16T13:57:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=589401"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
 
 secured: "zmLYRD5yTAo6eHGN3V4BVbwXx+aqSTgJS74BMm295pg3XpV+a53zn4ygIXbTvfsHi2tpuRgCZX1bK/um+ki1k860Z8wQ7vFo8p5y3uUIvenp2HuiBcN5Ls5l5O8dmQlEeXVilgUo960clNhX3vHVXuJ9/c/CDXestrIInNf/OFIxSKYAj8Yz2vnCuPz9qYw4pt/q2/h7ND8PbjkWq5KLQCy5qe0sQpKH1fky5VLkQo+5SFpSNUL0v3Yrv4LvDEnF6HuSGPY9lV9iIQu4M18cqbLIaUGhyNCZrQZBzxoVWMJD0ilUmaQ5zSYUiVkKVtzE7pDxMaxvToZpQm30oZefhInWDsge/IsmYyDzz2KAQiI=;Zk8BQr/YGOmsKG2oOJQsfQ=="
 ---

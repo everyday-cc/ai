@@ -34,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a rece"
+    publishedDateTime: 2021-12-20T14:41:00Z
+    webUrl: "https://menafn.com/1103404127/UN-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/TC_cf22bimage_story.jpg"
+        width: 1443
+        height: 1057
+        isCached: true
 
 secured: "nBrFqSaAUSFpbqZLdp1EKbXn3r77tNbGgd6SQjMtOqC2R8MAKmmQY9aBNVAmOZuNidVLD6fAwEq6+WjXMalNE5UhitcAp/aSsEXlLy9pABiUq5lKJlkJVVHuxcXGNdg4L0nYKVBunIU5rB7yqI1txXxPuNuDLFNK0l1OQrEzvlabvsff3S/Chd9o90SuM1Sfccxl3h9Z2pPKktGsJMZtnOrB+hUifEeUhmb9CN1k2ky2Yp4oFgk33qAD1DRsZF0PpAl552Rhvr4/nxQBOSpntxme+yHW49LSodjODq9ItPGHH8SJjNbOcn1jocGbt3J7B15oV43bzb54b8ET7MHmW/Uq2Aj1fDW5tG8pEWaF+qxslX0dQZyzW8my8dRdyyhGo93et6VofAcExH4wbSTFxw7WmZMHmO4Ptdubd5LuaIAkDnZYBOG5DjgrAbLM4/OWHDGyQgPqRJV+anmV87fP+atgoDxxesaRTpdo6nv4W0PmH4C11Z4jxuvZoRrnCvBz/dyakYtUVJ2CoVZJVVhMIw==;t+2oQ5GduZoj6Pep+zl6jw=="
 ---

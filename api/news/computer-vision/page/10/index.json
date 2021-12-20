@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-14-should-facial-recognition-software-be-installed-in-schools.md",
+      "title": "Should facial recognition software be installed in schools?",
+      "excerpt": "Lawmakers are looking at another issue in school, facial recognition software. The ACLU is launching a week of action, asking legislators in the state to pass a bill regulating the use of facial recognition in schools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
+      "originalUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
+      "publishedDateTime": "2021-09-13T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-boba-tea-startup-bobacino-looks-to-incorporate-facial-recognition-payment-system.md",
       "title": "Boba Tea Startup Bobacino Looks To Incorporate Facial Recognition Payment System",
       "excerpt": "The demand for low-touch concepts and solutions that align restaurant trends caused by the pandemic has led to much interest in Bobacino's business model.",

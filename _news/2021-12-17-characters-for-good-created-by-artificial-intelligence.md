@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-16T21:45:00Z
 originalUrl: "https://news.mit.edu/2021/ai-generated-characters-for-good-1216"
 webUrl: "https://news.mit.edu/2021/ai-generated-characters-for-good-1216"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202112/ai-characters-for-good-mit-A1.jpg"

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai’s Artificial Intelligence"
+title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
 excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-publishedDateTime: 2021-12-20T08:50:00Z
-originalUrl: "https://www.publicnow.com/view/6AFC92A9CC098EF7537FFC5F881D218A558C3569"
-webUrl: "https://www.publicnow.com/view/6AFC92A9CC098EF7537FFC5F881D218A558C3569"
+publishedDateTime: 2021-12-20T14:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: publicnow.com
-  domain: publicnow.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -150,6 +150,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "6Sv5bFM3f2/4TGR66nTxV+rAvVHRZ8IspqOXW6uqVnNXyw34pSWtDgdksogzNWiPQiJnOr2/zGv8O/rkkFU4DBvK9youZudorGZqTKR/pWe4xB0FqGUQNvgDkUJwnuE00MJTAQ9CsFe17xXLllkNjEJB/40slZ2RGbetkN7+tAhUGvIJms0d2YpMTuisEg+WyG48+ZlbgSjJG1hL15OUx2pXFAJro0isN2UWztMLPJTka3Or7mHgnTDAcL07lpqZAntolJHx0hSwz7jioThYKEPOP7PUHlQ+7/SjZfnZJz96IEf5kveR3ietU/+IHdpOqfE7zQFdKHRQnXUGw64bwioQVrolZSacobgBQkszgpM=;FMi2ag9eCmbrIqeFSjtU9w=="
+secured: "/IDFLqoz+45IB8WWnGmOFI17DW2wQmb4gkdxZGfhDeWE2l0WfeEJk6dLm+6S+Ijyb8MwpAwNhoc0eYHp56MnJw+8HloBDNQkbmZRcAmvHUAJjAtRTPYJKGeTBiDcbaXqKQS4z+QFDbfuz+xZ2b2TceouSB2r+YVz+Nkc3tEjFsZAFVw2ih9zZjAMaJi6LlaAYUmMLXu53qmi18pPnHpVOlCwJbUiMB6tMIjo/aamANwRqIhBHE8nupG8Fj06A3e3zvA18ZXLsfs7bHZxEURUbH/+8GrFs9+g2Zqw2Bcg0tLD2Q/Ji3/6i+NTdAMdN/R4hBidQND+uPxrA+N1h7y8ou18KMDfwVXi+T+heKo/nC6rRVwZEAPoRxdFIAw/0YU89uMrgn77q5EnEoERsZh91FghVM6P2S/B/cl6ypegJetYRJ9mgArnyiq6pvBBnOoqMEeGvIOkO56mKiN+tFlpHuFqj6NqPz3Zg/8CcZWz/i9n5H98Hn+TlXivb5Y00QVMnY1eNrTwh+g+J1hJ5LGA6Q==;KLRohYODOvfoVIdVEw6m4A=="
 ---
 

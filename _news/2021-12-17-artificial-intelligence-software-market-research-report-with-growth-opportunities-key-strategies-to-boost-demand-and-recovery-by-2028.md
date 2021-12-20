@@ -98,48 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition helps shelters reunite lost pets, owners"
-    excerpt: "Once you upload a photo and click search it will bring up a gallery of animals that have been found near you, that look similar."
-    publishedDateTime: 2021-12-15T21:45:00Z
-    webUrl: "https://www.wfmz.com/news/area/berks/facial-recognition-helps-shelters-reunite-lost-pets-owners/article_2b8f0198-5df1-11ec-a42f-2feac7090d8c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/61/861d51f7-c3ef-58c9-b53e-df25111ca989/61bb85c63a3c3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tag: Facial recognition tech"
-    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
-    publishedDateTime: 2021-12-17T14:30:00Z
-    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
-    type: article
-    provider:
-      name: NationofChange
-      domain: nationofchange.org
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
-        width: 291
-        height: 291
-        isCached: true
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
     excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
     publishedDateTime: 2021-12-20T07:33:00Z

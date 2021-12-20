@@ -140,14 +140,14 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai’s Artificial Intelligence"
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
     excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-    publishedDateTime: 2021-12-20T08:50:00Z
-    webUrl: "https://www.publicnow.com/view/6AFC92A9CC098EF7537FFC5F881D218A558C3569"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "d1Oi8mxDdEXXBQqXfabg18iJ4WcJBTnx4WXcwSEb90uWZDzL4M3NUEZum3oHmf3pEhcRySWvZwNWjRTBLCyZflAP99FQsPW1tAHmGFriZEjXgzZIZoOnXyOOFBIgYl0CtgBM+RZ8hTJwUCcIrNBKcjK8FwSSoAlG/17x8YMYnd6IEJrTpgNfRkrelrCAeG9RlVuGV8oI7qNlTBTVYBDbGa9CQC2NxCtWGBW9vV2jkRhrH0qS1qwDYJKtl3itTShRU1ZYyyyyNzLOGHM3yJ1Tu8t9r6WAIRdkRVyqDfIBJ+EPG5qvxkuUR9y+f4ZEtFJMO5AxG/7rziu7P2QU0OyB6TDWy32nTaoIRKUC9QKmzJM=;jmJJHrSTW1NNxKCit8XkPQ=="

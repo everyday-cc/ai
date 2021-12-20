@@ -35,7 +35,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 69
+    quality: 71
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202112/ai-characters-for-good-mit-A1.jpg"
         width: 1000

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-cou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "The war for large language models"
+    excerpt: "Last week, the buzz was around large language models. A day after DeepMind came out with Gopher, a 280 billion parameter transformer language model, Google introduced the Generalist Language Model (GLaM) – a trillion weight model that uses sparsity."
+    publishedDateTime: 2021-12-20T05:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/war-large-language-models-bhasker-gupta"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGtVC46UuZ-aw/article-cover_image-shrink_720_1280/0/1639979323518?e=1645660800&v=beta&t=8gJssgBqPk56OrT_qCWqh6Vzv2sZVn747T0M7hx75OI"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "kQBkMVoaKAluC2aYMOfOme7bwKh/L0lxW3CsB37bCPvdZcoZw+6999PPLfRIRctECP1k1uuWzXMXEm7eOCF1WGyYRy8ztKka8zcVJIiu0SdfwhRxP2X1dAHqmYUNOC5Pl+5LhbRwotYelJeBquWXfdDncWqD9yFX/K4WYfp+FhAfIujFp/dzMrODE9BJHwgs4p1ok+DJYIz2KggC1buK/rp1dsHD+Nb0MSN+/CBi5xty5Wf3c6YIGh1RFScCMNmqEl4JMpRPyiprl5NLI9MHBmq4wFqbQIGdTfjroiOL6fvgDXzkGGzNsdRbwDhTSnarw5Ut3rFU6jXkd7NPlQ7gh4ch8t+Cy/bpL8juye/qrU+JeK6GRLAYjyYiDgM8uMmMKMKowQ2wtnYR07eyBL26+Rgjn/klmcE2gBBeu0Yj1bVUoHQPEDV/mt4V6BRWP5mCuE6DoSbYb/n4OzpCI1Stxi1WQzg4Xx4Qo8OEzIF8ewcPZDZ1iUzfms+WD/b/cYNCsbuxt8qlWD/RI0HL+3S4pg==;vPt5u/RCSBihSlzLUpnqJA=="
 ---

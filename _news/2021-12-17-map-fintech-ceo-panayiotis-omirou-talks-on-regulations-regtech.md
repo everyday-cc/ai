@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Half of top salary increases are in fintech jobs"
-    excerpt: "Almost half of the top 20 salary increases in Scotland for 2021 are related to jobs in the booming fintech sector, according to new research. Recruitment firm Hays said rising demand meant nine of the roles were in financial technology and it has teamed up with FinTech Scotland,"
-    publishedDateTime: 2021-12-15T21:50:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/amp/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/amp/"
-    type: article
-    provider:
-      name: dailybusinessgroup.co.uk
-      domain: dailybusinessgroup.co.uk
-    quality: 44
-    images:
-      - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/01/Nicola-Anderson-for-interview.png"
-        width: 794
-        height: 572
-        isCached: true
   - title: "How FinTech can provide solutions for a more sustainable planet"
     excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
     publishedDateTime: 2021-12-17T00:41:00Z
@@ -119,6 +103,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
+    excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
+    publishedDateTime: 2021-12-20T14:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20165303.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "GhExZ6AwOULnC8LE5rL/jctXzhWIujMW8zr+OkjUvIjr6uNkmRWd8MBWELAXQUg4xK3Nj5V24fSR4tCI+qsVg50mVKFy5cWLXLaxswxfP7uzxW36SkbaiC+CyKB1hQ563j0fJLqh6WTwMqNnEJdLcYWEz6BbTO/aJL/gg/ZrX627XOEYGE3q2Qh9hxIGMBmNdpUWAstZHHtDN8dCo3eASP6PFiSZ2/PKH1HoyWixIEOeCcuKCgzy9j/IwE6tudnZG40D5CY3rel5W6tTJkevdEk1bz7WTPqrWr7q99X6klS+POfN8jsomGue83YaCV2mmEcKef1Nd/9LLKPj8aqvqIXE1KDtQ/doAsE2Hf6a1DuuBSKrmfSgLi8M0UT+EN18k89xrtua0rw+XLpyraVK6b/X4ka2aqxeJyfdm1hcjowNiB2ZCaHzNxEkVSz53ajog6FsJmvERyNGAyrxq4kRiemCA0A7mBJNP0dfAv4niIm6FAYNE6z33GeOh5qamDTX6B/Rvu+xPRrwAHuxU34AIQ==;x5SeC6lH8WiDCNXJ+mVIHg=="
 ---

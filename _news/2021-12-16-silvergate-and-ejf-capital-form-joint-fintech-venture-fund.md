@@ -35,22 +35,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Half of top salary increases are in fintech jobs"
-    excerpt: "Almost half of the top 20 salary increases in Scotland for 2021 are related to jobs in the booming fintech sector, according to new research. Recruitment firm Hays said rising demand meant nine of the roles were in financial technology and it has teamed up with FinTech Scotland,"
-    publishedDateTime: 2021-12-15T21:50:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/amp/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/12/half-of-top-salary-increases-are-in-fintech-jobs/amp/"
-    type: article
-    provider:
-      name: dailybusinessgroup.co.uk
-      domain: dailybusinessgroup.co.uk
-    quality: 44
-    images:
-      - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/01/Nicola-Anderson-for-interview.png"
-        width: 794
-        height: 572
-        isCached: true
   - title: "MAP Fintech CEO Panayiotis Omirou Talks on Regulations, Regtech"
     excerpt: "Finance Magnates recently sat down with the MAP Fintech CEO, Panayiotis Omirou, and discuss the overall industry trends, regulations and much more."
     publishedDateTime: 2021-12-17T11:00:00Z
@@ -118,6 +102,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
+  - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
+    excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
+    publishedDateTime: 2021-12-20T14:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20165303.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 2
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "wVEAZuWiF+ZdGcGor4Scb6EU+K7wge3YN0o4em0JuYLPnF51CgCPXORY8M4cLpWTlQ0P6x5fTx9tN1RMRnxIjsITpsiCtJXz7ofr7YGKd2jVN4quaPXu+92U2PfRcv/YOVIQi4aSlxbhtmrKQRN/S7Y2GZcPA1by22fzG2FS3x0oTC7ACaXBRPjZaHXh11d83usHXTYZRbtazQoun3g4N76bukY0sBDsmhU3HbYyHeE7mdXX5/VgljeAoKeonolRayQgrRz1w5Dlc6gDdIlajhne8MpGN6qdYnIgh+0CXYBYljdVafcf3IdBx8F3nWRDgUrUocFsi32wIxl/e9LPQJdvWc1Vlh6E5ofghxs/HYk=;wgrRPMd57yVTxy79nyEEzQ=="
 ---

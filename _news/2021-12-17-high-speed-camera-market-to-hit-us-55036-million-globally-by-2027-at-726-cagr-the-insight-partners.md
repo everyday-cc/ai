@@ -32,6 +32,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "3D Machine Vision Market size worth $ 2.55 Billion, Globally, by 2028 at 10.02% CAGR: Verified Market Research®"
+    excerpt: "The rising demand for quality inspection and automation in various industrial verticals, demand for vision-guided robotic systems across food & beverage, automotive, pharmaceutical & chemical, and packaging segments is potentially driving the market The 3D machine vision market is largely driven by factors such as an upsurge in demand for 3D vision systems with robot controllers and an increase in the use of automation in 3D vision and applications."
+    publishedDateTime: 2021-12-20T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-3d-machine-vision-market-size-worth-255-billion-/2021/12/20/9514751.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "poASf6YUAojoQR75rBs+Bp4t0wfvkf6CWg9LY/DAL9soMk5ReGU9umIVkvu+N57ZtZuOptJeFptVZUzlqB1auyBwgZYDlhE0cbGXWf4nf9rcwzCc31YuJp6eYQ//pT1qNXrm+dvCu2RLjJOvuBVWhxY+xZSYr2Z9wfcaFaxv6NrkBV2finyC2tbDvp58HGaUvopMMmo8pDU8plE8Et3sRFs+Z0IawOzP5HpCZcsCKrFc0m/Nn8ggauP6oOgqbRBNSiUN+BntiLIyS4APa9g9dzMBapHRIKgXVSO+dQJ+OZqcQOBI5lTMgMYaj+bUpGF+dI5Rv+JFrj3GbwPIgpGT7qyL6tR3b7UCA629WqI7Gb27q5YMvIjYEXKtEk+eUazo9yN2auQBwnU4E+yN8HY0nfosLoCNSeOESQvQ3BwIS2ut4rGJge8mfOPLndmZG5ZonabFYmIVJkLfRT0cHy7/Qu/PP1RTSA+KaNAy7qXZyInO9ZmPxeaqZOl+Y44SH3OK1bk34KeC25DgdTC/jzvZfA==;nPeodMrlyGK0OxGaKJ/lHw=="
 ---

@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Mainstream adoption of facial recognition can have sinister consequences"
+    excerpt: "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans"
+    publishedDateTime: 2021-12-20T14:15:00Z
+    webUrl: "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facial Recognition Candy Dispenser Only Gives Out Treats to a Chosen Few"
+    excerpt: "Vladimir Janjiš found a candy dispenser on Aliexpress, which features contactless hand detection via an IR emitter/receiver. While a neat device, this wasn’t quite good enough for Janjiš, who augmented the dispenser with an ESP32-CAM board for facial recognition."
+    publishedDateTime: 2021-12-17T02:32:00Z
+    webUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7"
+    ampWebUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 58
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1386311/_px1buzoma2_blob_copy_dnaqh34Atw.jpg?auto=compress%2Cformat"
+        width: 1020
+        height: 573
+        isCached: true
   - title: "Our casual use of facial analysis tools can lead to more sinister applications"
     excerpt: "On Dec. 14, the governments of British Columbia, Alberta and Québec ordered facial recognition company Clearview AI to stop collecting—and to delete—images of people obtained without their consent. Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations,"
     publishedDateTime: 2021-12-20T12:17:00Z
@@ -40,6 +70,34 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/our-casual-use-of-faci.jpg"
         width: 1356
         height: 668
+        isCached: true
+  - title: "Tag: Facial recognition tech"
+    excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
+    publishedDateTime: 2021-12-17T14:30:00Z
+    webUrl: "https://www.nationofchange.org/topics/facial-recognition-tech/"
+    type: article
+    provider:
+      name: NationofChange
+      domain: nationofchange.org
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
+        width: 291
+        height: 291
+        isCached: true
+  - title: "Survey sheds light on police use of facial recognition"
+    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+    publishedDateTime: 2021-12-18T07:30:00Z
+    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "JYafDbB8S96Y82kd7KIdIxjle5CECSB3sD4xvOTs4QoMMtqSzCEl9Xpebl7xUQGs9p0iPHHWnAVTtvi60X6PR0NEj20EdB8ilFYrC6wKynkYqwke0vaHfZanK3t5SqyzBf6tgcW5A7vNN+pj8/m8N/jLaWPJEDcxbmky45UicSv84pfcRNgaEgiD61fLGd81GlY/5I+H5hac/069+/zKrEzeedwPMYIbryft8fft43rvD5+pS+xI0qdB5QTeUfjtl4aMCYrHp4nMDtJhqjf/D064ar0zCWkd/CZsO67UuLRPB77kNJj/r+1zDtrJe1ozMkFSMeBjHbJUVJ02bXb+91jpczhS7kOZjo2eizHzeDUjLNtimTAbr/rAnQcJyUJsNaLSiIgcg08X+g861KbsZvJqGt5XAuftcaDPZrWQypD96IpFWNqd1Bgcj4IAdG8U4GWG7vj94ubs7vpEDyNSBuMIojOn8aLDTakRNpaeOcpqmbrulnyqkl9gdKKgZDIZod240iN5N/rFFqM8AN2G8g==;cwCfWGV7BhTxg2apsoX4vw=="
