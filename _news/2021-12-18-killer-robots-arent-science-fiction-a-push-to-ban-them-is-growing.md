@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

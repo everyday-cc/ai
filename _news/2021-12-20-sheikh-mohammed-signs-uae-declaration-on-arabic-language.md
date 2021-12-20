@@ -41,6 +41,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Mohammed bin Rashid launches UAE Declaration of Arabic Language"
+    excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President, Prime Minister and Ruler of Dubai, today launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai. The declaration was introduced in the presence of the Arab Ministers of Culture to mark the World Arabic Language Day,"
+    publishedDateTime: 2021-12-20T00:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271979841/mohammed-bin-rashid-launches-uae-declaration-of-arabic-language"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Eb1OLJxdd+BbG8uSDgbHZDy7quuKCYgy1dzk1zbM/pqKdKUNLlBPdB+vc+lW0xxJPk2nquvdKaHGj0krtrfwrxdjv9nbZ66bRvZ/WjOqgtlgtifgSz2C0WicRDnDD2IkqUdCDrtaalAXaalJrRdybH9FpR+CIgGYIhmIh4brhYfq7SRdUQSXPJlqM6zuwJ0zCOiOPJL1qj8xukbTN1E3miRlQEDmRa9tybudEOjNsDQlE4lF37uwA2zfk/YjQWnlAKgEReAyd99HZGfhcbH6IGnIE4+/GdB+96OT+wkp7PZhqFKa7va6LHQHawgiZI7wvffAMyTPRB6sRriMe9b2WOzXkbPTDwrdvNO8oQZKKn8=;Xg8wnu7yQPUwoLB8Zol8MA=="
 ---

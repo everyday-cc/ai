@@ -56,29 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
-    publishedDateTime: 2021-12-15T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
 
 secured: "X5/RHvRVDYo1FxObibteQZIqRelmbbkcsDeWJsupTahDBk7AZuYHm0v3y5zZHMARWqqn4tiise2ct09wBkk6OhD7JjUvMZp5c7ohwcGAulWcP8G7SB1ukwJ8jsaBzeYXgoima5DuJBVJTokAPutGLgLMEHpOVwxi6V19hjEptT36PnO77inFdw7tDlMCocE6XqJJBzdijvFRlSpDNH/rLrbhYlMKiywp4YUSfKFIonef1vR/DY9Os1W7HBEPYiuJj1vK0j1GsA21eHhZ8WWFWKLhrsk3NFqnUiaLpWr/G6Bn3z3ogOFASISV480X40GvpK2diaL3uR5PadM70A1QjnKDf/OV2iYOURj+h9/nzfo=;RC6hnjZF0mQvyCt7sPPdJg=="
 ---

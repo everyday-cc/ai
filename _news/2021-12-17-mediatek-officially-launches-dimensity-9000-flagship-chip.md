@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results"
-    excerpt: "A new benchmarking result has just showcased some interesting information regarding the upcoming MediaTek Dimensity 9000 SoC. The chip managed to easily outclass almost every other chipset in the high end smartphone market,"
-    publishedDateTime: 2021-12-15T07:24:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 79
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg"
-        width: 4949
-        height: 2775
-        isCached: true
   - title: "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1"
     excerpt: "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s"
     publishedDateTime: 2021-12-15T14:52:00Z
@@ -75,17 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MediaTek Surpasses Google and Qualcomm’s Chips in AI Benchmark"
-    excerpt: "MediaTek Dimensity 9000 is one of the highly anticipated flagship chipsets of 2022. It is built on a 4nm node by TSMC using ARMv9 architecture to compete"
-    publishedDateTime: 2021-12-16T11:26:00Z
-    webUrl: "https://propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/"
-    ampWebUrl: "https://propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/12/16/mediatek-surpasses-google-and-qualcomms-chips-in-ai-benchmark/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 54
   - title: "Dimensity 9000 tops AI Benchmark, leaves Google Tensor and Snapdragon 888 in the dust"
     excerpt: "There are no official scores for the Snapdragon 8 Gen 1, but its expected performance is slightly below that of the Dimensity."
     publishedDateTime: 2021-12-15T18:15:00Z
@@ -101,36 +74,6 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/12/dimensity-9000-tops-ai-benchmark/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
-        isCached: true
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
-    publishedDateTime: 2021-12-16T07:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
-        width: 340
-        height: 400
-        isCached: true
-  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
-    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
-    publishedDateTime: 2021-12-17T05:18:00Z
-    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 52
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "MediaTek benchmarks the Dimensity 9000: faster CPU than the Snapdragon 8 Gen 1, slower GPU"
     excerpt: "MediaTek has gotten bold – it published a video showing a Dimensity 9000 -powered device running various popular benchmarks, throwing the gauntlet at Qualcomm. Long story short, the Dimensity wins the CPU battle,"

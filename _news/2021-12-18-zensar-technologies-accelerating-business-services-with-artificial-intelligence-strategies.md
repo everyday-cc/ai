@@ -36,17 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Latest Trend In Artificial Intelligence Technology Drives The Market For Data Extraction Software"
-    excerpt: "Introduction Data extraction has emerged as a technique of extracting and discovering new knowledge in data implicit in a large data warehouse to enable better business decisions and strategy formulation Various organizations are focusing on data extraction techniques to handle"
-    publishedDateTime: 2021-12-17T06:10:00Z
-    webUrl: "https://www.openpr.com/news/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    ampWebUrl: "https://www.openpr.com/amp/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502535/latest-trend-in-artificial-intelligence-technology-drives"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "MQstyQ7G8ccjLJdbWfm3X3aMpLFjLTuRAtQqt7SR/F+67NJ4jnj2iDTB6oIQZ4aN0csFpC4CZyA6RsAsGMwMvyZcW7wXOtwjbDd6oG/MX5Iv1DkP0df/40LzYrGY8XU/VA2w8LOUMPE2ZnVeplfv+44dHzR67VbI8pNvhSJgCavlPDeVaPVkrwQjw9ob0UAyyZ9uTaxmBh1rC5J0KgKIZ7xmltOJebnuiYizMMtXol3FlRclP8qnOh3UrRQ3g9ma4QJWGhf1mID3bWXDdEKyyfz/HzQ2MxyCo+xTUYBBitJBtx8wWyVfZ8hLSV2S/qxpd8JFtNHQahykTBnBP3kKU413zzQy42BKXrnEq77/z40=;TrHDYmsXwMAZKlrZ0DkQpA=="
 ---

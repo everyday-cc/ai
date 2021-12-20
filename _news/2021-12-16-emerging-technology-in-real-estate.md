@@ -28,17 +28,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Assistive Technology in Hospital Professional Nursing Technology."
-    excerpt: "Global aging is becoming more and more serious, and the nursing problems of the elderly will become very serious in the future. The article designs a control system with ATmega128 as the main controller based on the function of the multifunctional nursing robot."
-    publishedDateTime: 2021-12-17T00:33:00Z
-    webUrl: "https://europepmc.org/article/MED/34873437"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 12
-
 secured: "zba2Rto9Zpeic4X2sdjmE57Fd8t+Q+Gdu36VREGJToTAHOKFvonX8nMi8zNd7WWm7r5jOioHev+GVeqCN0NhlqjLJGFqSNS/nFRCx2qFT1ABS6XPLLcteSOsSWnsED7/xdkd8H5jVO+kOoo6VjeXB4uEuFluGoMnzxtg905Zyh5TN/Xz2R4uUrZDJfRSe/3Y575yDzn6DRBoEr+q/z11Ya31OMaVfo1fgX0X52cJX3MxiLZeFUrnTZqolROxq5f/8HdSfpsoGA4cf5BihcXEHB+GAHGVKEudI5jN4FYJwuxtns8YKBsKcZvNpJ0Q+evB8OOEDld1uY5G8wgKBt4PfSdMRHemH1SHhaFSRPKjdChjCsyNEbRXCt0hZQJ45ED/QodYdmlmX5OAvtinlyfrNKWsa4j//mnMH0H5ui/V2MJFtPLfAF5QetMTH0YKAI1kK0lzBGggjnvPyBp9wbKf885y+qN9hgOgblQn+sbLWCCVAFLpnwtRuKk28t8GL28MDKCOtmWKV7RX2i+yXQFQ6g==;VqDFQvMBps+mlMLujX4WFA=="
 ---
 

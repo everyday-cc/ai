@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scramblin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

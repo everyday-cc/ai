@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -56,29 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
-    publishedDateTime: 2021-12-15T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
 
 secured: "PtpM2HDw/mWH4d69FIC0A/40FQzC+ZTfBNo8ZIwpFM7gOFEpFGVgUgZSHRUlW3B02a7APGTVxeeOc9m9rSQ1QFILdNnIscKzztu5hIBapA3wGzR+Vq7ymIQKoqnCP3go/Pk6LQThmZn87LvDb6FpmSmwvYEWp0Pp+9vpPyEXcs5JxIHzOade37F6QK1BhOzERdg4WfoaF0qXA8uKGlYurtQSCn2YUb1dB3aIDHDMYSqOXrWKazOeBSPEUkK9Fv4YvhEnaElTWs8gPX8XUwv5icHqkcW4a0PGi9sz7z6QYzUieMLosSaVnlsapq7sWGOvtKIpng/80V7vwyF7b/xsDIhneqQ8Wi5zuh7aUPla0QU=;w16UCJa97lNS8xCuZ8iF0A=="
 ---

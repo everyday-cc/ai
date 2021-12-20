@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-eve
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Gulf News
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mohammed bin Rashid launches UAE Declaration of Arabic Language"
+    excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President, Prime Minister and Ruler of Dubai, today launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai. The declaration was introduced in the presence of the Arab Ministers of Culture to mark the World Arabic Language Day,"
+    publishedDateTime: 2021-12-20T00:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271979841/mohammed-bin-rashid-launches-uae-declaration-of-arabic-language"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Sheikh Mohammed signs UAE Declaration on Arabic language"
     excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Deputy Prime Minister of the UAE and Ruler of Dubai, launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai Sunday."
     publishedDateTime: 2021-12-19T19:46:00Z

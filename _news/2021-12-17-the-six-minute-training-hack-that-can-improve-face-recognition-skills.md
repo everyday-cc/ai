@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-s
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

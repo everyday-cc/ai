@@ -58,29 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Ships Market Size, Product Distribution, Demand, SWOT Analysis, Share and Forecast 2027"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” The Global “Self-driving Ships"
-    publishedDateTime: 2021-12-15T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-size-product-distribution-demand-swot-analysis-share-and-forecast-2027-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Edge Artificial Intelligence (AI) Chip Market Insights, Forecast to 2027 report by QYResearch Group. Edge Artificial Intelligence (AI) Chip market is segmented by region"
-    publishedDateTime: 2021-12-15T07:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5172042-global-and-united-states-edge-artificial-intelligence-ai-chip-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 36
 
 secured: "HN2Jptuih/19UyHdEwNGG6jD0b8UiMzfiaKJLHhF1/O0ijTNNmGfPeiIAJhRDVfv+pI1q0EaEkVbL5iJxtCQEXS3dl/ULX6X2jw7+iAhnhNSc/ZfdODszn3mMiJfbwCt6Fu5a3AxjpYtnaMRDT3Ossbi1Tk7VnFM3rImIfwDshb/+Hzfnnif58RtdXSBDzyCGkm7qR8trpFgt37b7JrXxgkZ1QyoMylTI2JF/kpxcSMOVjf9XAxEZeGGovRJEFNsNlICFfNfdfYxF+duidWsGSWht/FqdteAQoQn5SPkr0DJg/wDn9aRX9izOWhpf2thdQcnImpndoL8o2/Zrs8OjDzaAMqkIYUW/nUg7jpUSGr8CYZ0e+OKvO0CEKIshjkjE40tiN0p+kfZD+NAm+bcFamxSEpl96yTvIr4ZvWn7dtkOw9go7JqfM3hh9RtPZhcUp/AcZRae3OEn3VzL5D/Bd9ECcNUw7EkwL1zn2YDLrfuJTcG17cDfKr5xmB88W0DPEQmc0DnSLJZQF4G9usNcA==;IvFyTMMmKzLw7JrwmDN5hA=="
 ---
