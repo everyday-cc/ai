@@ -2,6 +2,59 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
+      "title": "The limitations of AI safety tools",
+      "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
+      "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
+      "publishedDateTime": "2021-09-27T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
       "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
       "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
@@ -1106,57 +1159,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already.md",
-      "title": "Vendor Management Is The New Customer Management, And AI Is Transforming The Sector Already",
-      "excerpt": "Sourcing and vendor management are more complex than ever, as companies move into emerging fields and leverage third-party suppliers to provide what cannot be internally produced. Vendors play long-term and essential roles in businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6151081fe5f90b68e8c672ff%2F0x0.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/26/vendor-management-is-the-new-customer-management-and-ai-is-transforming-the-sector-already/amp/",
-      "publishedDateTime": "2021-09-26T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

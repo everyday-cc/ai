@@ -96,6 +96,20 @@ related:
         width: 2002
         height: 1625
         isCached: true
+  - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
+    excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
+    publishedDateTime: 2021-12-20T18:17:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/can-ai-be-used-predict-who-will-develop-dementia"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Dec202021at11427PM.jpg"
+        width: 770
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
     excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."
     publishedDateTime: 2021-12-16T19:58:00Z

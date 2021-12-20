@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-26-christiano-cotra-and-yudkowsky-on-ai-progress.md",
+      "title": "Christiano, Cotra, and Yudkowsky on AI progress",
+      "excerpt": "This post is a transcript of a discussion between Paul Christiano, Ajeya Cotra, and Eliezer Yudkowsky on AGI forecasting, following up on Paul and Eliezer's \"Takeoff Speeds\" discussion. Color key: Chat by Paul and EliezerChat by Ajeya 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "originalUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/887568029733519391/889924404392370226/ChessEnginePerformance.png",
+          "width": 1146,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LessWrong",
+        "domain": "lesswrong.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-vibrating-sleeve-gives-wearer-a-feel-for-languages.md",
       "title": "Vibrating sleeve gives wearer a feel for languages",
       "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
@@ -1130,58 +1173,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-tesla-asks-full-self-driving-beta-drivers-to-consent-to-being-recorded-when-they-crash.md",
-      "title": "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash",
-      "excerpt": "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913",
-      "originalUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e02a404fce0521f2a37718e625fb01e3.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp",
-      "publishedDateTime": "2021-11-24T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

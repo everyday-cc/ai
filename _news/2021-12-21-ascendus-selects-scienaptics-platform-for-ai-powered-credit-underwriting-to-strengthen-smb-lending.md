@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-excerpt: "Leading AI-powered credit decision platform provider Scienaptic announced that Ascendus has chosen its AI-based underwriting technology."
-publishedDateTime: 2021-12-20T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
-webUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
+title: "Ascendus Selects Scienaptic’s Platform for AI-Powered Credit Underwriting to strengthen SMB Lending"
+excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
+publishedDateTime: 2021-12-20T20:42:00Z
+originalUrl: "https://www.cuinsight.com/press-release/ascendus-selects-scienaptics-platform-for-ai-powered-credit-underwriting-to-strengthen-smb-lending"
+webUrl: "https://www.cuinsight.com/press-release/ascendus-selects-scienaptics-platform-for-ai-powered-credit-underwriting-to-strengthen-smb-lending"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Credit Union Insight
+  domain: cuinsight.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+    width: 792
+    height: 266
+    isCached: true
 
 related:
   - title: "Continual raises $4M for its AI-powered data platform"
@@ -63,6 +69,6 @@ related:
         height: 732
         isCached: true
 
-secured: "/ThI7JEmORrYSJ9AhX31fX2wWJdWNPc37JQhJJVuV7ze65TgRMUVQCaHQk4WRRUm0ErI70iEKw2B/qPuq3dFPjy6KqJw5oNLAGNtNAz04UtQ8CDw+Us8z26nq4cKv52CyUow/lKL5v9pmbaVJMsEXPX2iHBBG6WkpaosHAoRDUhNmEhGRngEL/BmxZWRZmn5m9upVEZ3q+M6yeCNPy+XDMUDKYU4XdnSF6JD3bbvQB8DAkBcyQeHwFpXaW/pY7TyBamjPWYYrf2klPxugOLW/qF4P9aZHzKXtTdyJ6AZizQmV0gdLox4eFUORqvrVTzBLRqElzuaRz5XEEl8UeOAQ7F20KHSq0xbrngej4CVS60=;vPH0Ghp5mxCwCBztpaZBAg=="
+secured: "TxU/OTaWXnyiusGiRPocqX3TI6HV51Sc+boY6Ait7+MrSwh/+uWaHQNbGKizLbfaZKZEUAttjfhJQoE13YbChVHubdx37E94w/c75XlcmSGmWrNEPJj+cA0C0LdZUSkybxZ+wDjkAu92PXd0WvqLqzoB7a/36GXBgczEW8S11bOuz//hiNcqp8uprsTtkokhdK5Vne3NXQPMMv90Mpleqv5vSyckuDGqoZ89mm1s1/wasuvB91jn2W0a6iQ4EBjtbIk2HtNXyW1j69KooioPHergnHAhaFGmO5AwAgZH9+cJ8Cq0bFKecnypVPXF2vBLgnvCbII3GWQuZ8/O+VwtywFB8RZPNFL35qmSrOUcHow=;VX8vCpTH9q86qfh5ivZ3OA=="
 ---
 

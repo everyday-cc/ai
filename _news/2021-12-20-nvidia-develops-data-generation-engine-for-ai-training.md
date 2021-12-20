@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-20T12:03:00Z
 originalUrl: "https://www.datamation.com/big-data/nvidia-data-generation-engine-synthetic-ai-training/"
 webUrl: "https://www.datamation.com/big-data/nvidia-data-generation-engine-synthetic-ai-training/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2020/12/nvidia-launches-a-workstation-ray-tracing-revolution_5fceb7db863d8.png"

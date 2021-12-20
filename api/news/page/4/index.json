@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
+      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
+      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
+          "width": 1024,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
       "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
       "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
@@ -313,8 +356,8 @@
       "title": "Neural Network 2.0: A Game Changer",
       "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -347,9 +390,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1167,58 +1209,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment.md",
-      "title": "Papaya raises $50M for computer vision that facilitates bill payment",
-      "excerpt": "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
-      "originalUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
-      "publishedDateTime": "2021-12-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

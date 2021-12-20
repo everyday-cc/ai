@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-18-killer-robots-arent-science-fiction-a-push-to-ban-them-is-growing.md",
+      "title": "Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.",
+      "excerpt": "A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/17/world/17killer-robots-explainer1/17killer-robots-explainer1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
+      "publishedDateTime": "2021-12-17T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-computer-vision-with-embedded-machine-learning.md",
       "title": "Computer Vision with Embedded Machine Learning",
       "excerpt": "Computer vision (CV) is a fascinating field of study that attempts to automate the process of assigning meaning to digital images or videos. In other words, we are helping computers see and ...",
@@ -1155,49 +1207,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata.md",
-      "title": "US Energy Department tests new smart grid chip from Nvidia, Utilidata",
-      "excerpt": "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "originalUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "publishedDateTime": "2021-12-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

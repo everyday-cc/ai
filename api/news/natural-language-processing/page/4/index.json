@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-11-09-nvidia-makes-massive-language-model-available-to-enterprises.md",
-      "title": "Nvidia makes massive language model available to enterprises",
-      "excerpt": "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-yellowai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience.md",
       "title": "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience",
       "excerpt": "DUBAI, UAE, Nov. 9, 2021 /PRNewswire/ -- Yellow.ai, the world's leading customer ... to handle requests from a single dashboard in any language, offering complete customer history with superior ...",
@@ -1432,6 +1380,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-speechmatics-launches-autonomous-speech-recognition-software.md",
+      "title": "Speechmatics Launches Autonomous Speech Recognition Software",
+      "excerpt": "Leading speech recognition technology startup Speechmatics has launched its ‘Autonomous Speech Recognition’ software that uses the latest deep learning techniques and breakthrough self-supervised models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/speechmatics-launches-autonomous-speech-recognition-software/",
+      "originalUrl": "https://www.unite.ai/speechmatics-launches-autonomous-speech-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-a52KJTGi/w:648/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/10/balloon-blog-279205_1280.jpg",
+          "width": 619,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
         "publishers": null,
         "authors": null
       },

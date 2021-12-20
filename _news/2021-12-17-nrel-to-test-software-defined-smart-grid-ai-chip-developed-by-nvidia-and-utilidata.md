@@ -2,11 +2,11 @@
 category: news
 title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
 excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-publishedDateTime: 2021-12-16T21:03:00Z
-originalUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
-webUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
+publishedDateTime: 2021-12-16T21:01:00Z
+originalUrl: "https://insidehpc.com/tag/smart-grid/"
+webUrl: "https://insidehpc.com/tag/smart-grid/"
 type: article
-quality: 48
+quality: 28
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-    width: 500
-    height: 281
-    isCached: true
 
 related:
   - title: "US Energy Department tests new smart grid chip from Nvidia, Utilidata"
@@ -74,6 +68,6 @@ related:
         height: 600
         isCached: true
 
-secured: "CPnTFo2r1b0U/+rfSyxo7JWDdpEQw3AYATPteq4XjHrXo6JQB1JqCZVdgoTsNePf2juUD0j593QCofxuyy6vs+jD7wyNaNNSsZlMojvCEyh2NhQqOmNsat+OKydohSDdEfCU71XadcToZZ/+FAbc4RhDXy01CFmo+iWZJSJ86YjimaLhsOIFGhcoXFewqfs9sjc61wsCbSC4W9oe3/xH7A+x25rByjJhXVmz1/RS8SvberLokBfo6EdJUDPIpdJWKtuJJSaacGL6fUy4vJLoFxcHNF8Y6esbmuNoFw4mlAfGb3XAc05nriGO1LHYCjIH0mf6tlwxnM63ZF9/5N9+ig2V077gaOZl7Q7fWwzVkLfmOA9faED8f7IbQNsgwKSzFogHvcdySRLry1700fV0aYRwqEim+OI9hivhYwuN+2rPN+CLNyGhiOE5WykM9FQONFDDimv/k2j8j0D4GaLBGLMYoW8KXlcTbUpf97fpgNOGo4qRFUsZOiA78fMMaT+D8FQhQIE6bHbjth8p89VmIw==;/XvWWlG2mDHRccpPNrFvSw=="
+secured: "rLgKP+5+FUN0ZR+tHKCT6qC3+ONfgJDjNedGZ1++T18Oi1Xsg1vkMda18vbQsL/VZdf4WAKOYIH/2VGpXDamN6HvUiIoXMY1JCFN43cOulJ6pvRZecEO6usPMV3q6Bv9Z51h7H1ixNK+HrCFz3MM/jx8GyZx9x7a3kEiaFG+m8ULQfXkKX8e9s0jM96kbk8iY69ngFOJDDe1RGkSegFW2XGQLjOtE5gvQxaqz5IMAuIjhsm0esP8GqiP5vlnWD5XNXki4A5bFd2xHAJnpHpBAIET0z+tzMsAOQYaco5fTh++lFv5+1JsEpOO355gWFgJIOAbkkBYo39aVWrAFtzJj6y+/RvCBB/ShvHSwsmsiAw=;V9uvsN3+okfDM3Vsf1OLjQ=="
 ---
 

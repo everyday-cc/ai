@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
-    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T21:03:00Z
-    webUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 48
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid"
     excerpt: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid - SiliconANGLE"
     publishedDateTime: 2021-12-16T16:11:00Z
@@ -76,6 +62,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
+    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T21:01:00Z
+    webUrl: "https://insidehpc.com/tag/smart-grid/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 28
 
 secured: "hUsSFWK//o1CUt7dRe2EtL0Spmg67CWIH3XtJsi2UBlQtnTsUAgd8WleSXRTT1e5uhZr0T+0XAWet4zfRBE7/FRZrYGe4s69RWtkkV1UF/i4sDS6Qog9VmZNMAKTzN8iZ74J0pizIOdgkpYrRFOHQHtta9bBEvNkTAXYWLaH/+j6Bo9NwdwNZamV1JGoaHTg1VjGpAiQ8WtcOvNy4PX4k8elFy7gjK9kLckIQPy132RHsyr155shF/XhjN+EKFdefq5GbGheWHNLF5pq09+SIZiwiUA1EG77wI+axwtI+x93abXBYM/lYcdAUC2+IWkxmFmAB8vgxJq2HPiDpT1xOLuo/Hd6HrNUUduymHZnV0I=;Ceno7K3HQOdqDDebwi8qpA=="
 ---

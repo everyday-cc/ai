@@ -2,6 +2,60 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
+      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
+      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
+      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
+      "publishedDateTime": "2021-11-17T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
       "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
       "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
@@ -1158,58 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
-      "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
-      "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616836b70b2d3470ee1e3a1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -34,20 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
-    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T21:03:00Z
-    webUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 48
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid"
     excerpt: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid - SiliconANGLE"
     publishedDateTime: 2021-12-16T16:11:00Z
@@ -76,6 +62,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
+    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T21:01:00Z
+    webUrl: "https://insidehpc.com/tag/smart-grid/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 28
 
 secured: "4v5Bx6kF7bmdFCuNfH9TtLifG6Fb1j5BR/zm6Bj2Q/k1/xHauWSk/cjNUn/mkc0Ntfs3iI3ejvLwQzE4AQ3MeeM/e25LTWgDEX7de2LoU7k7dlACry3fJ+mOlCbr9ZtQGPdA5ZQlTR6VnNgKaOxvPhDTHTav2XwOBzPtelK3zmoszXjYSPJ/CTHzYwUN8Oht8ai4CS+iFOWCV1GVk+zC77DytQItG4ZW+jab1beknccV1HsX8T6/MVkuYm2LPHqQtg5VoRcFX8XxXHCZEfzukEs5U1rFt+quwAzf9KK+84cOfIiFlv2RYnYNwaxZwiO4b1hxFe84CUMCx4uuMsY3SNopBbJqtI1wwPGhXSjJ+NUrGriUntN6Ea2LCMdgnHFfPRkdcFjZiRmH/GPJ0hAQkRX4eBlDmAC0+2b9ZqpK07yyGJAcY+sc1zkb9UTkkuxr8xRIEXQnbIB1PJzaEeUz5JSI85invpC5DbcmXiu1sbLpWV2YzVk8D3y/5nFCMzHXziOP0gkdMO9UHsaRb9H/dA==;l1n7VS3wdu+t37HCjxhgBA=="
 ---

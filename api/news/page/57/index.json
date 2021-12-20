@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-11-05-ai-and-simulation-driving-major-advances-in-robotics.md",
+      "title": "AI and Simulation Driving Major Advances in Robotics",
+      "excerpt": "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-google-parent-plans-to-use-ai-prowess-to-invent-medicines.md",
       "title": "Google Parent Plans to Use AI Prowess to Invent Medicines",
       "excerpt": "The new division was spun out of DeepMind, the London research lab of Google’s parent company. DeepMind’s algorithms have made huge advances in predicting the shapes of proteins, a technology that could speed up the development of new drugs and upend ...",
@@ -1157,59 +1209,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-tensorflow-decision-forests-and-tensorflow-serving.md",
-      "title": "TensorFlow Decision Forests and TensorFlow Serving",
-      "excerpt": "TensorFlow Serving is a serving system for TensorFlow models in production environments. The TF-Serving team publishes a pre-compiled release containing only Core TensorFlow ops. TensorFlow Decision Forests (TF-DF) models use custom Ops for inference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

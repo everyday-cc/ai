@@ -92,7 +92,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2020/12/nvidia-launches-a-workstation-ray-tracing-revolution_5fceb7db863d8.png"
         width: 1920

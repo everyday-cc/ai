@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
+      "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
+      "excerpt": "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
+      "publishedDateTime": "2021-12-20T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
       "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
       "excerpt": "The world needs to protect 30% of the ocean by 2030. We won’t achieve this goal without using new technology to patrol and preserve marine protected areas.",
@@ -84,49 +127,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
-      "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
-      "excerpt": "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
-      "originalUrl": "https://www.stamfordadvocate.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
-      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php",
-      "publishedDateTime": "2021-12-20T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -337,6 +337,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-oracle-to-buy-cerner-for-283-bln-in-healthcare-sector-push.md",
+      "title": "Oracle to buy Cerner for $28.3 bln in healthcare sector push",
+      "excerpt": "Business software maker Oracle Corp said on Monday it would buy Cerner Corp for $28.3 billion in its biggest ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
+      "originalUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/N2smgO867k2IbN2cIg-RJe6iHXI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56HHVKWINZOFND6QDCR6OVOAWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-mainstream-adoption-of-facial-recognition-can-have-sinister-consequences.md",
       "title": "Mainstream adoption of facial recognition can have sinister consequences",
       "excerpt": "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans",
@@ -345,7 +397,7 @@
       "originalUrl": "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1208,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-killer-robots-arent-science-fiction-a-push-to-ban-them-is-growing.md",
-      "title": "Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.",
-      "excerpt": "A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/17/world/17killer-robots-explainer1/17killer-robots-explainer1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/17/world/robot-drone-ban.amp.html",
-      "publishedDateTime": "2021-12-17T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,26 +2,28 @@
 category: news
 title: "Sheikh Mohammed signs UAE Declaration on Arabic language"
 excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Deputy Prime Minister of the UAE and Ruler of Dubai, launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai Sunday."
-publishedDateTime: 2021-12-19T19:46:00Z
-originalUrl: "https://menafn.com/1103397481/Sheikh-Mohammed-signs-UAE-Declaration-on-Arabic-language"
-webUrl: "https://menafn.com/1103397481/Sheikh-Mohammed-signs-UAE-Declaration-on-Arabic-language"
+publishedDateTime: 2021-12-19T16:11:00Z
+originalUrl: "https://www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language"
+webUrl: "https://www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language"
+ampWebUrl: "https://www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language?amp=1"
+cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language?amp=1"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/19/KT_a98dcimage_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://image.khaleejtimes.com?uuid=69ca47dd-1e3b-5a49-a32f-bde10520e770&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84211&x=0&y=0.07895&width=1200&height=675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Eb1OLJxdd+BbG8uSDgbHZDy7quuKCYgy1dzk1zbM/pqKdKUNLlBPdB+vc+lW0xxJPk2nquvdKaHGj0krtrfwrxdjv9nbZ66bRvZ/WjOqgtlgtifgSz2C0WicRDnDD2IkqUdCDrtaalAXaalJrRdybH9FpR+CIgGYIhmIh4brhYfq7SRdUQSXPJlqM6zuwJ0zCOiOPJL1qj8xukbTN1E3miRlQEDmRa9tybudEOjNsDQlE4lF37uwA2zfk/YjQWnlAKgEReAyd99HZGfhcbH6IGnIE4+/GdB+96OT+wkp7PZhqFKa7va6LHQHawgiZI7wvffAMyTPRB6sRriMe9b2WOzXkbPTDwrdvNO8oQZKKn8=;Xg8wnu7yQPUwoLB8Zol8MA=="
+secured: "p6/fpQQkDERS02RfPDAouTFtBsMb08agDf12cV81n6T4SrAQHrHFoq12GbIW9SPU7TpoyG08xFYfUmyVtVnyLBr8ZZu94hlf1RiOJ11SXnTwDaXPCJDSc8z9X0Ee9JYCmo33CuqX3+rv6hxdFtCSSk+RJR3xxbzl4Wk6YOsHaXmK9CsNoNiOznkrRO9C9Evj+wermRhQzCEb1mysZoeNeSTJnkp941yQCtOOe70p6s+2z0JgiyXk130UOCsu+QlBTFkOsp6R/9rSfnRjX2vfw2G3gV2nlUL8a5GVfux8GpHbAcQ3LRyRNk878hVhuryp1JvTvdYv6Aa3IxK/jYs2xy3YDrmHPXC1DYb0aWZsblA=;PlL0fJwzKTtnelitEJSTOA=="
 ---
 

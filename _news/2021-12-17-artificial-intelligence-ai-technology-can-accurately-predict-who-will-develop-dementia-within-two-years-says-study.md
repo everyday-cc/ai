@@ -101,6 +101,20 @@ related:
         width: 2002
         height: 1625
         isCached: true
+  - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
+    excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
+    publishedDateTime: 2021-12-20T18:17:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/can-ai-be-used-predict-who-will-develop-dementia"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Dec202021at11427PM.jpg"
+        width: 770
+        height: 450
+        isCached: true
 
 secured: "gHDxzlirj5zPevmIkNiKL15V1zdjuxQ15Dbri/S7onu6DdV4WW7kMu030G51w3fa2NDdp5ESVQBWk1rLm5jk7+tnjIKUfT46iVOcf6xDk9C6ZDuvSz5nRdOIAkrkiFNDya6QxTBK7ZM8GJUyE5nKUGPkZ5OKQR+kHvkjd56Ni1Ci8SVBkL9YikMe9dy7uL1/M5qwCIeF8o+Lnm6ex2QiFGHKS1L+fFApQio8TJem+DkgQFJtocsdeoG3S8s5c/OmLWBIynxxmovEanscbG3HYea6rsT130ba7Clt4YJWFbMwKg5js9ipQJDAPb1X45/9BAh6huawmpzdUtzE2scsJofpWhx2xH/DkXlSS4UIhnzS8E03Pb71uF2jDMRLXmfP1kngNZ7ZVDhsKWHR97Jt2UeaBh5FaVSeeaOgvYSzl0x4Mg8Rqq1xF+D8hzoT1JYjp/Ft7wV5CeHobgGAgAksN8ca83QTziplkMB4AXtTqm+XHAoABcu4lNkkLuZ2quJqp5dYynGaHukhzKvLbAnM1g==;hTOr44QCy756KPD7xqLx9A=="
 ---

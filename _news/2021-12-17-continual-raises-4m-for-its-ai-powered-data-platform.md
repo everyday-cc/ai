@@ -58,15 +58,20 @@ related:
         width: 2090
         height: 732
         isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-    excerpt: "Leading AI-powered credit decision platform provider Scienaptic announced that Ascendus has chosen its AI-based underwriting technology."
-    publishedDateTime: 2021-12-20T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
+  - title: "Ascendus Selects Scienaptic’s Platform for AI-Powered Credit Underwriting to strengthen SMB Lending"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
+    publishedDateTime: 2021-12-20T20:42:00Z
+    webUrl: "https://www.cuinsight.com/press-release/ascendus-selects-scienaptics-platform-for-ai-powered-credit-underwriting-to-strengthen-smb-lending"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 23
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
 
 secured: "EW+Rk5IMvI0Ik5NecILWpY9PGAP0OwrpzigXN5P3abMAwHvI+dQvnio9q33+fl1R3IHb/y75pYftrbSrPtVOOflxWav3ECB05mH+dIu8MkQky0pWvd/+p/tqvpTNXqJOdnPlrGzcaBBE3XvRKRFAQW9gbL4aJ0B37Qlh8jTVvsG+mtw2OJ8gOd21j9qZ/9Ci+bCHDQCl4mhnYotYGI2k9Y5d2QyYrLnQ/CywQ0kYGLux/VaoKJqlboxiNnuv807ZPICBkVOklM2QWWXMjc5SRxNlm9TUkVNCXEJ58YL/3LA2qdIbYxOErfts8zVwiBwCJPap6C/eHiqbRpl9q76HZKdJ0CilpYYboEkqfjZrbz/Nni9gFqLkqApbQM0+qTSzSNmEWt6XyxbDMpCrOismsf1SZ8hH4edlzXTr5UBydmsm9PJOMiHUfxXnPqv5pSPr3hlurOqC+jkjY/pGMf35gig4iCFF7gK1rbYj2NdR3E5bsY2kMOfhaC+5+bzMy6sEzMhvtOLeP/6Sawv2rHkWeA==;9e2T/9di64J1TKd8ZEwxjw=="
 ---

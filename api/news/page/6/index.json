@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
+      "title": "Who Killed the Robot Dog?",
+      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
       "title": "A Need For Speed Is Driving CX Expectations",
       "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
@@ -1095,48 +1147,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
-      "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
-      "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "originalUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/13/Expo-2020-Dubai_17db5173489_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "publishedDateTime": "2021-12-13T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

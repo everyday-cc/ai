@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
 type: article
 quality: 151
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2019/05/CO_JanFeb18_GettyImages-687788463_CHRISTIANLAGEREK_SCIENCEPHOTOLIBRARY_HumanBrainCircuitBoard-e1559053521129.jpg"
         width: 2002
         height: 1625
+        isCached: true
+  - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
+    excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
+    publishedDateTime: 2021-12-20T18:17:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/can-ai-be-used-predict-who-will-develop-dementia"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Dec202021at11427PM.jpg"
+        width: 770
+        height: 450
         isCached: true
   - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
     excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."

@@ -43,17 +43,19 @@ related:
         isCached: true
   - title: "Sheikh Mohammed signs UAE Declaration on Arabic language"
     excerpt: "His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice-President and Deputy Prime Minister of the UAE and Ruler of Dubai, launched the UAE Declaration of Arabic Language in the UAE Pavilion at Expo 2020 Dubai Sunday."
-    publishedDateTime: 2021-12-19T19:46:00Z
-    webUrl: "https://menafn.com/1103397481/Sheikh-Mohammed-signs-UAE-Declaration-on-Arabic-language"
+    publishedDateTime: 2021-12-19T16:11:00Z
+    webUrl: "https://www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language"
+    ampWebUrl: "https://www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/government/sheikh-mohammed-signs-declaration-on-arabic-language?amp=1"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/19/KT_a98dcimage_story.jpg"
-        width: 600
-        height: 337
+      - url: "https://image.khaleejtimes.com?uuid=69ca47dd-1e3b-5a49-a32f-bde10520e770&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84211&x=0&y=0.07895&width=1200&height=675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "GrvaEcxmPdY3Ukvxe+P0wH3FwptQ4sKNkvKzt4kCSljM7kbAHwHkjDTOVrkSlbyTtMhpSIwYIviu/r5NqXfqO+onDngSSYjkygi95UJRvXeBydG25xF5RiqeMSDAloF3TVbZZVZdo1u1VEdrv1kfvWby1Si8FpnnPUpBNWxC1IBlaaaMiMYUSjB46szUGckUPFGB7/Z8OnykYE7U3efqKNgoDqG0iXeYvlCOC9Pgt9ybQjC4o/irst0d338o38R1WTGz7nUrEDN+AWookMW2Gdt+kekEy4YCjz+3Z0gUNgStKYAu7OTzyixYx0i8bJl1MJVIO/voNy/pgoV/RHPeTtEkGIzh4GoxqDdS53sebIE=;m0Kjq3vAguSx6SipWelMPA=="

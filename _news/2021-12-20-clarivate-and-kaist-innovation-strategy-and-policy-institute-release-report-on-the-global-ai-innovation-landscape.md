@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-20T08:03:00Z
 originalUrl: "https://www.prnewswire.com/in/news-releases/clarivate-and-kaist-innovation-strategy-and-policy-institute-release-report-on-the-global-ai-innovation-landscape-883893244.html"
 webUrl: "https://www.prnewswire.com/in/news-releases/clarivate-and-kaist-innovation-strategy-and-policy-institute-release-report-on-the-global-ai-innovation-landscape-883893244.html"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1159266/Clarivate_Logo.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 730
     isCached: true
 
-secured: "8NyQ3zPtR1i2lunZZykS9W5z2rZhNdQ6sVUaTdEZo5R2iZEWcRoKfN2IHHEoLyrpyyccjuRJcuTcQzeu84WqUEz26oaL7vJdhjPO2PutBYzJiWGFwBpsu/oCYyI2WkxArywl2/GTi3dNpSX2yCwqJDqq7Ice5bWPqGwZzI4dvcDQxcJFs1KaTMouGJxoRZC9diy7BpUjoflFprUmxGw0tOKYwqKGPQa32f/E16eW6hpcclDqgRD9LpR7Ro0d7ynXw+5dG1dT4qxeiZ1EAZqOOTSJIxT+6bitJ13iQIrsLy8joXTKbg8titQTgqqT8EXMpKItT+7vwep8KFuULaE1aMj0S+Hxo65e7cGKekXLHWU=;CG+u0MbjhbUyTB1u1dKtew=="
+secured: "qL07pe7B0rKoI5aLPrtJQaCx58NoS4CbtKAP7wp/Dka3W1yQSVq1poUU1a8cywOxCDNzx51EnbM5t3CUvvHm25pAEZg/KUFnTi2OfFn5y0NbNOmzU81J3tESl2byLnY9/h3TgLV0EgutIo1YyzZGoRlJPRFaK7jdquAZ56kd7M6HMhXv2LTxO1B74hPK2JOP8CgU2jhdQDzBvyMIbOaQM8SjX7noAiDnInnvmNswcZqh6tmra/E8Jwj/6CSkahgKYfnatpoUz7oG4pxaN92L1C9piT3Ybxzb5n4DX323/ZT+WwtyEvdYCOpj4UfJJ91017xjtvIKVMCGKcl9eySCpaTJ4Y0Rwhd+TTvieQuXeU5pJgRK05wkwH9BQlVTA7Rivy9xelyzklP4OGT+BABvDz0E+vxZEgEDWXJZDoD2dEfwMh8vpAwe2w7snj0sJyefQW7/TRz6YlnUHhuCDCrJIUBH4aZ9x2dIfaDyHZchqxBbtNdLwrPMaUkvCEJbenHxDA7zPEQ8XevdNXdhtVphPg==;fchtgg93Wly+RVqrlBlCiA=="
 ---
 

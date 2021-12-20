@@ -2,19 +2,19 @@
 category: news
 title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
 excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-publishedDateTime: 2021-12-20T18:03:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+publishedDateTime: 2021-12-20T20:03:00Z
+originalUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
 type: article
 quality: 61
 heat: 91
 published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
@@ -65,6 +65,6 @@ related:
         height: 1004
         isCached: true
 
-secured: "vdhAW9AcQXWEVCLU1n5fyD1RjJbtFj5oWverieMz2zLienlte4KOo4PoIFAd83hbnbcrIlTSHMMpNvQP5T3LlRHf7vo4hFbYwZYPwd2JaxwYvzscUek2RMNOb8NWGWF1VRZnlFKenXmZ8YosKTUv4nFDm4H5eF1WWjxBoCZBk0e7UBFhnecB6wOmmvxKdHlseVWmq8qpNTuCAutcEgjneyITIim69eTatvIQKtjcwguqUmu8aWBDCyqSq4Q901SA2ZzbKd4X9bJkcrHCXJVTGsZus1E/mZYcyQWk6SfXPwouE1dQxtJeUKmT1aZsEHq0D2t+2K+902e39/gJxguVHh3GMo9iQb4E7ynRB1ZEtHs=;U6TgzGKyj7pxfwAVIYtQJg=="
+secured: "UtoeaGqZwps9RHwlhCn7Dyq3lQ59nykWQNvL5ectfTTYgCnrL8akag43cZq+s8vFownhpeWfllMT0KWP0aH1NizUDYBA3HsU45Qari+BbuJjdalintWn7VFMXWZr3GhjjR4hSqLRB+TIada0kDZUkzQ9cFWdh99EZX7sfLiGJe9c1Zhu5DH+Qi0XqsO9u2CF4hikWv288jtW3qliAksnMT6AQmVnh2QObbc6k3d2K8VgYQBbuPFT9sXTIwY2NFGhlQoI+CgFlisUuAI2qwUS+fm7L9OoNFrHBc2nZuCbVq34aQXebfFEqulo+InQxdFpT4bAgKvNzGoDpeKDWMni23x3zikPegYmELp7xGq7YKo=;XG7hQeOtMkL+j8Ip3VADpQ=="
 ---
 

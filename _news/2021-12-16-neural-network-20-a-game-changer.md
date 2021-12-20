@@ -3,8 +3,8 @@ category: news
 title: "Neural Network 2.0: A Game Changer"
 excerpt: "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,"
 publishedDateTime: 2021-12-15T18:22:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-718d23215f893089e3775d4adf93ef8b"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b"
 type: article
 
 provider:
@@ -12,9 +12,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -22,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "xBH1uvU47DOZenIIoLUsSLZpiyDbGUIqhaEuDpZlv2wkHmN4nIdHarkuzqVtal3EAih0IloxZVHJ12IrQ3XP+UFN5dR+HXORWrLfNLitEbuSSsIUbDlpsI4HVzookiE9d+co7Y7926obaj2osUTxhhxysklxsjYPKTCUU9HZI4tB4px68n9vyuP2/Pl7zHWQEIMwmjBA+AS8OpXip/2CAY9ddlJMp7z77mTr8yP+/fy8Wz7l4cw+yAyVOle+XWJrBCUmoIHj9yrQcJ2yM9OLEG5pWQ0XPPLf9tGSjxX6Ze/BZfwKtgBJvMA4vmcy6GvxKGeyw/q6C8e9OoQ4lgxwcZO/uvfpyvbUzDeWenM3g9M=;tZZ0eOUEMarpZbh76rcXmQ=="
+secured: "WiryE47/98uYnD6Y0diR1Czz/wZuFJyAnzY4Eqiy3YJgPD/znvyOxs9vrsR+Ldsg/7qUSG1Z8CAfVQGwDdq28dvrj1EwyI5Z715tqSbnlyqE5D4L4m8ZoUY03KDncBx+f7BqzaElr+rEPzA7l4CNo5YUnP+RtrSftkLybgFKNfdzWzJ0bdzo1UAQoHjLLAeAbNgVckxlakuOLeVQqSnv5z3kQn3oz4qFraU21vp/XlJLaWpuQsVMrFc93UPsB4Ne+K+OD01xWoPpecW9MJ2HnfgSXx1Jx15ws5SaA1xib6q1WNwn2x2nDuT8rTlQIWqJ7yMocNzvfFbKpQ1f8rUbTrBDBAeO2E4s23UVqFe4oC8=;a5OhY4wzmeVQZnKYvGiBvw=="
 ---
 

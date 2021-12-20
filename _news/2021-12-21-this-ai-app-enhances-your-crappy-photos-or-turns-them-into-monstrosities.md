@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-20T18:18:00Z
 originalUrl: "https://thenextweb.com/news/ai-app-gfp-gan-fixes-your-blurry-photos-or-turns-them-into-monstrosities"
 webUrl: "https://thenextweb.com/news/ai-app-gfp-gan-fixes-your-blurry-photos-or-turns-them-into-monstrosities"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-5.jpg&signature=407647e3a5b89e0f83923fe753729222"
@@ -27,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "uZrdktSlkWBQECwTMDYtw5P0/6Yz09TUzmjcYV7UKKaCDPAK+ApS/0KqnO7IZOKZbLOhCxSA3oKESDOug924RGRlfoudxyARtlt95sw+LMBIfnFs8MA9c9me7dQh0Hs0OQtBkveySXQyf3MtmfTP9ZpECcUgbSx8kXQatA65pj8EWLDKtz06b84G+3bTjD6vzWe7B/uC3aTv/w8CwzAo0XEiJdtK3q+LeGStu4q/Lil7cvt1M1ur0tUza08b1AlAaryOIE7Fcc5mdTyv1U8sTYB5FmIGv/5NNtsmMY5t+XfSJA6Hd7Xj/z/c+WpAF0CX44upzRiw2c4Q/HCGHi1azpQcAqwrOSv95W/tuI+zb/A=;EUlzZjXflDueZB8wyr15KA=="
+secured: "2r0GINwuHcZ2SyvSQT4oQdTp9+yyU4f8kPjLJ13Bhu0zVyzh5+/7XjpeqCBKyolvWoypEu1eJoKkIrXJ02yaLwksY80TNmTCU6pcnU0DGVxtCxfm7hY1XYMe03UxEo2J0K0KYl0WxeADLGjYBQMsrfnH8wuh2OOlf/xdYvxbEmPwQWwHuijPvA4EemN3zQjOvcpNYGLY3PGT+P9x+Heb6uzlgjZoDEATMHYjl6Yd5zHwzUpqXAFFWtNzH6OycCsyiaFPm5yF0LFxsGKbEtxq3x8PiWJFfMUfGdjh0Q8csI1O1gk2GkPaJcicVSRs5juoYw2m2+CFxDikIc7GxW2x0MPiQelvANn3LlMxvyYD90j3UE+UDMwLxx7loq7gJXCsiXMW99a5XGkwYEdGAAKjcBk6eWlw30anAig00xsClnqao7mIdbfxSDtD4UDij3JI2aTwHAYC8xrV94x8O5NXXLGxuKtEYEEB+F5vBEDScdHKphHL28uy9YB8JBxI7vhwnfRGv/wZgBEsc4HVjw4z4Q==;QkH5MYLsHMqACcUV1PK4EQ=="
 ---
 

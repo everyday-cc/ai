@@ -45,20 +45,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
-    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T21:03:00Z
-    webUrl: "https://insidehpc.com/2021/12/nrel-to-test-software-defined-smart-grid-ai-chip-developed-by-nvidia-and-utilidata/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 48
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Utilidata, NVIDIA Collaborate on Smart Grid Chip"
     excerpt: "The industry leading grid-edge software company Utilidata has announced that it is working with NVIDIA to develop a software-defined smart grid chip. The new chip will be powered by NVIDIA’s AI platform and embedded in smart meters."
     publishedDateTime: 2021-12-17T20:00:00Z
@@ -73,6 +59,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
+    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
+    publishedDateTime: 2021-12-16T21:01:00Z
+    webUrl: "https://insidehpc.com/tag/smart-grid/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 28
 
 secured: "NN3rKNUFfPBTkjNYxmYC1o9S0nHrFuEeSZrniLndv4yAO1iniDE4vtu0AUjN/iglklD/fZ2CRi3D1tTN+zrUz74WI6ow4y6nDBBR75a03peV5JEDJf9XWaB+IkIDrQwSlw5Xg6RToNLa7a4rBPHWf7GjmTWlOsF05kWBwCnUkaTBjLVXaOC/ah3HOt00XKU1cqNpJ4kKebfPC6Yc0lp8VY3PFHFK95xmI9KeHKfcBxrdQku8twPmP+VpVIZjpa6jYFYdtpzDlNJEpnwqdYgRa8ITitJoqqTk7W2gSv5sR9wxEPq4cBtEUV+6pF8IjqB6wQ5WT0NY4z2AuqJltj/1oslCLTQjIKL+RYI9N66t5/9A29uK2EUj4vxgSlxtDbUT3KYtVx3vV3H5delqNmAlgNILS11M3NNltgJTg1Jgj9A27qTRi+VGsJpHCt7jSXLSFsDSGrH5aqj0lO6SegyAJ+wuP0AV8fl55JZVg485zQBVcCfytcoMA9KvZzbHLdn//Clgcw4bFu73PqvuJIQ0nQ==;nVvZr0sC5H4YHLjuD/bUzQ=="
 ---
