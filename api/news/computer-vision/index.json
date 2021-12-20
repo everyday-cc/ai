@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-20-controversy-rises-over-ai-based-facial-recognition-program-used-to-track-covid-19-patients.md",
+      "title": "Controversy rises over AI-based facial recognition program used to track COVID-19 patients",
+      "excerpt": "Controversy is arising over a Bucheon local government pilot project to combine AI-based facial recognition technology with thousands of surveillance cameras installed in the region to use in the contact tracing of COVID-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/e37dff4c13734ec69dbcd9bb606a4dfd.jpg",
+          "width": 980,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857",
+      "publishedDateTime": "2021-12-19T22:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-19-2020-computer-vision-for-artificial-intelligence.md",
       "title": "20/20 computer vision for artificial intelligence",
       "excerpt": "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -199,19 +242,19 @@
     {
       "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
       "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
-      "excerpt": "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ...",
+      "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24617962/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalab",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24617962/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalab",
+      "webUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust",
+      "originalUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg",
-          "width": 400,
-          "height": 367,
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -219,13 +262,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24617962",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24617962",
-      "publishedDateTime": "2021-12-15T05:08:00-08:00",
+      "ampWebUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp",
+      "publishedDateTime": "2021-12-15T06:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "The Week",
         "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
-      "title": "What meets the eye: get granular consumer insights with visual analytics",
-      "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "originalUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-image_21--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
         "images": null,
         "publishers": null,
         "authors": null

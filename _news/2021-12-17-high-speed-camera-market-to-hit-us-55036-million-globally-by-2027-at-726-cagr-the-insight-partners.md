@@ -32,15 +32,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Warehouse Robotics Market size worth $ 9.1 Billion, Globally, by 2028 at 14.0% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \" Warehouse Robotics Market \" By Product (Mobile Robots, Articulated Robots), By Payload Capacity (Below 10 kg, 11 kg to 80 kg), By Software (Warehouse Management System,"
-    publishedDateTime: 2021-12-15T15:50:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/15/9512099.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 14
 
 secured: "poASf6YUAojoQR75rBs+Bp4t0wfvkf6CWg9LY/DAL9soMk5ReGU9umIVkvu+N57ZtZuOptJeFptVZUzlqB1auyBwgZYDlhE0cbGXWf4nf9rcwzCc31YuJp6eYQ//pT1qNXrm+dvCu2RLjJOvuBVWhxY+xZSYr2Z9wfcaFaxv6NrkBV2finyC2tbDvp58HGaUvopMMmo8pDU8plE8Et3sRFs+Z0IawOzP5HpCZcsCKrFc0m/Nn8ggauP6oOgqbRBNSiUN+BntiLIyS4APa9g9dzMBapHRIKgXVSO+dQJ+OZqcQOBI5lTMgMYaj+bUpGF+dI5Rv+JFrj3GbwPIgpGT7qyL6tR3b7UCA629WqI7Gb27q5YMvIjYEXKtEk+eUazo9yN2auQBwnU4E+yN8HY0nfosLoCNSeOESQvQ3BwIS2ut4rGJge8mfOPLndmZG5ZonabFYmIVJkLfRT0cHy7/Qu/PP1RTSA+KaNAy7qXZyInO9ZmPxeaqZOl+Y44SH3OK1bk34KeC25DgdTC/jzvZfA==;nPeodMrlyGK0OxGaKJ/lHw=="
 ---

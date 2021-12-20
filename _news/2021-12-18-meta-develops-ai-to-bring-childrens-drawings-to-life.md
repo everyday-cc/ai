@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-children
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
 type: article
 quality: 57
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88383811,imgsize-41518,width-1200,height-628,overlay-etbrandequity/meta-develops-ai-to-bring-children-s-drawings-to-life.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia brings AI perception to ROS developers"
+    excerpt: "Nvidia brings AI perception to ROS developers December 16, 2021 by Mark Allinson Leave a Comment    Nvidia has unveiled initiativ"
+    publishedDateTime: 2021-12-16T13:09:00Z
+    webUrl: "https://menafn.com/1103375970/Nvidia-brings-AI-perception-to-ROS-developers&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/16/R&AN_4617cimage_story.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Protecting Artificial Intelligence Inventions in Drug Development"
     excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."

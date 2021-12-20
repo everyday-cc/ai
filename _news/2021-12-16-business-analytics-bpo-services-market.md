@@ -59,15 +59,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Bbe881h9Udz1H87BNwg8IiVPFksiYP7ZmOYIWW0va4FA3bCKvEKVZNjr7aM9cqmCBHIpNFC1VFlTvL/A3uN8GPvzyYdDrPed4/Pr6nxGk7aslpzFo2V/rK5joxrrI8MmSS1kOvGjbFFAN9ShIC0fH8OtEyqLj5fAmVzbq7p2IlHKSHocaR15ZDhvcl3ldugb/XuvZE/sL4F2XFw2MS03ILc30PElK19rsyYuV4ENWnXW2S7MRYZWXHtMOUyvwjHHnB84zgi2ls+oUvnxxihPTpbA7jE8Up0UzmOD3Rflzp4u4bQ2n+qK9yQbsdqr7o1B7vuxeVcjbWXNYLdzggz1+87jQw7yrwy9T55+0KKUfRYegKNScFvAV7dGUh/jK/S0mxmO0WA1scLZy8Pua0QkFYqnxw+rOvE48zaCdG/TDomnE+okvr2n/r/uDFFHAC7NicJtSUOle1Clyjgu2gawny+XpQqpM1Ic3om0kGXvvC6wSDAPNnXrBuDouqbE27ggJ+KoeVk8BR/pf2BPQgUnBg==;uOxy/v3cOW+0pKYTYdPZbg=="
 ---

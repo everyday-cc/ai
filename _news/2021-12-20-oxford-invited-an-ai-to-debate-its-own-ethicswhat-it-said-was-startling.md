@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

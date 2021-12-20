@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Robots taking more jobs because of COVID-19 pandemic"
-    excerpt: "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year."
-    publishedDateTime: 2021-12-15T16:00:00Z
-    webUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic"
-    ampWebUrl: "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/"
+  - title: "Controversy rises over AI-based facial recognition program used to track COVID-19 patients"
+    excerpt: "Controversy is arising over a Bucheon local government pilot project to combine AI-based facial recognition technology with thousands of surveillance cameras installed in the region to use in the contact tracing of COVID-19 patients."
+    publishedDateTime: 2021-12-20T06:50:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857"
     type: article
     provider:
-      name: The San Bernardino Sun
-      domain: sbsun.com
-    quality: 59
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 64
     images:
-      - url: "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 681
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/e37dff4c13734ec69dbcd9bb606a4dfd.jpg"
+        width: 980
+        height: 598
+        isCached: true
+  - title: "Worcester bans use of controversial facial recognition technology"
+    excerpt: "Under the new ordinance, no city government agency will be allowed to acquire or use facial recognition technology."
+    publishedDateTime: 2021-12-15T21:27:00Z
+    webUrl: "https://www.wgbh.org/news/local-news/2021/12/15/worcester-bans-use-of-controversial-facial-recognition-technology"
+    type: article
+    provider:
+      name: WGBH
+      domain: wgbh.org
+    quality: 39
+    images:
+      - url: "https://wgbh.brightspotcdn.com/dims4/default/448dfd6/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fgraphwdots.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
+    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+    publishedDateTime: 2021-12-19T10:23:00Z
+    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
     excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."

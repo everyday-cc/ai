@@ -101,20 +101,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
-    excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
-    publishedDateTime: 2021-12-15T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-artificial-intelligence-9b77e2d1727f4a6ea3e6c11ee471d64d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
     excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
     publishedDateTime: 2021-12-17T12:26:00Z
@@ -144,6 +130,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
+    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
+    publishedDateTime: 2021-12-19T20:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
     excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"

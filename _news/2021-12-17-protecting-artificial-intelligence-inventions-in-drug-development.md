@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia brings AI perception to ROS developers"
+    excerpt: "Nvidia brings AI perception to ROS developers December 16, 2021 by Mark Allinson Leave a Comment    Nvidia has unveiled initiativ"
+    publishedDateTime: 2021-12-16T13:09:00Z
+    webUrl: "https://menafn.com/1103375970/Nvidia-brings-AI-perception-to-ROS-developers&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/16/R&AN_4617cimage_story.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Meta is looking for kids’ drawings to improve its AI model"
     excerpt: "With a new software that animates children’s drawings, Meta hopes to build AI that can “understand the world from a human point of view”."
     publishedDateTime: 2021-12-17T16:34:00Z

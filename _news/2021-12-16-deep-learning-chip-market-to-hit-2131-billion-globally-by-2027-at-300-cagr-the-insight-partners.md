@@ -22,15 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Warehouse Robotics Market size worth $ 9.1 Billion, Globally, by 2028 at 14.0% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \" Warehouse Robotics Market \" By Product (Mobile Robots, Articulated Robots), By Payload Capacity (Below 10 kg, 11 kg to 80 kg), By Software (Warehouse Management System,"
-    publishedDateTime: 2021-12-15T15:50:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/15/9512099.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 14
   - title: "High Speed Camera Market to hit US$ 550.36 Million, Globally, by 2027 at 7.26% CAGR: The Insight Partners"
     excerpt: "The Insight Partners” Increase In Resolution Is Going to Offer Higher Frame Rate in Even Higher Resolution According to The Insight Partners study on"
     publishedDateTime: 2021-12-16T21:05:00Z

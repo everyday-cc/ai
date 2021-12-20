@@ -67,20 +67,6 @@ related:
         width: 850
         height: 463
         isCached: true
-  - title: "Microsoft’s SpaceEye Uses AI to “See” Through Cloud Cover"
-    excerpt: "A majority of Earth may be covered in pesky clouds, but SpaceEye gives researchers a pretty good idea of what's behind them."
-    publishedDateTime: 2021-12-15T15:23:00Z
-    webUrl: "https://www.extremetech.com/extreme/329765-microsofts-spaceeye-uses-ai-to-see-through-cloud-cover"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Jack-Barton-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Australian Army and Microsoft to use AI to analyse voice communications"
     excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
     publishedDateTime: 2021-12-17T11:00:00Z

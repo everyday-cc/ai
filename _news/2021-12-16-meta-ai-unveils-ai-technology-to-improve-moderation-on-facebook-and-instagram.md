@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/meta-ai-unveils-ai-technology-to-im
 webUrl: "https://www.actuia.com/english/meta-ai-unveils-ai-technology-to-improve-moderation-on-facebook-and-instagram/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Facebook AI’s FLAVA Foundational Model Tackles Vision, Language, and Vision & Language Tasks All at Once"
-    excerpt: "Current state-of-the-art vision and vision-and-language models are generally either cross-modal (contrastive) or multi-modal (with earlier fusion) and tend to target specific modalities or tasks. A promising direction envisioned by many in the machine learning research community is the development of next-generation “foundation models” or “universal” transformers capable of tackling vision,"
-    publishedDateTime: 2021-12-15T15:21:00Z
-    webUrl: "https://syncedreview.com/2021/12/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-166/"
-    ampWebUrl: "https://syncedreview.com/2021/12/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-166/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/12/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-166/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/12/image-53.png?resize=690%2C413&ssl=1"
-        width: 690
-        height: 413
-        isCached: true
 
 secured: "DCuk1g+g8R6iLw4uGKztSKl0hCwD5n7v1Wh6ZLnz7GG34DuPcIcX+L2id+/58IaWQWAA53QbebEVD/5+xHOQ0Rfs1hMySR/litK6NKWbCncZTDpg1DnZuBIufZYqoqo7OmOzVG4WBygWxw5YULXhG62w/s4ExMd1utOpuV0x+xKvv/SK2skRpHSEYBd4R2kwH4frX/6ZwJStmT10LUkHdo9FqIHmFohUYEE0IH0DnNenohXYMOkdtNUfZ8QYqIbqOGlYTpxEsw+4fH+T2l49skUVyROXBfyLbUOT+mIX+9w7Pyx2o9hfOe4rCpkhrkvBQuHewaIHMwx7idR/pv3xq3rM2epiaVnj0uej05y8dsrhGhxj73Yf9oGC2ntOwoA+fGwwtFpm1r/qU70AXg3cQLcoCfQwXJYAkBst0BIBf3Fp6mRvnaD8buIfzPZBBiszy+FQyF0/KUz7Eh+pWAV0PPdREDVO3Fa28hrZxA9jq1AdenuWr4MMITn8Ry9MrEGpdSpPp3OthBIszVN83Fwq3g==;Iivr1jbDFBi6KSZq+oTTiA=="
 ---

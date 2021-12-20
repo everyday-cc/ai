@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora self-driving trucks are using Uber Freight to haul goods for customers"
-    excerpt: "Aurora’s self-driving trucks are hauling goods for Uber Freight customers in Texas as part of a multiphase commercial pilot that aims to more closely integrate the two companies.  While the pilot was officially announced Wednesday,"
-    publishedDateTime: 2021-12-15T16:03:00Z
-    webUrl: "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/"
-    ampWebUrl: "https://techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/aurora-self-driving-trucks-are-using-uber-freight-to-haul-goods-for-customers/amp/"
+  - title: "Bernstein says self-driving trucks are coming, highlights 3 stocks for the autonomous vehicle future"
+    excerpt: "Self-driving trucks are coming to the freight market and investors willing to bet on the future innovation can do so through three publicly-traded stocks, asset management firm Bernstein said. Got a confidential news tip?"
+    publishedDateTime: 2021-12-15T18:20:00Z
+    webUrl: "https://www.cnbc.com/2021/12/15/bernstein-says-self-driving-trucks-are-coming-highlights-3-stocks.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
+      name: CNBC
+      domain: cnbc.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://image.cnbcfm.com/api/v1/image/106865205-1617858060414-Embark_1C9A2262_trucks.jpg?v=1617858151"
+        width: 3600
+        height: 2400
         isCached: true
   - title: "DHL orders 100 self-driving U.S. trucks from TuSimple and Navistar"
     excerpt: "DHL said it is looking forward to deploying TuSimple's driverless technology across multiple regions outside the U.S. in the future."

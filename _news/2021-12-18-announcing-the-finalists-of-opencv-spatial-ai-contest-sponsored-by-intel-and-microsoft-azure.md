@@ -53,20 +53,6 @@ related:
         width: 850
         height: 463
         isCached: true
-  - title: "Microsoft’s SpaceEye Uses AI to “See” Through Cloud Cover"
-    excerpt: "A majority of Earth may be covered in pesky clouds, but SpaceEye gives researchers a pretty good idea of what's behind them."
-    publishedDateTime: 2021-12-15T15:23:00Z
-    webUrl: "https://www.extremetech.com/extreme/329765-microsofts-spaceeye-uses-ai-to-see-through-cloud-cover"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Jack-Barton-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Soul Machines and Microsoft to collaborate for AI products"
     excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."
     publishedDateTime: 2021-12-16T10:48:00Z

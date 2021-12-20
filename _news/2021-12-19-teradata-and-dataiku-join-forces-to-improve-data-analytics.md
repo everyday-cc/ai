@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Rockset Wins Coveted 2021 Datanami Readers' Choice Award for Top Data and AI Startup and Editor's Choice Award for Best Analytics Database"
-    excerpt: "Rockset, the real-time analytics company, today announced it has been recognized as the best analytics database and a top data and AI startup in the sixth annual Datanami Readers’ and Editors’ Choice Awards,"
-    publishedDateTime: 2021-12-15T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rockset-wins-coveted-2021-datanami-readers-choice-award-/2021/12/15/9512275.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "LJZ3iyhMyFwgTZT2yflJuyviojYkRLz1NrEnkhHzxUPNYheay5RpxJmIAnbbl20fBz0fLCARBFNzPrwALfNoMcVNBkzCplLbLsW/sY6u6hxQmLA0039iMZ/3SgqesABZQJG3QZmlvD9zmx6IX3Hsyia0uuFftOTClA/LJ0lpjolVaWYgbuhxil2j4esUwiqYYaUW3OYEWyiz0YdTtwEPyOFlrP5kvI40NU6YCcioe73qY+Ab258HE6ZxZlrbJghAZPkNBBJU3/ulQv3hsGE+7N6SZkYGCFuE4DdObqQsCPG1Y1Ut7sWN0RcHt16AFWrdcjRzkr2eGFRXQNHKayCjzgkLLTBUwXH4Zgkbnl8U4OI=;JtxW6eDnd8YNdDMXGyHQNQ=="
 ---

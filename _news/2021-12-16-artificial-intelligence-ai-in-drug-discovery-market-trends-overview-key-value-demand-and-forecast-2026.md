@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
+    excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
+    publishedDateTime: 2021-12-20T07:33:00Z
+    webUrl: "https://www.openpr.com/news/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    ampWebUrl: "https://www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
 
 secured: "PtpM2HDw/mWH4d69FIC0A/40FQzC+ZTfBNo8ZIwpFM7gOFEpFGVgUgZSHRUlW3B02a7APGTVxeeOc9m9rSQ1QFILdNnIscKzztu5hIBapA3wGzR+Vq7ymIQKoqnCP3go/Pk6LQThmZn87LvDb6FpmSmwvYEWp0Pp+9vpPyEXcs5JxIHzOade37F6QK1BhOzERdg4WfoaF0qXA8uKGlYurtQSCn2YUb1dB3aIDHDMYSqOXrWKazOeBSPEUkK9Fv4YvhEnaElTWs8gPX8XUwv5icHqkcW4a0PGi9sz7z6QYzUieMLosSaVnlsapq7sWGOvtKIpng/80V7vwyF7b/xsDIhneqQ8Wi5zuh7aUPla0QU=;w16UCJa97lNS8xCuZ8iF0A=="
 ---

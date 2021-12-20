@@ -122,6 +122,15 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai’s Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T08:50:00Z
+    webUrl: "https://www.publicnow.com/view/6AFC92A9CC098EF7537FFC5F881D218A558C3569"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
   - title: "Top 5 Edge AI Trends to Watch in 2022"
     excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
     publishedDateTime: 2021-12-17T17:23:00Z

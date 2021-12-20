@@ -7,8 +7,8 @@ originalUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-bein
 webUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-being-used-to-help-rebuild-roman-frescoes-12497765"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Sky
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Does AI Need Free Will to be held Responsible?"
+    excerpt: "We have always been a technological species. From the use of basic tools to advanced new forms of social media, we are creatures who do not just live in the world but actively seek to change it. However,"
+    publishedDateTime: 2021-12-20T06:00:00Z
+    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/12/does-ai-need-free-will-to-be-held-responsible.html"
+    type: article
+    provider:
+      name: 3 Quarks Daily
+      domain: 3quarksdaily.com
+    quality: 37
+    images:
+      - url: "https://3quarksdaily.com/wp-content/uploads/2021/12/Free-HD-Stock-Image-360x270.jpg"
+        width: 360
+        height: 270
+        isCached: true
   - title: "This Is How Healthcare Is Using Big Data And AI To Help Save Patient’s Lives"
     excerpt: "Advertisement Artificial intelligence (AI) enables computer systems to do human brain tasks in various fields and all aspects of daily life. AI has resulted in a much-needed, and significant advance in the health sector,"
     publishedDateTime: 2021-12-16T18:54:00Z

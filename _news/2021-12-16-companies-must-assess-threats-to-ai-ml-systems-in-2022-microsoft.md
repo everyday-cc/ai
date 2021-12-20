@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/risk/companies-must-assess-threats-to-
 webUrl: "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFW5g3YrAl9Kg/article-cover_image-shrink_600_2000/0/1639652823920?e=1645056000&v=beta&t=FV1i87jt54kePXg8kuBU8cDLJnDUmEH1Snp1HJLr8ac"
         width: 850
         height: 463
-        isCached: true
-  - title: "Microsoft’s SpaceEye Uses AI to “See” Through Cloud Cover"
-    excerpt: "A majority of Earth may be covered in pesky clouds, but SpaceEye gives researchers a pretty good idea of what's behind them."
-    publishedDateTime: 2021-12-15T15:23:00Z
-    webUrl: "https://www.extremetech.com/extreme/329765-microsofts-spaceeye-uses-ai-to-see-through-cloud-cover"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Jack-Barton-640x353.jpg"
-        width: 640
-        height: 353
         isCached: true
   - title: "Soul Machines and Microsoft to collaborate for AI products"
     excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."
