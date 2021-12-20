@@ -41,20 +41,6 @@ related:
         width: 680
         height: 518
         isCached: true
-  - title: "Relevance AI Raises $3M in Funding"
-    excerpt: "Relevance AI, a Sidney, Australia-based startup that has introduced a vector platform to help developers do more with unstructured data and to aid data scientists rapidly experiment with vectors, rais"
-    publishedDateTime: 2021-12-15T10:42:00Z
-    webUrl: "https://www.finsmes.com/2021/12/relevance-ai-raises-3m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/12/relevance.png"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "inUwBp+wGeUPBxG4f7mddBFI2yDVUcyJBDNNtUJbY8Lofxx3b10htkHTx+9CG2KvLZMrRs1s8FiniYCiJsCZy8R0dXEulhNyxsGLqNrbSe08suJxANVuSngGbU41akZ741pQZidEpK5dZUWL5L59Vt/8uQ0KEtzNaWJboRhX+iqg2qg319EcmYWX2/PEASwO26D5BfyEQKfdUfWkWvTezwGBh9gsj7DXn8CvuVPl0/AgXbzBeMhmZjiRN9KFOjsTRStgVHW5cEDHE9dFrcxx7pd3u7I9ZRdhZSXI5tZDrCUzbTH5KU6kbgCO7HApVl5XLmR/puHwK1imr+pC5GPfE2qSgQfj8IbodvHHnQn8k8pU2hdQqkcJ4DLLBk0GpjZ1eaw2k3ecBnu8FeuwR/yJooMqKBAI06uxVwkiDpxa32TM+v6iS9DQGaf4aAAEHkyywinBvT2dx+Ptsb4Pot+3fYTDFaikn6NUA5xsNnIzuB211MuZ7veO6VW39hnl6FxrQSiptP5A6+G+KsziIxFZlA==;iBWA2jdf1Bdeydg7pCq1rg=="
 ---

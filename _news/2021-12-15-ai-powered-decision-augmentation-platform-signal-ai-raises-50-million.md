@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Signal AI, a ‘decision augmentation’ startup, raises $50M for a platform that extracts insights from the internet and other public content"
-    excerpt: "Signal AI, an artificial intelligence startup that trawls the vast sea of internet and other publicly available data to provide organizations with sentiment insights and other information to make better business decisions,"
-    publishedDateTime: 2021-12-15T10:38:00Z
-    webUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/"
-    ampWebUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-959508862.jpg?w=1024"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
     excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."
     publishedDateTime: 2021-12-15T18:18:00Z

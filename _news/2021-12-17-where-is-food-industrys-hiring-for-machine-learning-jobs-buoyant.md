@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 804
         isCached: true
-  - title: "Asia-Pacific is seeing a hiring boom in power industry machine learning roles"
-    excerpt: "Asia-Pacific was the fastest growing region for machine learning hiring among power industry companies in the three months ending October. The number of roles in Asia-Pacific made up 28.6% of total machine learning jobs – up from 20."
-    publishedDateTime: 2021-12-15T10:00:00Z
-    webUrl: "https://www.power-technology.com/features/asia-pacific-hiring-boom-power-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 36
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/machine-learning-5720531_1280-1.png"
-        width: 1280
-        height: 804
-        isCached: true
 
 secured: "0AxW9iLnDRaMR2SOmCazHzq7nfr+Mjt/1GKH0JnKhfdlbFHbCGsI6c3vnoYZmbwRuviyIr6cmgqZ2d4qSsCAwZpAr0dYU47F9D5e8smh7rGfu/L2JdlG73icKc3gNEyBDHwk2LBevjLZ/6gsltHeMOyheuUdBQDcov/73LhHSXt1mjkQBPvMJnLQBakqFU5NLh72d4M0rKX1TpUHFhlJ227c5C04CiX2VOVskqhLeDqe2Ai/moQ/gL5i1pf1ZkWqc/LtMHlT56/l4UNNjVlxxzLzGqpgxMEBK7Xu+axPOascnm7xIJWpqItIUHD62C5Qw6FUapEnMr9nl39qtptSbksF1yP3qdR471XR51d0oPBFDi9MyFmXBDhCzHHmDfQVnWB4zsAeuhOIYOvJRC6wvvPzlP5mPdt1rwgQNObBxgM7yWrABbhJ7TjVj+A/XEOlNd19ubjMIE9WfYQUtDaGZM6IMWfSyJ8T8H0HZJ/cgazjHLC1D8YjtTqowa1XpuaMNI8c6r2jxliS2XRSm7rGGw==;xWP5xIEqXokRisoAz97RKw=="
 ---

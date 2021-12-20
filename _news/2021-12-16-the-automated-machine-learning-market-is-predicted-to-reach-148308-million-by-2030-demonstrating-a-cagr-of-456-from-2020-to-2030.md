@@ -32,15 +32,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Artificial Intelligence in Healthcare Market To Reach USD 61.59 Billion By 2027 With CAGR of 43.6% | Reports And Data"
-    excerpt: "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data."
-    publishedDateTime: 2021-12-15T09:46:00Z
-    webUrl: "https://www.medgadget.com/2021/12/artificial-intelligence-in-healthcare-market-to-reach-usd-61-59-billion-by-2027-with-cagr-of-43-6-reports-and-data.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 11
 
 secured: "vxr593Go4z24/BJFcqRmizJTrJs7KDipH/BGT/ZoFhlq/IQx6i6QZOan14YY8bnQu1PZyeWH7J3EzKnZ/sHUldtOmuF5tFRPJ+zHWJWPCcy0KF6KoNBxMG9Pto9pmMVEWHmbS0abmLiCvLgz5F2eZDRMOwqhhYYSOsIO+nkvqheQrRgnNT6IfpanlukLZAeDj5I/zLgW8MqUHwtRe4jx1uhhB0gRgXVYZVbtRzwYaeVaCJifJtaehs+kpUMsQY2trInDBQeQ0XX0ges3CVM9B/VgF4aUHR3kJn06HJkZupOxqiN2Ly0RspJyLaJtSQ/c6Gbp2v1sbvqAPEIKYMioIdpcTcFLn/FITEleDr2B2OQ=;2HA0otQ0ZrE8wVcqYrI8Tw=="
 ---

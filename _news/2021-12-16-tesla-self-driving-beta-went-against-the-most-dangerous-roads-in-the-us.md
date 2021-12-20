@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Are Tesla's Self Driving Software Sales Slowing Down?"
-    excerpt: "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ..."
-    publishedDateTime: 2021-12-15T10:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
   - title: "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon"
     excerpt: "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),"
     publishedDateTime: 2021-12-15T15:05:00Z

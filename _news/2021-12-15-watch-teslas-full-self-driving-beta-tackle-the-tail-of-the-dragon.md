@@ -9,8 +9,8 @@ ampWebUrl: "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Jalopnik
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Are Tesla's Self Driving Software Sales Slowing Down?"
-    excerpt: "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ..."
-    publishedDateTime: 2021-12-15T10:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
   - title: "Tesla self driving Beta went against the most dangerous roads in the US"
     excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
     publishedDateTime: 2021-12-16T04:08:00Z

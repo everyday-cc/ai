@@ -2,6 +2,48 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-10-26-this-startup-uses-ai-and-satellite-imagery-to-preserve-trees-moose-habitat-in-minnesota.md",
+      "title": "This startup uses AI and satellite imagery to preserve trees, moose habitat in Minnesota",
+      "excerpt": "NCX pays Minnesota landowners to delay harvesting trees for timber one year at a time, hoping to reduce the effects of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "originalUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/10/11/PSTC/f77e289f-856c-418b-8a58-8e3bd9a835bf-MN_12x18.png?auto=webp&crop=815,458,x9,y244&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5906505001",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5906505001",
+      "publishedDateTime": "2021-10-26T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
       "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
       "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
@@ -1092,58 +1134,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-facebook-whistle-blower-brings-her-campaign-to-europe-after-her-disclosures.md",
-      "title": "The Facebook whistle-blower brings her campaign to Europe after her disclosures.",
-      "excerpt": "Beginning a European tour in Britain, the former Facebook manager was questioned by policymakers drafting tougher tech regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/25/business/25economy-briefing-facebook-haugen/25economy-briefing-facebook-haugen-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html",
-      "publishedDateTime": "2021-10-25T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

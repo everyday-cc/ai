@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Signal AI, a ‘decision augmentation’ startup, raises $50M for a platform that extracts insights from the internet and other public content"
-    excerpt: "Signal AI, an artificial intelligence startup that trawls the vast sea of internet and other publicly available data to provide organizations with sentiment insights and other information to make better business decisions,"
-    publishedDateTime: 2021-12-15T10:38:00Z
-    webUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/"
-    ampWebUrl: "https://techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/signal-ai-a-decision-augmentation-startup-raises-50m-for-a-platform-that-extracts-insights-from-the-internet-and-other-public-content/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 53
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-959508862.jpg?w=1024"
-        width: 1024
-        height: 575
         isCached: true
   - title: "AI-powered decision augmentation platform Signal AI raises $50 million"
     excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"

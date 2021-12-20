@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "A|I: The AI Times – SenseTime senses timing is off, delays IPO"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2021-12-15T10:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-sensetime-senses-timing-is-off-delays-ipo/"
+  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
+    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
+    publishedDateTime: 2021-12-20T02:36:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-59722830"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/fintechs-banks-1.jpg"
-        width: 1050
-        height: 694
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
-secured: "TbOjIVIPjjHeV/AZfuebrUK83p7LbPp8R831WHGRRocbJ8MMqy9BBYcAhYkV1mG2vjAI5BLUknPd5nb2zR5Yx0nEecgOzd9l468fvW/QVk0WlWZwgvCRsY1n8Zkp2sx3EqBHmO3P8VrPZNPBzQFyIJrenOuYgIlVJ170flHdMfA5qgP+fhzqIK3H2D2wfWGjjnlKXXtuOY3EV/sZInEeiiz7q2USGYADilWWk//6vJdC9GQVG3rZwAiUAjp7eKrdKHgx/azhWsZFevdp4ERoO7gv9OVxQrK1iJAE9EYpQMJ/mfkVbhPlpgSEnZ0Sd6cwQOmiYlq2uyUsapyNW05hOqYIbgKm5lYFKdAas/WK4eY=;EFiFUHHON3jjKFs1ChelTA=="
+secured: "SPssviTP61eFrFu2Uni9YbNAUvmP+9sZRHkDNeInfGhlJIOxuY12WSjwbmNc9WFxvec/wlmB3zqbPlO0nQcFWq1jfr1lWYaKqmHKxKDore3zXSUrAErTLQYKYhxbEWxpLf7aQJeb4uHW2MM+fKKnBE7ACfRkrb5XZkeN3jm28F9favuq2iyw3JqYuxIKpY3W56hjyCzlN/oysYLXTiCmilbkar529LZE066gpNZEE+IptQkRJvA35zVnN7ipjQ122SMeR+psJiomAfM35wrxH6VH3DbWfhDZ5Lv8jHvK+pxokRpCXxPD4UkmcozXo2+zDkaZvTqjtEDGKMbLkQcHvcXe4Ouo6dYhyHdSV8TS13ajNbR2gvJkm6nIhorkRYQDWKdr44wV8Pg+ZjLoqnPJnCFDmZu0K97xdFI3LITgGY8DQdzcDgdWhuumJm/ipsQaw4duQLvCh/7IH3gO5otEc2vOW2o0m1sCPxhbmN8rcS5nYCIUgkQ3Yyfi81tm9K2lzib/fQlT6R1jXUAdnofRPQ==;JESNq91H2d53qnGube6E+g=="
 ---
 

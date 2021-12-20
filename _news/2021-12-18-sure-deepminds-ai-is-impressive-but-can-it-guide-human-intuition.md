@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-h
 webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 type: article
 quality: 86
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/12/14115744/PRI_2139177911.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Algorithm out of Google’s DeepMind finesses DFT calculations"
-    excerpt: "A neural network constructed by researchers at Google’s artificial intelligence arm DeepMind has produced a refined density functional theory algorithm. The algorithm,"
-    publishedDateTime: 2021-12-15T09:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/algorithm-out-of-googles-deepmind-finesses-dft-calculations/4014939.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 41
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/4/0/517640_social_166423_crop.jpg"
-        width: 1024
-        height: 536
         isCached: true
 
 secured: "87jiPy7LRFA+E5/8d7/sR3NU0df4LEeC+IWV8rT6IsIuszLX1bFN8j/ZQ3xCxmSnu5KL+qrU2oxvUUKi1ubOwhj/Tg5SnaF0lpcHIgCf1TJNSuUbPfgXs3Kta4iTxYGLRVwJt6vOuvt8ZI1PEAUM+CQd2sBD8g20npbRbHE+454+BW5iCT+JgViQQibd2kXZ3rnfwlNPJXLKqGFXYd64eXEmX6bjDfFRtVHWLVRaXwqP3cUz/X7CZZM09Lp0smpq3LeSXKbyB/JGz9kvwS26AGtqh08PzRfzI2LTBhyTChwE6esQAnZJDwj265hCPuISLIef7v83utXUmwyadwAyNizwGEh+RjOAsS8uj94lxX+7h1AD4BOuRPbjBTblldnjtA/EYlhywJlOtLCY95JQ8qi9u0bwZseowiJu5PU6Re2/0hYeu9rkV3BIIqD1Ll3KntU7w2rMNXSgfqtmpIuLCooDb9cliYuUSfyFa7Deb0ucjCCxIQMdrEm1TlVaJbVqHdKOBN3K6xmFccFgRDpZFQ==;bH43Ysnt5OyT8oGjOKj4vw=="
