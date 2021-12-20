@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027"
-    excerpt: "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-12-16T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
-    publishedDateTime: 2021-12-16T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
     excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
     publishedDateTime: 2021-12-19T20:35:00Z
@@ -69,19 +39,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
-    publishedDateTime: 2021-12-19T19:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
+  - title: "Speech-to-text API Market predicted to grow $5.4 billion by 2026"
+    excerpt: "According to a new market research report Speech to text API Market by Component Software and Services Application Fraud Detection Prevention Content Transcription Subtitle Generation Deployment Mode Organization Size Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the"
+    publishedDateTime: 2021-12-20T12:17:00Z
+    webUrl: "https://www.openpr.com/news/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/c/Uc20549053_g.jpg"
+        width: 641
+        height: 425
         isCached: true
   - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
     excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
@@ -92,61 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
-    excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
-    publishedDateTime: 2021-12-20T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    ampWebUrl: "https://www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
-    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
-    publishedDateTime: 2021-12-17T12:26:00Z
-    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
-    publishedDateTime: 2021-12-17T15:25:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
-    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
-    publishedDateTime: 2021-12-19T20:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -166,15 +83,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
 
 secured: "NxM8gTDDb2UqEH7U2PRMh6AjXStGkpABfMjiLkNrzpOSYDD4TUIqhtOscy/5OgYhN/uZypKMEemjlp7SZF8mzyWGgCw90GQoYacQWM3Ah9J01O3E+uzIvNeAoyn87L1y982x0Rc7nV5f1SewSC/RhPmQC6dC/AdTdBHfR0v4UzYZz1i6rtPg/Ltt/NEGicfXly4eKg2Z7da3ljrYtQZqB4AdijihjXTq+NoqfREq5TVdfjexp5pmDtlVe0kNQZf1fJIzGLG+WFZffbb7I1kQ145KwymVC44jh7j6yXUv0azLuvQL51+1bBDrpgF8poSlpDqirokXb8JHeLiUu7rDXsgiq57IUFJRE6HN0T2wsBc=;iP7aeWmjGggmQBwc+ChH0Q=="
 ---

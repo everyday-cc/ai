@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-magnifie
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-artificial-intelligence-magnifies-electron-microscopes.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 534
     height: 300
     isCached: true
-
-related:
-  - title: "Artificial Intelligence magnifies the utility of electron microscopes"
-    excerpt: "In electron microscopy, some material properties are hard to capture. To overcome these challenges, Argonne researchers are using AI tools. Their solution has been shown to improve microscope sensitivity and accuracy without requiring expensive hardware changes."
-    publishedDateTime: 2021-12-16T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/938317"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17583904-3ec0-442e-a6db-2262368d886e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "DE4S2Laxf5af2kMDXnUwk4l9+5/5Qlp3IWpAIh3Sc89c31taQsSCmzJRtW4sQp/n3+avKBY0JbM9nT48GZwfgrNXVcMfm+vK+xJNZXLoIdYpfw+w7vPuXpuZ8ismRyJjUQ8bXK4OMWB4ZOKEAVB79UTTraColde8dhQUYKc7UD9O/O5WW+c59opRQYKq4qtuKs/ZbSy7OS+Oii//GaFIfau7mne2Fakt3XkYNaidb1EyHxOFj+mPGEkk09clepfZthncWeUCwzc8q0/N6RrvwR1+YoYKFGwae4PwrKvsGF67EPvNUTqzAlOkEMnDXkDjmBDoM79eQFGVfp4LBNXbw0mMxu0P/LPEn61WD78iOKDHnhkgSB5CKppnwDkxyNScmDeBfjt8R0uZLcINI0fqlp9OqHTGIssSqG4GxwRoCQsCU9jlHkRl3z2T/n4ZolMwDoAN6AjgjY2LFdvkaIB/s5A90oRge3eO+DxKSg89pQPwccCAcwkWJspqTPOjaa2vV+j2yWnmC9nUWdmCNTro+w==;DXIztkxEhsaLNfKUF8tNpw=="
 ---

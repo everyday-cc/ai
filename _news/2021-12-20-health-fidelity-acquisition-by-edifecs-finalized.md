@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-san-mateo-information-technology-650b639876e64eaf8cad3e811b50fd15"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Edifecs Acquires Health Fidelity"
+    excerpt: "Edifecs, Inc., a health information technology solutions company, announced today that it has finalized its acquisition of Health Fidelity, a leading provider of risk adjustment solutions. Edifecs also recently acquired Talix,"
+    publishedDateTime: 2021-12-20T13:04:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-eef57e1d9912405b8b19aa31d9197be8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nqqnO7rWIHyztEFH6AdvmIROkubExddIVoHqcX5pP+YxO1kBZ1GFHX0OUqalgXAOPX+yTmPp0/Yua0YR2AkB40rJZjVYB+OQEuEPGOlzmODgh5k54Pr6iFrsbwG8SCgxKNTFpUFCyBU0JcPUw642q6vVWzN8m7MK1StAYUIn0imVGeCsxcwc/fouUo7ItrI69a0D7dymmS1A90dl+2WaDUN0g6dvGh0EAo9LUCYMCMuuChBjqpXQ81q1X4yYaUvB+61aws63MmqDDRglC8cEp0ECD8C+EUPx54bbKCZsrhiyatXMfAtFn86TMkwB75dnMAx7GYR334NP39NJr8z/PahbB6+OSAjnvpYMnYcC5HA=;TAb00xwmyS8ciqdDB8SEgA=="
 ---

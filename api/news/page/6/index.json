@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-14-see-little-robots-get-swole-in-this-virtual-gym.md",
+      "title": "See Little Robots Get Swole in This Virtual 'Gym'",
+      "excerpt": "The bizarre robots look like cobbled-together Tetris pieces. A new system \"evolves\" them to run, climb, and throw stuff better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
+      "originalUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b80ea9c2f5f4d2aaf1c393/master/pass/Science_GettyImages-1291170668.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/amp",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid.md",
       "title": "How AWS machine learning helped United Airlines navigate some unfriendly skies during COVID",
       "excerpt": "The COVID crisis made the skies decidedly unfriendly for United Airlines, but the carrier’s single cloud AWS commitment has enabled it to use machine learning to drive business outcomes and keep customer satisfaction levels high.",
@@ -969,6 +1021,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-softbank-poised-to-complete-first-spac-deal-with-ai-robotics-company-symbotic.md",
+      "title": "SoftBank poised to complete first Spac deal with AI robotics company Symbotic",
+      "excerpt": "Japanese investor has raised multiple Spacs and has been looking for a deal as market cools .. Full story on ft.com POLICE have launched a witness appealing following a collision involving a police vehicle and an ambulance on a major North Yorkshire road last night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsoneplace.com/1892112/ai-softbank-spac-symbotic-poised-complete-robotics",
+      "originalUrl": "https://www.newsoneplace.com/1892112/ai-softbank-spac-symbotic-poised-complete-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.weserv.nl/?url=https://metro.co.uk/wp-content/uploads/2021/12/PRI_215669582.jpg?quality=90&strip=all&w=1024&h=276&fit=inside&cbg=white",
+          "width": 526,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsoneplace.com",
+        "domain": "newsoneplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
       "title": "Human-like brain helps robot out of a maze",
       "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
@@ -1052,83 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) efforts, and a robust payment accuracy business. However, stiff competition remains a concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock?amp",
-      "publishedDateTime": "2021-12-13T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
-      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
-      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
-      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
-      "publishedDateTime": "2021-12-13T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729_1.jpg"
         width: 1920
         height: 1012
+        isCached: true
+  - title: "Tesla Releases New Full Self-Driving Beta Software Update (10.7) With Phantom Braking Improvements"
+    excerpt: "Tesla has released a new Full Self-Driving beta software update (10.7) with phantom braking improvements. Here are all the details on this."
+    publishedDateTime: 2021-12-20T16:30:00Z
+    webUrl: "https://www.redmondpie.com/tesla-releases-new-full-self-driving-beta-software-update-10.7-with-phantom-braking-improvements/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 25
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/08/tesla-1200.jpg"
+        width: 1200
+        height: 640
         isCached: true
 
 secured: "rExKbIERSIERQhi1blKJwEW/3shDjmd43eyTIXzQgsjvTlAIeO7X8CtAVgoFvJVcnZFccVIfj3rGTCi+phv6F3KerXh3La78cb8hQRBgept1x33pidLPx+hB4q9FoGfCmlWLBk7LtPa48Gs4h0NIvJe8OmzsPix9UJQJ/mYkbfrb98yWuePZU3JkJ7bUwtXcVsMLoCOsBBmt7RHGeGuPFKJkY548m+8L/KK2bFdqsCflL0nZgNz1NpYcxKzZ2hVlOOXmVzhgmOpJmOgDZKRMDeXQWVirhlSvjfv1OvQBzxGoNOLyZaXcVycLqYxXTiuoxuhhnVks1eSfTP87eRrNUFPqwAjukPmqfxDB7PyJ8K5pM0ZZzNuyg6waDyXo+ZyaaZTH5cesh5000ucF4BeXnbLOrrNEHAgIFAiuw5lXDKo4CHot2IW7d7vYjXGubb2VFxHTK3cbu974sk07FcOYyVEMRMp3eLkHZLBBNBkY10OT2r6N82xj+rFCEJjjtPI0b+cAwcag8eu2IEReb9NOfw==;UT37kSiaFiqoq9ivikdohg=="

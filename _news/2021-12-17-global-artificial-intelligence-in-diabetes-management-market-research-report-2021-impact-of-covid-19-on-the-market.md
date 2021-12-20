@@ -7,7 +7,7 @@ originalUrl: "https://www.reportsnreports.com/reports/5124652-global-artificial-
 webUrl: "https://www.reportsnreports.com/reports/5124652-global-artificial-intelligence-in-diabetes-management-market-research-report-2021-impact-of-covid-19-on-the-market.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
 
 secured: "hzgUTTYkqcOlRYxrmdhEmLrLt6T/7xYaR1AvTJMZlZ83x5bVfam9/uQyj6vWqmxVIBSUdiqGqpWsgXJ0muhwZzTxolsK2MkFWeHO0IyUWHNsVITM0kSaOOtlWDB5xmjEktb5X8ZX7z0IIqVTGhJhQWpTrQHjgNqmj6J+NGJojiBh7D6r4vH0CVXNv4fC+eqwSyu8RhEnBo4aHaqoVfR78UZInBHI5TglhTyYC+N967HA0IMDM/hsdLDG1PHK6FByYxje/mcsOF9ILKH/z/bENScVh8HK6haIIpuGUDAz2Q8LzBL0462kDQ7+OENyIUycEYpr0W24Qopi30J5cvk/KFdlkjWV+bJsHX8X466+Dik=;Ym5uOelfyp30IKwJE282eQ=="
 ---

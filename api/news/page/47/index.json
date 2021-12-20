@@ -2,6 +2,100 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-11-12-best-robot-vacuum-deals-in-november-2021.md",
+      "title": "Best robot vacuum deals in November 2021",
+      "excerpt": "Also, keep in mind that the V5s Pro lacks a smartphone ... this is the perfect device to start with. Plus, the robot vacuum can be controlled via your smartphone. View Deal Neato Robotics D4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/best-robot-vacuum-deals",
+      "originalUrl": "https://www.tomsguide.com/news/best-robot-vacuum-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/o82K9EW6p3RGVdntfgopjm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tomsguide.com/amp/news/best-robot-vacuum-deals",
+      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/best-robot-vacuum-deals",
+      "publishedDateTime": "2021-11-11T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-is-this-top-artificial-intelligence-powered-cybersecurity-stock-a-buy.md",
+      "title": "Is This Top Artificial-Intelligence-Powered Cybersecurity Stock a Buy?",
+      "excerpt": "The cybersecurity industry has massive secular tailwinds as risks and awareness rise. Does this young outperformer have the metrics and technology to continue to dominate the market?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F652465%2Fgettyimages-1279862993.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "publishedDateTime": "2021-11-11T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-ai-customer-service-bots-are-making-their-way-to-a-store-near-you.md",
       "title": "AI customer service bots are making their way to a store near you",
       "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
@@ -1116,110 +1210,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data.md",
-      "title": "Artificial Intelligence In Healthcare Sector Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data",
-      "excerpt": "Global “Artificial Intelligence In Healthcare Sector Market\" is expected to grow at a steady growth during the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-faang-leader-microsoft-is-banking-on-4-key-trends.md",
-      "title": "FAANG-Leader Microsoft Is Banking On 4 Key Trends",
-      "excerpt": "Azure’s strength in hybrid computing has made ... Mesh introduces 2D and 3D meetings with personalized avatars that use AI to imitate movements even when the camera is off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618dec1106ea61fcfc93c0c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
-      "publishedDateTime": "2021-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

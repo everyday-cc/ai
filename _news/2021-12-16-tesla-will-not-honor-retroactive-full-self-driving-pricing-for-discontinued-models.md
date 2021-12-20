@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Releases New Full Self-Driving Beta Software Update (10.7) With Phantom Braking Improvements"
+    excerpt: "Tesla has released a new Full Self-Driving beta software update (10.7) with phantom braking improvements. Here are all the details on this."
+    publishedDateTime: 2021-12-20T16:30:00Z
+    webUrl: "https://www.redmondpie.com/tesla-releases-new-full-self-driving-beta-software-update-10.7-with-phantom-braking-improvements/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 25
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/08/tesla-1200.jpg"
+        width: 1200
+        height: 640
+        isCached: true
 
 secured: "v/rIErO9XursI0egadxnKxJyA4bb4MJ3UR3rfVHXu/Rk5u0RSGjfAk3HgPeL4N8Gc3C1oY5DY1sciyM3S/NqXDRvRBBb+/lMOoUjkQg3JJuWTbx4ldpsMHRPUSIxtltLEWm5lq4ak19jojUsyA0TcriLk0KzrxEz8VTuCvF2DjYsrIwl+qtld47/ibfNDHCyaYFC+JSgWzErRqyznZVZQFQQN0SzivnwL7TRMzIo2hGyJReBA2xfqwzU6Mh42om4YetyyXii+P4xx9oZQfr64BPECVoT2wnw54haPsvNxTU8hItzAdh+CIVPNTccbuIDKK8kzJ7gJ2QNTGbBbj5IMhJl6G5mTZeR0dugT1FCu0JAKkFjCUhgqrlriOHLrhKYXZhIdrVtUbK/tuRS+uC3+78ryZInGit5nTd9w4oCwljNbJXRMtXuRVXOgh2yXt84cBGVRggKLetoYhe9YaEpOZOLalRKuAxLJEswe17YcTIc2jcOi5W8rXq5pcRTr9R7Dnx+ZP05H92N+nvyzGBUKg==;KQlbqMuavcNakReNZgcdjg=="
 ---

@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027"
-    excerpt: "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,"
-    publishedDateTime: 2021-12-16T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
+  - title: "Professional Services Robots Market 2021-2026"
+    excerpt: "The global professional services robots market is slated to touch a value of about US$ 7,400 Mn in the year 2026 and grow at a robust CAGR during the assessment period.  A rapid growth in the service industries and the pressing need to adapt to the changing demand of the consumers,"
+    publishedDateTime: 2021-12-16T17:19:00Z
+    webUrl: "https://www.openpr.com/news/2502256/professional-services-robots-market-2021-expected-to-reach-us"
+    ampWebUrl: "https://www.openpr.com/amp/2502256/professional-services-robots-market-2021-expected-to-reach-us"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502256/professional-services-robots-market-2021-expected-to-reach-us"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/c/Uc16552577_g.jpg"
+        width: 800
+        height: 482
         isCached: true
   - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
     excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
@@ -58,75 +60,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
-    excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
-    publishedDateTime: 2021-12-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
-    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-12-16T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Report- Size and Growth Forecasts | Mergers and acquisitions"
-    excerpt: "The Artificial Intelligence AI in Oil and Gas Market research report presents an inside and out appraisal through Global Artificial Intelligence AI in Oil and Gas Market Growth 2021 2026 by giving the area s flow circumstance and huge drivers"
-    publishedDateTime: 2021-12-20T07:33:00Z
-    webUrl: "https://www.openpr.com/news/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    ampWebUrl: "https://www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504545/artificial-intelligence-ai-in-oil-and-gas-market-report-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
-    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
-    publishedDateTime: 2021-12-17T12:26:00Z
-    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
-    publishedDateTime: 2021-12-17T15:25:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
     excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
     publishedDateTime: 2021-12-19T20:47:00Z
@@ -141,43 +74,26 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
-    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
-    publishedDateTime: 2021-12-16T10:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
+  - title: "Artificial Intelligence in Sports Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026"
+    excerpt: "The Artificial Intelligence in Sports Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Sports market It particularly sheds light"
+    publishedDateTime: 2021-12-20T10:30:00Z
+    webUrl: "https://www.openpr.com/news/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    ampWebUrl: "https://www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2021-12-16T13:57:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=589401"
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
+  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
+    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
+    publishedDateTime: 2021-12-20T16:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "R5CGFvnwVmYyGnQWvFY4XLakHwJqlwIc4gjU242I6w/46fud0nNWEHr59B6oW5g7cwlVfNiehmFnRPeKM4EOsBkhxiZhY4/yrChAQ0zu01aayOCrYzl7QTOdTrwZXBukTJHtukECYlWAQJONxno+oTby2syEj52b2Nco7d3vNj3kytxKEm25jfLzCtJBwHsRB4QYhgzeARlPq4oiyDlMK7X0FKQk0FYzO3oBvAwfJROHl8qZwPHgz6G5CD9DX8q9bQEhu/le7z4owgL2/EN5OY3c/xCS2SK5Fl/mTuiQS0tTZ4majKclF3UdU33+Z+tSzwX4P/I/hdSGnlOZ1ANYUFGkNCLculQHDytzW66c2dA=;1fV2jdsk8pk1lh0nVR/Pww=="
 ---

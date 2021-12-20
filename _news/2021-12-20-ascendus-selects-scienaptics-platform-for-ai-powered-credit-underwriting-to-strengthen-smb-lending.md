@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-excerpt: "Leading AI-powered credit decision platform provider Scienaptic announced that Ascendus has chosen its AI-based underwriting technology."
-publishedDateTime: 2021-12-20T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
-webUrl: "https://www.businesswire.com/news/home/20211220005435/en/Ascendus-Selects-Scienaptic’s-Platform-For-AI-Powered-Credit-Underwriting-To-Strengthen-SMB-Lending"
+excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
+publishedDateTime: 2021-12-20T15:14:00Z
+originalUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
+webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI
+
+images:
+  - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
+    width: 2090
+    height: 732
+    isCached: true
 
 related:
   - title: "Continual raises $4M for its AI-powered data platform"
@@ -49,6 +55,6 @@ related:
         height: 448
         isCached: true
 
-secured: "oNfQJSpfpYsH5+a9mNzlF3zJIqH43P4IASdlNftXtE/qKi39kzB1dttPvG8Thf4KaGC4wTvI5sflyzuoIMMD8PY7jASjZkx3HLBQQDKY5IK0fuRXZfMCjYhYyzOJRblcJGgHMp6VKRB9zV74usn96gkG9lq1Fhav5YpahrzaD8rGa8sL3bciZ4lHIM1E+kLhkmsufMBm5b3cM2sBFD2o1PGKqWJ8Xw8FdljCdXISTHFDBGk70B7xBWlhv3akbOYluZBJ2cFqlXxxJLReMF3F+61LpG8heUVZtAbchOiUe68uMaGXn/Hl58S+b6irygQv1CKyJNBNePUxxqyfnDKwEIigElRxvPdxhGM/En+zhmE=;ShHE7DTSmybbEjLJAVVebQ=="
+secured: "kG/3j++yyNtL37syInIy7q2HUc19YGq9pXXjDeR1eE8OfNeWLxW2VcTS2TZcvqqj+xOK3sweh33wjANFXN9RIdQYaAPKenVp4Rza4npzIna1IXBrSCgtAeoTaevWUvYwTvuyxqqgeEalgB09Z+yl1IMrEsdQnWygUWY01pMbCdCl+zivOuWkIOzDQJCMS4nsufrZarzWBjj/VKF3JwdF16YFAJIqpUtuDXJhb7DezDZ8FhZ6OYhU0/VCDuXzQ92Kpma782PqpjFAjgdeYw39pVUlqmH+rVXYIOfc4Ni9STTn+yMNHca7FPdwAlHsE/hc6CK8uMmtrDhJouz+qvdbgDd3AMFACiGHPL5cYG76+0g=;JrDU9sLFjJJCjOf1JHKHMw=="
 ---
 
