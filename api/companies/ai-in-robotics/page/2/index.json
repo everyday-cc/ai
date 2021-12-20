@@ -4,35 +4,34 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/marble.io.md",
-      "title": "Marble",
-      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/marble.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/marble.io/",
+      "path": "_companies/gideonbros.net.md",
+      "title": "Gideon Brothers",
+      "excerpt": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gideonbros.net/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gideonbros.net/",
       "type": "profile",
-      "name": "Marble",
-      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "website": "https://www.marble.io/",
+      "name": "Gideon Brothers",
+      "overview": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "website": "https://www.gideonbros.net/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/marble/",
-        "followers": 1629
+        "url": "https://www.linkedin.com/company/gideon-brothers/",
+        "followers": 3065
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/marble"
+        "url": "https://www.crunchbase.com/organization/gideon-brothers"
       },
       "twitter": {
-        "username": "marblerobot",
-        "url": "https://twitter.com/marblerobot",
-        "followers": 390
+        "username": "GideonBros",
+        "url": "https://twitter.com/GideonBros",
+        "followers": 585
       },
       "size": "11-50 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2017,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Zagreb, Croatia"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -40,20 +39,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
+          "url": "https://www.youtube.com/watch?v=Dud1F65jkjY"
         }
       ],
-      "heat": 42,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1472864514324504578/n9L6FjY6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Marble",
+          "title": "Gideon Brothers",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF4aThLACe5dQ/company-logo_200_200/0?e=1594857600&v=beta&t=BH3EEtSkg9oyMVz5z5Pq9CmwLH9IxDniHcIfCgVJ4FM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -63,59 +62,48 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/rethinkrobotics.md",
-      "title": "Rethink Robotics",
-      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rethinkrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/rethinkrobotics/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Rethink Robotics",
-      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
-      "website": "https://www.rethinkrobotics.com/",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/rethink-robotics/",
-        "followers": 17933
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/rethink-robotics"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "RethinkRobotics",
-        "url": "https://twitter.com/RethinkRobotics",
-        "followers": 33169
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16627
       },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
+      "yearFounded": 0,
       "locations": [
-        "Bochum, Germany"
+        "Tokyo, Tokyo"
       ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
         }
       ],
-      "heat": 32,
+      "heat": 18,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Rethink Robotics",
+          "title": "SoftBank Robotics",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 12117814
+        "followers": 12118841
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 609,
+      "heat": 607,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9995324
+        "followers": 9995603
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -96,7 +96,7 @@
         "AI",
         "Microsoft AI"
       ],
-      "heat": 514,
+      "heat": 516,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1454912483248930822/_hO4WPRC_400x400.png",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 104815
+        "followers": 104935
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -185,7 +185,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4061625
+        "followers": 4061736
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -196,7 +196,7 @@
         "AI",
         "AWS AI"
       ],
-      "heat": 451,
+      "heat": 445,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -244,7 +244,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 227,
+          "heat": 215,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -274,7 +274,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 355,
+          "heat": 335,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -296,7 +296,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 283,
+          "heat": 196,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -319,7 +319,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 451,
+          "heat": 445,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -339,62 +339,13 @@
         }
       ],
       "size": 10,
-      "heat": 426,
+      "heat": 402,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "NVIDIA",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/openai.md",
-      "title": "OpenAI",
-      "excerpt": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/openai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/openai/",
-      "type": "profile",
-      "name": "OpenAI",
-      "overview": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
-      "website": "https://openai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/openai/",
-        "followers": 35107
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/openai"
-      },
-      "twitter": {
-        "username": "OpenAI",
-        "url": "https://twitter.com/OpenAI",
-        "followers": 631421
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Corporate Round"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 378,
-      "tags": [
-        "Non-profit"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1002240475556823040/lb_Q04CY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OpenAI",
           "isCached": true
         }
       ],
@@ -449,6 +400,55 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/openai.md",
+      "title": "OpenAI",
+      "excerpt": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/openai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/openai/",
+      "type": "profile",
+      "name": "OpenAI",
+      "overview": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
+      "website": "https://openai.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/openai/",
+        "followers": 35107
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/openai"
+      },
+      "twitter": {
+        "username": "OpenAI",
+        "url": "https://twitter.com/OpenAI",
+        "followers": 631442
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Corporate Round"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 341,
+      "tags": [
+        "Non-profit"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1002240475556823040/lb_Q04CY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "OpenAI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/google.md",
       "title": "Google",
       "excerpt": "Our mission: Organize the world’s information and make it universally accessible and useful.",
@@ -468,7 +468,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1658198
+        "followers": 1658202
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -482,7 +482,7 @@
         "AI",
         "Google AI"
       ],
-      "heat": 355,
+      "heat": 335,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -542,48 +542,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/salesforce.md",
-      "title": "Salesforce",
-      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
-      "webUrl": "https://everyday.cc/ai/company/salesforce/",
-      "type": "profile",
-      "name": "Salesforce",
-      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/salesforce/",
-        "followers": 1879543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/salesforce"
-      },
-      "twitter": {
-        "username": "salesforce",
-        "url": "https://twitter.com/salesforce",
-        "followers": 561194
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1999,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 283,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/appannie.md",
       "title": "App Annie",
       "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
@@ -599,7 +557,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 161496
+        "followers": 161507
       },
       "yearFounded": 0,
       "locations": [
@@ -609,7 +567,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 271,
+      "heat": 270,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -641,7 +599,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 70738
+        "followers": 70745
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -660,7 +618,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 266,
+      "heat": 248,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -688,7 +646,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1071187
+        "followers": 1071190
       },
       "yearFounded": 0,
       "locations": [
@@ -698,59 +656,13 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 258,
+      "heat": 248,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cisco.md",
-      "title": "Cisco",
-      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cisco/",
-      "type": "profile",
-      "name": "Cisco",
-      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "website": "https://www.cisco.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cisco/",
-        "followers": 2993527
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cisco"
-      },
-      "twitter": {
-        "username": "cisco",
-        "url": "https://twitter.com/cisco",
-        "followers": 725182
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1984,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "heat": 246,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1449015588492234758/TLUXoeBt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cisco",
           "isCached": true
         }
       ],
@@ -776,7 +688,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 80781
+        "followers": 80782
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -793,7 +705,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 227,
+      "heat": 215,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -808,63 +720,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/upstart.md",
-      "title": "Upstart",
-      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
-      "webUrl": "https://everyday.cc/ai/company/upstart/",
-      "type": "profile",
-      "name": "Upstart",
-      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "website": "https://www.upstart.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/upstart-network",
-        "followers": 13116
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/upstart"
-      },
-      "twitter": {
-        "username": "Upstart",
-        "url": "https://twitter.com/Upstart",
-        "followers": 14645
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 204,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Upstart",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -893,7 +748,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 208296
+        "followers": 208299
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -910,7 +765,7 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 193,
+      "heat": 209,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410678214947598336/dsD06UBM_400x400.jpg",
@@ -923,161 +778,89 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/matterport.md",
-      "title": "Matterport",
-      "excerpt": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/matterport/index.json",
-      "webUrl": "https://everyday.cc/ai/company/matterport/",
+      "path": "_companies/cisco.md",
+      "title": "Cisco",
+      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cisco/",
       "type": "profile",
-      "name": "Matterport",
-      "overview": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
-      "website": "https://matterport.com/",
+      "name": "Cisco",
+      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "website": "https://www.cisco.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/matterport/",
-        "followers": 17855
+        "url": "https://www.linkedin.com/company/cisco/",
+        "followers": 2993527
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/matterport"
+        "url": "https://www.crunchbase.com/organization/cisco"
       },
       "twitter": {
-        "username": "Matterport",
-        "url": "https://twitter.com/Matterport",
-        "followers": 15550
+        "username": "cisco",
+        "url": "https://twitter.com/cisco",
+        "followers": 725190
       },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
+      "size": "10,001+ employees",
+      "yearFounded": 1984,
       "locations": [
-        "Sunnyvale, CA",
-        "Sunnyvale, California"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 179,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1215468656437497856/NtIW2QxI_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Matterport",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGO97yudv33Uw/company-logo_200_200/0?e=1594857600&v=beta&t=F1LjZMvpHjobO7wSLzuRyXFAiLMPdzdTWh8oncIVKmA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/waymo.md",
-      "title": "Waymo",
-      "excerpt": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/waymo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/waymo/",
-      "type": "profile",
-      "name": "Waymo",
-      "otherNames": [
-        "The Google Car",
-        "Google self-driving car project"
-      ],
-      "overview": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
-      "website": "https://www.waymo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/waymo/",
-        "followers": 52188
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
-      },
-      "twitter": {
-        "username": "Waymo",
-        "url": "https://twitter.com/Waymo",
-        "followers": 70792
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "funding": {},
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Google AI"
-      ],
-      "heat": 178,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Waymo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentinelone.md",
-      "title": "SentinelOne",
-      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentinelone/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sentinelone/",
-      "type": "profile",
-      "name": "SentinelOne",
-      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "website": "https://www.sentinelone.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2886771",
-        "followers": 28543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentinel"
-      },
-      "twitter": {
-        "username": "SentinelOne",
-        "url": "https://twitter.com/SentinelOne",
-        "followers": 14621
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
+        "San Jose, CA"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "IPO"
       },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "heat": 197,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1449015588492234758/TLUXoeBt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cisco",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/salesforce.md",
+      "title": "Salesforce",
+      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
+      "webUrl": "https://everyday.cc/ai/company/salesforce/",
+      "type": "profile",
+      "name": "Salesforce",
+      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/salesforce/",
+        "followers": 1879543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/salesforce"
+      },
+      "twitter": {
+        "username": "salesforce",
+        "url": "https://twitter.com/salesforce",
+        "followers": 561197
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1999,
+      "locations": [
+        "San Francisco, CA"
+      ],
       "topics": [
         "AI"
       ],
-      "heat": 175,
+      "heat": 196,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SentinelOne",
+          "title": "Salesforce",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1108,7 +891,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 145,
+          "heat": 140,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -1138,7 +921,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 0,
+          "heat": 72,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1466853476818956290/thA2D_dd_400x400.jpg",
@@ -1191,7 +974,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 271,
+          "heat": 270,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -1204,7 +987,7 @@
         }
       ],
       "size": 41,
-      "heat": 174,
+      "heat": 168,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -1217,96 +1000,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tencent.md",
-      "title": "Tencent",
-      "excerpt": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tencent/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tencent/",
+      "path": "_companies/matterport.md",
+      "title": "Matterport",
+      "excerpt": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/matterport/index.json",
+      "webUrl": "https://everyday.cc/ai/company/matterport/",
       "type": "profile",
-      "name": "Tencent",
-      "overview": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
-      "website": "https://www.tencent.com/en-us/",
+      "name": "Matterport",
+      "overview": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
+      "website": "https://matterport.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/tencent/",
-        "followers": 592602
+        "url": "https://www.linkedin.com/company/matterport/",
+        "followers": 17855
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tencent"
+        "url": "https://www.crunchbase.com/organization/matterport"
       },
       "twitter": {
-        "username": "tencentglobal",
-        "url": "https://twitter.com/tencentglobal",
-        "followers": 34453
+        "username": "Matterport",
+        "url": "https://twitter.com/Matterport",
+        "followers": 15549
       },
-      "size": "10,001+ employees",
-      "yearFounded": 1998,
+      "size": "201-500 employees",
+      "yearFounded": 2011,
       "locations": [
-        "Shenzhen, Guangdong"
+        "Sunnyvale, CA",
+        "Sunnyvale, California"
       ],
       "topics": [
         "AI"
       ],
-      "heat": 172,
+      "heat": 149,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1215468656437497856/NtIW2QxI_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Tencent",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anaconda.md",
-      "title": "Anaconda",
-      "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anaconda/index.json",
-      "webUrl": "https://everyday.cc/ai/company/anaconda/",
-      "type": "profile",
-      "name": "Anaconda",
-      "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-      "website": "https://www.anaconda.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/25029553/",
-        "followers": 13022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/continuum-analytics"
-      },
-      "twitter": {
-        "username": "anacondainc",
-        "url": "https://twitter.com/anacondainc",
-        "followers": 68738
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 159,
-      "tags": [
-        "Open Source"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anaconda",
+          "title": "Matterport",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGO97yudv33Uw/company-logo_200_200/0?e=1594857600&v=beta&t=F1LjZMvpHjobO7wSLzuRyXFAiLMPdzdTWh8oncIVKmA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1316,53 +1050,160 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/wayve.ai.md",
-      "title": "Wayve",
-      "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wayve.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wayve.ai/",
+      "path": "_companies/moveworks.md",
+      "title": "Moveworks",
+      "excerpt": "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/moveworks/index.json",
+      "webUrl": "https://everyday.cc/ai/company/moveworks/",
       "type": "profile",
-      "name": "Wayve",
-      "overview": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
-      "website": "https://wayve.ai/",
+      "name": "Moveworks",
+      "overview": "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention.",
+      "website": "https://www.moveworks.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/wayve-technologies/",
-        "followers": 1777
+        "url": "https://www.linkedin.com/company/moveworksai/",
+        "followers": 1646
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wayve-9739"
+        "url": "https://www.crunchbase.com/organization/moveworks"
       },
       "twitter": {
-        "username": "wayve_ai",
-        "url": "https://twitter.com/wayve_ai",
-        "followers": 3130
+        "username": "moveworks",
+        "url": "https://twitter.com/moveworks",
+        "followers": 5364
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Cambridge, United Kingdom"
+        "Mountain View, CA",
+        "Mountain View, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI"
       ],
-      "heat": 151,
+      "heat": 149,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1177006674281844736/KotHTkhK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Moveworks",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFiEwMbt6hJrQ/company-logo_200_200/0?e=1594857600&v=beta&t=i0hHzsXgLugNOoTZwhrw4yYUuN3AQmoR-HFzuMlWmlo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/upstart.md",
+      "title": "Upstart",
+      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
+      "webUrl": "https://everyday.cc/ai/company/upstart/",
+      "type": "profile",
+      "name": "Upstart",
+      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "website": "https://www.upstart.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/upstart-network",
+        "followers": 13116
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/upstart"
+      },
+      "twitter": {
+        "username": "Upstart",
+        "url": "https://twitter.com/Upstart",
+        "followers": 14646
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 147,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Upstart",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/baidu.md",
+      "title": "Baidu",
+      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
+      "webUrl": "https://everyday.cc/ai/company/baidu/",
+      "type": "profile",
+      "name": "Baidu",
+      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "website": "http://ai.baidu.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/baidu-inc/",
+        "followers": 209798
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/baidu"
+      },
+      "twitter": {
+        "username": "BaiduResearch",
+        "url": "https://twitter.com/BaiduResearch",
+        "followers": 56666
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2000,
+      "locations": [
+        "Beijing"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 143,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Wayve",
+          "title": "Baidu",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_200_200/0?e=1594857600&v=beta&t=dM19s3wgkc5aaj2Llif0yHl9BJiizO8R1Zb-0z51yu8",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1411,7 +1252,7 @@
           "url": "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
         }
       ],
-      "heat": 145,
+      "heat": 140,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -1422,106 +1263,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/argo.ai.md",
-      "title": "Argo AI",
-      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/argo.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/argo.ai/",
-      "type": "profile",
-      "name": "Argo AI",
-      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
-      "website": "https://argo.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/argo-ai/",
-        "followers": 23051
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/argo-ai"
-      },
-      "twitter": {
-        "username": "argoai",
-        "url": "https://twitter.com/argoai",
-        "followers": 7746
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Pittsburgh, PA",
-        "Pittsburgh, Pennsylvania"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 143,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Argo AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/moveworks.md",
-      "title": "Moveworks",
-      "excerpt": "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/moveworks/index.json",
-      "webUrl": "https://everyday.cc/ai/company/moveworks/",
-      "type": "profile",
-      "name": "Moveworks",
-      "overview": "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention.",
-      "website": "https://www.moveworks.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/moveworksai/",
-        "followers": 1646
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/moveworks"
-      },
-      "twitter": {
-        "username": "moveworks",
-        "url": "https://twitter.com/moveworks",
-        "followers": 5364
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1177006674281844736/KotHTkhK_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Moveworks",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFiEwMbt6hJrQ/company-logo_200_200/0?e=1594857600&v=beta&t=i0hHzsXgLugNOoTZwhrw4yYUuN3AQmoR-HFzuMlWmlo",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1550,7 +1291,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 84524
+        "followers": 84527
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1570,7 +1311,7 @@
           "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
         }
       ],
-      "heat": 133,
+      "heat": 135,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
@@ -1585,6 +1326,158 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sentinelone.md",
+      "title": "SentinelOne",
+      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentinelone/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sentinelone/",
+      "type": "profile",
+      "name": "SentinelOne",
+      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "website": "https://www.sentinelone.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2886771",
+        "followers": 28543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sentinel"
+      },
+      "twitter": {
+        "username": "SentinelOne",
+        "url": "https://twitter.com/SentinelOne",
+        "followers": 14622
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "SentinelOne",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/anaconda.md",
+      "title": "Anaconda",
+      "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anaconda/index.json",
+      "webUrl": "https://everyday.cc/ai/company/anaconda/",
+      "type": "profile",
+      "name": "Anaconda",
+      "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+      "website": "https://www.anaconda.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/25029553/",
+        "followers": 13022
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/continuum-analytics"
+      },
+      "twitter": {
+        "username": "anacondainc",
+        "url": "https://twitter.com/anacondainc",
+        "followers": 68740
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 130,
+      "tags": [
+        "Open Source"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Anaconda",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tencent.md",
+      "title": "Tencent",
+      "excerpt": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tencent/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tencent/",
+      "type": "profile",
+      "name": "Tencent",
+      "overview": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
+      "website": "https://www.tencent.com/en-us/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tencent/",
+        "followers": 592602
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tencent"
+      },
+      "twitter": {
+        "username": "tencentglobal",
+        "url": "https://twitter.com/tencentglobal",
+        "followers": 34451
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1998,
+      "locations": [
+        "Shenzhen, Guangdong"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tencent",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1609,7 +1502,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 19193
+        "followers": 19194
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1625,7 +1518,7 @@
         "AI in Autos",
         "AI in Robotics"
       ],
-      "heat": 133,
+      "heat": 124,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1648,50 +1541,180 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/deepl.md",
-      "title": "DeepL",
-      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepl/",
+      "path": "_companies/recursionpharma.md",
+      "title": "Recursion Pharmaceuticals",
+      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/recursionpharma/index.json",
+      "webUrl": "https://everyday.cc/ai/company/recursionpharma/",
       "type": "profile",
-      "name": "DeepL",
-      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "website": "http://www.deepl.com/",
+      "name": "Recursion Pharmaceuticals",
+      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "website": "https://www.recursionpharma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
+        "followers": 6053
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/linguee"
+        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
       },
       "twitter": {
-        "username": "deeplcom",
-        "url": "https://twitter.com/deeplcom",
-        "followers": 11497
+        "username": "RecursionPharma",
+        "url": "https://twitter.com/RecursionPharma",
+        "followers": 5002
       },
-      "yearFounded": 0,
+      "size": "51-200 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Cologne, Germany"
+        "Salt Lake City, Utah"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
+          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
         }
       ],
-      "heat": 127,
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Recursion Pharmaceuticals",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rethinkrobotics/",
+      "type": "profile",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
+      },
+      "twitter": {
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 33171
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Bochum, Germany"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
+        }
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rethink Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cruise.md",
+      "title": "Cruise",
+      "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cruise/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cruise/",
+      "type": "profile",
+      "name": "Cruise",
+      "overview": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
+      "website": "http://www.getcruise.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/getcruise/",
+        "followers": 33127
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cruise"
+      },
+      "twitter": {
+        "username": "cruise",
+        "url": "https://twitter.com/cruise",
+        "followers": 25959
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
+        }
+      ],
+      "heat": 114,
       "tags": [
-        "Natural Language Generation"
+        "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1228190173243961344/WymFcFVK_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "DeepL",
+          "title": "Cruise",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeMRk0ZPGOMg/company-logo_200_200/0?e=1594857600&v=beta&t=uI3Q5e06ECZMGvb_FCOmryqEYCz4WQSyxkpgLYb-Gac",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

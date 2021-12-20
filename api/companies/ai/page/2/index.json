@@ -4,495 +4,105 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/twilio.md",
-      "title": "Twilio",
-      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/twilio/",
+      "path": "_companies/q-ctrl.md",
+      "title": "Q-CTRL",
+      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
       "type": "profile",
-      "name": "Twilio",
-      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "website": "https://www.twilio.com/",
+      "name": "Q-CTRL",
+      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "website": "https://q-ctrl.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/twilio-inc-/",
-        "followers": 64799
+        "url": "https://www.linkedin.com/company/q-ctrl/",
+        "followers": 1236
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twilio"
+        "url": "https://www.crunchbase.com/organization/q-ctrl"
       },
       "twitter": {
-        "username": "twilio",
-        "url": "https://twitter.com/twilio",
-        "followers": 81518
+        "username": "qctrlHQ",
+        "url": "https://twitter.com/qctrlHQ",
+        "followers": 3982
       },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2008,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Twilio",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/didi-chuxing.md",
-      "title": "Didi Chuxing",
-      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/didi-chuxing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/didi-chuxing/",
-      "type": "profile",
-      "name": "Didi Chuxing",
-      "otherNames": [
-        "Didi Kuaidi",
-        "Didi",
-        "滴滴出行",
-        "滴滴"
-      ],
-      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "website": "https://www.didiglobal.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/didi-chuxing/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/didi-dache"
-      },
-      "twitter": {
-        "username": "DidiGlobal",
-        "url": "https://twitter.com/DidiGlobal",
-        "followers": 4129
-      },
-      "size": "5,001-10,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Beijing, China",
-        "海淀区, Beijing Shi"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Didi Chuxing",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/irobot.md",
-      "title": "iRobot",
-      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/irobot/index.json",
-      "webUrl": "https://everyday.cc/ai/company/irobot/",
-      "type": "profile",
-      "name": "iRobot",
-      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "website": "https://www.irobot.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/irobot/",
-        "followers": 44414
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/irobot"
-      },
-      "twitter": {
-        "username": "iRobot",
-        "url": "https://twitter.com/iRobot",
-        "followers": 42151
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 1990,
-      "locations": [
-        "Bedford, MA",
-        "Bedford, Massachusetts"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1435917599179685892/SJ95JStx_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "iRobot",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/baidu.md",
-      "title": "Baidu",
-      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
-      "webUrl": "https://everyday.cc/ai/company/baidu/",
-      "type": "profile",
-      "name": "Baidu",
-      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "website": "http://ai.baidu.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/baidu-inc/",
-        "followers": 209798
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/baidu"
-      },
-      "twitter": {
-        "username": "BaiduResearch",
-        "url": "https://twitter.com/BaiduResearch",
-        "followers": 56665
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Beijing"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 115,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Baidu",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cruise.md",
-      "title": "Cruise",
-      "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cruise/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cruise/",
-      "type": "profile",
-      "name": "Cruise",
-      "overview": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "website": "http://www.getcruise.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/getcruise/",
-        "followers": 33127
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cruise"
-      },
-      "twitter": {
-        "username": "cruise",
-        "url": "https://twitter.com/cruise",
-        "followers": 25958
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
-        }
-      ],
-      "heat": 112,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1228190173243961344/WymFcFVK_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Cruise",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeMRk0ZPGOMg/company-logo_200_200/0?e=1594857600&v=beta&t=uI3Q5e06ECZMGvb_FCOmryqEYCz4WQSyxkpgLYb-Gac",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aurora.tech.md",
-      "title": "Aurora",
-      "excerpt": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aurora.tech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aurora.tech/",
-      "type": "profile",
-      "name": "Aurora",
-      "overview": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "website": "https://aurora.tech/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aurora-inc./",
-        "followers": 21206
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aurora-6292"
-      },
-      "twitter": {
-        "username": "aurora_inno",
-        "url": "https://twitter.com/aurora_inno",
-        "followers": 12653
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
+        "SYDNEY, NSW"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI Hardware"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=4J742uB60NY"
+          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
         }
       ],
-      "heat": 108,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
+      "heat": 102,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410627461721821192/sPS0s8xu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aurora",
+          "title": "Q-CTRL",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/tusimple.ai.md",
-      "title": "TuSimple",
-      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
+      "path": "_companies/waymo.md",
+      "title": "Waymo",
+      "excerpt": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/waymo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/waymo/",
       "type": "profile",
-      "name": "TuSimple",
+      "name": "Waymo",
       "otherNames": [
-        "图森未来"
+        "The Google Car",
+        "Google self-driving car project"
       ],
-      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "website": "https://www.tusimple.com/",
+      "overview": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "website": "https://www.waymo.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/tusimple/",
-        "followers": 7150
+        "url": "https://www.linkedin.com/company/waymo/",
+        "followers": 52188
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tusimple-llc"
+        "url": "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
       },
       "twitter": {
-        "username": "tusimpleai",
-        "url": "https://twitter.com/tusimpleai",
-        "followers": 4358
+        "username": "Waymo",
+        "url": "https://twitter.com/Waymo",
+        "followers": 70792
       },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2009,
       "locations": [
-        "San Diego , CA"
+        "Mountain View, CA",
+        "Mountain View, California"
       ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
+      "funding": {},
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "Google AI"
       ],
-      "heat": 105,
+      "heat": 102,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1461090067867312133/0KghKTjM_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "TuSimple",
+          "title": "Waymo",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17631
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zscaler/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 11538
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410660608408625157/LSD1Arp9_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nuro.ai.md",
-      "title": "Nuro",
-      "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nuro.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/nuro.ai/",
-      "type": "profile",
-      "name": "Nuro",
-      "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "website": "https://nuro.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nuro-inc./",
-        "followers": 14545
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nuro-2"
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=XKXbacNQGI8"
-        }
-      ],
-      "heat": 98,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nuro",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -589,7 +199,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 82,
+          "heat": 83,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
@@ -619,7 +229,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
@@ -639,7 +249,7 @@
         }
       ],
       "size": 16,
-      "heat": 98,
+      "heat": 99,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png",
@@ -652,164 +262,149 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/intel.md",
-      "title": "Intel",
-      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/intel/index.json",
-      "webUrl": "https://everyday.cc/ai/company/intel/",
+      "path": "_companies/deepl.md",
+      "title": "DeepL",
+      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/deepl/",
       "type": "profile",
-      "name": "Intel",
-      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "website": "https://www.intel.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/intel-corporation/",
-        "followers": 1659869
-      },
+      "name": "DeepL",
+      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "website": "http://www.deepl.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/intel"
+        "url": "https://www.crunchbase.com/organization/linguee"
       },
       "twitter": {
-        "username": "IntelAI",
-        "url": "https://twitter.com/IntelAI",
-        "followers": 26490
+        "username": "deeplcom",
+        "url": "https://twitter.com/deeplcom",
+        "followers": 11497
       },
-      "size": "10,001+ employees",
-      "yearFounded": 1968,
+      "yearFounded": 0,
       "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
-      ],
-      "heat": 96,
-      "tags": [
-        "Autonomous Vehicles",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Intel",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/promo-bot.ai.md",
-      "title": "Promobot",
-      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/promo-bot.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/promo-bot.ai/",
-      "type": "profile",
-      "name": "Promobot",
-      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "website": "https://promo-bot.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/promobot"
-      },
-      "twitter": {
-        "username": "promobot",
-        "url": "https://twitter.com/promobot",
-        "followers": 2943
-      },
-      "yearFounded": 2015,
-      "locations": [
-        "Warminster Heights, PA"
+        "Cologne, Germany"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 96,
+      "heat": 98,
+      "tags": [
+        "Natural Language Generation"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Promobot",
+          "title": "DeepL",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/scale.md",
-      "title": "Scale",
-      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/scale/index.json",
-      "webUrl": "https://everyday.cc/ai/company/scale/",
+      "path": "_companies/irobot.md",
+      "title": "iRobot",
+      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/irobot/index.json",
+      "webUrl": "https://everyday.cc/ai/company/irobot/",
       "type": "profile",
-      "name": "Scale",
-      "otherNames": [
-        "Scale.ai"
-      ],
-      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "website": "https://www.scale.com",
+      "name": "iRobot",
+      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "website": "https://www.irobot.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/scaleai/",
-        "followers": 6279
+        "url": "https://www.linkedin.com/company/irobot/",
+        "followers": 44414
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/scale-2"
+        "url": "https://www.crunchbase.com/organization/irobot"
       },
       "twitter": {
-        "username": "scale_ai",
-        "url": "https://twitter.com/scale_ai",
-        "followers": 12036
+        "username": "iRobot",
+        "url": "https://twitter.com/iRobot",
+        "followers": 42151
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "size": "501-1,000 employees",
+      "yearFounded": 1990,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Bedford, MA",
+        "Bedford, Massachusetts"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "IPO"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision"
+        "AI in Robotics"
       ],
-      "heat": 96,
+      "heat": 98,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1435917599179685892/SJ95JStx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Scale",
+          "title": "iRobot",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nuro.ai.md",
+      "title": "Nuro",
+      "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nuro.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nuro.ai/",
+      "type": "profile",
+      "name": "Nuro",
+      "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
+      "website": "https://nuro.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nuro-inc./",
+        "followers": 14545
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nuro-2"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=XKXbacNQGI8"
+        }
+      ],
+      "heat": 98,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nuro",
           "isCached": true
         },
         {
-          "url": "https://scale.com/static/global/facebook-card.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Scale AI Facebook Banner",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -819,39 +414,59 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tanium/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tanium/",
+      "path": "_companies/ada.md",
+      "title": "Ada Health",
+      "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ada/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ada/",
       "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
+      "name": "Ada Health",
+      "overview": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "website": "https://ada.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ada-health",
+        "followers": 8484
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
+        "url": "https://www.crunchbase.com/organization/adahealth"
       },
       "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6808
+        "username": "adahealth",
+        "url": "https://twitter.com/adahealth",
+        "followers": 34086
       },
-      "yearFounded": 0,
+      "size": "201-500 employees",
+      "yearFounded": 2011,
       "locations": [
-        "Emeryville, CA"
+        "Berlin, Berlin"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Healthcare"
       ],
-      "heat": 96,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
+        }
+      ],
+      "heat": 93,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1438620038005723140/zVILNd_j_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Tanium",
+          "title": "Ada Health",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -903,6 +518,82 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zscaler/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 11539
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410660608408625157/LSD1Arp9_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 17632
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/datarobot.md",
       "title": "DataRobot",
       "excerpt": "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes.",
@@ -922,7 +613,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 18811
+        "followers": 18814
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -937,7 +628,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 92,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410591733272829955/p2WI_yDV_400x400.png",
@@ -957,106 +648,53 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/navya.tech.md",
-      "title": "NAVYA",
-      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/navya.tech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/navya.tech/",
+      "path": "_companies/intel.md",
+      "title": "Intel",
+      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/intel/index.json",
+      "webUrl": "https://everyday.cc/ai/company/intel/",
       "type": "profile",
-      "name": "NAVYA",
-      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "website": "https://navya.tech",
+      "name": "Intel",
+      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "website": "https://www.intel.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/navya_group/",
-        "followers": 15758
+        "url": "https://www.linkedin.com/company/intel-corporation/",
+        "followers": 1659869
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/navya-technology"
+        "url": "https://www.crunchbase.com/organization/intel"
       },
       "twitter": {
-        "username": "NAVYA_Group",
-        "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9731
+        "username": "IntelAI",
+        "url": "https://twitter.com/IntelAI",
+        "followers": 26490
       },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
+      "size": "10,001+ employees",
+      "yearFounded": 1968,
       "locations": [
-        "VILLEURBANNE, Auvergne Rhône-Alpes"
+        "Santa Clara, CA",
+        "Santa Clara, California"
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI Hardware",
+        "Computer Vision"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
-        }
-      ],
-      "heat": 87,
+      "heat": 89,
       "tags": [
-        "Autonomous Vehicles"
+        "Autonomous Vehicles",
+        "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "NAVYA",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/recursionpharma.md",
-      "title": "Recursion Pharmaceuticals",
-      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/recursionpharma/index.json",
-      "webUrl": "https://everyday.cc/ai/company/recursionpharma/",
-      "type": "profile",
-      "name": "Recursion Pharmaceuticals",
-      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "website": "https://www.recursionpharma.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
-        "followers": 6053
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-      },
-      "twitter": {
-        "username": "RecursionPharma",
-        "url": "https://twitter.com/RecursionPharma",
-        "followers": 5002
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Salt Lake City, Utah"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
-        }
-      ],
-      "heat": 87,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Recursion Pharmaceuticals",
+          "title": "Intel",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1066,84 +704,169 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/signal-ai.md",
-      "title": "Signal AI",
-      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signal-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/signal-ai/",
-      "type": "profile",
-      "name": "Signal AI",
-      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "website": "http://www.signal-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
-        "followers": 6492
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
-      },
-      "twitter": {
-        "username": "SignalHQ",
-        "url": "https://twitter.com/SignalHQ",
-        "followers": 2615
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
+      "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
+      "title": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
+      "excerpt": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/",
+      "type": "collection",
+      "name": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
+      "overview": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
+      "yearFounded": 0,
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ],
-      "videos": [
+      "topItems": [
         {
-          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
+          "path": "",
+          "title": "Nuro",
+          "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
+          "type": "profile",
+          "name": "Nuro",
+          "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 98,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Nuro",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Aurora Innovation",
+          "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
+          "type": "profile",
+          "name": "Aurora Innovation",
+          "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Aurora Innovation",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Uptake Technologies",
+          "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+          "type": "profile",
+          "name": "Uptake Technologies",
+          "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1462923429150138370/V5KC50JM_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Uptake Technologies",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Lemonade",
+          "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+          "type": "profile",
+          "name": "Lemonade",
+          "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lemonade",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
         }
       ],
-      "heat": 87,
+      "size": 50,
+      "heat": 86,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1403020094465314821/BHOPDK40_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Signal AI",
+          "title": "Nuro",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/skydio.md",
-      "title": "Skydio",
-      "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skydio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/skydio/",
+      "path": "_companies/anduril.md",
+      "title": "Anduril Industries",
+      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anduril/index.json",
+      "webUrl": "https://everyday.cc/ai/company/anduril/",
       "type": "profile",
-      "name": "Skydio",
-      "overview": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "website": "https://www.skydio.com/",
+      "name": "Anduril Industries",
+      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "website": "https://www.anduril.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/skydio/",
-        "followers": 6085
+        "url": "https://www.linkedin.com/company/18293159/",
+        "followers": 3835
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skydio"
+        "url": "https://www.crunchbase.com/organization/anduril-industries"
       },
       "twitter": {
-        "username": "SkydioHQ",
-        "url": "https://twitter.com/SkydioHQ",
-        "followers": 12323
+        "username": "anduriltech",
+        "url": "https://twitter.com/anduriltech",
+        "followers": 10277
       },
       "size": "51-200 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2017,
       "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
+        "Orange County, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1152,74 +875,75 @@
         "AI",
         "AI in Robotics"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gsfkGlSajHQ"
-        }
-      ],
-      "heat": 87,
+      "heat": 83,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1230238514735747072/0GHbZeZS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Skydio",
+          "title": "Anduril Industries",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/cerebras.net.md",
-      "title": "Cerebras Systems",
-      "excerpt": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cerebras.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cerebras.net/",
+      "path": "_companies/clarifyhealth.md",
+      "title": "Clarify Health Solutions",
+      "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clarifyhealth/index.json",
+      "webUrl": "https://everyday.cc/ai/company/clarifyhealth/",
       "type": "profile",
-      "name": "Cerebras Systems",
-      "overview": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "website": "https://www.cerebras.net/",
+      "name": "Clarify Health Solutions",
+      "overview": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
+      "website": "https://www.clarifyhealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/cerebras-systems",
-        "followers": 3222
+        "url": "https://www.linkedin.com/company/clarify-health-solutions",
+        "followers": 7518
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cerebras-systems"
+        "url": "https://www.crunchbase.com/organization/clarify-health-solutions"
       },
       "twitter": {
-        "username": "cerebrassystems",
-        "url": "https://twitter.com/cerebrassystems",
-        "followers": 3045
+        "username": "clarifyhealth",
+        "url": "https://twitter.com/clarifyhealth",
+        "followers": 798
       },
       "size": "51-200 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2015,
       "locations": [
-        "Los Altos, CA",
-        "Los Altos, California"
+        "San Francisco, CA"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=czfAzRWRjYE"
+          "url": "https://www.youtube.com/watch?v=j4LXE1HWZBk"
         }
       ],
-      "heat": 82,
+      "heat": 83,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1334540469582303232/emfdgIPB_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1427330946555162633/GOCdYnwm_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Cerebras Systems",
+          "title": "Clarify Health Solutions",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1252,7 +976,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 18358
+        "followers": 18361
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1266,7 +990,7 @@
         "AI",
         "AI in Finance"
       ],
-      "heat": 82,
+      "heat": 83,
       "tags": [
         "FinTech"
       ],
@@ -1289,32 +1013,278 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/dataminr.md",
-      "title": "Dataminr",
-      "excerpt": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dataminr/index.json",
-      "webUrl": "https://everyday.cc/ai/company/dataminr/",
+      "path": "_companies/didi-chuxing.md",
+      "title": "Didi Chuxing",
+      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/didi-chuxing/index.json",
+      "webUrl": "https://everyday.cc/ai/company/didi-chuxing/",
       "type": "profile",
-      "name": "Dataminr",
-      "overview": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
-      "website": "https://www.dataminr.com/",
+      "name": "Didi Chuxing",
+      "otherNames": [
+        "Didi Kuaidi",
+        "Didi",
+        "滴滴出行",
+        "滴滴"
+      ],
+      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "website": "https://www.didiglobal.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/dataminr",
-        "followers": 38135
+        "url": "https://www.linkedin.com/company/didi-chuxing/",
+        "followers": 0
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/dataminr"
+        "url": "https://www.crunchbase.com/organization/didi-dache"
       },
       "twitter": {
-        "username": "dataminr",
-        "url": "https://twitter.com/dataminr",
-        "followers": 15571
+        "username": "DidiGlobal",
+        "url": "https://twitter.com/DidiGlobal",
+        "followers": 4129
       },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
+      "size": "5,001-10,000 employees",
+      "yearFounded": 2012,
       "locations": [
-        "New York, NY",
-        "New York, NY"
+        "Beijing, China",
+        "海淀区, Beijing Shi"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Didi Chuxing",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fundbox.md",
+      "title": "Fundbox",
+      "excerpt": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fundbox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fundbox/",
+      "type": "profile",
+      "name": "Fundbox",
+      "overview": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "website": "https://fundbox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fundbox",
+        "followers": 10859
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fundbox"
+      },
+      "twitter": {
+        "username": "fundbox",
+        "url": "https://twitter.com/fundbox",
+        "followers": 7974
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 83,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410673429359960069/Xzua6Ceq_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fundbox",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tanium/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tanium/",
+      "type": "profile",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tanium"
+      },
+      "twitter": {
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6808
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1438620038005723140/zVILNd_j_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/taskus.md",
+      "title": "TaskUs",
+      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/taskus/index.json",
+      "webUrl": "https://everyday.cc/ai/company/taskus/",
+      "type": "profile",
+      "name": "TaskUs",
+      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "website": "https://www.taskus.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/taskus",
+        "followers": 42675
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/taskus"
+      },
+      "twitter": {
+        "username": "taskus",
+        "url": "https://twitter.com/taskus",
+        "followers": 4544
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Santa Monica, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
+        }
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1339767351122612224/frWCbdlU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TaskUs",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/casetext.md",
+      "title": "Casetext",
+      "excerpt": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/casetext/index.json",
+      "webUrl": "https://everyday.cc/ai/company/casetext/",
+      "type": "profile",
+      "name": "Casetext",
+      "overview": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com.",
+      "website": "https://www.casetext.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/casetext",
+        "followers": 1569
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/casetext"
+      },
+      "twitter": {
+        "username": "casetext",
+        "url": "https://twitter.com/casetext",
+        "followers": 5696
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732990695212883968/5jqQ8YCM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Casetext",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1594857600&v=beta&t=QAxbj2FiDekS3sJOM3nLO0YH-CVMPmTShIHKMXiZmPc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/contentsquare.md",
+      "title": "ContentSquare",
+      "excerpt": "Contentsquare is a digital experience insights platform that helps businesses understand how and why users are interacting with their app, mobile and web sites.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/contentsquare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/contentsquare/",
+      "type": "profile",
+      "name": "ContentSquare",
+      "overview": "Contentsquare is a digital experience insights platform that helps businesses understand how and why users are interacting with their app, mobile and web sites.",
+      "website": "https://contentsquare.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/contentsquare/",
+        "followers": 20327
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/content-square"
+      },
+      "twitter": {
+        "username": "ContentSquare",
+        "url": "https://twitter.com/ContentSquare",
+        "followers": 6746
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Paris, France",
+        "Paris, Île-de-France"
       ],
       "funding": {
         "status": "Late Stage Venture"
@@ -1322,17 +1292,20 @@
       "topics": [
         "AI"
       ],
-      "heat": 82,
+      "heat": 78,
+      "tags": [
+        "Europe"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410653495364050945/vYMEe3UF_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1410659134064627714/TnVZ0Yzn_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Dataminr",
+          "title": "ContentSquare",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQG2kAj4CCvS5A/company-logo_200_200/0?e=1594857600&v=beta&t=AF0-ztGIIlzApnWKkoR78UhVoZHN6M01jvYIDh6RF5Q",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1342,51 +1315,166 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/fetchrobotics.md",
-      "title": "Fetch Robotics",
-      "excerpt": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fetchrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fetchrobotics/",
+      "path": "_companies/ekar.ae.md",
+      "title": "Ekar",
+      "excerpt": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ekar.ae/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ekar.ae/",
       "type": "profile",
-      "name": "Fetch Robotics",
-      "overview": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "website": "http://fetchrobotics.com/",
+      "name": "Ekar",
+      "overview": "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use.",
+      "website": "https://ekar.ae/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/fetch-robotics/",
-        "followers": 12155
+        "url": "https://www.linkedin.com/company/ekar/",
+        "followers": 6324
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fetch-robotics"
+        "url": "https://www.crunchbase.com/organization/ekar"
       },
       "twitter": {
-        "username": "fetchrobotics",
-        "url": "https://twitter.com/fetchrobotics",
-        "followers": 8021
+        "username": "MyEKar",
+        "url": "https://twitter.com/MyEKar",
+        "followers": 872
       },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
+      "size": "11-50 employees",
+      "yearFounded": 2015,
       "locations": [
-        "San Jose, CA",
-        "San Jose, California"
+        "Dubai, Dubai"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 78,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1147039057060515840/rYnzOJXT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ekar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/icertis.md",
+      "title": "Icertis",
+      "excerpt": "Icertis, the leading enterprise contract management platform in the cloud, solves the hardest contract management problems on the easiest to use platform. With Icertis, companies accelerate their business by increasing contract velocity, protect against risk by ensuring regulatory and policy compliance, and optimize their commercial relationships by maximizing revenue and reducing costs. The AI-infused Icertis Contract Management (ICM) platform is used by companies like 3M, Airbus, Cognizant, Daimler, Microsoft and Sanofi to manage 6.5 million contracts in 40+ languages across 90+ countries.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/icertis/index.json",
+      "webUrl": "https://everyday.cc/ai/company/icertis/",
+      "type": "profile",
+      "name": "Icertis",
+      "overview": "Icertis, the leading enterprise contract management platform in the cloud, solves the hardest contract management problems on the easiest to use platform. With Icertis, companies accelerate their business by increasing contract velocity, protect against risk by ensuring regulatory and policy compliance, and optimize their commercial relationships by maximizing revenue and reducing costs. The AI-infused Icertis Contract Management (ICM) platform is used by companies like 3M, Airbus, Cognizant, Daimler, Microsoft and Sanofi to manage 6.5 million contracts in 40+ languages across 90+ countries.",
+      "website": "https://www.icertis.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/icertis",
+        "followers": 45566
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/icertis"
+      },
+      "twitter": {
+        "username": "Icertis",
+        "url": "https://twitter.com/Icertis",
+        "followers": 3154
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410672840446300160/sHuZsuUy_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Icertis",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE-546asH0PBA/company-logo_200_200/0?e=1594857600&v=beta&t=HpmBUK5-y2SgOxtgnhy2SHuftYcd5t2NEUFXuBJ4fAQ",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sensetime.md",
+      "title": "SenseTime",
+      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sensetime/",
+      "type": "profile",
+      "name": "SenseTime",
+      "otherNames": [
+        "商汤科技",
+        "商汤",
+        "Shangtang Keji"
+      ],
+      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "website": "https://www.sensetime.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
+        "followers": 27507
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sensetime"
+      },
+      "twitter": {
+        "username": "sensetime_ai",
+        "url": "https://twitter.com/sensetime_ai",
+        "followers": 1626
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Hong Kong, Hong Kong"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning",
+        "Computer Vision"
       ],
-      "heat": 82,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
+        }
+      ],
+      "heat": 78,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/530610645922627585/yuttxu7l_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Fetch Robotics",
+          "title": "SenseTime",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_200_200/0?e=1594857600&v=beta&t=Z3KYnqVA2iCUZf_xBP4sK2NWowBUlHt06P7TaPrIz7M",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1396,29 +1484,267 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gong.io.md",
-      "title": "Gong.io",
-      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gong.io/",
+      "path": "_companies/collections/ai-companies-in-austin-texas.md",
+      "title": "Austin AI Companies",
+      "excerpt": "List of AI companies in Austin.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-austin-texas/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-austin-texas/",
+      "type": "collection",
+      "name": "Austin AI Companies",
+      "overview": "List of AI companies in Austin.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Alegion",
+          "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+          "type": "profile",
+          "name": "Alegion",
+          "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Alegion",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anaconda",
+          "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+          "type": "profile",
+          "name": "Anaconda",
+          "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anaconda",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "CognitiveScale",
+          "excerpt": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+          "type": "profile",
+          "name": "CognitiveScale",
+          "overview": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/681884599027273729/aJmkTYTt_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "CognitiveScale",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C510BAQG_v-5Ww-04OQ/company-logo_200_200/0?e=1594857600&v=beta&t=hcGIpY_HmsPXPq2B0W7a9of72rYMt2XSnpJDbtf7iVA",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Diligent Robotics",
+          "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+          "type": "profile",
+          "name": "Diligent Robotics",
+          "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Diligent Robotics",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Alegion",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/actioniq/index.json",
+      "webUrl": "https://everyday.cc/ai/company/actioniq/",
       "type": "profile",
-      "name": "Gong.io",
-      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "website": "https://www.gong.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gong-io/",
-        "followers": 27534
-      },
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gong-io"
+        "url": "https://www.crunchbase.com/organization/actioniq"
       },
       "twitter": {
-        "username": "gong_io",
-        "url": "https://twitter.com/gong_io",
-        "followers": 6738
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1298
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActionIQ",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/algolia/",
+      "type": "profile",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algolia"
+      },
+      "twitter": {
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 24518
       },
       "size": "201-500 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+        }
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1466853476818956290/thA2D_dd_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Algolia",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/arterys.md",
+      "title": "Arterys",
+      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/arterys/index.json",
+      "webUrl": "https://everyday.cc/ai/company/arterys/",
+      "type": "profile",
+      "name": "Arterys",
+      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
+      "website": "https://arterys.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2649064",
+        "followers": 6047
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/arterys"
+      },
+      "twitter": {
+        "username": "arterysinc",
+        "url": "https://twitter.com/arterysinc",
+        "followers": 1930
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
@@ -1428,121 +1754,24 @@
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
-        "AI in Sales"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
-        }
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1445782969088544768/ULVDeanz_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Gong.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/insitro.md",
-      "title": "Insitro",
-      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insitro/index.json",
-      "webUrl": "https://everyday.cc/ai/company/insitro/",
-      "type": "profile",
-      "name": "Insitro",
-      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "website": "http://www.insitro.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/insitro/",
-        "followers": 2353
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insitro"
-      },
-      "twitter": {
-        "username": "insitro",
-        "url": "https://twitter.com/insitro",
-        "followers": 3518
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "South San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ],
-      "heat": 82,
-      "tags": [
-        "Biotech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insitro",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
-      "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
-      },
-      "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5847
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
+          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
         }
       ],
-      "heat": 82,
+      "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Preferred Networks",
+          "title": "Arterys",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1552,118 +1781,50 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/clarifyhealth.md",
-      "title": "Clarify Health Solutions",
-      "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clarifyhealth/index.json",
-      "webUrl": "https://everyday.cc/ai/company/clarifyhealth/",
+      "path": "_companies/brainomix.md",
+      "title": "Brainomix",
+      "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/brainomix/index.json",
+      "webUrl": "https://everyday.cc/ai/company/brainomix/",
       "type": "profile",
-      "name": "Clarify Health Solutions",
-      "overview": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
-      "website": "https://www.clarifyhealth.com/",
+      "name": "Brainomix",
+      "overview": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "website": "http://www.brainomix.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/clarify-health-solutions",
-        "followers": 7518
+        "url": "https://www.linkedin.com/company/brainomix",
+        "followers": 1428
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clarify-health-solutions"
+        "url": "https://www.crunchbase.com/organization/brainomix"
       },
       "twitter": {
-        "username": "clarifyhealth",
-        "url": "https://twitter.com/clarifyhealth",
-        "followers": 799
+        "username": "brainomix",
+        "url": "https://www.twitter.com/brainomix",
+        "followers": 1011
       },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
+      "size": "11-50 employees",
+      "yearFounded": 2010,
       "locations": [
-        "San Francisco, CA"
+        "Oxford, UK",
+        "Oxford"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=j4LXE1HWZBk"
+          "url": "https://www.youtube.com/watch?v=S2eI-YOtTZg"
         }
       ],
-      "heat": 77,
+      "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1427330946555162633/GOCdYnwm_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1315595764765282305/gMF76Sl7_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Clarify Health Solutions",
+          "title": "Brainomix",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/liulishuo.md",
-      "title": "Liulishuo",
-      "excerpt": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/liulishuo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/liulishuo/",
-      "type": "profile",
-      "name": "Liulishuo",
-      "overview": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "website": "https://www.liulishuo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/liulishuo/",
-        "followers": 3501
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/liulishuo"
-      },
-      "twitter": {
-        "username": "lingochamp",
-        "url": "https://twitter.com/lingochamp",
-        "followers": 1185
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Shanghai, Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
-        }
-      ],
-      "heat": 77,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Liulishuo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
