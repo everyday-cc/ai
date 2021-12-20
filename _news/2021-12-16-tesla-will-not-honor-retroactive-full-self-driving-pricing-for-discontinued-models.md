@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla self driving Beta went against the most dangerous roads in the US"
-    excerpt: "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon."
-    publishedDateTime: 2021-12-16T04:08:00Z
-    webUrl: "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/"
+  - title: "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency"
+    excerpt: "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,"
+    publishedDateTime: 2021-12-20T10:55:00Z
+    webUrl: "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/"
+    ampWebUrl: "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 69
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png"
-        width: 1024
-        height: 570
-        isCached: true
-  - title: "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident"
-    excerpt: "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers."
-    publishedDateTime: 2021-12-17T14:39:00Z
-    webUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif"
-        width: 600
-        height: 325
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "v/rIErO9XursI0egadxnKxJyA4bb4MJ3UR3rfVHXu/Rk5u0RSGjfAk3HgPeL4N8Gc3C1oY5DY1sciyM3S/NqXDRvRBBb+/lMOoUjkQg3JJuWTbx4ldpsMHRPUSIxtltLEWm5lq4ak19jojUsyA0TcriLk0KzrxEz8VTuCvF2DjYsrIwl+qtld47/ibfNDHCyaYFC+JSgWzErRqyznZVZQFQQN0SzivnwL7TRMzIo2hGyJReBA2xfqwzU6Mh42om4YetyyXii+P4xx9oZQfr64BPECVoT2wnw54haPsvNxTU8hItzAdh+CIVPNTccbuIDKK8kzJ7gJ2QNTGbBbj5IMhJl6G5mTZeR0dugT1FCu0JAKkFjCUhgqrlriOHLrhKYXZhIdrVtUbK/tuRS+uC3+78ryZInGit5nTd9w4oCwljNbJXRMtXuRVXOgh2yXt84cBGVRggKLetoYhe9YaEpOZOLalRKuAxLJEswe17YcTIc2jcOi5W8rXq5pcRTr9R7Dnx+ZP05H92N+nvyzGBUKg==;KQlbqMuavcNakReNZgcdjg=="

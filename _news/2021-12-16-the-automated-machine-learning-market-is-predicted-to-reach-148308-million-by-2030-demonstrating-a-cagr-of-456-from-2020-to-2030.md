@@ -21,17 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "The healthcare claims management market by revenue is expected to grow at a CAGR of 4.79% during the period 2022–2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Healthcare Claims Management Market - Global Outlook & Forecast"
-    publishedDateTime: 2021-12-16T11:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24640377/the-healthcare-claims-management-market-by-revenue-is-expected-to-grow-at-a-cagr-of-4-79-during-th"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24640377"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24640377"
+  - title: "Speech-to-text API Market predicted to grow $5.4 billion by 2026"
+    excerpt: "According to a new market research report Speech to text API Market by Component Software and Services Application Fraud Detection Prevention Content Transcription Subtitle Generation Deployment Mode Organization Size Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the"
+    publishedDateTime: 2021-12-20T12:17:00Z
+    webUrl: "https://www.openpr.com/news/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc20549053_g.jpg"
+        width: 641
+        height: 425
+        isCached: true
 
 secured: "vxr593Go4z24/BJFcqRmizJTrJs7KDipH/BGT/ZoFhlq/IQx6i6QZOan14YY8bnQu1PZyeWH7J3EzKnZ/sHUldtOmuF5tFRPJ+zHWJWPCcy0KF6KoNBxMG9Pto9pmMVEWHmbS0abmLiCvLgz5F2eZDRMOwqhhYYSOsIO+nkvqheQrRgnNT6IfpanlukLZAeDj5I/zLgW8MqUHwtRe4jx1uhhB0gRgXVYZVbtRzwYaeVaCJifJtaehs+kpUMsQY2trInDBQeQ0XX0ges3CVM9B/VgF4aUHR3kJn06HJkZupOxqiN2Ly0RspJyLaJtSQ/c6Gbp2v1sbvqAPEIKYMioIdpcTcFLn/FITEleDr2B2OQ=;2HA0otQ0ZrE8wVcqYrI8Tw=="
 ---

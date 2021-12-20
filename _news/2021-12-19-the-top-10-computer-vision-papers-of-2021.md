@@ -7,7 +7,7 @@ originalUrl: "https://github.com/louisfb01/top-10-cv-papers-2021"
 webUrl: "https://github.com/louisfb01/top-10-cv-papers-2021"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Top 10 artificial intelligence stories of 2021"
+    excerpt: "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021"
+    publishedDateTime: 2021-12-20T05:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021"
+    ampWebUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/storage_g539954410.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "YQYSUvo6uOoeZL1Y9yfjay+93GtrUCCyMr6dMwbXeagkEPf7z0MSQmN1mcB4FvujCo/02rQyeqwosx+uVaieMWY6az5y/E+EOEU9QFG4k6BckHDeW4TbIk6DP5CL2R97l9m7lCeI9HeTRp3DDyGQlJ7aA2bpTR4YYl1ea85E08EHEDFIDIXJBQvwUSQMsxU4evH/28+D2ldy4BHkldu6tpjkqZws+f3kZ/Rto+P3UNZ+U18c5AEx9MhwYc7hCtkBjkyhlUcJmpgZu0TOFzi0w6MHEVSy5m/HQeD3gedG9/7ERflPgoN5DJ1PXGagidtLT9KDmT/J4xvamJlngO0+qy4UMU6ORxu5SQQkx0yszZw=;lNY4kTjOd1L0Nl1ewuQBGA=="
 ---

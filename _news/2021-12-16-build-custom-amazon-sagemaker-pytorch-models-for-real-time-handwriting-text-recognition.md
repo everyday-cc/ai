@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model"
-    excerpt: "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum"
-    publishedDateTime: 2021-12-15T20:14:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/"
+  - title: "Achieve 35% faster training with Hugging Face Deep Learning Containers on Amazon SageMaker"
+    excerpt: "Natural language processing (NLP) has been a hot topic in the AI field for some time. As current NLP models get larger and larger, data scientists and developers struggle to set up the infrastructure for such growth of model size. For faster training time, distributed training across multiple machines"
+    publishedDateTime: 2021-12-15T22:46:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 140
+    quality: 111
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg"
-        width: 701
-        height: 371
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-5271-image003.jpg"
+        width: 2286
+        height: 1056
         isCached: true
 
 secured: "+Pzcodr8UyH7vb8GXBlqdV9BO+t3taa4eEcCDJIda+LMcmqSqKT4j3YnVBaWc0vDoX1i4r4fij3JWUqLAYV1aPKnQnyQnEpCu4MkPdtMHXXWSRdZSxfv/DjZFEOF1tvrZdku88R8kZ6YbJhYN/IUdgetuyGKFRmgAu3z+vsgVgNqD32zTs8klMy+rE9LRRo1/3O4KdrMIgpIIjL5QURz+6xJp7ho4pL/6ArKLRwA3NYADFkjsx1luVqh0dYO8kPGNokxYbBM+eyjUGUCEBbtg6DOkpG57lDFvpqo5eQ2w57VQHJhfFjCboSzSbSCrEAW+rDizfKAZq/SYzEjUCtWH9e3XSuGXxJ9Fp/UQMhBQj0=;DV0SjthVM1IDxvt+/L45Qg=="

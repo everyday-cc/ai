@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-tr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/"
 type: article
 quality: 111
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 2286
     height: 1056
     isCached: true
+
+related:
+  - title: "Build custom Amazon SageMaker PyTorch models for real-time handwriting text recognition"
+    excerpt: "In many industries, including financial services, banking, healthcare, legal, and real estate, automating document handling is an essential part of the business and customer service. In addition, strict compliance regulations make it necessary for businesses to handle sensitive documents, especially"
+    publishedDateTime: 2021-12-16T20:02:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-4925-image003.jpg"
+        width: 4004
+        height: 2132
+        isCached: true
 
 secured: "FV1J6BykMxHQ9CyUYkKYwPYu3HwfaSKAbXwVfA2H4Aq4ndjEPnyKeQl+aGX7YMSIiM34Wxcjvsv4HEbfHWfMLwMagohEvfwDdrgmf6ewZHu42t/NlDhastxeXpJ+PICmdGFlvuPhngvWGsFEpBqMAfeezx2qVknIaYFny97WXo6+YG6yWQ6gp8vl0pr9oNqVqT1Gu9b7xcxgm3cc5Vyz85eezRSNf5EvvPPQQ2cHyIRRTYYsgOlzxclFWO/urnK64ky3SJ5YjA+ywOMl2LfVGNxSD+OfErTem9fqgJbz/chxyYlyZkGQJEojmB0lg9t7vL84HbfapEMrWpVuehsHW1ZXAgSRXkhYNNia8/L4Rvw=;w++Gf7SSai+LbEbg1xiCsw=="
 ---

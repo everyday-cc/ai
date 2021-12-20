@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/2021-review-ai-automation-robophobia-and-how-cur
 ampWebUrl: "https://diginomica.com/2021-review-ai-automation-robophobia-and-how-cure-it?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2021-review-ai-automation-robophobia-and-how-cure-it?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2021-12/CHRIS.png"
@@ -25,6 +26,6 @@ images:
     height: 974
     isCached: true
 
-secured: "D/UD6G9pqovyCc+gC/vuymWbdSH92RXXvB8Ki9iYspdwlVAdngnkOyQH2pR6PXX9tzo3vMhrrwA19Pcck5gD6La8QWC1EdzrgK39ycEEHfb2KMDFKC0BhiHwU52IZNO7+JU7Dd3yWQg8zMUSaVOEwme9vSJ2CPRQxuDrMzBj0wEtUr2xATkyxEffbUiuqEKyyl01W1qoihpCysADPK2Adaj9BpnWShtcrAoC1VIk3OMNJl/WOeZ8ECT/As4CBOXMAuzZJ3iB2Bu7TQh7nEEF9Lqv9PG1y5YwY/5nauCcx09M2TCjASD1PtyC0ErLYOjV1/uevV1LGTsEOYrUoIAB4Ebznh8NABpBKjGeHqCIL+Q=;8XJwPa4ie3/zOE+3V91aVw=="
+secured: "Kv3bFZSr0GnA8bptpAuUDnNAsnAvnyxGw7a1O+bLjd0bmr0EinHd36tdZ2sCAxP2loeqrGujGdTthXX28QUlj+QMMjnFqc5bDAiNUj4bgUcmDJZ3cxH0ydqzrnKiItdkBGkIGhxdn5BV4GOQxQjG/IlrQKUrDcODrW8FRg9gP2O8wwRvdGmPovGq2zA2yJz2fkhcNklldqF4lgXSKDdmTslOGnHjtgOo1a3enb3mbBnY23sP48t6k8wVdD6trEGoiel8my2nIWYb9F0wNJLqwBZmo1JkxG7BtxMOyjcrspiuMVXXTGFgSScXTryIlmZ3XYYhvEjqiES2+vPN5GWC8aaeYOHtWUNMygqMazX0PN83monYPHO/LEV5EnF0kjLI3nieXAqwyAjzCzP89SpkL7VtQM81tl44t7KryieQqTFd9mpTBa6aZVtt2mTNiSPh6tinZL6U8zQjGxjtYvkPMaSJyjpTjkl1A8PyRna9fIh7w857IkaTlQ3sQm51iC2CJTrDiSTF7jgJniEu9I/mpA==;XXBNRYpMgWzO+F4/brP1sw=="
 ---
 

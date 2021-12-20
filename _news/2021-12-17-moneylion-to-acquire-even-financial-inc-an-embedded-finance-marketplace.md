@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/moneylion_3.png"
         width: 1164
         height: 608
+        isCached: true
+  - title: "Moneylion to acquire Even Financial for USD 440 mln"
+    excerpt: "Digital financial platform <a href=' target='_blank'>MoneyLion has agreed to acquire embedded finance marketplace <a href=' target='_blank'>Even Financial to accelerate its mission of providing financial access and advice to hardworking"
+    publishedDateTime: 2021-12-20T10:08:00Z
+    webUrl: "https://thepaypers.com/online-mobile-banking/moneylion-to-acquire-even-financial-for-usd-440-mln--1253545"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 24
+    images:
+      - url: "https://thepaypers.com/images/social_media/acquisition-social-media_LI.png"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Virtu Financial Announces Inaugural Internal Global Automation Hackathon Team Winners"
     excerpt: "Virtu Financial, Inc. (Nasdaq:VIRT), a global market maker, broker and leading provider of global financial services technology today announced the successful completion of its inaugural Global Automation Hackathon,"

@@ -85,6 +85,20 @@ related:
         width: 875
         height: 492
         isCached: true
+  - title: "NVIDIA Develops Data Generation Engine for AI Training"
+    excerpt: "NVIDIA is introducing a data generation engine to produce physically simulated synthetic data for training artificial learning (AI) deep neural networks. See more here:"
+    publishedDateTime: 2021-12-20T12:03:00Z
+    webUrl: "https://www.datamation.com/big-data/nvidia-data-generation-engine-synthetic-ai-training/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2020/12/nvidia-launches-a-workstation-ray-tracing-revolution_5fceb7db863d8.png"
+        width: 1920
+        height: 948
+        isCached: true
 
 secured: "xoazG566xSATibE5iFzcJ2dDfeZSFM34VV2OnmBSfUWpWhQop5b4QfdJksU1dwdZHgS0Z8q6ys48RfGB9vf1zUfsDNJJoQTwBYASDW66o89DhP2UrdEJ9sZFBIq1Ta/dZEUtiyHxUBg6VuKSGnWzbcMjc8z/lWnneB3RzjoWbkeWP/a0GcBbUGkzlHyZxWDo0bw/wGjywl6EMnha03v7+SPHY2gXuWSqkYljIgjlIqEdNuAp8wd9gTZzPitmQs3uCJGj+FTRKcwwxWqqQIMNbcWDP4Qvwm6cZnu8XZjWl+EFkU7I2CksIjQ2oa2FfvRrZ7RI/PrS4Ndk4WUtQIOT7T6wQuBtHPcI7Xjh8nHMTM27SdjySEgUI0KN/7R9XXFWHHUyM1cxbZoT9+2PW+ew717azAuZWbnwUMILnCP7UYwQCn7nvM2xnpa/aAxMh+k1PnLHq2xW/rpv9uD+SU01ETnghs9o51jJtkl7/dR63fHOLCaT9OPKIQLVAPtVfC8oxjk/9bi0VrNIKshQB7MCjQ==;ybuwnHP5gZqmsPu0f5Brvw=="
 ---

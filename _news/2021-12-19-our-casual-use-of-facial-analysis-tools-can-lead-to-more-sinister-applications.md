@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tool
 webUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tools-can-lead-to-more-sinister-applications-172595"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1356
     height: 668
     isCached: true
+
+related:
+  - title: "Our casual use of facial analysis tools can lead to more sinister applications"
+    excerpt: "On Dec. 14, the governments of British Columbia, Alberta and Québec ordered facial recognition company Clearview AI to stop collecting—and to delete—images of people obtained without their consent. Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations,"
+    publishedDateTime: 2021-12-20T12:17:00Z
+    webUrl: "https://techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-casual-facial-analysis-tools-sinister.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/our-casual-use-of-faci.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "JYafDbB8S96Y82kd7KIdIxjle5CECSB3sD4xvOTs4QoMMtqSzCEl9Xpebl7xUQGs9p0iPHHWnAVTtvi60X6PR0NEj20EdB8ilFYrC6wKynkYqwke0vaHfZanK3t5SqyzBf6tgcW5A7vNN+pj8/m8N/jLaWPJEDcxbmky45UicSv84pfcRNgaEgiD61fLGd81GlY/5I+H5hac/069+/zKrEzeedwPMYIbryft8fft43rvD5+pS+xI0qdB5QTeUfjtl4aMCYrHp4nMDtJhqjf/D064ar0zCWkd/CZsO67UuLRPB77kNJj/r+1zDtrJe1ozMkFSMeBjHbJUVJ02bXb+91jpczhS7kOZjo2eizHzeDUjLNtimTAbr/rAnQcJyUJsNaLSiIgcg08X+g861KbsZvJqGt5XAuftcaDPZrWQypD96IpFWNqd1Bgcj4IAdG8U4GWG7vj94ubs7vpEDyNSBuMIojOn8aLDTakRNpaeOcpqmbrulnyqkl9gdKKgZDIZod240iN5N/rFFqM8AN2G8g==;cwCfWGV7BhTxg2apsoX4vw=="
 ---

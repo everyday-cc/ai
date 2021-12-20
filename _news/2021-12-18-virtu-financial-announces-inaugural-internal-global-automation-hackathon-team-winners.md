@@ -57,6 +57,20 @@ related:
         width: 1164
         height: 608
         isCached: true
+  - title: "Moneylion to acquire Even Financial for USD 440 mln"
+    excerpt: "Digital financial platform <a href=' target='_blank'>MoneyLion has agreed to acquire embedded finance marketplace <a href=' target='_blank'>Even Financial to accelerate its mission of providing financial access and advice to hardworking"
+    publishedDateTime: 2021-12-20T10:08:00Z
+    webUrl: "https://thepaypers.com/online-mobile-banking/moneylion-to-acquire-even-financial-for-usd-440-mln--1253545"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 24
+    images:
+      - url: "https://thepaypers.com/images/social_media/acquisition-social-media_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
     excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
     publishedDateTime: 2021-12-16T11:02:00Z

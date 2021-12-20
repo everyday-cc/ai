@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20211216005386/hear
 webUrl: "https://www.morningstar.com/news/business-wire/20211216005386/hearsay-systems-offers-financial-industrys-first-ai-powered-video-compliance-pre-review-solution"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "AI-Powered Financial Concierge Zeni Augments Leadership Ranks in Preparation for Busy 2022"
-    excerpt: "AI-powered finance concierge Zeni today announced it has appointed Carl Hekkert as Chief Financial Officer of customer success and Collin Cadmus as chief revenue officer, both the first executives to hold the roles at the company."
-    publishedDateTime: 2021-12-15T20:54:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/184264-ai-powered-financial-concierge-zeni-augments-leadership-ranks-in-preparation-for-busy-2022/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184264-ai-powered-financial-concierge-zeni-augments-leadership-ranks-in-preparation-for-busy-2022/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184264-ai-powered-financial-concierge-zeni-augments-leadership-ranks-in-preparation-for-busy-2022/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg"
-        width: 1200
-        height: 1568
-        isCached: true
 
 secured: "J9Jxn2MHvGeXK2z7ocG2aob4y4uNT1d8lU18eJBzdcAuHtY7OOzuYk4zi3MvF7hoqzm4JwygRv5Vpx8g9BkpiYMoY29QZgIbtbiItxYBVeq65l6Y+WRrTTeXXwkSLm3Fqf00ytarFK54E4h9xvs9dkbcvUGA6zFz64tpfTfhnig4+V4JBpRJAaM9aWDLl6ZkqjfxOsribPw30NlIkg61Jd1MpJoR9gu1xH5ttO10dfeYaghYctiSEWPSukHCYEGKvbBPPptNHHoxUFHVS+nY+CcFhMYiyL3RrJVa6/LkXrKo39KSD01PtJEHMO5ibWINXCRGW9SJ1U80j1xo2iexegLNITFVym6hqHMBkr1ghY8=;L/YISvvj4Xm1P7WxsqZbpQ=="
 ---
