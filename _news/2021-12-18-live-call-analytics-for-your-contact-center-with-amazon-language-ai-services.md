@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/live-call-analytics-for-your-contact-center-with-amazon-language-ai-services/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/16/ML-5919-image032.png"
         width: 857
         height: 583
-        isCached: true
-  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
-    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
-    publishedDateTime: 2021-12-15T12:28:00Z
-    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 41
-    images:
-      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
-        width: 750
-        height: 400
         isCached: true
   - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
     excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"

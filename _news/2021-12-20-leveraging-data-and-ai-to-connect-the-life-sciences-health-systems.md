@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-20T01:07:00Z
 originalUrl: "https://www.ajmc.com/view/leveraging-data-and-ai-to-connect-the-life-sciences-health-systems"
 webUrl: "https://www.ajmc.com/view/leveraging-data-and-ai-to-connect-the-life-sciences-health-systems"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/7eb11a7c26e4b35a0dadf8e7625dc8a61640862b-1280x720.png?fit=crop&auto=format"

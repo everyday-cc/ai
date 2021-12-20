@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-facial-recognitio
 webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15"
 type: article
 quality: 59
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://i1.wp.com/www.nationofchange.org/wp-content/uploads/2016/09/fbsharelogo.png?fit=291%2C291&#038;ssl=1"
         width: 291
         height: 291
+        isCached: true
+  - title: "Survey sheds light on police use of facial recognition"
+    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+    publishedDateTime: 2021-12-18T07:30:00Z
+    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."

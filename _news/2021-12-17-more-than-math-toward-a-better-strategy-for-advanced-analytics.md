@@ -54,22 +54,6 @@ related:
         width: 857
         height: 583
         isCached: true
-  - title: "AI-led analytics have the ability to efficiently and effectively make an impact on quality of care across the global healthcare industry"
-    excerpt: "Shub Bhowmick, CEO and Co-founder, Tredence in an interaction with Express Healthcare talks about the role of AI-led analytics in providing the value-driven health"
-    publishedDateTime: 2021-12-15T12:28:00Z
-    webUrl: "https://www.expresshealthcare.in/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/ai-led-analytics-have-the-ability-to-efficiently-and-effectively-make-an-impact-on-quality-of-care-across-the-global-healthcare-industry/432579/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 41
-    images:
-      - url: "https://www.expresshealthcare.in/wp-content/uploads/2021/12/EH_Shub_Bhowmick_Tredence_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
 
 secured: "A4mG3QE+3JRpLPJsCtXb7w9Nm+FzVdR+jZhjvnC0+Nf9oRbNI6P4i2UvL0UX5km8qxUqydkOe2NYQGe8TxzmM0PbUfrqWPkzGmC0tmt5/sgagYQ09rAGddx5cWQEBoo8GTAaSjWWDW6nnuSpvVLv4ARkxq+sC+sUiW2eQXp6Tjl8fZt1R/6JchnwN0EVxB+y0GCQn7yAPbhOMrzl2ispYBnVu+plx4UIVuTYIjBHn7M/Ls4Tg3d8aUJKV6Z1lrCe/vS6bOBhP5f7DMjQ5IzyoaUmSVM/VeZqIWXFx8/gN7l8anjflad9iLilN03DQvisp7liI8fm86sCP/jh3tsHYLDIiHobqhMgzlslIamUUXQ=;fG0H6NKxseJboLN2Ofio/A=="
 ---

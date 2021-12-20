@@ -71,17 +71,6 @@ related:
         width: 600
         height: 325
         isCached: true
-  - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
-    excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
-    publishedDateTime: 2021-12-15T12:03:00Z
-    webUrl: "https://interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    ampWebUrl: "https://amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
 
 secured: "v/rIErO9XursI0egadxnKxJyA4bb4MJ3UR3rfVHXu/Rk5u0RSGjfAk3HgPeL4N8Gc3C1oY5DY1sciyM3S/NqXDRvRBBb+/lMOoUjkQg3JJuWTbx4ldpsMHRPUSIxtltLEWm5lq4ak19jojUsyA0TcriLk0KzrxEz8VTuCvF2DjYsrIwl+qtld47/ibfNDHCyaYFC+JSgWzErRqyznZVZQFQQN0SzivnwL7TRMzIo2hGyJReBA2xfqwzU6Mh42om4YetyyXii+P4xx9oZQfr64BPECVoT2wnw54haPsvNxTU8hItzAdh+CIVPNTccbuIDKK8kzJ7gJ2QNTGbBbj5IMhJl6G5mTZeR0dugT1FCu0JAKkFjCUhgqrlriOHLrhKYXZhIdrVtUbK/tuRS+uC3+78ryZInGit5nTd9w4oCwljNbJXRMtXuRVXOgh2yXt84cBGVRggKLetoYhe9YaEpOZOLalRKuAxLJEswe17YcTIc2jcOi5W8rXq5pcRTr9R7Dnx+ZP05H92N+nvyzGBUKg==;KQlbqMuavcNakReNZgcdjg=="
 ---

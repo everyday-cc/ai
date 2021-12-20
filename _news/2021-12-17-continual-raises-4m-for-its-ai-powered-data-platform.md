@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
+    excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."
+    publishedDateTime: 2021-12-15T18:18:00Z
+    webUrl: "https://siliconangle.com/2021/12/15/signal-ai-raises-50m-decision-augmentation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Image.png"
+        width: 936
+        height: 524
+        isCached: true
   - title: "Continual raises $4M to help companies build continuously improving AI models"
     excerpt: "New startup Continual Inc. secured a $4 million seed funding round on Thursday to support the rollout of its cloud service, which allows companies to build artificial intelligence models that improve over time."
     publishedDateTime: 2021-12-17T21:37:00Z

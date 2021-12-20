@@ -25,22 +25,6 @@ images:
     height: 641
     isCached: true
 
-related:
-  - title: "Polk county considering AI-backed recycling"
-    excerpt: "Polk county wants to settle the household \"is this recyclable?\" argument once and for all. What's happening: The county could soon bring innovative programs and policies to Tampa Bay's trash, including using AI for sorting."
-    publishedDateTime: 2021-12-15T11:21:00Z
-    webUrl: "https://www.axios.com/local/tampa-bay/2021/12/15/polk-county-considering-ai-backed-recycling"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/Kovm8UU9AwBroX1sEEA7NTCr3UQ=/0x0:1920x1080/1366x768/2021/12/15/1639526687230.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-
 secured: "Md0xgC9G5+MzgF00K979JLHC/8/5e0O4zN5uARCGaeAM6Ux9X3xbNcrPaDkY50Q1IAI1WjPDPTtm/3jLblRuyUqXD5O5GckVDA9OjQFCevAPjtc3JS/eOlP087LkEzPAwjI/kRQvfHskwdq9uYLxzugHosWdZuKJOz20fKzW/S2mqonhXJv8tLLsDOXuOzBA4xwbhao6bHUfndAXPnv75+FPSG4SiTZZS15ZTR/yxlO0WU8BbCvfv+ca5X+R4q63jJkqC7lhC5ArHLObytKNXRuI5BPPHETSmLTItyFCR8wqH0FvtmVavbZQDlSwctoVniwHAbtBqvoTQg6ln/oQ/ggmIm0welAdZ5M16c/alhSeWkds5dU/2au6jHfAzpbtv0s3DuMgZsaE5IM7bl4BcNik26wK2yfpYW00Nj+E561qJpfgQ6dlGWw8QbSFVdAL3w+C9Atiykw4INZZymTm9qi/RoInJzDFGfv6csGtFLtvLlEWwITnR4AteOx8VS0asyk1AnS4M3vTOYcbxfzBig==;tVeQSErA/tzrur0C+y073g=="
 ---
 

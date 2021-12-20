@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
 type: article
 quality: 58
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
-    excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
-    publishedDateTime: 2021-12-15T13:00:00Z
-    webUrl: "https://news.crunchbase.com/news/autonomous-vehicles-driver-assistance-stan-boland-five/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/Aug_chart_2.png"
-        width: 900
-        height: 506
         isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."

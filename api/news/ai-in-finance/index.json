@@ -228,6 +228,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-11-lenders-use-ai-to-offer-low-credit-score-personal-loans-to-borrowers.md",
+      "title": "Lenders use AI to offer low credit score personal loans to borrowers",
+      "excerpt": "Fintech lenders are increasing their use of AI to go beyond the traditional credit scores and offer personal loans to borrowers with lower credit scores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/money/lenders-ai-low-credit-score-personal-loans",
+      "originalUrl": "https://www.fox10phoenix.com/money/lenders-ai-low-credit-score-personal-loans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/12/932/470/Credible-Upstart-iStock-1281297414-12-10-21-.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/money/lenders-ai-low-credit-score-personal-loans.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/money/lenders-ai-low-credit-score-personal-loans.amp",
+      "publishedDateTime": "2021-12-10T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-will-ai-and-ml-revolutionize-the-financial-services-industry.md",
       "title": "Will AI and ML Revolutionize the Financial Services Industry?",
       "excerpt": "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack",
@@ -1299,41 +1342,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
-      "title": "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study",
-      "excerpt": "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond Piscataway, N.J. - 18 November 2021 - IEEE,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ieee.org/about/news/2021/survey-chief-information-officers-and-chief-technology-officers.html",
-      "originalUrl": "https://www.ieee.org/about/news/2021/survey-chief-information-officers-and-chief-technology-officers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IEEE",
-        "domain": "ieee.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

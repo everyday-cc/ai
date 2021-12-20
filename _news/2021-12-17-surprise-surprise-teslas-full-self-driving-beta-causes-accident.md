@@ -57,17 +57,6 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "Tesla Self-Driving Beta Takes on One of the Deadliest Roads in the US"
-    excerpt: "YouTuber CGP Gray takes a Tesla Model 3 to one of the U.S.' most dangerous roads, the Tail of the Dragon, to test the latest FSD Beta update's capabilities."
-    publishedDateTime: 2021-12-15T12:03:00Z
-    webUrl: "https://interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    ampWebUrl: "https://amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/tesla-self-driving-beta-takes-on-one-of-the-deadliest-roads-in-us"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
   - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
     excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
     publishedDateTime: 2021-12-16T14:32:00Z

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
-excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
-publishedDateTime: 2021-12-17T12:26:00Z
-originalUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
-ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+title: "Survey sheds light on police use of facial recognition"
+excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
+publishedDateTime: 2021-12-18T07:30:00Z
+originalUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
+webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
 type: article
-quality: 25
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: The Daily News of Newburyport
+  domain: newburyportnews.com
 
 topics:
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
-    width: 800
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -98,20 +97,6 @@ related:
         width: 291
         height: 291
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "$36.22 Billion Healthcare Artificial Intelligence Markets - Global Forecasts from 2021 to 2026 - ResearchAndMarkets.com"
     excerpt: "The “Healthcare Artificial Intelligence Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The healthcare artificial intelligence market is projected to grow at a CAGR of 39."
     publishedDateTime: 2021-12-15T16:53:00Z
@@ -124,6 +109,22 @@ related:
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence Software Market Research Report with Growth Opportunities, Key Strategies to Boost Demand and Recovery by 2028"
+    excerpt: "Artificial Intelligence Market was valued at USD 55 50 Billion in 2020 and is projected to reach USD 860 20 Billion by 2028 growing at a CAGR of 42 45 from 2022 to 2028 The competitive landscape summary of"
+    publishedDateTime: 2021-12-17T12:26:00Z
+    webUrl: "https://www.openpr.com/news/2503436/artificial-intelligence-software-market-research-report-with"
+    ampWebUrl: "https://www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2503436/artificial-intelligence-software-market-research-report-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc17427591_g.jpg"
+        width: 800
         height: 450
         isCached: true
   - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
@@ -192,6 +193,6 @@ related:
         height: 339
         isCached: true
 
-secured: "J1v6ZrJVrvuaAtPoBIBUFROIsbHCceDPd6BuKP/R6/3AtLOprEfcFhd11l20ClA6wdHDerZCYbRkjTMsDaPKZ5z4HZ9FjtXyecEDG/HWfz7fGrJQsH+7Wydaz79TgpMtM/v0XiSmjmTwAwTZBiDMk+JmGtMZk/rrSrtsFcdnz1FcUZaXxvQy3P3teriqLgvqq2lqXue/eR45ARSqhcazAX2eO90jKBqyModvVHU8c3rx2f5wiv1e5P13/LXufx+LV+1houpqSl4kWk/goNRzQ4FV5ttMps9w9F/NaivZlJJM9RCNVQpC9K/ZUyYw3hmGTe2ddj7La64J3dQqW+U6RSDGti194shgH/S7rAt8EmKsn47lOINE8o4OGsdNw3z2ypsWtZVc5uhuODqMXQXsl0ccOl0rP5mkpnItWenqQ1JaQzTOXk47rgOWSb2UcVN5lYSHQ7zS9Ws+2YcmXcVSsGm/jeAdmonpZzwa0Bal6t9O+mK+h+4XjheZs5vwKO5Iy0ty8/cq9dXq6dFnNk9ofw==;vK6hF1usV0NYyE7KCgggZA=="
+secured: "zmLYRD5yTAo6eHGN3V4BVbwXx+aqSTgJS74BMm295pg3XpV+a53zn4ygIXbTvfsHi2tpuRgCZX1bK/um+ki1k860Z8wQ7vFo8p5y3uUIvenp2HuiBcN5Ls5l5O8dmQlEeXVilgUo960clNhX3vHVXuJ9/c/CDXestrIInNf/OFIxSKYAj8Yz2vnCuPz9qYw4pt/q2/h7ND8PbjkWq5KLQCy5qe0sQpKH1fky5VLkQo+5SFpSNUL0v3Yrv4LvDEnF6HuSGPY9lV9iIQu4M18cqbLIaUGhyNCZrQZBzxoVWMJD0ilUmaQ5zSYUiVkKVtzE7pDxMaxvToZpQm30oZefhInWDsge/IsmYyDzz2KAQiI=;Zk8BQr/YGOmsKG2oOJQsfQ=="
 ---
 

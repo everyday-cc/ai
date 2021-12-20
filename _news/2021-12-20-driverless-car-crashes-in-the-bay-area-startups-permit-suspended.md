@@ -83,20 +83,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "Are Advanced Driver-Assistance Features The Future Of Self-Driving?"
-    excerpt: "From the vantage point of 2021, the autonomous vehicle hubris of just five years ago is plain to see. Yet it turns out that five years and $50 billion later, we can’t all just jump into a robotaxi whenever we want."
-    publishedDateTime: 2021-12-15T13:00:00Z
-    webUrl: "https://news.crunchbase.com/news/autonomous-vehicles-driver-assistance-stan-boland-five/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/Aug_chart_2.png"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
     publishedDateTime: 2021-12-16T13:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: VentureBeat
@@ -28,52 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Papaya raises $50M for computer vision that facilitates bill payment"
-    excerpt: "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital."
-    publishedDateTime: 2021-12-15T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/"
-    ampWebUrl: "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "AI-powered decision augmentation platform Signal AI raises $50 million"
-    excerpt: "London’s Signal AI has raised $50 million in a Series D funding round. The company uses the power of artificial intelligence to monitor over 5 million digital, print, and broadcast […]"
-    publishedDateTime: 2021-12-15T12:13:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-decision-augmentation-platform-signal-ai-raises-50-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/12/signal-1.jpg"
-        width: 960
-        height: 545
-        isCached: true
-  - title: "Signal AI raises $50M for its ‘decision augmentation’ platform"
-    excerpt: "Startup Signal AI has raised $50 million in funding to boost its “decision augmentation” platform, which uses artificial intelligence to help companies track important business developments such as changes in customer sentiment."
-    publishedDateTime: 2021-12-15T18:18:00Z
-    webUrl: "https://siliconangle.com/2021/12/15/signal-ai-raises-50m-decision-augmentation-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Image.png"
-        width: 936
-        height: 524
-        isCached: true
 
 secured: "emzgCKV+gyg5ihF45jEYn2ysr14KWazqEQ1Lt/0WJESOolUI1RWfWa+3ogcN9IHpR1lZohi2ASaj5c5kTdBWtk/yoh38NQKWG3z/hDTLb4Dh5q2wbag8yF18mVpg/ZTmVkgaz0xlgXpF7fBC18/on5jR6cliWjWUNBBKOzq0UWbmjVPmBIWNR4DMFYUW4H5r+8XVCMSaIqGF2+ExgikjJE4b3Hxy2snlzQxyXKavCfA4BFN9aifoFGRO35lDOvWMI2So59KWYKrrvIah8r2Wj0mVrG8VvDWjZS9pXrYj7l+RO9TmxwUVMgkajSczXs8wKk3UYJwQcYsDLQfri0pvzn7/gpMmN1BNhACX93b0446v7mKpkqajsZ/zkj0o1uPSHYPze6nKCWXe9bjzOLWvdcMUGoYRLM6lKn55/nT7H7iUDIK89SGYsPOvoO0kTbWdgyE+SqE9hBP/EidnswziA3n5ARDcjtSfH0wPSQOrV/qzuvtQC922u8+SovfQ+lRs1L3sJCHICUA16a7MFfd48A==;HhE04ZEXlFhQnmoDRRvhRw=="
 ---
