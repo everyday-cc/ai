@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Autonomous car tech from FAU can mimic driving styles of passengers"
     excerpt: "FAU reports the technology can be applied to a range of autonomous systems, including self-driving cars, military vehicles and public transportation systems."
-    publishedDateTime: 2021-12-20T17:34:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
+    publishedDateTime: 2021-12-20T18:02:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/fau-autonomous-car-tech-fau.html"
     type: article
     provider:
       name: The Business Journals

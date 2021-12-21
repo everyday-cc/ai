@@ -2,6 +2,101 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-11-23-cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026.md",
+      "title": "Cognitive Analytics Market 2021: Top Players, Emerging Demand, Business Profit Analysis, Sales Revenue and Expansion Strategies by 2026",
+      "excerpt": "Nov 23, 2021 (Heraldkeepers) -- The Cognitive Analytics ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T23:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires.md",
+      "title": "AI Firefight: PG&E Using Artificial Intelligence To Help Stop Wildfires",
+      "excerpt": "PG&E is trying something new to help stop wildfires. The utility is testing artificial intelligence software in some of its ALERTWildfire cameras set up around the state.",
+      "sourceUrl": null,
+      "webUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "originalUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/1FD/FA5/1FDFA5A43B22D5E135477BB753EAEE6F.jpg?Expires=1732233600&KeyName=mcpkey1&Signature=FJUU18ZaSYcSubArBbUM3YM4nh8",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "cdnAmpWebUrl": "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "publishedDateTime": "2021-11-22T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-swiss-re-partners-with-tcs-to-develop-a-resilient-and-futuristic-digital-workplace.md",
       "title": "Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace",
       "excerpt": "To find out more, read our updated Cookie Policy Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace Tata Consultancy Services to Further Develop the New Digital Core on Microsoft 365 to Allow the Reinsurer to Enhance their User Experience Even More,",
@@ -1005,100 +1100,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-iot-anomaly-detection-startup-shield-iot-lands-74m.md",
-      "title": "IoT anomaly detection startup Shield-IoT lands $7.4M",
-      "excerpt": "IoT, which offers AI-driven anomaly detection for internet of things networks, raised $7.4 million for expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Shield-IoT.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
-      "publishedDateTime": "2021-11-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales.md",
-      "title": "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales",
-      "excerpt": "Vidyuth Srinivasan, CEO of high-value goods authentication platform Entrupy, told PYMNTS counterfeit items are a $3 trillion problem for the retail industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/luxury-retail-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "publishedDateTime": "2021-11-22T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/top-ai-based-i
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/top-ai-based-initiatives-launched-by-meity-in-2021-720404"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "AI-Based Initiatives Led By MeitY In 2021"
-    excerpt: "This article is a deep dive into the top AI-based initiatives launched by MeitY that have made a significant contribution in 2021"
-    publishedDateTime: 2021-12-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-based-initiatives-led-by-meity-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "lJTC/LcvqFzrUXQqjdGbM9YAAHZxJVgV4QPUULctvccpcNk0rn6azv3OXIPEo4J9eH2vogQ664hTkO/zui611wztZQEb2YmFGvEEOjbPwfmHW7IvT31kLznMx5xKVt6HpGt0Kcg6QSWlLexBMIORa1jkF0p+imtuAOU8naU+JKEK6Pakz9iMlHHDwzGQqbIWtBycyZ4wBEdZ/MW5VxtcGgwl3PKBCq8m//Llm6RELrmk9pmPMNBXf/w7Slrb8uFaalE0UMrkAKQE5bTPYG10K0thDUErTFT17ld0rJAfL5lHf+QvUnJ3ucp/IZc2dpix832mTxMQOGg7zoDUwZf4DVU5YQ6Y3ERIpkKi7SwURQcHv36kEGTXsiX258OBAaCj6QN2wMgF12G8mbwdO05EJSzy1Ls/1t6CuWeKOHA7xva2/M2SXDQxMJE1VZF44tKzxYgX/eRf8vS4LBIy32OlzGUpjbOUBmYeQAfUrlqCOOzqNSpLISAI5LXjDBC+oih3csaS2S8QL/RXiYpY2tL8xQ==;ny3+w3OCZQyYwqNmhJRxHg=="
 ---

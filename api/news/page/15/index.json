@@ -926,6 +926,83 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-state-farm-taps-object-recognition-with-carcapture-app.md",
+      "title": "State Farm taps object recognition with CarCapture app",
+      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Dive",
+        "domain": "marketingdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-the-best-stories-for-national-robotics-week.md",
+      "title": "The Best Stories for National Robotics Week",
+      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
       "title": "The Top 6 Artificial Intelligence Plays in India",
       "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
@@ -1069,93 +1146,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
-      "title": "German Language Service Provider Milengo Expands to the US",
-      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

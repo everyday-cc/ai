@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pakistan makes risky move to push recognition of Taliban"
-    excerpt: "Pakistan has decided to move from subtle nudging and pleading to openly coaxing the international community into exploring ways to recognize the"
-    publishedDateTime: 2021-12-16T08:47:00Z
-    webUrl: "https://menafn.com/1103375697/Pakistan-makes-risky-move-to-push-recognition-of-Taliban"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/16/AT_19d1fimage_story.jpg"
-        width: 600
-        height: 418
-        isCached: true
   - title: "With more supporting voices, Pakistan’s stance on Afghanistan situation getting recognition: Qureshi"
     excerpt: "Foreign Minister Shah Mahmood Qureshi Saturday said that with the world joining its voice, Pakistan’s stance on the prevailing"
     publishedDateTime: 2021-12-18T08:13:00Z

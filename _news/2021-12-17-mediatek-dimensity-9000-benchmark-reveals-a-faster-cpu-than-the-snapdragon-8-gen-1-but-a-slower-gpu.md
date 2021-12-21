@@ -59,20 +59,6 @@ related:
         width: 437
         height: 450
         isCached: true
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
-    publishedDateTime: 2021-12-16T07:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
-        width: 340
-        height: 400
-        isCached: true
   - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
     excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
     publishedDateTime: 2021-12-17T05:18:00Z
@@ -113,6 +99,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "MediaTek launches Dimensity 9000 flagship chip"
+    excerpt: "MediaTek has launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the worlds"
+    publishedDateTime: 2021-12-21T00:13:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/mediatek-launches-dimensity-9000-flagship-chip/243139/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
     quality: 19
 
 secured: "mxVK+GtgublpIGeOWrlV3e3FLbKHB3wlzWkjvXarzDpr0hKD8P3eoO0XdEYpjlSCBHbSsfK2E0MZDPtgWAsLYswmr7mK66bWFgHfSZUFtrkk2V27ufNZo4Es5HnluO/DVCOfCdvC8usEKaFlyfSUrECnjYnSuE7YR+Ca0gT1IKJZvoDKgQ/E02cohzRaMoOXvKIujAnsu3uB2nT63c8XXgFayGVfZiZylt0bztj83iFCO+TURghHji69RAU1FrNYHTS0zUM9U1VtR2Z6Qv1oiFdNbaEuHnGoyMJRvdEOYRo8D/SGCeVYREDze2ot8FKQhQVpXt3gj3p8vms0WL22AtKlY88tl34ZVa/XYD9ffvOTq9S2KR2MBMigzVLaV6QqqrRWt4Ql+Yc/j5ND06nNocCAx+WH6n2c6D0INCVE3kUi77wokrm6VsUyHeTdbcgDymGYyRH6QjICGiLppaTIiACDiZEWUM2e39auTsI/RrxhyOYyqcaZg8lDM8O4sw3AZDIWJVWG4kBDCvNKLzdN1Q==;P3AWrv9RUX7wqIGf9iUOkQ=="

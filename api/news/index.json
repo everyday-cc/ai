@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-21-students-teach-ai-to-make-beer.md",
-      "title": "Students teach AI to make beer",
-      "excerpt": "Humans have been brewing beer for more than 5,000 years, and the process has only grown more complicated since its beginnings. Now, two students are seeing if an AI is up to the task. Christopher Fusco and Jash Vira are interns at the University of Adelaide’s Australian Institute for Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/students-teach-ai-to-make-beer/",
-      "originalUrl": "https://www.therobotreport.com/students-teach-ai-to-make-beer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/featured-web-ai-beers.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-21-mperativ-aims-to-leverage-ai-in-new-revenue-analytics-platform.md",
       "title": "Mperativ aims to leverage AI in new revenue analytics platform",
       "excerpt": "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI.",
@@ -1070,7 +1028,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1123,7 @@
       "originalUrl": "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/articleshow/88361441.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1196,6 +1154,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-sure-deepminds-ai-is-impressive-but-can-it-guide-human-intuition.md",
+      "title": "Sure, DeepMind’s AI is impressive, but can it guide human intuition?",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication",
+      "originalUrl": "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
       ]
     }
   ],

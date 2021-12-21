@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24638508"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24638508"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 6000
     height: 4000
     isCached: true
+
+related:
+  - title: "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio"
+    excerpt: "In this article, we discuss 5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio. If you want to read our detailed analysis of Wood’s hedge fund and recent developments, go directly to read 10 Artificial Intelligence Stocks in Cathie Wood’s Portfolio."
+    publishedDateTime: 2021-12-19T19:57:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 37
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg"
+        width: 1613
+        height: 2048
+        isCached: true
 
 secured: "XwLG4Q3LTdn+7gJ8O9Qfu+QL1lhuKdJrWG5V/Y41i8Y1GorIslPRJ2ARYCZdI8CuaqypyOQeNVAyKTexE7aeD4xAXvc6HYz397rI1YRfq5FRBc9s67QCaSD4dCf87aO4UMToGP2xUCJfSdgB+mZOQ9xG+eSpamZA3IIn1FlH0l9siLUw2t3WdkfOdVrzMoESMr/Ysvr8ZUYaFPVkBWmAnKatV9vMbfkZ2Xheeoht1RWFe75eVk3V5uKVy5BXyLlnw9rMYxDXU6ZAE4a4Zn1j/1pofqgaf0qFQoBJ/jhPjSRI2cXCgumJms37HMA28bbMNVte+e9wAyGu06abxEbn86JlhMCbo9mcHdPYUCH4rLA=;6a5PmjDmU3h3//0gskMXOg=="
 ---

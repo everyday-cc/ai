@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-18-us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang-human-rights-abuses.md",
+      "title": "US sanctions DJI and AI firms including Megvii over alleged Xinjiang human rights abuses",
+      "excerpt": "The US has added eight more Chinese companies, including DJI Technology and artificial intelligence giant Megvii, to an investment blacklist for alleged involvement in the surveillance of Muslim minorities in Xinjiang.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3159808/us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3159808/us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/15/8606845a-11d9-4216-ac69-abe9335b3478_241e09dc.jpg?itok=tr4Lk0Ok&v=1639557019",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3159808/us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3159808/us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang",
+      "publishedDateTime": "2021-12-17T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-ai-weekly-novel-architectures-could-make-large-language-models-more-scalable.md",
       "title": "AI Weekly: Novel architectures could make large language models more scalable",
       "excerpt": "Large language models are currently difficult to scale. But this could change with an architecture called mixture of experts.",
@@ -1402,50 +1454,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth.md",
-      "title": "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth",
-      "excerpt": "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "originalUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/brain-study-background-mental-health-care-medical-technology-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "publishedDateTime": "2021-12-05T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

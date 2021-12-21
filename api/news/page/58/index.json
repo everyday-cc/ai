@@ -2,6 +2,110 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-11-05-alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup.md",
+      "title": "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup",
+      "excerpt": "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 379,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
+      "publishedDateTime": "2021-11-04T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-alphabet-is-launching-a-company-that-uses-ai-for-drug-discovery.md",
+      "title": "Alphabet is launching a company that uses AI for drug discovery",
+      "excerpt": "It’ll build off of the work done by DeepMind, another Alphabet subsidiary that has done groundbreaking work using AI to predict the structure of proteins. The new company, called Isomorphic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "originalUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kdddLIUWJSyu7gOt6TTdsILtLKw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70094151/msingleton_180612_2663_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "publishedDateTime": "2021-11-04T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
       "title": "Tesla's handling of braking bug in public self-driving test raises alarms",
       "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update.",
@@ -1033,110 +1137,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-flippy-2-kitchen-robot-can-singlehandedly-work-a-fast-food-fry-station.md",
-      "title": "Flippy 2 kitchen robot can singlehandedly work a fast food fry station",
-      "excerpt": "Flippy the burger-flipping robot has received an upgrade as Miso Robotics rolls out its Flippy 2 model. Taking on board feedback from a pilot program with the White Castle hamburger chain that started in Chicago in September 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/",
-      "originalUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6d0e178/2147483647/strip/true/crop/800x533+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe9%2Fb7%2Fffc3dafb4e6a88061c992dd974cd%2Fmiso-robotics-flippy-2-full.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/flippy-2-kitchen-robot/?amp=true",
-      "publishedDateTime": "2021-11-03T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-law.md",
-      "title": "Australia says U.S. facial recognition software firm Clearview breached privacy law",
-      "excerpt": "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/",
-      "originalUrl": "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

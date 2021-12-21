@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
 type: article
 quality: 151
-heat: 222
+heat: 221
 published: true
 
 provider:

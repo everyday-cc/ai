@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/students-teach-ai-to-make-beer/"
 webUrl: "https://www.therobotreport.com/students-teach-ai-to-make-beer/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Robot Report
@@ -23,22 +23,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Researchers teach artificial intelligence to be fluent in Finnish dialects"
-    excerpt: "Finnish dialects create a lot of trouble when interacting with computers, since it is impossible to speak a language without speaking in a dialect of some sort. A research group has built artificial intelligence models that can automatically detect,"
-    publishedDateTime: 2021-12-16T07:40:00Z
-    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/researchers-teach-artificial-intelligence-be-fluent-finnish-dialects"
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 37
-    images:
-      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/attractive-woman-sit-at-desk-holding-smartphone-talk-on.jpg?itok=VSLoaEK4"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "demjyvsjTe8wGZ++iPu7ARJ3bS/gdyBZzen7GjXpD09ottb24p/c2qC7vHKS1/c/F0AQBnpL2FUWKMrq9Fxbfp8uFoXN5VJhZwO8g/4TfCC/LSdrxLxO8Dfa9d6Z5CJPRGnoi+SSpguaobl+jk0rMAXUKT8dq8BWZuw5D2ziHu7V4KBII5kEFWP85k6FIIQQbB2UFlW3LwkIpXrGPSFuplORhuHr5voqxFS26ODUfbfeww8CXy0siOZP5ewyKLH+Zv65L0paoKFHzddLQLC24d6qRFU7V+/mnZF9b/ugpT9/wxcTByBJU82toVWQLeBVhKdOwbT9cKTzEeGBWvv7n/yJBF8q8QmFXBA1B51xRbQ=;dvPr285sR91dNPA3f7CyEA=="
+secured: "KMQUc+KsIWfUm1bIyCmGnLNWXyh41nraeY611q0ezaJk1X6l1cUZXv99WnyJmWpcTsnGumnpK4+qSz7UDlV/4xUzI58y/nO6g2MXSPXRN2QjAd9gSLywIT8vULNo4B1i9FGBJ1pdVUq6/5OSoW7l/C+mAeIghc4idlZpIGxX8D8E5PHFyWyVqUt4O45ia3kXsMecYmt7SQ7eyhWtXPMLu/kMrooPugfd3LWu2H04tULIl02dPdOMojbK96ekf/wwwgbPA3pXPWzWlUnzDJeOYJTeiImTw/YHfibGUorZmS3UkiFFluxomJa4YG2qWgAhpnFscu0Jn1hKkwIHRegDeo3f3LYj3v3aCkJtp5dTpUQfgEOO2fO/uexnrRz3Qx2gUfBrUMqtxVbRbryDBtf5Ft35DFgD+39xkGIFIda210pptuTuD53s6G6dmpPEjohW+oxLfFNJ9wPuzNEMbTUqJkWASL2khr9RIR7Wz79CRb9M3hl6ag65vfBIChJZ7hZOMFen1yBcBtSA9sWfhQNE8A==;yhA6xZUEJViiYP+MnQH6pQ=="
 ---
 

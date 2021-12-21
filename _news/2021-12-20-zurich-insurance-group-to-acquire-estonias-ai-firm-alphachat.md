@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/baltic/zurich-insurance-group-to-acquire-es
 webUrl: "https://fintechnews.ch/baltic/zurich-insurance-group-to-acquire-estonias-ai-firm-alphachat/50853/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1229
     height: 682
     isCached: true
-
-related:
-  - title: "Estonian AI Startup acquired by Swiss company"
-    excerpt: "Estonia-based company AlphaChat has been acquired by Zurich Insurance Group (Zurich). The company provides conversational artificial intelligence (AI) technology for customer service automation, to further enhance the Group’s digital capabilities."
-    publishedDateTime: 2021-12-16T09:00:00Z
-    webUrl: "https://arcticstartup.com/estonian-ai-startup-acquired-by-swiss-company/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 37
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2021/12/alpha.png"
-        width: 2880
-        height: 1680
-        isCached: true
-  - title: "Zurich Buys Estonian AI Chat Start-Up"
-    excerpt: "The Swiss insurer is buying an Estonian start-up for conversational artificial intelligence. The move is a bid to improve the digital capabilities of its customer services."
-    publishedDateTime: 2021-12-16T08:25:00Z
-    webUrl: "https://www.finews.com/news/english-news/49249-zurich-ai-alpachat-acquisition-technology"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 37
-    images:
-      - url: "https://www.finews.com/images/news/2021/12/zurich-insurance_500.jpeg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "LiSxyEeGOEHZzJwNLWK95RrlCtaohbsv7GXjZog4OqkQ6ch2arrDGVSxG0fJHnfuk36vTAkoDQ07Q0YMLAYErYS5nbLbkVNzL5BuB2Kk2s59W0KM7JV2leRba1yX9Prxm69sdxPLEvPA2oOUvdWOxI5Yg87jnpbmzHjRpvRyrXXGpU4WtKrN5Q2xKOwpjsojmNF2jH9MHi0hilTgses/1+5UD1T3peG8Gar1CrBE8OzAxRapi1zX1730e2M7MjQL6QovhLqroabjx57hsqmhnsnMTAnsyHEI9YAwf98XNQ23qmy9cOie2KbdrcptDu+fnCEUCqlN4NMMf9fmn1aP4f1OLs5KPJRBsPJSR2tpFO4=;CwK23wPFC3wBauIrZ725Pw=="
 ---

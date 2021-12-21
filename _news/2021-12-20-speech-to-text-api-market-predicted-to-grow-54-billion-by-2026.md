@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
-    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-12-16T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
     excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
     publishedDateTime: 2021-12-16T10:55:00Z

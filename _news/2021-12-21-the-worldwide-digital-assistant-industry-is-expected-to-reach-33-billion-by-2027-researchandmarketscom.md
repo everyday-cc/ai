@@ -55,17 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
-    excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
-    publishedDateTime: 2021-12-16T08:13:00Z
-    webUrl: "https://www.openpr.com/news/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "hE8gILg42uI4K4NS0nIiu7x3mXtCdMKJSPvHn1RUD2/WdDN6m65zqmLzFXhEi12e4pFxc3ggcCgqtiUEnImis+yBgjg0rVfy5zrfHpgHWXymutjy3Y+jt+4TTLvaTrgCfd59YuANydnYN4GDxzbdOh7Y3ytYMeL4t1QC2jN7rh+zDG9MYz3XZ+6IzzwmLLtBUKI6PqrRBNIIrPMHx2Pfgx3xy7yHcCZaYSLrAmKz/j0NK7CUUbHx7s80HGG4kDPUoa/Ex/ABPzozhqPGKfZibk9KF7HfM0xVwQY7cJHV4OwM2hKgxptGKNl8IRa4bv/UvzKUOD4+BDSOMauvwKA8kf747quNYE2psx30Nvur8l0=;t0gzW8LQR9binHsizY4pNQ=="
 ---

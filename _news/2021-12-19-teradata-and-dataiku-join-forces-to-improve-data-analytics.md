@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
         width: 1440
         height: 500
+        isCached: true
+  - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
+    excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
+    publishedDateTime: 2021-12-21T00:19:00Z
+    webUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
+    ampWebUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Business Analytics BPO Services Market"
     excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"

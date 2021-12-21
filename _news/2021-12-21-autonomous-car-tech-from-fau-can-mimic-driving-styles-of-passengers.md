@@ -2,9 +2,9 @@
 category: news
 title: "Autonomous car tech from FAU can mimic driving styles of passengers"
 excerpt: "FAU reports the technology can be applied to a range of autonomous systems, including self-driving cars, military vehicles and public transportation systems."
-publishedDateTime: 2021-12-20T17:34:00Z
-originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
-webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
+publishedDateTime: 2021-12-20T18:02:00Z
+originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/fau-autonomous-car-tech-fau.html"
+webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/fau-autonomous-car-tech-fau.html"
 type: article
 quality: 4
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "JrTNhzrPZsRhopzxzzme91UmA9OVlFMzDTThBMaqhjmbvS+xj1ld+WXtBak2FK2bHl9UhbBMMXZDAhVR/o7rYd9tdAO6fe5Jf++hbObHMkc1CevV5QoEYVXznYG95lGJWq6PPgwx4gjlX3p4vTDPJox/SKOEyUQEukTqB3NuDKmOI8nAYY7EtZtsWQIGJJGaHbGlzR+om9qYBsA5a+V0aoo9z/CKGym78twcS9Oe57E9m1l7OxwpwrzWP+SHOuQKulvph6DFHocIy5cGCmqyYo+M1NAKtcKlNEHXxFS6TgrJ8ZZlaSSYYTAQBea3JI6k+3oPmt4/uTYHYjL29iYMvM+QRF0KEMWmgS0bE9l8FTtF0N+rOM4oUsDkU8TWKI/565K3dzRD6W5uL5I4/vol89DHtCstqLYYv8Sx6Pqao1VRGr72TNRqW0HgisKfisQl2nM41+8Zr42zpotuqAE5RzzHAb5eAr773cBuc+jweyj31WMREHYiss7RLd+vTm4nMFghDGosv/AEEhIjIi3BOA==;Tcc0Pje7bp5bJF4UHpIgXQ=="
+secured: "2QJcsyWtdP8iKO4JSjTpi9n+2jpIWM7PiIy92cnV0dV3bXJLeSkmT6mo+w58RfC+3tJbivWu2QH/Rchv81Je92wds26jKkhpea6rYbfZOVCQvSxkDIHFL4xpo4MmQOwW8l4K46tQ1PJxScEaMr87UB9MqE7YrnZEDe8PuK3vPiBlsgIANYeianm1KHvH4haApo0P7QgfcK4XpJDK40alrl/Ur5oStehGuh+4iFGROVujWzwPzoOda4eY+69nSTDKeS1H+cJg3m2sVD2RLWJcjeKPcuklPCS1Mfyc8AIObGkyGqjBrYaRWzawcedL1dw/OqxYhmON3ylGHml3Pr5sh+/pfSpTlM7TEWsZwUGAfFo3+Yc2sAck66r491oF+/jiEiPuXGW5gSAsnPQLN51uTRxq7BBBKgcLeVy2umIei+X6WB2ss4rOoEfJeHnEAa9uc0sKwnjbDR1TvUXDTmVE5z4ch0nJC33XqRV3p5WtRS6ILrdEKWZKdhCuiA7F39Fjnsu6zrYmHcAyolySg0obug==;a0iAjglwSX9ec/FpHNY22w=="
 ---
 

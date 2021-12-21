@@ -51,20 +51,6 @@ related:
         width: 437
         height: 450
         isCached: true
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip And Announces Adoption by Global Device Makers"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered"
-    publishedDateTime: 2021-12-16T07:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mediatek-officially-launches-dimensity-9000-flagship-chip-and-announces-adoption-by-global-device-makers-1031049127"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1710995/MediaTek_Dimensity_9000_Infographic_1221.jpg"
-        width: 340
-        height: 400
-        isCached: true
   - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
     excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
     publishedDateTime: 2021-12-17T05:18:00Z
@@ -113,6 +99,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "MediaTek launches Dimensity 9000 flagship chip"
+    excerpt: "MediaTek has launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the worlds"
+    publishedDateTime: 2021-12-21T00:13:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/mediatek-launches-dimensity-9000-flagship-chip/243139/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 19
 
 secured: "mCW3/LoKcnty8A1kHqZnab2yDjA46IIMcET9PCh3IoN7J2hpc/LYEIi3TgB5npX3JSU4dvHuU1sMmgsDlPYWoQN9vWpZtR2H+p7TRB993p/0HIwFBn5P4vBtdwu5Kii/lUnqklFDh47Vapn+QyZnL0RsUX/jlcBIr/ecD2nRASLcAVCPZXYpnXTfoUov5qDP8OPWtSoJA3N4FXGC1ckbZM/YO2+/TgKDigZ+kqGvUXrE2XAngdEDRdhxZjbtqF2TdekEYPCT7+61LULkck9rScf6TNld+QgEqdnV3HwraDWoJpMRMaoh/PC9kS69MDjTcYagV6FTitZ8KWP7Tq5g9HEx1CxqM2nwrHJ8QXtkWR8=;ku4trio3ATIJQIx84sKmng=="
 ---

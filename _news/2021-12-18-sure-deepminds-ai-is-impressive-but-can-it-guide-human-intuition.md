@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-h
 webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 type: article
 quality: 86
-heat: 97
+heat: 96
 published: true
 
 provider:

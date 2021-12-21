@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding AI Before It Overtakes Us"
-    excerpt: "By Joseph Dana <br /> <br /> The great misconception about artificial intelligence (AI) is that it will overtake the world suddenly by repla"
-    publishedDateTime: 2021-12-16T08:01:00Z
-    webUrl: "https://menafn.com/1103375208/Understanding-AI-Before-It-Overtakes-Us"
+  - title: "What Does It Mean for AI to Understand?"
+    excerpt: "It's simple enough for AI to seem to comprehend data, but devising a true test of a machine's knowledge has proved difficult."
+    publishedDateTime: 2021-12-20T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/257510-what-does-it-mean-for-ai-to-understand"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/16/pr_13299_88f94d9b_image_story.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce’s Understanding of Artificial Intelligence Passes Senate"
     excerpt: "Home> Majority Media; Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce's Understanding of Artificial Intelligence Passes Senate Legislation Would Requir"
     publishedDateTime: 2021-12-20T19:54:00Z

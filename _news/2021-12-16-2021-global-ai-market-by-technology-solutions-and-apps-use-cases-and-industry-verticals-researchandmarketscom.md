@@ -55,20 +55,6 @@ related:
         width: 641
         height: 425
         isCached: true
-  - title: "Cognitive Computing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share"
-    excerpt: "The global “Cognitive Computing Market Share” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-12-16T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
     excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
     publishedDateTime: 2021-12-16T13:57:00Z

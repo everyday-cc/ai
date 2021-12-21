@@ -40,17 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Self-driving Shuttle Market Size, Share, Outlook And Growth Opportunities 2022-2027"
-    excerpt: "The Global Self driving Shuttle Market Report includes an in depth study of development components trends fluxes and sizes The research also calculates current and historical market values in order to anticipate possible market management for the 2022 2027 forecast"
-    publishedDateTime: 2021-12-16T08:13:00Z
-    webUrl: "https://www.openpr.com/news/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2500941/self-driving-shuttle-market-size-share-outlook-and-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
   - title: "The Worldwide Digital Assistant Industry is Expected to Reach $33+ Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The “Digital Assistant Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global digital assistant market is projected to grow at a CAGR of 32.17% to reach US$33."
     publishedDateTime: 2021-12-20T16:47:00Z

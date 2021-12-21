@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
+    excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
+    publishedDateTime: 2021-12-21T00:19:00Z
+    webUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
+    ampWebUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "Bbe881h9Udz1H87BNwg8IiVPFksiYP7ZmOYIWW0va4FA3bCKvEKVZNjr7aM9cqmCBHIpNFC1VFlTvL/A3uN8GPvzyYdDrPed4/Pr6nxGk7aslpzFo2V/rK5joxrrI8MmSS1kOvGjbFFAN9ShIC0fH8OtEyqLj5fAmVzbq7p2IlHKSHocaR15ZDhvcl3ldugb/XuvZE/sL4F2XFw2MS03ILc30PElK19rsyYuV4ENWnXW2S7MRYZWXHtMOUyvwjHHnB84zgi2ls+oUvnxxihPTpbA7jE8Up0UzmOD3Rflzp4u4bQ2n+qK9yQbsdqr7o1B7vuxeVcjbWXNYLdzggz1+87jQw7yrwy9T55+0KKUfRYegKNScFvAV7dGUh/jK/S0mxmO0WA1scLZy8Pua0QkFYqnxw+rOvE48zaCdG/TDomnE+okvr2n/r/uDFFHAC7NicJtSUOle1Clyjgu2gawny+XpQqpM1Ic3om0kGXvvC6wSDAPNnXrBuDouqbE27ggJ+KoeVk8BR/pf2BPQgUnBg==;uOxy/v3cOW+0pKYTYdPZbg=="
 ---

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-14-unity-moves-robotics-design-and-training-to-the-metaverse.md",
+      "title": "Unity moves robotics design and training to the metaverse",
+      "excerpt": "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/",
+      "publishedDateTime": "2021-11-13T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
       "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
       "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
@@ -1374,59 +1426,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster.md",
-      "title": "Can Artificial Intelligence Save America From The Global Supply Chain Disaster?",
-      "excerpt": "Leveraging AI to its maximum potential in supply chain technology is paramount in our race to solve the crises of the day. Big wins will help companies around the world to build more resilient, agile",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61853070a9d6a56144f276a1%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/11/05/can-artificial-intelligence-save-america-from-the-global-supply-chain-disaster/amp/",
-      "publishedDateTime": "2021-11-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
