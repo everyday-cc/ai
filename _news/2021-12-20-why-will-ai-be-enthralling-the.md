@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How to leverage AI for social good"
-    excerpt: "Taking into consideration how AI is often perceived by the public, as a hyped-up new-gen tech or as a bane, it is important to converse on the reality.."
-    publishedDateTime: 2021-12-17T03:19:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88331200,imgsize-7960,width-1200,height-628,overlay-etcio/how-to-leverage-ai-for-social-good.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Rusagro informs about receiving a grant for a project for the introduction of artificial intelligence on its fields together with AssistAgro"
     excerpt: "Rusagro-Invest LLC, part of the Rusagro Group of Companies, and AssistAgro LLC will receive a grant for the implementation and complementation of artificial intelligence in the field of crop production from the Skolkovo Foundation (VEB."
     publishedDateTime: 2021-12-17T08:54:00Z

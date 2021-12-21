@@ -8,8 +8,8 @@ webUrl: "https://www.nextbigfuture.com/2021/12/can-artificial-intelligence-help-
 ampWebUrl: "https://www.nextbigfuture.com/2021/12/can-artificial-intelligence-help-landlords.html"
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/12/can-artificial-intelligence-help-landlords.html"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2018/05/0c5b3932e8a3c55634f939b1bee631c7.jpg"
@@ -25,6 +26,6 @@ images:
     height: 512
     isCached: true
 
-secured: "yaByN93VoMMoIgdhS3daDV/vtHXdpxeH8SMWCJWr9dkHFaWHPgZl1Wsf+I1Mf3k5P3xeo04m6BxmgPnQQRYMtiBQXrmSonP8MYqa+PUMP2mpBO1e7iaaZR/5EPXshMy9OL+osnnRyt+xP2R5iXgpJpFhZWZN4IFlO56BuDqgNJk26OmRwQK7odgkefXbO/jTkFTYq09+jaRhwl6bFXhJ2h5O15MFpIprhLT+x+XpUOLmBTfhTYce9TUBcHQmzZHP2nCh8xs5sI1ePXLPPrOsrNUKMamsJWPQjj8kueYilsd/G4Obve19T/z7hXIwIKA/2JBIASbFQU6EJ+neldwnDL07MEWYKSfvTOpG2JoNeFk=;8itYZzJHfPwDLrITyFPAAQ=="
+secured: "ngb970IbXwA2xlwvlkZeQSnWFxAIMe3sRsAenwvwVRxC0qw20Iz602eVcNDpIT0DDhT9ZwPlpGwPdjMHk3jItnfa0OOXU1asPHbBwp6CFpu8a8qO6c3K1VupCZVBaBcNsXq6GpTxRN6enirqTQtV2f+ETn2iNR45HyQJ7aaB7Psu0uv+o2820BGdbcBfMaMoEiAk+7UEovLjPvtjYE0/SFIXCUo+mCvdXkggq+DnGujMrtdb5mJoKif2GNo+xiHuU8e4sKRp1c7F1O9wJKIkAt9lTVZrpIisBY4ntsts1sKUj53uwilGMv5EQZfRzEWM37WU0sfOrKuPAzd57Nzi94EN5yR/7+Vaxmp8plws3ucN6ityVhHiIzQKuiW37h2c8KKvd7hUyLq5uwJqWMxPnLpBeuDB2uyb7ghLrUqJEL27j2pmMbxgzjt/Q5rUn0RpsI4AaD0GTXjtMosrAE02WDczdFnSCZPgm+TYvfCAsaiDtA9pCD+yR0zSXlcDz2RzNi4Jwi2IzzohFJsTu6MFfw==;WCYeNiPT9OSQ3M7R8W53VA=="
 ---
 

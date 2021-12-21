@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Cyber Security Market Emerging Trends, Advancement, Growth and Business Scenario 2030"
+    excerpt: "Asia-Pacific is projected to witness the fastest growth during the forecast period. With a growing number of customers inclining toward online and plastic card payments"
+    publishedDateTime: 2021-12-21T18:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24726739/artificial-intelligence-in-cyber-security-market-emerging-trends-advancement-growth-and-business-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24726739"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24726739"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "StrikeReady Sweeps 2021 CyberSecured Awards with Wins in Vulnerability Risk Management, AI Security/ Machine Learning and Enterprise Security"
     excerpt: "StrikeReady, a cloud-based security operations and management company, announced today that it has swept the 2021 CyberSecured Awards with wins in thr"
     publishedDateTime: 2021-12-21T10:00:00Z

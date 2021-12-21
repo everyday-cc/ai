@@ -50,7 +50,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
         width: 1280
@@ -150,6 +150,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "GswS2zmOC8oLcKhDFIqHRW6HbceFjY5Fc4ob6oZbFyMyxYefFiZa/f2EKTyFzJWIVCo/F9EjGGvh5N4evvSfJh2t23iiNC842o/iqPd8hdxvbFe9Vb5mHzXv9iDUiwhSncXN6MjZWZNsmmPpE6zsSEqW9Vy+IUV15LZjdMwv8kSFt57VJgSjm0aSXTn2IPeNB6+kYx2nlcAePtwe/J8p4bK+FZn5z5sJ2YCwPhzARksLA0fW6gPMvry8Vs7RNGhVZK00P+fZCTqSIan0/1IGr4VACa7w6pLFAZ9RotU5R+oQ4dUP2TyDOrXY3Nba2Q69rsqR9ugvWVTJBb1YPpS1Zobq85SLePNnFInczljbJiQ=;ro5Fn1Z7Fs3uGfvy//9D/g=="
+secured: "fnTtZXzioT/XKS6TT0ZTlxvUd52ArsMiFbo/uJ8rhWYl3abyuvr8kiayEuk5eYMfMc5Kh9I8z+JwEn6MpRiBdfh7pGOA8j+3wtQcuY1hrNsHDK/WDYjam7sLOpwFjtUeum7XRWO9udW4cwncEjc12Yu9d4xYJPn4hQrbDt0Gp/fOhx9NwAcH4iARg7v6bfAI/gn+UBfiyRFDiiyVy2EoTHwXk5ufuNOx6PLmvLqGSgw09sWDzgE+I4qt6deVmGGfPo2zRAe1v0hRlszO1UwHQ7o0veK9eqCFk3ke5mskO2DIkq/+/XA08eO4wgEZ9JEffeoZuTW8xCYWhtEp2gPKK9Nv6k3vC+x9fON1JMNAB5Xf22wS9UssiHnxXOMVnv5CABA/KfbTb5jxWGZboF04Du4WYpA9kOqDTKoLxMLg2KuzeZv4nZ309Mw9CCKPVKY2PcN0Qs7WjxVrYkRE9D7dHvMGglqzLUs3P+2UhfbTSfKE+eRH7J8H3asZkMu0GMbjDlNo0GPgHaGcqM9d6NWdh0w+SnSXUP8LBNp8OCEIXjs=;OupGYImGF9TUMxDkcnra3A=="
 ---
 

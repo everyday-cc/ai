@@ -9,7 +9,7 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-in
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 75
     images:
       - url: "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "We might be able to make AI ethical, but maybe we shouldn’t"
+    excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."
+    publishedDateTime: 2021-12-21T20:30:00Z
+    webUrl: "https://www.biometricupdate.com/202112/we-might-be-able-to-make-ai-ethical-but-maybe-we-shouldnt"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
         width: 1920
         height: 1080
         isCached: true

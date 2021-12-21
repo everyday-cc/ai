@@ -65,7 +65,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
         width: 1280

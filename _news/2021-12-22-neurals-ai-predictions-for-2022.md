@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-21T17:00:00Z
 originalUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
 webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
@@ -155,6 +156,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "dy+gjKWi6mVfFc+0ih77Uc8pz1hRAOrc1yyxm3/NtumpiHgN2JRHwtni4yqyDzl5JqTSLP+GDycDsw7ODOhRYl/jdH6uA6wZDYsTVa/zQvrAhKSfdlDhBbx8ZZ2k/pC0MgfQVlZ9y1arBd8ioide6Jv+euMOGQfLqkrNKU9dNVeGN9X7gtpgUkfMNNAFZwwq3wq0emUtAjlvYx2bESoe1tWKm10mSdFHgJVJg1v8eMHV8lIcNYiutwCbIrAZZBzR6Or7/CWxKOj5IzoSar7KREzkjiM5AD/SPH7T3kkiDv/J9/EyjQDhDwJf6vQirTx4/8bn2YKmtyFtF87lJ2reE71rXYLn/C8u124qf2vNAkQ=;xgrq/+aucKF7jg6EOcSyIQ=="
+secured: "dJxKxXYFivhww4zTAUvYNY7qACk8nIO68kDfcTu+zCXq+BQajQOwBnIrQdjEtCA63sfw7VPSbQi86ZTJuG+8EJgPIodmN3LEJBz0CTmoTDI4f/B1ZAwUYxMDwmECyFVphEzzDH5BKr41wDxJYjK7lBG2xSUDn0yR8s/Q9aGvf/6X5/Inq7LuvdqJ/+KBssiRcEONofXWMSVrdMiNcGMT3Iudu1scNHJHkRnS7U84PuemL+YiNqiQV+bwmgLOgx0sdanZJ3zTIQIKB5vVN5tI4XtdxCM8n+xl/+ZOnhSUmQ8x5gCkyNF+z8ZcuxOobtpm15R2ernjR8MWZCGCgCxJTjWNe7C1xtwDcEacTuDowCsYWcKrWgh5p2aAZetEPo73Ro+BZsH1IKLX0wqk4lOMPrpZUFwQhw1SmV+0+V8iNptgbYsD2LsNRyM/DOkVNKhGEgFwM0IKEwv/JazLWFPlT8z8UxB/UUCeHluK/RVWPatIPQ7dZ2Vz9ejNebQh0UnSVishDmmkRKBgBXj28kCXpw==;W0UtLTe/fzKzMzbN6rVqKQ=="
 ---
 

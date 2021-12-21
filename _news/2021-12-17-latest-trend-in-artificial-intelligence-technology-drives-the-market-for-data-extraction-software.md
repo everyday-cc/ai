@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2502535/latest-trend-in-artificial-intell
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502535/latest-trend-in-artificial-intelligence-technology-drives"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -18,24 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI's Impact On Biotechnology"
-    excerpt: "The presence of AI in biotechnology simplifies data capturing, improves regulatory compliance and limits operational costs for businesses."
-    publishedDateTime: 2021-12-19T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d57b523a9e903dff75e6%2F0x0.jpg"
-        width: 956
-        height: 885
-        isCached: true
 
 secured: "z06G9BLzqbRhFudUopqLU3udxhIhRUhwuwFLUEo6HyeHRCIGnQPJbnTig1zxbyCnx0JA83KX7yS0PhH27ccAr7atFfIJbqDQXpTPP7WrRBWrokSV0sn3vCIusVxy8LOdHKaGkcBX57gKeXVFG+SU0f4NkoYc0W3Q7RfClyWqyvaxgWt4PTGWig4uiiZ2CHfSbUmFNUG8A6+vWpvzF5/BnI74PEw/+bRxBxXT9udEGho4lDSLkwiSMPnTNGoFDeKiCXySfFt6DLdu6TfzQ6ABGHqGAqCdiMsbAd+j8kX4VljcNWJ6w+AMYbR92Lv4GwmxIWo30fcfK6T69qMBET/sqp7787gSZeovh6BgDR5T++w=;x2J5FREJZ9bx0Y6o3NBmwA=="
 ---

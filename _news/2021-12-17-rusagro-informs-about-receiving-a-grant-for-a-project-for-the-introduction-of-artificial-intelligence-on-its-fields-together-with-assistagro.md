@@ -32,22 +32,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How to leverage AI for social good"
-    excerpt: "Taking into consideration how AI is often perceived by the public, as a hyped-up new-gen tech or as a bane, it is important to converse on the reality.."
-    publishedDateTime: 2021-12-17T03:19:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/how-to-leverage-ai-for-social-good/88331200"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88331200,imgsize-7960,width-1200,height-628,overlay-etcio/how-to-leverage-ai-for-social-good.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Why will AI be enthralling the"
     excerpt: "AI in Healthcare - Artificial Intelligence (AI) makes patients', doctors', and hospital administrators' life easier by completing jobs that would normally be performed by humans, but in a fraction of the time and at a fraction of the expense."
     publishedDateTime: 2021-12-20T14:37:00Z

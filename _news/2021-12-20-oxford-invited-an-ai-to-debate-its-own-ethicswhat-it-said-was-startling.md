@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 768
         isCached: true
+  - title: "We might be able to make AI ethical, but maybe we shouldn’t"
+    excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."
+    publishedDateTime: 2021-12-21T20:30:00Z
+    webUrl: "https://www.biometricupdate.com/202112/we-might-be-able-to-make-ai-ethical-but-maybe-we-shouldnt"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Meech+TJLOQ3Ahm2A2OZdPNy22oIbolijd/5UMFOJdx21wo2YkbM7IuI8OIBvILdvWLp9CArugkAr7CTYuWg0Wuv1sJYpOzNygvJJzVWyzUYOLguzKqswKobymxNX02mXaLqYsy8NWOQrz9F6rlZlWzPDPNBi4u0G9tbpxN5Pjj8yRTgp8LtINCyXLEqR17NvnR0jlVU1ZS7JaFiliaYf3/X/Yk6cgxX7K2XBNtkozsLH1vuuhP+IYmZFyS+WvfGmPL2uOYfGXpKrTQqrVAtUyKF9KCTnGhe/jcUvo/36TREb0xHJGZ3wF6o+/VSZe+vINO+4mJ7GEQBuD7tg7gqEtIJqYm/ds9LCJhRJ4tY/Xc4bkdIDyznppUwPP+pnJGrTlz9RNGoKfIrqHfmyz0tA9XYT5I6qHtZ5mZb1uS1MoztBFNs+tbsw0C1s4zsUkCIWsxfjFbOEUlt5Wzh2Bir4QU95Q2FinQ+P4dhLCUHrD1wNYyI8F8nW5I3wAr8xJwaPSU6oTsvrwj+S0QtLaQ7VA==;UkUsSgv8Nc1NDs1iK5MnUg=="
 ---
