@@ -34,7 +34,7 @@ related:
     provider:
       name: acm.org
       domain: acm.org
-    quality: 19
+    quality: 21
   - title: "Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce’s Understanding of Artificial Intelligence Passes Senate"
     excerpt: "Home> Majority Media; Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce's Understanding of Artificial Intelligence Passes Senate Legislation Would Requir"
     publishedDateTime: 2021-12-20T19:54:00Z

@@ -55,20 +55,6 @@ related:
         width: 641
         height: 425
         isCached: true
-  - title: "2021 Global AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals - ResearchAndMarkets.com"
-    excerpt: "The “AI Market by Technology, Solutions and Apps, Use Cases and Industry Verticals” report has been added to ResearchAndMarkets.com’s offering. This represents the most comprehensive research addressing market opportunities for artificial intelligence technology,"
-    publishedDateTime: 2021-12-16T10:55:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-data-management-artificial-intelligence-4d1283471c874773b351abd465b8da1e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NxM8gTDDb2UqEH7U2PRMh6AjXStGkpABfMjiLkNrzpOSYDD4TUIqhtOscy/5OgYhN/uZypKMEemjlp7SZF8mzyWGgCw90GQoYacQWM3Ah9J01O3E+uzIvNeAoyn87L1y982x0Rc7nV5f1SewSC/RhPmQC6dC/AdTdBHfR0v4UzYZz1i6rtPg/Ltt/NEGicfXly4eKg2Z7da3ljrYtQZqB4AdijihjXTq+NoqfREq5TVdfjexp5pmDtlVe0kNQZf1fJIzGLG+WFZffbb7I1kQ145KwymVC44jh7j6yXUv0azLuvQL51+1bBDrpgF8poSlpDqirokXb8JHeLiUu7rDXsgiq57IUFJRE6HN0T2wsBc=;iP7aeWmjGggmQBwc+ChH0Q=="
 ---

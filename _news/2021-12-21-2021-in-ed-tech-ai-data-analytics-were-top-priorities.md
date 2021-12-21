@@ -58,23 +58,7 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Business Analytics BPO Services Market"
-    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
-    publishedDateTime: 2021-12-16T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
-secured: "GSNPPY6dB/dggNUvHozetQniRzC89DOhuISZMwDo4A45a09hT8ZrokObmJ1Mhd4mDITIpoBK/leA7IBwQQmqcdGRxN4DHrPQ7useX1fjUgGLhALXORYLvI/wQsvjqw9OrDvGDkvFT3swCuPhn9ZaCGbFcn/4IuOb5RFiSFg4lk9HI762pW3cUVmue+lmsd6xAlKx/nC6vVNtH3wgYJsNObAJk8BBkq+qN+18rP+i9wwQW+OuVe0Evm795b+EUj8/1DXCxr509q7nhKfB5J2g3N9TPjqdoZg/29NfftO0Rpih45YxshmrPUjrPeTPICAkETjasW3UFv9Xusoul/XX1dUW1opMauwUDpuvvBjjEz8=;efHmfvChuCuVFFTPkvRvAA=="
+secured: "U4keoYbtcWgrR49mTxJfSFb+CBUduSzAGpF7Ag2buROxV6QmLS+mUvTj2hVdN24Wge5NhAOXvO/2ySKKdSfjK58IZ7uBmohSFEPF0t9ug3JyW+3dIJWYCh6akuSVT3J6Sy8zE/AILl0LblWhdpZlKEHaUB85kdsk6d0f4FD76i9MhRPYC3FKbNZRGMTuAnGRWqcsbKFraRWCJx4m0MIheFGvjTGDn8pCLubOI3bnq1tJrTHJKT6ZHw3JvJeF0s2O6h7bCgcdz5v537xzkb+Dthmx2mwLXDoq7+dJ1yEhSy3E2BhIC5xJFeLXmlFutR/pfGNnYC7YEY8uWi1jix/+kfL1AyG8jJm6CVxSpt2/FHrjZkbC+yRtj05GC8PJRvEClLGLhhhcDbvnPU4F9BxUs5kKnPvqb2bNlu726UWyVOETEP0yf1UVaOA4s/jOu41zJi85vC5gggEjXD91HiXkTPhw8qKnR+X3AWXaWGfl35OIZY2LfQCcL6owfQdVUcKGK5E/VjI2LyvxoWG+YqSRjQ==;ajQGTdk3QiWcIA7Tr5ckIA=="
 ---
 

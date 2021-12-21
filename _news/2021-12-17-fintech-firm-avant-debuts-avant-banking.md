@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Hong Kong’s FinTech Sector’s ‘Wine Valley’ Moment"
-    excerpt: "Top fintech scale-ups such as WeLab, One Degree, and Aqumon, as well as so-called “tech-fin” start-ups such as the likes of AI company, FANO Labs, can all trace their funding to these major investors. The Hong Kong SAR government’s own Innovation and ..."
-    publishedDateTime: 2021-12-16T10:12:00Z
-    webUrl: "https://www.finextra.com/blogposting/21431/hong-kongs-fintech-sectors-wine-valley-moment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/e0c0d5fb-77ec-4d32-afea-f6757afc279d.PNG"
-        width: 500
-        height: 326
         isCached: true
   - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
     excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."

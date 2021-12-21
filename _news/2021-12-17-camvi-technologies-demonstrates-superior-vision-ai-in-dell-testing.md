@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing"
-excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision"
+excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,"
 publishedDateTime: 2021-12-16T23:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-ampWebUrl: "https://www.benzinga.com/amp/content/24662164"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24662164"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
@@ -36,6 +34,6 @@ related:
         height: 500
         isCached: true
 
-secured: "jSCvVb6xWhJ5StRln/ApdbXHQEy8Sukdwz6nwXgvzHINIkCNSDxCvurMqHeewv3q5I4/NeWHmhtg2TjGXm1BOMyKSnej3ghVy+yxw8pfZusUWxy1XMaDVYsTQMJfTN5FbiHh64fAb6MstiZAMx7rn+0yxZn46x0ogZB0ihel9vvMI14BERfcqHchBn9JNobVHoZt1pLWbcsDNYMJOO9DiRXNrjXpvmAT8EFXejuDc53sBlJGF90avsHnJd2jDzeDdT0QU0xba5S36Tz5aTl6xTmkoV9Nh20MqLyqy5Ll3ugTULg6IOoNZTAUhlNQAidi+V83B2/JO5byKf9oMsWqUqz5SAvUun+wCKTiYVVa+Jk=;u+5VLTbdZNblwhsf0f4lfg=="
+secured: "e8XEJMjlxP41OyadcAHwScYqfBJUKo/okNhomqTiV8YTYjwtNE9gLOQdKukNLTGvNF3e/tGheo64WqiDyu9N0Bi2u/gHwt2Gv+vwUzri9NPyVyWoFI8JnK1H0+DGj9RNJr9PPe9foAMLZKpG+MZadpyYzJ1UvSMEuuFpBZ12RmNXqGVmlzI9+qF/mtbOSvLUSAhITbZLnyuyfPs+fF21SFZo2fZvkb18sxnqbbQ0z8iOmKWGBGxlIaivD4bYFoaSGOB+pXdhd8vzjyFeYJp4W/h6nC6cytUJR9V+C/edzWf7A+ab70u/A3yoDCt8V1rYEEqdCpMuQWRkoIKBVkkWwvQYnFANj+Gl6j9GBqtjQ9w1A+zYw2HIt5SqWtlM5OSdi7B4vJAjx/sdbKd0XJbQGSH82emSmtDONDxkwj2Y8nQeqg0ARYCrwTq6djbkBzYLQF+KPKpU/jjSdVOWs9MNafDRtdUSjcS5qXG49KEZsDNPSbj6q5/sPhzWYqytjzc+x3EKfKC2ww8OYz5rprcKOw==;2jLjbExnuZ9D1vfYEj8T/w=="
 ---
 

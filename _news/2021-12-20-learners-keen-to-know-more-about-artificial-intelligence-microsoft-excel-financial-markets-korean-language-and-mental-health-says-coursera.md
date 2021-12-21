@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Soul Machines and Microsoft to collaborate for AI products"
-    excerpt: "“In Microsoft, we saw an organisation who shared our principles with regards to responsible AI, a leader in cognitive services, machine learning, and in relationship building. This isn’t just an agreement to use Microsoft services – it will ..."
-    publishedDateTime: 2021-12-16T10:48:00Z
-    webUrl: "https://www.technologyrecord.com/Article/soul-machines-and-microsoft-to-collaborate-for-ai-products-127571"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10647/img-Soul-Machine-partnership_940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Australian Army and Microsoft to use AI to analyse voice communications"
     excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
     publishedDateTime: 2021-12-17T11:00:00Z

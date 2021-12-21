@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Business Analytics BPO Services Market"
-    excerpt: "According to Future Market Insights FMI the business analytics BPO services market is expected to grow at a CAGR of 13 9 from 2021 2031 reaching a valuation of US 6 2 Bn by the end of 2021 As per"
-    publishedDateTime: 2021-12-16T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    ampWebUrl: "https://www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501179/business-analytics-bpo-services-market-size-2021-2031"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16223781_g.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "2q0wbrMB4MG+z2Yg/R6mZr8ehXyxtPMSLLAO0EqQh2VpDY0Tib1J7RrPjZ+7YEdCZ2cLjqZb2UfdOoWMGRoQH2hVZyqReTZd6EflZOynA2nCtSpk53NH5vQ7G09UzLQEPlWA3avwg+MUaDMaSxQi3dZsapIHnuEwQexPMl9whY26RwQNUyKhJ2b1X4LNfWkYVfTM/PaN0KX2X/C+AkEacSqtzUmNzL3UAhz1jHv0VEM6PnKJgewpo9tTjuxF7X94Hwm064O0p4XWSoX6iYsdYbLLvfDMA8LCM6GqWCx/aCAGKe9hPcFSlxSMk1etyY42xfjNxovZvjTpcxpIJ6xAGrwzJHGqo1WcSh7hGHn5LQ/akMyI2hF2eL3Gh6rRSUgoTLDxnDaC9caJtI/dLLgZzxXQHDLDsCWlhBsNQp2CmVqERzGe7+Hxnsl9ihyRIAJ8Dq2fqgq1WWRdtb5n87zqJbVDk2wy4E1H85TgQ8boikXhnhmTXyPhYoAWxuHBtqur87IRD2rIEoUFW3gGm9fUHg==;e8qL50LH9o9dQ1Qj07iJPw=="

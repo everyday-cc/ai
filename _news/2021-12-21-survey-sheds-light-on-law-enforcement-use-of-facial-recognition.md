@@ -99,6 +99,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Face recognition: Digital scrutiny"
+    excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
+    publishedDateTime: 2021-12-20T15:16:00Z
+    webUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 39
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/opinion/shutterstock1747856960-1640014198.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Our casual use of facial analysis tools can lead to more sinister applications"
     excerpt: "Facial recognition technologies have become more popular through increasingly sophisticated devices and popular fads. Casual use of face scanning and analysis features has long-term social impacts."
     publishedDateTime: 2021-12-19T11:14:00Z

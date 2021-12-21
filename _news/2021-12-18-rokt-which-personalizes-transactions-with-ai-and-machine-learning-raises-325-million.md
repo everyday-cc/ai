@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-per
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apex.AI raises $56.5 million in Series B fundraising round"
+    excerpt: "Apex.AI raises $56.5 million in Series B fundraising round . December 20, 2021 by Mark Allinson Leave a Comment . Apex.AI , a company developi"
+    publishedDateTime: 2021-12-21T01:49:00Z
+    webUrl: "https://menafn.com/1103405607/ApexAI-raises-565-million-in-Series-B-fundraising-round"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/R&AN_5a1e2image_story.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
     excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
     publishedDateTime: 2021-12-16T15:06:00Z

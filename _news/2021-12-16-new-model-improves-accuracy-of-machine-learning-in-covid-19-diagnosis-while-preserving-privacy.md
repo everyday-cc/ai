@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic with Deep Learning."
+    excerpt: "Due to the COVID-19 pandemic, vaccine development and community vaccination studies are carried out all over the world. At this stage, the opposition to the vaccine seen in the society or the lack of trust in the developed vaccine is an important factor hampering vaccination activities."
+    publishedDateTime: 2021-12-17T00:15:00Z
+    webUrl: "https://europepmc.org/article/MED/34874877"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
   - title: "Predicting Variant-Driven Multi-Wave Pattern of COVID-19 via a Machine Learning Analysis of Spike Protein Mutations"
     excerpt: "This offers the possibility to trace the virus evolution and to assess the role mutations play in its spread within the population, in real time. To this end, we focused on the Spike protein for its central role in mediating viral outbreak and replication in host cells."
     publishedDateTime: 2021-12-17T08:42:00Z

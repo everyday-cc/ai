@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-20T00:00:00Z
 originalUrl: "https://cacm.acm.org/news/257510-what-does-it-mean-for-ai-to-understand"
 webUrl: "https://cacm.acm.org/news/257510-what-does-it-mean-for-ai-to-understand"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 related:
   - title: "What Does It Mean for AI to Understand?"

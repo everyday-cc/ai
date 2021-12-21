@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
 type: article
 quality: 187
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "France says facial recognition company Clearview breached privacy law"
-    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-    publishedDateTime: 2021-12-16T09:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/france-says-facial-recognition-company-clearview-breached-privacy-law"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
     excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
     publishedDateTime: 2021-12-17T10:08:00Z

@@ -84,15 +84,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "France says facial recognition company Clearview breached privacy law"
-    excerpt: "France's data privacy watchdog CNIL has ordered Clearview AI, a facial recognition company that has collected 10 billion images worldwide, to stop amassing and using data from people based in the country."
-    publishedDateTime: 2021-12-16T09:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/france-says-facial-recognition-company-clearview-breached-privacy-law"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "France watchdog orders Clearview AI to stop processing personal data for facial recognition"
     excerpt: "France's National Commission for Information and Liberty (CNIL) announced Thursday it had issued a notice on November 1 to US-based facial recognition company Clearview AI ordering the company to"
     publishedDateTime: 2021-12-17T13:41:00Z

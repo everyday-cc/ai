@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Apex.AI raises $56.5 million in Series B fundraising round"
+    excerpt: "Apex.AI raises $56.5 million in Series B fundraising round . December 20, 2021 by Mark Allinson Leave a Comment . Apex.AI , a company developi"
+    publishedDateTime: 2021-12-21T01:49:00Z
+    webUrl: "https://menafn.com/1103405607/ApexAI-raises-565-million-in-Series-B-fundraising-round"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/R&AN_5a1e2image_story.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "BpWsl8GxKgDH9ImmLPl/ypb4+w2PvSqOvrx8EbK+JFppT/MticcgpKWHDpKiQHIfPry5jUflsj+8w90DZS4Uk6KbeiR2Zw3Kyv/lg6/U5+FbD+awYIjQeeEaUY1p9Pj4FQ3bsx7CdGc03YhqUxFdp3oLxOaYeZta2/5VP5Nz29vw9dqKldIzabAafGcVtJjHVJwpx7jweTerkPf+uRLaLWURCKZTS8kCdszAwJ9fF1aoRn+qYxpcCnegPHdtODEFhAAOTibO6ZgBVzw5vzwqk29OEv9mAOohCfzwqIDfzWbj6Fhdw0uefP5EBTNSW/6qQ1BXT9LR3kbUhNRv0dFgUFVnVyiykfrwpuCSF+sc/+6GyHvdKPJ5YwSEY7kQU50gJ/PRg3vKk61ZLH9qsotWhKjtSgho+G+7wZhOKJW0sFy48etmihVZOl3uQLsG5rZQqY342YgS0mTC/RcujKbbg9b/JwHZ3mfU9Oar3qoeLpqhSevbyvoCv0QkiSCdk0jua5a3SEzGy9YoJdgStLMt9A==;tu88/+9wVO9P73X/opYY9g=="
 ---

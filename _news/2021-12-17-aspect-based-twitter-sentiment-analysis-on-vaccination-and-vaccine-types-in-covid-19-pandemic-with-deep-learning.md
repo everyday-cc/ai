@@ -19,45 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Controversy rises over AI-based facial recognition program used to track COVID-19 patients"
-    excerpt: "Controversy is arising over a Bucheon local government pilot project to combine AI-based facial recognition technology with thousands of surveillance cameras installed in the region to use in the contact tracing of COVID-19 patients."
-    publishedDateTime: 2021-12-20T06:50:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857"
+  - title: "New model improves accuracy of machine learning in COVID-19 diagnosis while preserving privacy"
+    excerpt: "Researchers in the UK and China have developed an artificial intelligence (AI) model that can diagnose COVID-19 as well as a panel of professional radiologists, while preserving the privacy of patient data."
+    publishedDateTime: 2021-12-16T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 64
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 47
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/e37dff4c13734ec69dbcd9bb606a4dfd.jpg"
-        width: 980
-        height: 598
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-model-improves-acc.jpg"
+        width: 599
+        height: 292
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-19T10:23:00Z
-    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Reflections on epistemological aspects of artificial intelligence during the COVID-19 pandemic."
-    excerpt: "In this context, a specific digital technology called Artificial Intelligence (AI) plays an important role and has been used by several countries as a health strategy in an attempt to understand, control and find a cure for the Coronavirus disease (COVID-19) caused by this virus (DSouza et al."
-    publishedDateTime: 2021-12-17T11:23:00Z
-    webUrl: "https://europepmc.org/article/MED/34866808"
+  - title: "Predicting Variant-Driven Multi-Wave Pattern of COVID-19 via a Machine Learning Analysis of Spike Protein Mutations"
+    excerpt: "This offers the possibility to trace the virus evolution and to assess the role mutations play in its spread within the population, in real time. To this end, we focused on the Spike protein for its central role in mediating viral outbreak and replication in host cells."
+    publishedDateTime: 2021-12-17T08:42:00Z
+    webUrl: "https://europepmc.org/article/PPR/PPR433306"
     type: article
     provider:
       name: Europe PMC
       domain: europepmc.org
-    quality: 7
+    quality: 0
 
 secured: "rnGneo8uVMuFrkupoj5pdjOLO03OBxGH+1qEyV629JWPDH30gTZGYAQieTE8ZBep9P3kIk8G/CNjh6kDK1MOIMDKIeoEyjH5pqCqvoznVMC6M65vxAkVAFJ7J9MkBK5EN7m8YVlcsInRMkP/esLO1Vkl2qxBcRIzkaWAggxUGwH6YCLrSyjgc13A6ZQ55/YMblxxphsgPKwxvsGDqZwWWIrQE0aa/k9gtJkhYodhRHy0PPf+nn/osj0MS0XKyyv2uCkHjCkfnqA7ZeZ3yN3BivtpW7ITJIvmmMdwJxpTqUCIn0zh/eFdecVIiqpcrA2n6gT/De9/xZ1O+soGT+pxVCxFhZHkyx6619IeMkvOCE8=;hA+08A0t/WAG77R/VK9Lqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-me
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

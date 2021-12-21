@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ..."
-publishedDateTime: 2021-12-16T14:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
-ampWebUrl: "https://www.benzinga.com/amp/content/24643155"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155"
+excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ..."
+publishedDateTime: 2021-12-16T13:43:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "RoFVGAR28kFgD7TJ8Jkg23l7fJ8P6xNVrPaooAi/hx2haLeoKHy8cyPmDpRscZiePTts4boPmb9Ac3A2p/P7B0G6EgAtWG+UKpC4DBxs7Os0CLmC2J834U3MfyhJ/xLKsxWA2TNuQym2ZpDZFjvHbGkXR7/XBb90cCclyN5/lVjSXR5z/LamI1ikz+N873QusgNWVHkRqZ2KU2plLT7SUScAW1zaK9xBdX9u7VrwNkwXaM+x8f8V3Fa94gq0tLFHdHapFNr/tenoyzRxnZvGBOfCtCtBl9ctHY0z7zQXTgQhg5Y2/FZWNIjONRTrVfyHqraL2eSad4H6owMR7hdzibjqF7T1JxwqeThZLXtF8Jk=;QdphbQVTMNIVYEu6KrYCow=="
+secured: "CkGuEatMjCPdfjq/+bQhJJvDahT1kDVP/SC2mx2bfVt/13gMTmKqA52DnV+bREIvs3P28sb0WYkbBE51CNc1aVYKpqYFjAw+H2F34Vvm7pf9sPGAb0Mctxj+UvGpJrV88nTiDmJhOXmSEyBfmtruE2i/RTWIRjSeoV9XXy3ExEKMyChjGlzWyewiJxTO6SwMuMT1RZMqveCoGA8L8Wf84kV/Y5Vj2G4tGVC+qhUzFFsVmRmcZQ6I9fr230C+eAVhEKLZo9aoAzjLYS48w8TzhTE/qk0lSUcuksr+DdDQh3SYutQEwfZ9vLeHj5m4uB5bDeX25R1d/KV6/E/E3ALZ2aXvrinTBLRqS28Nc/Zoz80=;jIbDDiEOddkFHltSFgt+Aw=="
 ---
 

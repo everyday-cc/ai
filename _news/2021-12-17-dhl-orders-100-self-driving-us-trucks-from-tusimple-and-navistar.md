@@ -28,9 +28,9 @@ related:
   - title: "TuSimple locks in self-driving trucks deal with DHL"
     excerpt: "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar."
     publishedDateTime: 2021-12-16T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/16/tusimple-draft/"
-    ampWebUrl: "https://techcrunch.com/2021/12/16/tusimple-draft/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-draft/amp/"
+    webUrl: "https://techcrunch.com/2021/12/16/tusimple-dhl-deal/"
+    ampWebUrl: "https://techcrunch.com/2021/12/16/tusimple-dhl-deal/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-dhl-deal/amp/"
     type: article
     provider:
       name: TechCrunch

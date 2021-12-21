@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-21-6-major-hotel-trends-for-2022-from-crypto-to-facial-recognition.md",
+      "title": "6 major hotel trends for 2022, from crypto to facial recognition",
+      "excerpt": "For future vacations, expect hotel trends such as facial recognition, VR, payment by cryptocurrency and more to be a big part of 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/",
+      "originalUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.lifestyleasia.com/wp-content/uploads/sites/3/2021/12/21041203/alexander-kaunas-xEaAoizNFV8-unsplash.jpg",
+          "width": 2000,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/",
+      "cdnAmpWebUrl": "https://www-lifestyleasia-com.cdn.ampproject.org/c/s/www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/",
+      "publishedDateTime": "2021-12-20T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LifestyleAsia",
+        "domain": "lifestyleasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-mperativ-aims-to-leverage-ai-in-new-revenue-analytics-platform.md",
       "title": "Mperativ aims to leverage AI in new revenue analytics platform",
       "excerpt": "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI.",
@@ -147,7 +191,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -448,7 +492,7 @@
       "originalUrl": "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -500,7 +544,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -603,7 +647,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -737,49 +781,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-controversy-rises-over-ai-based-facial-recognition-program-used-to-track-covid-19-patients.md",
-      "title": "Controversy rises over AI-based facial recognition program used to track COVID-19 patients",
-      "excerpt": "Controversy is arising over a Bucheon local government pilot project to combine AI-based facial recognition technology with thousands of surveillance cameras installed in the region to use in the contact tracing of COVID-19 patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/12/119_320857.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/e37dff4c13734ec69dbcd9bb606a4dfd.jpg",
-          "width": 980,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320857",
-      "publishedDateTime": "2021-12-19T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1028,7 +1029,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {

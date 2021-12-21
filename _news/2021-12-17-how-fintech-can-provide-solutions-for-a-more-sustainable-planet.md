@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Hong Kong’s FinTech Sector’s ‘Wine Valley’ Moment"
-    excerpt: "Top fintech scale-ups such as WeLab, One Degree, and Aqumon, as well as so-called “tech-fin” start-ups such as the likes of AI company, FANO Labs, can all trace their funding to these major investors. The Hong Kong SAR government’s own Innovation and ..."
-    publishedDateTime: 2021-12-16T10:12:00Z
-    webUrl: "https://www.finextra.com/blogposting/21431/hong-kongs-fintech-sectors-wine-valley-moment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/e0c0d5fb-77ec-4d32-afea-f6757afc279d.PNG"
-        width: 500
-        height: 326
-        isCached: true
   - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
     excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
     publishedDateTime: 2021-12-16T16:19:00Z

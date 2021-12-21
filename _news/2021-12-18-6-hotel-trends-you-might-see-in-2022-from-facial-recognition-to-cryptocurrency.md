@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lifestyleasia.com/sg/travel/hotels-resorts/6-hotel-trend
 cdnAmpWebUrl: "https://www-lifestyleasia-com.cdn.ampproject.org/c/s/www.lifestyleasia.com/sg/travel/hotels-resorts/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 2000
     height: 1300
     isCached: true
+
+related:
+  - title: "6 major hotel trends for 2022, from crypto to facial recognition"
+    excerpt: "For future vacations, expect hotel trends such as facial recognition, VR, payment by cryptocurrency and more to be a big part of 2022."
+    publishedDateTime: 2021-12-21T02:00:00Z
+    webUrl: "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/"
+    ampWebUrl: "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/"
+    cdnAmpWebUrl: "https://www-lifestyleasia-com.cdn.ampproject.org/c/s/www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/"
+    type: article
+    provider:
+      name: LifestyleAsia
+      domain: lifestyleasia.com
+    quality: 61
+    images:
+      - url: "https://cdn.lifestyleasia.com/wp-content/uploads/sites/3/2021/12/21041203/alexander-kaunas-xEaAoizNFV8-unsplash.jpg"
+        width: 2000
+        height: 1300
+        isCached: true
 
 secured: "cQeBOpD81BZZTgpxSFdgRi/1cya+q4OzNyzkfLzG/H+JohCsytGFDlUEKt9pvxtP8FfnIfw52nXwXQe9YRfJWJjQMX6ZI9TtDU6p4TWshLTM7mhQTsAB7cVXIsW/tIQ9GzFtcQasFBYf9LTBCDbQ+OdjnNrtY9rt+YHR0LeiFAzrkbeTxNN4VHPgmwt3dQYkydHrokYzmBEuE2WJcNJZ18O3RQbAWTMX4ixXjnA2Xwrft9/mwGLkPoL0yxISsuD0j2LiK8GktqqrdtRubQW+cyKcH49EbFCeXR5DdvsYQ1yfSziV6xEw7fINCqbZWF3otA/QmSCMkwOiRdIUQRNp0HPiwaVD6xBhSxo17UTTxo0=;FLzaTvn2iDxc8J+nkzXspA=="
 ---

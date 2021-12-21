@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Our casual use of facial analysis tools can lead to more sinister applications"
-excerpt: "Facial recognition technologies have become more popular through increasingly sophisticated devices and popular fads. Casual use of face scanning and analysis features has long-term social impacts."
-publishedDateTime: 2021-12-19T11:14:00Z
-originalUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tools-can-lead-to-more-sinister-applications-172595"
-webUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tools-can-lead-to-more-sinister-applications-172595"
+title: "Face recognition: Digital scrutiny"
+excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
+publishedDateTime: 2021-12-20T15:16:00Z
+originalUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
+webUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
 type: article
-quality: 20
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: kathmandupost
+  domain: kathmandupost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/436482/original/file-20211208-15-o4dnpg.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5081%2C2540&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/opinion/shutterstock1747856960-1640014198.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -99,20 +99,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Face recognition: Digital scrutiny"
-    excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
-    publishedDateTime: 2021-12-20T15:16:00Z
-    webUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
-    type: article
-    provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 39
-    images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/opinion/shutterstock1747856960-1640014198.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Survey sheds light on law enforcement use of facial recognition"
     excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
     publishedDateTime: 2021-12-20T18:48:00Z
@@ -127,7 +113,21 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Our casual use of facial analysis tools can lead to more sinister applications"
+    excerpt: "Facial recognition technologies have become more popular through increasingly sophisticated devices and popular fads. Casual use of face scanning and analysis features has long-term social impacts."
+    publishedDateTime: 2021-12-19T11:14:00Z
+    webUrl: "https://theconversation.com/our-casual-use-of-facial-analysis-tools-can-lead-to-more-sinister-applications-172595"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 20
+    images:
+      - url: "https://images.theconversation.com/files/436482/original/file-20211208-15-o4dnpg.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5081%2C2540&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
-secured: "JYafDbB8S96Y82kd7KIdIxjle5CECSB3sD4xvOTs4QoMMtqSzCEl9Xpebl7xUQGs9p0iPHHWnAVTtvi60X6PR0NEj20EdB8ilFYrC6wKynkYqwke0vaHfZanK3t5SqyzBf6tgcW5A7vNN+pj8/m8N/jLaWPJEDcxbmky45UicSv84pfcRNgaEgiD61fLGd81GlY/5I+H5hac/069+/zKrEzeedwPMYIbryft8fft43rvD5+pS+xI0qdB5QTeUfjtl4aMCYrHp4nMDtJhqjf/D064ar0zCWkd/CZsO67UuLRPB77kNJj/r+1zDtrJe1ozMkFSMeBjHbJUVJ02bXb+91jpczhS7kOZjo2eizHzeDUjLNtimTAbr/rAnQcJyUJsNaLSiIgcg08X+g861KbsZvJqGt5XAuftcaDPZrWQypD96IpFWNqd1Bgcj4IAdG8U4GWG7vj94ubs7vpEDyNSBuMIojOn8aLDTakRNpaeOcpqmbrulnyqkl9gdKKgZDIZod240iN5N/rFFqM8AN2G8g==;cwCfWGV7BhTxg2apsoX4vw=="
+secured: "naPqhnHJ7LA3FY7Xfg5Iv43nDeVjNanC0Vi7aw4Thjy7iToUSf80VAPopy5b8yysLg1/Ou32e5xcSonS5fMMc5gNxQPb8qpeyTIcTToMvv+YsREM+0dNUzY38XbxgqcLV6vZHKk7cXPSMvUxzpEDNM0bTEVI8hZbvkIwY81xNQotXMQe4/BfgRxgGkMNOUEfNscRZ9j5U1v51P/RLzXZOLOcGjrnPLeF2nCeVypBP/KfK8hp42lPiBfLAn8Z55DwKxct9X937izyuVclWNPx9Ujs++S3aNtFmucXNCvUjoqrap1uvO8FeOkaakTj2aznauKqAoErA/xkwhsc93HVhT2A9rXKU2c9C3tYYzQSMls=;2Pa88ZYkMg+GVeyElKNX1A=="
 ---
 
