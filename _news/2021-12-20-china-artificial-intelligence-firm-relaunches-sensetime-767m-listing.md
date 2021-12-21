@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime Reopens IPO, Gets $512 Million From Cornerstones"
+    excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U."
+    publishedDateTime: 2021-12-19T23:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 152
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist"
     excerpt: "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged."
     publishedDateTime: 2021-12-20T08:35:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Chinese artificial intelligence company initiates SenseTime listing again for USD767m"
-    excerpt: "China’s artificial intelligence unicorn company SenseTime Group has reinitiated its USD767m (£580m) Hong Kong stake sale.<br /> <br /> The declaratio"
-    publishedDateTime: 2021-12-20T10:06:00Z
-    webUrl: "https://menafn.com/1103401661/Chinese-artificial-intelligence-company-initiates-SenseTime-listing-again-for-USD767m"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
-        width: 512
-        height: 321
         isCached: true
 
 secured: "3PsEdFnQ6UA3f5tqfN1+izi86zILLY1JD8D1kGZbPWL8rI41k0ZijcCOAtDYJoKOL8mRuR1tRPBQXOfkIkHlw3ae23SHO+b4yiNSioujjkANhcwRhTL1KAoCfwQUxMY2EReiG9cAh4JKPBB73iad32DAQ859k+W/fsusCgODTQKFtwb8Tt681vemtguio+lVYJd8NTyKvSgmRVqER/n4yeFi9M2D2kGsESjV43CTNte7Yvs5G0J0tk7Gc3hvPf9w5nMvALQjYyMdeRHGFGos1ElEhU5wa5UxCuaJXub5vX5sF3GxSfIAVbzOW8yoqkIpEXugKgP51BWe1viygyvTFGSG1HiLPCTxkuH8Ho5b09BZEFASGP/PIOA8bb4lzMpYDeVNp+W3wT6HfdOpQniZh/HA1obv4E39yoRNbzJPs+SEZ4lxqpxhfgqP0KFCiY6LOMb/hN9oSKdwg+bMAox7RPTpnSgPHdN79iG0AYo+Tt3IZRsgN+JNlsN/Rqf5IqsOgzNCeifdyVwPW5SSmVItbA==;CCVntiMQHROJ6JDfOu/xsA=="

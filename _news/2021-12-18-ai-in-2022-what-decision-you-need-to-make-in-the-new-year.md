@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "Top 5 Edge AI Trends to Watch in 2022"
+    excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
+    publishedDateTime: 2021-12-17T17:23:00Z
+    webUrl: "https://www.publicnow.com/view/1E8DC0BAB198F9EE950F404890471E7586475FDA"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "Aaa6JfgrnJnh9rk0vReN6LtWwuxqmid49QYCPBgsXnE9WZGS7Lm0fqnN124Q9a/7oKG/qYyZW4AT2Ire7saPwF7ps1/t9QhSMn7tfruNyQU2M9ugFEzT2z2JHOm0W/K6uSg7oG5wK/DJu44JsmlT/hyRbv+9TvHajAyulxfs6xPYSRTpCUvkxvU5t4g8EuY71pHvfWrKJhYDaYgrRfSlu/8jRmg6258IVj1qB/T4bd3tIjmnvngD7Mp/rfDQBLGHK5Y5QNq4Z1vNcGRfOUFSydpytYBBKusVEI3HTQfBIxW4nZ46uiyfq8GYMpDr0uXYHIR/mBMeqO6cjcJp10WG1SXjbzjhoc1cebmNJF6Cp5skPSgMfahodOUp3Tsu+JCS1KRyBXIKkHJImDq6lClu5EQKRPXZIdkLMS/pelR7I/1F8M5Qby+IEMiAGopkb1eZMMMbamCZG4wICI/JlZLFwzDlUOr/0y7I6R5bgtUpzgzz2jhD6ZZa7o3oiWYAFYoIzAo/D3vKr4i9mqDQU1JgBw==;plc/RlxJm3EoTiW0CDQ6ZA=="
 ---

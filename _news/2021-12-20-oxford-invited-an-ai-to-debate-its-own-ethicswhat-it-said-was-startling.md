@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "New ethical AI institute launches"
-    excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
-    publishedDateTime: 2021-12-20T23:06:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/new-ethical-ai-institute-launches.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 56
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
-        width: 821
-        height: 462
-        isCached: true
 
 secured: "Meech+TJLOQ3Ahm2A2OZdPNy22oIbolijd/5UMFOJdx21wo2YkbM7IuI8OIBvILdvWLp9CArugkAr7CTYuWg0Wuv1sJYpOzNygvJJzVWyzUYOLguzKqswKobymxNX02mXaLqYsy8NWOQrz9F6rlZlWzPDPNBi4u0G9tbpxN5Pjj8yRTgp8LtINCyXLEqR17NvnR0jlVU1ZS7JaFiliaYf3/X/Yk6cgxX7K2XBNtkozsLH1vuuhP+IYmZFyS+WvfGmPL2uOYfGXpKrTQqrVAtUyKF9KCTnGhe/jcUvo/36TREb0xHJGZ3wF6o+/VSZe+vINO+4mJ7GEQBuD7tg7gqEtIJqYm/ds9LCJhRJ4tY/Xc4bkdIDyznppUwPP+pnJGrTlz9RNGoKfIrqHfmyz0tA9XYT5I6qHtZ5mZb1uS1MoztBFNs+tbsw0C1s4zsUkCIWsxfjFbOEUlt5Wzh2Bir4QU95Q2FinQ+P4dhLCUHrD1wNYyI8F8nW5I3wAr8xJwaPSU6oTsvrwj+S0QtLaQ7VA==;UkUsSgv8Nc1NDs1iK5MnUg=="
 ---

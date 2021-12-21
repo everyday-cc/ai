@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
 type: article
 quality: 121
-heat: 211
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,97 +32,49 @@ images:
     isCached: true
 
 related:
-  - title: "3 big problems with datasets in AI and machine learning"
-    excerpt: "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources."
-    publishedDateTime: 2021-12-17T14:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
+  - title: "AI Dungeon’s creators are launching an experimental AI-powered game platform"
+    excerpt: "Latitude, the startup behind text game AI Dungeon, is expanding into a new artificial intelligence-powered game platform called Voyage. The company announced the closed beta on Friday, opening a waitlist for current AI Dungeon users."
+    publishedDateTime: 2021-12-19T15:00:00Z
+    webUrl: "https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
+      name: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
+      domain: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
+    quality: 154
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all"
-        width: 1200
-        height: 571
+      - url: "https://cdn.vox-cdn.com/thumbor/bR8RES-WU9Ov-DtqUAeQnkxwJAc=/0x0:2346x1732/1400x933/filters:focal(986x679:1360x1053):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70293890/Latitude___Midieval_Problems.0.png"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "How AI And Data Analytics Drive Value In The Finance Function"
-    excerpt: "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities."
-    publishedDateTime: 2021-12-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/"
-    ampWebUrl: "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/"
+  - title: "New ethical AI institute launches"
+    excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
+    publishedDateTime: 2021-12-20T23:06:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/new-ethical-ai-institute-launches.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 56
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58a362058dd89c077731%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
+        width: 821
+        height: 462
         isCached: true
-  - title: "How AI Is Adding Value In Wealth And Asset Management"
-    excerpt: "Using AI in asset management and wealth handling allows financial advisors to make the best decisions to safeguard and augment the money and other assets of their clients."
-    publishedDateTime: 2021-12-17T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/"
+  - title: "Artificial intelligence as a playing field for credit unions"
+    excerpt: "On November 30, a panel discussion was conducted with a focus for credit unions addressing “Assessing risk and optimizing growth for each member”, hosted by Neuton.AI. This event brought together thought leaders from the industry who shared views on how credit unions can uncover new growth opportunities and mitigate risks by leveraging AI."
+    publishedDateTime: 2021-12-17T07:00:00Z
+    webUrl: "https://www.cuinsight.com/artificial-intelligence-as-a-playing-field-for-credit-unions.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d447b0d2afa5d0dda795%2F0x0.jpg"
-        width: 1200
-        height: 1062
-        isCached: true
-  - title: "How AI regulation is developing in the insurance industry"
-    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
-    publishedDateTime: 2021-12-18T20:05:00Z
-    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI and machine learning in compliance technology"
-    excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
-    publishedDateTime: 2021-12-17T10:50:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/ai-and-machine-learning-compliance-technology"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 58
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-19T22:27:00Z
-    webUrl: "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 38
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-ai-383075513.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Webinar on career in artificial intelligence"
     excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
@@ -138,6 +90,48 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
+    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
+    publishedDateTime: 2021-12-21T05:07:00Z
+    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 37
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UC Davis Health evaluating AI-powered rapid COVID-19 test platform"
+    excerpt: "Sacramento-based UC Davis Health, alongside Las Vegas startup SpectraPass, is evaluating a new type of rapid COVID-19 test that relies on machine learning and artificial intelligence. The platform would be scalable and would allow for quick,"
+    publishedDateTime: 2021-12-20T21:42:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/uc-davis-health-evaluating-ai-powered-rapid-covid-19-test-platform.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
+    publishedDateTime: 2021-12-20T15:14:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 23
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
+        width: 2090
+        height: 732
+        isCached: true
   - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
     excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
     publishedDateTime: 2021-12-20T14:10:00Z
@@ -147,15 +141,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Top 5 Edge AI Trends to Watch in 2022"
-    excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
-    publishedDateTime: 2021-12-17T17:23:00Z
-    webUrl: "https://www.publicnow.com/view/1E8DC0BAB198F9EE950F404890471E7586475FDA"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 17
 
 secured: "px+Vcf/9n8x8PXduE9WVMPCFS8WvUeZDFm83NFn4XDU9UXkIzr95nDik9cFh4WPmY24gvAho9S209o3OLVAvsbXPU77EjyWNMeUuR+2nY/h/7gUhiMO2xN/NJpwWd4hqTWdVEyvKY8kTb6MTGyMTjNfu0Aa5/i2ugGurTygPaNp+DiMqR5y7qYwxDCuDDh1LMoc+EUzl0/lPGAJYGOmjUAUF0XaiZaipcyXGrr3/e+tDRPx7ncIpkvXDyLoNd+tU1rpF7evTamuSs7MLS9EQghs/QZh/QAvgM6V71sw8NMRCO7ddjJGh1DGCai67jD1B2Wap4QmYcv3Exh6FK/yXIhXKkBvfnm13FBFwdglG9a/RPMQqwiRx7E9E8r6lt7oDhJ8UC+AdQhXq2g/ib7L9lfieoL813b17N0fgLO3uClnZRcmLIQwJ2jZVzC+HEVSLuDnvuUCJ7g+QdKNRvIknhztbhH9Sdp3kFAsGk+v6h+tMQc9cs8w6Ox3IPnYrAi9gy+N91bt5Fr+2bLztseJvhQ==;72LzZaw26mOKsP/Eg0BA6A=="
 ---

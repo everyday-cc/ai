@@ -1,29 +1,29 @@
 ---
 category: news
 title: "How to prevent mass extinction in the ocean using AI, robots and 3D printers"
-excerpt: "The world needs to protect 30% of the ocean by 2030. We won’t achieve this goal without using new technology to patrol and preserve marine protected areas."
-publishedDateTime: 2021-12-20T18:41:00Z
-originalUrl: "https://theconversation.com/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
-webUrl: "https://theconversation.com/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
-ampWebUrl: "https://theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
+excerpt: "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,"
+publishedDateTime: 2021-12-21T13:40:00Z
+originalUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html"
+webUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html"
+ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 type: article
 quality: 71
 heat: 81
 published: true
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://images.theconversation.com/files/437626/original/file-20211214-19-pmg6y1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-    width: 320
-    height: 240
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "xaxR6M2NDzS4JNtafQO5FH/S+aHvuKSVbMMFohC3vDr+76uWD/mzPQ8NkAXaXAb99hGb7inEK+VPMaVOoD2xaOFDLqdJz/MMOYXWXvfKmU1cfaHVB196VPS4qeShhECsXtFWOqrr3wjh+vZt1QmdvvBKe/b6Y2nUkcZKlC/Ypzld3nqRoUJg8xG5ozacm9ajwV8v4mMoamav73PvJjpprAYSsv/cwvDX1F9+4vAvXDIKmdlokiUcnuUFMZZntaSH/DrcLP2VRJkGSf8IZTzygNFdmtDCHs8q2OfKxJogG62jCZtUBkN2Oyx2cTFJ3l8VejXf3DanneRUqo/D83fmYSWppPjX1kBkohT4CrNBSL6M2CMKcH809vce3c1QKbNTeUxi+/t18bwTZ0QoPbFeUcdSSX/udrZPmwDTg4okbpsrtuCXnUHIwLXC3eyXxrbTjdLPJeTSHEBFS9aglq2f5iH61R6DwhevDDtaoAirPck9Z5/21m0KIh4R2EeSYYQPyfuH//u9XCI4oAIVaTwbJA==;hkHVcKU8yE4nMHdnm0SshA=="
+secured: "7o/uOhzQt0s36oYUI7uQo+mzZSJ0c/snQe4NdyQBcohG62DmNXztPc/E7acyvD4DaKVE50TeBPCd59o1q02XdlT2SyZEsMt6E4q+VF1tLcZG2/zBitn7E/mYd4uxH0CBsTugPZKXxBIvjE/yA6zVp/2d4IjITDtHukbnusSNTbqthSIYOsRsiUn/C/5ELzUeRBNesrHqDw+GoWWYXRhfLZYYtgMWKQy3qYtkmQWy1o4KpWl6EeyNcmmNZ9r50sVwZL3vlcOIdb8YPH/G17U5lFHqhzsL+mfvdWes6bp6fEHYLgl0hzPQmIOZ29du7HyokH9atBf2aYLqIQAn1mRIi0gxSLpTVxtTCrMDcNFLda4=;srl8aP0wLN6tlJL+MltUJA=="
 ---
 

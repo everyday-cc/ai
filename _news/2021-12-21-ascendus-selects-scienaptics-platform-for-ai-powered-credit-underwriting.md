@@ -38,20 +38,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
-    publishedDateTime: 2021-12-20T15:14:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
-        width: 2090
-        height: 732
-        isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform for AI-Powered Credit Underwriting to strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T20:42:00Z

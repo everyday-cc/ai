@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/owkin-and-amgen-use-ai-to-
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/owkin-and-amgen-use-ai-to-improve-cardiovascular-risk-prediction/432620/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 887
     height: 396
     isCached: true
+
+related:
+  - title: "Owkin and Amgen use AI to improve cardiovascular risk prediction"
+    excerpt: "Owkin and Amgen use AI to improve cardiovascular risk predictionAI startup Owkin and Amgen have announced the results of a three-year project to use artificial intelligence to more accurately predict cardiovascular risk."
+    publishedDateTime: 2021-12-21T14:52:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-12-21/owkin-and-amgen-use-ai-to-improve-cardiovascular-risk-prediction"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 37
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "5fn7JDtq2uQ1hvFmKkgx8EZislAz0BpbV6Jb6H4GeCF7vyl9ZEcd2t8GbRsPq4dYm9VQE9lu0901cesv6wSZyIvIqFIQde+BtFirLfpDSquwTi8nZgbXuhyqKYYt/DBRwcJw6nVlC6T5Jk1sJS8ngnNrkiwzH2EkQvyUZXvRt10SB5o/tuKMHk8Oi9z8fMPNIwLrVJGcWdh9wdYc1+5OHdAS94jaHijveg1aFDYbcjLKJXG/U6ra8gm+2LE36TqdlrTPU6Ruuei7naaDgiSs1xu7GcQ1WXkyvr6kCFIwRn2LtI4abGHgWKL7TLEHdW5Vh6KpyDy9qpvFXbEpNAKHRop0C3e2uyN6lQkZic6gKKe2eKszPmHr/qdbFUOCMArUfvadxnaB/Z26mYudepcPBrS6yhuVfQuNQoly+V/fWuoDPIBgHt2QMRWvXzEZZQt9biG8SDg0as2rzSPBIWkIMas56L6e0jpvQ5fcNWaFEnI5hhL7fqU19qegXeKnOJyqVfRCFWAwU08Tg9KByjjF/w==;C5LOr1P16Y9QCPYqG8w/0w=="
 ---

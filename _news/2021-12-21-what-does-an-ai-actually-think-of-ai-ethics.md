@@ -9,7 +9,7 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-in
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "New ethical AI institute launches"
-    excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
-    publishedDateTime: 2021-12-20T23:06:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/new-ethical-ai-institute-launches.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 56
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
-        width: 821
-        height: 462
         isCached: true
 
 secured: "234gn+xRXaaoSJMzF/VpTk/WUItHPCaTeuwcWRFU1O3lW1C8gCpQsNeL9CIZq7g+yU84u3i6jiTUQ0DUOQSrlcXSAqbVC3Kr4u4/r+xyuDevB/caOkHO5Yr/UISDzKqhi6lvUqEUKGfAZDsP7oowXoMeY1H7QRuZplYiWU5lhZTboKHakLxpFoG/iHjV6UXWwbcsL9UEqPG/BXy23P9D1PbqwbvZ0oYvJJs/FpEmjbnc9dwPdHfTZEsRJ+9agS0smBG2xYnOivBv/NyYSrEon6tC0GN5JX4ZYtGKPn0JlXGjZ2IuGru80Bj7M2EedbRYdzWGDA5om9G97xgHsgAnT6yidBjgC9EsXva7CEYJGrsK6o9oBL7AHc8We9MY8+01ituR7BcFHdBK52v9Kg7gANuiOZI/pp+5FRctCbLDD8FgF+nRft4V6pQjDxQZkRNrxbFsoGmHL/ccJgVl343ws4b441Sq9pDpiIRn8eeC7Khkwn2CPJIjqByepo8Ubem7fJ59blVlhEFkWV0euDSY2Q==;UxwOv6/gCe9cocy/NC8CgA=="

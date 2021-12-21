@@ -1,29 +1,29 @@
 ---
 category: news
 title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-publishedDateTime: 2021-12-20T20:03:00Z
-originalUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+publishedDateTime: 2021-12-21T13:32:00Z
+originalUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
+webUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
+ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
+    width: 1000
+    height: 482
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 400
         isCached: true
 
-secured: "QFa27xHNsluC1FoVV2fn9mj5vlDTJ/jKA+ULn3us4Bud5xH8dHYf12YZ1dgTZBnjVVDCZs9fmoc9bjNVfPOdL9EeukXdLqWr6HqvpqbYidJeXdiSzUTqXGgQIuG/4WqGo5t1kkqPid3Vmdtd+2TGfOLWTFTIy7hSmWVI0VIgbryzHNnK0skytA8yZoS29Y3ARWcbFOO3536Fac4Vf4XjxdLJVPWfqkLnAI3jyoLLLWV8MKhrmK+VMUszuRlrqK2KRZr5MDAXCCXYUoWwuDfARKYGRehAc25x3gRW/AroCPNP4ca3dXfiJtfreDmPCA7TaiCQZWd0jpBX2dY1ogTdgDp5UIFd6zAlOP0vYCe67kI=;6UE+QOiaBUf08RgxmJI3ww=="
+secured: "gok8Tnbtsd5UySEBBxNzGYG7ZwzIsd4h9JeSn+bEGavGMHhRwstDIeyuPlSbcTpqkIqLUW8gRKQDiMz9YIChLp6HI42lO6sKiUKtZZ/Ao59ERpA2nzDCCkfPxZ+Vo3WN2iH6QTwrxgHXWtEuIMz2akZ4iltZJflTQjFIop2xiNjDarfqbWN5t+10dOFv2ebGFggOlzn6fqPUNkCgIYo737SG9M5y+Oz4nbmTZFhFHyBdDfjc5uSXM6s7PNUbn8fDYK32RLzrbSPYEkzSNLL9BalMD6ePi+1oalXCwuEVGfkrRRcI+eyppMy8ABOHverdsYc3l7WDhrj5RCalSw1eglTGay1HIKeQadofy9JYPv4=;RimpWyEu/FHFHyvph+TbyA=="
 ---
 

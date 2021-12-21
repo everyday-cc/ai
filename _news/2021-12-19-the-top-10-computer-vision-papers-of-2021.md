@@ -57,6 +57,20 @@ related:
         width: 2764
         height: 1555
         isCached: true
+  - title: "Voices of 2021: The Top 10 Voices of the Industry Columns"
+    excerpt: "Here are the top 10 most popular Voices of the Industry columns on Data Center Frontier for 2021: 1. Maximize your Data Center Budget with High Speed Point-to-Point Cables (The Simeon Company) Ryan Harris,"
+    publishedDateTime: 2021-12-21T13:30:00Z
+    webUrl: "https://datacenterfrontier.com/voices-of-2021-the-top-10-voices-of-the-industry-columns/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 24
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/12/siemon-hero-740.jpg"
+        width: 740
+        height: 441
+        isCached: true
 
 secured: "YQYSUvo6uOoeZL1Y9yfjay+93GtrUCCyMr6dMwbXeagkEPf7z0MSQmN1mcB4FvujCo/02rQyeqwosx+uVaieMWY6az5y/E+EOEU9QFG4k6BckHDeW4TbIk6DP5CL2R97l9m7lCeI9HeTRp3DDyGQlJ7aA2bpTR4YYl1ea85E08EHEDFIDIXJBQvwUSQMsxU4evH/28+D2ldy4BHkldu6tpjkqZws+f3kZ/Rto+P3UNZ+U18c5AEx9MhwYc7hCtkBjkyhlUcJmpgZu0TOFzi0w6MHEVSy5m/HQeD3gedG9/7ERflPgoN5DJ1PXGagidtLT9KDmT/J4xvamJlngO0+qy4UMU6ORxu5SQQkx0yszZw=;lNY4kTjOd1L0Nl1ewuQBGA=="
 ---

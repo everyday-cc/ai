@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-20T20:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-12-21T13:32:00Z
+    webUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
+    ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
+      name: Phys.org
+      domain: phys.org
     quality: 61
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
+        width: 1000
+        height: 482
         isCached: true
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a rece"
@@ -74,6 +74,6 @@ related:
         height: 400
         isCached: true
 
-secured: "bkkdkKPK3mMjneUHTfWuc0x2EcViMH24vjYkv2l5er6pzufNofc3KbTDLTOji98XsHyMIJHwwaBhcVOuA4sVkP9dkr/3/cnsiDibpe7iYLUQ4uxjIoyd/9/6EqFglS25tx5RuMwnTJ4h0BdEzZ+pONK/DZqWOpxXKjjtyzx0yapon18UPzdZMsZCVD5vbcJBsXAndy6rcISeiWGPlJ1k7zI9PuI3qiuMT7XfLryvI23ZdgkafBz3xBfTqu+kCMiaTrNbzh40BPecxGNHMt9CGtgQIw4femHdA73yN0V549pTv47cdVOqKzts78cw0PvaFY81cPHg5aiGP1OTVtwL7i9d4pD5jidY/mwb84ewqqk=;VzCKNNdyOlS1gr5r1eGJoQ=="
+secured: "zdBxvp/QyigEe/3WkQJypZHEOeRmTOHUQw5bGzmk8tC+tIbUZhz4FDUJ9RGGulgUGTNt+6QwRIg6y9PumZ0lTPscq32vX6NnsgJgFkeEGnQpzSqObYdzuhp+EfdTtbkplgcpp0c3kQKuBfNMRMBC9IMzkdydNZFSWYZfBJP6ICcaPEirnfJdqA2kv7aAA/X/4GGqqB7xXyAQe9OgyVTqQNZ3jEPLNGeFwkLRuHQ1yY60cSCz42F8i7mymFQ7jy/1Sf+9sosF2SgqGKa+tLNIDexCpVeZaZYuJIMTfDo6CjQtURIgbsFo4qLkbVp5e9J+6DahqqRNzyXan5ewzNhv6xwJGwPKfbqkALiq49R+1eHwLEfY6cA9Ax57dXTIzhIYhA1fOIMeBbX15VGE3C8Bpm8gIo2+/1xJvXP/ulP/gZxDlykAuVJKlUTyP13HMmih0x5i2QDPUPkdFy5oQte8BYdgnEzIGKPmd8aT+jgzL/Zud6O3CLJOGrxbe/zKEGVZzDTIBmHEbfsDmGEbdB0Uvg==;uds7DICyQabvsNR86vdrRw=="
 ---
 

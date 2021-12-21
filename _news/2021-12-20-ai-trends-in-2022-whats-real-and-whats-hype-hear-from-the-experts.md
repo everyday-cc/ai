@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-202
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top 5 Edge AI Trends to Watch in 2022"
+    excerpt: "Internet of Things, 5G and AI. In a study published by IBM in May, for example, 94 percent of surveyed executives said their organizations will implement edge computing in the next five years. From smart hospitals and cities to cashierless shops to self-driving cars,"
+    publishedDateTime: 2021-12-17T17:23:00Z
+    webUrl: "https://www.publicnow.com/view/1E8DC0BAB198F9EE950F404890471E7586475FDA"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "m/PeHqa1t3le8x4HGHTzkN5XvZ/9lK40mbHlHaGqBvJFXMthp4YcwzMpIPzXPn4gjlHEMZ+3NXtYjFqnMm+5scJ5oiRXsZc9504jrYGjsfcIA6XeWG5hPRAM1IayQzQeAMW52WNIB1rqe33EUBrYnJYqv6t7A8mVFXklG0zGDKhlQ1M9W2T8okUXOFZOeDs+4AVBUeZA5oo3pWNquQG94Jdqd9BPWu4w71mB2tAYz9Vyxe/oMnI01oMJ1QPKTb7xunI65l5l34830TJ2LLQl4v5e3ZfAPqeTf04910wyAATqWzVXPR+t3EXoHcc0rKsRNyV+lVVpBv2CcB3yFBlbRNyE4l8ez7O+uzXqZqsvSD8H/mtmOFxt+KyWaWJf5NoshD9tbpk95CuHvfxVyXx/1tdDV8pTMUyCV9SN88XkXhuEYRYVraMDNmGN/ouPdiCzSxu759fXaGVOBjG/MTiAw+oTSZpkwypvMsctyJO0aXrBKww3nHcKV04tTUSsDieOPouzceNt9WtPLo6J3H7Oag==;jxCmJPfb+auB92dcnlpY4w=="
 ---

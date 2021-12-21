@@ -19,6 +19,17 @@ topics:
   - AI
   - Natural Language Processing
 
+related:
+  - title: "Model moves computers closer to understanding human conversation"
+    excerpt: "An engineer from the Johns Hopkins Center for Language and Speech Processing has developed a machine learning model that can distinguish functions of speech in transcripts of dialogs outputted by language understanding,"
+    publishedDateTime: 2021-12-21T13:40:00Z
+    webUrl: "https://techxplore.com/news/2021-12-closer-human-conversation.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 4
+
 secured: "BGNqd8hS9CveCvaV2erb7J50DecqFNEeQUctC4tyPaoK24PIMThTJtv9NGy9zIj/F+6BUDrquUAfFuVTUhkBhg3Z5njXDhn/l0vfS0Gphj++XFJUik7H29UtqzWLbSb2kuB+00bQGfe0zmeLYPyL8MLctrFiJLmfZFWUJkWz2uqyclqZ7IN8qNkh8Ozw7U4ewppz9voH4XPpfsoJh5OjN8Yj1hU9Exq7GiSdC4PtS3+w39AeWtll+G6Nf1njJr9KJaalapYM8QX+32qF2+Udk6CNPIpk6stEr7S1XJll9rl4HYjO0M8aOvJfXG9fS+nJRA+0UO+QAfWOAcGsO37fvENwvYSnzSL07PYKV1CFPy4=;3oLSGfEXVRGnZCk5I0zN6A=="
 ---
 

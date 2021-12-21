@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/cruise-ceo-dan-ammann-step
 webUrl: "https://www.bloombergquint.com/business/cruise-ceo-dan-ammann-steps-down-from-gm-s-self-driving-car-unit"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,26 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cruise CEO Ammann Leaving GM Self-Driving Unit"
-    excerpt: "General Motors Co's self-driving technology unit Cruise's Chief Executive Officer Dan Ammann is leaving the company, the U.S. automaker said Thursday. GM said Kyle Vogt, Cruise president and chief technical officer,"
-    publishedDateTime: 2021-12-16T21:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
-  - title: "Cruise CEO Ammann Leaving GM's Self-Driving Car Unit"
-    excerpt: "General Motors Co's self-driving technology unit Cruise's Chief Executive Officer Dan Ammann is leaving the company, the U.S. automaker said Thursday. GM said Kyle Vogt, Cruise president and chief technical officer,"
-    publishedDateTime: 2021-12-16T22:50:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "NPlO49V914RcL8hH1Dvl5ijQCgDCrAUDlAlMyRMfPdjq6T9JNMpFbjasgFuwIssCqas7/Px9jfPXVq3MfyUv2BUd/11u2qsWoOYA6m2uRAFb/2r0okj7zK6fSsurA9b4fcrUwvDouVWINzkZUtk2R931P5LZtuE74yLZ2l7GmwQ/NIIiF4BgPRM/N0enUlt50OQ4kJ4n08fxPhgedUWi+urq6/R5ureNjVsWZYq4JOAxlIRga+HcjQ3zQIM4YLQ3QenilbiOc2GWi5YwAi7BNJLhtughIoXL/ppGuqXccgoL/JNi1xpFfE15SZi/TiOjyguYR13KX43DIWmJcDl8SCwHnc4gvS+ZYipjs4+EyGo=;h+SttHh6VFWR40DJkW5HRg=="
 ---

@@ -18,40 +18,80 @@ topics:
   - AI
 
 related:
-  - title: "Overjet sinks its teeth into another round of capital for its dental AI tech"
-    excerpt: "Just four months after announcing $27 million in Series A funding, Overjet, a company developing dental artificial intelligence software, came forward again with another $42.5 million in Series B financing backed by existing investors."
-    publishedDateTime: 2021-12-20T17:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/"
-    ampWebUrl: "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/"
+  - title: "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
+    excerpt: "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market."
+    publishedDateTime: 2021-12-21T02:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/Overjet_Clinical_Intelligence_Platform.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Dental AI startup Overjet raises $42.5M in oversubscribed Series B"
-    excerpt: "Boston dental AI startup Overjet has raised $42.5 million in Series B financing, a round that comes just months after its first funding and FDA clearance."
-    publishedDateTime: 2021-12-20T15:38:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/12/20/dental-ai-startup-overjet-raises-425m-in-oversub.html"
+  - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
+    excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
+    publishedDateTime: 2021-12-19T20:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "Dental AI startup Overjet raises $42.5M in oversubscribed Series B"
-    excerpt: "Boston dental AI startup Overjet has raised $42.5 million in venture capital financing, an investment round that comes just months after its first funding and news of an FDA clearance. The company’s Dental Assist, which was the first-ever dental AI ..."
-    publishedDateTime: 2021-12-20T16:58:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/12/20/dental-ai-startup-overjet-raises-425m-in-oversub.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
+    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
+    publishedDateTime: 2021-12-19T19:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
+    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
+    publishedDateTime: 2021-12-19T20:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
+    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
+    publishedDateTime: 2021-12-20T16:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xx09ZPwpJc5Msgl2XUS3Fm0Sc/BBeEoNlc2ekUVp8AC1HXSKTp6NhJj9oHXPwRRvl8pEykmwdV4E17T7leiUPnzeD94HfwZ2h3t8Oy7onP7jz1Ap3bTurlGEeFcIU1tdvDKUYRpG1BBWZ07eVZNTT3TTLqh/nbHO6fpU4d8iZi1KBAFAtfsxc/Z6r8qSTc1HUVcUoZghXkI4mTkONCFmjR74NfIb/KHJDjRqi634GMjgzYpbmGfI+iqy3+f2OO94ywKtXmF7Q5cnAMyQmUw9kjSdFjM32ef/9D1DYGdJMvM0q2mp6xrIEVRiCERWNUWIMjd89nz80TZ7dhTQuw7HIanmGht6GU9u9eWFS8ZEaR8=;7k3ES88Nk6Cp+TojcE26lg=="
 ---

@@ -40,20 +40,20 @@ related:
         height: 640
         isCached: true
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-20T20:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
+    publishedDateTime: 2021-12-21T13:32:00Z
+    webUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
+    ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
+      name: Phys.org
+      domain: phys.org
     quality: 61
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
+        width: 1000
+        height: 482
         isCached: true
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a rece"

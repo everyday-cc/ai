@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Owners, Face It: You Are Not Testing Full Self-Driving"
+    excerpt: "The most common excuse you hear from people who accept using Tesla’s beta software is that they are helping the company perform tests. This would allow Tesla to offer 1 million robotaxis in 2020. Already at the end of 2021 and with no robotaxis in sight,"
+    publishedDateTime: 2021-12-21T12:01:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Tesla Releases New Full Self-Driving Beta Software Update (10.7) With Phantom Braking Improvements"
     excerpt: "Tesla has released a new Full Self-Driving beta software update (10.7) with phantom braking improvements. Here are all the details on this."
     publishedDateTime: 2021-12-20T16:30:00Z

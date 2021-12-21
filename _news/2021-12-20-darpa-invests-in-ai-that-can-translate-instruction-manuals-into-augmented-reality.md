@@ -4,26 +4,44 @@ title: "DARPA invests in AI that can translate instruction manuals into augmente
 excerpt: "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems."
 publishedDateTime: 2021-12-20T14:36:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 149
+heat: 159
+published: true
 
 provider:
   name: Defense News
   domain: defensenews.com
 
 topics:
-  - Natural Language Processing
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.defensenews.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg"
+  - url: "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg"
     width: 1024
     height: 731
     isCached: true
 
-secured: "bKAfBN0LT60qZ8yZdC4OvrCha5S44Os0MBX22FnC1si6GmniCTBfGWk71OdS6nLKM5l7UT3tRFj9UiMJU03mBL9+Y0xKC0l+4F8I6DwCedPz+GenI/n1SGpRsE8fDeCNRj93jmh0n/z/Y2A0K1S7l35yWyv0a/C1GfvkPojzDgX5McfBRZGVsItBfxzF34SZf07MKXiY6a7cCN8ijWsi18WKk4nzefSWP01BiJXlH/+CtK1slpek+wTTuYQxxx7XJB0gQ+qj8aRc9W2Okf0ifv1sGJT5zDfkYMhWB4gNQ5lI9Td999i0L5yBiw7qZCqVWewNMv2SUIebXUW0kxJFgDjpAKdx8esvXUAVncU+3m3T/zk99T/6JZQ9L4tg3C5rrS6OdWnteOe/4NKAEI9XEffV0Ll5KkeZmJWAgjdTa0riI4utlCYG2qLBPXjKa/flidrXIzGPXzY2ltS0rRlQ/YKzhDifumwrJGOT6wIDtY/1tIWl02b70kPTr2BpWAUFwesEwn1q89WqrJKRu2RMIA==;42bDsyGtwUhJbPU2lbKpcA=="
+related:
+  - title: "How AI regulation is developing in the insurance industry"
+    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
+    publishedDateTime: 2021-12-18T20:05:00Z
+    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "mh+M5/Kn0L0jb+u6XN1hekKls/hepIOOXv1bOe4NQ2gwixK9dBkBfaWpq8I+y4VjFN2j5mp8XY5jdCrPVd6dYgFgYT4nIrvmwjWpnDOPuGN2FDr++fvYt8tv+WxcJts6tqwDqPXvBJU9hxqHauUdUMBRDhmbr15nyrLGDINtb35PHh9JrZr000Vu9ElChjvEnRQ5iLckZBHqb/y2TnkgU/iTI4g57tKqJNRg9zzIMyq2dp751sU042GxW5+yScd53cH54cHLhhLgfBBWhbV0FSmiQqJHNI2lN0qrBBZtiF4Km1PKW41ZWTi9PKIrn2Lg5VzvfYp8HzLkTK5P+C5oT9vf+Pf/0LhMPYrwxdM4RPM=;J84rU+RN/KQzKR6tvgoQ9A=="
 ---
 

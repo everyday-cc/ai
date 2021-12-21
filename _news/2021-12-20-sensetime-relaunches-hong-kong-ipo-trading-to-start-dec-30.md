@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime Reopens IPO, Gets $512 Million From Cornerstones"
+    excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U."
+    publishedDateTime: 2021-12-19T23:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 152
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist"
     excerpt: "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged."
     publishedDateTime: 2021-12-20T08:35:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/17/fa83cd71-c727-41c3-aceb-e575a5f9552f_b0e45619.jpg?itok=NKVXvcSK&v=1639738029"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese artificial intelligence company initiates SenseTime listing again for USD767m"
-    excerpt: "China’s artificial intelligence unicorn company SenseTime Group has reinitiated its USD767m (£580m) Hong Kong stake sale.<br /> <br /> The declaratio"
-    publishedDateTime: 2021-12-20T10:06:00Z
-    webUrl: "https://menafn.com/1103401661/Chinese-artificial-intelligence-company-initiates-SenseTime-listing-again-for-USD767m"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
-        width: 512
-        height: 321
         isCached: true
 
 secured: "SPssviTP61eFrFu2Uni9YbNAUvmP+9sZRHkDNeInfGhlJIOxuY12WSjwbmNc9WFxvec/wlmB3zqbPlO0nQcFWq1jfr1lWYaKqmHKxKDore3zXSUrAErTLQYKYhxbEWxpLf7aQJeb4uHW2MM+fKKnBE7ACfRkrb5XZkeN3jm28F9favuq2iyw3JqYuxIKpY3W56hjyCzlN/oysYLXTiCmilbkar529LZE066gpNZEE+IptQkRJvA35zVnN7ipjQ122SMeR+psJiomAfM35wrxH6VH3DbWfhDZ5Lv8jHvK+pxokRpCXxPD4UkmcozXo2+zDkaZvTqjtEDGKMbLkQcHvcXe4Ouo6dYhyHdSV8TS13ajNbR2gvJkm6nIhorkRYQDWKdr44wV8Pg+ZjLoqnPJnCFDmZu0K97xdFI3LITgGY8DQdzcDgdWhuumJm/ipsQaw4duQLvCh/7IH3gO5otEc2vOW2o0m1sCPxhbmN8rcS5nYCIUgkQ3Yyfi81tm9K2lzib/fQlT6R1jXUAdnofRPQ==;JESNq91H2d53qnGube6E+g=="

@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "How to prevent mass extinction in the ocean using AI, robots and 3D printers"
-    excerpt: "The world needs to protect 30% of the ocean by 2030. We won’t achieve this goal without using new technology to patrol and preserve marine protected areas."
-    publishedDateTime: 2021-12-20T18:41:00Z
-    webUrl: "https://theconversation.com/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
-    ampWebUrl: "https://theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers-170173"
+    excerpt: "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,"
+    publishedDateTime: 2021-12-21T13:40:00Z
+    webUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html"
+    ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Phys.org
+      domain: phys.org
     quality: 71
     images:
-      - url: "https://images.theconversation.com/files/437626/original/file-20211214-19-pmg6y1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-        width: 320
-        height: 240
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "bZ9R10Rn2Y3L83wDwpIJmLYTv4ze6jXev5l6CixzXnlGxcmii37mmDmByZqLOLn0BpbnoPB3FOD0Bn1lX4thhwxdFJB3tI840vLxwfwRe1wBthz1vE2xAcffJea79N8tInxEL4Sx7tEIuLqgUElixEhtOiATetZ+R0dojUY0DSEPTfSJLZqUoAoH0loAD+0oSg+WtbJUvdXTU73Xq1M0cTTiJxxOYPOQnPYsn0+VMcL9awaCtY4Xvyvw05ui84Q5uA3iG2FfgC7bMu8GaOvG8wDTUraHT0cR9IMFm57/E/D871/Jgd0l4wO0O1j8MA1LjgXU8VlUy37WzR/+bGGweDIb/b1Q74ijhlWc42++zCw=;dyHMz77Oyje1rgpx55g/4Q=="

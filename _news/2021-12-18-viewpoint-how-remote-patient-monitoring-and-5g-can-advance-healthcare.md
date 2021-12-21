@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Viewpoints: Ways The Pandemic Has Affected New Mothers; Benefits Of Artificial Intelligence In Health Care"
+    excerpt: "Editorial writers tackle these various public health topics. Chicago Tribune:       New Motherhood In A ‘New Normal’ World When it comes to pregnancy amid a pandemic, there is no manual. Where once expecting moms could find answers to most of their questions within a copy of “What to Expect When You’re Expecting,"
+    publishedDateTime: 2021-12-21T12:42:00Z
+    webUrl: "https://khn.org/morning-breakout/viewpoints-ways-the-pandemic-has-affected-new-mothers-benefits-of-artificial-intellegence-in-health-care/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 23
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
+
 secured: "SrVZVTR41LsHNq51eTK2xDNgiXMeZAVsboQlQ187ow9NLZzfJRkFfyKXbrrLw83fOWVvp0ZA3+z0WQ1gsoNojEGn0ss632lc6ZfgZctOxDgKboZwuXyle+bdYXEYyJaxtLFDgT8NniYZMp+Kt0cnsEiScSfx4MJQ+sc16B9uC9Q6KaviMbmEW5ipnBtyhc0FxHaaqFYBVZjFHfmYHNYv5DZRaX1Tw7koUb2QHbmGSuYA1C1nDRZBYekCpHAhIVFhY2ux+z/SkRsPqkKZ7iO98NA6b9GHQBjXYN79PpAB44Es9L3hFyVYlQywXeTYQRRifsEquuax0DDJJJmCsUJjwy8+VhZicbcA1/Vp7VykRM0=;/3EXmSY8pqMAgxWct6tpAA=="
 ---
 
