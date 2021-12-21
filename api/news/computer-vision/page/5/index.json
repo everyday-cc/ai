@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-03-researchers-develop-method-to-completely-fool-ai-image-recognition-turn-turtles-into-rifles.md",
+      "title": "Researchers develop method to completely fool AI image recognition, turn turtles into rifles",
+      "excerpt": "The team’s “3D adversarial objects” throw the object recognition algorithms for a loop, making the computers think they’re looking at something they’re really not, and it’s honestly ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/",
+      "originalUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2017/11/screen-shot-2017-11-03-at-11-21-56-am.png",
+          "width": 969,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/ai-tricked-mit-object-recognition-turtle/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/ai-tricked-mit-object-recognition-turtle/amp/",
+      "publishedDateTime": "2021-11-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-in-surprising-announcement-facebook-says-its-shutting-off-facial-recognition-technology.md",
       "title": "In surprising announcement, Facebook says it's shutting off facial recognition technology",
       "excerpt": "Facebook will no longer use facial recognition technology and will delete over a billion users’ facial recognition templates.",
@@ -1297,58 +1340,6 @@
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-qualcomm-develops-eyes-free-smartphone-for-the-blind-and-visually-impaired-calls-it-ray.md",
-      "title": "Qualcomm develops eyes-free smartphone for the blind and visually impaired, calls it Ray",
-      "excerpt": "Qualcomm and Project Ray, however, are aiming to consolidate phone calls, text messaging with voice read-out, navigation, object recognition, audio book reading and more for the visually impaired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
-      "originalUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/DHoHJGG4a.E06Km02pVGTw--~B/aD00MDA7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/project-ray.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

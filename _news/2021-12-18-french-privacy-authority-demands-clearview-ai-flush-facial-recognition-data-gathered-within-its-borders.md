@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "France latest to slap Clearview AI with order to delete data"
-    excerpt: "Controversial facial recognition company, Clearview AI, which has amassed a database of some 10 billion images by scraping selfies off the Internet so it can sell an identity-matching service to law enforcement,"
-    publishedDateTime: 2021-12-16T12:28:00Z
-    webUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/"
-    ampWebUrl: "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "France orders Clearview AI to delete facial recognition data"
     excerpt: "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country."
     publishedDateTime: 2021-12-17T06:38:00Z

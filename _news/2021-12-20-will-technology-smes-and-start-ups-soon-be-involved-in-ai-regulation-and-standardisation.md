@@ -56,20 +56,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Enabling a thriving and innovative UK AI Industry through AI Assurance"
-    excerpt: "Artificial Intelligence (AI) is changing our lives. Like it or not, break-through the hype (of which there is a lot) and the machine learning algorithms that underpin AI are increasingly being used in a myriad of ways to make our lives easier and more productive."
-    publishedDateTime: 2021-12-16T11:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/enabling-thriving-innovative-uk-ai-industry-through-assurance-dawe"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGgD4ovyt8EKA/article-cover_image-shrink_600_2000/0/1639652206330?e=1645056000&v=beta&t=yTrqNLymLIsV6tUcM8VOulyoTPxvuSzTfbmawgFmlCY"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "okXZzftvguf1XtmOBxgP2ocRoZz8zN1NkbUUFhoQ6tYfRaxZQy7kX+k6JShM1bDC6ElL8BC5tIdcp81AV3fZ7c3vfp4H0N8QPpwdXj6LQL5jg8ZM3dyGiOqGnGu35b9Wil+oqh7c2dnWpmovLfpBrSnFA/m6WQmv1H2PUg9wFUJEIIxvHoJki77bgZxUZbqKlC1BdaDv46Qj0Ph5P5eieyQOvUyPf2OxeGxrNdMbA64SjED/OzmAxnQ7Ns5gLbk4nbQHDbM1+YFmozWEzOlJ/zgvcNUWE7nncFaDn27/E+UODWyJwTI9tsh+SXtXBTHC2F8vAkwrlDmMG13vzkQ9l/O1j5LALz0ADgU0Z7hpOAsWyFjHeVqTBK2Fq36Qj73eOuieMv2nXLVtJJZrU7ZNulEazVWOhXh1Ab5uiZSsIM2GqOR7l6FhGsVpwExO0ejUx3fiySpFFixry9oazcN2fkYD6/0yzdwFYz5ZuqTHg7UGltZBeSGhiuCbZD1ku2qbW6uEtUlnqOOZWMw3VzECPw==;C2z19IPB3NaJwexJOMELKQ=="
 ---

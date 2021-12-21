@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2301500-human-brain-cells-in-a-
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301500-human-brain-cells-in-a-dish-learn-to-play-pong-faster-than-an-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 483
     height: 320
     isCached: true
+
+related:
+  - title: "Scientist proves human brain can still beat AI using video game Pong"
+    excerpt: "Scientists have found that a colony of human brain cells stored in a petri dish can perform better at a game of Pong than an AI."
+    publishedDateTime: 2021-12-21T03:38:00Z
+    webUrl: "https://www.tweaktown.com/news/83523/scientist-proves-human-brain-can-still-beat-ai-using-video-game-pong/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "4IaOhZquqU9Ueq1ln0eRElcQDaFudXa1aDgiOCf8glprya6Ln/F1YruXKVfPrkCj4MYeRcGteIg6XKKz9RVM6FvS88ws6MeHY2SEOWyn/h9ubrIwNUpA3OVWerEKJeytFthPBV64Pk9/e5vQHI7+YEwboPswNlLM5o7I1P9dFMrqlzeDX4cgaslUpUa3R1zGDy5C92vATn+k70aCujd76ivKuBbpCeHJIfp0P0rUR4yQP852IXTLLE7HNi57DdWDFhxMEeftJC6XFGY8l+F4MXSjtX6StvLRyRfRxv4yyauUrLTCuDLhEwn614b4t1PV9AHEQOJwNlEl7Rkvn799ilMiFoUIJIbnEIbezkNa4BL72DtguuA2P9EsAaAOMJyeIHpiouizREABcD4+qJmE7bIO0FOIRzVPqf8vxj8P3gymwP6SOUABPYMF02BHcV2fwUHAUykCd4POHrmOjlGaoQLtSpN+6Bj3dwBmdJC1E4unsPcrCPlyIWV8Qdd0s4qDOA5eB68vFRRb5b6i5RNBnQ==;lXKx4RBpCKX30vJrJ/HWKg=="
 ---

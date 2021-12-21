@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2502256/professional-services-robots-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502256/professional-services-robots-market-2021-expected-to-reach-us"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Medical Diagnostics market Growth Analysis Report 2021-2027"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics market is growing at a CAGR of 31 7 over the forecast period of 2021 2026 Artificial intelligence AI can be defined as the technology in which a machine or computer controlled by"
-    publishedDateTime: 2021-12-16T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2501764/artificial-intelligence-in-medical-diagnostics-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc16177572_g.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
     excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
     publishedDateTime: 2021-12-19T19:00:00Z

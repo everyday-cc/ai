@@ -23,22 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Facing Burnout and Changing Revenue Models, Healthcare Looks to Augmented Intelligence for Operational Improvements"
-    excerpt: "The COVID-19 pandemic has irrevocably expedited adoption of enterprise augmented and artificial intelligence (collectively AI) solutions"
-    publishedDateTime: 2021-12-16T11:11:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facing-burnout-and-changing-revenue-models-healthcare-looks-to-augmented-intelligence-for-operational-improvements-301445770.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/352435/chilmark_research_logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
-
 secured: "J/Jmusp5FPLoATbP7k3861zZ7l6A9/BFWzgjnid5JMQYLQTCP6dkxPuBsFXubUCty2hU+m29HUxiNQPfYXSnqrKYlO84r6m77bykOj39MxN8oOpdm7+3j35qzWE1zgFfRYdhbT3ru44YlhRRnG13fyQhyNa1lXmpDCRgI5KMvyFmWOM6BKr3vTyT75cgmy3ynJadUk0ouD7R3KD50IA1G7Ud4q30ZbjOrsOFDbpWGocEW5/lfEIFuAhV7OMOUkZapTAG7tmwD8YHBaD/ae0PcTyIv6MEGhyNmPh3Fu0nmYQ/ye4alChQlkdsl7Ksokh0eDjLVJ+Xrgy69gXJ6iVUf1kQbtgaLud7AfSOaWgGRbE=;F6vTGmgrQewBM1TW5FAQrw=="
 ---
 

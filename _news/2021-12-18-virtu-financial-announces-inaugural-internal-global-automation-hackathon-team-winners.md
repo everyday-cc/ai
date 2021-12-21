@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
-    excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
-    publishedDateTime: 2021-12-16T11:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 0
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
-        isCached: true
 
 secured: "Xko8yQLLz6XeSjSHIjIYON9iYjPIaj0zXpf/aBTn2aIlEz8pe/wuXLSbxgQdjcMolskUETjl6pdzFCY6GdNMqcGrWF4P8hYR41sTiBM9aXYM5QUowGLgMs9arLZuc0r4l0vFAgbBN3brUsPMMq4eP/fu7YSTsPmq+40WR+yxNq/L2OYbLejkwSV4/Br5Tpm5m/KWYu6zktnyIfEFrvGRQcAPcpBUNDRoa+WrgzRSzcMOLacKpa2JWegptcTeaP9yBNaMiHmAb21rttJZ+lVlY7GP5KttUTU6KeJNm+QNK44tNRYwrMCGDEjSEQubxSSLamSUziR6CeKsNl1ErMavcNqQ37gFjHEUSiSipMsVnsc=;o1GNCozfKakIVQBGhGM/bw=="
 ---

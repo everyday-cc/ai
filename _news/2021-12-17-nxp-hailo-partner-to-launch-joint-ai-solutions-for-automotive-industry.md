@@ -24,17 +24,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Leading Edge AI Chipmaker Hailo Partners with NXP to Launch High-Performance, Scalable, AI Solutions for the Automotive Industry"
-    excerpt: "Hailo, the leading edge Artificial Intelligence chipmaker today announced its partnership with NXP ® Semiconductors, an automotive market innovator, to launch a number of joint AI solutions for automotive Electronic Control Units (ECUs)."
-    publishedDateTime: 2021-12-16T12:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-edge-ai-chipmaker-hailo-partners-with-nxp-to-launch-high-performance-scalable-ai-solutions-for-the-automotive-industry-1031049906"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-
 secured: "38SgW6ycb4kLMgYls4U2Kj/5un7o+NaaPcef9oyY8aCMtV7RhPbYosCX9as/DgzVqww3hkayFDLnyFdkMtWhAKaXSp5cKeTlQPjMnfPPSJPR382xC8/v4I4BBEMh1s3nFyecI+hcLBgTAn8Gku51agnn0Xikj1j5SzBMjYSqMZOaqCNZGKx7WHNc/5Ox0UTeAwM4uZspsxVeyc+Rz/oih8AzP4q/93hm/LL4LHsjaNf4KMtejXj+PzwfkwGgThyVnK2e8+S217FN8c9eok3LBkGvUuRQgoOAqfVVo620qmNgYAq3hdrI7HL+lfci6X2kgMUpDQ4jjJ7xzKTZdi0u5LerY/RXyveRFUe6Syk6GdhHOwhdlPIf24mz/5WLFwLeZBv6EaeCjZiKF6waQu60eZCG/mWPmwJt1aZDlSfsYu5USxqUi8Efoyl68NsV9P+RGXJ2yrFWJoBx/LNUB/wWZS0Bx4VeRNVQQCj50lq1Yua18ggRwi0sfg3Wg3J3RELkQBRYAR1FvTzdemDjbLPaVg==;hR25auHKnWSepQte27XtaQ=="
 ---
 

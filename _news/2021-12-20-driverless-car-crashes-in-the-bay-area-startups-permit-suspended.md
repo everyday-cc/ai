@@ -41,20 +41,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Intel's Mobileye Puts Its Self-Driving Cars to a Stiff Test: Traffic in Paris - Bloomberg"
-    excerpt: "Mobileye is piloting a robotaxi service in Paris that’s ferrying employees of one of the French capital’s most famous department stores to work. The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system,"
-    publishedDateTime: 2021-12-16T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-16/intel-s-mobileye-puts-its-self-driving-cars-to-a-stiff-test-traffic-in-paris"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 45
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0GGpECur7h4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mobileye obtains permit to test self-driving cars in Paris"
     excerpt: "Mobileye, a division of Intel, is expanding its autonomous vehicle testing program to France after receiving a permit to operate robotaxis on the streets of Paris. It is the first autonomous on-demand service in the city of Paris,"
     publishedDateTime: 2021-12-17T13:54:00Z
@@ -68,6 +54,22 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/553/17553/Intel-Mobileye-Galeries-Lafayette-1.jpg"
         width: 752
         height: 501
+        isCached: true
+  - title: "Uber teams up with self-driving car company Motional to launch driverless food deliveries in parts of California next year"
+    excerpt: "The deliveries will be made in Hyundai's fully electric IONIQ-5 vehicles, which are equipped with Level 4 autonomous technology, and a safety person will be seated behind the wheel."
+    publishedDateTime: 2021-12-17T14:38:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 33
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/12/17/15/51924887-0-image-a-5_1639754575177.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."

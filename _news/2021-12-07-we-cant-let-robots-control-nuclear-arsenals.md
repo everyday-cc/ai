@@ -1,10 +1,10 @@
 ---
 category: news
 title: "We can’t let robots control nuclear arsenals"
-excerpt: "When brilliant individuals nearing their 100th birthdays write a book, it is a good idea to read it. Two years ago, the scientist James Lovelock celebrated his"
-publishedDateTime: 2021-12-06T17:00:00Z
-originalUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e"
-webUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e"
+excerpt: "New Zealand has just joined 30 other nations in advocating a ban on “lethal autonomous weapons”, or “killer robots” as the ... defences on a hair-trigger controlled by its own AI, across ..."
+publishedDateTime: 2021-12-07T03:52:00Z
+originalUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2"
+webUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3e818130-56b3-11ec-81f2-17f963b74220.jpg?crop=1361%2C765%2C30%2C117&resize=1200"
-    width: 1200
-    height: 674
-    isCached: true
-
-secured: "kkxV02I1pAa6Piwqmx6PWfY04DxvQgt4k/bZN334fdkCrfJN3mOjYee/ZPuK6H9JZZPXucu4MFXmDLx2N5S75NXZXqQ2wYUxEWYI9bjoYcynjcSd439Qh/KPTOCRITXEo93bOT3wgZEHp7yhwSpbV9X7qnfVQnfYQkua0L2MqVtqmHq4Ko/8/g4YQGQgXWzqKjzLisfPuLvtmKAHh2MOLt+KutgYZ0fRTgm0YO4eG6SJY/rfM7gjwW1Lu2aVanj8csHNtOcbFu5yajmcs9SDOYP6nOKpSQWDyHtAPTi6kY2eMSRGFNiBMamkacvubO8T2xHfgxSKDZQIUjhQWo8FihkLMx8Y6Ao50zG9RDGd2bromLzkkOLhXEVWMqaJ95HiBSY9Jd0QD/p+LLoqelY9S+bAG/LJOjI9pfuE3huwQHQq1G7qCowKJF/FMwtVUHReIHmdAOE0rmQtzJg0kuAEGdAO2xpNfP0tbpDMXQ6RVoyfhL6rXEkaSrL629D7G6UBuobyAC5kSea9jsr1eoS97w==;hb33xXa9GYTDXgFibC48HQ=="
+secured: "E+2DvrwbKU8aDo4wVI08+N4vaclHzsuCmhcUxbJHAmVT6zREcvRvvD/chriBpZ0JB9kSr2RgizotZlEXcaVO2clSxH8Uhkq5hbxefCp46Zua7gOSzZGLXpgXP0rhDTJEZ/Kk1/ksKiJghsd+y6rTtvJ2Go52ZhBjClicb2CDt7Z91I/q21rvnm+34SLvPdByzzy3bqjjawlhevsWL29q7YBUXnWE35w+2MQtECVbViZC/U8F64yBzrlUNKY9pU/4s7hL6UJg1glNIpl/opk6bETVdtrzXlEZUeaRZbZMpj3U1hJz85m+vr1xZfQMiS04B+fkAPkj9eAj8O/RJV7oquT4vzXM15okZpdjjEZd0jk=;hrzqyhCMqUVf+0g1OVxO6Q=="
 ---
 

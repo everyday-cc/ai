@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "MoneyLion to Acquire Even Financial, Expanding Distribution Network and Enhancing Consumers’ Financial Access and Decision Making"
-    excerpt: "MoneyLion Inc. (“MoneyLion”) (NYSE: ML), the award-winning digital financial platform, announced today that it has agreed to acquire Even Financial Inc. (“Even”), the category-leading embedded finance marketplace,"
-    publishedDateTime: 2021-12-16T11:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/moneylion-to-acquire-even-financial-expanding-distribution-network-and-enhancing-consumers-financial-access-and-decision/article_9079e4d0-cad9-5d47-b3fd-b26fbe70898c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 0
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
         isCached: true
 
 secured: "7AbcuE73o1zgVScfhKtJu6cOSdBOR/4NaPjrDgBdwQm/L7il9KRUbgtF6mDV1uEbdLz4xmSkXOeDFOSYuJ8w3v+3fLlCE42tcnhICiq0bqnE856G5VntKqh3GdtQzdJOKLu2Uocblb53bRO+k93DXdaCne9l+PhJfVwavf45XFxUCzNTzrAWDj3QttzibZRbVYO1qSoBTJ/tRlSV3LB5EkdG9v5Ge4Yr4s5DF1tyB/sjz2rQ+q0eGpc3zYrpjJ7vBBkq3AMPO750RclWisWvNmFw10VMaMcBS6w4xiGcUTwCLm0bm7qHUFE9AqlQZshXnTz8M8YNc5SB1mETjTikB3akLWhU/KssaRnyKj7ZlV+Aa+A/KtclSmrjigHj4/7oMkJHGSVJ5wNiuKcs6sZELIcEhRdcXBkQzWXcr/E5WbcOS7CQPJStooIQ7qpI2AigT/d1wa8cTnMsVobbInQu9oQKIcSlztjHpyH9VEmtllKBul8CbiTXQgP+fmnCIp2XkCyVUtE9fIUcd2Aq1hRNUQ==;HUwPNWfO5FGLXQyQ0aZthQ=="
