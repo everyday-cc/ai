@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-bi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Podcast Recap: AI ethics and immersive technology"
-    excerpt: "Future focused., covers unique insights and stories for how to successfully implement AI across an organization, protect consumer data, and immerse yourself in the world of Internet 3.0. Let's One of the most exciting and widely used applications of AI is facial recognition."
-    publishedDateTime: 2021-12-16T16:25:00Z
-    webUrl: "https://www.publicnow.com/view/5EC41FBE86E664FC757BD0D31DB78292182FD9E3"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "Latest Trend In Artificial Intelligence Technology Drives The Market For Data Extraction Software"
     excerpt: "Introduction Data extraction has emerged as a technique of extracting and discovering new knowledge in data implicit in a large data warehouse to enable better business decisions and strategy formulation Various organizations are focusing on data extraction techniques to handle"
     publishedDateTime: 2021-12-17T06:10:00Z

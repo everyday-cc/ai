@@ -2,19 +2,19 @@
 category: news
 title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
 excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-publishedDateTime: 2021-12-20T18:03:00Z
-originalUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-webUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+publishedDateTime: 2021-12-20T20:03:00Z
+originalUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
@@ -64,7 +64,21 @@ related:
         width: 1400
         height: 1004
         isCached: true
+  - title: "No UN agreement on 'killer robot' ban"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
+    publishedDateTime: 2021-12-21T08:41:00Z
+    webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
-secured: "b9g5H9Rg7uK8x+iP3Wfdb42DZ03l++kdu18P3t354C4bdI5OqjzXHp4DKy2vxcaCb6hejTVShENG4UkWmpJpwKGQYLdWwifzC706lgCrMEfoZxKdXR5MYC9hHMVab7g3HRCt+xVjx4W0VsSGXHIb4Pg+IIFuOyoHTKG5fKz67DFnCrLTXGkI6eMkKtPF8BEiQSEdWZ0epam4n7SNzjahuRqs1D0vn8W+t0QXAnD3KLeyR5In/yUgLulKboqX2bRfjGEpt7i9o0bc6g55KZHnd3PNzWP+LgRv06jY/1bP0Kna8Oc/pg/2p0kbxsajDuwc/naGPfYVjrRlMH4M88pgj3X8ugS1vqyoZysEsdlgKeg=;wlavP5KmsNS9YpmSvKovVQ=="
+secured: "QFa27xHNsluC1FoVV2fn9mj5vlDTJ/jKA+ULn3us4Bud5xH8dHYf12YZ1dgTZBnjVVDCZs9fmoc9bjNVfPOdL9EeukXdLqWr6HqvpqbYidJeXdiSzUTqXGgQIuG/4WqGo5t1kkqPid3Vmdtd+2TGfOLWTFTIy7hSmWVI0VIgbryzHNnK0skytA8yZoS29Y3ARWcbFOO3536Fac4Vf4XjxdLJVPWfqkLnAI3jyoLLLWV8MKhrmK+VMUszuRlrqK2KRZr5MDAXCCXYUoWwuDfARKYGRehAc25x3gRW/AroCPNP4ca3dXfiJtfreDmPCA7TaiCQZWd0jpBX2dY1ogTdgDp5UIFd6zAlOP0vYCe67kI=;6UE+QOiaBUf08RgxmJI3ww=="
 ---
 

@@ -36,43 +36,6 @@ related:
         width: 800
         height: 482
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
-    publishedDateTime: 2021-12-19T19:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
-    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
-    publishedDateTime: 2021-12-19T20:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
-    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
-    publishedDateTime: 2021-12-20T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "BF9lqxuODJR1wTgxXpZmHDdrNmabI23psMwKZSykmgNivJCFzWISCsAxnB0ORBTIXvwsqPgjqA0pW4jl+oBeGAGtMIXT4PaEFD3vMqmS69C7QjgT3vvjzuFfNZWFxO3/55BJajGXRWsGxlj9LYNZ4PirxZimWNzZoSIkgHMm987rgl7PkEsmRzXlvfDOPDuyVvfUad68ial5q/9y42Z97Hsqxa0yO9n46PcWwjI6n/P+vn7jFFfUt1jn21ZIMjSgCnnJm4CImbczugK6/drGkJkzWMiaQNhFcNaV1MCx8M7lX2A1OQtjZOby0h9sa7Lc/Lt5bl1e8GlWOTVfGmgk2KMXqav1rl3ZsoAdlYO0M+s=;eW19cmwMucSwto48Q/xhmA=="
 ---

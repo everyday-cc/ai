@@ -36,29 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Utilidata Develops Software-Defined Smart Grid Chip with NVIDIA"
-    excerpt: "Utilidata, an industry leading grid-edge software company, announced today that it is developing a software-defined smart grid chip in collaboration with NVIDIA. The chip will be powered by NVIDIA's AI platform and embedded in smart meters to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/utilidata-develops-software-defined-smart-grid-chip-with-nvidia-1031051001"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid"
-    excerpt: "Utilidata and Nvidia are building an AI-powered chip to help integrate renewable energy into the grid - SiliconANGLE"
-    publishedDateTime: 2021-12-16T16:11:00Z
-    webUrl: "https://siliconangle.com/2021/12/16/utilidata-nvidia-building-ai-powered-chip-will-help-integrate-renewable-energy-grid/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/windmills-1048981_960_720.jpg"
-        width: 960
-        height: 606
-        isCached: true
   - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
     excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
     publishedDateTime: 2021-12-16T21:01:00Z

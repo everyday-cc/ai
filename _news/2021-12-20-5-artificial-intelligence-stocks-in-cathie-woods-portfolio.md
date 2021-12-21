@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/5-artificial-intelligence-stock
 webUrl: "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1613
     height: 2048
     isCached: true
-
-related:
-  - title: "Is Tesla Stock In For A Pullback Or Will It Continue Its Way Up In Near-Term? It's Robot Vs. Cathie Wood On This One"
-    excerpt: "It's Cathie Wood vs. artificial intelligence when it comes to the stance on Tesla Inc's (NASDAQ:TSLA) near-term performance, with one seeing it as a time to book profit in the Elon Musk-led electric vehicle company’s stock and the other as time to buy."
-    publishedDateTime: 2021-12-16T15:16:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24638508/is-tesla-stock-in-for-a-pullback-or-will-it-continue-its-way-up-in-near-term-its-robot-v"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24638508"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24638508"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/charlie-deets-d1w5qenbzlu-unsplash_3.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "y9KQR9BO6KJpAOqDMXbs5NSgr/JUUejKjEjDlVY2MZBSGKTZvz1jxFcBAxpIfLIAeiSzpajlMXgdFsh2L4SAEQlA0L8/2YL75EXvmouUfI1cDkDlnTshZNlOyAY6iNumCUMP7joo6UadhU/orwSj8SgepMW2UYg9g6QgpczRTcHh46AwN6l3cWbBoY6fkOqDzXCO6ASusGXpOxhDIPs2LtIqO+CxDfzB8LrNbc7w+4gesg7zNuV3MCjZZfTXrh+RutPxnXDGIynpbGj9QjFGh2gUwhVmBbEhmuyrfCcloDAe3WV0ZnyKW1dVQr3gKEv0EFCHSEtjzosWGaZRiuPBHQ9ulbz6a1IksF3qjPl32ww=;YgAHFeoxs2TyxrGaWxnmbA=="
 ---

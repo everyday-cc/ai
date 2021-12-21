@@ -42,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
-    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
-    publishedDateTime: 2021-12-16T16:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Cloud-based Data Analytics in Healthcare Market will Generate Over $45,000 Million in Revenue by 2031 End"
     excerpt: "Pages Cloud based Data Analytics in Healthcare Market Survey by Fact MR A Leading Business and Competitive Intelligence Provider ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
     publishedDateTime: 2021-12-21T05:44:00Z

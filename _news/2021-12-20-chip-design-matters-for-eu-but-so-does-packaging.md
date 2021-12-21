@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Explained: Why E.U. needs to invest in chip design and packaging"
+    excerpt: "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China."
+    publishedDateTime: 2021-12-21T08:34:00Z
+    webUrl: "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece"
+    ampWebUrl: "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/"
+    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Chip design matters for EU, but packaging is even more crucial"
     excerpt: "Researchers have urged EU member countries to invest a lot more in chip design, with a view to becoming less dependent on China. Yet other parts of the value chain require more attention."
     publishedDateTime: 2021-12-20T14:33:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Group backed by top companies moves to combat AI bias in hiring"
 excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
 publishedDateTime: 2021-12-09T23:16:00Z
-originalUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
-webUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
+originalUrl: "https://www.bizjournals.com/cleveland/news/2021/12/09/artificial-intelligence-bias-combat.html"
+webUrl: "https://www.bizjournals.com/cleveland/news/2021/12/09/artificial-intelligence-bias-combat.html"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "1D5UB9gmemcz32PVM5kFDK7VUl1ui+8jU0pvIE6SOaAilzAs1wTW+LiAuCXVPTr/X9A2qbp7zkD4KItYBeX0+QHOfr0TYD1xWvvJbCbxqD6xmDRSfpBHKlH4CfiHfB5k449Ej8sDyuZ0hpqWQUnkgFmjnT4Rc1OhI4LNXfTppKOmlHND4eFwzBrkcHUVPZaktsJ5zLAe3mS4PZNEkTYwTzRglSF/QJeAidQKMtQpOvNumGbtxHyN6LaAvRcdjaOmib+nrWLU9dZI/KUmxveZdrPcwEvWB3k5bZLPIpH0CKsz1aTusZzmH99aipgC0rZU7Ps/nDhkrOQMsLM1d+lMWK3mhft6ovZn+oVrIqd+Ju0Xt0zgr5SWnj50la9lipsiAHrlrvPNW865YQaVqNOG07c0OLKGpJ4oS4CxzkJzcXwIP2CeEO1yfFzYt+LIEqHJ82b6R7CYQcIIZ5tEuWp9P5G4hQTrZIIzyO34Ww412PqwD0ir9WynY4MR7dAGut6+uqWwtO5KCKIY90aSF4dRnw==;9EtpPiYa1U4C2tAXy5H5RQ=="
+secured: "OQ83tGoVc4VEjcwOYqT+cDK1LgMuWvSUWywwGFXklGJQgum+UzpM5mpUez+mojPQhTogM4sH4qfVdVYEPjtkNhpjNoTog9P3XL/EpT5DfnK5UVomA0KUsx0sVcBjsz3bCDFamIJfs+DBu/080UqgXtgivc1M5ipGhMVObz4951gGZg4S8clpgI9ShZ7hIIfaCSj2XqbPNMYP74JznBypkEH3Ny3Udl/lY2ypXpmKpkNdgI7Bic7FI6bOxFIxtTtHHN0Wj0G4WhW0uaXnYv3DblTlB33nNxd0kJwivUjFo8ipn7KUau00qqak83x+zSvVqGaVv24srpL/+O01ufH4Y8axywKtySUUz6yYZvLsRpP6JRRJWbTCBS4q0ZacW66ThtdzCKVAuACXDIkt+bMKPfu2JGU2cJ9LG1PU+3ml1BbiSTLZeamF6ttdA4Vle4vq5xk5c4HwtIxV13qjk9DSgc8bKW6WepcjwjKuT0aZMT6BdF04R7Z2LZfYcAVJeDNFRg2ui7nZ9Miutf8sQ5ce6g==;H99T7/F/X3eBUJSwKrQ3sg=="
 ---
 

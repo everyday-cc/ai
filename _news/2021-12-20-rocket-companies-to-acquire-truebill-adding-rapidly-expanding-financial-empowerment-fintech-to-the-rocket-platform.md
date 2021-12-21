@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
-    excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
-    publishedDateTime: 2021-12-16T16:19:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2021/12/16/fintech-startup-justifi-raises-6-6-million.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
 
 secured: "0Gh6pVfboAIAM+wlkzs3MUdI4m87c8vKdElu4rfwGzeB6Q+EQ4C0utd8XaGov+pBxUpjX1bsxwaulSForfsDiyWXOF+YRd26Ba3RphgEAh72tr4LhTVyI4Ki/RSKwqwt/mLNQ/d1QjuC9C0FIdGsR30oULW/Fn2WKLXnzLgC/vc1j9RlffB68K2X6AL3ovxLZuI3mwSCL4XnaFbKwpKWHmm5OP1PvuHYV1z9YdYahYH6Saxb+UdcaPjB9+EP7dGMdOfdWqUQNHkVVoSE7w0NKMKjhlFJd6tBGO+nRsFQELUyFKIUzDfxWEy2yFn2P+EIY11pP8/piWVbKuEnVlDbd60PWr4uuYOATSUPiHb4HYA=;jac/0ULNmvibrDrJ4dhg+Q=="
 ---

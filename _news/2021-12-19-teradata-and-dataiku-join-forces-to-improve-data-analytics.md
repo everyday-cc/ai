@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
-    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
-    publishedDateTime: 2021-12-16T16:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
     excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
     publishedDateTime: 2021-12-21T00:19:00Z

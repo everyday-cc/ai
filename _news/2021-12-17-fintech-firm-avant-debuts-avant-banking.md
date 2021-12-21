@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fintech startup JustiFi raises $6.6 million, aims to help internet firms save money"
-    excerpt: "JustiFi works by integrating a suite of payment acceptance tools, combined with AI, to lower the fees SaaS companies pay when they accept payments."
-    publishedDateTime: 2021-12-16T16:19:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2021/12/16/fintech-startup-justifi-raises-6-6-million.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
   - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
     excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
     publishedDateTime: 2021-12-20T14:11:00Z

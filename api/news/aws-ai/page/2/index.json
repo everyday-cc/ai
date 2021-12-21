@@ -594,24 +594,33 @@
     {
       "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Six New Amazon SageMaker Capabilities",
-      "excerpt": "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no ...",
+      "excerpt": "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities",
-      "originalUrl": "https://www.businesswire.com/news/home/20211201005991/en/AWS-Announces-Six-New-Amazon-SageMaker-Capabilities",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-six-new-amazon-sagemaker-capabilities/article_63774c13-b286-5933-b957-b7bee68c6b80.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-six-new-amazon-sagemaker-capabilities/article_63774c13-b286-5933-b957-b7bee68c6b80.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg",
+          "width": 500,
+          "height": 1100,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:34:00-08:00",
+      "publishedDateTime": "2021-12-01T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null

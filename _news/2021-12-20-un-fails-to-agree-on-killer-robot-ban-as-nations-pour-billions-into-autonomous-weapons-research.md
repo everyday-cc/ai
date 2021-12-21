@@ -27,14 +27,14 @@ images:
 related:
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-20T18:03:00Z
-    webUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    publishedDateTime: 2021-12-20T20:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 61
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -63,6 +63,20 @@ related:
       - url: "https://www.hrw.org/sites/default/files/media_2020/07/202008arms_killer_robots_main.jpg"
         width: 1400
         height: 1004
+        isCached: true
+  - title: "No UN agreement on 'killer robot' ban"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
+    publishedDateTime: 2021-12-21T08:41:00Z
+    webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "NXSwjQ6CQvpKOe41uXfI1P4XnUjkW6orG42PAPiyTZRy7/KFk5dNm25LuExF+BmHl60pPBkPu5gWwWzYwdhi+LaV4WO4RONRG5dT5GNmMJsRsRBZi94gx5A6YDYr68FEo62MdrQCnCY7BH0Ve/Ev5RXH3vXy6eERP4c/40NTqbY0vFP8tJ0iZj5/3/ihi02zMAE6I4KdoU8OzQgE+DSuuNMamWPWVW/aDNSOwv2wW31t/7ZZ3QalOmCgpZVbP/xyfb+wMApTLPhDZMbreG81idree+IvLnkRWf9HjQAk0IxKI7nLslHhlqqITHWdNzfXa68mvTbr+sGr/OT+C3IEpPIZ4/9yiFlNR+32YDdfzho=;eI/U5Cu1tymg0sPBtOkAOQ=="

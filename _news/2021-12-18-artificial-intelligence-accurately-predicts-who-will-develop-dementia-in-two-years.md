@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence accurately predicts who will develop dementia in two years"
-    excerpt: "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded."
-    publishedDateTime: 2021-12-16T16:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 151
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Artificial Intelligence (AI) Helps Predict Dementia Risk"
     excerpt: "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy."
     publishedDateTime: 2021-12-17T08:05:00Z
@@ -51,6 +35,22 @@ related:
     quality: 72
     images:
       - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication"
+    excerpt: "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI)."
+    publishedDateTime: 2021-12-20T18:28:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 72
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg"
         width: 1200
         height: 1000
         isCached: true
@@ -68,20 +68,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Machine learning identifies likelihood of developing dementia"
-    excerpt: "Machine learning algorithms have been trained to predict the likelihood of a person developing dementia with 92 per cent accuracy, a study has concluded."
-    publishedDateTime: 2021-12-17T08:38:00Z
-    webUrl: "https://www.theengineer.co.uk/machine-learning-artificial-intelligence-dementia-exeter-university/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/12/solitaire-hand-2906416_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
     excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
     publishedDateTime: 2021-12-17T12:00:00Z
@@ -95,6 +81,20 @@ related:
       - url: "https://www.genengnews.com/wp-content/uploads/2019/05/CO_JanFeb18_GettyImages-687788463_CHRISTIANLAGEREK_SCIENCEPHOTOLIBRARY_HumanBrainCircuitBoard-e1559053521129.jpg"
         width: 2002
         height: 1625
+        isCached: true
+  - title: "C3.ai Inc. (AI) Forecasts And Estimates For The Near Future"
+    excerpt: "C3.ai Inc. (NYSE:AI) has seen 0.83 million shares traded in the recent trading session. The company, currently valued at $3.31B, closed the recent trade at $31.89 per share which meant it gained $0.08 on the day or 0."
+    publishedDateTime: 2021-12-20T18:01:00Z
+    webUrl: "https://marketingsentinel.com/2021/12/20/c3-ai-inc-ai-forecasts-and-estimates-for-the-near-future/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
     excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
@@ -110,15 +110,6 @@ related:
         width: 770
         height: 450
         isCached: true
-  - title: "Artificial Intelligence: AI technology can accurately predict who will develop dementia within two years, says study"
-    excerpt: "New dementia cases could be predicted with up to 92% accuracy, far better than two existing alternative research methods, according to researchers."
-    publishedDateTime: 2021-12-16T19:58:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-ai-technology-can-accurately-predict-who-will-develop-dementia-within-two-years-says-study-12497539"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 9
 
 secured: "IElZNqxMJH0tEZn8KZTIzirAfrbVBNE+L9ruTfZhkEvHNHXl24vQd5nhRVec8PCD/SjenjFjrrNexgl7aZLi0R/6s4xFKX427oTR6PISxoTkc2W6xSlkL5qwsSStErF9ncmVM/Wf7qzsfjHBsHQ86AAef/e8Yf+N08+sKQIFttNiGqms0iBpR9za6Tf7R0LLRWWC6C1Pkeg6EIDNF7TJs2TsEGEMNiByZSI8Hma/MIkxeViYSrzG/ZbgQJ6IrzkYfkZvA/gdjsrfJLqaG5VGSp1jzj2cubS0H9J3ASb9NdCvTD1K/fAw0OlAuSqkInqefjVV/D52FyyVHmyGKhcMzk946xRVehJ3KJlB9yeMi5c=;+7niK12tSytvCzUen8x+4g=="
 ---

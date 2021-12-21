@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,22 +29,66 @@ images:
     isCached: true
 
 related:
-  - title: "Speech-to-text API Market predicted to grow $5.4 billion by 2026"
-    excerpt: "According to a new market research report Speech to text API Market by Component Software and Services Application Fraud Detection Prevention Content Transcription Subtitle Generation Deployment Mode Organization Size Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the"
-    publishedDateTime: 2021-12-20T12:17:00Z
-    webUrl: "https://www.openpr.com/news/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2505092/speech-to-text-api-market-predicted-to-grow-5-4-billion-by-2026"
+  - title: "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
+    excerpt: "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market."
+    publishedDateTime: 2021-12-21T02:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc20549053_g.jpg"
-        width: 641
-        height: 425
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
+    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
+    publishedDateTime: 2021-12-19T19:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
+    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
+    publishedDateTime: 2021-12-19T20:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
+    publishedDateTime: 2021-12-17T05:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
+    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
+    publishedDateTime: 2021-12-20T16:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "e7urthM7bY+H/oxGAcWCZqWqUfRipdMDa870aN/RZ+KQlqCXJwjBxZeQbgoXfGa2tkwg4TyHKushws3zoNVu1fKKjEure9m4msTe7KYP5mjnezNQhUeB2vXpiHCO4dHqM3l4bzRhG0xdTRf3mwB365UkFTbfAB/CmveGhBfNP90cGVTeLKR9Ews0RYnokDfw4gMHyBGGCToeF8CT1PweLJz/MTYwrTF5spJMltDe5Q7gPVNJkZ34iq73o6onabOIsg7sOPlDdenYcD7AWtibdeNI/y4NRA/SU4+cZB4V8ThcK6EGkwLyIOK6IunI9gAnIQ7xQhyk7/VB68eYZJXCbaowK48hkjnQFuBcFH8pUdw=;7pEwpyANGfpQfTzwYQs57g=="
 ---

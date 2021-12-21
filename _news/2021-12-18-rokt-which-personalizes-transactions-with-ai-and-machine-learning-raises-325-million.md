@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-per
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/20/R&AN_5a1e2image_story.jpg"
         width: 800
         height: 428
-        isCached: true
-  - title: "Elementary Raises $30M Series B Led by Tiger Global for its AI Vision Platform for Manufacturing"
-    excerpt: "Elementary, a fast-growing startup that has built an AI machine vision platform for quality and inspection in manufacturing, has closed $30M in Series B funding to support customer demand. Following the new round of capital,"
-    publishedDateTime: 2021-12-16T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-elementary-raises-30m-series-b-led-tiger-global-/2021/12/16/9513309.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1711473/elementary.jpg"
-        width: 400
-        height: 209
         isCached: true
 
 secured: "L9UTf7a3wSiNykn16zgywydxUX6+ifSjT3FDNeF0ZCHLrSTQg/h1elWcmhIk1dVFEbv500QRkClgjyG8dNUsAB5ongHkpaXxl0RMXSelulHRPTZxdDuDJ/3zCnHXg1KRlKVxsCVnHFoAYdNui90UvR7oWuSkAJxnriGhYJRjbp6oWe4Wo+wS+gi4GZZUsV4AIIjuF5ioflBA1mGnRzLodHOP0Nk3Th7iuxH0Mqu/zacYxYIGLLzisbybHRMRSZski3qezybt1ViaueMXNR9D5IT6JHxEPOPBx/e9BSBDBEdNhDFtaLb9QuHP6+EcVvLNwKfoJPUV//zs9A1eG8bfkIzGC8RL2kgH44AmuXgbuRqrOyF8oPJBPZLf4ycZuHk6D2cusrqe3Vw9GWJa08PfG08D3hVjR3GBqrJ0SOdVFYDQI80DkbYqdIiKgNQVl2p34b9Z6r+X2V+lFqoprt42OhCNfNElS87iKpwSm2Mk2zOiYiZWHXeOtHnuKv+UyQDOX4slolTHBANM8Izi1V6s7w==;J4lu2nZnlaaQNA2lr1xQUg=="

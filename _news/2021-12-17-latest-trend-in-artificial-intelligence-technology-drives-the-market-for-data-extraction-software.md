@@ -36,15 +36,6 @@ related:
         width: 956
         height: 885
         isCached: true
-  - title: "Podcast Recap: AI ethics and immersive technology"
-    excerpt: "Future focused., covers unique insights and stories for how to successfully implement AI across an organization, protect consumer data, and immerse yourself in the world of Internet 3.0. Let's One of the most exciting and widely used applications of AI is facial recognition."
-    publishedDateTime: 2021-12-16T16:25:00Z
-    webUrl: "https://www.publicnow.com/view/5EC41FBE86E664FC757BD0D31DB78292182FD9E3"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "Artificial Intelligence Assistive Technology in Hospital Professional Nursing Technology."
     excerpt: "Global aging is becoming more and more serious, and the nursing problems of the elderly will become very serious in the future. The article designs a control system with ATmega128 as the main controller based on the function of the multifunctional nursing robot."
     publishedDateTime: 2021-12-17T00:33:00Z

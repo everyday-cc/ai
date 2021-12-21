@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/networks/metaverse-overhyped-2050-ai-ma
 webUrl: "https://www.datamation.com/networks/metaverse-overhyped-2050-ai-make-reality/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tectona Releases AI-Generated NFT Collection In Major Metaverse Move"
-    excerpt: "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs. TEL AVIV,"
-    publishedDateTime: 2021-12-16T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/p24651670/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24651670"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24651670"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Next-gen crypto-based metaverse SpecTrue aims to elevate clinical diagnosis for people with special needs with the help of AI"
     excerpt: "SpecTrue is looking forward to using AI to improve diagnosis for people with special needs and the metaverse platform is also aspiring to influence other aspects of life,"
     publishedDateTime: 2021-12-17T23:28:00Z

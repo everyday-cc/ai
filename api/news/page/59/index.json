@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-11-04-orica-selects-microsoft-azure-as-strategic-cloud-platform.md",
+      "title": "Orica selects Microsoft Azure as strategic cloud platform",
+      "excerpt": "For 140-plus years Orica has carved a reputation as one of the world’s leading blasting companies, supporting mining customers in more than 100 countries. Explosives are still its stock-in-trade – but the company is rapidly expanding its digital capability – creating data rich and artificial intelligence (AI)-infused tools that enable step-change improvements in customers’ productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/",
+      "originalUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d19qcjcztr69p4.cloudfront.net/media/articles/pop/cloud-technology-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://www-globalminingreview-com.cdn.ampproject.org/c/s/www.globalminingreview.com/technology-digitalisation/04112021/orica-selects-microsoft-azure-as-strategic-cloud-platform/amp/",
+      "publishedDateTime": "2021-11-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Mining Review",
+        "domain": "globalminingreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
       "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
       "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
@@ -1156,49 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-hottest-tech-trend-of-2022.md",
-      "title": "The Hottest Tech Trend Of 2022",
-      "excerpt": "The Hottest Tech Trend Of 2022 <p>It's an industry that will never retire or ever go obsolete.</p> <p> It's a revolutionary virtual marketplace, and",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "originalUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/03/B_26655image_story.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

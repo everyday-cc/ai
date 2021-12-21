@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/17/continual-raises-4m-help-compa
 webUrl: "https://siliconangle.com/2021/12/17/continual-raises-4m-help-companies-build-continuously-improving-ai-models/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,66 +23,6 @@ images:
     width: 800
     height: 448
     isCached: true
-
-related:
-  - title: "Continual raises $4M for its AI-powered data platform"
-    excerpt: "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,"
-    publishedDateTime: 2021-12-16T16:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680"
-        width: 680
-        height: 518
-        isCached: true
-  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
-    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
-    publishedDateTime: 2021-12-21T05:07:00Z
-    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 37
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
-    publishedDateTime: 2021-12-20T15:14:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
-        width: 2090
-        height: 732
-        isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform for AI-Powered Credit Underwriting to strengthen SMB Lending"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
-    publishedDateTime: 2021-12-20T20:42:00Z
-    webUrl: "https://www.cuinsight.com/press-release/ascendus-selects-scienaptics-platform-for-ai-powered-credit-underwriting-to-strengthen-smb-lending"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 23
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
 
 secured: "inUwBp+wGeUPBxG4f7mddBFI2yDVUcyJBDNNtUJbY8Lofxx3b10htkHTx+9CG2KvLZMrRs1s8FiniYCiJsCZy8R0dXEulhNyxsGLqNrbSe08suJxANVuSngGbU41akZ741pQZidEpK5dZUWL5L59Vt/8uQ0KEtzNaWJboRhX+iqg2qg319EcmYWX2/PEASwO26D5BfyEQKfdUfWkWvTezwGBh9gsj7DXn8CvuVPl0/AgXbzBeMhmZjiRN9KFOjsTRStgVHW5cEDHE9dFrcxx7pd3u7I9ZRdhZSXI5tZDrCUzbTH5KU6kbgCO7HApVl5XLmR/puHwK1imr+pC5GPfE2qSgQfj8IbodvHHnQn8k8pU2hdQqkcJ4DLLBk0GpjZ1eaw2k3ecBnu8FeuwR/yJooMqKBAI06uxVwkiDpxa32TM+v6iS9DQGaf4aAAEHkyywinBvT2dx+Ptsb4Pot+3fYTDFaikn6NUA5xsNnIzuB211MuZ7veO6VW39hnl6FxrQSiptP5A6+G+KsziIxFZlA==;iBWA2jdf1Bdeydg7pCq1rg=="
 ---

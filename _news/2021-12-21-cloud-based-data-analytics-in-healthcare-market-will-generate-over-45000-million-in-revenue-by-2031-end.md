@@ -43,22 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Q&A: Dr. Atul Butte on the Evolution of Data Analytics in Healthcare"
-    excerpt: "Collecting patient data is only the first step in data analytics. Health systems need to find the best ways to apply this data to improve patient outcomes."
-    publishedDateTime: 2021-12-16T16:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/12/qa-dr-atul-butte-evolution-data-analytics-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 59
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/HTQ421_Trends_Hero5_QA.jpg?itok=aOVFIK2A"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
     excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
     publishedDateTime: 2021-12-21T00:19:00Z
@@ -76,6 +60,6 @@ related:
         height: 438
         isCached: true
 
-secured: "J9uWYelEdkOcGBQxsQYi8QM3ih0Oc+KhCu99MsgxwTmjyI8pM3b+gR24sFN0Oy6dPGVKyFTQNCnTUy8pgPYZ5U52CMdO6s0SWVMWL1QMoAfMSS8O7rOCUtHbcXVfnbAC8/eGL5n+lpTerrDWhq8ahEo4R6Hx5hL86D7juK+XgyvXAQK1Kxs3BpUCOAIen/Lb5Ya68xF66H/SVht26zXrswNXhtcc2WJ1g2y8NByXwtSUg5nixGvL1qG196+Ga1caDCuze5UGMmZ4Ycbl7eH14nWwflO2hULKNd+dDr8Ec9r2XL+53woApInVoDoc/2DgsJ9ADu8kQT60i13XwPHDs9uHqd8InVyXwmPCT1/dGYE=;pGBXi89J4GkPIt1nGoWmfQ=="
+secured: "3ahzf8CEmGzEDhMSW/Pmu2NjwH44L6dGm4xPGC/puLGwliv7j1hGyXYr+7ZZp8Q6G6oHie41trBhQ9wR+prbKPPNoAu/w3VW9egEOKKQlqarvOsPfBziykk/EJ4EiXPqdyOLOKehwOFnWD6XRmWTQW+iKVVZZoZqNl5rB5wnZGyfu6EdpzsuVxyAcnsBfH/16dCKWqtqfGYC3pXwaJR9cwsYkAtgmQwmwmAM4mikRZ72st5d11n8tXxOgOebgQ5Kob2S2oHS/tiOWtbk8rCa+KX/RzLteZC/2ZJZh0NP4+4WQu4+9Xqb2KqYeZnJcaxsNkTXt9RA6qVuH+51dWpymROAE7OxuW6GZLQXByj7dM1lDP4T4n2AZ8NwFeChILtr0C8rX9OJZNcgPP7MawtToBReIde1LVXFb3O8P+uliEOzAOULJXgPY7P4o5rkQNmPeN/4zaAWJaA4/VWh0ZHDYVPiWFB1An6mt6CuaFFH/Dr9HaMDSVwYw6eChjMaEZgDUyHlA7XNDOHF6tf5Y3JEJQ==;U0StFA02AE+9/Q/qqBmNNQ=="
 ---
 

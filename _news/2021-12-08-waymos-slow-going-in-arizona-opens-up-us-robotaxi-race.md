@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-excerpt: "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
-publishedDateTime: 2021-12-08T13:33:00Z
-originalUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
-webUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
+title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
+excerpt: "Alphabet Inc’s Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
+publishedDateTime: 2021-12-08T12:27:00Z
+originalUrl: "https://wtvbam.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/"
+webUrl: "https://wtvbam.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/"
 type: article
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: WTVB AM
+  domain: wtvbam.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "/FTiNKVRxKHFbEhbBx2nNbtPCBV7Jja+NtsU3Yto5RNlXC5HXADDnbUpZFKDphNhNbXUoccKcUeAtKkPyXjZkDZQCWw4ZlIbPAhTGbT8FPr8paWIh5/vQ52rC7KTtO+YcOc5McwpZkgyj4cSKieKUkbEdMtib81v4xvPNc5AIolo9Pl9gq5oHEFQCWnuHMg/AMJxw3bN4TUHG2qvlXYI0qj1Em3g+fJT+NqSTp+0L+gkKZATSToRv3LNqh8iL2IOXx2KOc788pZN3g96qBdJqbGA/HOjgfrzEeGnSFm6/0YQ4LiUaSBZ3uGz1vceHy1d4E9AEvG2F8pkJMdW7Yxc0acyCbyhIhUTr2wiOa7x2Nc=;WsJ3r3gucihz5jQk+5E3jQ=="
+images:
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-12/08/2021-12-08T132723Z_1_LYNXMPEHB70NY_RTROPTP_3_ALPHABET-WAYMO.JPG"
+    width: 800
+    height: 534
+    isCached: true
+
+secured: "XBlmYiOS6D7V9D9lLS075+hDSIyxIV99ISMxTxlGslnuKVTC9gQ1qeKyBakgmNgg5sy4SlqB30DYAf3jMJBKo65r7/hjWZPbwdFwWgTM2rBB3c4UuXQ01kY+FjKAoXKPUVhQzOVSvYRI2JzS5Rqeef3TSbRijm2/CxhSZ0mL7Ecazc8kldolG/atZNEdSjLCEwam13XeV8WB7Il+KKkSLrrCG2VsAB7GZ6bQQDqQfzGHJPiTT10qEm5+fI7k02vc7C02HYz+BOQ21Gvt9k2KZ96ReexnEY1qIGBdTVVMrijgnkqoUH0GjEBjFdvlN2w3w9JfEiwwm9O6INByFYrxiPzYRVeNfuL7sLaYrwih5d8=;3GaIZHY7tOWu9IHIP1VMIg=="
 ---
 
