@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-inte
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computer Weekly
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 was the year of monster AI models"
+    excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
+    publishedDateTime: 2021-12-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
+        width: 2764
+        height: 1555
+        isCached: true
   - title: "The Top 10 Computer Vision Papers of 2021"
     excerpt: "A curated list of the top 10 computer vision papers in 2021 with video demos, articles, code and paper reference. - GitHub - louisfb01/top-10-cv-papers-2021: A curated list of the top 10 computer"
     publishedDateTime: 2021-12-18T20:29:00Z

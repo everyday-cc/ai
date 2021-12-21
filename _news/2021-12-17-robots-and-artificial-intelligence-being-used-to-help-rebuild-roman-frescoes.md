@@ -7,8 +7,8 @@ originalUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-bein
 webUrl: "https://news.sky.com/video/robots-and-artificial-intelligence-being-used-to-help-rebuild-roman-frescoes-12497765"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Sky
@@ -39,15 +39,6 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "This Is How Healthcare Is Using Big Data And AI To Help Save Patient’s Lives"
-    excerpt: "Advertisement Artificial intelligence (AI) enables computer systems to do human brain tasks in various fields and all aspects of daily life. AI has resulted in a much-needed, and significant advance in the health sector,"
-    publishedDateTime: 2021-12-16T18:54:00Z
-    webUrl: "https://wonderfulengineering.com/this-is-how-healthcare-is-using-big-data-and-ai-to-help-save-patients-lives/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 33
 
 secured: "LCT3R5qdIjfshZ9cEwZSvCfc4bldhn9veO+K9GKUs2QPMcI4pLyJlBzxe/ez7zuEa7c/CIqcq+lK40M2Tq90pYawPnxvUNiECE16mPI41jqKfx534UOIgoeWE7GCEXAmM2hroTfL3I1kXPZ+bcKNQlzdfswXcVtQggOZrtuRedkjdcqbbwhr+47bP4dMvY6x9+Qwa79LuMULPPVl0k0Ds06anUzM6iqg8CQCF2D/mStWlBtjzmrbTtUxWbBMuWIk9hFrXmdSgv7cZNspJMeM8crSxpihIJwHS1I7kIkryKrn0Foez/fj4ccuYZoZX/l+saNLRN+zuy236ME1OFmp5hJeLCfLVv/9+voRBX9C3mLZry4nb8EBFpbors5FuDZ5qKAcXIZJgEgapLevbTNGR88D5tiVyuYrUvDR6uN6UqGArueTAhGVQ/nFFVbdEaMn6xkEJtgy5HNp8Pr1+9LeMv0dt1h+FdrLdMKUNbROqcFPTRE/bh87e2jehCLXbG5J7qZiRpccMXz0ZW+PsAgtsQ==;rVYBPbxoVsPEKWVflrfN6g=="
 ---

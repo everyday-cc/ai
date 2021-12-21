@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-madras-invites-applications-from-student
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-invites-applications-from-students-for-12-week-free-online-course-on-artificial-intelligence/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 640
     height: 426
     isCached: true
+
+related:
+  - title: "AWS Offers Free Online Course in Machine Learning"
+    excerpt: "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested"
+    publishedDateTime: 2021-12-21T10:28:00Z
+    webUrl: "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
 secured: "cdUOp7NufOZbooL42bMq8P0JSUYaQ9owxJPrhR6W2VWMXuQICaCyDJjbWEFcIifzlrJbBbf3Q52/pZoFKhVso3MAl1/RGTnQSttgFjNwVp6oM3h9btwsmy7XYY2wF8VfaO09MQEv2Jon00X8AIQZ40vAuF8RsetfbCdVMMowowvUgZwoD8jpjN5DGSjhSyX7QfJBpcOm72IQ4Rs0nPsXoiwymgvCDNb9GixxfLZ6Jb4l1QfLE+alA1RmP5TChHoPjWRfZKAunBu0BLurmRZnxK2JN50WDVQOE2YVDrUYchXsONJiA9WfoL0sMCeJKUZNPBToANe601HLVXZlQdnD3SfPpEV04hGcjpB4AlCWnGgW8wYxV4sJZjd+IjLlj8PlOv4y6K8XEYRgsaYtg6iqjIUuk73bMHrABcNq+cmM6TzpnCgDKzVReFkEtoU0Sl6Ssd4RAEfYuaaMyPAc7JBP3zXqOfw3an9N17QmZMd2Dh2iDvvu8xX19XG5MtbWtidQyG5qhZGjWuqWtWyWnoLMqw==;+j/YUoz2mbg1nfeJ6dPhZQ=="
 ---

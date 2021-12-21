@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
 type: article
 quality: 75
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Singularity Hub
@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI debated its own ethics in the Oxford Union – what it said was startling"
-    excerpt: "If you do not have a vision of your organisation’s AI strategy, then you are not prepared for the next wave of technological disruption."
-    publishedDateTime: 2021-12-20T21:24:00Z
-    webUrl: "https://www.themandarin.com.au/178241-ai-debated-its-own-ethics-in-the-oxford-union-what-it-said-was-startling/"
+  - title: "What Does An AI Actually Think Of AI Ethics?"
+    excerpt: "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself."
+    publishedDateTime: 2021-12-21T09:53:00Z
+    webUrl: "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
+    ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
+    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
     type: article
     provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 52
+      name: BOOM
+      domain: boomlive.in
+    quality: 76
     images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2021/12/articial-intelligence-AI-brain.jpg"
-        width: 796
-        height: 530
+      - url: "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg"
+        width: 1280
+        height: 768
+        isCached: true
+  - title: "New ethical AI institute launches"
+    excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
+    publishedDateTime: 2021-12-20T23:06:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/new-ethical-ai-institute-launches.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 56
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
+        width: 821
+        height: 462
         isCached: true
 
 secured: "Meech+TJLOQ3Ahm2A2OZdPNy22oIbolijd/5UMFOJdx21wo2YkbM7IuI8OIBvILdvWLp9CArugkAr7CTYuWg0Wuv1sJYpOzNygvJJzVWyzUYOLguzKqswKobymxNX02mXaLqYsy8NWOQrz9F6rlZlWzPDPNBi4u0G9tbpxN5Pjj8yRTgp8LtINCyXLEqR17NvnR0jlVU1ZS7JaFiliaYf3/X/Yk6cgxX7K2XBNtkozsLH1vuuhP+IYmZFyS+WvfGmPL2uOYfGXpKrTQqrVAtUyKF9KCTnGhe/jcUvo/36TREb0xHJGZ3wF6o+/VSZe+vINO+4mJ7GEQBuD7tg7gqEtIJqYm/ds9LCJhRJ4tY/Xc4bkdIDyznppUwPP+pnJGrTlz9RNGoKfIrqHfmyz0tA9XYT5I6qHtZ5mZb1uS1MoztBFNs+tbsw0C1s4zsUkCIWsxfjFbOEUlt5Wzh2Bir4QU95Q2FinQ+P4dhLCUHrD1wNYyI8F8nW5I3wAr8xJwaPSU6oTsvrwj+S0QtLaQ7VA==;UkUsSgv8Nc1NDs1iK5MnUg=="

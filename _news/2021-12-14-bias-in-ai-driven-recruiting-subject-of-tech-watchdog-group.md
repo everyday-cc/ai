@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Bias in AI-driven recruiting subject of tech watchdog group"
-excerpt: "Artificial intelligence software is increasingly used by HR departments to screen job applicants. A new organization plans to prevent \"AI\" from producing biased results that influence hiring."
+excerpt: "Artificial intelligence software is increasingly used by human resources departments to screen résumés, conduct video interviews and assess a job seeker’s mental agility."
 publishedDateTime: 2021-12-14T13:00:00Z
-originalUrl: "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/"
-webUrl: "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/"
-ampWebUrl: "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1"
+originalUrl: "https://www.union-bulletin.com/seattle_times/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/article_b16ade4c-6e17-50b2-90dc-3c4abcc7fd7d.html"
+webUrl: "https://www.union-bulletin.com/seattle_times/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/article_b16ade4c-6e17-50b2-90dc-3c4abcc7fd7d.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Walla Walla Union Bulletin
+  domain: union-bulletin.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "im0CVipyYORaKZnfhXH4i3fjwJLpVxcXGNQhRR/546mpxhCLQ7PfIjQr/s5Qj7ZYv2lfdmn5WnPSaPhwNMAvQCXUNEavLPtEjaKcgHVDckb8/Ci8QvZN9KPoavVOr+m5XWEscQclU5QUZMuFU1SR88b3rmymstsBFVtLPQarheYIA1lnRoa3aJ52cb2NO729ZoBvQgTcM9pNnnzUc+O6CO47T0zCXsJoQrx+SSAwshiInrrNyuf+yxGxJ5WQ3je8Dw6DqxISsrKbQQhyUyVmndHwfjRNmwt906rwVbBVBFk/kQh1zbzvbTHvxI5/0w9LW3F/TYIW2HzOQcUO0lqTsTow7Nn16VIpVajrLlfCTrnMtYkRFIq8C3yXufwFy2+WrZzrWf+g9Bns0EAjAEC/wD3+gJJSb1jl/JilspMY5cQ6sdHWGLtyJzkcsDjrp8qqBdlCvjIr6eCWG+6DMh//JvonDJmVIVamxefsb/tWrDqx7aBH0iKyDUjDCOH/i7EqN+VXNTNnfWZyWtoUpLImvg==;TjXISZePLjyjuc2fJtAZGA=="
+secured: "SOD/WTssc8Q/rOFkR5+sY3vg6DCio6ebpauJnbd9V8xyEEQcfqqzt+aJ0nqWPJCLMvrw39t3IMNClwrsMMf1t/9gg8p3yaN2x0NaEOJ0V1+qxLOtF6qXXIHQ0xH6cFCTBR8PlYSXoW7lUJoSssaCXZ5kIgc0RCR6lzFiPdFPFetiJmPxHTjvQxmiEutvb9wlK3oy9wuftX51mIXG+9H32w20W5N/KTtwOXu0CV/kiRxtVy+qfaKosvA6aoAhpHUNn9AMhFzXmyCDPh3H+4IS+Z3q9CvEJKqvEAAtPxFv5xghRVJTOAWGACCUqHndK5T6mJW8ztuQ3OejqeP1uXqKCfydphMncyfkXC1iPE2Ae6nlCWE6/jmQREIBe7Q1m3LyVqb2nIBb/i9z8QTkC0K2vAOuXfbNst0XEHiRkgqwHDvQuRjsRbkpyd7h2tyhWVe2LGL7JRCJ3gzfWAxrY990+FEPBo3FN9Et6WRleRz+J7bBH8ZefKTQ/zXQkivt+5vIMaARzbN/EwBeeYJ6ziAUFQ==;w04SwhNUaJ5iGtkfFTYXCw=="
 ---
 

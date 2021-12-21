@@ -32,6 +32,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Cruise CEO Dan Ammann Leaves GM’s Self-Driving Car Unit"
+    excerpt: "Cruise LLC, the autonomous-vehicle startup majority owned by General Motors Co., said Chief Executive Officer Dan Ammann is leaving the company, just as it’s on the verge of starting a commercial service with self-driving cars."
+    publishedDateTime: 2021-12-17T06:42:00Z
+    webUrl: "https://www.bloombergquint.com/business/cruise-ceo-dan-ammann-steps-down-from-gm-s-self-driving-car-unit"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q60TgEGbdgbZrzoMDsv4jYKWVch+/N2uOslyz4oLppAFmY2PfIFABg8NnLEiqm90/dVC8F/rvcj/FXnT7Exq7bihNBfz6g0VsFggCk1p0QmjqaPy5mppvdcDTYnWnErUUe2+R/4VASJofnPz5LBCZfKeF2LOm+wksKmdmmuRWWhIal02NXg+j3y56/cFh0lbyO55kMvwRkfApWqyq+6Mm5ivComKgw67vXNwDljIhAAh+jjanRppb+EBSlctlGBkmglUFV7PLw3kR8y92Ute9LKlwF0EjOQQRzv8jP77LhkJStcCCbx8fszO0vUhhxMlanMm6ZQrlIEgOK4EZXxhTLQDU3My0D2Odq+THck9RG7C9v57Y6XaUV4rEI6c94GPn0ddTufSg7Ro+xUV1EBup+r0jBx5Vy0vb+6qwqYzYVyGTrXxUz6By7EopRC2Mkdl1kEqOSiqkmyQ1fw+mvKqNdFQXPWn7I5O2uT0T9WnbXiAmSAs2/7XQ5n5KaP0mZWb52o3PiYgZYx0vZd3Fri9Pg==;qO0opnCrHj94CCd/wVk0cA=="
 ---

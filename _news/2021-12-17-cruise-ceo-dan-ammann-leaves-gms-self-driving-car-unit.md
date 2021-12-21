@@ -25,38 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode"
-    excerpt: "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,"
-    publishedDateTime: 2021-12-16T18:14:00Z
-    webUrl: "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/"
-    ampWebUrl: "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/"
+  - title: "Cruise CEO Ammann Leaving GM Self-Driving Unit"
+    excerpt: "General Motors Co's self-driving technology unit Cruise's Chief Executive Officer Dan Ammann is leaving the company, the U.S. automaker said Thursday. GM said Kyle Vogt, Cruise president and chief technical officer,"
+    publishedDateTime: 2021-12-16T21:52:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Waymo Self-Driving Test Vehicle Hits Pedestrian But Waymo Says A Human Was Driving"
-    excerpt: "On Thursday, a J aguar I-Pace outfitted with Waymo’s extensive autonomous driving sensors hit a pedestrian on a rainy evening in San Francisco’s Height neighborhood. Luckily, the injuries to the pedestrian don’t appear to be major,"
-    publishedDateTime: 2021-12-17T16:35:00Z
-    webUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908"
-    ampWebUrl: "https://jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/waymo-self-driving-test-vehicle-hits-pedestrian-but-way-1848233908/amp"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Cruise CEO Ammann Leaving GM's Self-Driving Car Unit"
+    excerpt: "General Motors Co's self-driving technology unit Cruise's Chief Executive Officer Dan Ammann is leaving the company, the U.S. automaker said Thursday. GM said Kyle Vogt, Cruise president and chief technical officer,"
+    publishedDateTime: 2021-12-16T22:50:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-16/cruise-ceo-ammann-leaving-gm-self-driving-unit"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 53
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8b45de89e37c19a3903b566ed74cf616.png"
-        width: 800
-        height: 451
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "NPlO49V914RcL8hH1Dvl5ijQCgDCrAUDlAlMyRMfPdjq6T9JNMpFbjasgFuwIssCqas7/Px9jfPXVq3MfyUv2BUd/11u2qsWoOYA6m2uRAFb/2r0okj7zK6fSsurA9b4fcrUwvDouVWINzkZUtk2R931P5LZtuE74yLZ2l7GmwQ/NIIiF4BgPRM/N0enUlt50OQ4kJ4n08fxPhgedUWi+urq6/R5ureNjVsWZYq4JOAxlIRga+HcjQ3zQIM4YLQ3QenilbiOc2GWi5YwAi7BNJLhtughIoXL/ppGuqXccgoL/JNi1xpFfE15SZi/TiOjyguYR13KX43DIWmJcDl8SCwHnc4gvS+ZYipjs4+EyGo=;h+SttHh6VFWR40DJkW5HRg=="
 ---

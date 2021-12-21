@@ -55,6 +55,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence in Sports Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026"
+    excerpt: "The Artificial Intelligence in Sports Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Sports market It particularly sheds light"
+    publishedDateTime: 2021-12-20T10:30:00Z
+    webUrl: "https://www.openpr.com/news/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    ampWebUrl: "https://www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "hE8gILg42uI4K4NS0nIiu7x3mXtCdMKJSPvHn1RUD2/WdDN6m65zqmLzFXhEi12e4pFxc3ggcCgqtiUEnImis+yBgjg0rVfy5zrfHpgHWXymutjy3Y+jt+4TTLvaTrgCfd59YuANydnYN4GDxzbdOh7Y3ytYMeL4t1QC2jN7rh+zDG9MYz3XZ+6IzzwmLLtBUKI6PqrRBNIIrPMHx2Pfgx3xy7yHcCZaYSLrAmKz/j0NK7CUUbHx7s80HGG4kDPUoa/Ex/ABPzozhqPGKfZibk9KF7HfM0xVwQY7cJHV4OwM2hKgxptGKNl8IRa4bv/UvzKUOD4+BDSOMauvwKA8kf747quNYE2psx30Nvur8l0=;t0gzW8LQR9binHsizY4pNQ=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "This Is How Healthcare Is Using Big Data And AI To Help Save Patient’s Lives"
-    excerpt: "Advertisement Artificial intelligence (AI) enables computer systems to do human brain tasks in various fields and all aspects of daily life. AI has resulted in a much-needed, and significant advance in the health sector,"
-    publishedDateTime: 2021-12-16T18:54:00Z
-    webUrl: "https://wonderfulengineering.com/this-is-how-healthcare-is-using-big-data-and-ai-to-help-save-patients-lives/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 33
 
 secured: "FRPV6y4Yg7Zfi3sjMDWKyh2Ym4PldYrys3g9NdYGtLrehNTipeb0GaNQIen/WjoyfhFV9mKDvQ+m3Hs7Q45cPYbs6wukSD5s1X3iHahpZKnkzQpPxU4v1R4ZfW23WL8n2mtHQIzPoFrMYdDPaV5EAOEBGhiq/cDMIwPoefCM+pChm2fca6rFJ2yk0sAkX0aUo0blDjSWmWsIO+zwDgf7w6FqtFpRn5OUnLiv3hjn0KsMhNStEqXCmoQZLOUvmXeiAA53UuNKuBW72cFP/6eWiaS5qOa+/I8LU66Y5IFv7GNqI+ajfxNc+0SbDq4/5v3+YFgCo95itoBDzVCTpkTCKt1XbzP3qxd9bjIEpzdfMR/4YREZtxN9AciRjKCIzjIjqEi7OScX7GcutlKB5/wChSJilflmS8BnguxJMLWPdlobZd3EHhJNUPY/lCrceizphdKhgNJkjdnKsbezgJHLa7HGN5Fe/uakJxGj52Ew6jsQZ6S7+f3pcIhLbYan+WcLmNAcXBZATZKQAwbMl+YQ6w==;JVuhJmf7F9ml+yejf6PEoQ=="
 ---

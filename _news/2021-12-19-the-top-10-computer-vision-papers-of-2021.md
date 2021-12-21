@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "2021 was the year of monster AI models"
+    excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
+    publishedDateTime: 2021-12-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
+        width: 2764
+        height: 1555
+        isCached: true
 
 secured: "YQYSUvo6uOoeZL1Y9yfjay+93GtrUCCyMr6dMwbXeagkEPf7z0MSQmN1mcB4FvujCo/02rQyeqwosx+uVaieMWY6az5y/E+EOEU9QFG4k6BckHDeW4TbIk6DP5CL2R97l9m7lCeI9HeTRp3DDyGQlJ7aA2bpTR4YYl1ea85E08EHEDFIDIXJBQvwUSQMsxU4evH/28+D2ldy4BHkldu6tpjkqZws+f3kZ/Rto+P3UNZ+U18c5AEx9MhwYc7hCtkBjkyhlUcJmpgZu0TOFzi0w6MHEVSy5m/HQeD3gedG9/7ERflPgoN5DJ1PXGagidtLT9KDmT/J4xvamJlngO0+qy4UMU6ORxu5SQQkx0yszZw=;lNY4kTjOd1L0Nl1ewuQBGA=="
 ---

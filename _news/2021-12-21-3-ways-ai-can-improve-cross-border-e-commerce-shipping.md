@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 696
         isCached: true
+  - title: "Artificial Intelligence in Automotive Market"
+    excerpt: "Coherent Market Insights new report Artificial Intelligence in the Automotive Market examines the competitive landscape and forecasts for the next few years The research on Artificial Intelligence in the Automotive Market for the analysis period of 2021 2026 includes an"
+    publishedDateTime: 2021-12-21T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc21865605_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "VuvGBmGmDEZ40qNpVsr3H0NMjmGz48rmJ0UYInndpOZaXSOJp5AEhbXfOsXzYSP9eGZ2kNC0cpFNfJoNohZzH786U/d7mfV20ITjvUil8pdQVYBsgbZw7mHJuIWYA9tvtUI26GRKDdCK7hlba4FGAPSoma8Nf0VCBlSGEMs47pLWSS97bCWLJtibZXeUeWlAqjCWcHAqOvx3En45Mj/6JArrt6xNAAeTMS7Vm+WEQgEhTFMwAaULxZmoq+EU4ScwKNNaXbMJCS+Ed4hVYXBkcpVsn4Do++GevHqqx3xuQrkLmv18eA1k4TBNF5ASGmaJ7v6CPZffh2bfl/EMkUb+6jZaxZ5lTSaLFNOhNfDqehY=;V86YXvra/W0QMCZ0pn0YMg=="
 ---

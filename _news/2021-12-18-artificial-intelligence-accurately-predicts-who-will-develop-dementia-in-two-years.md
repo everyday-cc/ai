@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Artificial Intelligence Can Aid Early Prediction of Incident Dementia"
-    excerpt: "UK researchers have developed machine learning algorithms that determine which individuals are likely to develop dementia."
-    publishedDateTime: 2021-12-16T17:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/964954"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 52
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/gty_210825_artificial_intelligence_brain_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
     excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
     publishedDateTime: 2021-12-17T12:00:00Z

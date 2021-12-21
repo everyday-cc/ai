@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/17/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/17/five-ways-ai-improves-brand-marketing-roi/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Automotive Market"
+    excerpt: "Coherent Market Insights new report Artificial Intelligence in the Automotive Market examines the competitive landscape and forecasts for the next few years The research on Artificial Intelligence in the Automotive Market for the analysis period of 2021 2026 includes an"
+    publishedDateTime: 2021-12-21T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc21865605_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "3 Ways AI Can Improve Cross-Border E-Commerce Shipping"
     excerpt: "AI is a much-needed business salve, with the power to smooth out bumps in the distinctly turbulent e-commerce supply chain. But adoption should be approached with caution."
     publishedDateTime: 2021-12-20T18:29:00Z

@@ -40,6 +40,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence in Sports Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026"
+    excerpt: "The Artificial Intelligence in Sports Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Sports market It particularly sheds light"
+    publishedDateTime: 2021-12-20T10:30:00Z
+    webUrl: "https://www.openpr.com/news/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    ampWebUrl: "https://www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504896/artificial-intelligence-in-sports-market-2021-highlights"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
   - title: "The Worldwide Digital Assistant Industry is Expected to Reach $33+ Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The “Digital Assistant Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global digital assistant market is projected to grow at a CAGR of 32.17% to reach US$33."
     publishedDateTime: 2021-12-20T16:47:00Z
