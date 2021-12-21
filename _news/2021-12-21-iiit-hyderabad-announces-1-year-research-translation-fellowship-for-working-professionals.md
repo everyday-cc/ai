@@ -1,27 +1,29 @@
 ---
 category: news
 title: "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals"
-excerpt: "IIIT Hyderabad announces a year-long Research Translation Fellowship for working professionals to work on creating products from"
-publishedDateTime: 2021-12-21T08:41:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-844485007.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-844485007.html"
+excerpt: "IIIT Hyderabad announces a year-long Research Translation Fellowship for working professionals to work on creating products from emerging research."
+publishedDateTime: 2021-12-21T11:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
 type: article
-quality: 15
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-    width: 2398
-    height: 1257
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/21/full/20211221150235.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "DwnRNYPzbvpmRj83d4FdW8yuHcGSk35+TiGj3pKcqAn+1uAN8ThpjRNv537LbgzaGD7dTd0o1BUNfIA/88wIDCxtbSLJB9d2OoymxLThuIAec7OuLvWeARH1D5kwHZybK9ie4xJ9DEGX0iGTt31nW5wM/5mA2JBiT840vlwO2f/lc+RxJ996WboIyfw7r8MwcKPwdMtkr4NR7oPZBpJRaIKtmdyxu2xK/voIA8vewZdXhPdepW+Iq4OKvIi4sqaIYPJgjfxjeekFhjlzXohFy7WlGhf8GcIhdLpC5ucUSLGiTcRwpQ32qtTyPYl1g2Yt7u6t+JPFpY6Ug7pvwx5QZ/GyKdj7pgYt6Zoo8ry1kTx2OUkn94mxCkwWIMkL7BNZoiW3s5Q3uMVGXsWE9Mv0o0ZP6t/bdTXPuxUm7ldVNKnr7pMq07fS0BQgrWqja0/OFaeTq89v/p0cwk2Z0VAjJxfA05+z47uif3HiIzkrSpAe3lqYncPgu5z7oZMX+av/oZ6Kt3IUr+2yf9QcEWhwhw==;a9pltRnC6aH0kJhmZ5pLQQ=="
+secured: "ZqbvMpHixfH0AQarcTvKIBNLD1q44QyB4KHPKOCqfA5anHbP+8gMt8//JbWrPvrOOJB3Qw7iA6Za36Xqy+lFehKrkgni6/SW8RhlKZzjHZ1EEE+55ztsv7OghuuPMqKfiF3TvCplzIRanSPRi42zW8HYIdt9nOH1D2PWmoiDbyD8RoNTL0Ymngusp1F/WX6eAYv7ScGj0WB1VMrm4DO57BMr1hvAdd6uJjJn9gSkDnbd9lknEb3otHtgURcCtCwrSiinMUtswZRu9R/gzs3HGV96ikaFy+NGcOqc+m3HxtXM/8LzjFInNIWWAVWye2ePACNd2pYWqh3IH8JeCwo7g+qUoD42IWm/gn8/2h5GRzQ=;AEbI+VtL4tIBNv++faoFbA=="
 ---
 

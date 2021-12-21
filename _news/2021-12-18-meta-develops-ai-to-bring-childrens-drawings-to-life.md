@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-children
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88383811,imgsize-41518,width-1200,height-628,overlay-etbrandequity/meta-develops-ai-to-bring-children-s-drawings-to-life.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Protecting Artificial Intelligence Inventions in Drug Development"
-    excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."
-    publishedDateTime: 2021-12-16T19:12:00Z
-    webUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-report/protecting-artificial-intelligence-inventions-in-drug-development/"
-    type: article
-    provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
-    quality: 39
-    images:
-      - url: "https://bioprocessintl.com/wp-content/uploads/2021/11/iStock-1195775373-1.jpg"
-        width: 875
-        height: 492
         isCached: true
   - title: "Meta is looking for kids’ drawings to improve its AI model"
     excerpt: "With a new software that animates children’s drawings, Meta hopes to build AI that can “understand the world from a human point of view”."

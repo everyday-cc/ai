@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/aws-offers-free-online-course-in-machine-lea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 426
         isCached: true
 
-secured: "/4rnJxtSH70Lo4mbnJslFPEEezHUzR7dqvU36j8+XNeX0OeNIUPlfKcTXf1w7HCK3xHckZIj/ockPCJItSFvWnu0QpCD0PZ0JnK5TvpF9coOUsafnmfuKhHz54HMWKy79gbrBTXnN6Ufqn3m/vyD3FFqDpf1qZPbZr1fk9Nphcc6BgeXIFTdYwCL6laAFcH+tltVNMUpDh8jsr63zUa5HkCFETuIWqmRNGqKApXKQI4iY5LsIyKFzAKEVq23nQyFUc0sq8hGNsdIdxTh/c6hWj0ZE74EjRzYKqv2N/uzAihgNNz6pYWQl5jkzejLT+ryYJIqnnRDReDpoOaO679YhoVm6/au/cE8Ghsq1mZINrY=;TUDJd5wQrdlwAFLL5TNqTA=="
+secured: "H9aDfjHMAKdkQ3eY/uYFVfBQ8iNYnov8rW4pBMFja++4Bwl/Pgj01MFRCOYZLpqodSNEs98ItyaicElXYPieyuvTZt0fVnsrQKtp4P9MSonY+TySQQa/S6/bvyjrcRilfhvHy4XIJzXQdJJPwLnexvB5BdETnxCl8fVJhTgrnNEOrfVIdJpxlm60jgenehHKJICcaqPS3sz2BX7EwMwl9KJI0wNH5eJ67EQB6/ptZVkKL14DIwhISfgGWjVYQSEMezFiB1oqsmL76YhfNK44Lmuu59NtaFU7/9tbs3MVgjd9L54I9fzo6+DUknlp3PUO9RhughTp4tYhDczlwoq14bqcn8yFwgvSEyKvlorij+WdzFv55jikZg69h8ucqkb7nxiqMK5fjIBXuBdhH4eFxy3IgR0t2Q3nQt1kWTt7BLzM0/Om46hirUg3yjJKTMLgvDe2C94SsC3bSrBQNpYkgvkvac62H/jFYW5aL7+aQLVQoXG9XYBZ7wjx+XaeXQpUrKXKbWE9iiFIYbdws/0F3A==;RrzlC/VWQ1MKl+SILx590w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/us-energy-department-tests-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
-    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T21:01:00Z
-    webUrl: "https://insidehpc.com/tag/smart-grid/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 28
 
 secured: "hUsSFWK//o1CUt7dRe2EtL0Spmg67CWIH3XtJsi2UBlQtnTsUAgd8WleSXRTT1e5uhZr0T+0XAWet4zfRBE7/FRZrYGe4s69RWtkkV1UF/i4sDS6Qog9VmZNMAKTzN8iZ74J0pizIOdgkpYrRFOHQHtta9bBEvNkTAXYWLaH/+j6Bo9NwdwNZamV1JGoaHTg1VjGpAiQ8WtcOvNy4PX4k8elFy7gjK9kLckIQPy132RHsyr155shF/XhjN+EKFdefq5GbGheWHNLF5pq09+SIZiwiUA1EG77wI+axwtI+x93abXBYM/lYcdAUC2+IWkxmFmAB8vgxJq2HPiDpT1xOLuo/Hd6HrNUUduymHZnV0I=;Ceno7K3HQOdqDDebwi8qpA=="
 ---

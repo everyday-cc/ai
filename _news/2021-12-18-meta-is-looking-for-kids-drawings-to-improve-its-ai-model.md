@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Protecting Artificial Intelligence Inventions in Drug Development"
-    excerpt: "Discover the benefits of AI-enabled solutions and how they revolutionize every stage of the drug development process to accelerate and improve its efficiency."
-    publishedDateTime: 2021-12-16T19:12:00Z
-    webUrl: "https://bioprocessintl.com/2021/november-december-2021-featured-report/protecting-artificial-intelligence-inventions-in-drug-development/"
-    type: article
-    provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
-    quality: 39
-    images:
-      - url: "https://bioprocessintl.com/wp-content/uploads/2021/11/iStock-1195775373-1.jpg"
-        width: 875
-        height: 492
-        isCached: true
   - title: "NVIDIA Develops Data Generation Engine for AI Training"
     excerpt: "NVIDIA is introducing a data generation engine to produce physically simulated synthetic data for training artificial learning (AI) deep neural networks. See more here:"
     publishedDateTime: 2021-12-20T12:03:00Z

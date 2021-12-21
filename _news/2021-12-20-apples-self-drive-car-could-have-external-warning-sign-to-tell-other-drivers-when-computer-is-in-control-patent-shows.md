@@ -87,29 +87,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Mobileye's self-driving technology takes on Paris traffic"
-    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
-    publishedDateTime: 2021-12-16T19:37:00Z
-    webUrl: "https://www.autonews.com/mobility-report/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
-    excerpt: "A driverless car startup based out of Silicon Valley and Guangzhou, China has had its driverless testing permit suspended after one of its vehicles crashed in Fremont. According to a DMV report obtained by The Verge,"
-    publishedDateTime: 2021-12-16T20:25:00Z
-    webUrl: "https://www.chron.com/bayarea/article/bay-area-driverless-car-crashes-permit-revoked-16705508.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
   - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
     excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
     publishedDateTime: 2021-12-20T12:00:00Z

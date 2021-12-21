@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/education/fpj-ed-iiit-hyderabad-
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/fpj-ed-iiit-hyderabad-announces-one-year-translation-fellowship-for-working-professionals"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -28,20 +28,22 @@ images:
 
 related:
   - title: "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals"
-    excerpt: "IIIT Hyderabad announces a year-long Research Translation Fellowship for working professionals to work on creating products from"
-    publishedDateTime: 2021-12-21T08:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-844485007.html"
+    excerpt: "IIIT Hyderabad announces a year-long Research Translation Fellowship for working professionals to work on creating products from emerging research."
+    publishedDateTime: 2021-12-21T11:01:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-121122100805_1.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-        width: 2398
-        height: 1257
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/21/full/20211221150235.jpg"
+        width: 600
+        height: 450
         isCached: true
 
-secured: "c/0WsPuy99F/AleYwDZIAHaKi0JASTRT07+q1qLMQiC7d+mCBkwl8hNUVMTacwvZLM6YtQdLobNkBzh7RBCTji9qFU0I1NfY8DKpIs/ZmSbS9qSJMmf0lqL8N2Pbr2dyPdcTYi6Vlf9hbhIpjwC6zhrlFeOBASvbOxKXSLb3GVolrr2YG8rHePdZXZw8PJn4GpbwJGGQ+CXYvThnYDNAPtT4qWDfmMJuRXyq1xYAduo4YBs/KSxgr4r/PW8PW06lVMWqf72NazEk/sD5gmVo8JUV6jCTovFum3EK9uIFeH0neCD38TeCLssvI5BFx3G3bI34jEH8yeICietH9kH0TR6nAh2gaLFbwJNbqkUjN3k=;J74TZi2dBCvLj01KoWApXA=="
+secured: "VpskGuVa6h9K0AmZHDe18SD7utpY1W/UKWzH0jT64zSSHVD1KQbfS9YifA6qXAFau+Z9pwOk14JVYE71YS867emZ4vP7vG4PGb8pz5Q0x7Gt2dHazA60le4BN8UsUVfNE32sGGVEN8uRzcFukHjB7MHCbjrOO4s56SSjlQW6Nf15fA+qjkkfIQk7Gq1k6McKsTbN9rZzYaPYgKaxzXwUgEJkMpT9A5RuQh6plyE++hLJjTgJq7Yv0kZJx6puZoNSkNI6eBUBq/s4o7BQ/UTZS8grgGjChAUoqv//KaCGWsn7U6WUjh43pkg5/+6IU/ygiQRwCYj7yDHgpI5PmVe034Xg1YQ5j+w53P0XqBiNrKxdhqb/YBQRRF3G6NZSciRiw9P1bMbVcRuOiuzZNQ90zuNB4lxMzcInk4h33XhfW2patNgRuq14qHOG++E8Ouu8ldtDBZPsuLvGuZ24GnL2E+iA8tMaAqOWgUw/S1x64rqH16BsPl9KrPeqhQEHSav3XgW1TNMhwIBYwtIxJSV6dg==;v3wXqb4I47DHFWtpwZ+/rg=="
 ---
 

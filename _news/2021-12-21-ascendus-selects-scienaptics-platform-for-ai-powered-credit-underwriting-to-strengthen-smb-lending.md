@@ -38,6 +38,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Ascendus selects Scienaptic’s platform for AI-Powered credit underwriting"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Ascendus has chosen its AI-based"
+    publishedDateTime: 2021-12-21T12:36:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ascendus-selects-scienaptics-platform-for-ai-powered-credit-underwriting/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 36
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T15:14:00Z

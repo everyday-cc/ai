@@ -36,15 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "NREL to Test Software-Defined Smart Grid AI Chip Developed by NVIDIA and Utilidata"
-    excerpt: "NVIDIA and grid-edge software company Utilidata said today they are developing a software-defined smart grid chip powered by NVIDIA’s AI platform and embedded in smart meters. The joint effort is designed to enhance grid resiliency,"
-    publishedDateTime: 2021-12-16T21:01:00Z
-    webUrl: "https://insidehpc.com/tag/smart-grid/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 28
 
 secured: "B8OhzfVlb+JP0O5DxhI/74kVAI0wv149pRaV7vyVByHHWy4cfSE0dsLCiihgSMR0XmYzcxrDjeQNhiIFNtbt2kCLpUe/+NIMsfwwpu4PDjSNJ+EvZJMDatLsB6yVG+mSmEtXzu+ljAuThPHRX1YRqVJrYYREMTI17r2dfpSFBtQA0falsnB7+sZ6R2qBpGA0gHb7NhnT+K/9y/ufAUPe+WGO/w0pTZjSFO4p02WOwhctyzGD1rZYRsAwI169MWGD8DfB47zUpWV2GvCN4JSwTjUkelw4JnuPAhPOh7+9uE73Uo8mdbCU5XoHeW4ipIHArdxUs2n7A9IE+BRZDvAe9kTVw2bxQ/Iq/iRo8m37uq9kKm8eTzvD3UmHhIS2w35/HZabB/0aKkTRb0FGjYOsnK3FJMhSnrP+gE5m33SgnudOVjEQbHkyb8rGP5oRmoArl24IsOmvfQ2bZVc4wQ0OwzABmuTnf3qK64Qu06Uo4pHtNQWlw7Gt8HamzqtLfYZINx0tBoViB0oo+lldMHVZNw==;quvjm8ZY0i9bSfziPPmeUg=="
 ---

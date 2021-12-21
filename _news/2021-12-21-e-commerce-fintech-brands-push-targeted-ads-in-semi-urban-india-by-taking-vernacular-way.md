@@ -26,17 +26,6 @@ images:
     height: 395
     isCached: true
 
-related:
-  - title: "Staying in Tune with The Times – How Fintech Dictates Modern eCommerce"
-    excerpt: "Staying in Tune with The Times - How Fintech Dictates Modern eCommerce The modern way of doing business goes hand in hand with technology, digitization, an"
-    publishedDateTime: 2021-12-16T19:30:00Z
-    webUrl: "https://www.intelligenthq.com/staying-tune-times-fintech-dictates-modern-ecommerce/"
-    type: article
-    provider:
-      name: intelligenthq.com
-      domain: intelligenthq.com
-    quality: 4
-
 secured: "A2JPxTU1IDX34tgG8Fl147GlXhVi3kXp6ebSm9tvy2dQLkljcu/Ot44aNuNe3vAmSjheVDv9e5dpjwvewJawx4+sEyPTb6ncVbsxIjjrvkv8pw9jOp/769jZMYj7hcoeyplkIllokQwPiHgmy8Jj+kMqS9gMnHGb2dMLiCP9kiyyZVk6bnIxoYTl7+/x4JiBt5kDrBofNJ2n+lFDNiG5DRMxfqSntsfWsLiZ5NwjGjWe/HGZbIEaC4mG6cCg0+qvmPPA9dbOBnhSyIpninklCeRWHBnwYGLVwfywhLDFr966nyj/CAVHldll8sn7T6c9vOOUHBVeTDHwQNnvBFA59mvNvPMlWEFyqrgUHvcoaxynHHoyCu7pj+2r0AQPALa1PV3TP5F6YqtZuMwg9LGtF91gQWaTCrdR8/Amn0plo5ThWOROFb2BPFaOUl7Gi5kJVftG2obDAumIzM8EcnmJmSocXsUR3db5w+t/e2R/IOE6xxyPEfmRc7YWpFZB4NpTVL1VD4tlNGXu6RpXk7BVnw==;wluCqe/UzDkwkvFbmJ3NlQ=="
 ---
 
