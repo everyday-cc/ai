@@ -6,9 +6,6 @@ publishedDateTime: 2021-12-16T13:43:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
 webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
   name: Stockhouse
@@ -19,6 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "PKSelZKDcRtRVnr8da7jzjxk/LKx6sQ+H1MiMZIfMZ6irYehV1aEij+XD5yc3rDGgLHeiMIUgE/NFTEdOXVu6FxEktFbpO94GjuMDNSsdzdnTRkPh1INFIw0KrlGOUxxZBu0LdYW/hzZR7Dy+08oN4Cr12X8LVJB5xOylTLP0xw7S4aC4q3bWgMv/0waiUMI6VmLka5IPq8hgWp0mMqk7J6BFKT3gqPnvegHdAbCnjiDjwCgF5thNzqr8sYVeVLZSFrmult/jHMSkymhM9Qb8+J2cw8mj3dGyrYYrxdtzT0IiHiM9At0jF2aRwwjep5otefkZQEibYjTXFktY7+P6b/f8RcbnVTFGNe3j6947oI=;iVzp8DSc6b+OpMCamqUMYw=="
+secured: "ER+xx3DISEavbOYNdcRw3P4ivMJquF8JMLTbKTA/4r9eqoKCFwqyZNtM6H94wJCwRnBOg1xjWhARzRmKgKXU8/ixFwVZEssWqXKGu7/1rOnrMyHFuM5edHjwym0WvaSRH55OEPopf0EI3RJfXnpP5Gawu42RX0ml90mhF2n5ZksDp7S8fjPBgWTDu+r/SEDkFKJoosxhNKeK6QieqMA8T88S4RTF8w4EhWpnwoG0qb9eiQ47/KziREPtGsm40wpcydrsv4TIz5Qy+j5QY1IY31Btr3uTYSR7YiSlcngYFtWY6CYoMrkIbQys6GGzW6L0JZKvkPNQLaRuE6vApjfLSTtiWp3CXX23FqJih5GtCQo=;L9+iwj8rthC+2GDlDQrS2w=="
 ---
 

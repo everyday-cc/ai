@@ -80,15 +80,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
-  - title: "Silvergate and EJF Capital Form Joint Fintech Venture Fund"
-    excerpt: "The EJF Silvergate Ventures Fund will seek to invest in early-stage operating companies, which are developing technologies that are poised for broad adoption in finance, such as real-time payments, digital assets,"
-    publishedDateTime: 2021-12-16T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-silvergate-ejf-capital-form-joint-fintech-venture-fund-/2021/12/16/9513144.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
     excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
     publishedDateTime: 2021-12-20T14:11:00Z

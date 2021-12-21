@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Will Not Honor Retroactive Full Self-Driving Pricing for Discontinued Models"
-    excerpt: "Customers who have reserved a Tesla model that was discontinued will have to order a different version, only this time at the current increased prices. This also means those who reserved in the past a model with Full Self-Driving (FSD),"
-    publishedDateTime: 2021-12-16T14:32:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 33
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-will-not-honor-retroactive-full-self-driving-pricing-for-discontinued-models-176729_1.jpg"
-        width: 1920
-        height: 1012
-        isCached: true
   - title: "Tesla Releases New Full Self-Driving Beta Software Update (10.7) With Phantom Braking Improvements"
     excerpt: "Tesla has released a new Full Self-Driving beta software update (10.7) with phantom braking improvements. Here are all the details on this."
     publishedDateTime: 2021-12-20T16:30:00Z

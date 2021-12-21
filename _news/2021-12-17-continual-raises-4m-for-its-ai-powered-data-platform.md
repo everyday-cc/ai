@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
+    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
+    publishedDateTime: 2021-12-21T05:07:00Z
+    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 37
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Continual raises $4M to help companies build continuously improving AI models"
     excerpt: "New startup Continual Inc. secured a $4 million seed funding round on Thursday to support the rollout of its cloud service, which allows companies to build artificial intelligence models that improve over time."
     publishedDateTime: 2021-12-17T21:37:00Z

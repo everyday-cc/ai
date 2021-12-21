@@ -27,14 +27,14 @@ images:
 related:
   - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-20T20:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    publishedDateTime: 2021-12-20T18:03:00Z
+    webUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 61
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

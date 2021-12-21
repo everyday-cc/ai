@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
+      "title": "Pro and Con: Artificial Intelligence",
+      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Britannica",
+        "domain": "britannica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
       "title": "Self driving company Aurora makes Nasdaq debut",
       "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
@@ -1359,58 +1403,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-self-reported-dangerous-driving-habits-revealed-in-new-survey.md",
-      "title": "Self-Reported Dangerous Driving Habits Revealed In New Survey",
-      "excerpt": "“Based on self-reported driving behaviors from our annual survey of traffic safety culture, it is encouraging to see more drivers recognize the danger of certain activities behind the wheel,” David Yang, executive director of the AAA Foundation for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ac445569df82205e7de16%2F0x0.jpg",
-          "width": 610,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
-      "publishedDateTime": "2021-10-28T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

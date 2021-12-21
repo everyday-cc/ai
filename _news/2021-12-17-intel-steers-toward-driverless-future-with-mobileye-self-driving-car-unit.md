@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/"
 type: article
 quality: 58
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/12/17/15/51924887-0-image-a-5_1639754575177.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Mobileye's self-driving technology takes on Paris traffic"
-    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
-    publishedDateTime: 2021-12-16T13:08:00Z
-    webUrl: "https://europe.autonews.com/automakers/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i_0.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Mobileye's self-driving technology takes on Paris traffic"
     excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."

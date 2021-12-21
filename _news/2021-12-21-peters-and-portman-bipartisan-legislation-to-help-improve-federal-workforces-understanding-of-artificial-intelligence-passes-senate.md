@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "What Does It Mean for AI to Understand?"
-    excerpt: "It’s simple enough for AI to seem to comprehend data, but devising a true test of a machine’s knowledge has proved difficult."
-    publishedDateTime: 2021-12-16T14:50:00Z
-    webUrl: "https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/"
+  - title: "AI Workforce Training Bill Clears Senate"
+    excerpt: "The bipartisan legislation aims to strengthen federal employees’ AI knowledge, with a focus on procurement professionals."
+    publishedDateTime: 2021-12-20T18:46:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/"
     type: article
     provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 41
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/AI-Understanding_1200_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "What Does It Mean for AI to Understand?"
-    excerpt: "It's simple enough for AI to seem to comprehend data, but devising a true test of a machine's knowledge has proved difficult."
-    publishedDateTime: 2021-12-20T00:00:00Z
-    webUrl: "https://cacm.acm.org/news/257510-what-does-it-mean-for-ai-to-understand"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 21
 
 secured: "NkatTMtQ3bZvmEs5Xp4m2YpKKJFkpre12qSVMWv2dynM4Gz4UdrkEDGi+9/3bJs6I5P5eJXWrfP78DQa4gnZqpLebdF0NYjwGkJQMJmN1J1mfnF/Pz8mKww6w8YZ90mbd7ijhjyOQ9m+cUI3yxf9GUBsf3tvhfI09lsHyJ3udDiJmKWovlw6ny+VvjXYoI76Mf64eW6a3FGptogXihZXKy+AbxgFOk9EEmSsKepmvTKdQNORUB84O4qgoG9NbpIcQj16qCyVota7DxnJdBYx2JEvpnN+cPKMTIyXUm4VYQhxydrp2lRcG+OkOh3TTwpmyjQ5yRT1DAUCYkmnk799k9Nti4qwh2YP/TgdaNAieFw=;B+KehCH0ID+2Q+q9wBhk4A=="
 ---

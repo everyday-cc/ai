@@ -7,7 +7,7 @@ originalUrl: "https://europepmc.org/article/MED/34874877"
 webUrl: "https://europepmc.org/article/MED/34874877"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New model improves accuracy of machine learning in COVID-19 diagnosis while preserving privacy"
-    excerpt: "Researchers in the UK and China have developed an artificial intelligence (AI) model that can diagnose COVID-19 as well as a panel of professional radiologists, while preserving the privacy of patient data."
-    publishedDateTime: 2021-12-16T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-model-improves-acc.jpg"
-        width: 599
-        height: 292
-        isCached: true
   - title: "Predicting Variant-Driven Multi-Wave Pattern of COVID-19 via a Machine Learning Analysis of Spike Protein Mutations"
     excerpt: "This offers the possibility to trace the virus evolution and to assess the role mutations play in its spread within the population, in real time. To this end, we focused on the Spike protein for its central role in mediating viral outbreak and replication in host cells."
     publishedDateTime: 2021-12-17T08:42:00Z

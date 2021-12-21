@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Artificial Intelligence for IT Operations Platform Market Research Report 2021 - 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"North America Artificial Intelligence for IT Operations Platform Market By Component, By Application, By Deployment Type, By Enterprise Size, By End User, By Country, Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2021-12-16T13:57:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=589401"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "zgHlKpwBO98KEWLMa3+9ba/Ok5jp4sS5K/kvXMUt9mrG8eOjVghKBKTDMXi9VkixGys4SHoT4OBbg16WxXbaGx67Ta2WzRcO3nNWJ7uDqtOqjJQS/nQZczgxE7RWTkCkre1sZXzZh59PPmGBganFGqtcKo39IWzZWpsKcN67Bf5cO6sDpTSvkvvayMv6+MUbN+dy+SNvyPevoOTwzSlSE+rdKYad3dJlBr/oVUnefpkJk+0+jYzSiHiTYLCTb2OhorRRaA2yjHU85rgmBcqj/jWuJpLLHHotqrHakSRxbFUwwjVE7XKtApXPcg58NUDDMOzg+pOOLP/azVwzS9U+Pdech21cHth6/V4pW+crrCOeQEXw9EMrJp6hcfmaXzdVTkf8QKFcXUEwGY+8JcvdawaMqaeubNV34vYWFb4LBbiuH9EQDc0VDSopcoMWWQH892eH/XMTvf+MGQLJs2PAaTFHWZWIApa+TuPrO80KR/ZtjFi8UCNur7yQPrRjIUB7vBhtvYm6Rv6if6dFogc0LQ==;/psrTJL6D+Njx/OcXAsfyw=="
 ---

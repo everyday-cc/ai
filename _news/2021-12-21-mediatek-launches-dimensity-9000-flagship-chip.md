@@ -94,15 +94,6 @@ related:
       name: GizChina
       domain: gizchina.com
     quality: 22
-  - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
-    excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
-    publishedDateTime: 2021-12-16T14:20:00Z
-    webUrl: "https://www.telecompaper.com/news/mediatek-launches-dimensity-9000-flagship-smartphone-chip--1408109"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "OYhmIjwQBU5GT/4bRh5a0X1d2nMj9UpbS6QdL61ZdSaX3zZtFqWiAOVmJ9blQD9K3YwfJfMxOGopZTVEzFm0nD26qnuO5ER2cZzrlN56VOcq7f5e0ZZPaXAYVlCYmhnwkTUJ/OP9hGjcAzW1OyX/hWpByG6W/7LHZRR+0xHC3Gz2rmwO2+Kjq0YJkqgzYnzbysE8bnLcMlcJZEbjuJRKot2ZUv9JmqOBOLSMfewcHjEpxY01bCn4dcdGz9pshuDR+sShlh0wCq1lhrPjYTLcIBfSO/9Z8xg1Frwxurbmwmff/+GnEtwIaZ63gKKeUbl171ylnT7jk0mFOx4Sa8QDT6y5bqqIylOAj6q9R2ygfRY=;yrLIIW+W0SJQYPcQMuZy6A=="
 ---

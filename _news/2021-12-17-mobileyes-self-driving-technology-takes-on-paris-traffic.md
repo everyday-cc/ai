@@ -85,20 +85,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Mobileye's self-driving technology takes on Paris traffic"
-    excerpt: "The challenges of navigating Parisian traffic will help speed up the development of Mobileye’s self-driving system, said Johann Jungwirth, a company vice president."
-    publishedDateTime: 2021-12-16T13:08:00Z
-    webUrl: "https://europe.autonews.com/automakers/intel-unit-mobileye-takes-paris-traffic-self-driving-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mobileye-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple’s self-drive car could have external warning sign to tell other drivers when computer is in control, patent shows"
     excerpt: "PATENTS for Apple’s first self-driving car seem to reveal features that the vehicle may offer, including an external display that would tell other drivers and pedestrians when the car is"
     publishedDateTime: 2021-12-19T21:51:00Z

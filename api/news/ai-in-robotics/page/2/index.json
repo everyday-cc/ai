@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
+      "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
+      "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
+      "originalUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
+      "publishedDateTime": "2021-12-12T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-samsung-promotes-robotics-as-future-growth-driver.md",
       "title": "Samsung promotes robotics as future growth driver",
       "excerpt": "Samsung Electronics Co. named its newly merged unit for mobile and appliances the device experience (DX) division, the company has said, in a sign of its resolve to provide its customers with new, meaningful experiences.",
@@ -1043,6 +1087,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
+      "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
+      "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
+      "sourceUrl": null,
+      "webUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
+      "originalUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/12/bigstock-Close-Up-Of-Notebook-With-Crea-440550755.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
+      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
+      "publishedDateTime": "2021-12-07T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "foodindustryexecutive",
+        "domain": "foodindustryexecutive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-ex-tesla-impossible-foods-lawyer-takes-top-legal-job-at-robot-farming-startup.md",
       "title": "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup",
       "excerpt": "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel.",
@@ -1283,83 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
-      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
-      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "publishedDateTime": "2021-12-06T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-we-cant-let-robots-control-nuclear-arsenals.md",
-      "title": "We can’t let robots control nuclear arsenals",
-      "excerpt": "New Zealand has just joined 30 other nations in advocating a ban on “lethal autonomous weapons”, or “killer robots” as the ... defences on a hair-trigger controlled by its own AI, across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2",
-      "originalUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T19:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

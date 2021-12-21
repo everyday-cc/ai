@@ -53,15 +53,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Making artificial intelligence more natural through evolution and development"
-    excerpt: "How can artificial intelligence (AI) draw on principles from nature to solve complex problems? When it comes to recognizing patterns in large amounts of data, AI is faster and more capable than humans."
-    publishedDateTime: 2021-12-16T14:50:00Z
-    webUrl: "https://idw-online.de/en/news785770"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 16
 
 secured: "1Dcx1V9IIuHlTpKSPooO5HQ9dFZ9dXax3ndOYvjbsm0y4tnCh47vSh3q2npv698DoLKVxQ0DADZM3i52FC0P1V7RY/ZVg5ICvZAcOOT3BRT78Gv1NGUqpqtXoSq9kbjmok+3xl+tRhGqClUBzTAeoupJ/mEk3eoj8MpT/aTeSwVinLs0B3G/GXo9UFzEqH4fvcha/Vx6QW8OXikzw7Xn8yP9AW9SaseQ4bi+7K8NmGIfZWMnIq7GSe22Oh83gk7RgpV0NJScw2kpGV8GXnaOzk7jbqFs154lCGN7VaDnXe8nSBOZE7ACIXYXAsnbre4EH+z1ONxHxwt2ZMRtAW6+ZMJ+9MkOCt2IjJmrIdCHEQ8=;kPJEON6Vsg15DzYiVbbraQ=="
 ---

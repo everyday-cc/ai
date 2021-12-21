@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Cloud-based Data Analytics in Healthcare Market will Generate Over $45,000 Million in Revenue by 2031 End"
+    excerpt: "Pages Cloud based Data Analytics in Healthcare Market Survey by Fact MR A Leading Business and Competitive Intelligence Provider ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
+    publishedDateTime: 2021-12-21T05:44:00Z
+    webUrl: "https://www.openpr.com/news/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
+    ampWebUrl: "https://www.openpr.com/amp/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc21914201_g.jpg"
+        width: 650
+        height: 443
         isCached: true
 
 secured: "2q0wbrMB4MG+z2Yg/R6mZr8ehXyxtPMSLLAO0EqQh2VpDY0Tib1J7RrPjZ+7YEdCZ2cLjqZb2UfdOoWMGRoQH2hVZyqReTZd6EflZOynA2nCtSpk53NH5vQ7G09UzLQEPlWA3avwg+MUaDMaSxQi3dZsapIHnuEwQexPMl9whY26RwQNUyKhJ2b1X4LNfWkYVfTM/PaN0KX2X/C+AkEacSqtzUmNzL3UAhz1jHv0VEM6PnKJgewpo9tTjuxF7X94Hwm064O0p4XWSoX6iYsdYbLLvfDMA8LCM6GqWCx/aCAGKe9hPcFSlxSMk1etyY42xfjNxovZvjTpcxpIJ6xAGrwzJHGqo1WcSh7hGHn5LQ/akMyI2hF2eL3Gh6rRSUgoTLDxnDaC9caJtI/dLLgZzxXQHDLDsCWlhBsNQp2CmVqERzGe7+Hxnsl9ihyRIAJ8Dq2fqgq1WWRdtb5n87zqJbVDk2wy4E1H85TgQ8boikXhnhmTXyPhYoAWxuHBtqur87IRD2rIEoUFW3gGm9fUHg==;e8qL50LH9o9dQ1Qj07iJPw=="

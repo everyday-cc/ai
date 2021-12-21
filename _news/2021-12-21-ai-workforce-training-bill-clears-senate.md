@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce’s Understanding of Artificial Intelligence Passes Senate"
+    excerpt: "Home> Majority Media; Peters and Portman Bipartisan Legislation to Help Improve Federal Workforce's Understanding of Artificial Intelligence Passes Senate Legislation Would Requir"
+    publishedDateTime: 2021-12-20T19:54:00Z
+    webUrl: "https://www.publicnow.com/view/2F6C4D0DD6C8B3B1C504574A56FC7ED48D2484A8"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
+
 secured: "7vywMUKhvbcHALw4RvLKA2c94vRQaErsemXv2XassNzSMvsk8xN8HIUjuKDwJdk4d5uqm6JI4qj325CUalHgul/+Wlc4RXrz8s+ojgWmvM7/WPjs6cKA1Xhny6a9W83qYXT8OUkfaE21T6MQiGNd9yn8U01CmO1PGUfRIyURpMb5gvhfu7kJVb/HgjLha+fOYYtBGF1o1wqUHA3wa6Yrkf94GeFaaUsxDtnH5KZZhkHkutJPWAiLO/Bqd5034L6e0UlY/k4Z7oW3FaqdYomI3IX6WgokcqGuxQWcfQ4xjE1bNsoU0oYnQeKKe9E/R+ci9we1oeAVA5nk3AjNRSo2dsZuraCPlA98BpruBz075nFwIFCGHrybRyDICLsU2rR2c5XFEJwWQcBnuuPY4pc/l3G9uvKQLxi/A8D2hdrMAEbtmpjJDUx0h5sBDcGEKI4uKbGzBVhXVEttssnTkiOEQX42CTHrM2VHU0GiOG03fLHUhFPzTyNK33MNqf1tNsr36mWJmnRw0/64u9G3YEMMqA==;FDvhpTUk+keuTM5MIFnHrw=="
 ---
 

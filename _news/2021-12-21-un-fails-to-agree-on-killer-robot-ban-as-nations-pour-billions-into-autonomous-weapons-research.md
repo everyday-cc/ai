@@ -2,19 +2,19 @@
 category: news
 title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
 excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-publishedDateTime: 2021-12-20T20:03:00Z
-originalUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-webUrl: "https://www.seattlepi.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+publishedDateTime: 2021-12-20T18:03:00Z
+originalUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+webUrl: "https://www.nhregister.com/news/article/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/UN-fails-to-agree-on-killer-robot-ban-as-16716153.php"
 type: article
 quality: 61
 heat: 91
 published: true
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - AI in Robotics
@@ -65,6 +65,6 @@ related:
         height: 1004
         isCached: true
 
-secured: "UtoeaGqZwps9RHwlhCn7Dyq3lQ59nykWQNvL5ectfTTYgCnrL8akag43cZq+s8vFownhpeWfllMT0KWP0aH1NizUDYBA3HsU45Qari+BbuJjdalintWn7VFMXWZr3GhjjR4hSqLRB+TIada0kDZUkzQ9cFWdh99EZX7sfLiGJe9c1Zhu5DH+Qi0XqsO9u2CF4hikWv288jtW3qliAksnMT6AQmVnh2QObbc6k3d2K8VgYQBbuPFT9sXTIwY2NFGhlQoI+CgFlisUuAI2qwUS+fm7L9OoNFrHBc2nZuCbVq34aQXebfFEqulo+InQxdFpT4bAgKvNzGoDpeKDWMni23x3zikPegYmELp7xGq7YKo=;XG7hQeOtMkL+j8Ip3VADpQ=="
+secured: "b9g5H9Rg7uK8x+iP3Wfdb42DZ03l++kdu18P3t354C4bdI5OqjzXHp4DKy2vxcaCb6hejTVShENG4UkWmpJpwKGQYLdWwifzC706lgCrMEfoZxKdXR5MYC9hHMVab7g3HRCt+xVjx4W0VsSGXHIb4Pg+IIFuOyoHTKG5fKz67DFnCrLTXGkI6eMkKtPF8BEiQSEdWZ0epam4n7SNzjahuRqs1D0vn8W+t0QXAnD3KLeyR5In/yUgLulKboqX2bRfjGEpt7i9o0bc6g55KZHnd3PNzWP+LgRv06jY/1bP0Kna8Oc/pg/2p0kbxsajDuwc/naGPfYVjrRlMH4M88pgj3X8ugS1vqyoZysEsdlgKeg=;wlavP5KmsNS9YpmSvKovVQ=="
 ---
 

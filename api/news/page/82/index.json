@@ -2,6 +2,153 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
+      "title": "Scottish schools serve up facial recognition for school dinners",
+      "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "publishedDateTime": "2021-10-18T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
+      "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
+      "excerpt": "The cloud offers substantial benefits for financial services firms, but regulatory concerns have historically hampered adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/higher/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "originalUrl": "https://biztechmagazine.com/higher/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/higher/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/higher/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/higher/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "publishedDateTime": "2021-10-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics.md",
+      "title": "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics",
+      "excerpt": "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
       "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
       "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its",
@@ -1005,145 +1152,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages.md",
-      "title": "Azure AI empowers organizations to serve users in more than 100 languages",
-      "excerpt": "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "originalUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "publishedDateTime": "2021-10-17T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech.md",
-      "title": "Facebook hits back at claims its AI has minimal success in fighting hate speech",
-      "excerpt": "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "publishedDateTime": "2021-10-17T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-gitex-2021-this-robot-can-see-hear-feel-like-a-human.md",
-      "title": "Gitex 2021: This robot can see, hear, feel like a human",
-      "excerpt": "German firm Neura Robotics is displaying a range of such robots at the Gulf Information Technology Exhibition (Gitex) in Dubai, with cognitive abilities that enables them to think (like a human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
-      "originalUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211018/ARTICLE/211019099/AR/0/AR-211019099.jpg&NCS_modified=20211019044142&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
-      "publishedDateTime": "2021-10-17T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

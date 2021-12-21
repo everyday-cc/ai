@@ -43,6 +43,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
+    publishedDateTime: 2021-12-21T06:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5184800-global-and-japan-fever-detector-ai-thermal-camera-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 11
 
 secured: "zeOhdPBnjS5D3IN9K+HOdL0J2B/+ZHF/kCuyrGAs0GJkilR9qzchSu3fbQDr5UXshtaENO5Q6EIgwDmquVUk5fQeT6roz5qf9blhaWsB0LHVfNhY6+GvypFY62O6Pf2W2fIoUBDWpNcLY8s6E0j0BWTbiEqrtP+46QxZ6l9C82y/76BD5wK8wtbvzTj2ccY4rj2B5Rd7ShkzqcHcuT1XsJlL/4a7jpQTl3MaU1Yei7PHIG184MElXqXBpKY1ixC8jErmp6iNVc11lgG4mtkFpRdHH429GOVCXL6lgaLSEgaqbou72aCN/XIxgFJ/UyoDQKH+j5oWuosINTSaKc7lo6a3yqp0KG+zy6lz9t/jECN8WigguZaZi3JJcrp18nGm18DJ/SbcrEpzUfxJS9SlSIi/gFk2jjBhaRYktzv2FSha2A6LMfly6d9mSxwe4uvFnxv7g3dBG6Dzvh0a5YYeQ/eIhuU279Tk1+8QlN+oPPKJnktnZ3HIgfbL42SwYQMUvpYy53friExMwAzVw8FmhQ==;zuh/xC7+fgWJu79C7Ge98w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-mor
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Hulu’s Mother-Android Review: A Robot Apocalypse Drama Brilliantly Focused On The Human Cost Of Survival"
-    excerpt: "Battalions of human and android troops marching towards each other with a constant blasts of laser beams tend to be some of the most immediate concepts that come to mind. You can blame decades of sci-fi/action projects conditioning the audience to almost demand those sorts of things,"
-    publishedDateTime: 2021-12-16T14:00:00Z
-    webUrl: "https://www.cinemablend.com/movies/hulus-mother-android-review-a-robot-apocalypse-drama-brilliantly-focused-on-the-human-cost-of-survival"
-    type: article
-    provider:
-      name: Cinema Blend
-      domain: cinemablend.com
-    quality: 22
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iD5BDkjgCNGH2en8juBuqb-1200-80.jpg"
-        width: 1200
-        height: 514
-        isCached: true
 
 secured: "5HCLtA8FvoWCpopuHVweAAYnOPof3d4GnOQMjcnOz53T9M20NVp7WoWvX5DCMJQ62uYqbyFZAa3zzHf3RZ9uoKAh/ySgqy6/bjDYzZ/NPBv/feUqJtDMeiQ5LEpZhwSiL0ZUafbgNgGkiG6HDOtRhNi0zcBJua5hT3l9Zd4jf/wea7zYPe7h8OFj8w9sZuo/GeSszjVH1ORiMeenHn8gdcXvHXc7OKYkMigZPeIRz5fqFxSeJaF1FFsd9s4TIhjM/zA8588E+6X70rnYVb+pcIZcRL8iFKoDDmczwD1h99nLyWDQ8CB5hgJXwSyIQuUV4B5QtILTtSqjrAsdEb2OB++OQxs+ekmjc9rFlpoVv5bD7mU6sFZk0rq+ePW7sYNc9C6N/KzUhvkqttmKb4rCt1uwT5a4HPVXJp3txeOEdfPIopYSCN63pkhHvpgKdL1fN5c8nzOPZlvyeoSHSBXA9YP3hG6dN99Vac9vuPolHIr5y/VDimhiFZ9FAvjeX8Ua2NisTK0G/dNH7fqo3jcVdQ==;Dmyck1rjCNWpnkQPGuj2Dg=="
 ---

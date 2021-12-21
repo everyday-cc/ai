@@ -85,15 +85,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "MediaTek launches Dimensity 9000 flagship smartphone chip"
-    excerpt: "MediaTek launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the world's biggest smartphone brands,"
-    publishedDateTime: 2021-12-16T14:20:00Z
-    webUrl: "https://www.telecompaper.com/news/mediatek-launches-dimensity-9000-flagship-smartphone-chip--1408109"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "MediaTek launches Dimensity 9000 flagship chip"
     excerpt: "MediaTek has launched its Dimensity 9000 5G smartphone chip for next-generation flagship smartphones, and announced device maker adoption and endorsements from some of the worlds"
     publishedDateTime: 2021-12-21T00:13:00Z

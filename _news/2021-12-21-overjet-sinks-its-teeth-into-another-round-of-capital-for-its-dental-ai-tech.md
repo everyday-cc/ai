@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-anoth
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
+    publishedDateTime: 2021-12-21T06:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5184800-global-and-japan-fever-detector-ai-thermal-camera-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 11
 
 secured: "JiFbeKXeU2piuuzuUw3MVuYrX2z9iFC9Qpc0cn7HoItHWUS97DED0Jo/FYZIyC7uMviAG0GaUVEky08nBHkzp+dicj2wy6D2HjbvxWQObVtc4KizPpRjknt+OqPZyZrG6t8INzSNDtSbiTvF2WAEgvg8jQa1Yk559dqPvPEeIgJvMlR/9rw3rd5FdKJK/1o0Ho2PYLdOIK0Uxi2+2mUX6pVTc/uQwSHlCUvQ7Hs+bipGa8tHzVKtHUeJUZG6bOPhV1X5XsCm2JZAsgR8AG+BTTNj937ux5NlAj0GjTzxXMDwbbw7MvWbrwAqS8KEIPdsE53UkjOeGZXseO2jA667xBF1T5YT/vYY8EfDexQ7AV1xO8OXYpo+A/pcG7MifSvQItB+o/A94KkGl5ZYVBjCOy8wtKfX8ghLRiOVgKKFlir1zJ8K5bKau/yHCLHNW++a+an6LN6IyKDz029v+jTPnTLU3uIAF5BMKFSYBGLV+Otsfav4+Yp/2SXy1n/Plh73T7Kx1nDbEN7aJqJ7MVqMWQ==;2WNhZnbCM/BnQKoAW2Il0w=="
 ---

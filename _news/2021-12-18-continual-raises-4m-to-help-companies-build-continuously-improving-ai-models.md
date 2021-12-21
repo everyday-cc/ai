@@ -41,6 +41,20 @@ related:
         width: 680
         height: 518
         isCached: true
+  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
+    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
+    publishedDateTime: 2021-12-21T05:07:00Z
+    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 37
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T15:14:00Z

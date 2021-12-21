@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New model improves accuracy of machine learning in COVID-19 diagnosis while preserving privacy"
-    excerpt: "Researchers in the UK and China have developed an artificial intelligence (AI) model that can diagnose COVID-19 as well as a panel of professional radiologists, while preserving the privacy of patient data."
-    publishedDateTime: 2021-12-16T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-accuracy-machine-covid-diagnosis-privacy.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-model-improves-acc.jpg"
-        width: 599
-        height: 292
-        isCached: true
   - title: "Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic with Deep Learning."
     excerpt: "Due to the COVID-19 pandemic, vaccine development and community vaccination studies are carried out all over the world. At this stage, the opposition to the vaccine seen in the society or the lack of trust in the developed vaccine is an important factor hampering vaccination activities."
     publishedDateTime: 2021-12-17T00:15:00Z
