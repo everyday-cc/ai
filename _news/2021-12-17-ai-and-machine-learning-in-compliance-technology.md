@@ -57,6 +57,20 @@ related:
         width: 900
         height: 375
         isCached: true
+  - title: "Bridging divides in AI, machine learning"
+    excerpt: "A team of health equity experts from Johns Hopkins have joined a $50 million National Institutes of Health effort to close glaring gaps in the use of artificial intelligence and machine learning in health care and medicine among underrepresented communities."
+    publishedDateTime: 2021-12-21T17:03:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 54
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "x6kAK6qYJvdNA3Jet/wvy4OfxbyfoabgP4l9lnHJIcJwqg0ybNuHtxI6Dfa9yrMp5kLOW1m9j/cuSnXplwQQcTigDn/+KwMeKuN6aZ+5xqlCopeXA9Zhz1G2v0KV9PEBSaQ83UiOO9nWfBChbZsvTK5DOxxcEGfNIxwsQDku+JcfBVHfTz9Rh+aj/D+UstUIqIAoU7g1MQRam/YN2leJqfBhIxvuxsFQRz71MMR9HcXnk7tsAxBV2z3extN0c5vUlBxE1unp3/dEG5LvITd2dU2n710gaa1pvBGEHaOMb246yTvVhY4Q10SdttfgGttfQ/LU1m3GiOFW4XTC4/1+JU299ki9oCz565CICctvXgFH4QKdxbGPs9cmbdUpvzdoxfRE/OI9TjW4Wlh0h4tldCZd/fCbESHxu5J4u3UjIFDBGmaPt5xwhjVX0n/nIvjjubk8jfThWpSPNwNeYJDjQInzNjhMK9tWd9AhTynk78efBkICnCoRnu2rxvoS+a4TdV8AwkSp/G/eZ4LuBaPocA==;9Rx28liuuamu89qRoD4PYA=="
 ---

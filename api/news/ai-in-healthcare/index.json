@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
+      "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
+      "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
+      "originalUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
+      "publishedDateTime": "2021-12-21T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-how-automation-is-transforming-healthcare-jobs.md",
       "title": "How Automation Is Transforming Healthcare Jobs",
       "excerpt": "Both current and future doctors will need to navigate a sea of big data as digitization and its allied technologies wind their way deeper and deeper into the fabric of our daily routines and work life.",
@@ -51,6 +85,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-bias-in-artificial-intelligence-impacts-drug-development-aicure.md",
+      "title": "Bias in artificial intelligence impacts drug development: AiCure",
+      "excerpt": "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/bias-in-artificial-intelligence-impacts-drug-development-aicure/13109371-1-eng-GB/Bias-in-artificial-intelligence-impacts-drug-development-AiCure.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1236,92 +1313,6 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-enzolytics-announces-progress-as-it-recognizes-world-aids-day.md",
-      "title": "Enzolytics Announces Progress As It Recognizes World AIDS Day",
-      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-tools-for-elderly-care-researchandmarketscom.md",
-      "title": "Artificial Intelligence in the Global Healthcare Market 2021-2025: Growing Potential of AI-Based Tools for Elderly Care - ResearchAndMarkets.com",
-      "excerpt": "Insights & Forecast with Potential Impact of COVID-19 (2021-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in healthcare market is forecasted to record a value of US$22.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24400000",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24400000",
-      "publishedDateTime": "2021-12-02T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,211 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
+      "title": "A Need For Speed Is Driving CX Expectations",
+      "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b75092791c7247d2ff75e6%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "publishedDateTime": "2021-12-14T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-predictive-of-response-in-aml-patients.md",
+      "title": "Cellworks Personalized Therapy Biosimulation Study Identifies Novel Biomarkers Predictive of Response in AML Patients",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from a clinical study using the Cellworks Biosimulation Platform and Computational Omics Biology Model (CBM) to predict therapy response for individual Acute Myeloid Leukemia (AML) patients were featured in a poster presentation at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition held December 11-14,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mycare-023-finds-cellworks-personalized-biosimulation-a-stronger-predictor-of-therapy-response-for-aml-patients-than-physician-prescribed-treatment.md",
+      "title": "myCare-023 Finds Cellworks Personalized Biosimulation a Stronger Predictor of Therapy Response for AML Patients than Physician Prescribed Treatment",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from the myCare-023 clinical trial, which found that the Cellworks Biosimulation Platform with its Therapy Response Index (TRI) reliably predicts complete response (CR) and overall survival (OS) for individual Acute Myeloid Leukemia (AML) patients beyond physician prescribed treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-apexai-raises-over-56-million-in-series-b-funding-round.md",
+      "title": "Apex.AI raises over $56 million in Series B funding round",
+      "excerpt": "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "originalUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group.md",
+      "title": "Bias in AI-driven recruiting subject of tech watchdog group",
+      "excerpt": "Artificial intelligence software is increasingly used by HR departments to screen job applicants. A new organization plans to prevent \"AI\" from producing biased results that influence hiring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/",
+      "originalUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-machine-learning-mlperf-and-ai-benchmark-4.md",
       "title": "Machine Learning: MLPerf and AI Benchmark 4",
       "excerpt": "Even as a new benchmark in the space, MLPerf has been made available that runs representative workloads on devices and takes advantage of both common ML frameworks such as NNAPI as well as the respective chip libraries for each vendor. Using this benchmark on retail phones to date, Qualcomm has had the lead in almost all the tests, but given that the company is promoting a 4x increase in AI performance, it will be interesting to see if that comes across all of MLPerf’s testing scenarios. It should be noted that Apple’s CoreML is currently not supported, hence the lack of Apple numbers here. Across the board in these first four tests Qualcomm is making a sizeable lead, going above and beyond what the S888 can do. Here we’re seeing up to a 2.2x result, making an average +75% gain. It’s not quite the 4x that Qualcomm promoted in its materials, but there’s a sizeable gap with the other high-end silicon we’ve tested to date. The only non-lead is with the language processing, where Google’s Tensor SoC is almost 2x what the S8g1 scores. This test is based on a mobileBERT model, and either for software or architecture reasons, it fits a lot better into the Google chip than any other. As smartphones increase their ML capabilities, we might see some vendors optimizing for specific workloads over others, like Google has, or offering different accelerator blocks for different models. The ML space is also fast paced, so perhaps optimizing for one type of model might not be a great strategy long-term. We will see. In AI Benchmark 4, running in pure NNAPI mode, the Qualcomm S8g1 takes a comfortable lead. Andrei noted in previous reviews with this test that the power consumed during this test can be quite high, up to 14 W, and this is where some chips might be able to pull ahead an efficiency advantage. Unfortunately we didn’t record power at the same time as the test, but it would be good to monitor this in the future.",
@@ -924,238 +1129,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
-      "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
-      "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "originalUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/13/Expo-2020-Dubai_17db5173489_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "publishedDateTime": "2021-12-13T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
-      "title": "Machine Learning Trends for Marketers to Watch in 2022",
-      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "publishedDateTime": "2021-12-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
-      "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
-      "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "originalUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Unique-founders-.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
-      "publishedDateTime": "2021-12-13T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-privacera-named-top-3-data-and-ai-startup-in-2021-datanami-readers-and-editors-choice-awards.md",
-      "title": "Privacera Named Top 3 Data and AI Startup in 2021 Datanami Readers' and Editors' Choice Awards",
-      "excerpt": "Privacera, the unified data access governance leader founded by the creators of Apache Ranger™, has been recognized in the sixth annual Datanami Readers' and Editors' Choice Awards in the Top 3 Data and AI Startups category,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
-      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
-      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "publishedDateTime": "2021-12-13T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

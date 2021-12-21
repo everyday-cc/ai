@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facial Recognition Candy Dispenser Only Gives Out Treats to a Chosen Few"
-    excerpt: "Vladimir Janjiš found a candy dispenser on Aliexpress, which features contactless hand detection via an IR emitter/receiver. While a neat device, this wasn’t quite good enough for Janjiš, who augmented the dispenser with an ESP32-CAM board for facial recognition."
-    publishedDateTime: 2021-12-17T02:32:00Z
-    webUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7"
-    ampWebUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 58
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1386311/_px1buzoma2_blob_copy_dnaqh34Atw.jpg?auto=compress%2Cformat"
-        width: 1020
-        height: 573
-        isCached: true
   - title: "Our casual use of facial analysis tools can lead to more sinister applications"
     excerpt: "On Dec. 14, the governments of British Columbia, Alberta and Québec ordered facial recognition company Clearview AI to stop collecting—and to delete—images of people obtained without their consent. Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations,"
     publishedDateTime: 2021-12-20T12:17:00Z

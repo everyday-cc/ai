@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
-secured: "g+5B/16Z6g+MLKD68Iw9bwiGVcq2lUg4Vi9eKoQ7e19l6+T+NFrfKvk7ChflkFZpOQ2NWZrkmIFdS3zgz84OfLvB4DWAzbkYX9ZIulYuq3PcSHQ1rSD1hMgbLVG7z1iU4jqCoLF3DJvdc0Zi3HIIw/1MF7JAHafxujP8I1jckyQ6zSlwcQTauOFaWYJrKV6h7824BQwm7fVR5KqHFpUiTwnvNwrntwEfvLIfbA9EuYFs3TIvJzQi9uTxyR6YAnVLJooZ2M9HImGLLmj+jZR3L6mluH6nv+ZkMRAOuNHR6Sd4z3h4Akl8zejUNDb0GnOBDLhR99qqCmP3LjDdbZrXosjGfIfJDGgob4knSDttyYE=;OcoMsYOgCcW8BHgAsgvR/A=="
+related:
+  - title: "12-year-old makes history and receives congressional recognition"
+    excerpt: "Sophia \"SJ\" J. Thomas, a 12-year-old chef at Dickerson Middle School, received a Certificate of Congressional recognition and a Letter of Congratulations from Congresswoman Lucy McBath."
+    publishedDateTime: 2021-12-21T17:41:00Z
+    webUrl: "https://www.mdjonline.com/news/lifestyle/12-year-old-makes-history-and-receives-congressional-recognition/article_a35f6d34-628d-11ec-bf11-a7a06351c058.html"
+    type: article
+    provider:
+      name: Marietta Daily Journal
+      domain: mdjonline.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/1/ad/1ad072fa-628e-11ec-8e03-0722218eff2b/61c220ad9c7a7.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "xRzWnKLnB0Ayq0DRWbz0H1bJxwuzyidzsAoA0PS+r1bnBVwr6hpzdhYE9Y2HRhME8i4QQX9xu/k2CexdscZWhUT3slaAlx+J37/aekmuwVljcfSnZIxkzCgCoiZcLfbxrVa06mTnhZ1sra3fxa9Capji46RB/uqN+/PsMJl9VhiOTgJCjQikXsyF22bf02ECa32PonWFP2Wdpm0S2yrdyCsLglAANCr/QfAzd1MRqzjstRRjwiGRgd6b76uofvdyhsjlxTHcD0mZx61bLfkzybs2racAr4kJYdMU2aeTtmA/ut7n2vBSMB9iEfIT/tzBtfRKpyxLzDgm8YWRgEl2hiJUrQnUnSE4GMCPpJEq/062ldpg5eUnzzX2UTiLCNcl/1Hmc5pb/NMKbt5t8gKTZCVw6VO4DRF68HS0r7ZuS5ZP3olG6bUbfJxVvtVC0V6ZB8dKpErIRtNsKt1jvLPXmITj6dny7hRIwOJ6b5R3lGTcuiOGDC6wiZYHRPmqd2b4+AXa+MjUwr8OiuyDLOnyZA==;Qi/03ZywQZWCHGZGM839cg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/purnell-taylor-thorpe121721.jpg?itok=GgDj2ZbR"
         width: 900
         height: 375
+        isCached: true
+  - title: "Bridging divides in AI, machine learning"
+    excerpt: "A team of health equity experts from Johns Hopkins have joined a $50 million National Institutes of Health effort to close glaring gaps in the use of artificial intelligence and machine learning in health care and medicine among underrepresented communities."
+    publishedDateTime: 2021-12-21T17:03:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 54
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "tltcxGYyJOlbksGq9sbOJvbFGA0K1ZhNxPNariPDRqUrz/i9xoxXS9XOKDhyIh/GFLXsQBo74qUrON7zBmmiwwDtzdUhiUEjDi09hsI84W1GO8drcub5U9m6dSxZDyzM0yV+LMHDjhkMy1pa9K+hCYitPLegLYctszJjbO2FHI0MD6owyl/MTXWRStcjqRHt+4yZJuXyKYyhN/ha8ZAbJWODHUqrqJw6NItsf09Ry58KfVlW5Wn9z+sJ1XzF840dQzhAEgtWb3x/Bpr3i6fjlVh4MoIUoQR2GPksQ+37ixrNGYE0B2ASBGrAprenELhbDJL8x9zmft0brnZgNgIN8GtobRAXUTmcidQCEEMbxJM=;1MPo86IbBe7Lo0QdvBHVcw=="

@@ -49,6 +49,34 @@ related:
         width: 280
         height: 250
         isCached: true
+  - title: "Galaxy S22 Ultra Main Camera Could Support AI Image Enhancements"
+    excerpt: "Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22"
+    publishedDateTime: 2021-12-21T18:32:00Z
+    webUrl: "https://www.techshout.com/galaxy-s22-ultra-main-camera-could-support-ai-image-enhancements/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2021/01/samsung-galaxy-s21-plus.jpg"
+        width: 690
+        height: 480
+        isCached: true
+  - title: "Galaxy S22 Ultra main camera may support AI image enhancements"
+    excerpt: "According to the noted leakster Ice Universe, the upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence,"
+    publishedDateTime: 2021-12-21T18:57:00Z
+    webUrl: "https://www.suryaa.com/test-112732-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.html"
+    type: article
+    provider:
+      name: Suryaa
+      domain: suryaa.com
+    quality: 39
+    images:
+      - url: "  \n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/samsung-s22_8025.jpg\n    "
+        width: 500
+        height: 268
+        isCached: true
 
 secured: "XBNqfKC5c1Hhx57pXYBEL0dJQeegWnwf3DNdEOnvMfGFuql192m+5J9makdt1YR2LPDtwx3gJvDhL2ef/NVS2UvjKmMz1/3uHz7XR686X9lZpFzVRJFa9/0kzB5t59sgy8L3URQj7+w855vagWf9MUzwEqqQeHSGQSjvan4qqMAEwYyVMhbRLka2fI0FnJfq9a1LseZPYUoeVDi0smdxJpC9461G1hRgxSLxEpbf+h5oogw1xZuSTnbwqqHCgTitBp991H/k+Penii1k3Y9cmypggSktfUirdcrSVKM3yIZma4KnuaMObvFLsTKgbwQpLiBNdfFvu6eV/gTYXkKzxTwqQrSTpzymgbccTwNZdFw=;ndfOoH4WE7unxrNdBf+foQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211220/Researchers-use-machi
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211220/Researchers-use-machine-learning-to-shed-light-on-genetic-mutations-linked-with-spina-bifida.aspx"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Machine Learning Identifies Genetic Mutations for Spinal Disorder"
+    excerpt: "To treat and prevent spina bifida, researchers are using machine learning to examine genetic mutations associated with the condition."
+    publishedDateTime: 2021-12-21T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-identifies-genetic-mutationsforspinal-disorder"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-identifies-genetic-mutationsforspinal-disorder"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-identifies-genetic-mutationsforspinal-disorder"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-164326574-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "YqEGGXyIEsRNgfZPaN58HOtQInF3ka+gV+4QKJV/R9GWDE8/94C4ekYX3I7+9s4nmHoShQov7WkU3nq/Rs+6MW8iDPvtYMjJoonq7N11KeR+hwqvWWFxm/4PozeTiU5dsVBItCYdAxQQvf4Meh4Gg6FYRslBx926pk2H0ECu4qr4vYvTKidcGNDRqIx+NelE7ExathwhVmwW7N5m2ChOGiRe0f9rbJ5x7agjUQt0vpEd2y0IsGCDA4YCgJPsJSHX2ne7sBs2MFfbrjsiRvvx2d9BsQWpWZDMQPwc4jdQO5srh+sIiSvnZhAFhgfoV0nEiw7Byb1jiyvrNMAP6gMCIAevtJu44o18VbAgEZVjg6Q=;G1Wapmb/Yo1LsqZAsoa/mQ=="
 ---

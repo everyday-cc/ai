@@ -2,30 +2,28 @@
 category: news
 title: "Face detection in untrained deep neural networks"
 excerpt: "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks."
-publishedDateTime: 2021-12-21T16:40:00Z
-originalUrl: "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.html"
-webUrl: "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.html"
-ampWebUrl: "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-untrained-deep-neural-networks.amp"
+publishedDateTime: 2021-12-21T17:13:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/938633"
+webUrl: "https://www.eurekalert.org/news-releases/938633"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/face-detection-in-untr.jpg"
-    width: 750
-    height: 360
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/287aa929-bfb7-4958-9f9f-184912fa866c/Rendition/low-res/Content/Public"
+    width: 700
+    height: 336
     isCached: true
 
-secured: "qTxIrNj2wUPDORGzwPLzdmQDPrMKjSBaaYuDnfbDAyoxAEXYdsn75Js1wiPZp6QbCsv93dMbk//NivHM0MgeBgX9kiLLYySsZntS/Fdda1rGSsj6KzuKOxENQIhDWMwzH92NY1bb8FT45rYPZFwntnereZD076iLSDobXcL2tKGrl/6r0a84rYdTDGVmZ8NtK+Sc/oy9XUtrz/fSK33arbCQxpcRBnmSskYusbxD1W8DF5W6kiUqUVsynmzRUAFXDym4ZzcHY8MksMkUHx6g2NuDcBWkz+9QIxQirV50+IuDGdW1Or/XS6n1ks9BMGk86QgZ8hqbXu5xRIP6S6wm/jRuOBWFLrW5SrG3Wv+p5xs=;BVPQxZ9/oJCFln34UIjXVQ=="
+secured: "NAbgbVXQJ5zhfWCsdUwSdaxMIy0pEMBxNoCU0+Tg+fkP2ZCBCrhqcZ1ZEPJQOZItizoWJOSwPQmwHoMsPkBxXSb9PEmqzhN7NUNNjO2K718T91abDqGYDLZ3+E8KWxWCViSVCMrYletj4jYqcbnIFpF4ljHK2QaynDpVqn1bjq1J10nhsqci/fe1o+DZdQHLSlkG9RTe+WHO7cYix/XQWoGpXUwxb64UCuTu7jtp48RvtXmN7ODAJ/LCjMVwW0u5Wqj2PKK5IHnBGFioFqRG3F3bPzjubBGJEMpPwP8B/+XG2MJ2bnMpgn8YOGgcHjIl7D8FV0APFQV5DWDrDtUL69GQNaLtu77wZvxy7xlCV3s=;nIeLauC0Ad1dFM4WCo3PWQ=="
 ---
 

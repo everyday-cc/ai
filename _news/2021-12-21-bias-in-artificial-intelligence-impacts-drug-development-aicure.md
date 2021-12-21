@@ -7,8 +7,8 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-arti
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Outsourcing-pharma
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T15:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
   - title: "Startup support for biometrics and AI development: Intema joins Nvidia Inception, new NEC fund"
     excerpt: "Intema brings its $100 million AI accelerator program to the Nvidia Inception VC Alliance, NEC establishes new corporate venture capital fund."
     publishedDateTime: 2021-12-20T18:01:00Z

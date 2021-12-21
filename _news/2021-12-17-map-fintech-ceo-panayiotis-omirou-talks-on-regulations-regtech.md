@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/executives/interview/map-fintech-ceo
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/executives/interview/map-fintech-ceo-panayiotis-omirou-talks-on-regulations-regtech/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,58 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Firm Avant Debuts Avant Banking"
-    excerpt: "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more."
-    publishedDateTime: 2021-12-17T02:22:00Z
-    webUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/"
-    ampWebUrl: "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/"
+  - title: "QUALCO RELIES ON SOFTWARE IMPROVEMENT GROUP FOR THE ACQUISITION OF FINTECH SOFTWARE SOLUTIONS"
+    excerpt: "Software Improvement Group and Code4Thought assessed the maintainability of the fintech software assets during the acquisition."
+    publishedDateTime: 2021-12-21T10:37:00Z
+    webUrl: "https://www.persberichten.com/persbericht/103586/QUALCO-RELIES-ON-SOFTWARE-IMPROVEMENT-GROUP-FOR-THE-ACQUISITION-OF-FINTECH-SOFTWARE-SOLUTIONS"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Persberichten
+      domain: persberichten.com
+    quality: 13
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
-    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
-    publishedDateTime: 2021-12-21T15:08:00Z
-    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
-  - title: "Banks and Fintech on Platform Economies - how payments transform the banking experience"
-    excerpt: "The advent of platform economies is a tsunami for the traditional business culture, especially for bankers. Still, Paolo Sironi, Global Research Leader in Banking at IBM, reveals how should the FIs"
-    publishedDateTime: 2021-12-17T06:17:00Z
-    webUrl: "https://thepaypers.com/expert-opinion/banks-and-fintech-on-platform-economies-how-payments-transform-the-banking-experience--1253503"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 31
-    images:
-      - url: "https://thepaypers.com/images/social_media/BFP-cover-3D-white-IBM_LI.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
-    excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
-    publishedDateTime: 2021-12-20T14:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20165303.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.persberichten.com/Images/marcommit/2021-1.gif"
+        width: 290
+        height: 290
         isCached: true
 
 secured: "GhExZ6AwOULnC8LE5rL/jctXzhWIujMW8zr+OkjUvIjr6uNkmRWd8MBWELAXQUg4xK3Nj5V24fSR4tCI+qsVg50mVKFy5cWLXLaxswxfP7uzxW36SkbaiC+CyKB1hQ563j0fJLqh6WTwMqNnEJdLcYWEz6BbTO/aJL/gg/ZrX627XOEYGE3q2Qh9hxIGMBmNdpUWAstZHHtDN8dCo3eASP6PFiSZ2/PKH1HoyWixIEOeCcuKCgzy9j/IwE6tudnZG40D5CY3rel5W6tTJkevdEk1bz7WTPqrWr7q99X6klS+POfN8jsomGue83YaCV2mmEcKef1Nd/9LLKPj8aqvqIXE1KDtQ/doAsE2Hf6a1DuuBSKrmfSgLi8M0UT+EN18k89xrtua0rw+XLpyraVK6b/X4ka2aqxeJyfdm1hcjowNiB2ZCaHzNxEkVSz53ajog6FsJmvERyNGAyrxq4kRiemCA0A7mBJNP0dfAv4niIm6FAYNE6z33GeOh5qamDTX6B/Rvu+xPRrwAHuxU34AIQ==;x5SeC6lH8WiDCNXJ+mVIHg=="

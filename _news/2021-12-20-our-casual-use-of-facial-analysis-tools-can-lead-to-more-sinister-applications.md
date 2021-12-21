@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facial Recognition Candy Dispenser Only Gives Out Treats to a Chosen Few"
-    excerpt: "Vladimir Janjiš found a candy dispenser on Aliexpress, which features contactless hand detection via an IR emitter/receiver. While a neat device, this wasn’t quite good enough for Janjiš, who augmented the dispenser with an ESP32-CAM board for facial recognition."
-    publishedDateTime: 2021-12-17T02:32:00Z
-    webUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7"
-    ampWebUrl: "https://www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/facial-recognition-candy-dispenser-only-gives-out-treats-to-a-chosen-few-f6c6ff64c2a7.amp"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 58
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1386311/_px1buzoma2_blob_copy_dnaqh34Atw.jpg?auto=compress%2Cformat"
-        width: 1020
-        height: 573
-        isCached: true
   - title: "Tag: Facial recognition tech"
     excerpt: "Opposition to Build Back Better Act provisions that would benefit polluters comes amid reporting that Senate Democrats plan to delay a vote on the package until 2022. At NationofChange, our mission is to help people create a more compassionate, responsible, and value-driven world, powered by communities that focus on positive solutions to social and economic problems."
     publishedDateTime: 2021-12-17T14:30:00Z

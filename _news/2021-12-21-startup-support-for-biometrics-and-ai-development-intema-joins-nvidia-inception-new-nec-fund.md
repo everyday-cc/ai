@@ -38,6 +38,15 @@ related:
         width: 750
         height: 435
         isCached: true
+  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T15:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
 
 secured: "8mgwjh6e62IffDM//TZLxTmQuwpknvEtIGbR2TJbgq9wHRT5kRR6e+BNZvXvNe++AdHANWVy8Q4w68QJNhf+A09LqQlGL7kPEFvhriRbwd20gQ1YgGW7F/KifZpb9u9+3iQg63V8SwPbmPcCOnnYH/rj0Y9PL57+kbsBUlJ9ohaDdMk8PwG4cooIsYAfwojyXsLOwBt8rTWtul44HPbIIrz1JKbaIGkSsvrAf3tx3jXOis4Q040KWWflU42w5ZMQECY1Mu26Fv6xhen0dXre0cDBb1yRiW2uTnjaZtLKjow3QMDpFIkTGkDFvyujUv0E2uGmOHj3EyEMmhI/tfLOcvC0BYTrTmuWXPT0CzWm+W+W6souZSEVwVFC7MXRfTw6xsRPYvsLRcyOMmvM56ju/kaPxaeIjkUqSIVgo+8n+cMpPC6+1yxwu9Bh1NQ5bMVEdF12AkRofCH7rfccAcs9p0d+guT/lQyrcR+MzQXz1NDi1ebowbxbzdSTqxW3G1RsxmRInZz+QijFkBP5hQITmg==;lury+ldTNCxRf30l8rn9Lg=="
 ---

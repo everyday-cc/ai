@@ -42,6 +42,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Watch Now: How robots and AI are restoring ancient Roman artifacts"
+    excerpt: "A team of researchers in Italy are using an intelligent robotic system to process, match and physically reconstruct frescoes and other shattered artifacts from Pompeii."
+    publishedDateTime: 2021-12-21T15:15:00Z
+    webUrl: "https://www.koamnewsnow.com/i/watch-now-how-robots-and-ai-are-restoring-ancient-roman-artifacts/"
+    type: article
+    provider:
+      name: KOAM News Now
+      domain: koamnewsnow.com
+    quality: 34
 
 secured: "bZ9R10Rn2Y3L83wDwpIJmLYTv4ze6jXev5l6CixzXnlGxcmii37mmDmByZqLOLn0BpbnoPB3FOD0Bn1lX4thhwxdFJB3tI840vLxwfwRe1wBthz1vE2xAcffJea79N8tInxEL4Sx7tEIuLqgUElixEhtOiATetZ+R0dojUY0DSEPTfSJLZqUoAoH0loAD+0oSg+WtbJUvdXTU73Xq1M0cTTiJxxOYPOQnPYsn0+VMcL9awaCtY4Xvyvw05ui84Q5uA3iG2FfgC7bMu8GaOvG8wDTUraHT0cR9IMFm57/E/D871/Jgd0l4wO0O1j8MA1LjgXU8VlUy37WzR/+bGGweDIb/b1Q74ijhlWc42++zCw=;dyHMz77Oyje1rgpx55g/4Q=="
 ---

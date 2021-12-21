@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch Now: How robots and AI are restoring ancient Roman artifacts"
+    excerpt: "A team of researchers in Italy are using an intelligent robotic system to process, match and physically reconstruct frescoes and other shattered artifacts from Pompeii."
+    publishedDateTime: 2021-12-21T15:15:00Z
+    webUrl: "https://www.koamnewsnow.com/i/watch-now-how-robots-and-ai-are-restoring-ancient-roman-artifacts/"
+    type: article
+    provider:
+      name: KOAM News Now
+      domain: koamnewsnow.com
+    quality: 34
 
 secured: "2JVqLaNDxXOFRUBSm7ppuMi29M5ocgnUArczto1WWg0B0rToKJIU73Ce405RtFtYUOyyLsqAk+smT9WZcUcLdTUt3u8q65FMSgLkxBF1Ru+uCIBLs0x9SJxRJP29HDCfvCZ3pxwUVHEhb20fxsRMI5cDk1zRtmgCRQmasZ2oDdq+JsC1yPyCYb8g0+j1feXkaLe2HFLCVWVpviU16yIKzf9d6QVt2owFC1ZIJHtQOgGBZ+3lesFEr9bV43VwQ5ZAnx+LSosYlGWRM0ckxoRLBiR+IR3HyQPZwkbLMCK9kztq0En1WZdF85y0W0ZueBJqe+EiWDDMmc+cWzSla+E8JH9wtMrAjN6sm1TMFreeuwzHrQPORq1bqdlH2i68rGz7GHtwBizj7MZfPEHHlj+r+bpGR1PA+UERM5DmFGQzxlMC2WG3I5zGdVL4fglS6oN5S2OBF7zBrcPpfJBi1DPWpF7nea4YuTuS1EtlAJSR3jhNk+mz0Tm2be6fHv2agyLIA+CUQi5AGjwPhGSypr/tkg==;cIEyqU9yhbblAkiAatgp1w=="
 ---

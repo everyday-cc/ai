@@ -25,51 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Meta develops AI to bring children's drawings to life"
-    excerpt: "Meta (formerly Facebook) researchers have developed an Artificial Intelligence (AI) system that can identify and automatically animate the human-like figures in children's drawings with a high success rate,"
-    publishedDateTime: 2021-12-18T14:11:00Z
-    webUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/articleshow/88361441.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
+  - title: "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms"
+    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an Elite Partner of Nvidia Jetson Platform, is announcing its plans for the Consumer Electronics Show (CES) 2022 from January 5th to 8th showcasing advanced imaging solutions and AI edge computing solutions."
+    publishedDateTime: 2021-12-21T18:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1031060072"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88361441,imgsize-306444,width-800/88361441.jpg"
-        width: 800
-        height: 492
+      - url: "https://mma.prnewswire.com/media/1713799/Leopard_Imaging_CES_2022.jpg"
+        width: 400
+        height: 214
         isCached: true
-  - title: "Meta develops AI to bring children's drawings to life"
-    excerpt: "Someday, an AI system could take a complex drawing and then instantly create a detailed animated cartoon using multiple fantastical characters interac.."
-    publishedDateTime: 2021-12-20T05:20:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
+  - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
+    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
+    publishedDateTime: 2021-12-21T11:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88383811,imgsize-41518,width-1200,height-628,overlay-etbrandequity/meta-develops-ai-to-bring-children-s-drawings-to-life.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta is looking for kids’ drawings to improve its AI model"
-    excerpt: "With a new software that animates children’s drawings, Meta hopes to build AI that can “understand the world from a human point of view”."
-    publishedDateTime: 2021-12-17T16:34:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-children-drawing-animation-facebook"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/meta.jpeg"
-        width: 800
-        height: 600
+      - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
+        width: 2561
+        height: 1341
         isCached: true
 
 secured: "t276e4/b9OUTQ5Fl2/OFLX949dy+tbnKD4uBmuXyjlPUcXM9w3+L8R6YI+GMl5XxlpZuxXy9Cm1x2ctwDPFRHpN1sn4Yt8DBV8vmjkKkSHbPKZ0aWx9kdyw831sLJ/zUMUWsYQu1W/2atJLeyVPenPfi1RAMwpheaLT68DJ0xwb21g7XWL4y/MEd2n031FQm0SprRm+Y4JfveB1ADRHAsGs8I+rAbQWYfN7yyfqSDm2E38iPMDdSXS/6yPL5EEIIiU8qDYjq1ZstXHIF9cF7ChCGgUr+en0xnoNNBJ3Md1VKTiNkiL2k0POag8h7fCLy5rukT+9+AQ6ajtyRsv8nDxMciS3o6xGHIDPZCDcA5VL+t5OhJ6jsT7TyvKUJ6HFmsor/iHOQ3EoWE8pFMQh4+9ds22tZofI1mBU/ryBx6OVMod1Zwiu1b+/i9RGYW2wbT2atCY8cPvFSkUkISW/AcL+Y8nSSVZzsCr1x6LEiH8mr0daauNtP0hrefld+aEVzNruYvz+pH4qR5t/nDhCfjA==;8dXBhYE/JfFW4yaCeNitcg=="

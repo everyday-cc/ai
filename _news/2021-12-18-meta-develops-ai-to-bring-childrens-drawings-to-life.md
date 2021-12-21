@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-children
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/meta.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "NVIDIA Develops Data Generation Engine for AI Training"
-    excerpt: "NVIDIA is introducing a data generation engine to produce physically simulated synthetic data for training artificial learning (AI) deep neural networks. See more here:"
-    publishedDateTime: 2021-12-20T12:03:00Z
-    webUrl: "https://www.datamation.com/big-data/nvidia-data-generation-engine-synthetic-ai-training/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2020/12/nvidia-launches-a-workstation-ray-tracing-revolution_5fceb7db863d8.png"
-        width: 1920
-        height: 948
         isCached: true
 
 secured: "U0HxuDkjlknGQjIC08oY+VPqwwrb/281D4HobX3cJQkkUr/+mBu1JvuABTOtgCDZqyYWN6tse7gSeC/mzOsZgR37qMLodG6kQFee6CGa5Ij1CM/JUWJiEkMT5HHec1Efl+Wbg66EbjdwIwFSwWQkw4din/f0ToBIYjYmoJtdyvRk5WPBx1k6p+3NpfOapGQONa3fj9Y06eIet8wGGd6MVRRIlPSOAel0Plqb2qNubZo6xoRAolHejnmlBTVNKxoyA9rb/ezHub3uIOlnOK9kqErbD5ch8i/XDetjmtGjQeLkwyCL5zY5ud9rrqfQwG2OaL1Djo1ry0UNcICjwB+mwRwS/Q35Fff3dS/p5h53u+s=;CLwlYtmowBpbUS9jsg+/9g=="
