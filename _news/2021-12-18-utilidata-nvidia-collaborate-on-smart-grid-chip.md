@@ -33,7 +33,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
         width: 2561

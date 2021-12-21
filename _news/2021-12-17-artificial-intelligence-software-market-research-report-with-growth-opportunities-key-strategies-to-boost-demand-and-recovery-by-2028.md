@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
-    publishedDateTime: 2021-12-17T15:25:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence in Sports Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026"
     excerpt: "The Artificial Intelligence in Sports Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Sports market It particularly sheds light"
     publishedDateTime: 2021-12-20T10:30:00Z

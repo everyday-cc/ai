@@ -41,6 +41,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T15:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
   - title: "MAP Fintech CEO Panayiotis Omirou Talks on Regulations, Regtech"
     excerpt: "Finance Magnates recently sat down with the MAP Fintech CEO, Panayiotis Omirou, and discuss the overall industry trends, regulations and much more."
     publishedDateTime: 2021-12-17T11:00:00Z
@@ -56,20 +65,6 @@ related:
       - url: "https://images.financemagnates.com/images/Panayiotis%20Omirou_id_9a3c5e85-1714-4f9b-bdb1-7dfb48ef27ab_size900.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "How FinTech can provide solutions for a more sustainable planet"
-    excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
-    publishedDateTime: 2021-12-17T00:41:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/how-fintech-can-provide-solutions-for-a-more-sustainable-planet.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/Ros-Ads-300x250_HD-19.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
     excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"

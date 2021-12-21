@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
 type: article
 quality: 70
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
+    publishedDateTime: 2021-12-21T14:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
     excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"

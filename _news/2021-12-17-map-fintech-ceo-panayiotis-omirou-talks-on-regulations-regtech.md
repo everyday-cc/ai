@@ -43,20 +43,15 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "How FinTech can provide solutions for a more sustainable planet"
-    excerpt: "Hit ‘sustainability Australia’ into a search engine, and the results reveal a broad spectrum of issues: farming, solar power, irrigation, Great Barrier Reef, e-vehicles, e-homes and forestry, and many more."
-    publishedDateTime: 2021-12-17T00:41:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/how-fintech-can-provide-solutions-for-a-more-sustainable-planet.html"
+  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T15:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/images/Ros-Ads-300x250_HD-19.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 51
   - title: "Banks and Fintech on Platform Economies - how payments transform the banking experience"
     excerpt: "The advent of platform economies is a tsunami for the traditional business culture, especially for bankers. Still, Paolo Sironi, Global Research Leader in Banking at IBM, reveals how should the FIs"
     publishedDateTime: 2021-12-17T06:17:00Z

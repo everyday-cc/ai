@@ -36,20 +36,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Global Artificial Intelligence Growth Opportunities Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. As artificial intelligence (AI) and machine learning (ML) will transform businesses,"
-    publishedDateTime: 2021-12-17T15:25:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-670db50480ab4fdb8a2cbd10b6fbc7ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Worldwide Digital Assistant Industry is Expected to Reach $33+ Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The “Digital Assistant Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global digital assistant market is projected to grow at a CAGR of 32.17% to reach US$33."
     publishedDateTime: 2021-12-20T16:47:00Z

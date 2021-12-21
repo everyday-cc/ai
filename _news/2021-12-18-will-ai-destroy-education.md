@@ -36,6 +36,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "DBusiness Daily Update: Lawrence Tech Partners with Detect-It to Improve AI Education, and More"
+    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
+    publishedDateTime: 2021-12-21T16:06:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-lawrence-tech-partners-with-detect-it-to-improve-ai-education-and-more/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 42
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/12/UpdateLTU800.jpg"
+        width: 900
+        height: 675
+        isCached: true
   - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
     excerpt: "Joint go-to-market enables enterprises to deliver next-gen experiences powered by Innoveo’s no-code platform along with Techforce.ai’s"
     publishedDateTime: 2021-12-19T08:00:00Z

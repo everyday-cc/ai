@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-face-detection-in-untrained-deep-neural-networks.md",
+      "title": "Face detection in untrained deep neural networks",
+      "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/face-detection-in-untr.jpg",
+          "width": 750,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-untrained-deep-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-untrained-deep-neural-networks.amp",
+      "publishedDateTime": "2021-12-21T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
       "title": "AWS Offers Free Online Course in Machine Learning",
       "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
@@ -308,7 +351,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1415,41 +1458,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-will-ai-and-ml-revolutionize-the-financial-services-industry.md",
-      "title": "Will AI and ML Revolutionize the Financial Services Industry?",
-      "excerpt": "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "publishedDateTime": "2021-12-10T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-a
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Consciousness in humans, animals and artificial intelligence"
+    excerpt: "A new theory of consciousness provides experimental access to the study of this phenomenon. Not just in humans."
+    publishedDateTime: 2021-12-21T16:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/12/211220120719.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Consciousness in humans, animals and artificial intelligence"
     excerpt: "A new theory of consciousness provides experimental access to the study of this phenomenon. Not just in humans."
     publishedDateTime: 2021-12-20T21:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/education-partnership-to-impr
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DBusiness Daily Update: Lawrence Tech Partners with Detect-It to Improve AI Education, and More"
+    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
+    publishedDateTime: 2021-12-21T16:06:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-lawrence-tech-partners-with-detect-it-to-improve-ai-education-and-more/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 42
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/12/UpdateLTU800.jpg"
+        width: 900
+        height: 675
+        isCached: true
   - title: "Will AI Destroy Education?"
     excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
     publishedDateTime: 2021-12-18T15:18:00Z

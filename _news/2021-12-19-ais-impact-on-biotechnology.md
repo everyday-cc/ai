@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-bi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Artificial Intelligence Assistive Technology in Hospital Professional Nursing Technology."
-    excerpt: "Global aging is becoming more and more serious, and the nursing problems of the elderly will become very serious in the future. The article designs a control system with ATmega128 as the main controller based on the function of the multifunctional nursing robot."
-    publishedDateTime: 2021-12-17T00:33:00Z
-    webUrl: "https://europepmc.org/article/MED/34873437"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 12
 
 secured: "lZp2HkWbjKRJfRPWi/WM7ha9IMZc7KVWWK5mKk5WUOlq6ZYq1P1QWL+eTYdgAJiRdg6nbT0FswRQ1tUDSOsos/rLefT8rQzh+KUC22N0tfY+ywx5IbxF0Kyf0J4E2yrpI5zuT/DOwnvzNXcOeDjCG70DhtUY3bSLmgEO3TMa1fic9SKEpGP6Of+vLX49db0jVSgmmeimc9GSO+4rgOPQIpU1G7w2CHQYDtQUTRGxnwhdjeb9N4e77ydBTBjjzze1ozJDjs2uZB9L6TgS/WWcx48zjx5C38DSkRkieBlnMdcJg8KUZ8blqcbpU6vd6bh49trwkOj3c84D3JWIblBnKwxuxLOv5PNuuHdSyltdutSCbIgktlKLiy/zdMQYeHPJy1RF7TL32+dCMKXs744T1+ZX+uZTs8Ma3NT1GkkHhHhvbqv0TV3bD/MolV3nmwiS4KlMvkQpAIXKgfq+gJoCILQeugWl/LISfWOZGWLUf0f1o9TeWf84VSIyCLor3IOWOIPTeS9O05b0YmTmWmYY0Q==;cQNrJBObTYjelSbG0JdXPA=="
 ---

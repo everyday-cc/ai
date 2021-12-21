@@ -2,14 +2,14 @@
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
 excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
-publishedDateTime: 2021-12-15T00:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+publishedDateTime: 2021-12-15T08:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
+webUrl: "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -21,6 +21,6 @@ images:
     height: 785
     isCached: true
 
-secured: "FpDGISOmdHoRWLWVmfu5BFUc37PCukW5sK3Aj2FaBShmadVmusBr4JrnVNhb2dnRjwHKF5MrUYWtObPE8AczNE7yJOwLodogOqpZVBCgCXGx5QIjDf5r1KXSD2n999k5Pg7Ib5oacrzJqx0HzT2v9JuH+5p1g+ITGlTyqYdMHqelFN4LWdSBZxT6RkpZEVTyTbtb/tOYj7etx5Nz47YTIO1RPNCkRkWKKn1qVQWdMxBP1ZFw88aROpDRz4E337AQXe5fneMUMXp156oXj/4+qDY4+tD/6JyPqgG9rOQdvrdXFvxsU4/+JB2ED9vGGtTuHue2n4ayMYNrT0bBc8Bcr2DMFRubCifjngtMzs8zUFQ=;bebdbYdH2ULcAT6fNBV6fw=="
+secured: "a0u6IUpEJNRSVpxj7KQofuv3dm5H6z6KH9+9xp0MdMcpyTnAENVNDM14raVblgHPqcsyDuncrjlSkZLqUtcXehBID0WfnbjrIlYfQGfZtw43u+FB66fUc/s18Ii5QMC3zuJ8jlxRO+Rl6laNHPhT4OrGWvRFZCV3vF+oXDLNoqtNJ9Thc4RcnUD7YSzw1aijqV4ns38sNcoz2y+GU3ieqEZp+rjvlyH7JtZeuaa4r4zitSAgRkYXZKGP+wyT3hvV+G5QNo4MU1kTf23t0lC+jGfRKrGENAksbxIBGlNupKCRubK/Hqa8B2iB6WxQe3zPwPly2WNS5S+544FwM6RCfst4eD2w4MwghgU01+65IKc=;tlmcn0MYuVIpuxBsbkXphg=="
 ---
 

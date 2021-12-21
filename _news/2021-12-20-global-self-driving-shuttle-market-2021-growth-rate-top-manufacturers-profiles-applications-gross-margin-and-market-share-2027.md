@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
+    publishedDateTime: 2021-12-21T14:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
     publishedDateTime: 2021-12-17T05:51:00Z
