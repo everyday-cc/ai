@@ -2,14 +2,14 @@
 category: news
 title: "3 Impacts of AI in the Machine Translation Industry"
 excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-publishedDateTime: 2021-12-07T22:13:00Z
-originalUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+publishedDateTime: 2021-12-07T23:03:00Z
+originalUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Natural Language Processing
@@ -21,6 +21,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "yqkXIVEn+HRCV4675hM+XWsUWS1Xa0NnX7ZHRVdMUDagFUCVD54DCa4RQIt8x5KStgcY5ppQKKrZGxh4bpMhkh5NHLWe9MfPyLInficfsjg7CIKqjXD5JExquWou932N4MQ6Y6sdwZDKe8itWGJY3E7V3V8R8dfEvNm6JsPye+qa0QrDLlnqxwq9bWEl6jjQGObSsSt2U25UnBBn2RKbQT4bAqXwJeMbRLZLf0KtXrSQBiu/Ff8ckyZq61jf15q6iaY4GBsvrhybzEK9k/vAbmitPsvLLAKQO90BLRjRdznUEnA+G5v2JosEN4FV8g40OkPdEYXBDsbW9ZUAfe5ucSAlmfCOs8AKsSFn9xRC84fL/hZrei5tW7OMT3pub84UKKzQiJ4rEpKnU3IV33v3kK5nOw4MflQWM+ET2dRjIMd7WIfc3koc8Pwx6gSj8IjuxvVZ7wvryqTVfP47NtwxUtx/AiisOk4IDPmjrtgSkaWWM8sjIjm5tKIq8gWR10minY7r3YUG26l/wmP7JsHbNg==;fQPqRvL/l8geJ1jaHGf5iw=="
+secured: "C0mx/6zDjjJXYx31DuU410JcTduwN7WOKNIIklM8tddFchYNnYB5TpKC1TYAS60Url0fe6hqiUuMWUcEg+XmDNfMbxs08r4EBiUmmUTv/V+SHUKrwShyOsHCxnlAgmMWOi7AM4v5/xjZljK/NiHT0i4FJrDL5pFzImJVaa0v6We02cjhicRD5s3ATBAv/Ktamg6nmKqyacdwFgJvUMWaIT5j/XEOIYYE0FcnvaJ1uo65iLTJ6PamiWudDSiX+wfV+R0DaWYBNOZDbVId1jpxWUssh+8OsO7oiMn/TN3RhYcOO8wyKSBeC62Co44AlKT4EV7+5nRaVnmpZoL6VWihKefGoBnS9xU7FTOx14pBL1E=;7HO8xWfOeyrelIGZVXSfNA=="
 ---
 

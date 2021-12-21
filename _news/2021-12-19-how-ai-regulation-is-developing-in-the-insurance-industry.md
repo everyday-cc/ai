@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Cassava scales up investment into AI"
+    excerpt: "The firm’s chairperson, Sherree Shereni yesterday said in a commentary to financial statements for the half-year ended August 30, 2021 that the strategy was anchored on a sound capital and liquidity position,"
+    publishedDateTime: 2021-12-21T22:00:00Z
+    webUrl: "https://www.newsday.co.zw/2021/12/cassava-scales-up-investment-into-ai/"
+    type: article
+    provider:
+      name: News Day
+      domain: newsday.co.zw
+    quality: 19
 
 secured: "CKSelGaZxnOdXdsd0w7NF8rcFHiaTdTDeiXeSuiZkR2dId6XamK1I7IzyG8fbWQ1WqgO/9LYMXTCVPvRevvzEKlVY/86vW/Fpd5xFLHJ1RmdDVJsBc3im4IMMKTvBr9uk1+Htz3T8f7TbtTDlOa9KvUT5W+0Hhs2aoL5PciBbQNPHR6pRXNCKea/QqVMFv9joTaOyvOJZxart3XjrM3tnSMp2hSz/h+JyqYOdRvnuk8Z07P9cL73m2p4Fl396unjiaksOfSc8P2/v02sHtiXhSn7ehg6SAWbM4WGafQj33fPCigzNwq2TGzK7dvbAXvTM71Em2yc/PxoXID8MOAubhg+/D3aYGpD+R6HFprM6R7G8WKQyGGlQCb3XhQw/BWAhcEvXo/WYtFgh5TU4GXg8z3F0rmXrfZRJHxKH1ySg1MPZWuAHl4CP2npDu5CckEnXInXDNAqk+sEEZKwkaJIKz6Rdet27TbEk/FbhX0MqQg4ChunLCnxjNO6iV+MCzc+ed+zd6ThcRlHqXORXsp/wA==;jRuerCVnCMPgdpS07myXNA=="
 ---

@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
+      "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
+      "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "originalUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49bf43168e0748129940868d7c398b542e442d36/2021/12/16/7d3883bc-3c2e-472b-baee-fed126dee970/screen-shot-2021-12-16-at-1-45-57-am.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1149,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "publishedDateTime": "2021-12-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
+      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
+      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
+          "width": 1024,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
+      "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
+      "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
+      "originalUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH1cEpl6s0bbA/article-cover_image-shrink_720_1280/0/1639609841188?e=1645660800&v=beta&t=5c5NycySk7y80iZeufdnmxALd8jtjexSB-BRVYOYC8s",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
       "title": "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
       "excerpt": "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,",
@@ -1072,153 +1219,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-how-restaurants-are-using-robotics-and-ai-to-relieve-operational-headaches.md",
-      "title": "How Restaurants are Using Robotics and AI to Relieve Operational Headaches",
-      "excerpt": "This and other challenges, such as the increased demand for off-premises, are leading to an increasing number of operators turning to robotics and artificial intelligence (AI) sooner than they expected. What was anticipated to be a gradual shift over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
-      "originalUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Robotics.jpg?itok=WNraG1nu",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment.md",
-      "title": "Papaya raises $50M for computer vision that facilitates bill payment",
-      "excerpt": "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
-      "originalUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1345111192.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/15/papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment/amp/",
-      "publishedDateTime": "2021-12-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th.md",
-      "title": "vivo Y55s available for pre-order in China at $220, sales start on December 17th",
-      "excerpt": "Last week, vivo took to its website to announce the Y55s 5G, the latest addition to its mid-range device offerings. The Chinese smartphone maker revealed the hardware and software specifications of the Y55s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/vivo-Y55s-3.png",
-          "width": 748,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/vivo-y55s-available-for-pre-order-in-china-at-220-sales-start-on-december-17th/?amp=1",
-      "publishedDateTime": "2021-12-15T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

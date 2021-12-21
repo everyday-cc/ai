@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dyna
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 960
     height: 640
     isCached: true
+
+related:
+  - title: "McDonald's Sells AI Unit to Mastercard, Not Giving Up on Predicting Customer Orders"
+    excerpt: "McDonald's says it will sell data startup Dynamic Yield to Mastercard, a deal expected to close in the first half."
+    publishedDateTime: 2021-12-21T22:04:00Z
+    webUrl: "https://www.thestreet.com/investing/mcdonalds-sells-ai-unit-to-mastercard"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/mcdonalds-sells-ai-unit-to-mastercard"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/mcdonalds-sells-ai-unit-to-mastercard"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 51
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcxMzUzNTc0NTgyOTIwODgz/to-trade-or-to-halt-that-is-the-question-confounding-global-markets-as-stock-indexes-plunge-amid-pandemic.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "fzjfCW13i0oIFOqda2SUlrviJCXPNNFgNYMtwB3mcYXGkhCEWSnF0Cr/oz1kkDs+wQ9LixM1uthfu3YoxdWW7yaUjqZuiAC00x+Duv28Wea2TusoLif5uQFS4hJxK/+ZFw2rV0BktuseORnx0vIAeLxZ8UFUgJCOI1ksrzdknvm/e61ZziGK8/xLpu18XK3O6WVEEOkviWeUvMb6nrFWtPgiY1v5HfheGDf9cSTxu1o5nObMee+PL0FCvQdTV9MnOvQvy2t//t9GAYMcdhcCTc4eS95/Idf3kE/YObLsl5P6SNlGx2KqRdaNvGJb8I8SB0qwVfan/WPgeT5jcKn6bzXuZ5S1JZ6xNZdOxc0kpMc=;Tl1F4ce8yBJp6laM743pvQ=="
 ---

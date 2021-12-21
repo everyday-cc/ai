@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officia
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
-    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
-    publishedDateTime: 2021-12-17T05:18:00Z
-    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 52
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "MediaTek benchmarks the Dimensity 9000: faster CPU than the Snapdragon 8 Gen 1, slower GPU"
     excerpt: "MediaTek has gotten bold – it published a video showing a Dimensity 9000 -powered device running various popular benchmarks, throwing the gauntlet at Qualcomm. Long story short, the Dimensity wins the CPU battle,"
     publishedDateTime: 2021-12-17T12:07:00Z

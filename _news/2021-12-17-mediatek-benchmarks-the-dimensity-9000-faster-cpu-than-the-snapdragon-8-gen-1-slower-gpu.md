@@ -43,22 +43,6 @@ related:
         width: 437
         height: 450
         isCached: true
-  - title: "MediaTek Dimensity 8000 key specs leaked, to come with 5nm process and Mali-G510 GPU"
-    excerpt: "As per leaks, the 8000 chip will use the older ARMv8 designs with four Cortex-A78 (2.75 GHz) and four A55 (2.0 GHz) CPU cores instead of the new A710/A510 used in the 9000."
-    publishedDateTime: 2021-12-17T05:18:00Z
-    webUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/"
-    ampWebUrl: "https://www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/mediatek-dimensity-8000-key-specs-revealed-check-specifications-expected-launch-date-1028997/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 52
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/mediatek-dimensity-8000.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "MediaTek Dimensity 9000 Benchmark Reveals a faster CPU than the Snapdragon 8 Gen 1 but a slower GPU"
     excerpt: "MediaTek has taken a risk by releasing a video of a Dimensity 9000-powered device running a variety of popular benchmarks, effectively throwing the"
     publishedDateTime: 2021-12-17T14:35:00Z

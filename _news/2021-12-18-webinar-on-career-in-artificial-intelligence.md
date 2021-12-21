@@ -84,20 +84,6 @@ related:
         width: 821
         height: 462
         isCached: true
-  - title: "Artificial intelligence as a playing field for credit unions"
-    excerpt: "On November 30, a panel discussion was conducted with a focus for credit unions addressing “Assessing risk and optimizing growth for each member”, hosted by Neuton.AI. This event brought together thought leaders from the industry who shared views on how credit unions can uncover new growth opportunities and mitigate risks by leveraging AI."
-    publishedDateTime: 2021-12-17T07:00:00Z
-    webUrl: "https://www.cuinsight.com/artificial-intelligence-as-a-playing-field-for-credit-unions.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 39
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-ai-383075513.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
     excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
     publishedDateTime: 2021-12-21T05:07:00Z

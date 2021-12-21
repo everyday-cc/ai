@@ -2,6 +2,134 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-11-17-bias-in-artificial-intelligence-why-we-need-more-india-centric-ai.md",
+      "title": "Bias in Artificial Intelligence: Why we need more India-centric AI",
+      "excerpt": "All faces are not considered equal by Artificial Intelligence (AI) systems! A typical commercial AI face recognition system most accurately predicts fair-skinned males. The accuracy for detecting dark-skinned women is lower by over 30 percentage points,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/l0y4ir/article32323428.ece/ALTERNATES/LANDSCAPE_615/BL12MICRO",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/",
+      "publishedDateTime": "2021-11-16T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code/article_4675743e-84d6-5289-95d1-0ad97a1f7abc.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code/article_4675743e-84d6-5289-95d1-0ad97a1f7abc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/be/1bea99c1-47b5-5836-aae5-48b920a5b33b/61945c56b5506.image.jpg?crop=800%2C420%2C0%2C23&resize=800%2C420&order=crop%2Cresize",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-fda-clears-ge-healthcare-x-ray-artificial-intelligence-aid-for-endotracheal-tube-placement.md",
+      "title": "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement",
+      "excerpt": "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
+      "originalUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radiology Business",
+        "domain": "radiologybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
       "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
       "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
@@ -1062,153 +1190,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
-      "title": "Rethinking AI: Dire Warnings And Imperfect Results",
-      "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193d54fad2a42abc3707d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "publishedDateTime": "2021-11-16T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai.md",
-      "title": "Justt emerges from stealth with $70M to fight chargeback fraud with AI",
-      "excerpt": "Justt, a startup developing a platform to fight chargeback with AI, has emerged from stealth with $70 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/",
-      "publishedDateTime": "2021-11-16T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
-      "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
-      "excerpt": "IN-Dai Emulya Fintech Pte Ltd today announced that Abhishek Mishra a fintech leader with global experience is joining as the Co-founder and CEO",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1637072197.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

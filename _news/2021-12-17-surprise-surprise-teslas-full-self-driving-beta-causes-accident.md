@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Carscoops
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Video games on Tesla while driving raise concerns"
+    excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
+    publishedDateTime: 2021-12-21T22:20:00Z
+    webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
+    type: article
+    provider:
+      name: WBBJ-TV
+      domain: wbbjtv.com
+    quality: 54
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
     publishedDateTime: 2021-12-20T19:57:00Z

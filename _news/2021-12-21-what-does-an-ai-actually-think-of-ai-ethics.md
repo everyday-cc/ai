@@ -9,7 +9,7 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-in
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ethics at the heart of emerging AI strategies"
+    excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
+    publishedDateTime: 2021-12-21T21:55:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1640094049_708_lg.jpg"
+        width: 315
+        height: 210
         isCached: true
   - title: "We might be able to make AI ethical, but maybe we shouldn’t"
     excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."

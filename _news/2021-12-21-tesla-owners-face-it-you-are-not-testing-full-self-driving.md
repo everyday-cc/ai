@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
+    excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
+    publishedDateTime: 2021-12-21T22:29:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300483800/is-teslas-full-selfdriving-beta-making-driving-safer-or-is-it-a-safety-hazard"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 34
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/a/t/e/image.related.StuffLandscapeSixteenByNine.1420x800.4ywes8.png/1640125759149.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Tesla Releases New Full Self-Driving Beta Software Update (10.7) With Phantom Braking Improvements"
     excerpt: "Tesla has released a new Full Self-Driving beta software update (10.7) with phantom braking improvements. Here are all the details on this."
     publishedDateTime: 2021-12-20T16:30:00Z

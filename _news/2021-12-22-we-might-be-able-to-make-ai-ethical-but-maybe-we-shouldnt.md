@@ -57,7 +57,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ethics at the heart of emerging AI strategies"
+    excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
+    publishedDateTime: 2021-12-21T21:55:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1640094049_708_lg.jpg"
+        width: 315
+        height: 210
+        isCached: true
 
-secured: "HdiKnRvAPbQxhZCENmRx6kKWB5JFXKpjinpJs7NyCKzI6ctbroq04wxnBHjlNCDveC/SmVxGU5Um7mnkk27lU1Xf9LJphmTfvL14h7ySTJaxF/rswbmF+NeDtQGUW2+zsILyqMK4hWxYUq/4kbTx3fFuQbl8HHMzpph50vX9efNxQB+bclG4MXO0Z5vs/HivjScu20Yia0svv3G2hsvVyQ41GUxyyWBdm9jnoafd+CkUHH5U7KMK6M7MXl7MF1s+BvY9TZXusrPYhP+5IdDdt+a9K+tOP6ibWm8tpsWPrR4eooB3KJlZwGsuZSbAveNvlX4rff93qprXAxRq2jQCxrybBPnsx5WcWC94jcF1LWw=;z+1GFKbZxMsSNvEGTlkSbA=="
+secured: "Q06ovaGwxi3VXlj6LZLhfyYjCiPy8jN+X8xQKPUi/lFcGqmzTMG5cDCiLvV8zXY23/eDI6exLMFWoKPN9cIFFgUa0Y7kPYA4FfnjNYsW2VP03y/aFNrDk51hYD/wffqCpjFaE15POBvJv7V/ZQjuoeyEY6GPjPkouBw+YNhb4r1n5OemdaNPYKVPYLXV8ErRKxrgwGwAYiZTKTjvfBE3Og6h/VE4ydzxpeQL1DCpZgWqCQITGEEx8bUHeCBFlFPAcSqnpdGvcFhfDov0uf+vBQOdpVapb72vz2aE0QqbJo84HVcrGIy8HuTB1ZslLa33evXkUGAGTbxPUb6YhFAOb1AaPD4eDpiH1OD0okWn//0xJ/KxqbNcVCYhcQg8Z2M6onKIHPEljzp7H4sIDSnhnJ84y+MEzvKU+SbqVK6zOICGRzVYgoP6hVTiCeLYu9CXZ4T6+lsnFRjlPUq2r2v/U3TMzhZ9wwXJyEMjN3DJeHtncqXX9NjwAVvJzeqbY/NguMnRw2fVzFzK+uUkV6wR3g==;gsxOu0TbtHZPfkQEBSJiHg=="
 ---
 

@@ -85,15 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "China Artificial Intelligence in Construction Market Report & Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on China Artificial Intelligence in Construction Market Report & Forecast 2021-2027 report by QYResearch Group. China Artificial Intelligence in Construction Market, By Type,"
-    publishedDateTime: 2021-12-17T05:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5176792-china-artificial-intelligence-in-construction-market-report-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
     publishedDateTime: 2021-12-21T06:38:00Z

@@ -2,6 +2,153 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-11-17-ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board.md",
+      "title": "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board",
+      "excerpt": "UiPath, a publicly traded \"robotic automation process\" company, announced that Allen Institute for Artificial Intelligence (AI2) CEO Oren Etzioni will chair its new artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "originalUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/Oren-Etzioni-298x300.png",
+          "width": 298,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "publishedDateTime": "2021-11-17T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform.md",
+      "title": "PayZen secures $15M Series A for ‘care now, pay later’ healthcare platform",
+      "excerpt": "Healthcare costs in the U.S. are steadily rising, and the share patients must pay out-of-pocket has increased in tandem. Nearly one in three American households have delayed medical care due to its cost,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/",
+      "originalUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/PZ_Founders_Oct21_0529.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/amp/",
+      "publishedDateTime": "2021-11-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-baidu-reports-revenue-rd-increases-in-q3.md",
+      "title": "Baidu reports revenue, R&D increases in Q3",
+      "excerpt": "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202111/17/6194f0e0a310cdd3d81b287a.jpeg",
+          "width": 710,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-uipath-appoints-dr-oren-etzioni-to-chair-new-artificial-intelligence-advisory-board.md",
       "title": "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board",
       "excerpt": "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,",
@@ -969,134 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-bias-in-artificial-intelligence-why-we-need-more-india-centric-ai.md",
-      "title": "Bias in Artificial Intelligence: Why we need more India-centric AI",
-      "excerpt": "All faces are not considered equal by Artificial Intelligence (AI) systems! A typical commercial AI face recognition system most accurately predicts fair-skinned males. The accuracy for detecting dark-skinned women is lower by over 30 percentage points,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/l0y4ir/article32323428.ece/ALTERNATES/LANDSCAPE_615/BL12MICRO",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/",
-      "publishedDateTime": "2021-11-16T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
-      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
-      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code/article_4675743e-84d6-5289-95d1-0ad97a1f7abc.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code/article_4675743e-84d6-5289-95d1-0ad97a1f7abc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/be/1bea99c1-47b5-5836-aae5-48b920a5b33b/61945c56b5506.image.jpg?crop=800%2C420%2C0%2C23&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-fda-clears-ge-healthcare-x-ray-artificial-intelligence-aid-for-endotracheal-tube-placement.md",
-      "title": "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement",
-      "excerpt": "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
-      "originalUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Radiology Business",
-        "domain": "radiologybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

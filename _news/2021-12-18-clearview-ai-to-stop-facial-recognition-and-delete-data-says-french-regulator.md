@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-fac
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: pymnts.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "France orders Clearview AI to delete facial recognition data"
-    excerpt: "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country."
-    publishedDateTime: 2021-12-17T06:38:00Z
-    webUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
-    ampWebUrl: "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 74
-    images:
-      - url: "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg"
-        width: 1200
-        height: 465
-        isCached: true
   - title: "French privacy authority demands Clearview AI flush facial recognition data gathered within its borders"
     excerpt: "France's privacy watchdog, the Commission nationale de l'informatique et des libertés (CNIL), demanded that Clearview AI delete all data it has on French citizens."
     publishedDateTime: 2021-12-17T22:11:00Z

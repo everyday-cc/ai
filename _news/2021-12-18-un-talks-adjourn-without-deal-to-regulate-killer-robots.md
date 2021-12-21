@@ -37,6 +37,20 @@ related:
         width: 1400
         height: 1004
         isCached: true
+  - title: "US, Russia Stall Attempts to Ban Killer Robots"
+    excerpt: "Robots have been deployed for mine clearance by military authorities in many countries, but concerns are rising over regulation of autonomous weapons which use Artificial Intelligence. UN Photo/Marco Dormino NEW YORK (IDN) — As the US withdrew the last of its troops from Afghanistan on August 31 following a deadly 20-year-old war,"
+    publishedDateTime: 2021-12-21T22:56:00Z
+    webUrl: "https://indepthnews.info/index.php/armaments/nuclear-weapons/4959-us-russia-stall-attempts-to-ban-killer-robots"
+    type: article
+    provider:
+      name: IDN-InDepthNews
+      domain: indepthnews.info
+    quality: 39
+    images:
+      - url: "https://indepthnews.info/images/robots_un.jpg"
+        width: 750
+        height: 337
+        isCached: true
 
 secured: "zYvTJuu1xPT8a+e1C94m0kn1hOYyxgDEsi9dkhPEXaK11HACKz0yVJNg6hMT4pV5CjR8k58RBVB+UTq5Ho73KlR91IxGVJhAFxm8+SWhxVd08sEfM+bn+sTqXcdrVmPm5LVEWcZxMrspm7XLewv6vCEeZk8SIowv/DlvWttThYzKZq+PVo1UZrYlCmMOLbUGqqolRa3suc7p4c1qB61B6GXtS+DpAKqNHJo/sQccJ3I+EraffS8K04SkXmzJc6NtAZoJrYm1FJyzN8J5EQY2cJ3JBHz/g8C0YpW1d2Ff0UllLfDZ5Ai58hGegXVq5+RZpd1w+fU6Unwr3f4bhx6YWHSw38JVzp3UEISifdEfeFk=;qaOXMLBM3SSQvUB9xGsxxQ=="
 ---
