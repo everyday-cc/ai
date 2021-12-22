@@ -44,6 +44,22 @@ related:
         width: 1161
         height: 774
         isCached: true
+  - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
+    excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
+    publishedDateTime: 2021-12-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How to Leverage AI for Maximum Benefits for Your Business"
     excerpt: "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers."
     publishedDateTime: 2021-12-18T22:31:00Z

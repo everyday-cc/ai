@@ -1,24 +1,38 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-excerpt: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-publishedDateTime: 2021-12-22T06:09:00Z
-originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
-webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
+excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
+publishedDateTime: 2021-12-21T18:15:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
 related:
+  - title: "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?"
+    excerpt: "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring."
+    publishedDateTime: 2021-12-22T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI for Cybersecurity Market Is Booming Worldwide with Darktrace, Vectra AI, IBM, Cylance"
     excerpt: "Advance Market Analytics published a new research publication on AI for Cybersecurity Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
     publishedDateTime: 2021-12-20T10:42:00Z
@@ -35,17 +49,15 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in Cyber Security Market Emerging Trends, Advancement, Growth and Business Scenario 2030"
-    excerpt: "Asia-Pacific is projected to witness the fastest growth during the forecast period. With a growing number of customers inclining toward online and plastic card payments"
-    publishedDateTime: 2021-12-21T18:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24726739/artificial-intelligence-in-cyber-security-market-emerging-trends-advancement-growth-and-business-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24726739"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24726739"
+  - title: "McKinney cybersecurity startup raises $2 million seed funding round"
+    excerpt: "The Y Combinator-backed company landed grant funding from the McKinney EDC's Innovation Fund earlier this year."
+    publishedDateTime: 2021-12-21T18:29:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/12/21/contraforce-raises-seed-funding-from-datatribe.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "StrikeReady Sweeps 2021 CyberSecured Awards with Wins in Vulnerability Risk Management, AI Security/ Machine Learning and Enterprise Security"
     excerpt: "StrikeReady, a cloud-based security operations and management company, announced today that it has swept the 2021 CyberSecured Awards with wins in thr"
     publishedDateTime: 2021-12-21T10:00:00Z
@@ -64,7 +76,21 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Executive Spotlight With Booz Allen SVP Cedric Sims Highlights DHS’ new Cyber Talent Management System, Cybersecurity Challenges, Responsible AI"
+    excerpt: "Cedric Sims, a senior vice president with Booz Allen Hamilton, was featured in the most recent Executive Spotlight interview with ExecutiveBiz on Monday. He talked about the challenges the Department of Homeland Security is experiencing in the cybersecurity space,"
+    publishedDateTime: 2021-12-21T09:42:00Z
+    webUrl: "https://www.govconwire.com/2021/12/executive-spotlight-with-booz-allen-svp-cedric-sims/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 0
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOuF8EAL.png"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "v/fUxFbpS9rO7kQ93iQUO0yuoj+QrFI7pJtMhR5yBfGVJrmWFFD0pBBph7zprHVEYj2xmHb9dURjjJ/viO1QvILiivqAGl0CpC3ajevK1HfsRuscVwn5bl2fR3cMj7JeD9UfC9DfWDFeNkGtJ+WbzPb8+Uyn8uhRaBrI+eTPxaILOB4TPEGAxpf1qC4vme7bgiZ/9IPsh7HGWiL+jpKQgeHwA3CZ2YT8vMGYJ89sfhe2iqaZq3JBcvUrKk3U5OHd7DFaMCqroGXL9pqE0JKN8mzxbts9GDAU5848IHhnp++EY3bCPgfK5oSnmej3D8ILfNOTtAJI+6HHg2QWI3RjTJtatfUH4WTZqiMFq/fwuu8=;5G/fOE4agV3jC+MvuVA0oQ=="
+secured: "wRKenA4DYTBELCf8I8AfOmANx1qXdDWI0ml66az0yNwkadxpHvirXjEjIr5NEa8zOwxo75302i4oaAVL9FcSKQczDVBjTLxdvr8PSwk9FHW06jZwRJDc5FCjv7cnRBaM0bgsy2UnZnkeREc9opWOXEFrHSORmNj9wyOWddZ8FlSM1lkgYR4gf1XC2QSpVXtWDUFNRvgu8+yjGy8af9j8YM/U6DHaO6/SmYFUSr4DN5Ia8rDrmAlHsMFgYqvAc2btAEytTod9Njc42lh5we9nWEo5UvXCgVwdlh+/Dq4okL/CSbvjlLmE30zvQ4eRMIn5piqgPT71Kex0JiACseDjHZikdHgd6VoCd/CaEP7RvLw=;oiAM2xfR9FQ6SKVTyyHimA=="
 ---
 

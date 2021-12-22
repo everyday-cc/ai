@@ -55,6 +55,20 @@ related:
         width: 900
         height: 375
         isCached: true
+  - title: "Self-driving cars could be legal by spring 2022"
+    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
+    publishedDateTime: 2021-12-22T14:00:00Z
+    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
+    type: article
+    provider:
+      name: What Car?
+      domain: whatcar.com
+    quality: 24
+    images:
+      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
+        width: 755
+        height: 503
+        isCached: true
 
 secured: "jY60yBM+17LPVoa/qF+okzNBUVukEObvEfjjcaDxFeSvOQdojWktvUwTSuSHkICh2rYHna7D/bozN2GbY7dF3dLE9vJLX2P+GvW/ZBX5Ug5H/uXI6om1i0SyF/O/VUzhoizSIQAni61mV1UwMgPolLubSHeiIx+XrUPOaTnrU1hTVhr7w4NKeEFrvjmwSn5I9marqfNGffG4XFjinzt145CIGproK7zZNfabNZ18FqQ8EEozDiu9yuDWAwiuNegWAcAdNIIGr2g8z2ndkujVAMQRJGYIlh3z9M/druUtmmiLkp4AD9M/uAx/sQ5fc48VnLgrsDreXp6RxE0E0KdBGilLB/PgOU2cW5qbamU5x58=;c1DqKQBN3ORLz8KeOzaxUA=="
 ---

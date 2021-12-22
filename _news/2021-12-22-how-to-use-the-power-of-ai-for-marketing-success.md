@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
+    excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
+    publishedDateTime: 2021-12-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How to Leverage AI for Maximum Benefits for Your Business"
     excerpt: "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers."
     publishedDateTime: 2021-12-18T22:31:00Z
@@ -78,6 +94,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "G9I8OxNG/dAQ//v9yaoMtyk2/S6JNafjBaar+i/0y50+GFFP/7KsJTCGygPZZD1AyXQSrhkGRZ5kt91AVBRpfFyv0TgZEEFQFE+thi070lzbMKPWN2dnAxB3axlmlUAsQl0y5IP7cLqwD76UaaTmMkbbt1mEn6nKXjvKqoyROPwSlmjALyRr1RGsBepQs4ej6LGaPtMRfUu+oVb9mRqAzEWBMj9RKvc3FDRwe9evufTFy3eHhJewiVjTgEG8i+dJ3ri8AVGk5pcWhxgJPn2uplS6rk7Vcj/y941jJb9wPN64TtiLDgKPm9Er/iGRm6mfOw4nOElyoVrYo7lVHDcf66fkTQxIZ3STJBBM2PlZjwQ=;Tx/o/KdCoHO33vCm/e7w0g=="
+secured: "Ro/J5lsqVU9G2VRb9oLcLN/nu4Edp6H4mLjQKd7kWo+JjGGGWBkt0XqgNDH++tQejRr6V59ZaXwL0bYkM7WbGrd6iMFw25lLong8vrZfJ5qxgyyIn4V5F76ZYQCFJ4mOyr93JaqOLoVUVrfiidTEwcBJaOgJ+hry5dFRNUFnxDQ/Ni4949AWQXx6bbOWBDy8xtX7Mf72U+7VeNKCEJ1qk3i5IK+lQBczE/yVQja/XtqSgzDNqj/rro1VQtVU5anFJgWKme/T2wZUxZdi63+vhqKIfiiUgilec3X15aM/I5sh/iYJ9YNbv7VuQxiZEr5e1Pa7QArwA9bR3XrwOKk4u8unnKVu+oGB5i/L5gin3oYa/xXFR5xPKlWWRZbUFjGB+3lU+HNt94Z/GqS3duLqjghZXGHxFU8qhran8biULG2JvFZY2lhjFM+q+jANwE8amjwYWX9uZR/hzpfa/+9MSDFbft7HxASA2unAYXR28GUR2LIipD8Eczp/TJb5VmfskOd7nIH9P0k6bD3kWkDL9w==;L0mpz+HEet6+otHGHrq+SQ=="
 ---
 

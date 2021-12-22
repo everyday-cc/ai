@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advance
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Self-driving cars could be legal by spring 2022"
+    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
+    publishedDateTime: 2021-12-22T14:00:00Z
+    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
+    type: article
+    provider:
+      name: What Car?
+      domain: whatcar.com
+    quality: 24
+    images:
+      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
+        width: 755
+        height: 503
         isCached: true
 
 secured: "8zeASKH0LwxWvbmZGBI5AdHqRxMHmK7vF5n3edfn8p7LEyIHvc3H7l9KhDu1gHFr4+d//T77q443xbsA0Z+0waSIH351RzHb6cBx/tEdqRy9lXTN4Z4bRg11WraNQUtlZHIsi5F25xi8KcAy881fKOQBiw+f+VIb1frRn9DrLNJt/d/hE3SnqFBWYzGqA1FM2NbxIbWmSkqFsrOxUckt/chExr0lh+p/o5zKwgX0seWB5nAZQFgQYB0iL5MJNIHcq63JDAV6PKtjyAHS4E1hy+iFHJEYsRvQ5YZ10KJEKu0ceTtqJynv/eajinEJze7V3KIViNjs05wP49BxnO4jS19C9Eb20IfTuYJ7uXlfcqnham6G83hai+3lVCGoBJLr9wIGr5zowWtIsW3kiuVqKu1xfQOUW8H+Q6rTaI8TUVTGb1lQztLeqSqoATLJSvsLF/spq/16axvanfzEsuN7ARbSmLPXNkGLMwIqmHlXs4rsI9/7+c9z3UC7ksgKskYxy9ND0snKFn7kDvUHGgQAbw==;WHK54AKD8Tr0g67yf8DfSg=="

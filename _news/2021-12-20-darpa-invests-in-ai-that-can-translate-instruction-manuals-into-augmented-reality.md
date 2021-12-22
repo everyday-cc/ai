@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/12/20/dar
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
 type: article
 quality: 149
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI regulation is developing in the insurance industry"
-    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
-    publishedDateTime: 2021-12-18T20:05:00Z
-    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
-    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cassava scales up investment into AI"
     excerpt: "The firm’s chairperson, Sherree Shereni yesterday said in a commentary to financial statements for the half-year ended August 30, 2021 that the strategy was anchored on a sound capital and liquidity position,"
     publishedDateTime: 2021-12-21T22:00:00Z

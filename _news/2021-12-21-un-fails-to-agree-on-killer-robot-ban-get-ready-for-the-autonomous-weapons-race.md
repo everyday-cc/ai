@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-co
 webUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming"
 type: article
 quality: 78
-heat: 119
+heat: 118
 published: true
 
 provider:

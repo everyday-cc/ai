@@ -56,6 +56,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
+    excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
+    publishedDateTime: 2021-12-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence Marketing : All"
     excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
     publishedDateTime: 2021-12-22T06:48:00Z

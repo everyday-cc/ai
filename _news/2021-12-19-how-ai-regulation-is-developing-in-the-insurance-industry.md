@@ -30,29 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "DARPA invests in AI that can translate instruction manuals into augmented reality"
-    excerpt: "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems."
-    publishedDateTime: 2021-12-20T14:36:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
+  - title: "FTC Considering New Artificial Intelligence Regulation to Protect Consumers"
+    excerpt: "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination."
+    publishedDateTime: 2021-12-21T12:01:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 149
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 155
     images:
-      - url: "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg"
-        width: 1024
-        height: 731
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Cassava scales up investment into AI"
-    excerpt: "The firm’s chairperson, Sherree Shereni yesterday said in a commentary to financial statements for the half-year ended August 30, 2021 that the strategy was anchored on a sound capital and liquidity position,"
-    publishedDateTime: 2021-12-21T22:00:00Z
-    webUrl: "https://www.newsday.co.zw/2021/12/cassava-scales-up-investment-into-ai/"
-    type: article
-    provider:
-      name: News Day
-      domain: newsday.co.zw
-    quality: 19
 
 secured: "CKSelGaZxnOdXdsd0w7NF8rcFHiaTdTDeiXeSuiZkR2dId6XamK1I7IzyG8fbWQ1WqgO/9LYMXTCVPvRevvzEKlVY/86vW/Fpd5xFLHJ1RmdDVJsBc3im4IMMKTvBr9uk1+Htz3T8f7TbtTDlOa9KvUT5W+0Hhs2aoL5PciBbQNPHR6pRXNCKea/QqVMFv9joTaOyvOJZxart3XjrM3tnSMp2hSz/h+JyqYOdRvnuk8Z07P9cL73m2p4Fl396unjiaksOfSc8P2/v02sHtiXhSn7ehg6SAWbM4WGafQj33fPCigzNwq2TGzK7dvbAXvTM71Em2yc/PxoXID8MOAubhg+/D3aYGpD+R6HFprM6R7G8WKQyGGlQCb3XhQw/BWAhcEvXo/WYtFgh5TU4GXg8z3F0rmXrfZRJHxKH1ySg1MPZWuAHl4CP2npDu5CckEnXInXDNAqk+sEEZKwkaJIKz6Rdet27TbEk/FbhX0MqQg4ChunLCnxjNO6iV+MCzc+ed+zd6ThcRlHqXORXsp/wA==;jRuerCVnCMPgdpS07myXNA=="
 ---

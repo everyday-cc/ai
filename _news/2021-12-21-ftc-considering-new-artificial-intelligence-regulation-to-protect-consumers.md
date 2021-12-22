@@ -8,9 +8,9 @@ webUrl: "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artific
 ampWebUrl: "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 155
+heat: 165
+published: true
 
 provider:
   name: pymnts.com
@@ -25,6 +25,24 @@ images:
     height: 274
     isCached: true
 
-secured: "DyVyNnxEEyIWZ83NjaIgJ/HfaOCOYae2i3V8n38o2G9ujkHqrfn9fzJ92vq9rcZ1geSib+t8BpQtffJUUqxXQ/pzNjsxBvBQOmCDv3eCh9tXXNmY0xSO8cakbQVaISgwGNsUXiY/pk3FuSUSK0a+qZoW+0hC+iAN+vZdlZURcgqpTA+y3e20YPEV4en+W9d7rAbggkvI55HaplqwiZurKLmrE4CrA0aNA8VozRpHRlHyZNSejVnyoDJm//XD7Q22B/NnS5GS2MRcqwp2xmfxs5B6D1ELInJdoWJ/NEnWy2OxOmFXwyHQl+kc6g3HhRtjyIZqcChIqxYRNAeMmpCZRaQSkGUwtmB3Jg8oAskDIA1m3D9/M+TRPyijIg22yx5mbfleY5dg3TqyAEoO28i2cDUHYLketk2OTXGQLZknDD7XoU9/X0q1dSPUUR9HXTAzCZv+0hnT8E/SIqjf1lbjcrBOSki1WsoFz+ZanW+f4WYmJM/VfYooYRYRk03yiTyQcZgk/M/37pOeRRPipgEqGw==;+CXvDNz+iWWO3tYaYX789A=="
+related:
+  - title: "How AI regulation is developing in the insurance industry"
+    excerpt: "Some important takeaways from the National Association of Insurance Commissioners meeting in San Diego this week."
+    publishedDateTime: 2021-12-18T20:05:00Z
+    webUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/"
+    ampWebUrl: "https://venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/how-ai-regulation-is-developing-in-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-12096324111.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "mgICI1hKfVso/4P3o3pu57EUERn4N3vvk+wj9mMXiiuk+3KgGJwNFbOm0HBk50MiTVAzExUQ0zE08MFbwOVVWaX/ScEHcMfbe3DWC9E8wTuEaXoPJbJsl1ICOiCE1G46DMW1Eo5bpnAxdNe/gzvX2e+IwEVuVg91u0vXobYMbxc/764n4OM8Vh8yFJBun7uOaE6+Ry/UM+jg/SmPLlP7r5KcrKfYHznYauGmNo1S2/D4NnAKGTla7eYvANfHOcDzKvLjI0KgR3V0ZbxASiRZO+WM/JM5BrhkUrYWY/4XA5Ui8zk9w4APGRh4TLbc2ulf2TGgkxSDuzAAGFnl0F60nJYWdjXc6SqUUWvkq208vpmgIpRUJbIW1DzBwIoe8HC+kb1tpp9DJ4jzLx7x+NmlS/gwnmMnUcuQI3GY+zkSV2m8gk8yoWg4iYb2SUUfPbV57KsJmN0C7AYpZOA/ZB4SBx2bJMQ2qQdKK6WjsXFAQi30dqo/L+ypfVXo+ikJh8MvPyv/F2FQHsVE4l4Nf+2ToAAzkuE1mGFqboQQ/1M6ptY=;brHkSFIjUBF7n4wBp1ChJA=="
 ---
 

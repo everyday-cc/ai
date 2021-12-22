@@ -55,34 +55,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Survey sheds light on law enforcement use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
-    publishedDateTime: 2021-12-20T18:48:00Z
-    webUrl: "https://www.gazettenet.com/Survey-on-law-enforcement-s-use-of-facial-recognition-technology-44107030"
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 39
-    images:
-      - url: "http://www.gazettenet.com/getattachment/74189d81-6a6d-4dd5-a27f-4151f8957090/84163aad3b904f91aed7efedc28fb436.jpg"
-        width: 499
-        height: 325
-        isCached: true
   - title: "Our casual use of facial analysis tools can lead to more sinister applications"
     excerpt: "Facial recognition technologies have become more popular through increasingly sophisticated devices and popular fads. Casual use of face scanning and analysis features has long-term social impacts."
     publishedDateTime: 2021-12-19T11:14:00Z

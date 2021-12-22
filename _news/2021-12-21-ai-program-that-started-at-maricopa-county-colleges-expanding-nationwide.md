@@ -8,9 +8,9 @@ webUrl: "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-coun
 ampWebUrl: "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/"
 cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 156
+heat: 156
+published: true
 
 provider:
   name: KTAR News
@@ -25,6 +25,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "GUqiUGnuTQ/LwC6cvfWopcU7uWfvTBymny740hUOdIswoZCmQZhH6qoeWn3pCH2072GqFFWRW0YXPVCOAmK3LIIiEtAaMQ/2owpXebJHANrR8Pm4ff97ngofHOAKNdognYLHSRUlgpX111YmlfCf7WdY69cIOQaXX8zy0fVWa/TU2351rRxvKC34s9NJmi26ndYsPd6vM7KXru5rNCKzbxQrVHSieB/0mFS/cvtcWMjL2pDifX7OL0qTPCs9SfjdIeM0PqlRo/a2yjYsT+rDUQoJd9UfG3kY09NRXRADHkbUmrnlgmtSHpY6nBFEzSM/Q9N1yVfNqXc3xkunINY/8EDeXOkCQ9q+vsoN5nQQjfc=;l1mAzKy2+SHt1tXRtDM99w=="
+secured: "QjxN7EBEPy+WxuR4VyEEkCTsf2UdyQT58gI/Gzju436tq4BnbV7/EqmalsxzFfhtYiVEGsbEso4d1H/ZMQpYwfjXc7RIQnh0FqUiZBSyQph4BB60+I4PjZ3pJcfOygJW7FJaobV3Sy4Xr0s9YrmxtjJx+KYA8Tr6dhBElIvHofw/MRqpKwbusx8YYFvZ5Y4duX6JJVu1i9UBzqeY66U9JqwKEHpiIMZkSOcSambKslbysUliZQB0G/3jd8HEVPYMZGkb4OjHZTsDp8Udto7REW39vhxriZwG6/Kcl2jTEE4XPkLElEVoo/VBGp6zns17q9D2Q/Rp/pOaI5eOtUjR1agKjzwtGp40nLZAhdyJg/fjucKy8bCxiPAfiHQUzAxungGxp0jtBcIIA6u4T7HX/04e+yCLL8R1qv7ofvBR4H/gGA0c+K6e2qoyhaorG2Gyb/j7HCTkm8YRNP3+ZPuNu6FxMePqjulGMRXAlTyzNWQR+3iwBuiJatODesbJSYXDt8zLYLY+1pasSktDATLhow5hcM6U+pjGPRXcML+uphY=;nlpF93pHBPeW8nXxauDKUQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-202
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 563
     isCached: true
-
-related:
-  - title: "AI in 2022: What decision you need to make in the new year"
-    excerpt: "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more What does 2022 have in store for AI in the enterprise?"
-    publishedDateTime: 2021-12-17T21:50:00Z
-    webUrl: "https://venturebeat.com/2021/12/17/ai-in-2022-what-decision-you-need-to-make-in-the-new-year/"
-    ampWebUrl: "https://venturebeat.com/2021/12/17/ai-in-2022-what-decision-you-need-to-make-in-the-new-year/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-in-2022-what-decision-you-need-to-make-in-the-new-year/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "m/PeHqa1t3le8x4HGHTzkN5XvZ/9lK40mbHlHaGqBvJFXMthp4YcwzMpIPzXPn4gjlHEMZ+3NXtYjFqnMm+5scJ5oiRXsZc9504jrYGjsfcIA6XeWG5hPRAM1IayQzQeAMW52WNIB1rqe33EUBrYnJYqv6t7A8mVFXklG0zGDKhlQ1M9W2T8okUXOFZOeDs+4AVBUeZA5oo3pWNquQG94Jdqd9BPWu4w71mB2tAYz9Vyxe/oMnI01oMJ1QPKTb7xunI65l5l34830TJ2LLQl4v5e3ZfAPqeTf04910wyAATqWzVXPR+t3EXoHcc0rKsRNyV+lVVpBv2CcB3yFBlbRNyE4l8ez7O+uzXqZqsvSD8H/mtmOFxt+KyWaWJf5NoshD9tbpk95CuHvfxVyXx/1tdDV8pTMUyCV9SN88XkXhuEYRYVraMDNmGN/ouPdiCzSxu759fXaGVOBjG/MTiAw+oTSZpkwypvMsctyJO0aXrBKww3nHcKV04tTUSsDieOPouzceNt9WtPLo6J3H7Oag==;jxCmJPfb+auB92dcnlpY4w=="
 ---

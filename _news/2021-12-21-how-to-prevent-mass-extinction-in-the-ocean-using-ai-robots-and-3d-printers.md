@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Prevent Mass Extinction in the Ocean using AI, Robots and 3D Printers"
+    excerpt: "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible"
+    publishedDateTime: 2021-12-22T13:12:00Z
+    webUrl: "https://www.marinetechnologynews.com/news/prevent-extinction-ocean-using-616107"
+    type: article
+    provider:
+      name: marinetechnologynews.com
+      domain: marinetechnologynews.com
+    quality: 51
+    images:
+      - url: "https://images.marinetechnologynews.com/images/maritime/w800/credit-willtuadobestock-128429.jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Watch Now: How robots and AI are restoring ancient Roman artifacts"
     excerpt: "A team of researchers in Italy are using an intelligent robotic system to process, match and physically reconstruct frescoes and other shattered artifacts from Pompeii."
     publishedDateTime: 2021-12-21T15:15:00Z

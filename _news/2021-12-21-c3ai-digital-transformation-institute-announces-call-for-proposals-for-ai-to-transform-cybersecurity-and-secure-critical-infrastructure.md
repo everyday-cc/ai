@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?"
+    excerpt: "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring."
+    publishedDateTime: 2021-12-22T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI for Cybersecurity Market Is Booming Worldwide with Darktrace, Vectra AI, IBM, Cylance"
     excerpt: "Advance Market Analytics published a new research publication on AI for Cybersecurity Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
     publishedDateTime: 2021-12-20T10:42:00Z
@@ -35,17 +49,15 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in Cyber Security Market Emerging Trends, Advancement, Growth and Business Scenario 2030"
-    excerpt: "Asia-Pacific is projected to witness the fastest growth during the forecast period. With a growing number of customers inclining toward online and plastic card payments"
-    publishedDateTime: 2021-12-21T18:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24726739/artificial-intelligence-in-cyber-security-market-emerging-trends-advancement-growth-and-business-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24726739"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24726739"
+  - title: "McKinney cybersecurity startup raises $2 million seed funding round"
+    excerpt: "The Y Combinator-backed company landed grant funding from the McKinney EDC's Innovation Fund earlier this year."
+    publishedDateTime: 2021-12-21T18:29:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/fundings/2021/12/21/contraforce-raises-seed-funding-from-datatribe.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "StrikeReady Sweeps 2021 CyberSecured Awards with Wins in Vulnerability Risk Management, AI Security/ Machine Learning and Enterprise Security"
     excerpt: "StrikeReady, a cloud-based security operations and management company, announced today that it has swept the 2021 CyberSecured Awards with wins in thr"
     publishedDateTime: 2021-12-21T10:00:00Z
@@ -55,14 +67,28 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 16
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    publishedDateTime: 2021-12-22T06:09:00Z
-    webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
+  - title: "Executive Spotlight With Booz Allen SVP Cedric Sims Highlights DHS’ new Cyber Talent Management System, Cybersecurity Challenges, Responsible AI"
+    excerpt: "Cedric Sims, a senior vice president with Booz Allen Hamilton, was featured in the most recent Executive Spotlight interview with ExecutiveBiz on Monday. He talked about the challenges the Department of Homeland Security is experiencing in the cybersecurity space,"
+    publishedDateTime: 2021-12-21T09:42:00Z
+    webUrl: "https://www.govconwire.com/2021/12/executive-spotlight-with-booz-allen-svp-cedric-sims/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 0
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOuF8EAL.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
+    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
+    publishedDateTime: 2021-12-21T18:15:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "qov6wMWg7WCvtTyus2VbkgilWPKdxEE+tEsbqD1XnEZ8A9TR1W8F0SFg/OUJ+hSi2gvSgWxMetSB3e8yhBN7wuHZ1PUmyrGSqzI/YXMGuUiLfOGLWfXsdui3rVtYrCuMo+lWhqNno40Jma1ZuSLYrt5oPwn2ZNVYzRUziM6jopaEcauZsQVPRK05D6hAJ3ICqUHQxhdWYAEXDdbyJXZR8lk0c62inYmxS2q/e7wS09SJ8EcITHO5qLH8GtkW7Qe4p0CtfkgxPtpntw/2sz25euuRwfVDLBHtWaz+ZS7WiYGUtzcRqpU85CgP2e2ZYYSI106CN2YjUxoJK7pZDehc3qEKg+huyHiYmJFLqna23M8=;mxw9DWPKeq6YpBqWQDPjyg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/20211218332/it-turns-
 webUrl: "https://www.morningstar.com/news/marketwatch/20211218332/it-turns-from-a-whisper-into-a-voice-and-a-2"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "7 Key Tips for Designing Voice-User Interfaces"
+    excerpt: "Keep these essential recommendations in mind to build effective voice-user interfaces. Voice-user interfaces (VUIs) allow users to interact with machines using voice alone. They use speech recognition and natural-language processing to enable users to complete some tasks."
+    publishedDateTime: 2021-12-22T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/403383"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1640018210-shutterstock-1109999393.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "RakBej8wu8x+ygzt1uS9kLD1Wr/dSQjqKFrGGJ9PUlM2WgVIXSqO3GttbcUWTk2E1hHt1N4PkFh7coMQUcAOo1F7T0oSoOF2vL/SzA25ZUe+gBuY1iPpYzg7Q/czt8d1wcNt89UGf+D/d6WFHz/z83LJS9F4/fZOhX69WFmsRNdgMba46V7Ts92Dkv2bC0bflVWeSir1azg9LSmZlnnYv/+MXmEw1fHMSdek1MLV9RfpWRYRoqPYgpbriecjE1acKlSYuu/HhBUyoKy2ADmncpGBkn2677qcKmsYdlizhFtoA/KWqftoFxMEJJRLG0KPmyFIqasmy1Mnh5fnbH9F43d2IrTxTIzG2fCfXDqIGfo=;JPumd+rSGclJfawC0xYeMw=="
 ---
