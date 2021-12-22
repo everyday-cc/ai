@@ -12,7 +12,7 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png"
     width: 400
     height: 400
     isCached: true
