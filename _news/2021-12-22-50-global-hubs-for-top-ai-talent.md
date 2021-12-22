@@ -3,8 +3,8 @@ category: news
 title: "50 Global Hubs for Top AI Talent"
 excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
 publishedDateTime: 2021-12-21T19:14:00Z
-originalUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-2"
+originalUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent"
+webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent"
 ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "bxBcwlIKNFWf856Raf9a97J2eV1D/GSH9c5Dg6rWQQcr1NLzBkd3w5wRdPhVcnKvo5EdqzpVP/HK14m12tTm1Gr/S5cj0RM9DIYGm16S+M8FkewSiVCfM8+6CQ003RIhjqyEIbDYyo2M0s6PN8qEJG+4qfw/1euzQJqmV0R5BOsZ1wizDhxlG6ZczCjnwx77sA7YQaKXSfZNW/ivRSNFaEriGdHing9eX/KLtwoqBMYQnnuqnCCrWAD7/CRMkuCNHh3/1XhYcJNfHzHM8fO7DiCMsvSymdxryjjRRpY3n50o7xVRH1BRDmLJQ213xZHs3lxQJKBStohi68bjzwH0A92JSlvuqZL77TpVwTo3k7U=;DrVvClgHBzBtYE1ogu3KSw=="
+secured: "Yclv/6gEYrLkPmKS3ZjUV6S5l6V78eDd6xoI0njrf+nohX3Q638NHyEHwMbqFexHVDzg6br+KzdPN+kZru8BcLbhqqP72AIf+683V9dLC6H6i4o/+YPqo6DAmk1tE5iRbztJ+6/TxK8FEEhvD5S1hdlMOCadbeNWw5Kq/hcWa3lO+bWEnaxsNMxlfkav/vzlLrC+Gc/qzFTkQeWgMFsoWd/yI6ONZpLRd4wy9rse2wD9dSuP4y6HnhjYgec47bdoBNys446zRKR3UOjLe8GblMLNKU5Hj82O3FaiP2ZtEVeHNWkgZ1mJ9ecQVNwSavsPnIYYF3xL22qMro+1SsbyUIP0SMaL9ssp7XxO2Z7tgUc=;owoJGE7IpBOEV2JL+zLjyQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-t
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 405
     isCached: true
 
-secured: "gs8/g369jy6LJQlihvmu3tyHe9sB39MyokG6z4+HuMTh+/0FMchioANbLMI+24WC9iMVlgula5YJ7oZ6/Q393HDAlsTSM4dM6UMYU5/NQCQdM5/+2OkUmJtfvszhLcYIJ/uCrUKaADtUy3CFuoJsdikvyecmwWbIc5CGoE25g9crb/z9/jtRIxRvWKB9Vzc1imtO/yo4wSqg6B2gdvExNA6j01FRASK2l3q/AOwQhwjamYwTbnnH0fzvlNFm8w9DtsDRWcHFLspMlrxi71JbAaSfkBDEhKDzbPU48YzsLLNmtsO/v+q/YrhoAe6yBBuEHnsPTCGrbmdqp8VXsOAqyU3idTJEM8e5QTwdbCbjCqQ=;0FgNX7dGhaoSY8t3xY3u1w=="
+related:
+  - title: "Driverless taxis trialled on Abu Dhabi’s Yas Island"
+    excerpt: "TXAI app allows residents to book a driverless car to pick them up from one of nine locations on Yas Island Driverless taxis trialled on Abu Dhabi’s Yas Island Driverless taxis, Mobility, sustainable mobility,"
+    publishedDateTime: 2021-12-22T07:44:00Z
+    webUrl: "https://www.arabianbusiness.com/gcc/uae/driverless-taxis-trialled-on-abu-dhabis-yas-island"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+
+secured: "pD/kj9BX7x5t5b6L/d+H2zAYJVMsHk6RAToPwpcdXh+kPv0SFDVdoY83a0qf6soaTpetj5wKxbvg1KZNZy1jQnB72AlFEC7AZfVbhLTo5D4Szojn90qM/zesCDfB7X/vy5OYV7qIRR1IyYlp3h1E44+ztphEosTefDjY3v1ZRpuIM+OUswnvEkMY3VN5ID9Rqhjh/o0L9BeKl7cx8UBsZNzIKBs676fuO7tezVJWjaoFLGXA33wAozPnhjR+DA2bSG9sTJANhIFowziHCZ8EzTVOd6RelhaNUjuKBZvj0cvwtmya7P2afF8XF98qtL9mJUIGA4FPDEblBYqqvRge0WQdLajt7JRBuU+DJJpGibPayY1ATA8IKdmuQCBQoa7v/ZXt11DiZWWwKjOvlmf5C6Bzidmgnpuvb5VtWJrjfCa+epOT+cuJKn+sMj+Ap8n1lokzIuXqcGjlaRoXY7jaEiwwh/b3OUrpkm5tamkzNukc4EIHD/+p5LVcEQsnSg30qSN+tePR9Tf9bZ38b/QD5A==;qQpllRRQI0CYyKSYZMa4LQ=="
 ---
 

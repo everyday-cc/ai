@@ -1,28 +1,22 @@
 ---
 category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
-publishedDateTime: 2021-12-20T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+publishedDateTime: 2021-12-20T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Autonomous car tech from FAU can mimic driving styles of passengers"
@@ -35,6 +29,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "i0myiWyTxdIKT4oR/Txvgpf5IQW61YCF4k43YF8Os0TnqwCxNBgAzHbuvv8SNMRR2XQj5n0CY8AOwr8IJYwEriyJqf2LW7Aq0jQcAYWdGTVi1hiEDu82R422UglmbIqXTWBYEZI7ZJYrqzY6rQ0qZxiouQW9lx/nXf+wyJN63+351nXYn7XhdQebnG2rYNLBJvCAScpKGkTXKwC5ZqR3ob/HHxHv5yYRAzJOdefUrdxAjtWA9OJCEuuPgn0svwIqYGqeCvbNaXSSLxKn1r4UT6a0L4D2ktkdP2De8u+KEN3CUtItDdgHUftd7Pce/DuqSVLtC6wU1FonyeqF44bx5ILj3XSgfvX3uPD1yIkOT1Q=;9CDNsgIx+I622YUNFAu++A=="
+secured: "+D7ilAZlerCVF/XBKQtcuGmqGmNExtlwZE61aAayR0eOjo9jhYiE8zBM8Qwfa3Ya6mitGLsM4cYw9nwVW2Ahare/XIje9Sjv3/YulBKMlBAfby9sjRHz07lsYBJ62MKZ2kk++vcZLg3kDojNbGAXeUuHvSeynUBdu80Fi8+1W614IG9jIPzEHKPcoMdFOwHYM6h4zS1WMyJqNAQwTf0UkHkMdiNhGz+VuD2pJj5YrrgnmdgDkDwbU0AE7/X5X/azCfRCs/qeYb6FCWwuCuvBrQqw/tmbfJAfIOWWxgSFse6qr4iPd2wdwdRAop9cNz7l5dHgJ00IBPXcPc47LTtEqbZKPMYtMdYTbkXuIXX9/XA=;lSpSi2kbXy7iE+rMw32WOA=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 800
         height: 492
         isCached: true
-  - title: "Meta is looking for kids’ drawings to improve its AI model"
-    excerpt: "With a new software that animates children’s drawings, Meta hopes to build AI that can “understand the world from a human point of view”."
-    publishedDateTime: 2021-12-17T16:34:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-children-drawing-animation-facebook"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/meta.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "WstigKLj4i87uOrtx86ry/P1rGVtuZdVtlN9i4yhhxW9Fr54i3WBh57smL+ZtjM0Ms3pIcLnZq9wUUYd9ZedhDAeRg/1gBMeaMyjPKMg/txN/rvPSyKjYOYLRR7F3CSg7eNhCfByNaWTc06Vvs2XmLYjjYSnrotzUjfTlY7A+nut9F2/3m3FBEOn5E+lHFCPsyhoISsxH1L1Sv+2c+uOHlhh0fMHyDkELFcCX58fthMgyZu0YiYizCyFGDfGSpobP8CAiWiJKjXnjBnXaEBmFh94gLuwxuB6qjDmMj/edLdutRyUnbUjRjEnvxCcZuM5joOnTPSYkwbJx9HqmmqzxATP1WBrYbBlmto3X6qyiWQ=;Whl3fc4iYpdujXAjKyWo1w=="
 ---

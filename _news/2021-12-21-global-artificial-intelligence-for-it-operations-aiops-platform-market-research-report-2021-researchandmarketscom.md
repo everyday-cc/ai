@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
 excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
 publishedDateTime: 2021-12-21T14:55:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 type: article
 quality: 30
 heat: -1
@@ -100,6 +100,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Jxwwndzxtba5guY6FH5GgLXGd8YzWdLyw+16GRQF4mTzeHLstYkoKHPrBNB9G9UCJuIC7kR4oQw75o7wBzWu0B1LEVERerqh/iiSjsJfbl4pb/IFptftlbp3jE/I026WKjn24C/1etLR8cQyU2UQuTbwydzZzoKNQlb7gJ2YtEd4gt1NOxEsR/pKUNeZJofJlxs5Zmuj9DRJ6RCeRC95PBsKu2aEZeJzI1c0kvsxnjCYbeYCv0NraeD0mvrH0v4XKGvoHrXGaPLIRp/8+5skFPmkGso/dGLrcmntoT3IwSPeOYn+vhnfpnSNi9gHG2CoHYdyHYzBC7lRLzZyqXh8Je6DxOK7j3wLv0LplSC0aUs=;uCoGCoQwV8n2n2qLvt5XNQ=="
+secured: "tJIc5HDNrp2vWZuK8Iwhaixe5rqyzanbK/Hi0V/Se2bEX6WgbkXv5OYHjmkanZ3gFQR/GXjPk2vQGleGncYkc7cpMw+7Fv5SpwMG65HTzd/tKx1qMbA2THVLCgNYSp5nbZdQNDnfgpyGJWdo0zkAeXn9mLFWNrjN0EaBhG4wmAFHVY6475rxDYIUNec5pNbf+io4gMInqlTCstXtKitTxIX72pxEmxLd+U6wllJ/Wm6D1MZW9dt2P0Cpz4CzI6GzdnyuD4CAGv2RVZoYMLavlK8URfN/om2/F11t+rsGpbbpCzF5CFZjpRZirYVT7ftfYlx3VsrBexbCrxE1zle9BijZtM88UZlboj1vdgg1v4k=;nv+XOTg0osRw5GromyA7BA=="
 ---
 

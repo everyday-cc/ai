@@ -9,7 +9,7 @@ ampWebUrl: "https://torontosun.com/news/local-news/self-driving-bus-safety-atten
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/self-driving-bus-safety-attendant-expected-to-recover-after-whitby-crash/wcm/9ecc45b5-f3fd-430f-82dc-2e471e50d76e/amp/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Operator of self-driving bus in Ontario critically injured in crash"
-    excerpt: "The operator was the lone person on the bus at the time of the crash, according to police. He was taken to a trauma centre. The cause of the crash was not immediately known. Police are investigating alongside the Ministry of Labour."
-    publishedDateTime: 2021-12-17T15:43:00Z
-    webUrl: "https://driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash"
-    ampWebUrl: "https://driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash/wcm/e1633294-75f1-4564-aad9-f1cad719ca30/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/operator-of-self-driving-bus-in-ontario-critically-injured-in-crash/wcm/e1633294-75f1-4564-aad9-f1cad719ca30/amp/"
+  - title: "Whitby accident puts Toronto's first self-driving transit shuttle trial on hold in Scarborough"
+    excerpt: "Toronto’s first use of an automated shuttle for transit is on hold after a similar vehicle crashed in Whitby on Dec. 16, leaving its attendant critically injured. Even before the accident, however, the West Rouge Automated Shuttle Trial wasn’t going as planned — for one thing,"
+    publishedDateTime: 2021-12-21T14:35:00Z
+    webUrl: "https://www.thestar.com/local-toronto-scarborough/news/2021/12/21/whitby-accident-puts-toronto-s-first-self-driving-transit-shuttle-trial-on-hold-in-scarborough.html"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
+      name: The Star
+      domain: thestar.com
+    quality: 12
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/GettyImages-459908461-scaled-1-e1626103301593.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Self-driving bus crashes into GTA tree, critically injuring onboard attendant"
-    excerpt: "A self-driving shuttle bus in Whitby crashed into a tree on Thursday, critically injuring a 23-year-old onboard attendant."
-    publishedDateTime: 2021-12-17T16:59:00Z
-    webUrl: "https://dailyhive.com/toronto/whitby-self-driving-bus-crash-critically-injury"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 21
-    images:
-      - url: "https://images.dailyhive.com/20211217080230/FGxLNbgXEAAioC8-500x258.jpeg"
-        width: 500
-        height: 258
+      - url: "https://images.thestar.com/08bWC1wDI6oZLNxFHZFzGHcnYWo=/1086x1086/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/localcommunities/scarborough_mirror/news/2021/12/21/whitby-accident-puts-toronto-s-first-self-driving-transit-shuttle-trial-on-hold-in-scarborough/10478388_Olli.JPG"
+        width: 1086
+        height: 1086
         isCached: true
 
 secured: "h+Bb5k3whO1ZnBFfTIEbBbqyjiZroM2wvfU/iGaawPwbqtR9FY9mzNgp3UBGTI2MPWG/3GBnhpvCacRuB9cyOabPxcFMfpaAcVR9ABAqnPND2/kpBCoc9DEz5wFWXcAsh/VcOxdg63pl9azUXL/rW7U6DvgDvIaKVwHa/WpXxu80upUOJv4rs3WR3BzgjyG2ZwALgo0ejFioOeAvw5SzEgQPZFtii07kkl3R5ksU7Rtmr+UBmG73n92P1GCEAktVryhpbsAAz7jUH3PM2QKL/2i20c1A061YVhTlpw+FrdWM8jh4aS/yM8HKXJQCXxuX65YeUWLP7+g/WpQEK/wauvdGDHG47ObEDsz/d+uBXYLGj5L3V2o9x49JldUUy8XHdReAf75l6ry3b+7/TagZV5MXFjQrk9u9X9foqMhp/CU8SgwLAupp+XmjTjSlsfitqQkR0QesdA62GEWczuK1fQjisvvrD0nMoHoJhA00kLT3Ej+vSrymZSIzOZJ9BaQFPN7VYd9HAKgOY1eXEzvGPQ==;T9E+AAdSwBnchf2+GNTyzw=="

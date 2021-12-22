@@ -1,23 +1,29 @@
 ---
 category: news
-title: "First U.S. patients with persistent cardiac arrythmias treated using Volta Medical's artificial intelligence-based analysis"
-excerpt: "Volta Medical, a pioneering health tech company developing artificial intelligence (AI)-based software solutions to treat cardiac arrythmias, today announced the introduction of its leading-edge product,"
-publishedDateTime: 2021-12-21T13:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-first-us-patients-with-persistent-cardiac-arrythmias-treated-/2021/12/21/9515266.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-first-us-patients-with-persistent-cardiac-arrythmias-treated-/2021/12/21/9515266.htm"
+title: "First U.S. patients with persistent cardiac arrythmias treated using Volta Medical’s artificial intelligence-based analysis"
+excerpt: "MARSEILLE, France and PROVIDENCE, R.I., Dec. 21, 2021 (GLOBE NEWSWIRE) -- Volta Medical, a pioneering health tech company developing artificial intelligence (AI)-based ... are resistant to anti-arrhythmic drug therapy, ablation is the current standard ..."
+publishedDateTime: 2021-12-21T13:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-health-france-europe-a7fc15524e2b350bac4910460b528c0e"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-health-france-europe-a7fc15524e2b350bac4910460b528c0e"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "HQPiy4++xSMKM+0XMbbAPLcfgvJoqp+CLj89onQZF1DVZ6YY8WuPmNKnfb4mecHRTjJnYbibabKpoQqX2nFis2OR85Y/eNoKSr9hZC3XhKM736Lc+P5zeiSzFZbx35jVGNTMq2Q3amzDNTe89hDhJKDhBNogWe9jdtZ0D8gwypXZfSiBg2mRRj9s9xmeaUgd4aWxRHnwC9Aojwhy+LZ9mT2+BHSfO5x8aPmlLA9Aws2LjrznkOaDsjR1K/UsDFTJIUM34Xg5ytFbJz3XV4s1qzLyltA84FV7ecLImeME27YwlWBAHCkElxPLMglJ62QOb1stAgBNFPFjrUjU0hqGUod4ZIUPo7fj4YueFaNBCRw=;ZnCeGJ/cwrq7VKS2mUPzhQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+BEYn98TbuNimw41S4ew2A0xT3D87QghPdPrnm8hlhIfY1VaHMkWkydS/OI2xK+3kw7Qs1cgXe50axk3nYrAaKNOKWmiqnE/88TcMLTJ/lJgZ9vVv5L7nfnWzKp/7xGH45tbAb64c7tQkUN2nR+TicQN/zjf0bZHRxUBjOWvTxpLgjrC9YlnoA6h4rDJtcGSWqSB0gImeQOdeEtgNI6OLD9vc02dslTkyxW9EPtzlzX3wdPPdPezJlfj1A5GO8OHFw+DCqaXHeMbt08mvWFatOglit/jJYyhkt7XIyAPKSl0o5b2iIMdQSJQUHxtOLD3OWchsQSqbG4Xsp9UxCzOoVwmbfmmB+POq0N5HxE3M24=;z0xsTBIJB4Eoy9qLGhw2AA=="
 ---
 

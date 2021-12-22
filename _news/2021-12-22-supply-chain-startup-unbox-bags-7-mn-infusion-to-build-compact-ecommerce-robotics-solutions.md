@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-ro
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "2rw4XI7TGbjvnpV4Iq9NE/KHzvzTlCgbXrOfGXU9I4BzAxZUe2piGDJWnqv18hcsqI9YLx7qeSpQ3GtQ8MaCrcw7qqqcfhFAQdfq90TO+mRuxtIDlodNHOEF/fmZ9xrbuYBcemyCKykIvz7GtwTUUma752Ysa2lixXHGS3AtLV9fgc/6iGUVL/j96QCPpYS6lN8yMeFM4SmtZwSv7s/uDzXN1LR4Ikr6AQQg+Iy6nbIJGQJtKq9DK8LLZInxW5ybnErY6M3VfbbUoZNMvgSi8y+cxvCp35tc3Eydlgwx/IbcLBlB5LAv/vtmp8dfCA5rUjUnlp2VXgscRI74RfyIsZO/yQOEF6DmVDJ4rj+0V2o=;4zvy9Jwp3+ps9sySz21M4w=="
+secured: "Hx2MU7Z8p6C6aC6dX9K/w7z/gY0SIatZTbRNVWUZAfp/pU3XgSIyNbTM3p2NXb67inUz+irr+22L9tvBHeWUjYN0shaZLNNfcCkZxMJzkBX2ikxM4ACdRv+QcFkLKMtT1mjyujEermN4SPKAojQJcinvKvMCUTKcF1X6NrC4TU8y0eM6kySp2bXKxPDLvfQODs0CqECkB7U4Kev1oM0ecBPaUesy4Qncb58RknvkgxPioeevLegqJIl2UMJ40W7hC6wRbNTOYqgUNUFqsjKbnsURZICyuQLHczdgVZxrUAkdEDsJszlTUNqqqU3XMX+I+IfZu7Np8rD8PxphOE63uBvNb4O49j3ZYr7bRIM+CoU5h5ruMeLNS/9mwILv6YZCtEetldvgYGbS0vfX8g1tAReaI5X3bqaZc7HEUCAGufYZEGG8lo9i8qtGqyZ+bdwP9VYNu8ZSSgic7c3G5X/13dRFdDSt6i2U+3tn+Kda/JWyAEjclJY8yOcXvBZ3aov/l+cHz74c/HdCMD0PyofFKA==;HRP9bb8LPcXyezIcDCDl/A=="
 ---
 
