@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
+    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
+    publishedDateTime: 2021-12-22T16:31:00Z
+    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 34
 
 secured: "y1SnHh5cMnqz06rWzGo8hBTnbGi1mhS2CS3HVNrzNJEg+zR9SdLsdwNcq7+MmMF54YYFJI68RuZ4j5NxgcfAhxPKSQU5prlQFny0zf0tlh8iwoW1EGdald7Pke8a61bju6bv0/auwux4Gqxdtkgz4ZRocSw1ovVunBEuA/3QxgEVMHWcgZSstnQZK4fvkehs+K8aaQsZMgTeaWiKwrAuaBEk/v7mRBC/szhKsIEXjzPViJ2NjZW87O1VbL6YpQFJolvwM7XTWotW+VLpUk17gyu5eCPi2/6G/lAefbNZa4x8rU//yGQVsa2Hl2/pynT46gJrxXnTMgyT4tnsP+7ad2kKzq5Ar7WMSLUiT04xjOk=;ABINt/vD+Dy3ZH+kdPdDrg=="
 ---

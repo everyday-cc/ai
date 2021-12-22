@@ -7,7 +7,7 @@ originalUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-drivi
 webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Editorial Calls for Tesla to Follow Same 'Self-Driving' Testing Rules as Everyone Else"
+    excerpt: "While dozens of companies are following state-mandated regulations for autonomous vehicle testing, Tesla has managed to avoid the same rules. It's time for regulators to step in, according to the Editorial Board."
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else"
+    ampWebUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 51
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_401540152.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Tetris in your Tesla? Feds probe potential of drivers playing video games behind the wheel"
+    excerpt: "The U.S. has opened a formal investigation into the potential for Tesla drivers to play video games on a center touch screen while the vehicle is in motion. In a document posted Wednesday on its website,"
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/"
+    ampWebUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 49
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2021/12/Tesla-video-game.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
     excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
     publishedDateTime: 2021-12-21T10:00:00Z

@@ -41,6 +41,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Editorial Calls for Tesla to Follow Same 'Self-Driving' Testing Rules as Everyone Else"
+    excerpt: "While dozens of companies are following state-mandated regulations for autonomous vehicle testing, Tesla has managed to avoid the same rules. It's time for regulators to step in, according to the Editorial Board."
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else"
+    ampWebUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 51
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_401540152.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Tetris in your Tesla? Feds probe potential of drivers playing video games behind the wheel"
+    excerpt: "The U.S. has opened a formal investigation into the potential for Tesla drivers to play video games on a center touch screen while the vehicle is in motion. In a document posted Wednesday on its website,"
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/"
+    ampWebUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 49
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2021/12/Tesla-video-game.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
     excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
     publishedDateTime: 2021-12-21T22:50:00Z

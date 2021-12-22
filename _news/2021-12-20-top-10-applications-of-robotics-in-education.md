@@ -46,6 +46,15 @@ related:
         width: 616
         height: 582
         isCached: true
+  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
+    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
+    publishedDateTime: 2021-12-22T16:31:00Z
+    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 34
 
 secured: "HGK5u9yI0RCdFJ/Dg7tjZwCNUyFoM8hmA+bItjRv8Log1ym4AtGlKvwlvn3Wfx/tSAQbG5STgl1u/d9wElbrldWOBU+lcyslwQSKLptpmOzPTsw88nGVALe/JqGn07+tDNYj6FWdkeFCelJykSH9xtZY7625VPAf1fHXt6Kd27C6cDMqn20iyMZsKWP54ZG74r1L50LktutmcUwxio8S9qUZBJh4k1dog3MH4ykHQ0kYmUMTmdLXHP2P3AcJd9O3OEPM8L28Od1onBVjhYcAIZbRdYqonVR19Tl1WBY+1R7f5wDR6jnjrhR8rfBaLxKc8/uYVzzCE4ZwP9URN5xMsXX8KOqThaWcMcXTTAZxP8w=;oyR8dMhlepGwbob6ZaB8FQ=="
 ---

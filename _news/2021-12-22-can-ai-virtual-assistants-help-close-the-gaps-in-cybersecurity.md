@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-v
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 16
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T14:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/21/9515494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Executive Spotlight With Booz Allen SVP Cedric Sims Highlights DHS’ new Cyber Talent Management System, Cybersecurity Challenges, Responsible AI"
     excerpt: "Cedric Sims, a senior vice president with Booz Allen Hamilton, was featured in the most recent Executive Spotlight interview with ExecutiveBiz on Monday. He talked about the challenges the Department of Homeland Security is experiencing in the cybersecurity space,"
     publishedDateTime: 2021-12-21T09:42:00Z
@@ -85,16 +76,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T18:15:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "UijHJ9baMBN/5rUkT1EOGPpXs8doo09X/Jm2PlPylXLmgretzY4wvh6m0tfiAzHB4d9+KUeytALemK2Bjst7GHRZTancgpR2RJTmoWT9ybfGlcmzKdaeMxk+4Gdk8bTetYz5sk2ouyMraggGQ1WNjTihZgG2QE7RazwdAV48mZKVkidt8kX+G8XIU3Btj8LGU0jUERiRAENYydePzwYdXU95TNWYHlHIITcNcXM8PkMfGEOaMDFGl10QgwWKQM+OJmMozZWf0a4pJMrYtNsTp6IqwGMgsLj5TRter+LMNzEAoazwKCwPUg8SmdCyrVqV5SfHM+g57M42k0LrLDRZmSuc/XL94RGBpyYxgB6tm/U=;LrLMMKi5Ut17mjFPjl+aoA=="
+secured: "N2gh/NBx4X5ZZ1yNJ38cfyNywEDcYIqi8n14p6yMy3kOMuhxD0zgh0/00Q/hE0EgygYbffoRJBXs3HDyMG2hHAqRZyYvk1meL1Rp96FD5tdXdlvE3VqMBUlfRFG1FnwQzsGILRfEtmpzpQxHZOopFHO/V31mBTqu/M6AE2p77R1IXgpBxyoo+hniMKVOtC1Bh67CtpLA9/eumTbgJD0sPNyYwettWNbAn6v7kJ1s0k+90quHM+jmtn7XTj1P+RagBsiPdsgPtOIyBMAyUuY0imVJ6GJbo+ArcjFm9Kj1DqqfLlRZUnAbnrJXNDnFbbCaju2NmxGHOm/Dgwm854jAhcVYwNqpeAzX+FLx+Pb1D2y9MhrPvGWjeoDDWTiGhpaj3Y+EHeMpy2f7cEvclUpghRMW22K+m1tCxcZar6b+ZoH3lpD5asoUp/GqcKOHRy4pl8UwdhoaWpgiN9fg+4ez3rpsCouPdJqtHKef40ClTe81CsG5ndTXjg+jv0dokOrDvbISIguhue9hm6wQHN9lTA==;h1tDASoa7rER2gcXCwQSVA=="
 ---
 

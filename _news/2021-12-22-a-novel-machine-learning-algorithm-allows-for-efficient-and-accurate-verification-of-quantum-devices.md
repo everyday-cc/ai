@@ -1,30 +1,22 @@
 ---
 category: news
 title: "A Novel Machine Learning Algorithm Allows for Efficient and Accurate Verification of Quantum Devices"
-excerpt: "Technologies that take advantage of novel quantum mechanical behaviors are likely to become commonplace in the near future. These may include devices that use quantum information as input and output data,"
-publishedDateTime: 2021-12-22T05:00:00Z
-originalUrl: "https://scitechdaily.com/a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices/"
-webUrl: "https://scitechdaily.com/a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices/"
-ampWebUrl: "https://scitechdaily.com/a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices/amp/"
-cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices/amp/"
+excerpt: "The new tool tool could make verifying the behavior of quantum devices a more efficient and precise undertaking than it is at present."
+publishedDateTime: 2021-12-22T15:32:00Z
+originalUrl: "https://cacm.acm.org/news/257537-a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices"
+webUrl: "https://cacm.acm.org/news/257537-a-novel-machine-learning-algorithm-allows-for-efficient-and-accurate-verification-of-quantum-devices"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://scitechdaily.com/images/Quantum-Reservoir-Computing-777x408.jpg"
-    width: 777
-    height: 408
-    isCached: true
 
 related:
   - title: "Machine learning models quantum devices"
@@ -42,6 +34,6 @@ related:
         height: 367
         isCached: true
 
-secured: "q+OQD1FwgeqvcCSy+ux1t8vnsdU5yAwYTgzr5QiGDgH0etawYM+p4ImMCdUUTEDpLibHWBwEzCyO4OsGpgHSYRu1QeXpA8ZWNakc2Hx+3VKCbKksXHmseIz4kfk6q9yaV5uDjF9IPCnbpvTWs9TLnDpgp9sK4r4ZKcZx+aVcedKFn3d6dSytYH0GkKcQHerv7ln/DSybVYaTqdl2uFoHegaPwjaQdbXXmLGUyhop5LZHzckNy/3DiNd1LYIvuyi84qNAuuZzVW+BQZ8r2iF7Ii+Qo3MxH4g5eVXwZj+9IOogj/EOMTUOhA/vsJnG7VjxSGdsKBv4Q+ihe0HCpnQakyrVn/I0REvui4LVRJ6CKOD3HDRON7HGYM0SNqQG8KBxz6ID/ra7E7Ug0vpf0IZE/Zv0sZaVuIQ4VMfAcsQ55WUHz9Kvh5mHeN1PRaaLX6uyej4BxbFH3JZXo7RjcAaAraPFgxgs6oBBb+E+NdpuQdcOUL+CVQFtFTpxvhkCqG996pk43x6IRSy4fpR2g/fwSQ==;PXBUNorj3S4nIwk5dNPzHw=="
+secured: "EYVEr5hGGuGv1C7Bx4q27oCms3Akz4guQeNEl1G4UHqtt/QjRqbbMSalFhHgGnHp3W8ULloBxtOunuWeHnv808vpz4QVbT7eRGJJ4Bz7017PHJnvrEQe2Sas695FJ0OepV32oaDuCYTUA1kBaRuIFEZUKBRIjRjmj+WyGW+JQANzavQSr3o0e4oxIX6OtZZI3szLonjHVMJX77TJ3CMk/zGC1bxgyo4jIVPgLG8eg8yf7BZshEc/j/mH3OIM6GD1OWMm/lfXNV4D8lT7luUOmCjBAkt46RiObgb0XZdY2FyT+1iejAUTGCuK8jhGYaSYjdzv1fprOXlFY4iMye3QfvdxtaGyFbEIqK0VqsLnr98=;LhMKY2x2N4eaFW6H4YqPgA=="
 ---
 

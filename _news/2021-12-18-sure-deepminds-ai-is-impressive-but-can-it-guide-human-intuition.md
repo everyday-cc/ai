@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-h
 webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "DeepMind Releases Weather Forecasting AI Deep Generative Models of Rainfall"
+    excerpt: "DeepMind open-sourced a dataset and trained model snapshot for Deep Generative Models of Rainfall (DGMR), an AI system for short-term precipitation forecasts. In evaluations conducted by 58 expert meteorologists comparing it to other existing methods,"
+    publishedDateTime: 2021-12-22T15:20:00Z
+    webUrl: "https://www.infoq.com/news/2021/12/deepmind-weather-forecasting/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2021/12/deepmind-weather-forecasting/en/headerimage/generatedHeaderImage-1638108767552.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "87jiPy7LRFA+E5/8d7/sR3NU0df4LEeC+IWV8rT6IsIuszLX1bFN8j/ZQ3xCxmSnu5KL+qrU2oxvUUKi1ubOwhj/Tg5SnaF0lpcHIgCf1TJNSuUbPfgXs3Kta4iTxYGLRVwJt6vOuvt8ZI1PEAUM+CQd2sBD8g20npbRbHE+454+BW5iCT+JgViQQibd2kXZ3rnfwlNPJXLKqGFXYd64eXEmX6bjDfFRtVHWLVRaXwqP3cUz/X7CZZM09Lp0smpq3LeSXKbyB/JGz9kvwS26AGtqh08PzRfzI2LTBhyTChwE6esQAnZJDwj265hCPuISLIef7v83utXUmwyadwAyNizwGEh+RjOAsS8uj94lxX+7h1AD4BOuRPbjBTblldnjtA/EYlhywJlOtLCY95JQ8qi9u0bwZseowiJu5PU6Re2/0hYeu9rkV3BIIqD1Ll3KntU7w2rMNXSgfqtmpIuLCooDb9cliYuUSfyFa7Deb0ucjCCxIQMdrEm1TlVaJbVqHdKOBN3K6xmFccFgRDpZFQ==;bH43Ysnt5OyT8oGjOKj4vw=="

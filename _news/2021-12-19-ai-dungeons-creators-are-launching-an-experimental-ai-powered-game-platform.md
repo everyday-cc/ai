@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/19/22836418/latitude-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
 type: article
 quality: 154
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Mines powered by robotics and AI promise explosive growth"
+    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
+    publishedDateTime: 2021-12-22T15:44:00Z
+    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 69
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "New ethical AI institute launches"
     excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
@@ -133,6 +147,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AI-Powered Malware Doesn't Actually Exist"
+    excerpt: "Misconceptions around AI-powered malware are primarily fuelled by ignorance of what AI, or more accurately machine learning, is capable of. They assume that current machine learning techniques can be used to recreate human-level creativity and decision logic."
+    publishedDateTime: 2021-12-22T16:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-powered-malware-doesnt-exist/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "fnTtZXzioT/XKS6TT0ZTlxvUd52ArsMiFbo/uJ8rhWYl3abyuvr8kiayEuk5eYMfMc5Kh9I8z+JwEn6MpRiBdfh7pGOA8j+3wtQcuY1hrNsHDK/WDYjam7sLOpwFjtUeum7XRWO9udW4cwncEjc12Yu9d4xYJPn4hQrbDt0Gp/fOhx9NwAcH4iARg7v6bfAI/gn+UBfiyRFDiiyVy2EoTHwXk5ufuNOx6PLmvLqGSgw09sWDzgE+I4qt6deVmGGfPo2zRAe1v0hRlszO1UwHQ7o0veK9eqCFk3ke5mskO2DIkq/+/XA08eO4wgEZ9JEffeoZuTW8xCYWhtEp2gPKK9Nv6k3vC+x9fON1JMNAB5Xf22wS9UssiHnxXOMVnv5CABA/KfbTb5jxWGZboF04Du4WYpA9kOqDTKoLxMLg2KuzeZv4nZ309Mw9CCKPVKY2PcN0Qs7WjxVrYkRE9D7dHvMGglqzLUs3P+2UhfbTSfKE+eRH7J8H3asZkMu0GMbjDlNo0GPgHaGcqM9d6NWdh0w+SnSXUP8LBNp8OCEIXjs=;OupGYImGF9TUMxDkcnra3A=="
 ---

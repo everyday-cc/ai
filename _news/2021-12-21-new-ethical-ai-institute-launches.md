@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mines powered by robotics and AI promise explosive growth"
+    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
+    publishedDateTime: 2021-12-22T15:44:00Z
+    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 69
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Keeping an eye on AI"
     excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
     publishedDateTime: 2021-12-22T00:08:00Z
@@ -135,6 +149,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AI-Powered Malware Doesn't Actually Exist"
+    excerpt: "Misconceptions around AI-powered malware are primarily fuelled by ignorance of what AI, or more accurately machine learning, is capable of. They assume that current machine learning techniques can be used to recreate human-level creativity and decision logic."
+    publishedDateTime: 2021-12-22T16:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-powered-malware-doesnt-exist/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "oQYUGgrH3lSHO3qhBRRqwrGozokgZXhYCm/VYlcD92iCCoq70oiZ0LqQL12hKqNxPK7RojFLC+0SlkzsALYAh9/YfgSgL0ZCT/OD1SK1HUSBbsojJfkRW/tEaJeeDGRUvI3Zx61KTcDpLXFxy0oiFRZZFPnW+wcJzyuIgEbTFOYvlMgF3TeW4ZtS95DR0+1IzgL+ENQr8mfbPgC0Hin5Skt1DatHMWitmRiIz4ZJ9scBymjZxGucDDTaphMy9lXnU/BY9Bx1Vw07lCmPJYyXs57iUdgBo9yOu3H8TJD6FbDUkuqkVYYZ3z0iIbvPFSkByGS3eRFQ4EYrL81ykfi6zkQIz9UmxzlEqzXjw9RnfFROfslCCGt/DdgAVTKTOum3Pw5xRO0C5I4Y1WykIy+STK7mheSadBEVOk3I3ocxtoi9sx5Bxxdsuqpq7Bf7OJ9YtPHr4S/X3NYJo8Aix01/1LLkVVzmgk7NX59lcX9RJ+ncqv9JfnFzI1t1BXB24S/caQeH5BZjIZsY33d7G1b+6Q==;IKxoo/S1312mC6jHUVqDug=="
 ---

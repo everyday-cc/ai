@@ -57,15 +57,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 16
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T14:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/21/9515494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Executive Spotlight With Booz Allen SVP Cedric Sims Highlights DHS’ new Cyber Talent Management System, Cybersecurity Challenges, Responsible AI"
     excerpt: "Cedric Sims, a senior vice president with Booz Allen Hamilton, was featured in the most recent Executive Spotlight interview with ExecutiveBiz on Monday. He talked about the challenges the Department of Homeland Security is experiencing in the cybersecurity space,"
     publishedDateTime: 2021-12-21T09:42:00Z
@@ -80,15 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T18:15:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "bpdwZFIQwBbGMqeUTox5sCAHQyL5dtagjSimU5mYJ/pLOpBWiC8rsRz9/T4olOO+KL1Y/vIBacGM37pOJHuP5B1HQjI8n5ZBE6IxRbQVv9umNkxb/SmPfLvUrHAhyPK1MrZeOUtiz1jyNsaKEYngUy2+LX45LWsBRJ5Bnhvmxjer4WS3wREIP5UjUVteSUhXhlMyQbpLFtDTMs2BwaJDeUa2r5EvFm1kf6GF1ppX40VBr9tTiXd+Ch9khsb/8oQPUO+1ySW+C6Lx/rRTpdMYXINnS8Wzru2+ktYXrLh0DDhIyH4hbyXQxJVzlpzS3Yh30Rk7buoLofX7BaWY7r5xUcWnrnVtFBWdoYEloPMKls1Zojl7hlmB6/7mmWvBYZnvdwOgrwPrL/kFkz2Ulgxm9sY1KuHGtZ0CJ2fmK51Wq9eMGQGKEed/dmDEb+llG9H5uu7uC63wCbEI3a4wW+Qs/6SZej6HhhuuhHI/cd7LWOuojIJhSPBzzD8nXNY4EkjfZ5xYpp+KmaACikdUG3CaLg==;yoKOc5dbQxgfLncykLCG7w=="
 ---
