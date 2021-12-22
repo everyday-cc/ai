@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-28-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich.md",
+      "title": "C3.ai: Remaining On The Sidelines As Valuation Still Too Rich",
+      "excerpt": "While the company has recently developed partnerships with Microsoft Azure and Google Cloud, C3.ai remains heavily tied to some legacy verticals such as oil and gas. In fact, their largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "originalUrl": "https://seekingalpha.com/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1277390448/medium_image_1277390448.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4457285-c3ai-remaining-on-the-sidelines-as-valuation-still-too-rich",
+      "publishedDateTime": "2021-09-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
+      "title": "Google is trying to make its cloud more attractive to app developers",
+      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "publishedDateTime": "2021-09-27T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-engineering-local-recommendations-leveraging-heinekens-global-scale.md",
       "title": "Engineering local recommendations leveraging HEINEKEN's global scale",
       "excerpt": "The HEINEKEN Company is innovating its 157 years old business with data and analytics. Recommendation systems increasingly support our business processes by filtering information for insights.",
@@ -1234,93 +1329,6 @@
         "name": "legalitprofessionals.com",
         "domain": "legalitprofessionals.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
-      "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
-      "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "originalUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain/16204481401716736.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot.md",
-      "title": "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot",
-      "excerpt": "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "originalUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "publishedDateTime": "2021-09-15T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

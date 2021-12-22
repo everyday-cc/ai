@@ -2,6 +2,117 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-26-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
+      "title": "Tesla's Self-Driving Business Is Powering Ahead Despite Setbacks",
+      "excerpt": "The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,000 vehicles, despite the ongoing semiconductor shortage. Tesla’s sizable lead in the self-driving market has also traditionally been a very big driver of the company’s valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks",
+      "originalUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks?amp",
+      "publishedDateTime": "2021-11-25T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-our-global-agreement-on-ai-could-reduce-bias-and-surveillance.md",
+      "title": "Our global agreement on AI could reduce bias and surveillance",
+      "excerpt": "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "originalUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "publishedDateTime": "2021-11-25T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
+      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
+      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "publishedDateTime": "2021-11-25T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-why-data-insights-should-be-a-key-area-of-focus-for-the-financial-services-sector.md",
       "title": "Why Data Insights should be a Key Area of Focus for the Financial Services Sector",
       "excerpt": "Q&A with  Do you see real time data as a priority for organisations looking to boost cost and operational efficiencies? Absolutely - just think how fast the amount of data produced globally is growing,",
@@ -1009,162 +1120,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026.md",
-      "title": "Face Recognition Technology Market 2021 Emerging Trend and Business Opportunities, Scope and Overview, Forecast by 2026",
-      "excerpt": "Global “Face Recognition TechnologyMarket” research Report provides a holistic analysis, market size and forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026-2021-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026-2021-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027.md",
-      "title": "Self-driving Bus Market 2021: Industry Share, CAGR Status, Top Key Players, Geographical Region, Latest Development and SWOT Analysis 2027",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. The global Self-driving Bus market was valued at USD million in 2020 and it is expected to reach USD million by the end of 2027,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
-      "title": "When Reddit Is Your AI Language Instructor",
-      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
-quality: 87
-heat: 167
+quality: 91
+heat: 172
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827"
@@ -148,6 +150,6 @@ related:
       domain: information-age.com
     quality: 34
 
-secured: "PyB4jIhbVw7ccUQPOnQktUbG3WIGbIrojEfazJ7/1a2SUEY0yGFb0b9vaUQYXFjo3vLAX3Bw1MhvWeaNh9FhuBnWCFmGCHM0PVW4s2Ze4YljZZDWqDEK0tXY5sa+YWLjDP7IQmMrePMVzjUQfYyIBnXsu64jGB6Uxz+iGASUz38ebpv+1z+/LvFb04YhDrQWkAm/k/66NH0O6hl+a/ZAq/RED/K8p5Ji4rcXMWbFeuRLyWzC2VPVJlTO0RSEU71SG++RYIhu3OPK6Lzu/bVHKF34O+lusKphLsYU9ue6OruJvYs2WvTgmIZ1k9RDjOgIwcYcFZc0FY5xIaBupM2UFqtaR6OUcM240uzYVleAsQk=;pOfGRvui2rPbvlXtDLa/bA=="
+secured: "CoFTLE9YcdOmSlu/ZTazSByQC4Sn0Apky9w2muk+pNdO5puzpH0VP9HF0587OdCdRd7isGmpzVZ5kEhOhul4ppi4OOBBwsj3R86Z+IsEHXEYA9CA0whEI4Ze0mJ7n97m+VNwF5jA6nowJ1Q056E7Ef9zznImpU2jlLnRa2ynnbxr2B3JlIglnmFCa5s5F8BlXIBtYHP1Lnklrof+UfXlXk2Inf+gwD23rfCjjMZHexVaMUP96+JzFXxM6+5tBbehTmC4d45zmsTiiGNA2nttKZhK8Mg/HUCaLfZP76GgXwreDE2ujyqQ/hZVmwl9jwlrFHKb1CN1G0aYfC5zTF3Atd5U5eP4FulHOLNzxW1IGkgwySDXlQ7nVQxCxyaZXUs4+0puXu2T1RegogEzg8IBGK4rf223Z8b6vpcwxSI7SOYe7pQd7zeQ6hmf0zN/lW3X52W9lWDkrxudwhNtcWN9Pl07dVSMFvwYlWN6j/PqQnIrw/F2ETMEcqTvUajbyYkomIdQo1Ma9x1XTTDfXjM9NA==;W1+pe9IF2i/DMSbGNd6Zcg=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Tech5 face biometrics deployed for COVID-19 status verification in Chile"
+    excerpt: "T5-Face will be integrated by partner Solem with a system for linking individual’s biometrics to their COVID-19 test results."
+    publishedDateTime: 2021-12-22T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202112/tech5-face-biometrics-deployed-for-covid-19-status-verification-in-chile"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
+
 secured: "pqugFmRyhWpQKrMtxyIedGVs9c7tjslrqyt1xCapyD0wUTxTPLj2JqozL97XGb41Vq7pA9zOs10KVG2fO3uuH0BDE91M/QFp5c9kti6+1xtA7MM7X+R51+Uz/QUA9B9ysp4nKBRQvLBm4ne/rFuAQxzNvDQ/f4vQMg4TYjdYPFmaIw81btKgDHSAzRLX1MKijKul1WdByoloL5Z+bIDUlmykLxwDmXC1+tq9oOQsUkwJ9PHkcIEa7cCPFBnwK2WIb2E+YdwkniW53U4uK3PldwbH7zzkLB72x7l5Ek3oc99a/FvZMo/Q4g1YwS2ZuTfwQBVsU668wmxaWO+fuIGn8jhsfawuZ4IVRe9Hoo2fUmk=;oAIAu0VtAVH87DCUP2VlzA=="
 ---
 

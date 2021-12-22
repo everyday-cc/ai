@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
+      "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
+      "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "originalUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-485025710.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "publishedDateTime": "2021-12-22T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-4-ways-artificial-intelligence-is-improving-mental-health-therapy.md",
       "title": "4 ways artificial intelligence is improving mental health therapy",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -92,7 +144,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
       ]
     },
     {
@@ -302,7 +356,7 @@
       "originalUrl": "https://thenextweb.com/news/6-trends-shaping-future-of-fintech-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -768,6 +822,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-22-is-artificial-intelligence-about-to-transform-the-mammogram.md",
+      "title": "Is artificial intelligence about to transform the mammogram?",
+      "excerpt": "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
       "title": "Faster, safer, more efficient data processing with Edge AI",
       "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
@@ -1084,101 +1180,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
-      "title": "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
-      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713799/Leopard_Imaging_CES_2022.jpg",
-          "width": 400,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24724562",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562",
-      "publishedDateTime": "2021-12-21T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
-      "title": "Nanome uses VR to build molecules and reality check AI recommendations",
-      "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "originalUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/21/8d1dbbcf-b504-4280-bcbb-446527541fbc/resize/1200x/6a99c0ca19d2f3cf1532999ac411c2b1/nanome01.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "publishedDateTime": "2021-12-21T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/12/20/dar
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
 type: article
 quality: 149
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cassava scales up investment into AI"
+    excerpt: "Zimbabwe Stock Exchange (ZSE)-listed digital solutions outfit Cassava Smartech (Cassava) is scaling up investment into artificial intelligence (AI) to maintain an edge over competition."
+    publishedDateTime: 2021-12-22T20:24:00Z
+    webUrl: "https://nehandaradio.com/2021/12/22/cassava-scales-up-investment-into-ai/"
+    type: article
+    provider:
+      name: Nehanda Radio
+      domain: nehandaradio.com
+    quality: 39
+    images:
+      - url: "https://149516130.v2.pressablecdn.com/wp-content/uploads/2020/05/Mr-Eddie-Chibi-CEO-Cassava-Smartech.jpg"
+        width: 680
+        height: 380
+        isCached: true
   - title: "Cassava scales up investment into AI"
     excerpt: "The firm’s chairperson, Sherree Shereni yesterday said in a commentary to financial statements for the half-year ended August 30, 2021 that the strategy was anchored on a sound capital and liquidity position,"
     publishedDateTime: 2021-12-21T22:00:00Z

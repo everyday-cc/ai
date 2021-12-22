@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/6-trends-shaping-future-of-fintech-202
 webUrl: "https://thenextweb.com/news/6-trends-shaping-future-of-fintech-2022"
 type: article
 quality: 54
-heat: 124
+heat: 125
 published: true
 
 provider:

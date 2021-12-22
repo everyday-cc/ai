@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Global IoT Technology Market Outlook, 2026 | Evaluates Leading Vendors Nvidia, IBM, Intel, Samsung Electronics, Microsoft, and 45 Others"
-excerpt: "The \"IoT Technology Market by Hardware, Software, Platforms, and Solutions in Industry Verticals 2021-2026\" report has been added"
-publishedDateTime: 2021-12-22T17:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html"
+excerpt: "The \"IoT Technology Market by Hardware, Software, Platforms, and Solutions in Industry Verticals 2021-2026\" report has been added to ResearchAndMarkets.com's offering. This report represents the most comprehensive research covering core IoT hardware,"
+publishedDateTime: 2021-12-22T20:16:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/22/9516296.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/22/9516296.htm"
 type: article
-quality: 6
-heat: 6
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "klyai6ORvqN4H+I+xw3U6Aucd6EWCHTrRoimD3AmjW3r/lcsPXEi8ipUPdd0+MGB6e5USSXbeyjaZ0oNCR90cpqmne7bIXGCb/zshqT8PW3zToZaJsHLi97mHQRbFdoM1/kzJu6RMcRftTcbrq3fy5QxcbIxnALnYc6CXruP6e6H2EsIJaz4hqSVOrZqe/0u3WCTbr8jznZmbRRYDzv7iLy3Mbzmi6i6ijfYyFGh0TXqYySdwncKV7VqEVde4IwCDES3/CiFWjm5SbqQDxP7ky7cy+HSBSM1Nu9IvMjhui1aD9u9ltlI8YFv1/LSZHCzV3+4ZntG0vTLF312294aMfBerGmfj7Aaf7auTH5Q5Hk=;ZxlvdRVbQGIl4NwMzHWiyQ=="
+secured: "5yKi7i8nppyIhSUw+dhuX8fynGxRVS3wstq9Bevlszlc6fO4B++jjhjZT9TOf9AVr7tZkjTdqA/LHRrUHtveovBqUAhTOXjpwUfERCsAviK8gm8A44lHL6mMDasNaf1vQ0DSj2MqLuTmMmG84XQWlML4QOtjJBbrqHd9A7usF0PVwRGp7yjj4NTjSbvS7aWjN0cOBcARyMT8Zeskto/owAtmHFAIfxCAaj5cCwWJ2RdqAw4oAcX2L3ZgALnWIYk7q7l4QC0iEexnH7+CFxJf9rhyEIe1DHjV5WkIpYt+lPN99ompDJfbSCfwaPYDANX6EIaexpZfR1Z2RSYo7NS29355MT/wRlDuPz/UreoygJU=;LBZINVPDFOiJRDBSfDGzoA=="
 ---
 

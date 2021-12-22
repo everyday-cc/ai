@@ -2,6 +2,135 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-08-major-outage-at-amazon-disrupts-businesses-across-the-us.md",
+      "title": "Major outage at Amazon disrupts businesses across the US",
+      "excerpt": "A major outage in Amazon’s cloud computing network Tuesday severely disrupted services at a wide range of U.S. companies for more than five hours, the latest sign of just how concentrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
+      "originalUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2021/12/71ed0401653f47078aa4a634650406bd.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
+      "publishedDateTime": "2021-12-07T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS17 Raleigh",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-data-labeling-will-fuel-the-ai-revolution.md",
+      "title": "Data labeling will fuel the AI revolution",
+      "excerpt": "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
+      "publishedDateTime": "2021-12-07T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-aws-reinvent-2021-four-key-takeaways-for-asean-firms.md",
+      "title": "AWS re:Invent 2021: Four key takeaways for ASEAN firms",
+      "excerpt": "AWS’s third-generation Graviton processor and other offerings in edge computing, machine learning and digital twin technologies are of relevance to organisations in Southeast Asia",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms",
+      "originalUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms?amp=1",
+      "publishedDateTime": "2021-12-07T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
       "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
       "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
@@ -1067,142 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-mid-2022.md",
-      "title": "Intel plans to take self-driving car unit public in the U.S. in mid-2022",
-      "excerpt": "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "publishedDateTime": "2021-12-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites.md",
-      "title": "Bookmark Introduces AiDA: An Artificial Intelligence Design Assistant for Websites",
-      "excerpt": "Bookmark ( bookmark.com) is the world’s first and fastest Ai-powered website builder. By building revolutionary artificial intelligence algorithms over the past six years, their proprietary technology AiDA (Artificial Intelligence Design Assistant) is now available for anyone who needs a website or online store.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "originalUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/12/44.jpg",
-          "width": 1799,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "publishedDateTime": "2021-12-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-algorithms-are-making-many-of-your-decisions-and-you-might-be-ok-with-that.md",
-      "title": "Algorithms are making many of your decisions, and you might be OK with that",
-      "excerpt": "The odds are good that at least a few algorithms helped you find this article. After all, algorithms—which are essentially systems or processes that help make a choice—have been around nearly forever.",
-      "sourceUrl": null,
-      "webUrl": "https://news.arizona.edu/story/algorithms-are-making-many-your-decisions-–-and-you-might-be-ok",
-      "originalUrl": "https://techxplore.com/news/2021-12-algorithms-decisions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_card_image/public/images/people/kyle.jpeg?itok=xLpRSRj7",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
