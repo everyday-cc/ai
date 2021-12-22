@@ -39,20 +39,6 @@ related:
         width: 500
         height: 355
         isCached: true
-  - title: "Europe is seeing a hiring boom in mining industry machine learning roles"
-    excerpt: "Europe was the fastest growing region for machine learning hiring among mining industry companies in the three months ending October. The number of roles in Europe made up 10.2% of total machine learning jobs – up from 1."
-    publishedDateTime: 2021-12-17T10:00:00Z
-    webUrl: "https://www.mining-technology.com/features/europe-hiring-boom-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 38
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/08/machine-learning-5720531_1280-1.png"
-        width: 1280
-        height: 804
-        isCached: true
   - title: "Where is food industry’s hiring for machine-learning jobs buoyant?"
     excerpt: "Europe was the fastest-growing region for the hiring for machine-learning roles among food manufacturers in the three months ending October, GlobalData says."
     publishedDateTime: 2021-12-17T15:04:00Z

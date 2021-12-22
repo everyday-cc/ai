@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
+      "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
+      "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "originalUrl": "https://www.cnbctv18.com/market/stocks/anand-rathi-wealth-ipo-listing-anand-rathi-ipo-subscription-update-december-3-gmp-11689562.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ded48d3-1fc2-468c-99bd-b1e0d8e02b98.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "publishedDateTime": "2021-12-02T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
       "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
       "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
@@ -1116,58 +1158,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push.md",
-      "title": "Picsart acquires R&D company DeepCraft in seven-figure deal to aid video push",
-      "excerpt": "The company believes DeepCraft’s AI technical talent and its breakthroughs in computer vision and machine learning will enhance Picsart’s own AI technology and help the company better support ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Picsart_DC_04-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
-      "publishedDateTime": "2021-12-02T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

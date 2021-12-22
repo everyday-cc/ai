@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
-    excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
-    publishedDateTime: 2021-12-17T10:49:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/17/fa83cd71-c727-41c3-aceb-e575a5f9552f_b0e45619.jpg?itok=NKVXvcSK&v=1639738029"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SenseTime Relaunches Hong Kong IPO, Trading to Start Dec. 30"
     excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. filed updated listing documents with the Hong Kong exchange as it sought to resume its initial public offering, after a U.S. government directive forced the company to delay the process."
     publishedDateTime: 2021-12-19T23:19:00Z

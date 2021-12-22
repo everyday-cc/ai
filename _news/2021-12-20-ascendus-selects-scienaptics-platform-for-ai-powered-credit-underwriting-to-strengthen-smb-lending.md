@@ -40,22 +40,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "How AI And ML Are Changing Finance In 2022"
-    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
-    publishedDateTime: 2021-12-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/17/how-ai-and-ml-are-changing-finance-in-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb4ea97e034c7c7b01f125%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Neural’s AI predictions for 2022"
     excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
     publishedDateTime: 2021-12-21T17:00:00Z
@@ -83,6 +67,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
         width: 821
         height: 462
+        isCached: true
+  - title: "Keeping an eye on AI"
+    excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
+    publishedDateTime: 2021-12-22T00:08:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202112/22/WS61c26c65a310cdd39bc7cc22.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
+        width: 512
+        height: 512
         isCached: true
   - title: "Webinar on career in artificial intelligence"
     excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."

@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/17561/dhl-orders-100
 webUrl: "https://electronics360.globalspec.com/article/17561/dhl-orders-100-self-driving-trucks-from-tusimple"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 752
     height: 501
     isCached: true
-
-related:
-  - title: "DHL orders 100 self-driving U.S. trucks from TuSimple and Navistar"
-    excerpt: "DHL said it is looking forward to deploying TuSimple's driverless technology across multiple regions outside the U.S. in the future."
-    publishedDateTime: 2021-12-17T10:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/tusimple-and-navistar-sell-100-self-driving-trucks-dhl"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TuSimple-main_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "NB6oUPVsumAGH1/EUGcU0lvuoon81TNEKaNmofUhhrEvY9JwOGDB7ysJycZXundXy2S7SZ6zot/uiBGB4amsNlCCUxS+w2jgg4rZ6F5ezjnn/a3WO/Y9z2W6HAy9gVQwpgeNDb/FF05rXU1kjgyAP+IfnikmK4/u76I3cORvVLSy4FoNNx8BIdPTGoH9TFjcFmAh/OwuCRlVLfQtB7aLamoSq03xHynm5Tw4X+zDUhMLHmsXq1n113yRkQPWsvKwWwoYjq2/a08ouDuAEr4EW3PHDlm0fJSxG6s733x//O/rSxfdn490FPI0uXQlPPDe4m4obd5pmIxc+Mb/B7H95s7wzP0OZoEVIGgzHHwWrxXle6/pgHYB784FKToQ7TNTvHi2DPGymtY39akLSV28N6dhTOdqBelSmY0se5/Ey6DEH6sC8dfWNtYLaRxFmKZww0JjoMYnEfaTucXrJEvD4L4XZqfNKgoqnio7JnYpo9abdKcfRMhIL6RbJ7wyK6VJNmMZMtmqRLE+usVYYh137w==;64AxiDV4zY3+xoHc4BL5gQ=="
 ---

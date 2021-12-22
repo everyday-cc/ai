@@ -72,22 +72,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Investors keep faith in SenseTime as Chinese AI start-up gets about US$500 million in cornerstone investment, say sources"
-    excerpt: "Nine investors took part in the fundraising, with Mixed-Ownership Reform Fund pledging US$200 million, sources said."
-    publishedDateTime: 2021-12-17T10:49:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3160157/investors-keep-faith-sensetime-chinese-ai-start-gets-about"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/17/fa83cd71-c727-41c3-aceb-e575a5f9552f_b0e45619.jpg?itok=NKVXvcSK&v=1639738029"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SPssviTP61eFrFu2Uni9YbNAUvmP+9sZRHkDNeInfGhlJIOxuY12WSjwbmNc9WFxvec/wlmB3zqbPlO0nQcFWq1jfr1lWYaKqmHKxKDore3zXSUrAErTLQYKYhxbEWxpLf7aQJeb4uHW2MM+fKKnBE7ACfRkrb5XZkeN3jm28F9favuq2iyw3JqYuxIKpY3W56hjyCzlN/oysYLXTiCmilbkar529LZE066gpNZEE+IptQkRJvA35zVnN7ipjQ122SMeR+psJiomAfM35wrxH6VH3DbWfhDZ5Lv8jHvK+pxokRpCXxPD4UkmcozXo2+zDkaZvTqjtEDGKMbLkQcHvcXe4Ouo6dYhyHdSV8TS13ajNbR2gvJkm6nIhorkRYQDWKdr44wV8Pg+ZjLoqnPJnCFDmZu0K97xdFI3LITgGY8DQdzcDgdWhuumJm/ipsQaw4duQLvCh/7IH3gO5otEc2vOW2o0m1sCPxhbmN8rcS5nYCIUgkQ3Yyfi81tm9K2lzib/fQlT6R1jXUAdnofRPQ==;JESNq91H2d53qnGube6E+g=="
 ---

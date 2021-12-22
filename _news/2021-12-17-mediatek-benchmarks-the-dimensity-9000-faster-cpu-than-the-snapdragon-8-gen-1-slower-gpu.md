@@ -9,7 +9,7 @@ ampWebUrl: "https://m.gsmarena.com/mediatek_benchmarks_the_dimensity_9000_faster
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediatek_benchmarks_the_dimensity_9000_faster_cpu_than_the_snapdragon_8_gen_1_slower_gpu-amp-52333.php"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022"
-    publishedDateTime: 2021-12-17T10:44:00Z
-    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
-    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 59
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
-        width: 437
-        height: 450
-        isCached: true
   - title: "MediaTek Dimensity 9000 Benchmark Reveals a faster CPU than the Snapdragon 8 Gen 1 but a slower GPU"
     excerpt: "MediaTek has taken a risk by releasing a video of a Dimensity 9000-powered device running a variety of popular benchmarks, effectively throwing the"
     publishedDateTime: 2021-12-17T14:35:00Z

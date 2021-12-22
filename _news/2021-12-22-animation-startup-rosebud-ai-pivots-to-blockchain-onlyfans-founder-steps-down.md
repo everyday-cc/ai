@@ -40,21 +40,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Reddocoin: Revolutionizing Drop Shipping Business with a Combination of Artificial Intelligence and Blockchain"
-    excerpt: "Reddocoin is the first-ever crypto-friendly e-commerce platform that provides full automatization in drop shipping business. Analytics Insight has featured Beka Natmeladze, CEO of Reddocoin in ‘The 10 Most Innovative Blockchain Companies of the Year."
-    publishedDateTime: 2021-12-17T10:10:00Z
-    webUrl: "https://www.analyticsinsight.net/reddocoin-revolutionizing-drop-shipping-business-with-a-combination-of-artificial-intelligence-and-blockchain/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 32
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Beka-Natmeladze-1.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "fDv3CCyseuwY+djprL+rhdWSJyHoULIP2paFMJxahvJ0mGoLhAQpT4ISpPAMuCWX/F0UfO6AsYgxdKv5GUiw9A5iZZmW5vpJtQiBDu0Tsh9bmr6NbM8AwJCx/ddeH/RPcCfz4fLwydEOYPyy3OlsgB2M8WS+99WHTpT3MOuM4hSoRhEJffNiqzo7M94bRqtvNtT/jHWkd8872Wz1NOG6trbU2sq0LyvUQ95wZm9KAhufTwtIfKmivguz3SWFcVW31v4W07cCL8S9DpNSVFcLNn2LQs8pQMKocolGqGeK1sHzi3C//sLGZxEiSZD9CRdfiYj6Pxb4/FxzmOu89UJtwOxrbOhJ1Q1VV3Vn3bW2a0I=;V97P1EvCa6xO1FG1csBK1Q=="
+secured: "KJWi4eWKA2BaspLHNAuRe8fwnJJrlsgSGnCAAIrOTRNvc3nJgVX/6nsnYL7x/fcewNTiZH/Dsw2o93CbcIfokCCRjbduRBXGgFmrqcu5vfBdOBGcy7MJ/HcQt3ljRipQIX1UyzCcMNzPLTSt+bB8N/ES+zZoNKeLIG1S3yLueT0Zl+3RB+/UBXxWwIc6iKo+W2xfF6O2JVz3VGvLtautVGIc9JPRSTcrCYhzCirCMOFHo5yTT5JGgal3WCCZdVbF3Wt7toAozC/4LRxph5zBFnbHfLT9PPGcjseQN5OpQWhC1IJFaxsjhfAdApFZG5kC9fCKeJZcV7GeWQzYxcBoruXNFW72+3XwnKRQ4Sl01NBpAbzFOz5+YlPTT1KySXENPP6YCZBkPcJVp9ksVJq4O/5lTMfirl2s8ngLEyAGWAviPSazPVUwVA3KGqZgCuYevvcai9sjxHaRUJFhBQX6cI561B4k7Xz8R5WE91wQZBgEGV4BVt5JRw9xFyvmLtAgrYyoee031jMpOQShQI8TEQ==;t+i0ksgRYXJWl62woEKOzA=="
 ---
 

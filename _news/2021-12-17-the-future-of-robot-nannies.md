@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/roboto-nannies-ethics-liability/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roboto-nannies-ethics-liability/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 2400
     height: 1350
     isCached: true
+
+related:
+  - title: "Why the Future of Healthcare Innovation Lies in Community"
+    excerpt: "Healthcare innovation as a concept will often make people think about healthcare solutions through vaccines, breakthrough treatments and artificial intelligence. But the consumer-"
+    publishedDateTime: 2021-12-22T01:30:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/Why-the-Future-of-Healthcare-Innovation-Lies-in-16721070.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/26/56/21851037/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "5t62NebHkr9+ATysxStds3C7xz6IjEhnoidML+tvHEO+UUKxp+zlbHOkYPUjdKbsmv7KWrNg7MjmDe29moT6vVJHYzwfFFOOVQcC3Etl+hODbPfpTjCEvyS3AbTRGATj0sXH07U2OGqEpzlRFxbsT8jOxAMO6c1aEdeJD14cX2a6RlO4pIh0eKtJVw2J/aP2pO7USgXZlr+sKH4FMlREm3F+r0m6z2Wwt+/GjmCj8L7k7Md/gKchE3C+Bs0aSSFh8JBrIASk6RYZxrLBUhp4VijIFJZLxma1TW2nhyY6h2O4EmBp0MV7DlY6a2/Acwqg7YdllyhuL8dMFxo39LCJBcSabou7g3I0pFmaVZ3Ov2bMdr2n3I+iRnbE8w1ZOIYZ++WXtpI0214ezslr7F+YZ350xF7HzJScQphD4QDRCV7D96T0xftM3xS2PaE3H3FP0gr/cb0w2nRxolypEK5Y08nqoVr8X9v6Akvlx0Pcp00z/cf0sT2mZHiYpApww8pcKA5H794nPUJFFNw/XNTARg==;6nLztd7IpHS+hRiEZf5jjA=="
 ---

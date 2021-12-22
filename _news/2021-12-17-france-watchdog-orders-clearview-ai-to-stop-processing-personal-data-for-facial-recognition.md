@@ -52,20 +52,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "France’s Data Protection Authority Orders Clearview AI To Delete Facial Recognition Data"
-    excerpt: "France's data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop"
-    publishedDateTime: 2021-12-17T10:08:00Z
-    webUrl: "https://www.techshout.com/france-data-protection-authority-orders-clearview-ai-to-delete-facial-recognition-data/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 45
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai-2.jpg"
-        width: 690
-        height: 368
-        isCached: true
 
 secured: "lruqgx8S2NlM8bvTRLsJCcJjZemjTR/UnImfzxsZ5OZDMCjyZJ7DKZIgSrf/8lUaHO8SRiDxc6mIMFKwrxx+qIKfA59MovhcNNjsw4zt1OpYdKHZjLDrtJbjFyJIx6so0/og8shLgxlpRYcKZ8Ma7un9wGzri3jBKW35IQke1SySAY7IsernXHGgb9VpR4eyq/GOvpl25Qo85YvorJh1/4Wp+H8o4XkVOUDbH7XjRABvVFxWI9PnML0ktrzSOI9PJbhn9dbjNYMjrxWRSdREc32S+8iZYK2Tc4mGnNbEcyRbmX0g4YHRbgcZ8pldJIiQU8VmkuUOB6+lsJ6X6y0bIKe5jC97mAC3RH9LX43c3gksd7STmWuhad/QlOJqPM3baWjpvtcf2vm/udVaNrLGvgQgX2cw1/ODEnMIRbV0uSpxObGowDBDPKVZ/xN9qyuPPiyN4CbtlRsWKHigKIO2Y4rCTCIbjTU3oIicBmlaDI5hWCzTz7B/8pHp8WTPt2WHMhru5vB28yL/1ytg2HctkA==;gbqkg58REPW4JSOGxwZtMA=="
 ---

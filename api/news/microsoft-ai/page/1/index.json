@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-18-announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure.md",
-      "title": "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure",
-      "excerpt": "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world.",
+      "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
+      "title": "Teradata and Dataiku join forces to improve data analytics",
+      "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
       "sourceUrl": null,
-      "webUrl": "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/",
-      "originalUrl": "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/",
+      "webUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
+      "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg",
-          "width": 2560,
-          "height": 1600,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T09:21:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
+      "publishedDateTime": "2021-12-18T21:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "OpenCV",
-        "domain": "opencv.org",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

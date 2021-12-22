@@ -7,8 +7,8 @@ originalUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-c
 webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: OpenCV
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australian Army and Microsoft to use AI to analyse voice communications"
-    excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
-    publishedDateTime: 2021-12-17T11:00:00Z
-    webUrl: "https://www.technologyrecord.com/Article/australian-army-and-microsoft-to-use-ai-to-analyse-voice-communications-127586"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10649/img-Austalian-Army_940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Learners keen to know more about artificial intelligence, Microsoft Excel, financial markets, Korean language, and mental health, says Coursera study"
     excerpt: "Australian learners expressed interest in topics such as artificial intelligence, Microsoft Excel, financial markets, Korean, and mental health and well-being, reflecting that they recognise the shifting nature of work and the changing contemporary social and cultural landscape,"
     publishedDateTime: 2021-12-20T00:41:00Z

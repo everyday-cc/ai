@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms"
-excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an Elite Partner of Nvidia Jetson Platform, is announcing its plans for the Consumer Electronics Show (CES) 2022 from January 5th to 8th showcasing advanced imaging solutions and AI edge computing solutions."
-publishedDateTime: 2021-12-21T18:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1031060072"
-webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1031060072"
+excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an"
+publishedDateTime: 2021-12-21T17:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and"
+ampWebUrl: "https://www.benzinga.com/amp/content/24724562"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562"
 type: article
-quality: 73
-heat: 93
+quality: 65
+heat: 75
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI Hardware
   - AI
   - AI in Robotics
 
@@ -43,21 +42,7 @@ related:
         width: 1920
         height: 948
         isCached: true
-  - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
-    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
-    publishedDateTime: 2021-12-21T11:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
-        width: 2561
-        height: 1341
-        isCached: true
 
-secured: "PttYfL7lE1rtFuSikV56rPufvB+7hSPfAat6VxqeOJFDyvTRTtp0TuygItCTJ+xDmcgwSBwy9AOZIQH4Uwe2kPUZgVFeQvFC/uPy73cPBH78z5PiJvh3Jqex77TufMItISRuvr59cdwLdkb/JvLmb6jD4PdnD+4Egz3qIBXfDZ1ZZZSvFUVC6y3ggSeaaaWvlyPX7Lgmkzi/nqTabnxwMMnpKLo7ff7Iz1BQgLmx4M0nn6JkfYxjmWYFoARPcdwZGjfznCwnhUfW6vSpg8FLbdnm2CUqZKGLTZEI4OXAUAzAH5h5gsjmGTrHyrf7HolkbumUjLNDLhhg/HRu1P85NlLZdn+mUxEfoZEkhXD2tM4=;tb3iQhVvZHp5XL5kStnySQ=="
+secured: "EFN9nfJQXJdeB/5OKP1ha0QStiHtc37aTJL1W/we7VruSPMCQ59B5inan6wFulKTvM8dUHwwS1Tp8GSfCRhAKPcat7aWy7KCaYwdTV036ex14G6jbiTyv9x2q9ZqGC/iYiDG25UwM7u7dOut6PQcBCwkhUjGULX0qrODRtOkwJY9qhiqofHTBVjT3VkxNbi+xUBWmwGkcCx6ey+k+Bduy8AkPEcmcFgltalkOjrUhEsc9BbXVUe6wu6fPgffk6PfsvP/IzUGPIPzn2piwSbRxgBU+7kJ5+HuOlbc2E9IQsuHBzVujROuNPE2jy0xuS4FJvFnozHw1nSNTwz45UUnGq4FsnRdOSn8t8L6hIFuqXw=;odTJKXNbDCzsj9/SnDX50w=="
 ---
 

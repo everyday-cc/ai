@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 571
         isCached: true
-  - title: "AI and machine learning in compliance technology"
-    excerpt: "To date, the use of artificial intelligence in compliance tech has been piecemeal – but that’s all about to change"
-    publishedDateTime: 2021-12-17T10:50:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/ai-and-machine-learning-compliance-technology"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 58
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Stock%20photo%20-%20AI%20machine%20learning.jpg.png?itok=pd_KbNhg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bridging divides in AI, machine learning"
     excerpt: "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities"
     publishedDateTime: 2021-12-21T14:20:00Z

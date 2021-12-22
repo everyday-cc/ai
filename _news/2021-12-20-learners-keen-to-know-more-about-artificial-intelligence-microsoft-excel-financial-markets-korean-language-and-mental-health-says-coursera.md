@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Australian Army and Microsoft to use AI to analyse voice communications"
-    excerpt: "The Australian Army and Microsoft are collaborating on a programme that will explore how digital technologies could transform command and control. The initial focus of the partnership will be to use artificial intelligence (AI) to transcribe and analyse voice over combat net radio."
-    publishedDateTime: 2021-12-17T11:00:00Z
-    webUrl: "https://www.technologyrecord.com/Article/australian-army-and-microsoft-to-use-ai-to-analyse-voice-communications-127586"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10649/img-Austalian-Army_940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
 
 secured: "AOnv2yr3vLmZNmnlcIfm1vaYuZn0QrFoD4b9nPu5ta+OhdX+glGFhdmCFkRXNVR8cKn/M/fjsMYGV+ApDGgA5XwT5KAo0wFvRsTnxWNxO2FuyCTLEyowyeT/wDqcn9aZpkK/Nw1mliT6n1bk03U+QBy8TbNco5skKlR4SIQMg/HeKB7/fOCH2YjWPId38HXyneYI0w/uZeIGvxB2G3RJX9j1NeDKcSz5/8Xec+/pKcvePAU/sFD9k32vMXUgKtyX8H3Y3ZWhLqrqLMYmJ90b7UHRCO3OTxLhX1ItEO8G+y/Yp2QlFQ/xDRtA23dkWWYMdBJXfdVn9JQEqAzHYPKlEfOsFHEvSOVJIlz3xQWuwtU=;R8tYHUvKmU1mzaBc3q9Vww=="
 ---

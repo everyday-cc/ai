@@ -26,6 +26,24 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Apple’s self-drive car could have external warning sign to tell other drivers when computer is in control, patent shows"
+    excerpt: "PATENTS for Apple’s first self-driving car seem to reveal features that the vehicle may offer, including an external display that would tell other drivers and pedestrians when the car is"
+    publishedDateTime: 2021-12-19T21:51:00Z
+    webUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/"
+    ampWebUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 20
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/LM_AppleCar_Offplat.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "egD98xBJvjAdZ+AZljfbSre9ckL2zPMaJWb76w8Fds8aTY3vxBgb/s0DeDOkrQeat6ZtqcjhNItoDVaBEzrWVURYUIdSRDOJRlD4RG3IokudCzcmohMFMadtqg7X0NG1JE0CalHnFDJwsOKR3bOMi4P1SOprZCsjr7MHPbdJ4vRlTGIXTGa4szpeejiCe47dqQZzlh001I6jE9+ZXT5a64n+6tzNXuPp4lUYgqhnALT2UL35i0AAUCcUu5k7hj8OA93P61pTFTj7ik6r96AP6R5h4MY8tENmHZ2Xz/OcSvrLpUN0414y9642N6AoXDHyUTchUb4Fd72yl8x3XCVmWOY2W25wywLRRjtj2UKELaFKh3DIJppvKm/e55KoluYMfHoDyAxXs5iyWtPNF7jgp3hPsbVieI2GOR6QbiiAKEW73kwWYGocoFox1VzSPc8krCG88DIVxrUUgRAa7ltNxZ8PYdw9UzL4A+EHfOtVQBizaxPpegG5pzVgKgFE/UWedjjNZw5nnMM0+X0hs14slQ==;RcxEX6QinneSJesulvNepA=="
 ---
 

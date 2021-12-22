@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "MediaTek Officially Launches Dimensity 9000 Flagship Chip"
-    excerpt: "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022"
-    publishedDateTime: 2021-12-17T10:44:00Z
-    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip"
-    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 59
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg"
-        width: 437
-        height: 450
-        isCached: true
   - title: "MediaTek benchmarks the Dimensity 9000: faster CPU than the Snapdragon 8 Gen 1, slower GPU"
     excerpt: "MediaTek has gotten bold – it published a video showing a Dimensity 9000 -powered device running various popular benchmarks, throwing the gauntlet at Qualcomm. Long story short, the Dimensity wins the CPU battle,"
     publishedDateTime: 2021-12-17T12:07:00Z
