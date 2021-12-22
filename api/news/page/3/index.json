@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-20-darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality.md",
+      "title": "DARPA invests in AI that can translate instruction manuals into augmented reality",
+      "excerpt": "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-mainstream-adoption-of-facial-recognition-can-have-sinister-consequences.md",
       "title": "Mainstream adoption of facial recognition can have sinister consequences",
       "excerpt": "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans",
@@ -327,6 +370,59 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-top-10-applications-of-robotics-in-education.md",
+      "title": "Top 10 Applications of Robotics in Education",
+      "excerpt": "Robotics is a popular industry. All industries, including healthcare, travel, and communication, have been made more productive by technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott",
+      "originalUrl": "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-19T20:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-sensetime-reopens-ipo-gets-512-million-from-cornerstones.md",
       "title": "SenseTime Reopens IPO, Gets $512 Million From Cornerstones",
       "excerpt": "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U.",
@@ -335,7 +431,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -429,7 +525,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/ai-dungeon-e2-80-99s-creators-are-launching-an-experimental-ai-powered-game-platform/ar-AARXXRU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -460,51 +556,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-2020-computer-vision-for-artificial-intelligence.md",
-      "title": "20/20 computer vision for artificial intelligence",
-      "excerpt": "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/12/Dataloop-1-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-12-19T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1147,49 +1198,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
-      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
-      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
-      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
-      "publishedDateTime": "2021-12-17T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

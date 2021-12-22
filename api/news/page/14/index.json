@@ -2,21 +2,21 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
-      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
-      "excerpt": "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors.",
+      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
+      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
+      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
-      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
-          "width": 1200,
-          "height": 676,
+          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
+          "width": 2400,
+          "height": 1350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
+      "publishedDateTime": "2021-12-08T12:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -127,6 +135,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "originalUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/robotaxi-race-opens-up/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/",
+      "publishedDateTime": "2021-12-08T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1109,40 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24501684",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24501684",
-      "publishedDateTime": "2021-12-08T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

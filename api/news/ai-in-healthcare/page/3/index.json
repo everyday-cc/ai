@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-11-17-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.md",
-      "title": "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare",
-      "excerpt": "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
-      "originalUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.urotoday.com/images/com-doc-importer/31-siu-2021/siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare/image-1.jpg",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
-      "cdnAmpWebUrl": "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
-      "publishedDateTime": "2021-11-16T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UroToday",
-        "domain": "urotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
       "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
       "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
@@ -1360,6 +1316,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-new-covid-19-treatment-being-tested-in-riverside-county.md",
+      "title": "New COVID-19 Treatment Being Tested In Riverside County",
+      "excerpt": "The testing will involve patients with mild-to-moderate COVID-19 and who do not require hospitalization, county health officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/temecula/new-oral-covid-19-treatment-being-tested-riverside-county",
+      "originalUrl": "https://patch.com/california/temecula/new-oral-covid-19-treatment-being-tested-riverside-county",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/98363/20211029/020505/styles/patch_image/public/lab-testing-shutterstock-203211934___29140344059.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/temecula/amp/30062438/new-covid-19-treatment-being-tested-in-riverside-county",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/temecula/amp/30062438/new-covid-19-treatment-being-tested-in-riverside-county",
+      "publishedDateTime": "2021-10-29T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

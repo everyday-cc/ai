@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/top-10-applications-robotics-educat
 webUrl: "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: LinkedIn
@@ -30,31 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Predictions on robotics for 2022"
-    excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
-    publishedDateTime: 2021-12-21T12:30:00Z
-    webUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/"
-    ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
+  - title: "Will AI Destroy Education?"
+    excerpt: "The National AI Initiative Act became law in the U.S. on Jan. 1, 2021, aiming \"to accelerate AI research and application for the Nation's economic prosperity and national security.\" The U.S. National Science Foundation launched in 2020 several AI Research Institutes to push forward the frontiers of artificial intelligence."
+    publishedDateTime: 2021-12-18T15:18:00Z
+    webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/Pulak.jpg"
-        width: 616
-        height: 582
-        isCached: true
-  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
-    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
-    publishedDateTime: 2021-12-22T16:31:00Z
-    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 34
+      name: acm.org
+      domain: acm.org
+    quality: 36
 
 secured: "HGK5u9yI0RCdFJ/Dg7tjZwCNUyFoM8hmA+bItjRv8Log1ym4AtGlKvwlvn3Wfx/tSAQbG5STgl1u/d9wElbrldWOBU+lcyslwQSKLptpmOzPTsw88nGVALe/JqGn07+tDNYj6FWdkeFCelJykSH9xtZY7625VPAf1fHXt6Kd27C6cDMqn20iyMZsKWP54ZG74r1L50LktutmcUwxio8S9qUZBJh4k1dog3MH4ykHQ0kYmUMTmdLXHP2P3AcJd9O3OEPM8L28Od1onBVjhYcAIZbRdYqonVR19Tl1WBY+1R7f5wDR6jnjrhR8rfBaLxKc8/uYVzzCE4ZwP9URN5xMsXX8KOqThaWcMcXTTAZxP8w=;oyR8dMhlepGwbob6ZaB8FQ=="
 ---

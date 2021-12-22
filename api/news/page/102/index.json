@@ -2,6 +2,58 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2021-10-06-facial-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
+      "title": "Facial Recognition Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
+      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 01:01:34 / Comserve Inc. / -- The global facial recognition market is expected to grow from USD 4.05 billion in 2017 to USD 7.76 billion by 2022, at a Compound ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
       "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
       "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
@@ -1122,48 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
-      "title": "AI helps rule out cancer in dense breasts",
-      "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg",
-          "width": 2400,
-          "height": 3747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
-      "publishedDateTime": "2021-10-05T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

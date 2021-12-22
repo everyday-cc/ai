@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-23-4-ways-artificial-intelligence-is-improving-mental-health-therapy.md",
+      "title": "4 ways artificial intelligence is improving mental health therapy",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/",
+      "originalUrl": "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/12/2021-robots.jpg?w=901",
+          "width": 901,
+          "height": 1199,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/",
+      "publishedDateTime": "2021-12-22T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
+      "title": "10 AI Predictions For 2022",
+      "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
+      "publishedDateTime": "2021-12-22T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-jing-jiaweis-jm9-series-domestic-gpu-available-for-sale-in-china.md",
+      "title": "Jing Jiawei’s JM9 series domestic GPU available for sale in China",
+      "excerpt": "After completing preliminary testing, Jing Jiawei, a Chinese domestic GPU manufacturer, announced that their new JM9 series processors are now available for purchase.",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2021/12/22/jing-jiaweis-jm9-series-domestic-gpu/",
+      "originalUrl": "https://technosports.co.in/2021/12/22/jing-jiaweis-jm9-series-domestic-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technosports.co.in/wp-content/uploads/2021/12/s_a3738fa2ca524263bac2b5995d4e17d0.jpg",
+          "width": 600,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2021/12/22/jing-jiaweis-jm9-series-domestic-gpu/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/22/jing-jiaweis-jm9-series-domestic-gpu/?amp",
+      "publishedDateTime": "2021-12-22T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-a-push-for-digital-transformation-the-global-ai-investment-boom.md",
       "title": "A Push For Digital Transformation: The Global AI Investment Boom",
       "excerpt": "A large amount of funding has been allotted to solutions supporting digitalization initiatives at the enterprise scale, with AI becoming the gold standard for contributing to that effort.",
@@ -85,6 +222,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-7-key-tips-for-designing-voice-user-interfaces.md",
+      "title": "7 Key Tips for Designing Voice-User Interfaces",
+      "excerpt": "Keep these essential recommendations in mind to build effective voice-user interfaces. Voice-user interfaces (VUIs) allow users to interact with machines using voice alone. They use speech recognition and natural-language processing to enable users to complete some tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/403383",
+      "originalUrl": "https://www.entrepreneur.com/article/403383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1640018210-shutterstock-1109999393.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -260,94 +449,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-22-oosto-to-develop-facial-recognition-and-ai-solutions-to-help-government-and-corporations-to-identify-security-threats.md",
-      "title": "Oosto to develop facial recognition and AI solutions to help government and corporations to identify security threats",
-      "excerpt": "Yossi Cohen, former head of the Mossad and current director of Softbank's operations in Israel, spoke at a conference of security consultants of the AI Company Oosto held in Raanana,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "publishedDateTime": "2021-12-22T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
-      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
-      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
-      "publishedDateTime": "2021-12-22T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-12-22-can-ai-actually-understand-what-we-are-saying-scientists-are-divided.md",
       "title": "Can AI actually understand what we are saying? Scientists are divided",
       "excerpt": "Scientists argue that large language models can teach us about “the nature of language, understanding, intelligence, sociality, and personhood\"",
@@ -505,7 +606,7 @@
       "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -624,7 +725,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -664,49 +765,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-is-artificial-intelligence-about-to-transform-the-mammogram.md",
-      "title": "Is artificial intelligence about to transform the mammogram?",
-      "excerpt": "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1106,57 +1164,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai.md",
-      "title": "“The Meaning Of Life, But It’s In Estonian”: Leading In The Age Of AI",
-      "excerpt": "Leading is choosing. Choosing well requires understanding your options – and the advice you’re given about which one to pick. But in the world that’s coming, AI will help leaders make choices. They might even make choices for them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bfe3fccfccd6765a41ffb0%2F0x0.jpg",
-          "width": 1188,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2021-12-21T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

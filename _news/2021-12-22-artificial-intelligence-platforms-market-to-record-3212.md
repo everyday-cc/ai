@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-22T14:51:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-record-3212-y-o-/2021/12/22/9516079.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-record-3212-y-o-/2021/12/22/9516079.htm"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1714445/IRTNTR44235.jpg"

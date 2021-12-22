@@ -26,22 +26,6 @@ images:
     height: 1600
     isCached: true
 
-related:
-  - title: "Cars are getting better at driving themselves, but you..."
-    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
-    publishedDateTime: 2021-12-22T10:41:00Z
-    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
-
 secured: "4bADqUAgGtwFCIQAr1kQvXuIVmBGYN7rGX1lF1NOEYnDI6yZe59W6CEJ8+a3dCEtOvlXxiO7SMoliQxOy7myOjyOWIJwm70uBWn+NQJIHDklYmHEde7KU3QAbfmwkVf+My+O+u/qy7rLyp8RzJnCoHP9fWZ9qIoT72Djkw1bd1pN4yYz7Al91MA/ptNXAiFC9+flrt+CT2eyECvWAZbtLJyvP6JB+IFUrAUKREMlEkS0TBYckwB66y+z5lUEFW6SssK8KFR4yaw+uIdDFe9TmpKZ4zp77FzezMQP/x8ar86y2qQjmIuqFduM1XIT/46cEo2DEcojmZfV5fQ2Y+1I3liHTYgyVZSTyr3tjiRqMv4=;gK8aLVG9Pu2soEriBD2w/A=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-11-we-now-know-what-the-self-driving-apple-car-might-look-like.md",
-      "title": "We now know what the self-driving Apple Car might look like",
-      "excerpt": "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "originalUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/apple_car_render.jpg",
-          "width": 757,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp",
-      "publishedDateTime": "2021-12-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-top-10-artificial-intelligence-stocks-to-buy-in-december-2021.md",
       "title": "Top 10 Artificial Intelligence Stocks to Buy in December 2021",
       "excerpt": "The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. Here are the top artificial intelligence stocks to buy in December 2021",
@@ -359,19 +307,19 @@
     {
       "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
       "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
-      "excerpt": "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors.",
+      "excerpt": "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
-      "originalUrl": "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096",
+      "webUrl": "https://www.metro.us/robotaxi-race-opens-up/",
+      "originalUrl": "https://www.metro.us/robotaxi-race-opens-up/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL",
-          "width": 1200,
-          "height": 676,
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -379,13 +327,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T11:49:00-08:00",
+      "ampWebUrl": "https://www.metro.us/robotaxi-race-opens-up/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/",
+      "publishedDateTime": "2021-12-08T11:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
+        "name": "Metro US",
+        "domain": "metro.us",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,6 +1320,49 @@
         "AWS AI",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
+      "title": "Robotaxis approved to start services in Beijing",
+      "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "originalUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/11/081_AFPS14105-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "publishedDateTime": "2021-12-01T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

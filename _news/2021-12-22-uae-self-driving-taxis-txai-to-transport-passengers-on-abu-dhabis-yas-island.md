@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-t
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

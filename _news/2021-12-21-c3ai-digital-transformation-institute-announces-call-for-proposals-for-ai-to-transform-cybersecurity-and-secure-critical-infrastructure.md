@@ -2,21 +2,27 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
 excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-publishedDateTime: 2021-12-21T14:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/12/21/9515494.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/12/21/9515494.htm"
+publishedDateTime: 2021-12-21T14:01:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-64d1020fcba9423a80b08c6ffbd65982"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-64d1020fcba9423a80b08c6ffbd65982"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "A Push For Digital Transformation: The Global AI Investment Boom"
@@ -59,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "qov6wMWg7WCvtTyus2VbkgilWPKdxEE+tEsbqD1XnEZ8A9TR1W8F0SFg/OUJ+hSi2gvSgWxMetSB3e8yhBN7wuHZ1PUmyrGSqzI/YXMGuUiLfOGLWfXsdui3rVtYrCuMo+lWhqNno40Jma1ZuSLYrt5oPwn2ZNVYzRUziM6jopaEcauZsQVPRK05D6hAJ3ICqUHQxhdWYAEXDdbyJXZR8lk0c62inYmxS2q/e7wS09SJ8EcITHO5qLH8GtkW7Qe4p0CtfkgxPtpntw/2sz25euuRwfVDLBHtWaz+ZS7WiYGUtzcRqpU85CgP2e2ZYYSI106CN2YjUxoJK7pZDehc3qEKg+huyHiYmJFLqna23M8=;mxw9DWPKeq6YpBqWQDPjyg=="
+secured: "PN2TatyRuAXquIcfsModu/41Oe4sHxCAPR3bHTQgImH1rBEUR+o53w2BQLHHcRXLQ2kD4ZDiknoAgM7SeoVQAf6XFuK1w/tF3IFFCkM87Ct9pkXOpeoaEzSRnNjFaTx41Z6HmGkLrcIcPnamPVYNymwxwL037yfYcxHIV80rXzhyEqlAyW2zrBlAOLGYXg8uf3oOylJCHWJniiGhWoOSwJ3LuLihkaeOzgrBBA9P8yKcmDotygpvlkZtNiHU8qHP1Yrojj9rUjvGf7UstyErB3e1zM5pFkzV0PZde2b7qdsenqfLOJTDgKPkhoFvuy6hOqH7XcxpUZYlm8CUOCEtft2NV9vV1e8Tm7eJwqhKdbc=;DG16r5PZAxiYSA+ojmnFVQ=="
 ---
 

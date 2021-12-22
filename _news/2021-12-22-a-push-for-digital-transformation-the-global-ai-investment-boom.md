@@ -46,13 +46,18 @@ related:
         isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T14:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/21/9515494.htm"
+    publishedDateTime: 2021-12-21T14:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-64d1020fcba9423a80b08c6ffbd65982"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
     publishedDateTime: 2021-12-21T18:15:00Z
@@ -63,6 +68,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "uIbz43OXIA8T9dGh3q7c9Ybpb8Qw7ulsPQqv75NUcf58sVmqmxK46ARsT7pvy8AICUfJJJoNS8Tz20LZC1mJtNjpPTKxW5ISq4SACk6uilh6cAn1IYZs85usi3SLQInR9aVENN0cy1qKETqVTCPE6LK1qV1xoAxyK5ua5YSRWz5fOXhPPlHlMtCPDLWk9G8V+YdRvht2OBBbwPoD4zwORPcLodAQd+5cP2TgZgQPBTM3Yr3Y01S8oqRA6D2QdCWJAazouwOkq6snYgldwtZhhJjFhJMA3CLNIo02HBoaEE+FmdtlZz8bIAYHveVi11qva8wHf7DyHq5LbDT4E9AIPr9DTcEty+6thQnMLcB6n+s=;suO9Kttnl0fdlw9mY6n0Ig=="
+secured: "Xs5ErtlOcE46IgCN1w07wL3hm27klAjUnzgYk8mCnKaqgax/E1byM8dggMv0Jssko5aMzRqHxFt97kFtqcMlrS7qPYjqiGm/xv+OvVshw8TK9FMdX1yx1zT5dtLTQF8EP8HvT63k6xU2kuOgpL7PAAl6zpPFwwBo1UZV8SiBL7kPpBYye1qO1tXfvuELbQFg1BBebTknUnp7UvD2wxTIu3FvhcPRQQ3s421vkVSSofy+eR0F8kebvbjcSwlz+Q/eVvc9gQmQtywqXgLXy1nMyCy9hz1HrJIj2bHiML0nWz38OAl4xuXVFtMJimiknB4mioUDYddsRd0XYHL08tIsm4r34c64RwNXJi9bmu76/Cc5xuNTBu41YFtYYW16Dnj90e0Z7+sAy/jB14YnW/cK9xf8eqw40yWQVEzWyaFXQ6OmZca7BdhtcLgUWxi6hPbydycLxcpWIhIjjcbWtOY21SDHOIahup2FuxCgjpzYXQUFZZ9RhVX8n8iwBxTOX5LAvD5aTz3Zt5zuitE4ODacdA==;SPcPprGyI3CMvAENb4rAdw=="
 ---
 

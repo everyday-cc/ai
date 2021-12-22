@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
-      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
-      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
+      "path": "_news/2021-12-22-7-key-tips-for-designing-voice-user-interfaces.md",
+      "title": "7 Key Tips for Designing Voice-User Interfaces",
+      "excerpt": "Keep these essential recommendations in mind to build effective voice-user interfaces. Voice-user interfaces (VUIs) allow users to interact with machines using voice alone. They use speech recognition and natural-language processing to enable users to complete some tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "webUrl": "https://www.entrepreneur.com/article/403383",
+      "originalUrl": "https://www.entrepreneur.com/article/403383",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1640018210-shutterstock-1109999393.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
-      "publishedDateTime": "2021-12-22T04:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T06:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -93,8 +102,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {

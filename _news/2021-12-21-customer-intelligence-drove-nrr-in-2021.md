@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/customer-intelligence-drove-nrr-202
 webUrl: "https://www.linkedin.com/pulse/customer-intelligence-drove-nrr-2021-bryan-plaster-1e"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 983
     height: 443
     isCached: true
+
+related:
+  - title: "Why Expert Intelligence Is The Secret To Achieving Customer Outcomes"
+    excerpt: "The only way to achieve an outcome-driven business model is to put experts from your ecosystem into the operating system of your company."
+    publishedDateTime: 2021-12-21T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b3f0f6cb5aa8f491ac04a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FtOyI8ZXTJTAK1bNAvQBpypLeNKhc2e16+kwzQhggO8780zwRkFL5NYA6qem5fkR4MVeN9pmiiVTlObHJBoOmjvnPJ6JwCVkDsphUo4/UgnuSV9fE5XLvNacbuV8g5USACeP5Tjt/0VyCVrxlZJHTOW8cLYeGm0p420ygebAafvszlT0BTUCxai2XO5TnIeP0B9Cm+KNcF9AJBzrE8+LCYM4iFwKomrij0yRsXR0s0inpeERLDHFZ3Cw8YewL5MG/PsIWkqVsR/+Swbiin3elhUQaFadhNdAtKuEA8M3J9h7RlduQA6UTyNzmAbzRDo5+/dWAFYCjLhj0tSPcOVybySKLZcQ8Z9s8auVWZlXbB4=;oPlnvUOKcm/M9Khzjpg+RA=="
 ---

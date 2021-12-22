@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relau
 webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
 type: article
 quality: 152
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AI Firm SenseTime Prices Hong Kong IPO at Bottom of Range"
+    excerpt: "SenseTime Group Inc. is likely to price its Hong Kong initial public offering at the bottom of its marketed range, according to people familiar with the matter. SenseTime plans to"
+    publishedDateTime: 2021-12-22T16:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0jPdbk7bxKw/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SenseTime Relaunches Hong Kong IPO, Trading to Start Dec. 30"
     excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. filed updated listing documents with the Hong Kong exchange as it sought to resume its initial public offering, after a U.S. government directive forced the company to delay the process."
     publishedDateTime: 2021-12-19T23:19:00Z
@@ -57,6 +71,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
+    excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."
+    publishedDateTime: 2021-12-22T17:45:00Z
+    webUrl: "https://www.biometricupdate.com/202112/frictionless-retail-projects-with-facial-recognition-from-sensetime-popcom-solmate-ramp-up"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/18130822/shopping-retail-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
     excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."

@@ -79,11 +79,25 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
+    excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
+    publishedDateTime: 2021-12-21T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gene-therapy-cell-culture-medias-market-2021-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2027-2021-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
+      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
+      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "publishedDateTime": "2021-12-17T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
       "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
       "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
@@ -1145,59 +1188,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition.md",
-      "title": "Build custom Amazon SageMaker PyTorch models for real-time handwriting text recognition",
-      "excerpt": "In many industries, including financial services, banking, healthcare, legal, and real estate, automating document handling is an essential part of the business and customer service. In addition, strict compliance regulations make it necessary for businesses to handle sensitive documents, especially",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-4925-image003.jpg",
-          "width": 4004,
-          "height": 2132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T12:02:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],

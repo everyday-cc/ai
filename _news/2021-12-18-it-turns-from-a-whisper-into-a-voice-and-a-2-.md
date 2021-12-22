@@ -33,6 +33,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "7 Key Tips for Designing Voice-User Interfaces"
+    excerpt: "Here are seven essential design recommendations that the Milkinside team follows when designing voice-user interfaces. Why will people want to use your product? What tasks do they want to accomplish using it?"
+    publishedDateTime: 2021-12-22T18:35:00Z
+    webUrl: "https://www.timesunion.com/business/article/7-Key-Tips-for-Designing-Voice-User-Interfaces-16722027.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/26/72/21851837/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "RakBej8wu8x+ygzt1uS9kLD1Wr/dSQjqKFrGGJ9PUlM2WgVIXSqO3GttbcUWTk2E1hHt1N4PkFh7coMQUcAOo1F7T0oSoOF2vL/SzA25ZUe+gBuY1iPpYzg7Q/czt8d1wcNt89UGf+D/d6WFHz/z83LJS9F4/fZOhX69WFmsRNdgMba46V7Ts92Dkv2bC0bflVWeSir1azg9LSmZlnnYv/+MXmEw1fHMSdek1MLV9RfpWRYRoqPYgpbriecjE1acKlSYuu/HhBUyoKy2ADmncpGBkn2677qcKmsYdlizhFtoA/KWqftoFxMEJJRLG0KPmyFIqasmy1Mnh5fnbH9F43d2IrTxTIzG2fCfXDqIGfo=;JPumd+rSGclJfawC0xYeMw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-21T14:55:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -62,6 +63,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
+    excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
+    publishedDateTime: 2021-12-21T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gene-therapy-cell-culture-medias-market-2021-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2027-2021-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

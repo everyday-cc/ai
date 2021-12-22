@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-10-13-today-in-healthcare-telehealth-in-africa-ai-vs-payment-fraud-transparency-and-innovation.md",
-      "title": "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation",
-      "excerpt": "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
-      "publishedDateTime": "2021-10-12T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-tredence-launches-healthemai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations.md",
       "title": "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations",
       "excerpt": "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,",
@@ -1364,6 +1321,59 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19.md",
+      "title": "Deep learning helps predict new drug combinations to fight Covid-19",
+      "excerpt": "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

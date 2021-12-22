@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-03-cvs-health-and-microsoft-link-up-to-speed-healthcares-digital-shift-on-retails-frontlines.md",
-      "title": "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines",
-      "excerpt": "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
-      "publishedDateTime": "2021-12-02T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
       "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
       "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
@@ -1321,6 +1277,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.md",
+      "title": "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare",
+      "excerpt": "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
+      "originalUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/com-doc-importer/31-siu-2021/siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare/image-1.jpg",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
+      "cdnAmpWebUrl": "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
+      "publishedDateTime": "2021-11-16T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
+      "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
+      "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
+      "sourceUrl": null,
+      "webUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
+      "originalUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/12/bigstock-Close-Up-Of-Notebook-With-Crea-440550755.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
+      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
+      "publishedDateTime": "2021-12-07T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "foodindustryexecutive",
+        "domain": "foodindustryexecutive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
       "title": "3 Impacts of AI in the Machine Translation Industry",
       "excerpt": "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,",
@@ -1160,49 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing-demand.md",
-      "title": "The National Captioning Institute Uses Automated Speech Recognition (ASR) Closed Captioning Solution to Meet Growing Demand",
-      "excerpt": "Closed captioning providers have been challenged to expand capacity quickly and effectively in response to a heightened demand for services. When comparing March",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/7a/77a10bd8-d3ba-5e67-ada1-a4e0e615206b/61af65d59209e.image.jpg?crop=604%2C317%2C98%2C0&resize=604%2C317&order=crop%2Cresize",
-          "width": 604,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

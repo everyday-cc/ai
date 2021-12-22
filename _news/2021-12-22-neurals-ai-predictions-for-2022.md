@@ -88,20 +88,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Webinar on career in artificial intelligence"
-    excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
-    publishedDateTime: 2021-12-18T02:15:00Z
-    webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
     excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
     publishedDateTime: 2021-12-21T05:07:00Z

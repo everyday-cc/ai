@@ -7,7 +7,7 @@ originalUrl: "https://news.wfsu.org/all-npr-news/2021-12-22/cars-are-getting-bet
 webUrl: "https://news.wfsu.org/all-npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Cars are getting better at driving themselves, but you still can’t sit back and nap"
+    excerpt: "A lot of new cars can drive themselves down the middle of a lane and adjust speed to match traffic. Some even let you go hands-free at times. But they all require very close supervision."
+    publishedDateTime: 2021-12-22T18:28:00Z
+    webUrl: "https://www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/"
+    ampWebUrl: "https://www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 38
+    images:
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/R1XCPPnRbaBc3lUMG-R4Us2Ev20=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/RJGHPQLCTWC5BKO2OQQCBNJM3U.jpg"
+        width: 767
+        height: 574
+        isCached: true
+  - title: "Cars are getting better at driving themselves, but you..."
+    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
+    publishedDateTime: 2021-12-22T10:41:00Z
+    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
 
 secured: "qrgjFjUwKghr4Ilr7xTCZ7FGZBq5pAmndQgvuYEBMMs5XrgaMw2swN5ucEqiXI1SW1EYdNyT5SEh2V4/J/GSsngLVy3u35q+sAFvsbTve/CSuJ9Sr77LXm5CE601oh7/TFzWIgMmNUn7eZfI3+qWWoQxYeLI8k2ml0qqdzkDk/hRIbOcR5sd1ezO/vjp7X58l0W4FAK1Iffijxc6osWcg8518308c484G+kWnDy6RZ3DQ6a51EZchms374NvpPG0vXXfQWoVp7kRgK+YwM1KMYS+MWG+KRVXAyqUopm54fAhYJGEyjb7B56RlXV+SC7JJetDNDANGqB4Pdtqn7J3pmKdm54hqmGEmJC/q8cE8BU=;a/8XJ6AUyMg6Pvlgi5wT6g=="
 ---

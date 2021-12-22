@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-12-03-ai-data-solutions-key-elements-of-successful-ml-dataops.md",
+      "title": "AI Data Solutions: Key Elements of Successful ML DataOps",
+      "excerpt": "Merit CEO Radha Basu will explain the key elements for creating a successful ML data pipeline and why 2022 is shaping up to be the ‘Year of ML DataOps. Companies that integrate humans-in-the-loop strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/video/ai-data-solutions-key-elements-of-successful-ml-dataops/",
+      "originalUrl": "https://techcrunch.com/video/ai-data-solutions-key-elements-of-successful-ml-dataops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-12/02/61a85d091164d76e87aeb0eb/61a85d309020dc2ff8198c61_o_U_v1.jpg?w=640&h=360",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-govt-names-4-airports-where-it-plans-to-launch-facial-recognition-based-boarding-system.md",
       "title": "Govt names 4 airports where it plans to launch facial recognition-based boarding system",
       "excerpt": "Minister of State in the Ministry of Civil Aviation General VK Singh has said that Airports Authority of India is working on Facial Recognition Technology-based Biometric Boarding System, which is expected to be launched in March 2022.",
@@ -1098,51 +1150,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
-      "title": "How Machine Learning Aids New Mathematics Discoveries",
-      "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg",
-          "width": 2000,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "publishedDateTime": "2021-12-02T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Math for AI"
       ]
     }
   ],

@@ -96,20 +96,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Webinar on career in artificial intelligence"
-    excerpt: "Patiala: The Department of Computer Science, Punjabi University, in collaboration with the National Institute of Electronics and Information Technology (NIELIT), organised a webinar on ‘Career in artificial intelligence and machine learning’ on Friday."
-    publishedDateTime: 2021-12-18T02:15:00Z
-    webUrl: "https://www.tribuneindia.com/news/patiala/webinar-on-career-in-artificial-intelligence-351648"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_2043250938.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "UC Davis Health evaluating AI-powered rapid COVID-19 test platform"
     excerpt: "Sacramento-based UC Davis Health, alongside Las Vegas startup SpectraPass, is evaluating a new type of rapid COVID-19 test that relies on machine learning and artificial intelligence. The platform would be scalable and would allow for quick,"
     publishedDateTime: 2021-12-20T21:42:00Z

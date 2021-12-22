@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

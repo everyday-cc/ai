@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the factors that influence drivers while transitioning from highly automated driving"
-    excerpt: "In recent years, many companies have been investing in fully and partly autonomous vehicles. Before these vehicles can be deployed in the real world and on a large scale; however, their developers will need to ensure that they are safe and can deal effectively with unpredictable challenges."
-    publishedDateTime: 2021-12-20T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
+  - title: "Cars are getting better at driving themselves, but you still can’t sit back and nap"
+    excerpt: "A lot of new cars can drive themselves down the middle of a lane and adjust speed to match traffic. Some even let you go hands-free at times. But they all require very close supervision."
+    publishedDateTime: 2021-12-22T18:28:00Z
+    webUrl: "https://www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/"
+    ampWebUrl: "https://www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/12/22/cars-are-getting-better-at-driving-themselves-but-you-still-can-t-sit-back-and-nap/?outputType=amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 32
+      name: OPB
+      domain: opb.org
+    quality: 38
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/exploring-the-factors.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/R1XCPPnRbaBc3lUMG-R4Us2Ev20=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/RJGHPQLCTWC5BKO2OQQCBNJM3U.jpg"
+        width: 767
+        height: 574
+        isCached: true
+  - title: "Cars are getting better at driving themselves, but you still can't sit back and nap"
+    excerpt: "A lot of new cars can drive themselves down the middle of a lane and adjust speed to match traffic. Some even let you go hands-free at times. But they all require very close supervision."
+    publishedDateTime: 2021-12-22T14:00:00Z
+    webUrl: "https://news.wfsu.org/all-npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
+    type: article
+    provider:
+      name: WFSU
+      domain: wfsu.org
+    quality: 18
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/9dbcb2a/2147483647/strip/true/crop/3205x1683+0+359/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F12%2F20%2Fap_21140129870069-852dfa883cd757930c04f9432840a9c0f8044504.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "iD2aqpKrbD1bP23C/BGH+fJEeJ75SFbpFEfw+jzWpQ5CiVTtR6Rt+E3qYu8jpJeZDLw2JzlPSebeHzrcaGlAcPKfhjt7FVPF9gAcn+6fO4tkOQMSl0lwJwPWe7Ja+sDiicd4WoLnTmy+qEEOGwqUqAn59u/mHuVovirgIQbFKq74SMHSatTVtDhdDEGcRguiWUf5o2QnkE9zZv/5eBpOl4oI/pCmyHWzPlDQ5PRmHftPeUqeENhtBc6eSsxyERtDyZaSRb1q5PoHcC6QkEK1VW8LKEepMHjmrzrqE11zZ69ayrVlpVoqgMOxaAB2E5EGLGMGiHx1NZnGz0QER20fK1OY44hu1y5FYdgQ5MjICak=;AEpTGHeMfAaKffidWlWfLA=="
