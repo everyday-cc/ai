@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
-    publishedDateTime: 2021-12-17T17:21:00Z
-    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
-    type: article
-    provider:
-      name: OpenCV
-      domain: opencv.org
-    quality: 58
-    images:
-      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
   - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
     excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
     publishedDateTime: 2021-12-21T05:51:00Z
@@ -114,6 +100,6 @@ related:
         height: 768
         isCached: true
 
-secured: "ZLFz/drPrQeLVpzT1ycggOvsWb3yqaA8xViTYE2uC8zEEuEqevlkAQCMRbZ54IHQWNhs8kWuogDRljdR4J9WbqIfa98+YD7AGuPw5oxH7qKW6XF9xVvPE0zC4t8Yo6vQh/LRfippggi5fUgCzp0XCGSEfC47dUFiSyftGqk5ne8ksoMG01LH/BrFKT1X/acSR7lyP39SWGiorpbvNX3RBGBpWpOE84kIeQEPUuUv8/aDiL70+ZRFGzSwvN548oIhNdZrLEnvAskOYyNEiUGvkv6sLLST1rK93gcfSbHK8+RXlD9hWKxNUsLg0OttmH1b/XbopbZ6CegliD9RMTSKkqpYVFsRnM2FDug4/dCvZ7g=;PBE4+sjSnulxU96hzys8xg=="
+secured: "SyeVR4SAuDRST5CqyaLHm33nNhigLPietI2wNoOfFt4w6uHwUyfO62JgQ1rOKSgmD3sC4XWBs+3nC7RRpOBgVbGVcJQfiqjy4QeZWXBeH3aYhsbaWPt3Ifa8Qx5YBfsKaKxdCzRGWicS117XTj+RVqEdBzlMW3TwRshPEpy9bhtZkIuwyiJ8mnnSG0NEB73NDrGyJLTKN11hOgmyY/LxfuPHpML0fz0aImydxRfmXXcFm3+xBlZJje31iaGgSy+8ifhf7b8M8WxMdmE2YF4oBwP4eA2CYggq85i/xlQ/OtIyG0og7mZp7ZKcAogQorxvnrvgPpANQX6lSeRMOeKiTUytr76Bl5I8KTTPjrb7vstSNZPuW3OucX08N3g5tKnuo/Yu+ctyieautWBFtvALred0RjaIlz7+UgXvTWP4RS+LxWlWl98IerGvZBIRaLAwn72DQbLTflGm0vcYQ1so4min141elnrD/e4ooQjVyWcipUlW3DLnwDllpgNMfd9exL+whW0wlL0S7Aa9dYI6gg==;UvWx8fQd+Ofnavt0dJoflQ=="
 ---
 

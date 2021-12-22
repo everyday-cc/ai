@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Apex.AI raises $56.5 million in Series B fundraising round"
+    excerpt: "Apex.AI raises $56.5 million in Series B fundraising round . December 20, 2021 by Mark Allinson Leave a Comment . Apex.AI , a company developi"
+    publishedDateTime: 2021-12-21T01:49:00Z
+    webUrl: "https://menafn.com/1103405607/ApexAI-raises-565-million-in-Series-B-fundraising-round"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/20/R&AN_5a1e2image_story.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "CUX2iLY0bk32fVQ+5Um1Qatf23Heix/s9CZuFfOj0af4c/kfv1X4Dti/36SarXTaLRIZxa7vodW39VfiAeLPvaR/j2e+NfOKj02Wxe4+P/jRnZXHFsUvHywJDQef7yqUCCKeZjRdSTDZu6FO1IsRogn24n9l6Pm6HMrqBet/7HVrWSDEjHvcUGgiRAKzkWXGMlncu08AcGTaZXhaZr+qkOB+PRKL78hIyuyQ2maDSrm3gePU9iINIf3Priv3jx2yz0Idqi3mlEpnsD5qohziFumvg8n8vP+GbUyxW8LB2ZPjU4XJRiEpD5As+JSKHGkFIetyzwqK5u8n6yBwHOHRs0SIOVfQ87X/G+XuLm7PdxKIruSLUPiIBWxNUJahrqOrJNRm1qFjz1bI8G+vdXK4D3I8VtiSePsZT9h8inj7/M9cjfXyEvSnLdf72dX+eLxPJOJqYQxSUotWzZL8LSDnUt27w5cC/GJIjI88mR1wQmigKh62mx3aRKJbxVb2/dY/0xKzup33/Yq4d4hxx6xv0w==;p6MKiQaSDMYEJXgcfkHhyA=="
 ---

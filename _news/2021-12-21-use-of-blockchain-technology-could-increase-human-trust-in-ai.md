@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-coul
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain is India's future, and if you are a developer you can earn Rs 82 lakh a year!"
+    excerpt: "Digital employment is creating a boom in the IT industry and blockchain is one of the fastest-growing skill sets with jobs in this domain growing at a"
+    publishedDateTime: 2021-12-22T09:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/articleshow/88430656.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/amp_articleshow/88430656.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/amp_articleshow/88430656.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88430915,width-1070,height-580,imgsize-91548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Animation Startup Rosebud AI Pivots to Blockchain; OnlyFans’ Founder Steps Down"
     excerpt: "Talk that the decentralized technology of Web3 will soon supplant the established internet puts young startups in a quandary: they can stick to their existing technology and business models or make a costly and risky overhaul onto the blockchain."
     publishedDateTime: 2021-12-22T00:02:00Z

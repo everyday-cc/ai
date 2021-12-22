@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
-    publishedDateTime: 2021-12-17T17:21:00Z
-    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
-    type: article
-    provider:
-      name: OpenCV
-      domain: opencv.org
-    quality: 58
-    images:
-      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
   - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
     excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
     publishedDateTime: 2021-12-21T05:51:00Z

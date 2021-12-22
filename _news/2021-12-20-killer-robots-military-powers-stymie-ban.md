@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2021/12/19/killer-robots-military-powers-
 webUrl: "https://www.hrw.org/news/2021/12/19/killer-robots-military-powers-stymie-ban"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.N. Talks Adjourn Without Deal to Regulate 'Killer Robots'"
-    excerpt: "Countries taking part in U.N. talks on autonomous weapons stopped short of launching negotiations on an international treaty to govern their use, instead agreeing merely to continue discussions. The International Committee of the Red Cross and several NGOs had been pushing for negotiators to begin work on an international treaty that would establish legally-binding new rules on the machine-operated weapons."
-    publishedDateTime: 2021-12-17T18:05:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-12-17/u-n-talks-adjourn-without-deal-to-regulate-killer-robots"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "US, Russia Stall Attempts to Ban Killer Robots"
     excerpt: "Robots have been deployed for mine clearance by military authorities in many countries, but concerns are rising over regulation of autonomous weapons which use Artificial Intelligence. UN Photo/Marco Dormino NEW YORK (IDN) — As the US withdrew the last of its troops from Afghanistan on August 31 following a deadly 20-year-old war,"
     publishedDateTime: 2021-12-21T22:56:00Z

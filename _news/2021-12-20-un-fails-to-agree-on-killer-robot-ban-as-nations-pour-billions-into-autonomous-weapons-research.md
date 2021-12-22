@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 482
         isCached: true
+  - title: "UN Fails to Agree on ‘Killer Robot’ Ban as Nations Pour Billions Into Autonomous Weapons Research"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
+    publishedDateTime: 2021-12-22T09:47:00Z
+    webUrl: "https://www.counterpunch.org/2021/12/22/un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 41
+    images:
+      - url: "https://images.theconversation.com/files/423428/original/file-20210927-17-1kqlqer.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 364
+        isCached: true
   - title: "No UN agreement on 'killer robot' ban"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
     publishedDateTime: 2021-12-21T08:41:00Z

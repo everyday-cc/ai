@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.md",
+      "title": "Mastercard execs: Care and feeding of machine learning models is key to success",
+      "excerpt": "To get the best model and the best results possible, you need to understand your data, be clear on what you’re testing against, and constantly monitor and attend to your models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html",
+      "originalUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2021/12/mastercardplatinum-100339531-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp",
+      "publishedDateTime": "2021-12-22T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-19-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space.md",
       "title": "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space",
       "excerpt": "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services",
@@ -1286,49 +1330,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021.md",
-      "title": "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021",
-      "excerpt": "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

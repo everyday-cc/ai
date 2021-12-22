@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mastercard execs: Care and feeding of machine learning models is key to success"
+    excerpt: "To get the best model and the best results possible, you need to understand your data, be clear on what you’re testing against, and constantly monitor and attend to your models."
+    publishedDateTime: 2021-12-22T10:00:00Z
+    webUrl: "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html"
+    ampWebUrl: "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 57
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2021/12/mastercardplatinum-100339531-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "McDonald's to sell AI startup Dynamic Yield to Mastercard"
     excerpt: "McDonald's on Tuesday announced that it has signed an agreement to sell Dynamic Yield, an artificial intelligence (AI) startup, to Mastercard for an undisclosed amount. McDonald's had acquired the startup in 2019 for more than $300 million in its biggest deal in two decades."
     publishedDateTime: 2021-12-21T17:21:00Z

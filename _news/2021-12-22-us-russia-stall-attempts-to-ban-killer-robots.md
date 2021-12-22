@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.N. Talks Adjourn Without Deal to Regulate 'Killer Robots'"
-    excerpt: "Countries taking part in U.N. talks on autonomous weapons stopped short of launching negotiations on an international treaty to govern their use, instead agreeing merely to continue discussions. The International Committee of the Red Cross and several NGOs had been pushing for negotiators to begin work on an international treaty that would establish legally-binding new rules on the machine-operated weapons."
-    publishedDateTime: 2021-12-17T18:05:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-12-17/u-n-talks-adjourn-without-deal-to-regulate-killer-robots"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Killer Robots: Military Powers Stymie Ban"
     excerpt: "Major military powers are preventing efforts by a majority of countries to prohibit autonomous weapons systems through a new international treaty, Human Rights Watch said today. On December 17, 2021,"
     publishedDateTime: 2021-12-19T23:01:00Z

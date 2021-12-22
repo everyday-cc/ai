@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
-excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
+excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data into"
 publishedDateTime: 2021-12-21T11:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
-webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
+originalUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
+webUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KPVI
+  domain: kpvi.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
-    width: 2561
-    height: 1341
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/5c/e5cb3aa4-4ba1-5a6b-93cc-6d9bc71225f9/61c1d0014643d.image.jpg?crop=1457%2C765%2C551%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1Yn4UZhtfWasj3kwFchFDyStSntJhGz3+d2TBaf4KkoIhoyQeZUMub7ust0EPGw7+qqgJ4HjOlOCChq7eDyJ8zIrUfFzPX4AK14ceNSulr61bVr2AP3rn1HKO0mDl8UrxUhGpEHDiBhnCoSGaEt15VrIg9sgM8EIQzPo5XyedneV7fmMeEOIU07kW/ZOfc4hcuCGcdii/oDeyUsvuIsEjIXfRrhNK9+QcJi5Y3uXHRh5EuHIvN2Z75WQHPVVpPLsg0DdRpdhmUHTfz2ZTFvL6i67RP4lm1C1uOuXEQTd23lQnuieGNWjLWF2oqgbWpVUxg2/488LTSHJLS68UB2+BHOatYKq7JUOsjXsHwo1Q3E=;+P2IHHfFZnzQzqegilcgCw=="
+secured: "ozXnaT65zF9sOxxE8gI5Xgm1SXztQ2u5NOiYJXrGNTCn+vR1sO4+JwUCUsntRnnKFkP+AaNMHVfV2JNxm+O9doF3+Zc65RVhv3Pi1fnPM+Vs6fg2+soWIEkA3MXvYJAtH3xX3I3jjdXzsQVdDLX7uM4yZG5bg4vNJiG+5mChCoJzc+qNtPB4ISvntSt+nQ0S6Xr8OP9QvQmckLunyk7no8lMORbxM5IqX8tnoE79K3Zc0euecUDYXppuui16JpXh/qMA98tY1gbGp2IWGXMt/C/0u5Vyf8fMMZvudX/D/1zBhe5fj2y6y+/YdujaR2YpS8Sbzcr2j2kcx8meVOFpUDgpf0EP3vC2QdXSrF4fZfQ=;Wuer3xiIG02yFkt8ha82zw=="
 ---
 

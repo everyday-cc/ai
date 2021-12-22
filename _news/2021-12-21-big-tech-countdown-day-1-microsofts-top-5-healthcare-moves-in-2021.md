@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Announcing the Finalists of OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-    excerpt: "After carefully considering the over 120 submissions, the judges have selected the Finalists of OpenCV Spatial AI Contest. These 50 exceptional teams are made up of over 100 developers, and come from countries around the world."
-    publishedDateTime: 2021-12-17T17:21:00Z
-    webUrl: "https://opencv.org/announcing-the-finalists-of-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/"
-    type: article
-    provider:
-      name: OpenCV
-      domain: opencv.org
-    quality: 58
-    images:
-      - url: "https://opencv.org/wp-content/uploads/2021/12/Finalist-Announcement-Image-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
   - title: "Microsoft partners with Royal Spanish Academy for language resources"
     excerpt: "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,"
     publishedDateTime: 2021-12-21T10:35:00Z
