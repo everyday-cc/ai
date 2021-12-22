@@ -150,20 +150,6 @@ related:
         width: 650
         height: 443
         isCached: true
-  - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
-    excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
-    publishedDateTime: 2021-12-17T08:45:00Z
-    webUrl: "https://warontherocks.com/2021/12/more-than-math-toward-a-better-strategy-for-advanced-analytics/"
-    type: article
-    provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 41
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2021/12/AI-analytics-dec.jpg"
-        width: 1330
-        height: 850
-        isCached: true
 
 secured: "Ogs75OIDfy+NQikNjFRUvb9yaQfF2sV/v7jcDTUu/x1+FCwEAmVFKHFJktSyaTCSzFWThPC5BJdDJL4+sDsz4ZMRMddWBMmAIt+pjgn8FNZStVCcoe/p/XWXnasK1IQr45hZMjZalYHJkfpkXmrncM4JV2A9fU+E+V6I2MxFyGBBcUamnxr4Tiv6MegRC5bGmSM48+y6ozl/VE4CP3ForKzvrlCvORNG3DaU2Kv+/zMQNR0Zb28imYDcBefyFM81h092hQvP2LZ2gbLeF7D76jAsj5pveNQZzu1pZzBMfQ4goBFGuRrxfm0HjllEuM+N6BWN9QT9LdK0sH8yf1ladKxaA+VBRCmyklLuZnI2fWA=;3G0DTsMIOjt791a3ZeacCQ=="
 ---

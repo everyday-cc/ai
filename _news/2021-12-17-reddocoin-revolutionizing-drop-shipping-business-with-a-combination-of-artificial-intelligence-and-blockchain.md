@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Animation Startup Rosebud AI Pivots to Blockchain; OnlyFans’ Founder Steps Down"
+    excerpt: "Talk that the decentralized technology of Web3 will soon supplant the established internet puts young startups in a quandary: they can stick to their existing technology and business models or make a costly and risky overhaul onto the blockchain."
+    publishedDateTime: 2021-12-22T00:02:00Z
+    webUrl: "https://www.theinformation.com/articles/animation-startup-rosebud-ai-pivots-to-blockchain-onlyfans-founder-steps-down"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 33
+    images:
+      - url: "https://tii.imgix.net/production/articles/6876/74979d30-5668-40d3-83d9-a0dc31d9fcc2-y2b4SL.jpg?w=800&fm=jpg&auto=compress&frame=0"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "wtj0ug6LzxnBkgZEfgo2vKSeoLFsH25RhN+w6oPwv5xx/tADBcn6ARZvAd1+uj9dcbqRXASaXpVsiaTjgRwyhjdnGpKA3lODRpyTF6UzMMCPCPj8M7eHUqmh+PFl9VDwX5r5MzXOPwtWEUtNKLV5hSSFpEbfScfDIkVbToI7ts5DwgJOpqOjG11jhejy0u3H6iW6dEiuE8LCsTnrPs3rFl+kSoK1RUPXPbVtGdm6ImiK3jic+VPDK3tomYPwUxMpXMLj9cVPmldLCEwpHi991s4FNdmoJcwAEjtxeEWJPOHPgXjFQD91YnrLoShFEs95+SRURRewZG3385FyIC+co9PCdmY4eTWA+3FGvylCTao=;rrfn6UK4TkWcwARyF81+Ug=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Estonian fintech startup Raison app valued at $11.5m on a Seed round bringing late venture investments to the masses"
-    excerpt: "Raison app, a leading late venture investment marketplace, raised $900 thousand in Seed funding with an $11.5 million valuation, led by Server Partners. The funding will be used to continue the development of innovative investment solutions and accelerate its international expansion."
-    publishedDateTime: 2021-12-17T08:03:00Z
-    webUrl: "https://www.baltictimes.com/estonian_fintech_startup_raison_app_valued_at__11_5m_on_a_seed_round_bringing_late_venture_investments_to_the_masses/"
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 16
-    images:
-      - url: "https://media.baltictimes.com/media/photos/152663_8648865861bc43fd4ac6c_big.jpg"
-        width: 855
-        height: 570
-        isCached: true
   - title: "Silvergate partners with EJF to launch joint venture fund targeting digital currency, fintech investments"
     excerpt: "Digital currency industry investor Silvergate Capital has partnered with EJF Capital to launch the EJF Silvergate Ventures Fund to invest in early-stage fintech companies, digital currencies and payments and banking specialty finance technology."
     publishedDateTime: 2021-12-17T12:23:00Z

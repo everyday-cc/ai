@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
+      "title": "AI chip maker Kneron raises $25M for autonomous driving push",
+      "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
+      "originalUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RLdt3wgnuDs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
+      "publishedDateTime": "2021-12-20T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-use-of-blockchain-technology-could-increase-human-trust-in-ai.md",
+      "title": "Use of blockchain technology could increase human trust in AI",
+      "excerpt": "Applying the benefits of blockchain technology can help address AI shortcomings and increase people's trust in AI-based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1279332201.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
+      "publishedDateTime": "2021-12-20T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-eight-effective-ways-to-leverage-machine-learning-ad-tools.md",
+      "title": "Eight Effective Ways To Leverage Machine Learning Ad Tools",
+      "excerpt": "Rather than guess at what approach will work best to reach target audiences, brands can generate predictive models using ML and AI to identify optimal creative, content, placements and more to boost the effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c3b1170ebe018990ec0d%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
+      "publishedDateTime": "2021-12-20T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-bias-in-artificial-intelligence-impacts-drug-development-aicure.md",
       "title": "Bias in artificial intelligence impacts drug development: AiCure",
       "excerpt": "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments.",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -694,7 +849,7 @@
       "originalUrl": "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1014,155 +1169,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-computer-vision-with-embedded-machine-learning.md",
-      "title": "Computer Vision with Embedded Machine Learning",
-      "excerpt": "Computer vision (CV) is a fascinating field of study that attempts to automate the process of assigning meaning to digital images or videos. In other words, we are helping computers see and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/computer-vision-with-embedded-machine-learning-0_wXcQwPhbEeukBQ7mhHsHKQ",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/computer-vision-with-embedded-machine-learning-0_wXcQwPhbEeukBQ7mhHsHKQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-ai-weekly-novel-architectures-could-make-large-language-models-more-scalable.md",
-      "title": "AI Weekly: Novel architectures could make large language models more scalable",
-      "excerpt": "Large language models are currently difficult to scale. But this could change with an architecture called mixture of experts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
-      "publishedDateTime": "2021-12-17T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-aiml-powering-metaverse-and-more.md",
-      "title": "9 Semiconductor Themes For 2022: Automotive Chip Shortage, Strong Cloud Demand, AI/ML Powering Metaverse And More",
-      "excerpt": "Recent supply chain conditions set up the semiconductor sector for substantial revenue in 2022 with much of the growth coming from substantial restocking by customers, according to an analyst at Morgan Stanley.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/microchips-4924170_1920.image_by_cristian_ibarra_from_pixabay.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

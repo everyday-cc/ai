@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-ar
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/"
 type: article
 quality: 78
-heat: 81
+heat: 78
 published: true
 
 provider:

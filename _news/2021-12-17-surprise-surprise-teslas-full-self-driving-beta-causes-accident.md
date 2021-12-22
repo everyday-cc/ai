@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
+    excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
+    publishedDateTime: 2021-12-21T22:50:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "JEut7/IylhH2zHX+QYemeSgMWJlpO7msbE1LroBTSF1nDMdFQNpZ/KPdEjWqT4pm0rWaO0env/jQVlOs/W5K6aoecmOCsN8pzU156oTqBTUlQGlkqCIefkfta4xKTkrSJfiGW9u/tSTwAicntDmSSg8mUaNqGpeqWOIDM9ucB7cW+pmohJJMhty2he+MItFWmNG8Wr+74hO9ldfes659ACDt1DOcQp8f15BEMzQBn8Sai1F8jKKzjA4vW6IGmTWwJpfYXyxTXwmwjYbcwVUC62wCgDDJ9txeaY+r842Gujwt8upOavDzfBemI/zYY1FfKTH7ZGUDpFV17lqKdE3n16Y9CCYoIwvt5xsucI6ebrk=;Dyy7+r1g1ZS+ZyuLNwc25A=="
 ---

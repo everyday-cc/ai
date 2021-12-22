@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-arti
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 51
+  - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
+    excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
+    publishedDateTime: 2021-12-20T18:17:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/can-ai-be-used-predict-who-will-develop-dementia"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Dec202021at11427PM.jpg"
+        width: 770
+        height: 450
+        isCached: true
   - title: "Startup support for biometrics and AI development: Intema joins Nvidia Inception, new NEC fund"
     excerpt: "Intema brings its $100 million AI accelerator program to the Nvidia Inception VC Alliance, NEC establishes new corporate venture capital fund."
     publishedDateTime: 2021-12-20T18:01:00Z

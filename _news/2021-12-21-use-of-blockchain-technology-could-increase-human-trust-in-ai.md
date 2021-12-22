@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-coul
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Animation Startup Rosebud AI Pivots to Blockchain; OnlyFans’ Founder Steps Down"
+    excerpt: "Talk that the decentralized technology of Web3 will soon supplant the established internet puts young startups in a quandary: they can stick to their existing technology and business models or make a costly and risky overhaul onto the blockchain."
+    publishedDateTime: 2021-12-22T00:02:00Z
+    webUrl: "https://www.theinformation.com/articles/animation-startup-rosebud-ai-pivots-to-blockchain-onlyfans-founder-steps-down"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 33
+    images:
+      - url: "https://tii.imgix.net/production/articles/6876/74979d30-5668-40d3-83d9-a0dc31d9fcc2-y2b4SL.jpg?w=800&fm=jpg&auto=compress&frame=0"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Reddocoin: Revolutionizing Drop Shipping Business with a Combination of Artificial Intelligence and Blockchain"
     excerpt: "Reddocoin is the first-ever crypto-friendly e-commerce platform that provides full automatization in drop shipping business. Analytics Insight has featured Beka Natmeladze, CEO of Reddocoin in ‘The 10 Most Innovative Blockchain Companies of the Year."
     publishedDateTime: 2021-12-17T10:10:00Z

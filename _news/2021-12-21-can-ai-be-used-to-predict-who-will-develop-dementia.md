@@ -24,74 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Helps Predict Dementia Risk"
-    excerpt: "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy."
-    publishedDateTime: 2021-12-17T08:05:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm"
+  - title: "Bias in artificial intelligence impacts drug development: AiCure"
+    excerpt: "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments."
+    publishedDateTime: 2021-12-20T17:12:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 54
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
-        width: 1200
-        height: 1000
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/bias-in-artificial-intelligence-impacts-drug-development-aicure/13109371-1-eng-GB/Bias-in-artificial-intelligence-impacts-drug-development-AiCure.jpg"
+        width: 750
+        height: 435
         isCached: true
-  - title: "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication"
-    excerpt: "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI)."
-    publishedDateTime: 2021-12-20T18:28:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm"
+  - title: "Fintech Developments: How AI and ML are Changing Finance in 2022"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T15:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Artificial intelligence accurately predicts who will develop dementia in two years"
-    excerpt: "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 per cent accuracy, a largescale new study has concluded. Using data from more than 15,"
-    publishedDateTime: 2021-12-17T20:21:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211216145926.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
-  - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
-    excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
-    publishedDateTime: 2021-12-17T12:00:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/ai-predicts-which-individuals-will-develop-dementia-within-two-years/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 37
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2019/05/CO_JanFeb18_GettyImages-687788463_CHRISTIANLAGEREK_SCIENCEPHOTOLIBRARY_HumanBrainCircuitBoard-e1559053521129.jpg"
-        width: 2002
-        height: 1625
-        isCached: true
-  - title: "C3.ai Inc. (AI) Forecasts And Estimates For The Near Future"
-    excerpt: "C3.ai Inc. (NYSE:AI) has seen 0.83 million shares traded in the recent trading session. The company, currently valued at $3.31B, closed the recent trade at $31.89 per share which meant it gained $0.08 on the day or 0."
+      name: Finextra
+      domain: finextra.com
+    quality: 51
+  - title: "Startup support for biometrics and AI development: Intema joins Nvidia Inception, new NEC fund"
+    excerpt: "Intema brings its $100 million AI accelerator program to the Nvidia Inception VC Alliance, NEC establishes new corporate venture capital fund."
     publishedDateTime: 2021-12-20T18:01:00Z
-    webUrl: "https://marketingsentinel.com/2021/12/20/c3-ai-inc-ai-forecasts-and-estimates-for-the-near-future/"
+    webUrl: "https://www.biometricupdate.com/202112/startup-support-for-biometrics-and-ai-development-intema-joins-nvidia-inception-new-nec-fund"
     type: article
     provider:
-      name: marketingsentinel
-      domain: marketingsentinel.com
-    quality: 37
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
     images:
-      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg"
+        width: 1080
+        height: 511
         isCached: true
 
 secured: "i1Zr35jcdv55JT6mckBBP68yVbuRb+b/QD0AwK1yjI0k119yJYsfZs9IX/UP4rVIcGurLWj4CJ/yd/4vPaQGE/KnZcYCJYB38ATWLxpdARWM/wolETkFW3sqaxFB+9JbdKspIMQ+NaDchY46AHRBLPUuszGjub/JROknnhlCCyq7rJs+DBhtNKruyKy0HWX4f8FzGklJ9qYF3/bB+ew9hQetPZLMiEf/8xEI1I2cPgnkaZT4nNF1x1T8n8ypYkRso9MTwjaDJGErZ0NuapWm+iZkLMJlrJIVX5H7E8Gi2WkZROyPgwM8HGzeOolREP55pkV8U+tcWtqQCz7CqTbnQhUvWd4KyIwKa5fnBd6H8Gd8YqS+r/KUVh3WGR9LAJXLn8nZgOUR9HRoKX/w/SkBZrgKh80Avr/mRsrbkcOzSK0HCx+aPhpWRbJhZ8wuNxCKcAWl0RPfpTcmLsuOWOC58RPl6rsRC5n6ikzb8b82wSF1vrPkCQGJq4kqZEJUVt3LloSMl3ypb+WqLh1V1iz9/Q==;4knznR96QcW7iWEk7VCAXg=="

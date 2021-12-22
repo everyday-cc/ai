@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-21T17:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20211221005180/en/AvodahMed’s-Human-Centered-Artificial-Intelligence-Focuses-on-Primary-Care-in-2022"
 webUrl: "https://www.businesswire.com/news/home/20211221005180/en/AvodahMed’s-Human-Centered-Artificial-Intelligence-Focuses-on-Primary-Care-in-2022"
 type: article
-quality: 13
-heat: -1
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 related:
   - title: "AvodahMed's Human-Centered Artificial Intelligence Focuses on Primary Care in 2022"

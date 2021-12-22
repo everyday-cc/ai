@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/aws-offers-free-online-course-in-machine-lea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

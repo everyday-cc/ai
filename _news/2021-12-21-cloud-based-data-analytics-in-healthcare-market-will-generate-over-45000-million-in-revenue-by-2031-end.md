@@ -135,20 +135,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "More than Math: Toward a Better Strategy for Advanced Analytics"
-    excerpt: "If, like the Army’s XVIII Airborne Corps, you plan to use AI when dropping 1,000-pound bombs, you should be sure you are using it correctly. This is why"
-    publishedDateTime: 2021-12-17T08:45:00Z
-    webUrl: "https://warontherocks.com/2021/12/more-than-math-toward-a-better-strategy-for-advanced-analytics/"
-    type: article
-    provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 41
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2021/12/AI-analytics-dec.jpg"
-        width: 1330
-        height: 850
-        isCached: true
   - title: "Military Artificial Intelligence (AI) and Cybernetics Market Research report 2021-2027 | BAE Systems, Boeing, Blue Bear, Charles River Analytics"
     excerpt: "Artificial intelligence in the military paradigm was introduced in 1956 However it was not successful at the time The advent of AI culminated when three new technologies were interrelated big data machine learning and high computing power The advent of"
     publishedDateTime: 2021-12-21T13:31:00Z

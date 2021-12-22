@@ -40,15 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Rusagro informs about receiving a grant for a project for the introduction of artificial intelligence on its fields together with AssistAgro"
-    excerpt: "Rusagro-Invest LLC, part of the Rusagro Group of Companies, and AssistAgro LLC will receive a grant for the implementation and complementation of artificial intelligence in the field of crop production from the Skolkovo Foundation (VEB."
-    publishedDateTime: 2021-12-17T08:54:00Z
-    webUrl: "https://www.publicnow.com/view/0106948A615F5351C23F667CEF5D4D4BE9A8A0EB"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 0
 
 secured: "ckc7zwQem8T7iD7ERCxVE8rcX1DsK4TdpCa9zmKp496EVL3PJR/gEbtFPiJAszoIS0Hq8R1rH1CII4xOdZVWg0f2o3V5U4Zw7iJuBq6wyFssdvgaVSTssB2nBoHeJWI2BXjQ9cQmGWlehlEYohrcIr/bGQ6KUbNHWoGItOP3Uy0UjpQLjppQXs31gayyJ0JoHZ7SNI+FRW87SMrfVrPy9V4b10CZLm/zWD7fPzS2PvfVQdMe+JnwevoaD5DtvcCtKReL2GqpIwxNT2NovCD6v/NKE5S5rGRrbyCjvbZsGaDiZmVu7IBU8pnh/aaab9ivjtYNJDgUMhUxYoEcuWybIHrZYWAZOboFuzYDqtW3/kjFTeXLEtptqpM6JpNmiWiA6ijIFgo2uiVSifTknjVcVhxSgHawiQ5SVj28CDwzb1SyPVP/39AaTwJz3bSd+s9Fcc+5BF9eCTLzVeE9MlJv6C049G/NK28S2eIaJV7ih5onabSEaKcvpBiRU38ablZlhxfKTfwAmynJm3I3l6e9KQ==;eS6xEFzEJ8wPlmwcntnidw=="
 ---

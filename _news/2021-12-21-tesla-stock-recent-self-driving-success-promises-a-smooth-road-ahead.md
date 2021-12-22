@@ -53,6 +53,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
+    excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
+    publishedDateTime: 2021-12-21T22:50:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "veSmejCQG4POXZviRpyAZBWdEWc0OQ6ZMK04D8S2/utiASaEjqKRh7sSNHfsvJQXpIOD3WY+8UHXPHGi5vgbPm8Kax1DSJBweVFj3iRXyHZDqNh6q6GY5Wn9VttlbE96mEv2W1FNA2MAkV5XJlpCEHrKzu7wvDqwqxMOuUwAgvBbWbRPNqYg9czCWy42y49yKm4xz8cUicYUS6Cj9n4re3NSvqhh+4uLn4xpgILrb5pU+CJ54burkimEr53JVyi4D3kw/Wgv1cfkKaBn96aQ9B0IeXuxewVUaJqlKFi2yO11BLSfPGLPa7zzyoUit/LDZYXMlcQuar1Xqm7shWXUh1x+NjOzL2UYnXrqm4ulO4WdX3kA3Bujq/nQ6vXn6nwn+w4OOnywQzm7Q6tPsTNscEuDJmqMKmH3sI4F5YuD7ec9zr4E57x6Vr+YoAKJv5mDfJSM2nt6NFsQGtxLj3oo+EWxTIYgRH5GH2u8VxWnOCXYS9lA8SmG89jryOfaStz9z2OkA2XHqx0kdsHdpS89Xw==;EVF8dtSIfYndbpr0BRmAcQ=="
 ---

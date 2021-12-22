@@ -50,7 +50,18 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
+    excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
+    publishedDateTime: 2021-12-21T22:50:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
-secured: "EoKVjJYZRZwmxTspcz0P2qX9lfBuKpb/ADmBZXGelhsc5D+eoLBieFmPMWW1Imm2qEG+GPmNvhzUC7KhWKA3bJ+WsLwo5DbuOLurfrqWQappHgIaUuRgFpdU5JHHS34rZZdmFVlFLQxDklURl+P6EjZgV1RrM749ljbVIHBLhIN0b5FU4fzSCiQdrgBrpujZ/H1XSE8ku6WJ3Fe6bNVMAid9pKh/ToN0nJxBHaL2NSVN+pTHu7oklwPBiIE4SYXy+nRStsTYLzzP8SYihJ5mxbefZPu5CfEcYFbOo5FlWYNmY9z63YvYfWNlBPFWdoAi73nE/E+wCAZ2y/onI+FfdikDK1Clrp4zygBV2Lk6om4=;RHDYWxzyxFyoNpVZmzPzYw=="
+secured: "MGkvb/m/QXMU1dWm7bVmNJ5SXZNOEEU/2Oa+tVwkTRaPTuprnqK2xhJ7Z7XHU+0KScF7o5Bh5bkKfBH9fIYAfOq27JM2F7VytfiT4yW9BV9+eGjUvpRZMZ9T5wXNN2T1WS71DRepuU51ZOvuuaVeIbk6qWh2Ja5kZaTlqKZg0RZG4NT26iXCKwHda9JZfFz/+zbVa5+2P4qCTFF58SQyqQ0AFv4MkxbN39MdXbGmSF4IfNzEwW3zgGWn7VsUtIZH5rJfMbHuEj8/jwUyJRkWPgvbybTzFURjQAq3PzYLVQZxKlPa7GgsleFfeVAfMDwKGPjFSekmgYAPITG/9c+YfP9V85vHPVGXCbOp84AqhJHRwb+fv4Wk2i8yyWjSfqGPqEl9vg9mo9H7yTSsfE+QUd5hwPHjF/tOmHA75IqcyyQFerus/D3JTWR8hZriz8KlTC4i40ZW3DfzoFVD4LtqUmn6SlikXOJ9xq+kiIoxmtm9Vxw8VGxWMbfCdPkJ+FMg7RqJngKxHxHs3NISXNMTfw==;r+9hHJU2vyN4Z16eQJxsLQ=="
 ---
 
