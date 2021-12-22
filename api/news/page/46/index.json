@@ -2,6 +2,154 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
+      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
+      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "publishedDateTime": "2021-11-15T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
+      "title": "How machine learning is skewing the odds in online gambling",
+      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "publishedDateTime": "2021-11-15T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
+      "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
+      "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "publishedDateTime": "2021-11-15T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs.md",
       "title": "AI can quickly identify structure of drugs designed for legal highs",
       "excerpt": "Artificial intelligence can quickly identify the chemical structure of new drugs that have similar effects to substances such as cocaine and heroin, but have been designed to evade detection by existi",
@@ -1015,163 +1163,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
-      "title": "Report: 80% of fintech execs worry about authentication security tools",
-      "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "publishedDateTime": "2021-11-14T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028.md",
-      "title": "Global Computer Vision Market Research, Clinical Study and Business Guidelines till 2028",
-      "excerpt": "Comprehensive Information Portrayed in The Global Computer Vision Market Report Outline: As per the report published by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028-2021-11-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-research-clinical-study-and-business-guidelines-till-2028-2021-11-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028.md",
-      "title": "Passenger Vehicle Voice Recognition: Market 2021 Qualitative Insights, Key Enhancement, Share Analysis To 2028",
-      "excerpt": "Passenger Vehicle Voice Recognition Market Size, share 2021 by Global Demand, Regional Analysis, Market Trends, Top",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

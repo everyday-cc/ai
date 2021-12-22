@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New research reveals opportunities associated with innovation in AI"
-    excerpt: "A major new survey of British businesses, commissioned by the Centre for Data Ethics and Innovation (CDEI), has revealed the importance of supporting companies to adapt to an increasingly data-driven world."
-    publishedDateTime: 2021-12-17T11:50:00Z
-    webUrl: "https://www.research-live.com/article/news/new-research-reveals-opportunities-associated-with-innovation-in-ai/id/5093682"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "Will technology SMEs and start-ups soon be involved in AI regulation and standardisation?"
     excerpt: "In a press release published last week, France Digitale, the French Association for Standardization (AFNOR) and the French General Secretariat for Investment (SGPI) announced a new partnership allowing startups and technology SMEs to participate in the debates concerning the regulation and standardization of artificial intelligence in Europe."
     publishedDateTime: 2021-12-20T09:07:00Z

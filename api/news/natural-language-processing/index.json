@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend.md",
+      "title": "Anyword's AI Copywriting Positioned for 2022 Digital Marketing Trend",
+      "excerpt": "With its ability to optimize messaging, increase sales conversions and reduce campaign costs, experts predict the use of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/a6/05/9908a8efc679d560b37a21b1054e.png",
+          "width": 1002,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24725286",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24725286",
+      "publishedDateTime": "2021-12-21T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-6-major-hotel-trends-for-2022-from-crypto-to-facial-recognition.md",
       "title": "6 major hotel trends for 2022, from crypto to facial recognition",
       "excerpt": "For future vacations, expect hotel trends such as facial recognition, VR, payment by cryptocurrency and more to be a big part of 2022.",
@@ -1400,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
-      "title": "German Language Service Provider Milengo Expands to the US",
-      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

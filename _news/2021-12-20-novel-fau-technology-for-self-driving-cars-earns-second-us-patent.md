@@ -1,22 +1,28 @@
 ---
 category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-publishedDateTime: 2021-12-20T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
+publishedDateTime: 2021-12-20T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Autonomous car tech from FAU can mimic driving styles of passengers"
@@ -29,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "+aDWTDsomhAB5aunbqnwe7WHjnxeaEPqx7NfPdJ1n/6imfNLos5rlOmQFx58PEQdHQdQCsSnUjyqZxzIEPIF3zwG3aWmOEp9jlxhvZjvqREKRkuvFgkGqCyoIF79Oj0RwjRo52wEGTJwyeqtV2mtJsIDQvqhOr+FOjdc06ypC0C8ppPD/QoID69qmrZ1ol49N6ZpA0/+UBzbLNa3op+xUUSPYkvQSQuLxROk4epkR8dyCbDVaKogD4dUx4AdfykTBHx5PIBIf51Z0aZ0nk6RJSmWXn85ddd3rsjHc/G0510RCp+PFC/Y0fY/qHRyUDkN8GjWKCDPU+yhkpTyhWKlZ0J3ZZroFksu37ZF9PXM/6s=;xNDktd/QqMCmZMIv6fD+iA=="
+secured: "YTV/yHxWlnXY5GAUO9l3YkhE30+natoOVG60vKInxm9X42ypQ3/MemQvYR4V7Dw05fm4XEVQ5FeNCXKu7ZKrhwqNveJQMMC/jX9wd5yeuHEDwaoDDz1jTfAk5uR0ZdTxh9J8zI0oHPnFcKjegIo+j9/+kIXL05YBJXYkoBrb+3CcJ3vxHR6MDiyMR1akQFhUrz/k3d1+kiYvH9bud0zbICGZ7thvgckuth0Ufhc8e8RezV91qoIcLabWAbR1i4a91saPbLg09GvJ8o9vtUj2eXABIfYfny5FPG2fov/zdEUfdBuWlu5WFPVPQLJPkD0Mq4H8aePkIMLoExWuYfdrEiu2HanS9ENkgSnXN5PG8A4=;9aSimG1EDtbYOj/kZlzbkQ=="
 ---
 

@@ -233,6 +233,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-22-anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend.md",
+      "title": "Anyword's AI Copywriting Positioned for 2022 Digital Marketing Trend",
+      "excerpt": "With its ability to optimize messaging, increase sales conversions and reduce campaign costs, experts predict the use of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/a6/05/9908a8efc679d560b37a21b1054e.png",
+          "width": 1002,
+          "height": 1064,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24725286",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24725286",
+      "publishedDateTime": "2021-12-21T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
       "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
       "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
@@ -1032,7 +1076,7 @@
       "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1117,50 +1161,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-6-major-hotel-trends-for-2022-from-crypto-to-facial-recognition.md",
-      "title": "6 major hotel trends for 2022, from crypto to facial recognition",
-      "excerpt": "For future vacations, expect hotel trends such as facial recognition, VR, payment by cryptocurrency and more to be a big part of 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/",
-      "originalUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.lifestyleasia.com/wp-content/uploads/sites/3/2021/12/21041203/alexander-kaunas-xEaAoizNFV8-unsplash.jpg",
-          "width": 2000,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/",
-      "cdnAmpWebUrl": "https://www-lifestyleasia-com.cdn.ampproject.org/c/s/www.lifestyleasia.com/bk/uncategorized/6-hotel-trends-you-might-see-in-2022-from-facial-recognition-to-cryptocurrency/amp/",
-      "publishedDateTime": "2021-12-20T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LifestyleAsia",
-        "domain": "lifestyleasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

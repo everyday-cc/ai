@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MEA is seeing a hiring boom in auto industry machine learning roles"
-    excerpt: "Middle East & Africa was the fastest growing region for machine learning hiring among automotive industry companies in the three...Read"
-    publishedDateTime: 2021-12-17T11:57:00Z
-    webUrl: "https://www.just-auto.com/features/mea-is-seeing-a-hiring-boom-in-auto-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/09/shutterstock_435613807.jpg"
-        width: 500
-        height: 355
-        isCached: true
   - title: "Asia-Pacific sees hiring boom in apparel industry machine learning roles"
     excerpt: "Asia-Pacific was the fastest-growing region for machine learning hiring among apparel industry companies in the three months ending October."
     publishedDateTime: 2021-12-20T10:51:00Z

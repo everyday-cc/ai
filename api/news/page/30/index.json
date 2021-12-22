@@ -2,6 +2,163 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-29-amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment.md",
+      "title": "Amazon Personalize announces recommenders optimized for Retail and Media & Entertainment",
+      "excerpt": "Today, we’re excited to announce the launch of personalized recommenders in Amazon Personalize that are optimized for retail and media and entertainment, making it even easier to personalize your websites, apps, and marketing campaigns. With this launch, we have drawn on Amazon’s rich experience creating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T00:07:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-robotics-startup-fjdynamics-raises-70m-to-make-manual-labor-easier.md",
+      "title": "Robotics startup FJDynamics raises $70M to make manual labor easier",
+      "excerpt": "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
+      "originalUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823",
+          "width": 823,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
+      "publishedDateTime": "2021-11-28T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-ai-robotics-alongside-us-today.md",
+      "title": "AI Robotics alongside us today",
+      "excerpt": "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE9kuTiv0zQng/article-cover_image-shrink_720_1280/0/1638149826611?e=1643846400&v=beta&t=Vtk75rpPqFM5evGX6jMTVcGclCt70iskUoREeePExvY",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-28T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-your-brain-is-an-energy-efficient-prediction-machine.md",
       "title": "Your Brain Is an Energy-Efficient 'Prediction Machine'",
       "excerpt": "Computational neuroscientists have built artificial neural networks, with designs inspired by the behavior of biological neurons, that learn to make predictions about incoming information.",
@@ -1063,145 +1220,6 @@
         "AI Ethics",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-12-robot-vacuums-that-clean-so-you-dont-have-to.md",
-      "title": "12 Robot Vacuums That Clean So You Don’t Have To",
-      "excerpt": "Robot vacuums were once awkward, bumbling machines that bounced around your home sporadically. Today, the best robot vacuums are so advanced that they might actually rival your full-size vacuum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619e8063bd05787299f3a0f8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D114%26cropY2%3D781",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "publishedDateTime": "2021-11-26T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-un-countries-adopt-first-global-agreement-on-ai-ethics.md",
-      "title": "UN countries adopt first global agreement on AI ethics",
-      "excerpt": "The United Nations Thursday adopted a historical text defining the common values and principles needed to ensure the healthy development of artificial intelligence. The agreement was adopted at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
-      "originalUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jurist.org/news/wp-content/uploads/sites/4/2020/08/united_nations_1598635258.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jurist",
-        "domain": "jurist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-193-countries-adopt-1st-global-agreement-on-ethics-of-ai.md",
-      "title": "193 countries adopt 1st global agreement on Ethics of AI",
-      "excerpt": "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.pna.gov.ph/articles/1161070",
-      "originalUrl": "https://www.pna.gov.ph/articles/1161070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg",
-          "width": 720,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gov",
-        "domain": "pna.gov.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

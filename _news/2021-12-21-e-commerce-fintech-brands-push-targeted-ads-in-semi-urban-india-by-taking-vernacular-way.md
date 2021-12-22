@@ -26,6 +26,22 @@ images:
     height: 395
     isCached: true
 
+related:
+  - title: "Tricolor Named Finalist in LendIt Fintech Industry Awards for Excellence in Financial Inclusion"
+    excerpt: "Tricolor recognized for use of AI to provide access to affordable credit on high quality, affordable transportation to underserved Hispanics Tricolor today announced it has been named a finalist in the Excellence in Financial Inclusion category for the annual LendIt Fintech Industry Awards."
+    publishedDateTime: 2021-12-21T19:55:00Z
+    webUrl: "https://financialit.net/news/transaction-banking/tricolor-named-finalist-lendit-fintech-industry-awards-excellence-financial"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 12
+    images:
+      - url: "https://financialit.net/sites/default/files/tricolor_0.png"
+        width: 775
+        height: 329
+        isCached: true
+
 secured: "A2JPxTU1IDX34tgG8Fl147GlXhVi3kXp6ebSm9tvy2dQLkljcu/Ot44aNuNe3vAmSjheVDv9e5dpjwvewJawx4+sEyPTb6ncVbsxIjjrvkv8pw9jOp/769jZMYj7hcoeyplkIllokQwPiHgmy8Jj+kMqS9gMnHGb2dMLiCP9kiyyZVk6bnIxoYTl7+/x4JiBt5kDrBofNJ2n+lFDNiG5DRMxfqSntsfWsLiZ5NwjGjWe/HGZbIEaC4mG6cCg0+qvmPPA9dbOBnhSyIpninklCeRWHBnwYGLVwfywhLDFr966nyj/CAVHldll8sn7T6c9vOOUHBVeTDHwQNnvBFA59mvNvPMlWEFyqrgUHvcoaxynHHoyCu7pj+2r0AQPALa1PV3TP5F6YqtZuMwg9LGtF91gQWaTCrdR8/Amn0plo5ThWOROFb2BPFaOUl7Gi5kJVftG2obDAumIzM8EcnmJmSocXsUR3db5w+t/e2R/IOE6xxyPEfmRc7YWpFZB4NpTVL1VD4tlNGXu6RpXk7BVnw==;wluCqe/UzDkwkvFbmJ3NlQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-21T14:55:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

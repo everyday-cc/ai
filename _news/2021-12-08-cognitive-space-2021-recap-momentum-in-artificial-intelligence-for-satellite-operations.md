@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Cognitive Space 2021 Recap Momentum in Artificial Intelligence for Satellite Operations"
-excerpt: "The New Space economy is attracting massive investment and is growing exponentially. Space will be filled with thousands of new commercial satellites,” said Scott Herman, CEO of Cognitive Space. “But building out the required ground architecture is a major hurdle for New Space companies and usually represents a significant monetary investment,"
-publishedDateTime: 2021-12-08T03:40:00Z
-originalUrl: "https://www.financialbuzz.com/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/"
-webUrl: "https://www.financialbuzz.com/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/"
+title: "Cognitive Space 2021 Recap - Momentum in Artificial Intelligence for Satellite Operations"
+excerpt: "Recap - Momentum in Artificial Intelligence for Satellite Operations Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic,"
+publishedDateTime: 2021-12-08T05:42:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "60g/lEWsCXczRpAM67azMjFbNcmnAXNVtTtID9RUz4TP1SfLM1x68/bB3PWUfu6ZV3Tuh5fh43QTfCRv9UmVmlrR3w3TV5BtKztPotRDfIiKlTta3+Ji6L94qz3NQYuLBxiJpBOP6tiWcM7NBcXhPI8GZyw7Abf3B4Ky1qIt+y9tw2W9VjPhl82yae7+30SpiK/2awfWK0de+ZR3edNOZHpkz/q88Gr3BK2ZfkdHOZrIeCfK4BN5kmUbikTnqvInse5q51tjnRjH0KVlkK1PKVRZFRi06WUOEqoBSn77I88GJqFCqN004Sz8xGu5Ri33LzoEFbDmaqW5Apxlj/6/OSgiLBZhk5uqc7miKer37kymzorB1ul5V4+F/TM5ncJsSbtZOcOCeskCMx+59qE9Z0KmoYV+GuYz7aGqLOSG6lLqmvc8Lhm2xRly8VZ2xPs4STGXsPCj4o/Ii2Qw746FSMNDvnOYaWfRmwaXa8fxCeT1O1bCyQflJ8kMENvvKhraPyYcmnvKp6tRfFs+ic+kHw==;XYcdpWAjjPr8XpyWw3D+4g=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "bNGuhalQrb+hqEOUz7vn3cK3Ywn/PbIUlocb5Q3ZdLmKxd0Ef8aWb1fcrff38HldKz9sGNsadGoDrxHUzYoFVEg1t8HzmuwDW7edsH29DH64NybU+1ceQou2OeVoAzrFsurQEhwi2aCSmPz6TKK33amrLiV8CBi6esAPvnJlt+SIJsM/Xx1gTE51LQ6dEvr4ZkwJtel5iDUkegfvkdJtbAHTFUeRhZJDJ7YGhwwLU7tD1hSv1Ksh5f8F5VFRxxB0haUuiy2CF0KL1icWbEb24kwg065VR/r0bzfRQWFjMZMLlEaIfu7QHRoivv1zD9L2u2GXjoo1w7ZCiU9o7zkQaKr7NC1uBukyqigtkN8aUik=;XwVykjbnofRDMRlyljuhCQ=="
 ---
 

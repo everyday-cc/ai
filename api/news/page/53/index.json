@@ -2,6 +2,143 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
+      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
+      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "publishedDateTime": "2021-11-09T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting.md",
+      "title": "MediaMath and IBM Watson Advertising Strengthen Relationship to Deliver Transparent, Addressable Weather-Based Ad Targeting",
+      "excerpt": "an IBM Business, Watson Advertising Weather Targeting marries weather's ability to help drive action with Watson AI's capability to aggregate and analyze complex data sets. This unique combination ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1682667/IBM_Weather_Set03_Sunshine_LI.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
+      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
+      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "publishedDateTime": "2021-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-new-world-population-problems-are-literally-letting-ai-enemies-win-the-game.md",
       "title": "'New World' Population Problems Are Literally Letting AI Enemies Win The Game",
       "excerpt": "New World has 2,000 players on a server, which was supposed to be enough to sustain a healthy, large-scale PvE and PvP endgame of faction wars and defenses against demon hordes.",
@@ -1069,143 +1206,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-as-full-stack-provider-puts-focus-on-autonomy-for-vehicles-and-everything-that-moves.md",
-      "title": "Nvidia as ‘full stack’ provider puts focus on autonomy for vehicles and ‘everything that moves’",
-      "excerpt": "With so much attention focused by automakers on autonomous and electric vehicles, Nvidia has pushed out two new AI platforms to boost the digital experience inside the vehicle. In a GTC keynote on Tuesday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
-      "originalUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fierceelectronics/1636406028/nvidia%20drive%20dashboard%20image.jpg?VersionId=XHqJf7gkR6fdQiMZfZ01ffKyL58CoQuw",
-          "width": 774,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fierceelectronics",
-        "domain": "fierceelectronics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
-      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
-      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "publishedDateTime": "2021-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-brings-large-language-ai-models-to-enterprises-worldwide.md",
-      "title": "NVIDIA Brings Large Language AI Models to Enterprises Worldwide",
-      "excerpt": "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g23974704/nvidia-brings-large-language-ai-models-to-enterprises-worldwide",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g23974704/nvidia-brings-large-language-ai-models-to-enterprises-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23974704",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974704",
-      "publishedDateTime": "2021-11-08T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

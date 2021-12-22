@@ -2,6 +2,162 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-11-20-china-unleashes-might-of-ai-on-next-generation-supercomputer-to-meet-demand-for-more-power.md",
+      "title": "China unleashes might of AI on next-generation supercomputer to meet demand for more power",
+      "excerpt": "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "publishedDateTime": "2021-11-20T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
+      "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
+      "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "publishedDateTime": "2021-11-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
+      "title": "Best new cars cheaper than $40,000",
+      "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/kGrbx7FCExYNdGnJvXn5pKDbKxg=/2021/11/19/783f4edb-3cff-46b4-8346-0e6a9679761a/ogi-rdx.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "publishedDateTime": "2021-11-19T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-apple-shares-hit-record-after-report-says-the-company-wants-to-build-self-driving-car-as-soon-as-2025.md",
       "title": "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025",
       "excerpt": "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160.",
@@ -1062,135 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-105-valuates-reports.md",
-      "title": "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports",
-      "excerpt": "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq.md",
-      "title": "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ",
-      "excerpt": "The DQ Institute, NUS and Penguin Random House SEA, announces the launch of Dr Yuhyun Park’s book entitled “IQ, EQ, DQ: New Intelligence in the AI Age” for readers interested in mastering digital skills and online safety.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
-      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
-      "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
-      "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
-      "publishedDateTime": "2021-11-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

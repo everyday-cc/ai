@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/features/asia-pacific-sees-hiring-boom-
 webUrl: "https://www.just-style.com/features/asia-pacific-sees-hiring-boom-in-apparel-industry-machine-learning-roles/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MEA is seeing a hiring boom in auto industry machine learning roles"
-    excerpt: "Middle East & Africa was the fastest growing region for machine learning hiring among automotive industry companies in the three...Read"
-    publishedDateTime: 2021-12-17T11:57:00Z
-    webUrl: "https://www.just-auto.com/features/mea-is-seeing-a-hiring-boom-in-auto-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/09/shutterstock_435613807.jpg"
-        width: 500
-        height: 355
-        isCached: true
   - title: "Where is food industry’s hiring for machine-learning jobs buoyant?"
     excerpt: "Europe was the fastest-growing region for the hiring for machine-learning roles among food manufacturers in the three months ending October, GlobalData says."
     publishedDateTime: 2021-12-17T15:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-algorithms-kick-up-levis-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-algorithms-kick-up-levis-revenue/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Levi’s AI Chief Says Algorithms Have Helped Boost Revenue"
-    excerpt: "The use of AI has helped the apparel company make better decisions in areas such as pricing and shipping, Chief Strategy and AI Officer Katia Walsh says."
-    publishedDateTime: 2021-12-17T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231"
-    ampWebUrl: "https://www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-451210/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "kt7l57+/ZxLxBF7X64pqHc2iQtn2xMQTp0XH95sAHA83eCgVYRJDTz87OIVL3N42g1q6qTg6qj//EYCtSDqE2BsMkI767SKowYE+VRJVce1QU8+g8/bftTzO1bYzuxiHmu6Z/gtT9C9dtzMdkpFbvEINvmsMT/0EiDNlSMebIH8vntzuMoiWiogvY20owsHxIGWKh/rD1a8s64EFegxMU4avMcYFapRNF8KMj+72pbLWS5lrK+yb45Y6+c0lexsRcXz8inoSd+BoMioKnXfuuQeYX7p5vhdNrZazb2vr5bcafkXjwI1HQ6KAHdZZjsrHOJ7DqLHO8g5bzHrvQ/M5ke6fPpVAkEJ2A6AKtXYrxeGXHvrEZw/boymSOLuEUadJr31yQajiVS4CEbdM1LL5OUPe03kPZgF4WYBeEbGTgduS2vCbLtEJvRJau9ItYSguqM1iu5oVpXvzDvrumC2iE3BONCLWukDPbmP5kfPLRg9arjxMBQVVNqlM3MWB7JXkHUpUDC+01o/YR++HyzJmjQ==;4SGm+d0GYRDhqJlzk0I3ug=="
 ---

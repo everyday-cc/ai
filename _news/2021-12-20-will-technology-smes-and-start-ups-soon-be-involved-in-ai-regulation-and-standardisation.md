@@ -40,22 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "New research reveals opportunities associated with innovation in AI"
-    excerpt: "A major new survey of British businesses, commissioned by the Centre for Data Ethics and Innovation (CDEI), has revealed the importance of supporting companies to adapt to an increasingly data-driven world."
-    publishedDateTime: 2021-12-17T11:50:00Z
-    webUrl: "https://www.research-live.com/article/news/new-research-reveals-opportunities-associated-with-innovation-in-ai/id/5093682"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093682&name=new-research-reveals-opportunities-associated-with-innovation-in-ai"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
 
 secured: "okXZzftvguf1XtmOBxgP2ocRoZz8zN1NkbUUFhoQ6tYfRaxZQy7kX+k6JShM1bDC6ElL8BC5tIdcp81AV3fZ7c3vfp4H0N8QPpwdXj6LQL5jg8ZM3dyGiOqGnGu35b9Wil+oqh7c2dnWpmovLfpBrSnFA/m6WQmv1H2PUg9wFUJEIIxvHoJki77bgZxUZbqKlC1BdaDv46Qj0Ph5P5eieyQOvUyPf2OxeGxrNdMbA64SjED/OzmAxnQ7Ns5gLbk4nbQHDbM1+YFmozWEzOlJ/zgvcNUWE7nncFaDn27/E+UODWyJwTI9tsh+SXtXBTHC2F8vAkwrlDmMG13vzkQ9l/O1j5LALz0ADgU0Z7hpOAsWyFjHeVqTBK2Fq36Qj73eOuieMv2nXLVtJJZrU7ZNulEazVWOhXh1Ab5uiZSsIM2GqOR7l6FhGsVpwExO0ejUx3fiySpFFixry9oazcN2fkYD6/0yzdwFYz5ZuqTHg7UGltZBeSGhiuCbZD1ku2qbW6uEtUlnqOOZWMw3VzECPw==;C2z19IPB3NaJwexJOMELKQ=="
 ---

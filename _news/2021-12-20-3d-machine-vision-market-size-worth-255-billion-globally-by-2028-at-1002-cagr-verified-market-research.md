@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The Worldwide Digital Assistant Industry is Expected to Reach $33+ Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Digital Assistant Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global digital assistant market is projected to grow at a CAGR of 32.17% to reach US$33."
+    publishedDateTime: 2021-12-20T16:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-middle-east-ae80bbf729a34d249a030edb8682d907"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "mErmNl9a7qoGZuYXECDL08xH59sa2ZCWOfNrdJJtXr14K2CTuhT5s0GDF4vnBsVemD+VItczptYKG5XsvktcCPXwPKiJT0evy2y0MsLuItfC4eigfa/vb2FOOzPiNqXPNN41xxswBbxr1Sreu6XyyDMrwYB1KS3hz7zjS3B61OJ2xCfBGKOpdMipq9nwfv2YLVZf/cfhkuax4WEPgqa8gPzX+yrHhtJomeyUyH1GEN+KsMLhRfKIyrFOIIFm3fc8JMaKN8i+/9WHXxogfq6HFHYxh275I8ZkYbsZBGIRsxcAUdN7m8c0MCa5HlOdBpBLk8UzrI9wAUmgxmQWdh0kHKVAGPQ8MBrMCxmyZSG2le5CNiuVRZk5fG3TwYgWvkfXZNC69Muf9v9xkZTDgVQ3FMtHtQ4l3J67x1rHWjVEAJuHnQ+OR8hLTdc8X68IpSMDaf5dVP+YBwaSuz/sobybsO6H/0eMMf9Y9tVbJnHDWYnqYQXJ5n8QLxEZm9BEoJg5k9M11CCobu3zqtE6bQKtsA==;uP5/FKP+wnjuQVX7FF3UfA=="
 ---
 

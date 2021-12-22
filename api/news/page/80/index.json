@@ -2,6 +2,136 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-10-20-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-meituan-raises-10-billion-for-self-driving-cars-drone-delivery.md",
+      "title": "Meituan raises $10 billion for self-driving cars, drone delivery",
+      "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14334804",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14334804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/d16b-p/picture/26088825/466277d4ab39974249cbd7b2cccd2952.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "asahi.com",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
       "title": "Vocal about local? Can India have its own Facebook & Google?",
       "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
@@ -1020,144 +1150,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-instacart-buys-caper-ai-company-for-smart-grocery-carts.md",
-      "title": "Instacart buys Caper AI company for smart grocery carts",
-      "excerpt": "With the $350 million deal, Instacart looks to integrate smart cart tech into its app.  Instacart is buying Caper AI, makers of smart grocery carts, for $350 million in cash and stock. In a Tuesday release,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/StHkeQvZ_riD0mjW9yQZ7GLm_TU=/1200x630/2021/01/21/0667012b-6963-4e27-81d7-1aa9ffa48b13/960x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "publishedDateTime": "2021-10-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-4-top-artificial-intelligence-stocks-to-watch-right-now.md",
-      "title": "4 Top Artificial Intelligence Stocks To Watch Right Now",
-      "excerpt": "Artificial Intelligence Stocks To Consider Adding To Your Watchlist Right Now. Artificial intelligence stocks appear to be gaining traction among tech investors in the stock mar",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
-      "publishedDateTime": "2021-10-19T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base.md",
-      "title": "Tomahawk Robotics Receives Award from Department of Defense to Strengthen the Domestic Small UAS Industrial Base",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1663668/Operator_with_Grip.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

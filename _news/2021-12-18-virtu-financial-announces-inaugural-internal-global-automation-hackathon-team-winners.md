@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-financial-services-8ad5717c33e49d23dbf58267141539eb"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace"
-    excerpt: "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans."
-    publishedDateTime: 2021-12-17T12:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 58
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-Lion.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Moneylion to acquire Even Financial for USD 440 mln"
-    excerpt: "Digital financial platform <a href=' target='_blank'>MoneyLion has agreed to acquire embedded finance marketplace <a href=' target='_blank'>Even Financial to accelerate its mission of providing financial access and advice to hardworking"
-    publishedDateTime: 2021-12-20T10:08:00Z
-    webUrl: "https://thepaypers.com/online-mobile-banking/moneylion-to-acquire-even-financial-for-usd-440-mln--1253545"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 24
-    images:
-      - url: "https://thepaypers.com/images/social_media/acquisition-social-media_LI.png"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Tricolor Named Finalist in LendIt Fintech Industry Awards for Excellence in Financial Inclusion"
-    excerpt: "Tricolor recognized for use of AI to provide access to affordable credit on high quality, affordable transportation to underserved Hispanics Tricolor today announced it has been named a finalist in the Excellence in Financial Inclusion category for the annual LendIt Fintech Industry Awards."
-    publishedDateTime: 2021-12-21T19:55:00Z
-    webUrl: "https://financialit.net/news/transaction-banking/tricolor-named-finalist-lendit-fintech-industry-awards-excellence-financial"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 12
-    images:
-      - url: "https://financialit.net/sites/default/files/tricolor_0.png"
-        width: 775
-        height: 329
-        isCached: true
 
 secured: "Xko8yQLLz6XeSjSHIjIYON9iYjPIaj0zXpf/aBTn2aIlEz8pe/wuXLSbxgQdjcMolskUETjl6pdzFCY6GdNMqcGrWF4P8hYR41sTiBM9aXYM5QUowGLgMs9arLZuc0r4l0vFAgbBN3brUsPMMq4eP/fu7YSTsPmq+40WR+yxNq/L2OYbLejkwSV4/Br5Tpm5m/KWYu6zktnyIfEFrvGRQcAPcpBUNDRoa+WrgzRSzcMOLacKpa2JWegptcTeaP9yBNaMiHmAb21rttJZ+lVlY7GP5KttUTU6KeJNm+QNK44tNRYwrMCGDEjSEQubxSSLamSUziR6CeKsNl1ErMavcNqQ37gFjHEUSiSipMsVnsc=;o1GNCozfKakIVQBGhGM/bw=="
 ---

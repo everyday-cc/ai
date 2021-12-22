@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-15-human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars.md",
+      "title": "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars",
+      "excerpt": "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2021-12-15T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-insilico-medicine-launches-trial-for-ai-discovered-drug.md",
+      "title": "Insilico Medicine launches trial for AI-discovered drug",
+      "excerpt": "The artificial intelligence-driven drug discovery company has dosed its first healthy volunteer in a trial for a candidate to treat idiopathic pulmonary fibrosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/insilico-medicine-launches-trial-for-ai-discovered-drug/13097532-1-eng-GB/Insilico-Medicine-launches-trial-for-AI-discovered-drug.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
+      "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
+      "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
+      "originalUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
+      "publishedDateTime": "2021-12-15T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-dimensity-9000-ai-running-score-far-exceeds-snapdragon-8-gen1.md",
       "title": "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1",
       "excerpt": "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s",
@@ -1049,147 +1186,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-artificial-intelligence-in-manufacturing-markets-2028-by-component-technology-ml-nlp-computer-vision-application-predictive-maintenance.md",
-      "title": "Artificial Intelligence in Manufacturing Markets, 2028 By Component, Technology (ML, NLP, Computer Vision), Application (Predictive Maintenance Qualit",
-      "excerpt": "The \"Artificial Intelligence in Manufacturing Market By Component, Technology, Application, Industry Vertical, & Geography - Global Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=587796",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=587796",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
-      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
-      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 release of the world’s first artificial human arm,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
-      "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
-      "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
-          "width": 876,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
-      "publishedDateTime": "2021-12-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

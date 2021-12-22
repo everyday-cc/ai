@@ -2,6 +2,161 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-11-chinese-ai-company-sensetime-delays-ipo-as-us-imposes-investment-ban.md",
+      "title": "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban",
+      "excerpt": "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-449875/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "publishedDateTime": "2021-12-10T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-the-worlds-first-risc-v-gpu-could-be-on-the-horizon.md",
+      "title": "The world's first RISC-V GPU could be on the horizon",
+      "excerpt": "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "originalUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "publishedDateTime": "2021-12-10T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
+      "title": "Investing in the Future: Burger-Flipping Robots?",
+      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
+          "width": 2120,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
       "title": "AI is thriving on and driving the edge",
       "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
@@ -1049,144 +1204,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
-      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
-      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
-      "title": "Supercharge your GeForce GPU with these 6 must-use features",
-      "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
-      "originalUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/Screen-Shot-2021-11-23-at-3.37.06-PM.png?w=1024",
-          "width": 1023,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "publishedDateTime": "2021-12-10T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
-      "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
-      "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
-      "originalUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
-      "publishedDateTime": "2021-12-10T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

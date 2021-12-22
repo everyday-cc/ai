@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI Predicts Which Individuals Will Develop Dementia Within Two Years"
-    excerpt: "Researchers say machine learning approach could be used to inform the development and validation of decision-making aids in memory clinics."
-    publishedDateTime: 2021-12-17T12:00:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/ai-predicts-which-individuals-will-develop-dementia-within-two-years/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 37
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2019/05/CO_JanFeb18_GettyImages-687788463_CHRISTIANLAGEREK_SCIENCEPHOTOLIBRARY_HumanBrainCircuitBoard-e1559053521129.jpg"
-        width: 2002
-        height: 1625
-        isCached: true
-
 secured: "IElZNqxMJH0tEZn8KZTIzirAfrbVBNE+L9ruTfZhkEvHNHXl24vQd5nhRVec8PCD/SjenjFjrrNexgl7aZLi0R/6s4xFKX427oTR6PISxoTkc2W6xSlkL5qwsSStErF9ncmVM/Wf7qzsfjHBsHQ86AAef/e8Yf+N08+sKQIFttNiGqms0iBpR9za6Tf7R0LLRWWC6C1Pkeg6EIDNF7TJs2TsEGEMNiByZSI8Hma/MIkxeViYSrzG/ZbgQJ6IrzkYfkZvA/gdjsrfJLqaG5VGSp1jzj2cubS0H9J3ASb9NdCvTD1K/fAw0OlAuSqkInqefjVV/D52FyyVHmyGKhcMzk946xRVehJ3KJlB9yeMi5c=;+7niK12tSytvCzUen8x+4g=="
 ---
 

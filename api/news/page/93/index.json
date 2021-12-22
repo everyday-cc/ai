@@ -2,6 +2,154 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2021-10-12-korean-robo-advisor-fount-bags-334m-to-advance-its-ai-based-platform.md",
+      "title": "Korean robo-advisor Fount bags $33.4M to advance its AI-based platform",
+      "excerpt": "Fount, a robo-advisor startup in South Korea, has raised a $33.4 million Series C round to beef up its machine learning-based platform development and hire staff.   The latest round was led by Hana Financial Investment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "originalUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Fount_logo.jpg?w=892",
+          "width": 892,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "publishedDateTime": "2021-10-11T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-aris-robotics-on-a-mission-to-reduce-waste-in-the-world.md",
+      "title": "ARIS Robotics: On a mission to reduce waste in the world",
+      "excerpt": "The founders of the startup, ARIS Robotics, are on a mission to reduce waste in the world. Read about their journey right here!",
+      "sourceUrl": null,
+      "webUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
+      "originalUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco",
+          "width": 760,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
+      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
+      "publishedDateTime": "2021-10-11T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Red Bull",
+        "domain": "redbull.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
+      "title": "A beginners guide to Artificial Intelligence",
+      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
+          "width": 1060,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
       "title": "AI technology could reshape the U.S. government, but should it?",
       "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
@@ -1044,136 +1192,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-rise-of-the-robots-the-future-of-robotics-is-social.md",
-      "title": "Rise of the Robots: The Future of Robotics is Social",
-      "excerpt": "As an example, an autonomous robot named ‘Xavier’ has been deployed in Singapore to stamp out undesirable social behaviour such as smoking in prohibited areas and illegal bicycle parking. As the world’s most automated country,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "publishedDateTime": "2021-10-11T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-robots-with-an-artificial-intelligence-system-began-operation-in-dubai-uae.md",
-      "title": "Robots with an artificial intelligence system began operation in Dubai, UAE",
-      "excerpt": "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "publishedDateTime": "2021-10-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
-      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
-      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
-          "width": 679,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
