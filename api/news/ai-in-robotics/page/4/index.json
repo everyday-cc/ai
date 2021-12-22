@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
+      "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
+      "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
+      "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supermarket News",
+        "domain": "supermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
       "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
       "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
@@ -1373,49 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robotic-solution-to-aid-nuclear-decommissioning.md",
-      "title": "Robotic solution to aid nuclear decommissioning",
-      "excerpt": "An EPSRC-funded project led by Sussex University aims to develop a robotic solution to address nuclear decommissioning challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "originalUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2021/11/shutterstock_1567223413.jpg",
-          "width": 940,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

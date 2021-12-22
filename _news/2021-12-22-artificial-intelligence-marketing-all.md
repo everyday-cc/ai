@@ -79,6 +79,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Applying Design Thinking for Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
+    publishedDateTime: 2021-12-22T22:02:00Z
+    webUrl: "https://www.bbntimes.com/technology/applying-design-thinking-for-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Applying_Design_Thinking_for_Artificial_Intelligence.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "4 Trends in Scaling AI for the Coming Year"
     excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
     publishedDateTime: 2021-12-21T17:18:00Z

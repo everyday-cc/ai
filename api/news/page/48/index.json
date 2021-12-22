@@ -2,6 +2,57 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
+      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
+      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "publishedDateTime": "2021-11-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
       "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
       "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
@@ -1157,57 +1208,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-promotedai-takes-in-fresh-capital-to-grow-your-marketplace.md",
-      "title": "Promoted.ai takes in fresh capital to grow your marketplace",
-      "excerpt": "The company is answering the question of how you fairly come up with a way to share the attention between big and small sellers",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "originalUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211368784.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "publishedDateTime": "2021-11-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

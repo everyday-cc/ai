@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-04-ai-weekly-recognition-of-bias-in-ai-continues-to-grow.md",
+      "title": "AI Weekly: Recognition of bias in AI continues to grow",
+      "excerpt": "There's growing recognition that AI encodes biases. Efforts are underway to address these while recognizing the challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "publishedDateTime": "2021-12-03T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-amazon-sagemaker-the-easiest-way-to-build-artificial-intelligence-models-became-even-easier.md",
       "title": "Amazon SageMaker – The Easiest Way To Build Artificial Intelligence Models Became Even Easier",
       "excerpt": "VIce President and Principal Analyst Quantum, AI, and Space, Paul Smith-Goodson dives into two of Amazon SageMaker's new features that were announced at one of the most important annual technical cloud conferences,",
@@ -660,33 +712,24 @@
     {
       "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
       "title": "Fordham University Hosts Global Ethical Vision AI Conference",
-      "excerpt": "Oosto is a leading visual AI platform enabling enterprises to protect customers, guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls ...",
+      "excerpt": "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/",
-      "originalUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/",
+      "webUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/",
-      "publishedDateTime": "2021-12-03T04:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T04:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,49 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours.md",
-      "title": "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours",
-      "excerpt": "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "originalUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "cdnAmpWebUrl": "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "publishedDateTime": "2021-12-02T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

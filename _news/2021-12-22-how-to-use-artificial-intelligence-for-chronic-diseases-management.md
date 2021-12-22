@@ -71,6 +71,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Applying Design Thinking for Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
+    publishedDateTime: 2021-12-22T22:02:00Z
+    webUrl: "https://www.bbntimes.com/technology/applying-design-thinking-for-artificial-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Applying_Design_Thinking_for_Artificial_Intelligence.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial Intelligence Marketing : All"
     excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
     publishedDateTime: 2021-12-22T06:48:00Z

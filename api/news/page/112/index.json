@@ -2,6 +2,57 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2021-09-29-tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank.md",
+      "title": "Tech-Recruiting Startup Andela Raises $200 Million in Round Led by SoftBank",
+      "excerpt": "Andela uses AI to help employers look beyond Silicon Valley for talent and tap a broader range of markets such as Africa and Latin America",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "originalUrl": "https://www.wsj.com/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-408465?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-recruiting-startup-andela-raises-200-million-in-round-led-by-softbank-11632913202",
+      "publishedDateTime": "2021-09-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-gbg-wins-best-aimachine-learning-innovation-of-the-year-award.md",
       "title": "GBG wins Best AI/Machine Learning Innovation of the Year award",
       "excerpt": "Judges praise GBG's technology for reducing false positives and improving fraud detection  SINGAPORE – Media OutReach – 29 Septem",
@@ -1123,58 +1174,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazons-visual-id.md",
-      "title": "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID",
-      "excerpt": "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "originalUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "publishedDateTime": "2021-09-28T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

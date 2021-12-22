@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-10-28-free-month-for-robotics-learning-center-grand-opening.md",
+      "title": "Free Month for Robotics Learning Center Grand Opening",
+      "excerpt": "It’s a quick subway ride away for the robotics, coding, and entrepreneurship after-school program that first started here in the neighborhood.",
+      "sourceUrl": null,
+      "webUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
+      "originalUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribecacitizen.com/wp-content/uploads/2021/10/Rocket-Club-420x280.jpg",
+          "width": 420,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tribeca Citizen",
+        "domain": "tribecacitizen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-top-benefits-of-using-azure-machine-learning.md",
       "title": "Top Benefits of Using Azure Machine Learning",
       "excerpt": "Fortunately, Microsoft's Azure Machine Learning empowers organizations to overcome these challenges when deploying and using ML. It delivers comprehensive, simple, robust and responsible services enabling partners to build impactful data driven apps ...",
@@ -1130,58 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-microsoft-unveils-sustainability-management-portal-for-businesses.md",
-      "title": "Microsoft unveils sustainability management portal for businesses",
-      "excerpt": "The SaaS solution is designed to help organizations record their environmental footprint, progress reports and reduce their emissions while also providing actionable steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/511825a81435fabe2e4854367475962aa66b2d70/2021/10/27/6467ef10-0a8b-491a-9230-27d770d606ef/getting-started.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-sustainability-management-portal-for-businesses/",
-      "publishedDateTime": "2021-10-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

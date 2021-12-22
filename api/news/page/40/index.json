@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-19-jensen-huang-gets-chip-industrys-highest-honor-28-years-after-founding-nvidia.md",
+      "title": "Jensen Huang gets chip industry’s highest honor 28 years after founding Nvidia",
+      "excerpt": "About 38 years after he started Nvidia, CEO Jensen Huang received the chip industry's highest honor, the Robert N. Noyce Award.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "publishedDateTime": "2021-11-19T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
       "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
       "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
@@ -1117,40 +1169,6 @@
         "AI in Finance",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots.md",
-      "title": "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots",
-      "excerpt": "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

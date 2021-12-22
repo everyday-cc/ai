@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
+      "title": "Why AI still needs humans in the loop, at least for now",
+      "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "publishedDateTime": "2021-11-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
       "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
       "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
@@ -1078,58 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge.md",
-      "title": "Untether AI Touts “At-Memory” Architecture, Promising Efficiency And Performance At The Edge",
-      "excerpt": "Untether AI recently emerged from stealth and described their architecture as being “At-Memory”, which the company claims will deliver leading performance and power efficiency. Most products that claim the latter deliver relatively weak performance (with the exception of Qualcomm’s CloudAI 100).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176deaaa5df8d50508ac034%2F0x0.jpg",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
-      "publishedDateTime": "2021-11-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

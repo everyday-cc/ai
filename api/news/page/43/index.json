@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-11-18-machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics.md",
+      "title": "Machina Labs emerges from stealth with $16M raised for on-demand manufacturing robotics",
+      "excerpt": "Machina Labs today announced a $14 million Series A for its robotics and AI-based manufacturing. The round, led by Endeavors and featuring Congruent Ventures and Embark Ventures, brings the Los Angeles firm’s total funding to $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
+      "originalUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.42.34-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
+      "publishedDateTime": "2021-11-17T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-canons-450-camera-uses-facial-recognition-to-automatically-take-photos.md",
       "title": "Canon's £450 camera uses facial recognition to automatically take photos",
       "excerpt": "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device.",
@@ -1093,49 +1145,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
-      "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
-      "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "originalUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/11/Cloud-Robotics-Market.jpg",
-          "width": 1336,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "publishedDateTime": "2021-11-16T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

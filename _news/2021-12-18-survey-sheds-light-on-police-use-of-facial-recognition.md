@@ -55,6 +55,20 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Campuses, Law Enforcement Reckon with Facial Recognition Bans"
+    excerpt: "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology."
+    publishedDateTime: 2021-12-22T10:40:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "zmLYRD5yTAo6eHGN3V4BVbwXx+aqSTgJS74BMm295pg3XpV+a53zn4ygIXbTvfsHi2tpuRgCZX1bK/um+ki1k860Z8wQ7vFo8p5y3uUIvenp2HuiBcN5Ls5l5O8dmQlEeXVilgUo960clNhX3vHVXuJ9/c/CDXestrIInNf/OFIxSKYAj8Yz2vnCuPz9qYw4pt/q2/h7ND8PbjkWq5KLQCy5qe0sQpKH1fky5VLkQo+5SFpSNUL0v3Yrv4LvDEnF6HuSGPY9lV9iIQu4M18cqbLIaUGhyNCZrQZBzxoVWMJD0ilUmaQ5zSYUiVkKVtzE7pDxMaxvToZpQm30oZefhInWDsge/IsmYyDzz2KAQiI=;Zk8BQr/YGOmsKG2oOJQsfQ=="
 ---

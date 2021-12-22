@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-17-here-is-the-list-of-the-top-10-real-world-rescue-robots-you-should-know-in-2021.md",
+      "title": "Here is the list of the top 10 real-world rescue robots you should know in 2021",
+      "excerpt": "Advanced robotics progressively implies to the salvage. Centauro, TRADR, and more are rescue robots those that fly, swim, creep through rubble, splash fires or in any case help people on call tackle inconvenience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots.md",
       "title": "Life keeps getting in the way of my quest to turn my family into robots",
       "excerpt": "Dinner, bath, book, bedtime: every school year we stick to the timetable – for a few days, says Guardian columnist Emma Brockes",
@@ -1356,50 +1390,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip.md",
-      "title": "Realme GT Neo 2T is coming with Dimensity 1200 AI customized chip",
-      "excerpt": "The Realme GT Neo 2 premiered last month and is set to hit the global market next week. It is predicted that outside of China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/realme-neo-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "publishedDateTime": "2021-10-08T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

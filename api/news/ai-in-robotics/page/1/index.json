@@ -611,10 +611,10 @@
     {
       "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
       "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
-      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ...",
+      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -622,13 +622,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
-      "publishedDateTime": "2021-12-16T06:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T05:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1061,6 +1061,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-14-meet-nous-an-underwater-artificial-mind.md",
+      "title": "Meet NOUS: An Underwater ‘Artificial Mind’",
+      "excerpt": "The establishment of Maritime Protective Areas (MPA) and marine archaeological sites has been an objective of the Ministries of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "originalUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/images-courtesy-george-128204.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "publishedDateTime": "2021-12-14T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
       "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
       "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
@@ -1344,49 +1387,6 @@
       "provider": {
         "name": "Inshorts",
         "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
-      "title": "UN head calls for action on 'killer robots' as Geneva talks start",
-      "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "publishedDateTime": "2021-12-13T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geo News",
-        "domain": "www.geo.tv",
         "images": null,
         "publishers": null,
         "authors": null

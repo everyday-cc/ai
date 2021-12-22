@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
+      "title": "Digital Summit replay: how to bring your datasets to life",
+      "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "originalUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-shutterstock_post-promo--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
       "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
       "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
@@ -1041,49 +1084,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
-      "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
-      "excerpt": "Machine learning. Machine learning algorithms that use federated learning techniques — which train algorithms across multiple decentralized edge services — can streamline cloud compliance by allowing financial institutions to exchange data insights ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
-      "originalUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
-      "publishedDateTime": "2021-10-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

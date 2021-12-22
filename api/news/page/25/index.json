@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
+      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
+      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "publishedDateTime": "2021-12-01T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-deep-learning-market-is-anticipated-to-reach-around-usd-211-billion-by-2027-credence-research.md",
       "title": "Deep learning market is anticipated to reach around USD $ 21.1 billion by 2027 – Credence Research",
       "excerpt": "Deep learning had a market value of $ 2.7 billion in 2020, and it is expected to reach $ 21.1 billion by 2027. The market is expected to grow at a CAGR of 34.5% over the forecast period.",
@@ -1131,49 +1183,6 @@
         "Google AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meet-xenobots-worlds-first-living-robots-that-can-reproduce.md",
-      "title": "Meet Xenobots, World's First Living Robots That Can Reproduce",
-      "excerpt": "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world.",
-      "sourceUrl": null,
-      "webUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
-      "originalUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
-      "cdnAmpWebUrl": "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
-      "publishedDateTime": "2021-12-01T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Logical Indian",
-        "domain": "thelogicalindian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-11-17-how-offerfit-uses-self-learning-ai-to-stop-customer-churn.md",
+      "title": "How OfferFit uses self-learning AI to stop customer churn",
+      "excerpt": "OfferFit, which announced $14 million in series A funding today, replaces standard manual A/B testing with an AI implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/reviews.GettyImages-1166997217-e1629221884117.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/amp/",
+      "publishedDateTime": "2021-11-16T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-thoughts-on-artificial-intelligence-conferences-for-business-audiences.md",
       "title": "Thoughts On Artificial Intelligence Conferences For Business Audiences",
       "excerpt": "If you are a business line manager or in the CxO suite, you want to hear what is actually being accomplished with artificial intelligence, with strong examples that are relatable. You also want to hear about the non-technical implications of the technology.",
@@ -1136,40 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ai-accelerator-chip-market-shares-swot-analysis-key-development-strategies-and-forecasts-till-2027.md",
-      "title": "AI Accelerator Chip Market Shares SWOT Analysis, Key Development Strategies and Forecasts Till 2027",
-      "excerpt": "The AI Accelerator Chip Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services. This market report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
-      "originalUrl": "https://www.openpr.com/news/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
-      "publishedDateTime": "2021-11-16T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

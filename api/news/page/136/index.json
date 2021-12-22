@@ -2,6 +2,49 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
+      "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
+      "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "originalUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U913421287_g.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "publishedDateTime": "2021-09-12T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage.md",
       "title": "iRobot’s new Roomba j7+ robot vacuum with AI, object avoidance, and storage",
       "excerpt": "Companies like ECOVACS and Trifo are among the few to set out and develop robot vacuums with artificial intelligence capable of avoiding things it might run into that shouldn’t be there. From trying to avoid clog-hazards like socks,",
@@ -1050,49 +1093,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-71-of-healthcare-execs-to-invest-in-ai-over-the-next-three-years.md",
-      "title": "71% of Healthcare Execs to Invest in AI Over the Next Three Years",
-      "excerpt": "A majority of healthcare executives PYMNTS surveyed see AI as a particularly useful tool in waging war against the fraudsters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/healthcare-ai-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
-      "publishedDateTime": "2021-09-10T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

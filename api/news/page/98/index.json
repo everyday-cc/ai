@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2021-10-08-10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights.md",
+      "title": "10 Leading Artificial Intelligence (AI) Chipsets Producers in the World by 2021 By Fortune Business Insights",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-reinforcement-learning-improves-game-testing-ai-team-finds.md",
       "title": "Reinforcement learning improves game testing, AI team finds",
       "excerpt": "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development.",
@@ -1119,57 +1171,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors.md",
-      "title": "Conversation Startup Wizard Raises $50 Million With Help From Marc Lore And Other High-Profile Investors",
-      "excerpt": "Wizard’s founder Melissa Bridgeford wisely is focusing on a B2B model that will empower businesses and consumers to shop and transact via text, enabling users to bypass the web entirely and execute the entire shopping experience via text,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615e52e5a0f22e0b06e9bcdd%2F0x0.jpg",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/amp/",
-      "publishedDateTime": "2021-10-07T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
