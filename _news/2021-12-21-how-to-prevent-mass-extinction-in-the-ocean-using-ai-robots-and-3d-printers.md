@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sewer waste management using artificial intelligence to speed up the maintenance process"
-    excerpt: "Sewer waste management is dirty work. In the current labor market, it’s not a job many people are interested in. But cities have to get it done for public health and infrastructure integrity."
-    publishedDateTime: 2021-12-17T15:01:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process"
-    ampWebUrl: "https://www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 63
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2f9305e/2147483647/strip/true/crop/1845x1038+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff1%2F27%2Fd51a21b34224ab93777d00c66ac8%2Fsewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Watch Now: How robots and AI are restoring ancient Roman artifacts"
     excerpt: "A team of researchers in Italy are using an intelligent robotic system to process, match and physically reconstruct frescoes and other shattered artifacts from Pompeii."
     publishedDateTime: 2021-12-21T15:15:00Z

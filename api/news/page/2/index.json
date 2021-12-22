@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
+      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
+      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027.md",
+      "title": "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027",
+      "excerpt": "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-6-major-hotel-trends-for-2022-from-crypto-to-facial-recognition.md",
       "title": "6 major hotel trends for 2022, from crypto to facial recognition",
       "excerpt": "For future vacations, expect hotel trends such as facial recognition, VR, payment by cryptocurrency and more to be a big part of 2022.",
@@ -483,7 +579,7 @@
       "originalUrl": "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1065,101 +1161,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
-      "title": "Teradata and Dataiku join forces to improve data analytics",
-      "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
-      "publishedDateTime": "2021-12-18T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan.md",
-      "title": "Robotics & AI will transform many sectors: Governor Tamilisai Soundararajan",
-      "excerpt": "Hyderabad: Governor Dr Tamilisai Soundararajan on Saturday said that robotics and the artificial intelligence will bring in transformational changes in many sectors like defence and healthcare etc., She stated that innovations in robotics have an immense potential to benefit our country and it is high time that we strive to be leaders in the emerging fields like Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/18/1136384-tamilisai-soundararajan.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "publishedDateTime": "2021-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

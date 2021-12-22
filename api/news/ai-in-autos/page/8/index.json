@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
+      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
+      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "publishedDateTime": "2021-10-19T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
+      "excerpt": "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and Shuttle/Van), Service (Rental and Station Based), Propulsion (Electric and Fuel Cell),",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1634619649.jpeg",
+          "width": 650,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-start-ups-at-in5-secure-investments-worth-aed14-billion.md",
       "title": "Start-ups at in5 secure investments worth AED1.4 billion",
       "excerpt": "DUBAI, 18th October, 2021 (WAM) -- in5, an enabling platform for entrepreneurs, recently reached a new milestone as its start-ups crossed the AED1.4 billion investment mark, reaffirming Dubai’s leading position as an attractive destination for talent and entrepreneurship.",
@@ -1307,103 +1402,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-the-first-self-driving-train.md",
-      "title": "Germany Unveils The First Self-Driving Train",
-      "excerpt": "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail",
-      "sourceUrl": null,
-      "webUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
-      "originalUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg",
-          "width": 705,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "publishedDateTime": "2021-10-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

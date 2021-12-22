@@ -34,6 +34,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 65
+  - title: "Self-driving startup Haomo raises RMB 1 billion, reaches unicorn status"
+    excerpt: "Chinese self-driving startup Haomo announced Tuesday it has secured a RMB 1 billion (around $157 million) Series A from investors including GL Ventures, the early-stage investment arm of private equity firm Hillhouse Capital,"
+    publishedDateTime: 2021-12-22T06:01:00Z
+    webUrl: "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
+    ampWebUrl: "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
+  - title: "Chinese self-driving startup Haomo.AI entres unicorn club after $157m Series A round"
+    excerpt: "Hillhouse Capital's GL Ventures, food delivery giant Meituan, Qualcomm Ventures, and others invested in the round."
+    publishedDateTime: 2021-12-22T04:16:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/chinese-self-driving-startup-haomo-ai-raises-157m-series-a-round-274865/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 32
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/12/haomo-scaled.jpeg"
+        width: 2560
+        height: 1426
+        isCached: true
 
 secured: "fGWSdSzW5mXGsm+grsH8mlREAsW9JOlanAVBtXoP0+UpE4IJ5dDnASTPb94ElyTEp8FUeVBrz6b/LYLQufjw5N28cIxv7XHVyIA9hu1samZcw3Wf9int5/nutcgWiCp/pBbRxCqOaD1bErBUAC1IJLdxBTlZO08sGXVXMPl4/f61n5c7hBK9Zk18PQ4E1CGfPpxi5/v29xfSXzHKnMPg/tjzTOuSprA7Y0hiHS6mG9chsGr1K6Pkqpag1hfIu7RjSok8EtYXC9tnvbzuf6Rvp7otUdM7uBYcZTmKYRq7Nh+YKCykoTEqexv5Ebt6ItUbqA4QvCYiX33vepigiy8z2Kh2IcOCmYlZQXk/yDBnORE=;aD4WGR4QZgjiLE8LcW34CQ=="
 ---

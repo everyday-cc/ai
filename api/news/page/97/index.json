@@ -2,6 +2,153 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2021-10-08-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
+      "title": "These Virtual Obstacle Courses Help Real Robots Learn to Walk",
+      "excerpt": "Unity is now working with Algoryx, a Swedish company that is testing whether reinforcement learning and simulation can train forestry robots to pick up logs. Search our artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/",
+      "originalUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/615de386de0029ca32b902ad/master/pass/Business-Nvidia-RL-Simulation.jpg",
+          "width": 2132,
+          "height": 1421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk/amp",
+      "publishedDateTime": "2021-10-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "publishedDateTime": "2021-10-08T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-how-to-enable-data-centric-ai.md",
+      "title": "How To Enable Data-Centric AI",
+      "excerpt": "Let’s see how we can now enable data-centricity in AI for the next decade. Data-centricity involves many distinct processes: data augmentation, labeling, cleaning, pre-processing and more. All these processes depend on data scientists being able to take the first step — create a dataset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/",
+      "publishedDateTime": "2021-10-08T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027.md",
       "title": "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027",
       "excerpt": "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of",
@@ -1024,135 +1171,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-conversational-artificial-intelligence-ai-market-2021.md",
-      "title": "Conversational Artificial Intelligence (AI) Market 2021",
-      "excerpt": "Conversational AI can be used to answer simple questions ... review of Google Dialogflow at Gartner Peer Insights. “I have been using Watson for about three years now; it’s very flexible, stable, and versatile. On the whole, IBM is a great partner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_232601963.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-what-tech-challenges-are-facing-the-financial-services-sector.md",
-      "title": "What tech challenges are facing the financial services sector?",
-      "excerpt": "InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline ... such as predictive analytics and machine learning, to build smarter processes including real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
-      "originalUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/10/Financial-institutions.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
-      "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
-      "excerpt": "I believe Tomahawk Robotics' universal robotic control software, Kinesis ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control system that unlocks intuitive interaction with remote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcbd.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "originalUrl": "https://www.kcbd.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/3roFywESpZaFwvmcGTVBnvvdkZ8=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MJI5RKK3G3L6A6O7TPWGI2WBDI.jpg",
-          "width": 980,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCBD",
-        "domain": "kcbd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

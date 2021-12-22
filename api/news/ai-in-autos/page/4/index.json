@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
+      "title": "Best new cars cheaper than $40,000",
+      "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/kGrbx7FCExYNdGnJvXn5pKDbKxg=/2021/11/19/783f4edb-3cff-46b4-8346-0e6a9679761a/ogi-rdx.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "publishedDateTime": "2021-11-19T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-apple-shares-hit-record-after-report-says-the-company-wants-to-build-self-driving-car-as-soon-as-2025.md",
+      "title": "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025",
+      "excerpt": "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705",
+          "width": 4483,
+          "height": 2984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "publishedDateTime": "2021-11-19T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-fleet-operators-want-teslas-but-not-full-self-driving.md",
       "title": "Fleet operators want Teslas. But not 'full self-driving'",
       "excerpt": "But for all their Tesla enthusiasm, there's one feature they overwhelmingly aren't touching — \"full self-driving.\" Some say the technology isn't ready yet. The $10,000 optional software feature ...",
@@ -1325,83 +1429,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
-      "title": "How Waymo’s self-driving cars handle fog in SF",
-      "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "originalUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/waymo-radar-fog.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence-transportation-category.md",
-      "title": "AEye Honored as CES 2022 Innovation Award Winner in Vehicle Intelligence & Transportation Category",
-      "excerpt": "Previous award winners in this category have included IBM, Waymo, and Continental ... iDAR is the only software configurable LiDAR with integrated deterministic artificial intelligence, delivering industry-leading performance in range, resolution, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/11/11/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/11/11/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T19:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

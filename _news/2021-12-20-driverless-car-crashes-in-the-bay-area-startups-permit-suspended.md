@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber teams up with self-driving car company Motional to launch driverless food deliveries in parts of California next year"
-    excerpt: "The deliveries will be made in Hyundai's fully electric IONIQ-5 vehicles, which are equipped with Level 4 autonomous technology, and a safety person will be seated behind the wheel."
-    publishedDateTime: 2021-12-17T14:38:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10317107/amp/Motional-partners-Uber-provide-autonomous-food-deliveries-California.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 33
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/12/17/15/51924887-0-image-a-5_1639754575177.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
     excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
     publishedDateTime: 2021-12-20T12:00:00Z

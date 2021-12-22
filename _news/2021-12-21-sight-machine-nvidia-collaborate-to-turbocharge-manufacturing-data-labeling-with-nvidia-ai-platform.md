@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-21T11:35:00Z
 originalUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
 webUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/5c/e5cb3aa4-4ba1-5a6b-93cc-6d9bc71225f9/61c1d0014643d.image.jpg?crop=1457%2C765%2C551%2C0&resize=1200%2C630&order=crop%2Cresize"
@@ -40,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4Qj5LGG7te3+1SnL+3mXC1Wy9g7dGh4Rd/pEVdyzA7ykhX0apW+inwJbLvISJAzlOhi0pBVqLhU6HTY+73eEC/XUTcK1j3lyJw9w2cIPfMWR8erlk1SRcQOsHSswC2eKAHm32cf7EGUaAGw1NRUrewwgUhQ8UTkijQ4yzbThYcCoydIihSV01g3kNRLFZKeBy/UQ5z8R6DCeFiTxZgxTA+fAp4oYU1GZjU3ZCc9NQ4WcpE5zF+hMaXV/tmYJKJ8Z7q+7pu2aP2piOsozXgBng4r816cFHnZ++cgS7nDyxSO5xsjTEp/nOZcJEL5fI8Z/oGSnqKtXGHBfLPrlDXSu0b1X5jipGsslm35wGg4+wFI=;26x7AalsodN19CRKz5rvog=="
+secured: "Gi95LTMFjU3CuDSr1zaiDoqy7RnrL8Wm2rcnHwJsbKUJQrhQ/EjBNkQxUhmQGfeJNGvqmk0sU9E9Qvbeuh+pHAs9BwIH6LHxNEgBWEERnhVcPPO5Rfn9HdYDQyZAR8cMT4QrlbIjYExb4Kx3C5MFYkRd2eLTwugryLDDailrFdXAvle43ZwT63d0Lo2693n8N6VKOn6M10xQ/fYjTEsSHO2O5J0Dngz1C5IMPjfgt9VaNk1HaXvf8ITrdJsazlu6LjGMDsc2DbG3o6TiTXd7419gVzAZEQ5e2NUoLeKHmw50OELm4sL0eiZSCpVjVWgcZSghmMzHe+JA01oA3kOULJwI2aqYpevqtlfxTqPU4cnDiDLlqkAQ+60rIT+ya0Qowydcv3dIjMJTNjAgxUehC3PcCX2eGOa0XKUhMXw7GRX1hPvM9N2x8N1gcLXVfCWHNJlTmxeemUGR+eOLE2ZCJF54LtdVhMS9oGM7zk2pLtA5BTr0JBAJCaSlSGmbgDezfi9KYzD14nO2V3RBfOnblA==;K7lXuoQMb2adr8GV21qP/g=="
 ---
 

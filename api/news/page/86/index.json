@@ -2,6 +2,134 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2021-10-15-duke-computer-scientist-wins-nobel-prize-worth-1m-for-artificial-intelligence-work.md",
+      "title": "Duke computer scientist wins ‘Nobel Prize’ worth $1M for artificial intelligence work",
+      "excerpt": "After 15 years of advocating for and developing \"interpretable\" machine learning algorithms that allow humans to see inside AI, Cynthia Rudin's contributions to the field have earned he",
+      "sourceUrl": null,
+      "webUrl": "https://pratt.duke.edu/about/news/rudin-squirrel-award",
+      "originalUrl": "https://www.wraltechwire.com/2021/10/15/duke-computer-scientist-wins-nobel-prize-worth-1m-for-artificial-intelligence-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pratt.duke.edu/sites/pratt.duke.edu/files/images/news/feature/rudin-feature.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-city-headquarters.md",
+      "title": "Paris-Based Natural Language Processing and AI Automation Startup Expands Globally with New York City Headquarters",
+      "excerpt": "PARIS, Oct. 15, 2021 /PRNewswire/ -- Yseop, a pioneer in Natural Language Processing (NLP) and world-leading AI software company, today announced the expansion of its global operations in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/10/n23394132/paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-c",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/n23394132/paris-based-natural-language-processing-and-ai-automation-startup-expands-globally-with-new-york-c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23394132",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23394132",
+      "publishedDateTime": "2021-10-15T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
+      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
+      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "publishedDateTime": "2021-10-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
       "title": "Truly Smart Robots Know When To Ask For Help",
       "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
@@ -1052,161 +1180,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-how-surveillance-capitalism-influenced-digital-slave-labour.md",
-      "title": "How Surveillance Capitalism Influenced Digital Slave Labour",
-      "excerpt": "I Cut the 'Big Five' Tech Giants from My Life” by Kashmir Hill Technology creates the very problems that technology solves. Sometimes we make the choice to bring technology into our lives, but sometimes it’s forced upon us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
-      "originalUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGoJprBjRAl5g/article-cover_image-shrink_600_2000/0/1634229682190?e=1640822400&v=beta&t=wTb-0cey0kHKTP6i8vUTVdqiw90Hehe18MODvg6HT10",
-          "width": 612,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-execs-from-github-and-microsoft-azure-invest-in-new-ai-startup-that-helps-devs-build-intelligent-apps.md",
-      "title": "Execs from GitHub and Microsoft Azure invest in new AI startup that helps devs build intelligent apps",
-      "excerpt": "Aseem Datar, a former Microsoft Azure General Manager who just joined Madrona as a partner, said Spice AI is “going after a large and significantly important mission as the world sees more and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
-      "originalUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/71A491DF-68A5-42E4-A1A4-27C8831D7F45_1_201_a-630x450.jpeg",
-          "width": 630,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
-      "publishedDateTime": "2021-10-14T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
-      "title": "AI paints a Picasso nude, just like Pablo did",
-      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
-          "width": 1454,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "publishedDateTime": "2021-10-14T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

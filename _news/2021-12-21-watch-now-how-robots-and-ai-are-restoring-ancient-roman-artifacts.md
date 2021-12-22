@@ -35,22 +35,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Sewer waste management using artificial intelligence to speed up the maintenance process"
-    excerpt: "Sewer waste management is dirty work. In the current labor market, it’s not a job many people are interested in. But cities have to get it done for public health and infrastructure integrity."
-    publishedDateTime: 2021-12-17T15:01:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process"
-    ampWebUrl: "https://www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/sewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 63
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2f9305e/2147483647/strip/true/crop/1845x1038+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff1%2F27%2Fd51a21b34224ab93777d00c66ac8%2Fsewer-waste-management-using-artificial-intelligence-to-speed-up-the-maintenance-process.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "+iqWLZqQoEVjeCZ+AFqFO084E650+6qESbBV+FwchKbSlNUYAx0OMJqBzVQxjavL71Z3ESCqI+iP2mzlULaN0bN/FlI8zLzoXJ61kx6DHuKqb8YaebNOeBN0bmw95x9aa12TIX1KWO7Du7SZQlXMWHr8ABExOdu8olJ0pU2vJhjkOa2bPmwOTF8Dc8SFajNKrTVHHQdNd33U9Woho8WIAaWWX8VptQhdhE+2Mtd1D+BtUjMh1t00eZNZuiQdCu3xEnpz5kyyNBXO46DRuhczqaNR4B2bVW753e3XbABZPMSiH03pK00k76ExBr0TT5dhbLGUUkHooPYOj6WLsiKSOFS4WAdxcqS83Xb6/Pm7hdc=;ePJiBfMuAlFj5itjzUmGSw=="
 ---

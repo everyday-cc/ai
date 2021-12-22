@@ -56,13 +56,13 @@ related:
       domain: tmcnet.com
     quality: 0
   - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T18:15:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
+    excerpt: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
+    publishedDateTime: 2021-12-22T06:09:00Z
+    webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 0
 
 secured: "y6T96FHO1/Ml2lpcs9t+ICIYQLp1AQylCYz9FNehd8U2vPZff/C1+n57B2QcGGaaOQsR823DFBtQ83NQa2oYDqDxmEZh6BU9I5z2+6jAzkbh769OVLbpG/ScxGdKrZWWdhu575vdDvb+GWJz2uRJcPAynpzbYTqcrLGlsJqpG05ieUNN4GzrziGHUM2AwUJ0MwOL9zTurYo+kXYngSDVByeGPn1w4n/zkUCjvyrprmvDsqkz2yxnHCuBrwKaGuH+PohLch5p0eQF5evivGtqp+p2X/X9GjMsu7EeObj2beGkEcilZjRRSBFpMTgNFh0ikLsCFAnhWfncX/7FYjXDc5Oi2lQmTiyUBZ50JNNfVoagFNCPk3dUVTbcp11lcsfMLg+BfmDfUnBR/BwuJNMkK768VmFpMesZP6PCYdY9VzMxEWK0t1IBic7dT099qT3RqWr4kBx+4BG0uGzDk2E/6zqQPSQmi4M5sCw2fEi9Z4sgcz33BOQI1ZcBAeab4mfkPcWMTs668icvvrRnH+btAw==;g82LQELYjL1/VS9eTCTU2g=="

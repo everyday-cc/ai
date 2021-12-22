@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "France watchdog orders Clearview AI to stop processing personal data for facial recognition"
-    excerpt: "France's National Commission for Information and Liberty (CNIL) announced Thursday it had issued a notice on November 1 to US-based facial recognition company Clearview AI ordering the company to"
-    publishedDateTime: 2021-12-17T13:41:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/france-watchdog-orders-clearview-ai-to-stop-processing-personal-data-for-facial-recognition/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 44
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/12/biometric_1639766415.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "K5+R1hIZyn+NbwMiKbZAV93MSXLqHv4FpLVMjrwgX4eZ53htaqw4RgdByo3DgHbB0eKGetdGuz1qn0gPRctafev0DfRcCs69+y3KblR6MzwC9iU/2pNdu/N5iEUQ9TCu1jn2iM/njTKO0CMl1e2lzqFBJRhnRdFs7BZEPrzOtBI+p9xyQmAQ8FBf4SawFkZElMefmuak3Hh1BH7IpS8XoYsdKy+REStE+8DlN+Ta3nBLLr5sy/e414JVfMuIJ1WaBcns2LbZX0ZBgWgDMmlskZnAaK7oiGuohL0vJdboFaT71EidECNVm/PiwkfEqcOY70SeGec3bmDoDO86PEX2jdsnedWbtPVjukC5p1wz7k6cEK9MfFsULGyFiiugR4cf0uGpEBQlvhZYt6eon4+t0EEA4/Ys3nOgvqjUAPlNN17vdOirUOMrygGqfm1ZsH+mNpPhyj4+2rUiMXJz7/tqepspgACSKkTacSiBVAdwBa6UDkQDWZxFeKX7WF8N6gWSwuI9A/E3ExTA52wPofdAQg==;UfFQX4FKYG9/6GpE3c4wDQ=="
 ---

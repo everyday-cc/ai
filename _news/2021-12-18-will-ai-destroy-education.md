@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-educa
 webUrl: "https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -20,45 +20,29 @@ topics:
   - AI in Education
 
 related:
-  - title: "Education Partnership To Improve Artificial Intelligence Practices"
-    excerpt: "Partnering with Carnegie Mellon University, Moderna will launch an AI Academy to educate employees on best practices."
-    publishedDateTime: 2021-12-17T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices"
+  - title: "Will technology SMEs and start-ups soon be involved in AI regulation and standardisation?"
+    excerpt: "In a press release published last week, France Digitale, the French Association for Standardization (AFNOR) and the French General Secretariat for Investment (SGPI) announced a new partnership allowing startups and technology SMEs to participate in the debates concerning the regulation and standardization of artificial intelligence in Europe."
+    publishedDateTime: 2021-12-20T09:07:00Z
+    webUrl: "https://www.actuia.com/english/will-technology-smes-and-start-ups-soon-be-involved-in-ai-regulation-and-standardisation/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
+      name: Actu IA
+      domain: actuia.com
+    quality: 28
     images:
-      - url: "https://healthitanalytics.com/images/sized/Code_data-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://www.actuia.com/wp-content/uploads/2021/12/afnor.png"
+        width: 779
+        height: 374
         isCached: true
-  - title: "DBusiness Daily Update: Lawrence Tech Partners with Detect-It to Improve AI Education, and More"
-    excerpt: "Our roundup of the latest news from metro Detroit and Michigan businesses as well as announcements from government agencies."
-    publishedDateTime: 2021-12-21T16:06:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/dbusiness-daily-update-lawrence-tech-partners-with-detect-it-to-improve-ai-education-and-more/"
+  - title: "Cambodian Minister of Education Addresses UNESCO’s International Forum on AI and Education"
+    excerpt: "International Forum on Artificial Intelligence (AI) and Education was organized on 7 and 8 December 2021, under the theme \"Ensuring AI as a Common Good to Transform Education\". The Forum was attended by policymakers and practitioners from around the world,"
+    publishedDateTime: 2021-12-20T10:36:00Z
+    webUrl: "https://www.publicnow.com/view/7260A40CF460617AF117E412C1DA3D098B236963"
     type: article
     provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 42
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/12/UpdateLTU800.jpg"
-        width: 900
-        height: 675
-        isCached: true
-  - title: "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises"
-    excerpt: "Joint go-to-market enables enterprises to deliver next-gen experiences powered by Innoveo’s no-code platform along with Techforce.ai’s"
-    publishedDateTime: 2021-12-19T08:00:00Z
-    webUrl: "https://www.pr.com/press-release/851525"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 26
 
 secured: "H5EaD87L8nsTjzmWrJsC/JJazxY0/JHSXc8P8VCyB7Qkg+4VEXBF4HN7FCwmVeV5mRNf9cxpLQEFeHDhBjWoFN7gxIpgp2oxSHsMqkXjHf3TungKJVF0NlxWhuTGJJh7b74p7IHJo4DOush9U6gMkQFUFDAbbW8WeN5zAfyuRyB9GvweuqwMvgd6/jjB0tFlwaucKdaCLFYjddWicwplcCbVkHqSy7jyf4xFmGP25wPYynGhjhiFW2pRqDYw94wjIWnK4zukQwVwInWeXFpZLZDLV8YcKLupKaIbQd2bmG/pqSnv32LqS87XxsnqXTWhj4cL/FNIhvnQYA84SDHD56UPEvghlcAjop04UzCtQRavykUgF9r7N0p/Vt64sPRAoJ43B04vkfWn749Qa3SoHufR7bO4iEf8q8ZTzQwxNecdalosaAiL4JSQRkxSqI1dQ6vhauQURcqxU0DSdwzSdl+XH/10+i4/To0PKMPNxlnnxmU2Iv1v47GyDjkosTVAbci31w30lrzGYNHCx5izWA==;T13v4og2TbP5spRbN1klIw=="
 ---

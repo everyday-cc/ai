@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advance
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,36 @@ images:
     width: 1200
     height: 760
     isCached: true
+
+related:
+  - title: "Bridging divides in AI, machine learning"
+    excerpt: "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities"
+    publishedDateTime: 2021-12-21T14:20:00Z
+    webUrl: "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine-learning-consortium/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 54
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/purnell-taylor-thorpe121721.jpg?itok=GgDj2ZbR"
+        width: 900
+        height: 375
+        isCached: true
+  - title: "Bridging divides in AI, machine learning"
+    excerpt: "A team of health equity experts from Johns Hopkins have joined a $50 million National Institutes of Health effort to close glaring gaps in the use of artificial intelligence and machine learning in health care and medicine among underrepresented communities."
+    publishedDateTime: 2021-12-21T17:03:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 54
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "8zeASKH0LwxWvbmZGBI5AdHqRxMHmK7vF5n3edfn8p7LEyIHvc3H7l9KhDu1gHFr4+d//T77q443xbsA0Z+0waSIH351RzHb6cBx/tEdqRy9lXTN4Z4bRg11WraNQUtlZHIsi5F25xi8KcAy881fKOQBiw+f+VIb1frRn9DrLNJt/d/hE3SnqFBWYzGqA1FM2NbxIbWmSkqFsrOxUckt/chExr0lh+p/o5zKwgX0seWB5nAZQFgQYB0iL5MJNIHcq63JDAV6PKtjyAHS4E1hy+iFHJEYsRvQ5YZ10KJEKu0ceTtqJynv/eajinEJze7V3KIViNjs05wP49BxnO4jS19C9Eb20IfTuYJ7uXlfcqnham6G83hai+3lVCGoBJLr9wIGr5zowWtIsW3kiuVqKu1xfQOUW8H+Q6rTaI8TUVTGb1lQztLeqSqoATLJSvsLF/spq/16axvanfzEsuN7ARbSmLPXNkGLMwIqmHlXs4rsI9/7+c9z3UC7ksgKskYxy9ND0snKFn7kDvUHGgQAbw==;WHK54AKD8Tr0g67yf8DfSg=="
 ---

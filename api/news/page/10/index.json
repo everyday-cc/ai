@@ -2,6 +2,143 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-11-know-top-computer-vision-trends-to-adopt-in-2022.md",
+      "title": "Know Top Computer Vision Trends to Adopt in 2022",
+      "excerpt": "Look out for top computer vision trends to adopt in 2022 with deep learning and computer vision. Organizations should know trends of computer vision for better digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/know-top-computer-vision-trends-to-adopt-in-2022/",
+      "originalUrl": "https://www.analyticsinsight.net/know-top-computer-vision-trends-to-adopt-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Know-Top-Computer-Vision-Trends-to-Adopt-in-2022.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company’s RR.AI commercial unit was now capitalising on it. “That’s one of the reasons we have sought investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
+      "originalUrl": "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2SS196",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196",
+      "publishedDateTime": "2021-12-10T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
+      "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
+      "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d70ba295950230358690ae93de9e3cd78a0a4f16/2021/12/11/956f4dc7-de64-4b18-aa0d-20f338995549/reflection-ball-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "publishedDateTime": "2021-12-10T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-chinese-ai-company-sensetime-delays-ipo-as-us-imposes-investment-ban.md",
       "title": "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban",
       "excerpt": "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company.",
@@ -1058,152 +1195,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-cyber-daily-us-to-bar-investment-in-chinese-facial-recognition-firm.md",
-      "title": "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm",
-      "excerpt": "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "originalUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-to-see-proteins-change-in-quadrillionths-of-a-second-use-ai.md",
-      "title": "To See Proteins Change in Quadrillionths of a Second, Use AI",
-      "excerpt": "Researchers have long wanted to capture how protein structures contort in response to light. But getting a clear image was impossible—until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "originalUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b24d2b315dad96cfe1db53/master/pass/Science_protein_GettyImages-934883946-(1).jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "publishedDateTime": "2021-12-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
-      "title": "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital",
-      "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "publishedDateTime": "2021-12-10T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

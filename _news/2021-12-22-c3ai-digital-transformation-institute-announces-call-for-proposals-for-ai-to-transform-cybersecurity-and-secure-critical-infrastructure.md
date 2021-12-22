@@ -1,23 +1,22 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-publishedDateTime: 2021-12-21T18:15:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
+excerpt: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
+publishedDateTime: 2021-12-22T06:09:00Z
+originalUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
+webUrl: "https://www.businesswireindia.com/c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure-76608.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AI Ethics
   - AI
-  - Microsoft AI
 
 related:
   - title: "AI for Cybersecurity Market Is Booming Worldwide with Darktrace, Vectra AI, IBM, Cylance"
@@ -66,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "krUg82dTs6HnEFOoYkNOjHljqiRU8INJWZne47sK5s1jUrEUg3a2fvwBDeJL7QYkS+Kk7IDE+TbDPtpkJcReYbUb1vMOWxrUKfpNIoS3+UXO2/YqVia9LRrVb2sfolI/kp3C4WEQcDPH5thvdILdsCd6q2dJeI/iH9OrkE3Mjy7tqnL7/0PxY5fK6Q5Sk7f/QAymz7LpqacgNILDVVNDHnxtlR1N//UN5Q9Cz60oXrz9MkYy60bfdI2KGDAh5B5dc8I6uoA0AVdIR4TBplf8sZQ94Un3f3+3L3fJeJPp74/UMZ9QPE2HiJuPZ/zb56NLZXr0d3l9Qto+NXZUTtJeL3r+mqS81BGq53ZYnQ0vnNA=;JsmDWK8Nin4x77n2p+dOog=="
+secured: "v/fUxFbpS9rO7kQ93iQUO0yuoj+QrFI7pJtMhR5yBfGVJrmWFFD0pBBph7zprHVEYj2xmHb9dURjjJ/viO1QvILiivqAGl0CpC3ajevK1HfsRuscVwn5bl2fR3cMj7JeD9UfC9DfWDFeNkGtJ+WbzPb8+Uyn8uhRaBrI+eTPxaILOB4TPEGAxpf1qC4vme7bgiZ/9IPsh7HGWiL+jpKQgeHwA3CZ2YT8vMGYJ89sfhe2iqaZq3JBcvUrKk3U5OHd7DFaMCqroGXL9pqE0JKN8mzxbts9GDAU5848IHhnp++EY3bCPgfK5oSnmej3D8ILfNOTtAJI+6HHg2QWI3RjTJtatfUH4WTZqiMFq/fwuu8=;5G/fOE4agV3jC+MvuVA0oQ=="
 ---
 

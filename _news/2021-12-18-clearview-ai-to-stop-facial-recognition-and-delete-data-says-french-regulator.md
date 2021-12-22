@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-fac
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 68
-  - title: "France watchdog orders Clearview AI to stop processing personal data for facial recognition"
-    excerpt: "France's National Commission for Information and Liberty (CNIL) announced Thursday it had issued a notice on November 1 to US-based facial recognition company Clearview AI ordering the company to"
-    publishedDateTime: 2021-12-17T13:41:00Z
-    webUrl: "https://www.jurist.org/news/2021/12/france-watchdog-orders-clearview-ai-to-stop-processing-personal-data-for-facial-recognition/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 44
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/12/biometric_1639766415.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "zickDJ2SG1SclHga7lFNEYxycGjfR6/Wxf2FOlTclv7wSxn6BzKiiInBYKlnDfO4LCAPwbfFwr1QtMcBOaRIlvdGvak3ULNQtYA73uyAYaZo4KTtJ7xYkJccU6CSh0Ir/IU3UxcvgArNJf7t79UK23Hx0AnZndWveeIxnEUhOP1N65S6atanT7c60MWnMmNX6yEIn6HNYBaHv0nQUcIXRsKJsVnJai5j7yT0yKF9Y5lQubJXO6Bu975FAnLQKQKnctcLp6Pzlh25xMmLcJO5EmcW6e+/ZWuVouhGKbS6Ic5jqfz66WbSxPj3ULULEksvvkdKC5/pFUdQArgU+IfIQADohMqHGrZTp8cbPQI7CZNeokdGqNQ3kKnMS9GFt8GTdgdHfE4nS1yEvRf6J4BPF5heaAtn/bOudnF9jkEUZvyEo5RaOxW6QNaXmBSM+St7aEbUCp4JfAIY5ykC1VwUhP5mS+kzX2E46G3U3ScwqL2XNcxPVzYJjUmHmtLvMocn94HfEttNeIDJ0dQn7JR+AQ==;LZeXWOHuFM/4K/rxduP4Sw=="
 ---

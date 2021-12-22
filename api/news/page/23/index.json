@@ -2,6 +2,155 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
+      "title": "The Movement to Hold AI Accountable Gains More Steam",
+      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "publishedDateTime": "2021-12-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
+      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
+      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
+      "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
+      "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "publishedDateTime": "2021-12-02T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks.md",
       "title": "Can Intel-Powered, Evo-Certified Laptops Challenge Apple’s M1 MacBooks?",
       "excerpt": "Another feature central to the new processors is Artificial Intelligence ... thanks to the hardware-based Intel Gaussian and Neural Network Accelerator 2.0, as well as Intel Iris Xe integrated ...",
@@ -961,137 +1110,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns.md",
-      "title": "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns",
-      "excerpt": "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
-      "title": "AWS Sizes Trainium for AI/ML Model Boom",
-      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-using-fpgas-for-ai.md",
-      "title": "Using FPGAs For AI",
-      "excerpt": "Artificial intelligence (AI ... and the LUT structure of the programmable fabric lends itself well to a lot of neural network (NN) architectures. Second, the ability to field reprogram the entire chip, or parts of the chip, has gotten better over time.”",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "originalUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/fpgas2.png?fit=974%2C856&#038;ssl=1",
-          "width": 974,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

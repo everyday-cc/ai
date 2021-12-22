@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-supply-chain-startup-unbox-bags-7-mn-infusion-to-build-compact-ecommerce-robotics-solutions.md",
+      "title": "Supply Chain Startup Unbox Bags $7 Mn Infusion To Build Compact Ecommerce Robotics Solutions",
+      "excerpt": "Supply-chain robotics startup Unbox Robotics has raised $7 Mn in a Series A funding round led by 3one4 Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/",
+      "originalUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/12/unbox-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/",
+      "publishedDateTime": "2021-12-21T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-chinese-autonomous-driving-startup-raises-157-mln-from-hillhouse-meituan.md",
       "title": "Chinese autonomous driving startup raises $157 mln from Hillhouse, Meituan",
       "excerpt": "Haomo.AI, a Chinese autonomous driving startup controlled by Great Wall Motor's 601633.SS Chairman Wei Jianjun, has raised nearly 1 billion yuan ($157 million) in a funding round as investors increase bets on smart car technologies.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -138,6 +181,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-22-video-games-on-tesla-while-driving-raise-concerns.md",
+      "title": "Video games on Tesla while driving raise concerns",
+      "excerpt": "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/",
+      "originalUrl": "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBBJ-TV",
+        "domain": "wbbjtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
       "title": "2022 technology trend review, part two: AI and graphs",
       "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
@@ -241,7 +327,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -669,7 +755,7 @@
       "originalUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1065,102 +1151,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
-      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
-      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027.md",
-      "title": "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027",
-      "excerpt": "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-21T22:34:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
 webUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: washingtonpost.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 960
     isCached: true
 
-secured: "R56NOdhmC5tlhdGm9cEe5rR9nJmVSerX6SWkq8BAJff7XBFbqu0BeJOE5GSzZin/tGVTLf56dU/QeM5ctgJJiheeFpaf3wSC9kOH2x2LfHSOeAbQnoaJ8Uw2CGlvlzmlPD8n3/OELon5LJck6rt5DwX+TI2cdGiCvqHlKNG+GrdYef7VPG84KvCGIxjgUnKCIgeyWPgmaRYzsSC8Gl4nKhJX+Jva/bZBmFo4a4viqhFHY+1EtHFP8Fym3FTiUyI/gY5t+bop2LQb7XN0/7M9cEV93gvGB7hukUf/UuaT4RLI+YEUsn8OkP5yf5tFRDUShOiHxbePt7d0/0j3EW8g17lPVF32y83khfiZKA+hnCc=;0RO3pRUL1HvrLtLMsuZanA=="
+secured: "LhN7Su5Mc7wd7sCUzdzYAaMDjpG/Lr4z2yilZwyRtCSIBoVffQQfufDBs5Pr41Pj2xxP9FmwxXgJITw0UtWmUnBeycNvJZu7K+/GK7ZkIEmx2WtZk4v1YOeNMHvKjJ7cFGrN1v/u42OEoT7X+ILhXaV+p/1owzwtp/0hDxbNAlXRMdeGoyrxil1CXWHOg54gytS3QB0kmf6gD35exWpToKdIfY7uxOUZodZH7IAeI6avWEmIm8/2rWdfAnuWBfW9IxGpjcfMqSCbs9HI78ZpUyZhAgAagGKPdL5l5AoI+zhCCXf9VF3WWQZJezx/iNwzrOrFo3yWiSC4gH1Y508f9a/ziJ3MW6ghpZD8oOECoWI=;ZCmYQ9hJyyVSiPqvJArh8A=="
 ---
 

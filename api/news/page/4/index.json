@@ -2,6 +2,142 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
+      "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
+      "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-Lion.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
+      "publishedDateTime": "2021-12-17T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-eu-faces-nuclear-rift-in-decision-on-energy-funds-future.md",
+      "title": "EU faces nuclear rift in decision on energy funds, future",
+      "excerpt": "The leaders of the European Union’s two most important nations faced reporters together during a joint news conference early Friday, a show of unity at the end of the EU’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.signal-ai.com/blog/on-our-latest-investment-building-the-future-together",
+      "originalUrl": "https://www.everythinglubbock.com/news/latest/eu-faces-nuclear-rift-in-decision-on-energy-funds-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.signal-ai.com/wp-content/uploads/fly-images/10260/Decision_Making_Reputation_800x450px-750x450-c.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
+      "title": "The Sims 4 could use AI to automatically turn photographs into characters",
+      "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "originalUrl": "https://www.techradar.com/nz/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4H5BcPERVpvbyTHyV6wHsP-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "publishedDateTime": "2021-12-17T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-levis-ai-chief-says-algorithms-have-helped-boost-revenue.md",
       "title": "Levi’s AI Chief Says Algorithms Have Helped Boost Revenue",
       "excerpt": "The use of AI has helped the apparel company make better decisions in areas such as pricing and shipping, Chief Strategy and AI Officer Katia Walsh says.",
@@ -1067,162 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-elementary-raises-30m-for-ai-that-automates-physical-product-inspections.md",
-      "title": "Elementary raises $30M for AI that automates physical product inspections",
-      "excerpt": "Elementary, a company developing an AI platform for automating physical product inspections, has raised $30 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/",
-      "publishedDateTime": "2021-12-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-octoml-helps-enterprise-automate-with-ml-platform-for-the-edge.md",
-      "title": "OctoML helps enterprise automate with ML platform for the edge",
-      "excerpt": "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
-      "publishedDateTime": "2021-12-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-cxos-are-we-ready-for-ai-to-assist-human-decision-making.md",
-      "title": "CXOs: Are we ready for AI to assist human decision-making?",
-      "excerpt": "One of the emerging areas of AI use in corporations is to assist in human decisions. But is it ready, and are the decision-makers ready for it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "originalUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "publishedDateTime": "2021-12-16T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

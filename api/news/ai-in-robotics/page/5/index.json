@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-24-little-big-robots-mech-battle-is-a-pvp-multiplayer-robot-battling-game-out-now-on-android-in-select-countries.md",
+      "title": "Little Big Robots. Mech Battle is a PvP multiplayer robot battling game, out now on Android in select countries",
+      "excerpt": "Little Big Robots. Mech Battle is a fast-paced multiplayer battle game featuring giant robots. Each robot is unique, be it design or skill-wise. As you might have already guessed, you play as a robot and take down enemy robots controlled by other players",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
+      "originalUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.pocketgamer.com/artwork/na-33569-1637690283/little-big-robots.-mech-battle.jpg",
+          "width": 1010,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketgamer",
+        "domain": "pocketgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
       "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
       "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
@@ -1353,59 +1396,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
-      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
-      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "publishedDateTime": "2021-11-15T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "AI in Robotics"
       ]
     }

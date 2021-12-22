@@ -2,6 +2,145 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-29-how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots.md",
+      "title": "How CVS Is Using IBM Watson's AI to Encourage People to Get Their Flu Shots",
+      "excerpt": "The company has teamed up with IBM Watson Advertising to create a campaign that attempts to identify and target at-risk areas before the flu hits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
+      "originalUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2021/09/billboard-vital-health-2021-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
+      "publishedDateTime": "2021-11-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
+      "title": "How the public clouds are innovating on AI",
+      "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "publishedDateTime": "2021-11-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-south-america-artificial-intelligence-in-marketing-market.md",
+      "title": "South America Artificial Intelligence in Marketing Market",
+      "excerpt": "The artificial intelligence in marketing market in SAM is expected to reach US 11 291 23 million by 2028 from US 1 728 64 million in 2021 The market is estimated to grow at a CAGR of 30 7 from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "originalUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub29191501_g.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "publishedDateTime": "2021-11-29T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment.md",
       "title": "Amazon Personalize announces recommenders optimized for Retail and Media & Entertainment",
       "excerpt": "Today, we’re excited to announce the launch of personalized recommenders in Amazon Personalize that are optimized for retail and media and entertainment, making it even easier to personalize your websites, apps, and marketing campaigns. With this launch, we have drawn on Amazon’s rich experience creating",
@@ -1079,147 +1218,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report.md",
-      "title": "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report",
-      "excerpt": "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by Reuters, the two companies have secured the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "publishedDateTime": "2021-11-26T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
-      "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
-      "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/",
-      "originalUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Flowrite-Founders.jpg?w=1024",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/26/flowrite-seed/amp/",
-      "publishedDateTime": "2021-11-26T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
-      "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
-      "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG5U3rk8CdQNA/article-cover_image-shrink_720_1280/0/1637931294675?e=1643241600&v=beta&t=oUlMQotZn9QUKwCxFHiYqvrtHeWSvVm6h0NT_bQaVQ0",
-          "width": 1280,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

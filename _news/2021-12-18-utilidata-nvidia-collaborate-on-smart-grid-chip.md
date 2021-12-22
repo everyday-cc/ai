@@ -33,7 +33,7 @@ related:
     provider:
       name: KPVI
       domain: kpvi.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/5c/e5cb3aa4-4ba1-5a6b-93cc-6d9bc71225f9/61c1d0014643d.image.jpg?crop=1457%2C765%2C551%2C0&resize=1200%2C630&order=crop%2Cresize"
         width: 1200

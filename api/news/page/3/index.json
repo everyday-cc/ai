@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
+      "title": "Teradata and Dataiku join forces to improve data analytics",
+      "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
+      "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
+      "publishedDateTime": "2021-12-18T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan.md",
+      "title": "Robotics & AI will transform many sectors: Governor Tamilisai Soundararajan",
+      "excerpt": "Hyderabad: Governor Dr Tamilisai Soundararajan on Saturday said that robotics and the artificial intelligence will bring in transformational changes in many sectors like defence and healthcare etc., She stated that innovations in robotics have an immense potential to benefit our country and it is high time that we strive to be leaders in the emerging fields like Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/18/1136384-tamilisai-soundararajan.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "publishedDateTime": "2021-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all.md",
+      "title": "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All",
+      "excerpt": "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317",
+          "width": 1200,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "publishedDateTime": "2021-12-18T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-meta-develops-ai-to-bring-childrens-drawings-to-life.md",
       "title": "Meta develops AI to bring children's drawings to life",
       "excerpt": "Meta (formerly Facebook) researchers have developed an Artificial Intelligence (AI) system that can identify and automatically animate the human-like figures in children's drawings with a high success rate,",
@@ -557,7 +704,7 @@
       "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1081,142 +1228,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
-      "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
-      "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-Lion.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
-      "publishedDateTime": "2021-12-17T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-eu-faces-nuclear-rift-in-decision-on-energy-funds-future.md",
-      "title": "EU faces nuclear rift in decision on energy funds, future",
-      "excerpt": "The leaders of the European Union’s two most important nations faced reporters together during a joint news conference early Friday, a show of unity at the end of the EU’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.signal-ai.com/blog/on-our-latest-investment-building-the-future-together",
-      "originalUrl": "https://www.everythinglubbock.com/news/latest/eu-faces-nuclear-rift-in-decision-on-energy-funds-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.signal-ai.com/wp-content/uploads/fly-images/10260/Decision_Making_Reputation_800x450px-750x450-c.jpg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everything Lubbock",
-        "domain": "everythinglubbock.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
-      "title": "The Sims 4 could use AI to automatically turn photographs into characters",
-      "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
-      "originalUrl": "https://www.techradar.com/nz/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4H5BcPERVpvbyTHyV6wHsP-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
-      "publishedDateTime": "2021-12-17T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

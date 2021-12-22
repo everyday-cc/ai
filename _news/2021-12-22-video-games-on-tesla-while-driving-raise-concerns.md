@@ -7,8 +7,8 @@ originalUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-drivi
 webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: WBBJ-TV
@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident"
-    excerpt: "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers."
-    publishedDateTime: 2021-12-17T14:39:00Z
-    webUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/"
+  - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
+    excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
+    publishedDateTime: 2021-12-21T10:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 46
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif"
-        width: 600
-        height: 325
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
-  - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
-    publishedDateTime: 2021-12-20T19:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead-1031057469"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
     excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
     publishedDateTime: 2021-12-21T22:50:00Z
