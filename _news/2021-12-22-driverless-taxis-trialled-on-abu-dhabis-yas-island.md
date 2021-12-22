@@ -54,7 +54,7 @@ related:
   - title: "UAE - Self-driving taxis 'TXAI' to transport passengers on Yas Island"
     excerpt: "Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services, a subsidiary of Group 42, said the first pilot phase of the driverless taxi was launched in Yas Island and will conclude on 23rd December,"
     publishedDateTime: 2021-12-22T09:45:00Z
-    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island&source=30"
+    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
     type: article
     provider:
       name: Middle East North Africa Financial Network

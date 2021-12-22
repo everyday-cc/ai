@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-19-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space.md",
-      "title": "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space",
-      "excerpt": "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819",
-      "originalUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp",
-      "publishedDateTime": "2021-12-18T22:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
       "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
       "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
@@ -1330,6 +1286,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021.md",
+      "title": "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021",
+      "excerpt": "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-24-using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights.md",
+      "title": "Using machine learning and natural language processing to measure consumer reviews for product attribute insights",
+      "excerpt": "The study, forthcoming in the Journal of Marketing, is titled “Attribute Embedding: Learning Hierarchical Representations of Product Attributes from Consumer Reviews” and is authored by Xin (Shane) Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "originalUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/11/newswise-logo-square.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "publishedDateTime": "2021-11-23T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027.md",
+      "title": "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027",
+      "excerpt": "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-promethium-announces-issuance-of-a-us-patent-for-natural-language-processing-technology.md",
       "title": "Promethium Announces Issuance of a U.S. Patent for Natural Language Processing Technology",
       "excerpt": "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No. 11,074,252, (the '252 patent) further strengthening the company's intellectual property position and capabilities in the data analytics and management industry.",
@@ -1361,93 +1457,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
-      "title": "New AI Model Uses NLP To Analyze African Languages",
-      "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355697/new-ai-model-uses-nlp-to-analyze-african-languages-355697-1280x720.jpg?cb=11497643",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "publishedDateTime": "2021-11-10T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-nlp-powered-smart-bots-improve-transaction-rates-among-customers.md",
-      "title": "NLP-powered smart bots improve transaction rates among customers",
-      "excerpt": "These bots use natural language processing (NLP), a combination of artificial intelligence (AI ... Gargi Dasgupta, director of IBM Research India and CTO of IBM India-SA, says, “IBM Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/10/600x338/Screenshot_2021-11-10_at_3.48.05_PM_1636539504549_1636539513776.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "publishedDateTime": "2021-11-10T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

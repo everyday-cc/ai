@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24725286"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24725286"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1002
     height: 1064
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Marketing : All"
-    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
-    publishedDateTime: 2021-12-22T06:48:00Z
-    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 34
 
 secured: "XK3CToCArwWqI5hQiX1JgnuS+MbrzQOq2c8CET7VNcFG6TRNN2/0c3sJJlqzgNORCxj3La/h5TTZoso3jxOBjZCGx4v0iyddQz9tGfSvmE6c7ZbYHWueFlnL08S6DHoX1cQvmefezLVEUKHmunU3VncU0galMoGYaFnOe6aEKyAddA5vbLvsUE9iq/tByFjDRACfjBEhRE/lTGP48rTQ7KXbVKY9ljJWOSWQqAFt30QIPcofE3xVJe5wTiEvndew8yUPvWEvj4uHykL/30nR2LIFms0RMBe7uWnbivc7jyAhtunPoqOAffwqEcGlxuNgZxx4zNgcReb/5DR43igDx9jRedwlqpGTF78BUZ/GSnUH4TDxKnfkBtOze3ynQy7w2vQG/5kYxDzUDJhzJrhxXFr4OnH0pxYO6dkGpsDThesZQL3uwSGMX/VQ4qUiaGw7eOGQL4zNKifSkvVn7NIdiSZytTzf34S/eDfu5LqHHRH3u0NT1EynRHmUgwGjrpA45iCSxUIUDh7IjGKoALtNIw==;8oaAz6CAMgXfOW5AkZQUIA=="
 ---

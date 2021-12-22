@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
+      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
+      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "publishedDateTime": "2021-12-22T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
       "title": "What Does An AI Actually Think Of AI Ethics?",
       "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
@@ -129,49 +173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-top-10-artificial-intelligence-stories-of-2021.md",
-      "title": "Top 10 artificial intelligence stories of 2021",
-      "excerpt": "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021",
-      "originalUrl": "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/storage_g539954410.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1",
-      "publishedDateTime": "2021-12-19T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1293,33 +1294,24 @@
     {
       "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
       "title": "Fordham University Hosts Global Ethical Vision AI Conference",
-      "excerpt": "Oosto is a leading visual AI platform enabling enterprises to protect customers, guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls ...",
+      "excerpt": "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/",
-      "originalUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/",
+      "webUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fordham-university-hosts-global-ethical-vision-ai-conference/amp/",
-      "publishedDateTime": "2021-12-03T04:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T04:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

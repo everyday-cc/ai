@@ -46,7 +46,7 @@ related:
   - title: "UAE - Self-driving taxis 'TXAI' to transport passengers on Yas Island"
     excerpt: "Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services, a subsidiary of Group 42, said the first pilot phase of the driverless taxi was launched in Yas Island and will conclude on 23rd December,"
     publishedDateTime: 2021-12-22T09:45:00Z
-    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island&source=30"
+    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
     type: article
     provider:
       name: Middle East North Africa Financial Network
@@ -67,6 +67,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "tRPljpwgpzlZP+OORnvKVggXazoyYpVodJWuwvBREIQMtw6hgHME8fIP/ilehr6AgGWdBxI2Z51/51rEKqKWCZs1t8xLTy0IaxSPUD2/IEla4+8qDinSENVrGx9piquDDLXvh/O1Y3pOCwAXg6erZSkZ7Cey7ejcHi4+7ETSFhe4a3iRMLjtx0r0rjFACk33IgOzxrTiOJ7/dYW8EgstcKINQtpL9WRO7m2kFDEkyrgPdYfdj7NjpVKSqooEVzfDd5cGFpvfHr+U66PXkuJLXoexDFTdrndk10qtUVQJaOhT4IWZgwcUjx6Du8XEN3PForKjYyU9zbigjKEvkeUbFAJaTPPxUCo7iSQ6w1n0Amk=;9vwKZkKsM+pa1eIkoWGGKQ=="
+secured: "FRthSlQ4RtHRj3zGBUqmxM2SU9XWh24as5qN7VBhJDdfS9W2wEisb6IcG8IyWYyLBUeyhKDYHDq4USWeEFq5hTD90FxV0/mq5H4AZtUpRPrErGvaKledlxUIcIhbcDpLXYASsz5DqMNV5WEvm0nnFiYzZ+JMldFnQ5n7l9o3pEHvR8o/ZoEaVHke+hNPqaRJ6ceaspOmNr1LlIMSzGdNDvd/sjUrSm+cn4oMKxvfbgmieSG4IMwMWlqXCNWR0V8mRIETkOXi1qvz99Cl5IxIo5k/hW3tkmuaaGKQtl6FIisWG34/ImunzLGtgI3Lpm8FbphxXlTLxVCtWLThz1eXYSxrDW8Sx6RruglbGq6I/yLFkH8jnwbQ9kZTxMPNRjOY03Gum+yO63MrFUxbXWJH7vRkWyEv9+S/VgBgCpXR8l2Bze9dtudC38vF3nh93uoYLxx6GHUQbN7BJuMkwCfJbh8WREND8zh0t4IPdPijpUmFd8Ln0MXbyYtEtRKfFBEtFMWkT6HHGfrvo8h8prEJhg==;emQoMk+l4GSjQ9fwRqH5IA=="
 ---
 

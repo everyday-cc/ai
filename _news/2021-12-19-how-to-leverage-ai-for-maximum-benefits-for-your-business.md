@@ -7,7 +7,7 @@ originalUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for
 webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,56 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "How To Use The Power Of AI For Marketing Success"
+    excerpt: "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive."
+    publishedDateTime: 2021-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg"
+        width: 1161
+        height: 774
+        isCached: true
+  - title: "How to Design the Ideal AI Assistant"
+    excerpt: "AI assistants will be an integral part of next-generation products because of their functionality: They will be capable of doing a lot of different things, and users won’t need to spend extra time learning the system because the interaction with AI products will resemble human conversations."
+    publishedDateTime: 2021-12-21T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/401588"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598641-GettyImages-1271099302.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Artificial Intelligence Marketing : All"
+    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
+    publishedDateTime: 2021-12-22T06:48:00Z
+    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 34
+  - title: "4 Trends in Scaling AI for the Coming Year"
+    excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
+    publishedDateTime: 2021-12-21T17:18:00Z
+    webUrl: "https://www.publicnow.com/view/C148D1931724826FF8657818398C8EFA2E6BDBF1"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "KnmzHB7U1qchm6jOucIwv7w8lwffYFQlKijSKdBira9bAmj7cbLnvu3ZdS/g/wvBknjpnvtiXFkbYKSXP4k3ecHJqIC9HvhsX6i0wR9tnPGVjkbb9fcaVRw8gkDIsZ63TgpMcTCYvFi/wk7M4cnDjyxrUu/t2th4rE2IITNxBOsChtutgr4iBe47lW4Z2wU4xdst68Q/jrF/2GDnz1AbTdaNAjrPSvakGyH9B/kY1TCQSojxxxOewJz64vICjvQvbGOIpN+lE6SK/tHFnjLUmIMN8mO52GcHO4GyeHXBJcAskhWOzr8BN1pUoxKcRkliexiR/9zKoy8A3lM4cvvn9w049k27jvbbT12HVBcVP+fI0Znan+jEuQGrTcu2IrZG7HKWApOdn5zReK8xB3MTJ+GxK6Gvu6K7fqJAXZNyyw0THBwxVyp7HFrQbgm0X8zBgjWVJHtPni/zqueI26rHG/VjxUGVCvRc44gBiacIPjplI9hFThdGNqWaNb7tFFSXHPbT78E3edVkLrZfbCnF6Q==;IazGwnDPUi/GQMj8m3GgGA=="
 ---

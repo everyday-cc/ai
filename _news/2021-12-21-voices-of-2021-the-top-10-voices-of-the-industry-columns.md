@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 artificial intelligence stories of 2021"
-    excerpt: "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021"
-    publishedDateTime: 2021-12-20T05:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021"
-    ampWebUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/storage_g539954410.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "2021 was the year of monster AI models"
-    excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
-        width: 2764
-        height: 1555
-        isCached: true
   - title: "The Top 10 Computer Vision Papers of 2021"
     excerpt: "A curated list of the top 10 computer vision papers in 2021 with video demos, articles, code and paper reference. - GitHub - louisfb01/top-10-cv-papers-2021: A curated list of the top 10 computer"
     publishedDateTime: 2021-12-18T20:29:00Z
@@ -72,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aP4wm5rTDy5uB9e4ko9IKpEvBCH3fyrJr72N32k0ysBeB9a3dvGidOp4clw3xrvRxHgCyvrGRujmN0HWoMPBFMlSdGA9/ULxNrxKUId6JTC6h91QoknIcEHvhlk5EdQrfNHKRoK7f34CiIRTrBzGY+1GPHyvCaO7ntzlsxmWD2zduej71eFJ/TCtV2PDo0HgG+2lkY0XR7Jto7JkRh5pYm8gJYbYeGsKyYONxLEO7t2W39PxoOrLN+p0QBXGjD77y8b8noy93pfXJBtiOkm7jyb2JYjXr+XScM3t7bffk/yiKAwh512XAb2Cdmsretv4GbJpr+7VjUNGetL0Sfp8iYqkcmjSvneL64A04XjiXMM=;TbZ7mIZ9ZPbnZbQL3eb+Gg=="
+secured: "JG/xsyUAAPwZkuKm15PoGEh0sZIF0HvoY6QenlWxFmDW6fKK7FFdc78gngcxbW45AkYkzpWSTrVBmMAdmne+p/jpu/coOG6aal74MgPKqu/3DYZCT3ZDi2xZp4UPYIBYiGiDMqnbIZ0yCpPqt9YDB1Na+RvbOPoDK26WRHudg10TNwF4IXTutmXNb79DbvQP8d0uUKcWgq1peB6LRmEMmfHLe9Jl+HRBje+hfeqlqW9cc4nfCs+7aGovKEO6Kr94+i5xwBSZA7GEfhUIga7FsWTeb+RDbNuDxgd+usE2v0IJxE9Wb44NzOfrCQgnAB9f9P850wMKJwKQFW/3wPhxZXpw6benBv6sknvd4o9rFE+gh7YnCdnkvxgg8YYt2SWIbVXUX6KZskesRnmfcVF8r1VcYxpt+BR+CXOTVdrzLqxX5Hy6bz0PxyKI3VH5/TGnyyZOMzuSJjWXRhK1GUDZXVKSCei4HjyrNnc28LPKJnzQKVGN2HqzobxR6yJ3cb/jISfDe5Z45C0zyA7tBzi1tQ==;N1XtTGDsmfqoXKbU3YuTLA=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-10-07-how-financial-services-can-invest-in-the-future-with-predictive-analytics.md",
-      "title": "How financial services can invest in the future with predictive analytics",
-      "excerpt": "Adam Mayer, senior manager at Qlik, discusses the benefits that predictive analytics can bring to financial services The financial ... such as predictive analytics and machine learning. These are concerns that Richard Speigal, BI Centre of Excellence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
-      "originalUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/10/how-financial-services-can-invest-in-the-future-with-predictive-analytics.jpeg.optimal.jpeg",
-          "width": 1080,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
       "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
       "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
@@ -1340,6 +1297,51 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market.md",
+      "title": "Technological Advancements in Machine Learning in Healthcare to Boost the World Market",
+      "excerpt": "Staying ahead in business is often about being the first; check the pulse of Machine Learning in Healthcare Market know what is hot and what’s going wrong in your industry is a key to success. Stay tuned with latest trends of Machine Learning in Healthcare Market with latest edition released by HTF MI.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "originalUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Machine-Learning-in-Healthcare.jpeg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "publishedDateTime": "2021-09-22T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     }
   ],

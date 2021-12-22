@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
+      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
+      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads.md",
       "title": "Run:AI Eliminates GPU Resource Allocation Issues For AI Workloads",
       "excerpt": "AI, a leader in compute orchestration for AI workloads, today released two new AI technologies, 'Thin GPU Provisioning' and 'Job",
@@ -1357,59 +1400,6 @@
         "AI",
         "IBM AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
-      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
-      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
-      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 423,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
-      "publishedDateTime": "2021-09-23T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

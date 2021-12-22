@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
+      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
+      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
+      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-mlcommons-releases-open-source-datasets-for-speech-recognition.md",
+      "title": "MLCommons releases open source datasets for speech recognition",
+      "excerpt": "The nonprofit consortium MLCommons has released a massive, license-free dataset for speech recognition system development and testing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
+      "originalUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
+      "publishedDateTime": "2021-12-06T21:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
       "title": "German Language Service Provider Milengo Expands to the US",
       "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
@@ -1241,102 +1337,6 @@
         "name": "Business Standard",
         "domain": "business-standard.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights.md",
-      "title": "Using machine learning and natural language processing to measure consumer reviews for product attribute insights",
-      "excerpt": "The study, forthcoming in the Journal of Marketing, is titled “Attribute Embedding: Learning Hierarchical Representations of Product Attributes from Consumer Reviews” and is authored by Xin (Shane) Wang,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "originalUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/11/newswise-logo-square.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "publishedDateTime": "2021-11-23T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027.md",
-      "title": "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027",
-      "excerpt": "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

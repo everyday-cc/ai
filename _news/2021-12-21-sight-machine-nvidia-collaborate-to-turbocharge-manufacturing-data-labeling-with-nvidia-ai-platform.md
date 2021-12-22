@@ -7,7 +7,7 @@ originalUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-colla
 webUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Utilidata, NVIDIA Collaborate on Smart Grid Chip"
-    excerpt: "The industry leading grid-edge software company Utilidata has announced that it is working with NVIDIA to develop a software-defined smart grid chip. The new chip will be powered by NVIDIA’s AI platform and embedded in smart meters."
-    publishedDateTime: 2021-12-17T20:00:00Z
-    webUrl: "https://www.unite.ai/utilidata-nvidia-collaborate-on-smart-grid-chip/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/alternative-21581_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
-
-secured: "ozXnaT65zF9sOxxE8gI5Xgm1SXztQ2u5NOiYJXrGNTCn+vR1sO4+JwUCUsntRnnKFkP+AaNMHVfV2JNxm+O9doF3+Zc65RVhv3Pi1fnPM+Vs6fg2+soWIEkA3MXvYJAtH3xX3I3jjdXzsQVdDLX7uM4yZG5bg4vNJiG+5mChCoJzc+qNtPB4ISvntSt+nQ0S6Xr8OP9QvQmckLunyk7no8lMORbxM5IqX8tnoE79K3Zc0euecUDYXppuui16JpXh/qMA98tY1gbGp2IWGXMt/C/0u5Vyf8fMMZvudX/D/1zBhe5fj2y6y+/YdujaR2YpS8Sbzcr2j2kcx8meVOFpUDgpf0EP3vC2QdXSrF4fZfQ=;Wuer3xiIG02yFkt8ha82zw=="
+secured: "IfU2PcaDwRGf10mwDWcT56b7wWPJWgIW1xmsMVR10Yi0dcZA8Wp+ansQdKTbqVmmaDntrwKqNRyVzvWc7AfrItCi4HiHwyNYjfSp6V9/nAWrq5+AhZdJnLPy4yUze+8MqMCB6mdc9ZXsHbRYaFl2CeKHcB5XHEAfNuFyXAZ1D984KloM99WbVNL7pe4M2QbFSDf9gAPiV2VCpG5eAdii1Sf8zezC+Yq7I9zdMi+9cnu85flCH/VM2vbe6YXLQ87UpcBMHwOKLpm+Mxdx9eauBfy/V6PQeowZPqtOxDmgMfY0pn/3eMfJ5FrF9OWthBSfe5Et3jRysWXEWZhQywn+VY1e6mtnD1m5tRX1I3V324T86nvgwMA94JJeEvVYE+2RYA/ATnhdosGZdqY0ExEPa6snQ659xX4LyYIi0cRT+UuWw+Z4jBW76cPjnGwyJo1iPPQnkV0qRENpjGxmrLKW0sxCmKM+oGd8zO3kSScKOn5MSF2YsZFknZXHtq7dK3IljAz436GzwXAr+ZDcpxVOhw==;sQjecT3rLe3Id/0GaFg9Lg=="
 ---
 

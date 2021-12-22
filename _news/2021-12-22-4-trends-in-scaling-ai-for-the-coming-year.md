@@ -19,22 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space"
-    excerpt: "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services"
-    publishedDateTime: 2021-12-19T06:40:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
+  - title: "How To Use The Power Of AI For Marketing Success"
+    excerpt: "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive."
+    publishedDateTime: 2021-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg"
+        width: 1161
+        height: 774
         isCached: true
+  - title: "How to Design the Ideal AI Assistant"
+    excerpt: "AI assistants will be an integral part of next-generation products because of their functionality: They will be capable of doing a lot of different things, and users won’t need to spend extra time learning the system because the interaction with AI products will resemble human conversations."
+    publishedDateTime: 2021-12-21T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/401588"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598641-GettyImages-1271099302.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "How to Leverage AI for Maximum Benefits for Your Business"
+    excerpt: "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers."
+    publishedDateTime: 2021-12-18T22:31:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/24/17/21840885/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Artificial Intelligence Marketing : All"
+    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
+    publishedDateTime: 2021-12-22T06:48:00Z
+    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
+    type: article
+    provider:
+      name: Newsclick
+      domain: newsclick.in
+    quality: 34
 
 secured: "T7YpSvNeyK+LW1YLc/vWuXW2ttvCzSaigYUXsHzWJU3buL+2XCTycTv7tcCgDJBIzc/TDHM/k6rypNKmevK85VYDE9ky4pr53CudAxdXHvKz0m8fs6wlkrqr2LJwUXZopmy0Z9p4SJpLFVmKOzJm2chqAu2mgUhLVrbWSKKRGiqomQ155pa2nBI7VbNnyjxgmMsG57bjvPSPLkQvJ/y/MGae7kuYsNYOB020RHxRqTfkkCZPbvmLhcmDKpL89Wnfregj2CEq709E2lO0Ax8ohvcB/addIKpRIstz2dZNLw/sv04Fg1Ml7SnZAVxWTdgx9C0ZiYo6HtwKj0HpmfdzqiA9LVRmh7MHL7ZpI6ic/eM=;ymGrHQSAzoq8o3jMfAJX8A=="
 ---

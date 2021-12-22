@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-sin
 webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 665
     isCached: true
-
-related:
-  - title: "The Most Common Artificial Intelligence Misconceptions"
-    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
-    publishedDateTime: 2021-12-21T23:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 43
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Cqmo9wNGvxDfu4chRu2RzUq8RtdCE2mWEj2L9YB4HHvjzRap+unUB+V5H0hvbiARUli/kM2YxtG959KPrSEgktM3rULM4qULK1Soq/UOmWqn6FjgcSpb0ruexRyWtKs/DA6P7Tkqqjon5KClcoZr4kUGqZkVGdgfmcQSybYUD4wtM2nQaDFj1Hg1kCet+CSBE90gbEYjnnf0MPEs7wn9Fpba6yu2R4OfcpS9lpGMnzN2M5NcUuSVktyOUNFDexXBkHo4kCYhokHPeyWxes65HImMKORJrJfV1AHW6mqLOqNlAbXBmqDaafQ/0LXGdsGI6lV16EGhE/Mx7tdkQ/BLX/7sEkgc5rdY//UJ3j6U3fgCD2Kll2E18Y/EOXN72hdfU2fpKG2IQidoWgLXDsPZk0Cyh2k7mDiPxiths9E1m3bvG9UZyUv7kGuC8N5JqXILthEHntcU80AwflP6aYXVAGfklAj11qfbHI8+vWTfO3vItElNgSaxBC4lbjMTi2UitTgP95lFftebRohJj6OBoQ==;syMR3XceX36PGzK8KabqVg=="
 ---

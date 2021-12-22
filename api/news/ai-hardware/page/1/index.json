@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-22-oosto-to-develop-facial-recognition-and-ai-solutions-to-help-government-and-corporations-to-identify-security-threats.md",
+      "title": "Oosto to develop facial recognition and AI solutions to help government and corporations to identify security threats",
+      "excerpt": "Yossi Cohen, former head of the Mossad and current director of Softbank's operations in Israel, spoke at a conference of security consultants of the AI Company Oosto held in Raanana,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "publishedDateTime": "2021-12-22T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
       "title": "Faster, safer, more efficient data processing with Edge AI",
       "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
@@ -1374,59 +1419,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-ai-inference-acceleration-on-cpus.md",
-      "title": "AI inference acceleration on CPUs",
-      "excerpt": "The vast proliferation and adoption of AI over the past decade has started to drive a shift in AI compute demand from training to inference.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/",
-      "publishedDateTime": "2021-12-09T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

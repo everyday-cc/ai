@@ -19,22 +19,59 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Anyword's AI Copywriting Positioned for 2022 Digital Marketing Trend"
-    excerpt: "With its ability to optimize messaging, increase sales conversions and reduce campaign costs, experts predict the use of"
-    publishedDateTime: 2021-12-21T17:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24725286/anywords-ai-copywriting-positioned-for-2022-digital-marketing-trend"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24725286"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24725286"
+  - title: "How To Use The Power Of AI For Marketing Success"
+    excerpt: "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive."
+    publishedDateTime: 2021-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.newswire.com/files/x/a6/05/9908a8efc679d560b37a21b1054e.png"
-        width: 1002
-        height: 1064
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg"
+        width: 1161
+        height: 774
         isCached: true
+  - title: "How to Design the Ideal AI Assistant"
+    excerpt: "AI assistants will be an integral part of next-generation products because of their functionality: They will be capable of doing a lot of different things, and users won’t need to spend extra time learning the system because the interaction with AI products will resemble human conversations."
+    publishedDateTime: 2021-12-21T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/401588"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598641-GettyImages-1271099302.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "How to Leverage AI for Maximum Benefits for Your Business"
+    excerpt: "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers."
+    publishedDateTime: 2021-12-18T22:31:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/24/17/21840885/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "4 Trends in Scaling AI for the Coming Year"
+    excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
+    publishedDateTime: 2021-12-21T17:18:00Z
+    webUrl: "https://www.publicnow.com/view/C148D1931724826FF8657818398C8EFA2E6BDBF1"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "gXaqnUL1/ftXnROOZdj4mW3srEIfWIBnS+pEbbZRxjzPexMLBaTZO8Jv2iaXFtdaA5AuMJzxtyiUP3YY9OIWl6MpdIZuZXdP961MVM+F/l1hQ33EUNp6IvTkZZwQDtyKQAIg1Z06fnQrY6bNlY4kv4gBea9ENJPtTcajqS776L4mSOjcNmne6lNwAiw2af3BHWr33vuyOQGPkIYiHCW/YPMNuEXT5gSGsAQd1l6nn/ujEDDm3MZKuf3N0wvNlw8RhSQ8CMXhrRT1OZXwZwVc6+uBA93cJJKZ/yjVPx2+PxG4iuxKDJaqg3I8ZAifq9l0oVBMyCbbHxCIZ7ar7h8YJBChCd3UHLou9WnMJR5pdBg=;KqgTRQqtfcgYwgOpM4M8xw=="
 ---
