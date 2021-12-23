@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 938
         isCached: true
+  - title: "Troops.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-12-22T21:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
     excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
     publishedDateTime: 2021-12-21T05:51:00Z

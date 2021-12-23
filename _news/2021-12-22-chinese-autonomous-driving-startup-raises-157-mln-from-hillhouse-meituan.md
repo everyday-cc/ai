@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/chinese-autonomous-driving-startup-r
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan?amp"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/12/haomo-scaled.jpeg"
         width: 2560
         height: 1426
+        isCached: true
+  - title: "Chinese self-driving startup hits $1bn valuation"
+    excerpt: "Beijing-based autonomous driving startup Haomo.AI has raised nearly 1 billion yuan ($156.9 million) in a Series A round of financing to reach unicorn status, with a valuation of over $1 billion, the startup announced Wednesday."
+    publishedDateTime: 2021-12-23T07:11:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-self-driving-startup-hits-1bn-valuation"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F3%252F5%252F38055380-1-eng-GB%252F%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202021-12-23%25209.32.37.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "4yxXG+EHAeEpP8rOXrCFCXUZTQr3RhRGj7DxhxvBCsLi44UtehWNd9W5YzKEeTB78Ya7eEb2mGTxDWaRyAVtH1u//no7pzaGZNZT8AdNps3NfkqYjjIMTqyKFSTLQ4+1CMMqFhZIUI3uULWwcaKKmSHuJ/ugW/NQbM4KM+0x4Ru+jgc9Tj7EBGuyww8LOuWVNK1aOBa4qeEJoZl8fRA8TADo5LByTtd9f001/cvNSuAZBAUzYzAU0XMo6XJLkCgAgIR4P218clLsBB2JbhGKDfBpc66R6OhljNBMzAr1IxY5vyLnVeZ5DEVncYIdi6SLK9Ayfn/VDXjbg/30wdSw9rQEyPkw7t+cleyG3bddeJA=;p2uF5f5bgtMRwoyiOVBuyg=="

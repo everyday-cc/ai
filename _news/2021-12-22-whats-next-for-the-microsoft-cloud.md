@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/whats-next-for-the-microsof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Troops.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-12-22T21:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Commission approves acquisition of Nuance by Microsoft"
     excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
     publishedDateTime: 2021-12-22T08:41:00Z

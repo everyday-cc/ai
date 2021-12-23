@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All"
-    excerpt: "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car."
-    publishedDateTime: 2021-12-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
+  - title: "How does AI impact self-driving cars?"
+    excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
+    publishedDateTime: 2021-12-23T00:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317"
-        width: 1200
-        height: 760
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
+        width: 958
+        height: 720
         isCached: true
-  - title: "Bridging divides in AI, machine learning"
-    excerpt: "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities"
-    publishedDateTime: 2021-12-21T14:20:00Z
-    webUrl: "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine-learning-consortium/"
+  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
+    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
+    publishedDateTime: 2021-12-20T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
     type: article
     provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/purnell-taylor-thorpe121721.jpg?itok=GgDj2ZbR"
-        width: 900
-        height: 375
-        isCached: true
-  - title: "Bridging divides in AI, machine learning"
-    excerpt: "A team of health equity experts from Johns Hopkins have joined a $50 million National Institutes of Health effort to close glaring gaps in the use of artificial intelligence and machine learning in health care and medicine among underrepresented communities."
-    publishedDateTime: 2021-12-21T17:03:00Z
-    webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 54
-    images:
-      - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
-        width: 600
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "okHfq7wHyCOKh8yqVL6Hr6c51+2GlN0dLpZJNn0BK7SXlb7NCYiUQCuXcFl7d+mGf12AiY1L+xOAfzUfecXX+l0f09UohylqOO28Z8Mi57y30Ezkjx2VhfK3UCNhv29A+h8I/eX9LeWPCD7OwgMTsW2xVPGZe29DOy9Jz7ZesAU2E/RxH8rAPUBVT3fQgycmk56aRLJyPNS9n4m/nWCzYVkimXuUF1xGDHD5C7aYKmtX8fakH8S4m4budxn6zmmI3eLLyGabRbIgwKlzzZKmefqR2qOnmk4doJbUaWwyxtmQNRBkMlzn3nHc1AsbM3Y3u1dYfyiF1Ydr7xKMnTy3GxyOJA+MWu1XMADCAtTD/TRnti8ayRSJLfnRQDlFWUJKeIqrjwmcVo5t866/Kojn3uCc+ymFpZV8UKyDXyfMS6TCtdGfmR2ILPm/MLV+t/hEKbQai2PP2baRtJ//z0hlkUtoyFIivbHh3jnoPBJ2EOnjs6VitGVft7hWUDXOjDkcVX17XlvV3TnOa04EP8e48A==;tV2z8DbEjlYDjw9WJPc+qg=="

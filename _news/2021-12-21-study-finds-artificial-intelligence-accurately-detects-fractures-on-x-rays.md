@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
+    excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
+    publishedDateTime: 2021-12-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/12/211221102818.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 37
   - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
     excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
     publishedDateTime: 2021-12-21T16:17:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All"
-    excerpt: "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car."
-    publishedDateTime: 2021-12-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317"
-        width: 1200
-        height: 760
-        isCached: true
   - title: "Bridging divides in AI, machine learning"
     excerpt: "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities"
     publishedDateTime: 2021-12-21T14:20:00Z
@@ -55,19 +39,33 @@ related:
         width: 900
         height: 375
         isCached: true
-  - title: "Self-driving cars could be legal by spring 2022"
-    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
-    publishedDateTime: 2021-12-22T14:00:00Z
-    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
+  - title: "Human Brain Cells in Dish Learn to Play Pong Faster than AI"
+    excerpt: "Hundreds of thousands of brain cells in a dish are being taught to play Pong by responding to pulses of electricity – and can improve their performance more quickly than an AI can."
+    publishedDateTime: 2021-12-22T08:02:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2021/12/22/2630522/human-brain-cells-in-dish-learn-to-play-pong-faster-than-ai"
     type: article
     provider:
-      name: What Car?
-      domain: whatcar.com
-    quality: 24
+      name: تسنیم
+      domain: tasnimnews.com
+    quality: 39
     images:
-      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
-        width: 755
-        height: 503
+      - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
+        width: 487
+        height: 423
+        isCached: true
+  - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
+    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data into"
+    publishedDateTime: 2021-12-21T11:35:00Z
+    webUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
+    type: article
+    provider:
+      name: KPVI
+      domain: kpvi.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/5c/e5cb3aa4-4ba1-5a6b-93cc-6d9bc71225f9/61c1d0014643d.image.jpg?crop=1457%2C765%2C551%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jY60yBM+17LPVoa/qF+okzNBUVukEObvEfjjcaDxFeSvOQdojWktvUwTSuSHkICh2rYHna7D/bozN2GbY7dF3dLE9vJLX2P+GvW/ZBX5Ug5H/uXI6om1i0SyF/O/VUzhoizSIQAni61mV1UwMgPolLubSHeiIx+XrUPOaTnrU1hTVhr7w4NKeEFrvjmwSn5I9marqfNGffG4XFjinzt145CIGproK7zZNfabNZ18FqQ8EEozDiu9yuDWAwiuNegWAcAdNIIGr2g8z2ndkujVAMQRJGYIlh3z9M/druUtmmiLkp4AD9M/uAx/sQ5fc48VnLgrsDreXp6RxE0E0KdBGilLB/PgOU2cW5qbamU5x58=;c1DqKQBN3ORLz8KeOzaxUA=="

@@ -75,6 +75,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Chinese self-driving startup hits $1bn valuation"
+    excerpt: "Beijing-based autonomous driving startup Haomo.AI has raised nearly 1 billion yuan ($156.9 million) in a Series A round of financing to reach unicorn status, with a valuation of over $1 billion, the startup announced Wednesday."
+    publishedDateTime: 2021-12-23T07:11:00Z
+    webUrl: "https://asia.nikkei.com/Spotlight/DealStreetAsia/Chinese-self-driving-startup-hits-1bn-valuation"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F3%252F5%252F38055380-1-eng-GB%252F%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202021-12-23%25209.32.37.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "qPQYu2hcV8sHqjU+YJjYd8dU1KotnmSJ1FaL8QvWyBaFgcyx2KLNnicV1XVr+svFb6M7WDpH8ab4GLsSrMvJ/keXf4qiH83dDbQLIlUvqnFolae6PMg9r7CsQQV/6jlL6Fq6HfcI21sa2r4c0Lm47jC20dFioWdvYCDLdO5en/EtYhaMKosWnHxJDwlzxsB54xNGjEmpymrBmMxbF934nIyVqLWz7vcPxdhzB6K5Wt79xND2cla2nCefDtfraUBb4YQRWGn6GbKpW/SCWL/9WAFigEcKhwCu684UWgXt3rAKnwtO8Uwipvr7hWXgr/rgbSRcRrHHajiYYEsxcXm5JJtowml1p8tPSopE+MPtApqXumOWunQNKXmJPFy2L/Gdj8ViIZbuNXqAvshpWshYqXb36bKTUCG4CGnMSF5UapoANAuBLVr/rl5w0Yam25GR1GGeXEjyCrNCXHslD9R+ic8bQD7tfNtGjANTzfZP/WS3gPOX2Y3GlC7sGNEAD0jQ4c2BcpuSfpl1DMNaaucKIQ==;KKbRAqezF0ZxU3iiVUX0qw=="
 ---

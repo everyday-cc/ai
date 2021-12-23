@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
-excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
-publishedDateTime: 2021-12-21T05:51:00Z
-originalUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
-webUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
+title: "Troops.ai Now Available in the Microsoft Azure Marketplace"
+excerpt: "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-12-22T21:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
 type: article
-quality: 56
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: eMarketer
-  domain: emarketer.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://contentstorage-nax1.emarketer.com/ce4b89940e56fbb8c70fc43659cc3556/default-image-share.png?im=FitAndFill,width=1200,height=630"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,20 +41,6 @@ related:
         width: 1200
         height: 938
         isCached: true
-  - title: "Troops.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-12-22T21:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Commission approves acquisition of Nuance by Microsoft"
     excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
     publishedDateTime: 2021-12-22T08:41:00Z
@@ -71,6 +56,20 @@ related:
       - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
+    excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
+    publishedDateTime: 2021-12-21T05:51:00Z
+    webUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 56
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/ce4b89940e56fbb8c70fc43659cc3556/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft partners with Royal Spanish Academy for language resources"
     excerpt: "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,"
@@ -124,6 +123,6 @@ related:
         height: 768
         isCached: true
 
-secured: "sidnKctV5Z2AuHbnZpDo5lxW1b16dZlqNjtaAmNzP99JzUpaI3cRwb9N+hbvONp51VhuhXHy3lzEgM1UXIIHsSKYxHZVO7HXXjMqfQsp0Fdp6l11+5os3B2lVV5iKUBh86iilXfGQukeliDypUL+pRJ1djyqvzdnWCIyq2RaSFf9PUJjKoTUP6T5SF7VdOsyk2J8afvGt4oe63v54sk+iJgqKHD2v1dN+Drsc7PKLnhJK4MGhOm7e98IvdwVDoqlxj8CSWjB/Pv5y/1w4AL6igppKQJ0fLrMdM4CJAi2ijEMpKdOm3MMkHfU35DDdTGaUU5pLZ1t7TyiRRuS7Ru6v95rg22LQWAqpP4blGUGKn4=;inLtbsYcT068zBbNMm93dg=="
+secured: "g1LY2DF0z4OuhdHAFMXNWwr3Sar0DLLwSlMCyc1TIS9VSyUvrZy9EM1PoUmAMOX85y1LD/7fXdJSt632OumcUscsUl+I+ewofq3P06anuL+yHHQzwdVFd2pGTsOA/qQ0Do88agLVB4HuhkF4NbwmXiir/Kv8K51vaI/2Wcs1kBUoDNdWNNcxkU8Yq9VjNtot75aL3sLQmFXsE310r0k2+szv+4lbHvTR/uDQ231+Ce2Cvp2KFKBpNx97pgcN9cWBC5dDcMElZl70V3eSyIXO8lZI+W7qf/9eY7lEPYF3k2uIcn2DW2t2TPT0DhfIeZqo8DPNE8HJfQndVkuxQ1MWzA/U+xvUik16E80XjUqM8CQ=;cVGc2/oRCBG+H+bmnLik8A=="
 ---
 

@@ -2,17 +2,21 @@
 category: news
 title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
 excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
-publishedDateTime: 2021-12-21T16:17:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/938670"
-webUrl: "https://www.eurekalert.org/news-releases/938670"
+publishedDateTime: 2021-12-21T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/12/211221102818.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/12/211221102818.htm"
 type: article
-quality: 7
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -37,14 +41,14 @@ related:
         isCached: true
   - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
     excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
-    publishedDateTime: 2021-12-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211221102818.htm"
+    publishedDateTime: 2021-12-21T16:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/938670"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 7
 
-secured: "34LvksFervz3YEM1yzmz0FDV4Hi3J5YCQT5QAKx9l7EUU+KFMWyycaQ8bAnzS4MraUnrEaW80O22H1XIxLrEWGH4zrMpRS2/iQ57SnMMSox4pOUMqwZlE74pb1MJed6FJ8Nob0x+XujRKYL8FlHZ98FVsG1jlNL3lNE6wTOaAjczAzVMITYOxUlFHJ/7FuCppYCQcxYvEi+pcuchQqapdtkNnTH6U1tZJl5UhAcCz68c/fcJy0MMd8cTtV+nW+tXaBDij+MUVPqKwN9ZTC7hOBExEkcUPmAd7YS4q6bGRLo1CzNkT6OIQIlXrous3sRe69DIlAPsGZ8ydDn53YloKe0+uNmXseV+P/geyG2rt6k=;Ra5EKYpxxIijdd7JRehbDw=="
+secured: "Gf22hYm81rPKmKVsHEpaJGQC7VFZs8L1dj4GXqJgtz50yUGCOEFbZrVJ6FexvmIalkRc0bmNVNC4w3RZmuKwTDmjUV4826PPd1qvyxdyXjMZ4ZgzaYP74Rw6LiEWpmvwA2t3zICm8dLqQ5f2nfohhIxGceKg5TeUgI+9yHgv+NbC3zEnvojC0Hio+UTL6gwiE5hR+JMnD+kgUaOITF9psUO3568p7Bcp8FkeYS9fqIifUpjUFyoJhPrnP0dN6zfgSGH0AdHiYB7TuafmxSXGGt6+3ZrxlTe2Bz8acd6RbA+R+PxYUAkNCGuugUTC0qOOUKqbrwOfjBAF+T6DfWxqaOU7grGMT8HVUvwoiybxE3k=;d5QOn9MvusQSlN2sETIqTQ=="
 ---
 
