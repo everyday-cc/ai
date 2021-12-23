@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Campuses, Law Enforcement Reckon with Facial Recognition Bans"
     excerpt: "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology."
     publishedDateTime: 2021-12-22T10:40:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai FinTech iBLOXX Granted License to Trade Crypto"
+    excerpt: "FinTech firm iBLOXX was granted a license for proprietary trading in cryptocurrency commodities by the Dubai Multi Commodities Center (DMCC)."
+    publishedDateTime: 2021-12-22T22:59:00Z
+    webUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/"
+    ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1877486011-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Dubai fintech firm iBloxx gets DMCC crypto trading licence"
     excerpt: "BLOXX designs AI and machine learning algorithms to manage active trading models for crypto commodity markets."
     publishedDateTime: 2021-12-22T09:44:00Z

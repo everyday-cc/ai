@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/12/20/biggers-not-always-better-deep
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sure, DeepMind’s AI is impressive, but can it guide human intuition?"
-    excerpt: "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,"
-    publishedDateTime: 2021-12-18T08:00:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DeepMind Releases Weather Forecasting AI Deep Generative Models of Rainfall"
     excerpt: "DeepMind open-sourced a dataset and trained model snapshot for Deep Generative Models of Rainfall (DGMR), an AI system for short-term precipitation forecasts. In evaluations conducted by 58 expert meteorologists comparing it to other existing methods,"
     publishedDateTime: 2021-12-22T15:20:00Z

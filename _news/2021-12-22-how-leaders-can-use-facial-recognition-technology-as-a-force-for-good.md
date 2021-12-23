@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Survey sheds light on law enforcement use of facial recognition"
     excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
     publishedDateTime: 2021-12-20T18:48:00Z

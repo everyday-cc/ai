@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inferen
 webUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 640
     height: 439
     isCached: true
+
+related:
+  - title: "2024 target for i-City’s driverless bus service"
+    excerpt: "Urban development i-City in Shah Alam is looking to start a fully autonomous bus service. The driverless bus service is expected to start in 2024 once the LRT3 project is completed and operational. The automated shuttle is to enhance i-City’s smart city status as a transit-oriented development and provide greater connectivity to the various public transportation points."
+    publishedDateTime: 2021-12-22T23:50:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2021/12/23/2024-target-for-i-citys-driverless-bus-service"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/23/1417094.jpg"
+        width: 1240
+        height: 699
+        isCached: true
 
 secured: "N92cixUH3GWThIW7aVghTqGj1j/t+NtFsTsXzrCD2PqPg2MDkDIr2ilOXSar1zixk73kVlMKXT5FNHgAb7vYr1J0nheGpx3+JbDNSo67DbC2N+FksaH63PZtsWLesy2K5w48MYlRFArQ7cxXSI4oJYviEusDaHFa4jQyM7N0R27XMlPqNrTGwux2zqYxXcCQSLCqysQ2zOftIp097PDscnyiRngWtc1iqoKXfHbficgRY9j7tF1/e9/XX0dTqyG16uREogwYNqtEO3W3twuRRBRcDRRe5davWjblRH0GEe/tXELl2ExsaQ/kcLop9KpggBaXLFShxjXkdIDXyOW/t1fcMiPH8X60VQrt4B8vW5CQXltCyzUfHcJLAuDMuAf5O35skY+e12My+s2mzqJxlbC1fOhWUVRBjLPi2RjNsP6bdnsuleIcHXhzsigtQ4AQQ9tVxWV3ZIctrrA7i9T4eGzZkccpfqnnHzv36ELKBCfN/TPDcfKjslUnPOS5oYn0oymvREgZqte26KSLlwLx4w==;EI/CXDEfLoOYCvod3OeExQ=="
 ---

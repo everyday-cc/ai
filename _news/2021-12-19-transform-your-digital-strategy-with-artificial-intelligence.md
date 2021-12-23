@@ -48,8 +48,8 @@ related:
         isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T14:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-64d1020fcba9423a80b08c6ffbd65982"
+    publishedDateTime: 2021-12-21T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04"
     type: article
     provider:
       name: Associated Press

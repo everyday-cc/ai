@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-18T07:30:00Z
-    webUrl: "https://www.newburyportnews.com/news/survey-sheds-light-on-police-use-of-facial-recognition/article_8c2c1214-5f83-11ec-8055-ff7f4fa79a14.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Survey sheds light on law enforcement use of facial recognition"
     excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
     publishedDateTime: 2021-12-20T18:48:00Z
@@ -70,6 +56,6 @@ related:
         height: 325
         isCached: true
 
-secured: "QJQEGmEhNz/xuc7JlOzEBLvXZqrLFQGx+ZUr6Vddt90j5wBf3/4KTTLHcjGvI3uytK/0JFjOe/EtE0RonTDb+CLEZex7xYpZqoYPVVlz+jl8tpJurLa02uRV01XnhtL44csJWHBV/fQMxrkyjeffeInaFVmVY1AyjuBGXqbyOhQL4Ir6uQOMfSLwpvTh/ZQi9ugw3kaOC+zIf1e3KIru7NnsK5U2LcgIkYM37SJNLc2VMY2naTznP6cMOUrA9PM5a2B7heHPiKhIumLeWluFALm/T6IEjfeLfeUE4bOAD7noOAfYF2SjDI5es1dZa8Uf/mIxz167iGqpWcecPeh1Nb1snbxolnT/dAmS58DiktA=;evAZNaXSly+9/XuAzGSzJg=="
+secured: "FQdOavObaz54Fg2pfZiz8wjFfG+3IB4cyxGZpzCExRnWAc4EYOKaLHf/JuqiDkXedlOnOEid2XfE5ltU+Aq4sEELDTsx99HVFgQ9arZI/CN82t2G74H7u4XG3csqowhhKm5AzO9nZXt6LBaG1BgeO5ei89iuMRXWXTeeYSGIARORK8wbN33kiTYf/O9igq+C30jja9Cl3q7Y/Ho7UXEOW1SeYUqTRUH+7Ss/BwK5b3uKuoE/9sWby5k+Fac9SRsMpPXOJQgSW0PJXIO1vlF6t0iB0gJMOFv5R1560ty+fFGwEzSSQraTKk0vD+ML1rSw8IyQFVGRjtWftbI+adpgbMrHSuy59STg7jDpz5JpUmdNx9jWDtVUEPmFv15QJAko3lKEVEpQXzjzIoHOrnTiffNSD6hnu/A3T8wCm5wj8yzAKhob9NIIi+ri+/eNA+scCFZY62KqaDkWwLJYSPxBTJM2UJ8p740z90ZACPo2BHdwFEqSyb1G41u42cWzJSI5BJJfkA3u+3hRv8p1RCSxVA==;DlX+F1v9gTASdxdYzs3cow=="
 ---
 
