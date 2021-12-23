@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
 quality: 91
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Five Predictions For AI In 2022"
+    excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
+    publishedDateTime: 2021-12-23T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c48a7b566f48451cdf6072%2F0x0.jpg"
+        width: 501
+        height: 344
+        isCached: true
   - title: "20/20 computer vision for artificial intelligence"
     excerpt: "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen."
     publishedDateTime: 2021-12-19T10:00:00Z

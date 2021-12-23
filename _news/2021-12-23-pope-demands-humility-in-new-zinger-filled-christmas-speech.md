@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 863
         isCached: true
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T16:20:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Pope Francis urges humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
     publishedDateTime: 2021-12-23T13:38:00Z

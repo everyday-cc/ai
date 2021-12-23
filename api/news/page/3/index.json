@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide.md",
+      "title": "AI program that started at Maricopa County colleges expanding nationwide",
+      "excerpt": "An artificial intelligence program that started at Maricopa Community Colleges in collaboration with Intel and Dell Technologies will expand nationwide by 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "originalUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2021/12/pexels-mikhail-nilov-9158795-scaled-e1640037457534.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "publishedDateTime": "2021-12-21T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers.md",
+      "title": "FTC Considering New Artificial Intelligence Regulation to Protect Consumers",
+      "excerpt": "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "originalUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "publishedDateTime": "2021-12-21T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
       "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
       "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
@@ -272,7 +356,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -513,7 +597,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -616,7 +700,7 @@
       "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1058,102 +1142,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders.md",
-      "title": "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders",
-      "excerpt": "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people",
-      "sourceUrl": null,
-      "webUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "originalUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "cdnAmpWebUrl": "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "publishedDateTime": "2021-12-19T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News OnTheWight Isle of Wight News",
-        "domain": "onthewight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-top-10-applications-of-robotics-in-education.md",
-      "title": "Top 10 Applications of Robotics in Education",
-      "excerpt": "Robotics is a popular industry. All industries, including healthcare, travel, and communication, have been made more productive by technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott",
-      "originalUrl": "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
-          "width": 1400,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

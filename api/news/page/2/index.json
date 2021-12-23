@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
+      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
+      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.md",
+      "title": "Mastercard execs: Care and feeding of machine learning models is key to success",
+      "excerpt": "To get the best model and the best results possible, you need to understand your data, be clear on what you’re testing against, and constantly monitor and attend to your models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html",
+      "originalUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2021/12/mastercardplatinum-100339531-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp",
+      "publishedDateTime": "2021-12-22T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
       "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
       "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
@@ -10,7 +97,7 @@
       "originalUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -596,21 +683,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-21-study-finds-artificial-intelligence-accurately-detects-fractures-on-x-rays.md",
-      "title": "Study finds artificial intelligence accurately detects fractures on X-rays",
-      "excerpt": "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for X-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read X-rays for a large number of patients.",
+      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
+      "title": "The Single Misconception Holding Back Conversational AI",
+      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.html",
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/x-ray.jpg",
-          "width": 1920,
-          "height": 1440,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
+          "width": 1200,
+          "height": 665,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -618,14 +705,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp",
-      "publishedDateTime": "2021-12-21T07:49:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -634,7 +730,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1073,90 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide.md",
-      "title": "AI program that started at Maricopa County colleges expanding nationwide",
-      "excerpt": "An artificial intelligence program that started at Maricopa Community Colleges in collaboration with Intel and Dell Technologies will expand nationwide by 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
-      "originalUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktar.com/wp-content/uploads/2021/12/pexels-mikhail-nilov-9158795-scaled-e1640037457534.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
-      "publishedDateTime": "2021-12-21T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers.md",
-      "title": "FTC Considering New Artificial Intelligence Regulation to Protect Consumers",
-      "excerpt": "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
-      "originalUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
-      "publishedDateTime": "2021-12-21T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

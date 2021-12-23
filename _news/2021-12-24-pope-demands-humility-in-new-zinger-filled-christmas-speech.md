@@ -1,0 +1,79 @@
+---
+category: news
+title: "Pope demands humility in new zinger-filled Christmas speech"
+excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+publishedDateTime: 2021-12-23T16:20:00Z
+originalUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Times Union
+  domain: timesunion.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+related:
+  - title: "Santa’s Christmas secret? Maybe it’s artificial intelligence"
+    excerpt: "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice"
+    publishedDateTime: 2021-12-22T08:00:00Z
+    webUrl: "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 59
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM"
+        width: 1200
+        height: 863
+        isCached: true
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T11:57:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_612fc5f2c40e4f09a913cf25f2e24774_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pope Francis urges humility in Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T13:38:00Z
+    webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 24
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "KH1Bb42pyNi4ROLFU65C3bXKH7UVLIQxFdJ//dflypbYpV2/yXcBIgbwMVlC4DWSncoVbcDEiSSEUI3a5uCboZJ0osDEDd7OmVt0IJu6moPG/Mc2GvAwdvLRE2v4OHUv9lrhutFCgpYwcwpM9QQOCJFRqIAfRJPNynMl6UcJEl6qrfrKZhEHJdcx83KQDeoXewL1YMuqZteg1hRFMldS3dpV2J/eR8NNywLaWFQ+8OmniEFoc2Ia+REddY+wSSgQZ+G5bo0XcdCzc815KGyGYmHa8TjVKyY892rO/cBf50JVrlYlNdpce8zzdnqkvBZp/HG1Fv/NVyYFXo7bBelYAUveN6gH7J3OEBd5CoGG/Ek=;m4APZQrD7kooxvSdKxLBSA=="
+---
+

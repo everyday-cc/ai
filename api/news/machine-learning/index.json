@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "publishedDateTime": "2021-12-23T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-can-ai-actually-understand-what-we-are-saying-scientists-are-divided.md",
       "title": "Can AI actually understand what we are saying? Scientists are divided",
       "excerpt": "Scientists argue that large language models can teach us about “the nature of language, understanding, intelligence, sociality, and personhood\"",
@@ -1413,49 +1457,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles.md",
-      "title": "Asia-Pacific is seeing a hiring boom in railway industry machine learning roles",
-      "excerpt": "Asia-Pacific was the fastest growing region for machine learning hiring among railway industry companies in the three months ending October.  That was followed by Europe, which saw a 1.4 year-on-year percentage point change in machine learning roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "originalUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/12/blur-g504dc2ffe_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Railway Technology",
-        "domain": "railway-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
 type: article
 quality: 70
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Edge Device Market Comprehensive Coverage 2021-2027"
+    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Edge Device market by type, application, end use, and region: industry forecast and market potential analysis,"
+    publishedDateTime: 2021-12-22T13:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/global-artificial-intelligence-edge-device-market-tejas-baraskar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 31
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFoKFePlZuDzw/article-cover_image-shrink_720_1280/0/1640179480385?e=1645660800&v=beta&t=RwybDKlmLTtoDy_5PSigyW1YYkuxwOBOgcy6vtR5hRo"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"

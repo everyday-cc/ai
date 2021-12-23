@@ -43,21 +43,35 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T14:11:00Z
-    webUrl: "https://www.vindy.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+  - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
+    excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
     type: article
     provider:
-      name: The Vindicator
-      domain: vindy.com
+      name: The Tablet
+      domain: thetablet.org
+    quality: 28
+    images:
+      - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+    type: article
+    provider:
+      name: Tribune Chronicle
+      domain: tribtoday.com
     quality: 22
     images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.vindy.com/images/2021/12/23090842/AP21356394634290.jpg"
-        width: 1024
-        height: 683
+      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
+        width: 750
+        height: 500
         isCached: true
 
-secured: "80o3cR74pc9gC2E1zBH71JP6nJ9472kXC020slOuCnGQbPqdvt5hTrJfvoAt4sROt8vOSO7z3IZntmKmTeI8OzYlnXpr4vS3QyfUx4TsdO4mK7789X79ci1n5UnryH0z+T018i5By7NV+w1RBzHkZzRn/aVVN/ytlrRR3N7mpBRGSweGAbUrzYISI0WEF4ZqnirIJrBcW2kair98XAUwWWL3Ge5eOqEmS/QRBef2bcdUlttEDz6XC2+Sbefy0pbufJS5EKnku8vH+ASaAfA2YKbrjAyGxVi+XlmGr+xVYyrEFbTwXgZfH6QkfggAxGiEXCzALVKHbTdzWEsv08XqIxy9wOgyPhRqnvBjJvq7lwU=;xorO4NAgWGsk8Ffc2mYW7A=="
+secured: "FxnIqPkQadS1keZDa+FibIkkHc89W6MMjv8kHQpDU0xqKtwxbdylEZGTd+Po6tWd3qmHRTYuJ9ov8y/l7GG/YzIqQQQzDzXl8yd2SKhcBt+r1v2ymM+03qM0QFsQY+RY6/5MqxNMk4ft28qppC9sl8XSeX5Aexs0QIKn/nhtf2Y+ZVrubKDWMqiR/IFMk3RyVrXDetRc+SbqUsiHayycBTPespFSzDcAXtLJOjtjdDcd+Cd7GQhV0s20XQ+8Ry5Oay+mIhkS49R6wPo5OTHrKn3kNR1k2rhAbFuoYuGFL+1mn1RhzOQLV4VtR9f2kJ+/4vd708P1maxh6GOt84zaFOjoOotpVxku/hQU+6019i5ceyC7fAK3LpgVkNtU5QhPIpLxA47hZa2zccpQSZwm1Da+pFbeyAAYMfwJWYDMEqzxDi2RHc6RlA7LtQxR8U+TVsxcYQEt2PUN6AjZySHTSgIUAleZOEBLJnOAP7H/vSeGe8PzHrrMwulQ9b8nT+1lNO5d3CAGEj+LsNtJM9KxSw==;h1Z8FmfV7/w985j4IQPwcA=="
 ---
 

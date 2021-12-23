@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-23-using-artificial-intelligence-to-identify-fractures-on-x-rays.md",
+      "title": "Using Artificial Intelligence to Identify Fractures on X-rays",
+      "excerpt": "According to a study by Boston University School of Medicine researchers, artificial intelligence can assist clinicians in detecting fractures on x-rays. “Our AI algorithm can quickly and automatically detect x-rays that are positive for fractures and flag those studies in the system so that radiologists can prioritize reading x-rays with positive fractures,",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays",
+      "originalUrl": "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/ThinkstockPhotos-507650587-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays",
+      "publishedDateTime": "2021-12-23T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-4-ways-artificial-intelligence-is-improving-mental-health-therapy.md",
       "title": "4 ways artificial intelligence is improving mental health therapy",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative",
@@ -65,49 +108,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-study-finds-artificial-intelligence-accurately-detects-fractures-on-x-rays.md",
-      "title": "Study finds artificial intelligence accurately detects fractures on X-rays",
-      "excerpt": "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for X-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read X-rays for a large number of patients.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/x-ray.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp",
-      "publishedDateTime": "2021-12-21T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -225,7 +225,7 @@
       "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

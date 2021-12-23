@@ -57,7 +57,23 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T16:20:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "+NyrzHp3/m31AGJ8ZiPY0lTJwSBeMlj2oiXTrPlFSO6AQ/o8i56rEMciewsTm4PN0QlvmC9Rp++EcWNdDkd2wODcC8mssadbKRs9nsf9L2ohfLBAnDIUe07+bTtKWd4jcRD5tYyMianLcZwJDUrfpcmAY9bnWL66oN229ZlYEfI2ms2CpCZL8pgqnPGk06DR6z8HZadxsO4IPTt/DfocCTvKOIYye4doeXbkz7dPsvkXgDWcgtK1HTo6OjdFDc8oxM4fZ2PcajVQbu/Uqh2A0dUUOVIyJ+cILBN7kQfLCZDMuRXGEEa6hRWwaywx64FUyoGcKXwoRVtcm2IpWMaMt+jR9TS9cYyzAoMzz1MkS/g=;uLHSaiukgLYWU0Zz7PV36Q=="
+secured: "ouQeUu1MO50vnaMtMHhuvSDAW2AtTwLVW8e/sZ/HXVgBg7WE2cjhCMad4BGzXEn1kcQWtaavGSGH+A0cTug0U+KTImutVDJJ2VF6RETruWOP03CDaTVDn7FlC8/x0k/y8C7WAE55h46HrTHpXHcOLngaG8djz6h1yaQcgsBZHQvSdqBJhxTviY2KoVKhU5UQUGSi1VGiAzftaYo9EpxZj27mGwzSCNc/LxHQizu/tHG/oKFB4Vtq0f4iL+RED7GKKB/niMbMyCfmkNBmInJFxXBsBp5aVE8Zv8GLL+qcjDVUk8EnP3TWGkckeCIZ3tbtY0PVoN2tcH7TqbYRfJjJovtdVH7XJKZ34E7nywzqbh3stOUcJaBpRgCPh9JfpoAH7ADgZckuzm8MQbY6XeFAsrV5ZZi5C83pRHE/4jx6BOSsUInTnjtmxc4h3NPVEGYUbAKeuumo/Ix31zAADYIMW2//SVdlPCEqV3gg3SQGBbLdlAkWUmdSEr10Aukf25ytRYuRawCB22zkPEM8giywFA==;q/pXERCz3lz+HWgxyMRt1Q=="
 ---
 

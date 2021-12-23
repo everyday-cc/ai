@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-coul
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/6876/74979d30-5668-40d3-83d9-a0dc31d9fcc2-y2b4SL.jpg?w=800&fm=jpg&auto=compress&frame=0"
         width: 800
         height: 450
+        isCached: true
+  - title: "How Digital Twins, Blockchain and IIoT are leading the innovation of the wind power industry of the future"
+    excerpt: "The connected assets and the Digital Twin ecosystems are taking part in the current digital transformation of the industry empowered by IIoT technologies and Blockchain. In my last article, I explained “How Digital Twins will transform and digitize the wind power industry”,"
+    publishedDateTime: 2021-12-23T15:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-digital-twins-blockchain-iiot-leading-innovation-mba-llm-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 21
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFu9Zp1ZJc9dg/article-cover_image-shrink_720_1280/0/1640264667501?e=1645660800&v=beta&t=t6fVxEKMvbl8N_jyDtpKm8xnoXYnXdhjJ154t9opRq0"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "lUOd4yrQNSXJumx8eyFt9TPahSZAFrgx4bb749tJWH2eRmOHPITa0S+33JMzgdhwP5CTA85IrFZuIYXCyg7Rc8rMzL/LbTip63AjdNRNRLpbsL/Q7uHYNBZSZyE86N4aBzL0s81k/yjd/g7N+uZdV4xSML49QFidoYJ5sHD2qaw/AU9yUFydLVvDoK1V65LT1F2Te2vXP9NRw/W5UFlZuKOG73yPI4ZirVD9X/tHRD4Sz85gNKZHzx5XogHtmcXepsn8NKBDnwxmVjrxRnDA+Afs+WW8pGAiJ7IcsNYnwX0yeNpIXDwazwys+nxHDlXuPdgIi/uZ29HOtbLBSOOuH0mk2cSQqAhwoJkRWVqDRRjMQOGJXZZKxrCqyELH0Kk+etowkfm3F8xxhbrIeNu1KZGWMucD38RXR1lCTqe53skKUAvRh4mO7kAAkkcXo6aSjPEIqe3QXqjcjfZignexh7rHamPWTqlLInOYD57HjomllOH+e15yiL5xNJik6HZLAP/uptx5PRVcq1QmjaKZ0w==;3NhyB4fO2RLhwdupeY2Rvw=="

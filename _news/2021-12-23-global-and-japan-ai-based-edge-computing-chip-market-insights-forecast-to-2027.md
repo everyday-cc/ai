@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Edge Device Market Comprehensive Coverage 2021-2027"
+    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Edge Device market by type, application, end use, and region: industry forecast and market potential analysis,"
+    publishedDateTime: 2021-12-22T13:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/global-artificial-intelligence-edge-device-market-tejas-baraskar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 31
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFoKFePlZuDzw/article-cover_image-shrink_720_1280/0/1640179480385?e=1645660800&v=beta&t=RwybDKlmLTtoDy_5PSigyW1YYkuxwOBOgcy6vtR5hRo"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Global Artificial Intelligence Software Market 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2027"
     excerpt: "MRInsights.biz has offered a new research study on Global Artificial Intelligence Software Market Growth (Status and Outlook) 2021-2027 that serves in-depth information on product types, applications."
     publishedDateTime: 2021-12-23T02:22:00Z

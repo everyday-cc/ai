@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-13-skorea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases.md",
+      "title": "S.Korea to test AI-powered facial recognition to track COVID-19 cases",
+      "excerpt": "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die.md",
+      "title": "Next-gen GPU’s from AMD to contain a stacked accelerator die",
+      "excerpt": "If it can assist enhance performance, it's an intriguing technology that we'd like to see included in our gaming GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
+      "originalUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cgc8hK4UL6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/12/next-gen-gpus-from-amd-to-contain-a-stacked-accelerator-die/?amp",
+      "publishedDateTime": "2021-12-12T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
       "title": "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling",
       "excerpt": "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process.",
@@ -1091,101 +1186,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-2022-transformations-promise-better-builders-automation-robotics.md",
-      "title": "2022 transformations promise better builders, automation, robotics",
-      "excerpt": "From better automation to robotics, the next year is filled with promise. Here are some of the top predicted transformations in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/12/artificial-intelligence.jpg?w=1200&strip=all",
-          "width": 949,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "publishedDateTime": "2021-12-10T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-evolution-gym-sculpts-novel-robot-bodies-and-brains.md",
-      "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
-      "excerpt": "But they usually design an animal-like robot body first and then train an AI to control it. In living creatures, though, the body and brain evolve together to tackle complex tasks. So some researchers are borrowing a page from nature’s playbook to design intelligent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
-      "originalUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/0197E040-CFB2-4AE4-99DF0AE00817D3CA.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
-      "publishedDateTime": "2021-12-10T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

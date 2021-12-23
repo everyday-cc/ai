@@ -34,6 +34,15 @@ related:
         width: 750
         height: 435
         isCached: true
+  - title: "Fintech Developments: How AI and ML Will Impact Finance Next Year"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T11:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-will-impact-finance-next-year"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
   - title: "Can AI Be Used to Predict Who Will Develop Dementia?"
     excerpt: "What if there was a way to predict who would have dementia? Would it be a difference-maker? Well, researchers from the University of Exeter found that artificial intelligence can accurately tell who will go on to develop dementia."
     publishedDateTime: 2021-12-20T18:17:00Z

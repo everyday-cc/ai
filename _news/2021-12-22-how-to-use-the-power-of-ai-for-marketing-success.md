@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+    publishedDateTime: 2021-12-23T16:18:00Z
+    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 56
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."

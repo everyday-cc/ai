@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-sin
 webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 665
     isCached: true
+
+related:
+  - title: "How Companies Will Eliminate Privacy Concerns With On-Premise Conversational AI"
+    excerpt: "One of the biggest blind spots most of us have is surrounding the privacy of our data with voice assistants like Siri or Alexa. Technologies like speech-to-text software and conversational artificial intelligence (AI) are steadily increasing in popularity,"
+    publishedDateTime: 2021-12-23T15:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/privacy-on-premise-conversational/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 13
 
 secured: "Cqmo9wNGvxDfu4chRu2RzUq8RtdCE2mWEj2L9YB4HHvjzRap+unUB+V5H0hvbiARUli/kM2YxtG959KPrSEgktM3rULM4qULK1Soq/UOmWqn6FjgcSpb0ruexRyWtKs/DA6P7Tkqqjon5KClcoZr4kUGqZkVGdgfmcQSybYUD4wtM2nQaDFj1Hg1kCet+CSBE90gbEYjnnf0MPEs7wn9Fpba6yu2R4OfcpS9lpGMnzN2M5NcUuSVktyOUNFDexXBkHo4kCYhokHPeyWxes65HImMKORJrJfV1AHW6mqLOqNlAbXBmqDaafQ/0LXGdsGI6lV16EGhE/Mx7tdkQ/BLX/7sEkgc5rdY//UJ3j6U3fgCD2Kll2E18Y/EOXN72hdfU2fpKG2IQidoWgLXDsPZk0Cyh2k7mDiPxiths9E1m3bvG9UZyUv7kGuC8N5JqXILthEHntcU80AwflP6aYXVAGfklAj11qfbHI8+vWTfO3vItElNgSaxBC4lbjMTi2UitTgP95lFftebRohJj6OBoQ==;syMR3XceX36PGzK8KabqVg=="
 ---

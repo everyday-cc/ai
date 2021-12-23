@@ -45,18 +45,13 @@ related:
         isCached: true
   - title: "Fintech startup Khatabook to double employee base in 2022"
     excerpt: "Leading fintech startup Khatabook on Thursday announced that it is planning to double its employee base in the upcoming year. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,"
-    publishedDateTime: 2021-12-23T09:21:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=907465"
+    publishedDateTime: 2021-12-23T15:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211223/3879383.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_221221_Village1.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "lc7qcJsE8JABRwU+I5t80rOqPbAY4VHvrMRcxESGCiro2bbfBaZxMJCDRsBlSQiphSUSaexcn2GaNdz+Kw5MJmITH51Pdg0vmeu8fl8QPNCAY0cvLf5775Se0t3nCw/C4DSY11m9hhrMR/IvzpoXnQy0aepGwOpLFfo1zUABy9Gkoo5IrP0bwgHr8tHRpGSdvKPLAhasmTtLI9GeGqcqHE2sAA4JQDFRNRrdcWtSLPnNm70VKtvSVKBx9yHi3pU2kl/w4k2x6iFquICaY7m9uYM3MwpAqLQxJIYGV3c7qEVUBmKfEEyvEcecsgwd7NxBODTr3QqUwBEZLFiYUaGRzB8FRSSO+GWl60MgA23sXOVCSIU3fcPbHVdmmaTxPfjl9D7iR9dZ8GIgyyQO7zDCxhe1GYhvXpMtkcQZLBxYDVh5KyayKxO6pNYQSkQSe3B+rzs+avJcFIDJ3QdqQTe5prabPFo9n591DiQtW8hS748dHxDhcfpZoREslPYFh+fDG1tcNpSm464DH3mwCOMtoA==;0BdW22eyanHilwgqX9QJdw=="
 ---

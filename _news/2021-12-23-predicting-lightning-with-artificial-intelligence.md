@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Five Predictions For AI In 2022"
+    excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
+    publishedDateTime: 2021-12-23T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c48a7b566f48451cdf6072%2F0x0.jpg"
+        width: 501
+        height: 344
+        isCached: true
   - title: "20/20 computer vision for artificial intelligence"
     excerpt: "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen."
     publishedDateTime: 2021-12-19T10:00:00Z
@@ -167,6 +183,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "R0ycp25voksBYBuUX8ba/qze4fbpB+1MnWU7mw7voghZU9mbNzWeUt5VzrUiAyhkNeOOr4XBme1r3Q1j0uqTBn+fg6NgHDI22e82pwR56Ze5PQ93zHtPa1x1oX/dj6YmeGb1xdk2XtCsBiegsbRhvZXTzfd77K7CN3kESlGZQzlhjEwOAsLneq+adbQF7Wx1iSzC/tnynpAhI4WhC93xsdVKsGLDb53MGklHa1dGYN7MtMuRrpufPq9vu2lbCinZ8KEbxkiWAAjExSe9rSOXkRHXFZlLxerFTdBhKeySYdBJDXE+n0mPh+9co+mg5UsPLA/FZ6dtDmWUeJIminLeLeHydE2ieJuhs7S7tmW1790=;FxaI1fOaUqaYutZ+0tSnmw=="
+secured: "n0JwkrP4A7BGGjEhU9lxxlaOvlDeUF7hqmDoD6jp3WR4YR3tjetXbiKw1H/etXeBM4xUtcxs/m8yndT7S0eR2SUOJUkrujnMv5yYf/qg3EKBcJvFGG9qssFuVM/9a76rx/YVchUJcuHlHTIEYH0i0IKDAnnLiVDgu1xEivw5+vJXCn4C3lpritQ86FvFbGaA/llJphBgPilQFscjmGE2c3OPj3yqFJKRj3dk6rUKvL7XtuAfrIHL4gDegfi37oXfLFOlPQW4KsyMhilOtdGsnL+tfwTD8hAuD5kWKnLxejLZsPU/C1aN7+2Px6R6mUjlvuocTy1sm87rAgGxzoo2pOl+cjZg9K/4d5zPDmmV2FuvVZMS85208zyi8MH9QYH9yUK9TaQZfBvhSsFOpZjc78wEmDqmDxBOOqNgvsYxszAggxvMmKxVhbh2pcGh/7CYLVZQuxLldHwnkqWpWJNjrb8WdscL9G860qsH3BBbu9sn+qlybQt7lRCef9nZqDjcN/4uagmnLverLNtlOe/IWQ==;nbmhsV2mdcTcZh01AqDkAA=="
 ---
 

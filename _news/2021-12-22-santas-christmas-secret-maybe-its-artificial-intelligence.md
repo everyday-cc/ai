@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_612fc5f2c40e4f09a913cf25f2e24774_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T16:20:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Pope Francis urges humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."

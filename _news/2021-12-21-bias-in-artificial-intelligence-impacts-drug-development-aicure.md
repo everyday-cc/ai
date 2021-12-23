@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-arti
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,15 @@ related:
     excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
     publishedDateTime: 2021-12-21T15:08:00Z
     webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
+  - title: "Fintech Developments: How AI and ML Will Impact Finance Next Year"
+    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
+    publishedDateTime: 2021-12-21T11:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-will-impact-finance-next-year"
     type: article
     provider:
       name: Finextra

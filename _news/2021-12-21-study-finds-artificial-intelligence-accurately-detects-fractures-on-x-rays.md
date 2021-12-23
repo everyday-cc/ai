@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-artificial-intelligence-accur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-fractures-x-rays.amp"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -37,7 +37,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-507650587-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480

@@ -2,27 +2,21 @@
 category: news
 title: "Fintech startup Khatabook to double employee base in 2022"
 excerpt: "Leading fintech startup Khatabook on Thursday announced that it is planning to double its employee base in the upcoming year. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,"
-publishedDateTime: 2021-12-23T09:21:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=907465"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=907465"
+publishedDateTime: 2021-12-23T15:25:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211223/3879383.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211223/3879383.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_221221_Village1.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Fintech startup Khatabook aims to double employee base in 2022"
@@ -58,6 +52,6 @@ related:
         height: 900
         isCached: true
 
-secured: "nrI9CQpCtYVOdiujrCY/b11XQ1xmyx8xKo9D2hjzvdx9h9g45T1FSmH3Wzu6wvWt50wSykR0KaS+y2d53nR4gSG6W/hjr7FY4AkjAY10bXxJukaPKfdBmQAE01oWuMGlgOzyAvarYxhQbgg2+gbffD8D2esGLgOCwwbsfCztqompV97mnMk6CRECbIrL8YL6CHud5VuvwlkRXaGOWrwknePYRsiYPZbZ5PriBRfPqWI+f6Se/QG6/2mMlq0jnxyFUFDVqvGZ3RlIas4whD96VoAo6WOiQ4Ztz3bvql7LdEekq0LKLPHZ2pOMmyrC17JbAfEKB9qVeVsDXIA2c9u/PjVpZqdKDZlwIBvm10twFr0=;fkxn51XMIoqtR36kok7y4Q=="
+secured: "9LihhsSKgXy7qbFgUZl5gqIjRCbiUq0gE0ycneTPRWdqo0HAxQe1aQ7Hj2OhHaSTLX+q3SXuaw8FI7SsTH6NH5bkSUhDEXXBuIg3SSxLN6HSJaizLVr/70XKk652QWCP2OrL+rFv8qzpgK9EBknvWIt40qF63meYT0Z7Lk1hucI4Wt4DwypO5ggCkf2FcEYx4POkixdseJUsz3EgUXloBa1yKGd/J2A0o8nTc/jHbPJ2thgVjJAetpZ0HyAXwC1PazyjjdfJ3xCk3UxvdUZFUJQbZejMjxL9l9M7A/s1VazHf3zCodPNNJxGcAutgf6e/0QhqMbbv+zzgxPHZiuDlNzjUqzEtRifi0N7S1yK3Wo=;Si2PiwLGXv0rtzZ/ichUOQ=="
 ---
 

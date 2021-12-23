@@ -124,6 +124,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
+    excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."
+    publishedDateTime: 2021-12-23T16:20:00Z
+    webUrl: "https://www.alteryx.com/ja/customer-center/eys-global-platform-delivers-value-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Alteryx
+      domain: alteryx.com
+    quality: 37
+    images:
+      - url: "https://cdn.alteryx.com/-/jssmedia/project/jssapp/alteryx/demo/demo-images/media_roi_calculator.png?h=984&iar=0&w=864&rev=19873a10188b484086e1e6517c68dd63&hash=391BE7610BBC089A60D490D0D6F0C9BD"
+        width: 864
+        height: 984
+        isCached: true
   - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
     excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
     publishedDateTime: 2021-12-20T14:10:00Z
