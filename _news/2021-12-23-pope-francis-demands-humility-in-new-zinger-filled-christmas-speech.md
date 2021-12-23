@@ -29,17 +29,17 @@ images:
 related:
   - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
     excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-23T13:49:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.9news.com/amp/article/life/faith/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/life/faith/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    publishedDateTime: 2021-12-23T12:07:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
     type: article
     provider:
-      name: 9NEWS
-      domain: 9news.com
+      name: KHOU 11
+      domain: khou.com
     quality: 43
     images:
-      - url: "https://media.9news.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -58,18 +58,18 @@ related:
         height: 400
         isCached: true
   - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
-    publishedDateTime: 2021-12-23T15:28:00Z
-    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T14:11:00Z
+    webUrl: "https://www.vindy.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
     type: article
     provider:
-      name: Tribune Chronicle
-      domain: tribtoday.com
+      name: The Vindicator
+      domain: vindy.com
     quality: 22
     images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
-        width: 750
-        height: 500
+      - url: "https://ogden_images.s3.amazonaws.com/www.vindy.com/images/2021/12/23090842/AP21356394634290.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "5IAQqWjj5l/2pzBsJRqCZvbjUqD2PmrlD7zMbc2rB/w1jURJi6hse/T2Bk7WLGmJYpgaDQSt/fBreSBWPbuEfeJe0wgFbYCSV+OfPhE6KiZ0as1TPMDjjT27PeqXfD5gEbZDVWZOegE36TNUGW2bUAjTL+ymM5ci6MSvKHKSDwoBpZdE/bbqvWAqx+/bHYg4KRppHgQwyPXe5igQHFIUF0UqIpaghy/5Xo/MJlli7SOVn2b6+KA7YYYcHn9GVJCiCV55zcmAYuvQfTh7Rh2vEt+menOtLkEfSGsNz6qbdzCjkD/0bl9NoOKrxdnrpuq9ShO+kKa5hkh1gh/O7F2Xy4Fkfhc7yef51gs0ZqELUAvlgx+mXqnXF2mRzxl6YvYyy6XCiy0Tsq+oQdBEbxextFA180P/v6FuCkq1veQxufqDvuW0gWpHxXuqDtTk8NwbIDxTlbqJoS3/j7mKB4ODUJxe9og89PVyjMUrBXiXeJz4cjrRrfwJ5N8LSWqr7e0ScfyYEUpO5yZw4DAi2oJVeg==;CHnSbesNPxnjUF7OmPHfqw=="

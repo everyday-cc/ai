@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-d
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI helps with drug discovery"
+    excerpt: "Drug-target interaction is a prominent research area in drug discovery, which refers to the recognition of interactions between chemical compounds and the protein targets. Chemists estimate that 1060 compounds with drug-like properties could be made—that's more than the total number of atoms in the Solar System,"
+    publishedDateTime: 2021-12-23T17:56:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-drug-discovery.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-ai-drug-discovery.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-drug-discovery.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-helps-with-drug-dis.jpg"
+        width: 464
+        height: 421
+        isCached: true
   - title: "Malvern artificial intelligence-powered drug discovery firm raises $3.3M"
     excerpt: "A Malvern-based, AI-powered drug-discovery company has completed a multimillion-dollar seed round to advance its work."
     publishedDateTime: 2021-12-20T16:39:00Z

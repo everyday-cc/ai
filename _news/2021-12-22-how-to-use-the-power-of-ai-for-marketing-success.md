@@ -63,12 +63,12 @@ related:
         isCached: true
   - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
     excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-    publishedDateTime: 2021-12-23T16:18:00Z
-    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+    publishedDateTime: 2021-12-23T17:50:00Z
+    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 56
     images:
       - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
