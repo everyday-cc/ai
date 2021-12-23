@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Transform your digital strategy with artificial intelligence"
-    excerpt: "Artificial intelligence (AI) refers to the capability of machines to perform tasks that would otherwise need human intelligence. This technology has taken the world by storm, with companies like Google,"
-    publishedDateTime: 2021-12-18T20:37:00Z
-    webUrl: "https://www.linkedin.com/pulse/transform-your-digital-strategy-artificial-humayun-lodhi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGMPT5AvRVAPw/article-cover_image-shrink_720_1280/0/1639859498515?e=1645660800&v=beta&t=bUkjpvsGjgZsZaezZe5ORUrY9OPDXXpem7XkUPk9b38"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
     publishedDateTime: 2021-12-21T14:02:00Z

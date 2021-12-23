@@ -39,6 +39,20 @@ related:
         width: 640
         height: 439
         isCached: true
+  - title: "Review: Build a ML Model with Amazon SageMaker Canvas"
+    excerpt: "In this post, we will do a hands-on evaluation of Amazon SageMaker Canvas. Follow along to train a logistic regression model."
+    publishedDateTime: 2021-12-23T10:00:00Z
+    webUrl: "https://thenewstack.io/review-build-a-ml-model-with-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/12/cc9450ac-sagemaker-canvas.png"
+        width: 600
+        height: 367
+        isCached: true
 
 secured: "+6nTRdkLOUe6wQApGN60y9qVYvSSV9Oomn9UjI+ercmvFeV3h3wcdfWZZ9byEYGSb5MuTms3vDupksE/TnyQTScQFURHBABPtteefKxNFnoExhorPCgBfltep6E9X5qtYREA98xAHLdq/kLDEhG055VLYTu7Sh8DwDU7TJYi/SrL/XOkrOW7DYLF1BL+G/5o/6pd3wJ5MWKFM94PkENqvAhh7fR8Vt0ZwRi2tzwfYe3yN+BE9RpIzX548gbJqmW67FA5kDBbRYDofSXm+yOXflCf82bBmexU2R5AwyxPZQ1FFYYz+yYx4kLFPiA26VCGY/Sefc4P5ktJDb4HO4ozOiIJnBYaJDzifDDyL3/xDUbDIVsbETZzKWpdTtYlhcIEnerFy3EKmsz86GrxuAeAHml4z5lKzUznB9s7vr+dlG5yDH84pAZFd3YHXIzYKFeCqK2OmxUr504LuuXD8y5+j5gGNAjzIWFb2I28SOqu14u9DG4PSX9tWhsEmtBjKweI2gdNBPznlFWMCtzu8KWu4w==;NV6zpGrUs5jP8ZSV1lpSpg=="
 ---

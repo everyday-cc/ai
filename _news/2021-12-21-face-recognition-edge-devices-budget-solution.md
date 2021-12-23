@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-21T09:36:00Z
 originalUrl: "https://www.linkedin.com/pulse/face-recognition-edge-devices-budget-solution-dr-sadi-vural"
 webUrl: "https://www.linkedin.com/pulse/face-recognition-edge-devices-budget-solution-dr-sadi-vural"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQGE7mXWWOJ6SA/article-cover_image-shrink_720_1280/0/1640079289626?e=1645660800&v=beta&t=-Ing29FDAE_0zPCrqReHS4cdeJBX7iVs7tIaISkTMn4"

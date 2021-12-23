@@ -45,18 +45,18 @@ related:
         height: 768
         isCached: true
   - title: "Ethics at the heart of emerging AI strategies"
-    excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology.  While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
-    publishedDateTime: 2021-12-22T11:59:00Z
-    webUrl: "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies"
+    excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
+    publishedDateTime: 2021-12-21T21:55:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Bitpipe
+      domain: bitpipe.com
     quality: 54
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/Cover_Ethic_at_the_heart_of_emerging_AI_strategies.png"
-        width: 883
-        height: 590
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1640094049_708_lg.jpg"
+        width: 315
+        height: 210
         isCached: true
   - title: "We might be able to make AI ethical, but maybe we shouldn’t"
     excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."

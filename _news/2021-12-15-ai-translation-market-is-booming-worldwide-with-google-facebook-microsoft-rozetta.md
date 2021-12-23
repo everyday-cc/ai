@@ -22,6 +22,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHGBX4Gnf4l6Q/article-cover_image-shrink_720_1280/0/1639665340052?e=1645056000&v=beta&t=Raxw67584gVwQK659gZrQNW17hs5_hDxD-mO6TCoHOk"

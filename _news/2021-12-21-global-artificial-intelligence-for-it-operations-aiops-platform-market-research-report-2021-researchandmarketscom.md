@@ -105,6 +105,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 30
+  - title: "Global Artificial Intelligence Software Market 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2027"
+    excerpt: "MRInsights.biz has offered a new research study on Global Artificial Intelligence Software Market Growth (Status and Outlook) 2021-2027 that serves in-depth information on product types, applications."
+    publishedDateTime: 2021-12-23T02:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2021-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2027-2021-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
     excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
     publishedDateTime: 2021-12-19T20:47:00Z

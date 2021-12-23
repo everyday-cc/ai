@@ -1,53 +1,40 @@
 ---
 category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-publishedDateTime: 2021-12-20T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
+publishedDateTime: 2021-12-20T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "How does AI impact self-driving cars?"
-    excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
-    publishedDateTime: 2021-12-23T00:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
-        width: 958
-        height: 720
-        isCached: true
-  - title: "Self-driving cars could be legal by spring 2022"
-    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
-    publishedDateTime: 2021-12-22T14:00:00Z
-    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
-    type: article
-    provider:
-      name: What Car?
-      domain: whatcar.com
-    quality: 24
-    images:
-      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
-        width: 755
-        height: 503
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "OakjgzCdhrRoVWmaRqmD9ytJTfULCyK39AACnMHaRAQvahjjtcRL7+tA71gnfxQ9y1O0WueIHSWT+9jiyOP8S5xE8ufp4SKPPgz2yL8MMP8H+9ONgDh4gDli5koH4e8Y4Nvs0P0Ga0689VTbZgvCLf+sgRHODJ6po8IrTUsv26nitwGK+Q+AR0toWOtJPr6XLw0Nc3IM002IG9L8XyaZYA4YW6neg6C5zVFUVupYi5znHsPiBQbohkt+qm6vQYB/qJAgWaIMFilD7rMUA/Ytg3ASiumUaS53mhDdBmQ9eVWrYCWmD8EhfqtlRojUoVhNk1z/ZS8CQSzEMy5VT0+zkXf1fYbsVmmXyJOPpzu0Fb4=;vagQ3bIAa47nEV88eEOiqg=="
+related:
+  - title: "Autonomous car tech from FAU can mimic driving styles of passengers"
+    excerpt: "FAU reports the technology can be applied to a range of autonomous systems, including self-driving cars, military vehicles and public transportation systems."
+    publishedDateTime: 2021-12-20T17:34:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2021/12/20/cryptocurrency-mining-data-center-is-now-in-miami.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
+secured: "A/GgyP6Vsh7HQ4YP4Cxoy1yMGpm+saGa9AyFbkOqZJkL6g80+bzddhDLntNHsKBKQoLIA6STn8qQAWq0WkPpvw1+f6OxuRGB3vg+NWZ4xRKTo1aJ5XHSlhT/Sako0iHsaM9ixpKhiIk7oPNQBGkv/IzZxFfRtossja8rnk7FeGAewBmTFXHHpTIXIPNB+WIqaD2McfBJVuREje3CM06aLWB043QQ3ekqtajc1x6ZJTQeX7aqqtKj7o9KSTPbZNHJYehYbF6cWh1MrFxmb6SMFd+BipnT2TPcI7iRn8PIMhi3YLw3JIFbPcwRvjlP+R1UrH3yJCNJRrEHho3dPoF0xZzqpXFjqBcIdqHuKNchZBM=;6sFNXyng1ZWKF7eokVxgYA=="
 ---
 

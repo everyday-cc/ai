@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ethics at the heart of emerging AI strategies"
-excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology.  While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
-publishedDateTime: 2021-12-22T11:59:00Z
-originalUrl: "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies"
-webUrl: "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies"
+excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
+publishedDateTime: 2021-12-21T21:55:00Z
+originalUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
+webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Computer Weekly
-  domain: computerweekly.com
+  name: Bitpipe
+  domain: bitpipe.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.ttgtmedia.com/rms/computerweekly/Cover_Ethic_at_the_heart_of_emerging_AI_strategies.png"
-    width: 883
-    height: 590
+  - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1640094049_708_lg.jpg"
+    width: 315
+    height: 210
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "BeFYQC9/O+KEgN3Xzf2g3ug38QRUzZtdGI2O9RG6KhC2yR4R8UkpSwBv67vLu326eBJL2D7l9DHajh8QRp1wggq5LVJyctu3hcjryx7Ssy7TCzRId/aKK3kD8OfQliUcA50RvsxLS2ttDPXbTLeEGc5xuq9JojB6ybOjwBD7HxeAkHilO9bh5B4U8fqBZS/dgwziD+BTI7dMELF6fPZzHqsRd4pAkC28oBw0c5m+vm69TRkurvh5TWpRy03TR8Q4hT8KbPhaT7KiZd+kBnJpY+ROqMqyYBZc7SLn8wAazYT3Aa/Kp74GRHVOg+iTZZ/Vqa0A+8zmnDJIB9X3XZzVeF6fNZgL93Pk9/UMLODCAhitQU0uDd9v+pzsNxsoATNBdk5QkJq1bsEuqtIKDCIxXFJ12BN2E5dHYar2k4ZeLauL/ZqrHvzaW4IcvOWbKDJkA72/RHJGb1sHer+bVMGBYGMKDTEM49D4RMyt2CoyuBL8TfL4kqiiQ4YQNqwLct69VE+GjdxDE5t4oeX62Zo+qw==;jj2gYGcaAk4XMRtkJOZHrA=="
+secured: "Fi3KeAZcFnxrnjRy2PrN6iwCUoYH9wqJ/yLdXj2sjW1naB5fvKbje0ps5Co319NvameRwwQwFonZORmT9AryBRLNQKtPsiCoTyGIG0vP3847Hht9L1/Oz7aTTz9urX1u5tllpStXfYRskah6ucm2eXmKP58wFjEN+QbashzhY+hmO9R+ZWhjBy3PguXmzu984p1CWlootUi+VzOYm1Kv+rxP0qnDUhNMzYH/pdDi88bODI0k+ad9mUW5oo7Kg1FNRkM5kKlSMx/w+x7VKi0vXSZDB4ybFeWljra1QKvmvt18mCbuuWq+MD/zA8lqxlRCJ/a8Uz6jIRX9XvWGx7DtTdLGKEx1sR3QmUPhWS+KgV0=;t1Uuk31EupwGzR/j0WX+nA=="
 ---
 

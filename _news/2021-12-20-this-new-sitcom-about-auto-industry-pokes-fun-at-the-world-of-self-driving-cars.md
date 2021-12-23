@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,61 @@ images:
     isCached: true
 
 related:
+  - title: "The last major obstacle to cracking the code on self-driving cars"
+    excerpt: "The Intel-backed startup wants to use its position as the world's biggest seller of driver assistance systems to map every road on earth and develop a safer, more reliable self-driving car."
+    publishedDateTime: 2021-12-23T12:00:00Z
+    webUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/"
+    ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/12/2021-07-20T192606Z_1895303704_RC2IOO9L1187_RTRMADP_3_MOBILEYE-AUTONOMOUS-e1639523528196.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The $7 TRILLION Self-Driving Revolution Is Here"
+    excerpt: "Domino’s is already autonomously delivering pizzas using mini self-driving cars in Houston. 7-Eleven has launched its own autonomous delivery service in California. Kroger is using self-driving cars to autonomously deliver groceries in Phoenix and Houston."
+    publishedDateTime: 2021-12-21T14:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "How does AI impact self-driving cars?"
+    excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
+    publishedDateTime: 2021-12-23T00:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
+        width: 958
+        height: 720
+        isCached: true
+  - title: "Self-driving cars could be legal by spring 2022"
+    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
+    publishedDateTime: 2021-12-22T14:00:00Z
+    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
+    type: article
+    provider:
+      name: What Car?
+      domain: whatcar.com
+    quality: 24
+    images:
+      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
+        width: 755
+        height: 503
+        isCached: true
   - title: "Japan to create legal framework for level 4 self-driving cars"
     excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
     publishedDateTime: 2021-12-23T03:12:00Z
@@ -40,22 +95,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F6%252F8%252F38058683-6-eng-GB%252FCropped-1640229034photo_SXM2021102900005043.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Apple’s self-drive car could have external warning sign to tell other drivers when computer is in control, patent shows"
-    excerpt: "PATENTS for Apple’s first self-driving car seem to reveal features that the vehicle may offer, including an external display that would tell other drivers and pedestrians when the car is"
-    publishedDateTime: 2021-12-19T21:51:00Z
-    webUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/"
-    ampWebUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 20
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/LM_AppleCar_Offplat.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "egD98xBJvjAdZ+AZljfbSre9ckL2zPMaJWb76w8Fds8aTY3vxBgb/s0DeDOkrQeat6ZtqcjhNItoDVaBEzrWVURYUIdSRDOJRlD4RG3IokudCzcmohMFMadtqg7X0NG1JE0CalHnFDJwsOKR3bOMi4P1SOprZCsjr7MHPbdJ4vRlTGIXTGa4szpeejiCe47dqQZzlh001I6jE9+ZXT5a64n+6tzNXuPp4lUYgqhnALT2UL35i0AAUCcUu5k7hj8OA93P61pTFTj7ik6r96AP6R5h4MY8tENmHZ2Xz/OcSvrLpUN0414y9642N6AoXDHyUTchUb4Fd72yl8x3XCVmWOY2W25wywLRRjtj2UKELaFKh3DIJppvKm/e55KoluYMfHoDyAxXs5iyWtPNF7jgp3hPsbVieI2GOR6QbiiAKEW73kwWYGocoFox1VzSPc8krCG88DIVxrUUgRAa7ltNxZ8PYdw9UzL4A+EHfOtVQBizaxPpegG5pzVgKgFE/UWedjjNZw5nnMM0+X0hs14slQ==;RcxEX6QinneSJesulvNepA=="

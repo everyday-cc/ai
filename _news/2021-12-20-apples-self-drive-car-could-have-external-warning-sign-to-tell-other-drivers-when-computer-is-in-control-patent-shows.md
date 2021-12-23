@@ -9,7 +9,7 @@ ampWebUrl: "https://www.the-sun.com/tech/4304885/apple-self-driving-car-patents-
 cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4304885/apple-self-driving-car-patents-exterior-diplays/amp/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
-    excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
-    publishedDateTime: 2021-12-20T06:43:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars-41639977703436.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 40
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/12/20/600x338/American_Auto_1639981171450_1639981180872.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Japan to create legal framework for level 4 self-driving cars"
-    excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
-    publishedDateTime: 2021-12-23T03:12:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Japan-to-create-legal-framework-for-level-4-self-driving-cars"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F6%252F8%252F38058683-6-eng-GB%252FCropped-1640229034photo_SXM2021102900005043.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "lHcZ5vARotbyNDZdRcUEhuv6lcqVPHzuY4DHZJIGX1/4KmkKXWYgvdkvaraloUEz9CfMeW/1FT4UgRnBcsOROiNEy01nX62uHInMnArHQ9oDL7FKN4rMI0VoGw3/Qg3Eiop1PN61Z/DStD4Yroa18L9oXiw/U5oCof3MtkGFfJpzxuFafK7f1MRMvN15ZHacGwM53QRbXlL/0L6O9ZctK71yjY2NjRKsimKZagcCb7yc2okE2o1/t1ReiZ+WLZYRwQQnewsBUY4ISLNwTdo50qi8P3u0H7RKgZMt8hQENjAR3+ngQ7JRDIQ3R0hOKh2WVy/wemocZpE/I8vqxAmXMNwQl598H3zt2ZDC9vps9Ko=;LVTZkSi83s5z2K9qOXglqg=="
 ---

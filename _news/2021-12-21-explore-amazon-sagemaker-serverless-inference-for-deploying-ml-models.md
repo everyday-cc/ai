@@ -7,8 +7,8 @@ originalUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inferen
 webUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: thenewstack.io
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Review: Build a ML Model with Amazon SageMaker Canvas"
+    excerpt: "In this post, we will do a hands-on evaluation of Amazon SageMaker Canvas. Follow along to train a logistic regression model."
+    publishedDateTime: 2021-12-23T10:00:00Z
+    webUrl: "https://thenewstack.io/review-build-a-ml-model-with-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/12/cc9450ac-sagemaker-canvas.png"
+        width: 600
+        height: 367
+        isCached: true
   - title: "2024 target for i-City’s driverless bus service"
     excerpt: "Urban development i-City in Shah Alam is looking to start a fully autonomous bus service. The driverless bus service is expected to start in 2024 once the LRT3 project is completed and operational. The automated shuttle is to enhance i-City’s smart city status as a transit-oriented development and provide greater connectivity to the various public transportation points."
     publishedDateTime: 2021-12-22T23:50:00Z

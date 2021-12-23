@@ -39,6 +39,22 @@ related:
         width: 825
         height: 409
         isCached: true
+  - title: "The Robot Revolution: How To Talk To Employees About The Benefits Of RPA"
+    excerpt: "Advertisement Just a few years back, it was all doom and gloom for humans. AI doomsayers cast a picture of a jobless future, in which humans could be replaced by machines in every facet of their working lives."
+    publishedDateTime: 2021-12-23T11:32:00Z
+    webUrl: "https://wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/"
+    ampWebUrl: "https://wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 58
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/robot-with-realistic-expressions.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gE57iz1WboJD1HAxeyrCjcC6g3qaEAtXXFTwcE+n3zz/D/45XevxvxcooZ53hFAgN2hHcQnaO5OyU8SOCBjnx39cTbov5FdayMnDbL++wRzBUmikxp+yTTkjjgr63GXbKHxAU8cIB88L0IaPs8A3s2ymjgCHklMwP93Pl/1C/yF05Ai5tvEnvtXrq7rjB36vB+hWwltI5JKoIOcM9dfsaljYPsPTbk5X2pRk5skxkPCbkq3+lKkQNws25aTdrqZZgAHa2ZEFzQYJ/8IFWCWCyySgu12Z+ufboO9jgJ+wkwUo/IPwhTxIyCc4ERhgnlrkLBsH5LyS2T5MdJUGfu35JXG1Z/4u91vH2SqVaRGjmz4=;nJzBgLd5j8GrFjsD2avtig=="
 ---

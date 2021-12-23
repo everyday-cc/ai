@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-nickel-oxide-material-animals-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-nickel-oxide-material-animals-ai.amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "This material ‘learns’ like animals, and could help further AI research"
+    excerpt: "Nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals."
+    publishedDateTime: 2021-12-23T10:58:00Z
+    webUrl: "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-9-1.jpg&signature=c0f5f57ae9c7b56ea3a15f5ec59cc554"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nickel oxide is a material that can ‘learn’ like animals and could help further artificial intelligence research"
     excerpt: "The ability to store information is central to learning and the field of artificial intelligence. Researchers have shown how a unique material shows basic learning properties similar to that of slugs."
     publishedDateTime: 2021-12-21T14:55:00Z
