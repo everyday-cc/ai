@@ -25,34 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Explore Amazon SageMaker Serverless Inference for Deploying ML Models"
-    excerpt: "Invent 2021 user conference earlier this month, ‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure."
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models/"
+  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
+    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
+    publishedDateTime: 2021-12-19T18:11:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/5337b514-sage-g821224b89_640.jpg"
-        width: 640
-        height: 439
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Review: Build a ML Model with Amazon SageMaker Canvas"
-    excerpt: "In this post, we will do a hands-on evaluation of Amazon SageMaker Canvas. Follow along to train a logistic regression model."
-    publishedDateTime: 2021-12-23T10:00:00Z
-    webUrl: "https://thenewstack.io/review-build-a-ml-model-with-amazon-sagemaker-canvas/"
+  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
+    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
+    publishedDateTime: 2021-12-20T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/cc9450ac-sagemaker-canvas.png"
-        width: 600
-        height: 367
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
 
 secured: "+6nTRdkLOUe6wQApGN60y9qVYvSSV9Oomn9UjI+ercmvFeV3h3wcdfWZZ9byEYGSb5MuTms3vDupksE/TnyQTScQFURHBABPtteefKxNFnoExhorPCgBfltep6E9X5qtYREA98xAHLdq/kLDEhG055VLYTu7Sh8DwDU7TJYi/SrL/XOkrOW7DYLF1BL+G/5o/6pd3wJ5MWKFM94PkENqvAhh7fR8Vt0ZwRi2tzwfYe3yN+BE9RpIzX548gbJqmW67FA5kDBbRYDofSXm+yOXflCf82bBmexU2R5AwyxPZQ1FFYYz+yYx4kLFPiA26VCGY/Sefc4P5ktJDb4HO4ozOiIJnBYaJDzifDDyL3/xDUbDIVsbETZzKWpdTtYlhcIEnerFy3EKmsz86GrxuAeAHml4z5lKzUznB9s7vr+dlG5yDH84pAZFd3YHXIzYKFeCqK2OmxUr504LuuXD8y5+j5gGNAjzIWFb2I28SOqu14u9DG4PSX9tWhsEmtBjKweI2gdNBPznlFWMCtzu8KWu4w==;NV6zpGrUs5jP8ZSV1lpSpg=="
 ---

@@ -21,7 +21,7 @@ related:
   - title: "Deepen's AI-Powered Auto-Labeling Technology Significantly Brings Down Labeling Effort"
     excerpt: "Deepen AI's proprietary auto-labeling technology helps enterprises automate labeling for up to 80 categories - increasing productivity by 7X while maintaining high"
     publishedDateTime: 2021-12-23T15:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
     type: article
     provider:
       name: WFMZ-TV

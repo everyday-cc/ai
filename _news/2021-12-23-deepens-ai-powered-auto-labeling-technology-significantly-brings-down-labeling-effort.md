@@ -3,8 +3,8 @@ category: news
 title: "Deepen's AI-Powered Auto-Labeling Technology Significantly Brings Down Labeling Effort"
 excerpt: "Deepen AI's proprietary auto-labeling technology helps enterprises automate labeling for up to 80 categories - increasing productivity by 7X while maintaining high"
 publishedDateTime: 2021-12-23T15:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepens-ai-powered-auto-labeling-technology-significantly-brings-down-labeling-effort/article_93d80e59-5299-5146-a707-b57c1a98152a.html"
 type: article
 quality: 29
 heat: 29
@@ -43,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "4YKlfAb0vjRbXM0vXxKZX8eZZ6nEfHBy8JRO3hr1rb21580bnVNTqAU8xJCp2hjDcAkoNpO1WAF6nimV2JQVssXHqSJAn55ykFVA8Y5YKVeeUuLm5wXwo0NXOBNa+yDpbk4bjGAFm4ZIsn47SIfx9iga5tUVH6YbAb2xNoeSkRWLXhRfOHuCMLncNleCxqsX0vQgXjtOaS5GR3aQWSrWlBcgI2S2GKRGROFeOEAOhIUKQZk4zIIkr6s5yexpdiaehndErbcCG5fdybWNUByXuqMc3tOCx3Zokkb1738HQNsl/z0U2ZMLjp6KiVEtUZDMmhkV/2wUQKy5sGe1zKnCVXdhlK4uvkyogevZGPAzTQ4=;6BQJGkiDrCb3kOyoaoMKCw=="
+secured: "auaKgIRKex3IqChJKW4VH3DKi1LeqvKBNZrdTfurO5ZsAdfV7xyvsxYZ5QlnnIrEIn9tak1dc9OP3rVDIPyyzj/i8pRnh0uGluPdHfRmz9fMJvFCZfIyzXPR8T8WFoRK6xcyMn50WfAgleozSqQpt0h2ESQ4sT1hdLvTSjpnnL8e1kFI/2G+90SL84hm3Celh1RXxB6ex+p49214iuoGUDHh4J+QMtnmEebFKzKoQv+pHZWN7EsMiOqdA8bqFhoASnkqiQQJL7bLOvOiiwWqyldTldQQeCN7WOJJGxxOBV4Tg95wLm4S7RmM6mTxYRTHqzQzt9/qnRxw6bdg1GqNNXnO076mcUZIo35uwLpLyyw=;LfOWoGfAUW8oC8aUW5xwqg=="
 ---
 

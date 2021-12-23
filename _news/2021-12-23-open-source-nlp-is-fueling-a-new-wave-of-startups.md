@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

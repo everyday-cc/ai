@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
 quality: 91
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
+  - title: "2022 Big Data Predictions from the Cloud"
+    excerpt: "The pandemic marked an inflection point for the growth of cloud platforms in 2020, as organizations scrambled to keep their applications running. That"
+    publishedDateTime: 2021-12-23T20:26:00Z
+    webUrl: "https://www.datanami.com/2021/12/23/2022-big-data-predictions-from-the-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/2022_shutterstock_Fit-Ztudio.jpg"
+        width: 814
+        height: 415
+        isCached: true
   - title: "2022 will be a big year for artificial intelligence"
     excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
     publishedDateTime: 2021-12-23T13:47:00Z

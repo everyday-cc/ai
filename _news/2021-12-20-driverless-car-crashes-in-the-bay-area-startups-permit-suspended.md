@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "2024 target for i-City’s driverless bus service"
+    excerpt: "Urban development i-City in Shah Alam is looking to start a fully autonomous bus service. The driverless bus service is expected to start in 2024 once the LRT3 project is completed and operational. The automated shuttle is to enhance i-City’s smart city status as a transit-oriented development and provide greater connectivity to the various public transportation points."
+    publishedDateTime: 2021-12-22T23:50:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2021/12/23/2024-target-for-i-citys-driverless-bus-service"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/23/1417094.jpg"
+        width: 1240
+        height: 699
+        isCached: true
   - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
     excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
     publishedDateTime: 2021-12-20T12:00:00Z

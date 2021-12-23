@@ -181,6 +181,20 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
+  - title: "2022 Big Data Predictions from the Cloud"
+    excerpt: "The pandemic marked an inflection point for the growth of cloud platforms in 2020, as organizations scrambled to keep their applications running. That"
+    publishedDateTime: 2021-12-23T20:26:00Z
+    webUrl: "https://www.datanami.com/2021/12/23/2022-big-data-predictions-from-the-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/2022_shutterstock_Fit-Ztudio.jpg"
+        width: 814
+        height: 415
+        isCached: true
 
 secured: "/ldgOFsKhiE2cCx/tUOsWsIdFXHPbXT4XAKPHD0B3WJZcHeoAHnChwIHXfUIZr/tKwnR9JBtGV99uiJ2yUa+mAwyuHZbApEh5vWdam+wArGxBl3Es15sK0Mp5waGEaBYp9ImOEdrgyUDUeRzQ2+84iuiyThKvoG6OWxejnbetvRZPwRifKRSnKDu3uR9NvfbeGCV3YuGsMoRAExVkml2m//nPPE8lPJA0HhHolG0CeY8W7ixbLwYmXJSItkeMnkdNdXYnPbQiGyFVxEM0Qc3NPDjmvhr02bTN56gpqpFDZHjvXCAye0+6LFoRucuXjnzqnk5sSPl+NiyE22gtLA620GBwmbEn9eanGpfR+3XMCo=;oYU9Tf4jalPcy3w+TJfz9w=="
 ---
