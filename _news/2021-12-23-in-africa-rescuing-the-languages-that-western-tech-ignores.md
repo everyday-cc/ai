@@ -1,31 +1,31 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of data for answers to complex questions – as long as you speak English or another of the"
-publishedDateTime: 2021-12-23T12:01:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/africa-rescuing-languages-western-tech-ignores-81912471"
-webUrl: "https://abcnews.go.com/Technology/wireStory/africa-rescuing-languages-western-tech-ignores-81912471"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/africa-rescuing-languages-western-tech-ignores-81912471"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/africa-rescuing-languages-western-tech-ignores-81912471"
+excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ “We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,"
+publishedDateTime: 2021-12-23T13:25:00Z
+originalUrl: "https://www.timesunion.com/business/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+webUrl: "https://www.timesunion.com/business/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "nFigyF10LjNpHTYL0cv87xEy8eLjZ250oaKqNu2ih2X06ts6vH9ehl9sek/8yrQ7U1nWKqyoi00cA9sgxgaxDBmqa4N2wYUGU8+9GwKxxnrXU7A0XLJ72Ul3EDTAEe3j89qf5MlIJ8HN5HFk3dGhL6gMZf40lEOZ3+K1zfVLWD3SrJch1QGv0JZBQweHYT1S48M0VP2npSJDoRPOMTW32dg9GN7gHiRfByai6DeZ3/V7/yQzcXRebzlVILV6WTjzedOSjxeXsaB2V3iGQhJDVk1IKwZLijsKRXeWYiVCm3F7WfCb9qtTH3yRtMobgomRkLrS/DuF6bQHl4P71zZu6OIW3ynUO4SKzPszYb+d78U=;bx1DizejYWW9TPp+uEPYVQ=="
+secured: "1NvTNvic8ArtYHmZ8zAEX2ESN3cPh9VyyHoIvym9tMh1oqWHi3syI8G0EhSRWjlSuNQX29T9lrCRTz/ZyqdUpCF3PE3hdSffLeVGSOhgymTqGTfY+NyuqKf1WDLEJHO2U0+HMNLKMaILJP091MYvRkD96Oe7qnwk5BpupHI+I47UrBevi+B0HtAiDjYbS2aCSRR4HLW2mbUYEaiZJ/rQ3kVwKpUp2rkG8icqLu6zfi5qrrlnCmRCuuIRMTSuIgLJvjLIaAW1u4V4PPWQ+EXnbmh3GIc2F8iNybdN3RBf2GlOQK/ghdEMtfY55MfOSmQqFHXY8q1rmadxWyZ0h8wViG53gSwZ8MagBy3jD1I9EF0=;ROCTc/CTyTJzw+s2uB9CBg=="
 ---
 

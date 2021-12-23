@@ -143,6 +143,29 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
+        height: 355
+        isCached: true
+  - title: "2022 will be a big year for artificial intelligence"
+    excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
+    publishedDateTime: 2021-12-23T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17576/2022-will-be-a-big-year-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 17
 
 secured: "+aCcZ3zwu8cdyO6DyLxoJz9PbbyaMaSZq+QniV6c/KYjdoZWQuTE/9IuUihWdkrcxeVB9aDybBhrYt4yqCHExknX8Fr5/DDBNr+Z4PUP72BTJ231jd6cy+/HIIK7mzOfbA+s5r3InAqyGGtsrCphtcwnoT7SKCqeCXzt6h9I7RtTfQtfC1gLdZlB1pYMsdq6/MisW6XrqBIfnXokig0aJqqVgioonYHiva9+UJs/Fi+HpYT4uzlP/RSyKil6tUpUv1WUElh1mfKjdkHP7ezQj/aHMFnVC9QVzIdNdlElbubS4I/IWhvla3Cve6rMS7iDTKjqLD3Qe3WdFF5EQKE1+ApgUjd2Fr/FG/oZZx5VBkuMTXBAViGqjtv6BFw+hOGfVBfxgRqyTjkhLfkkN89zTEGdyd4Hc6pytDWWd+Vzg8BzUPGm72hUM77bYPcY44mvEh2ncdk7rPPpEJEU9MLUZqjxTb5eIaXImq28BqWfgj++kbDSR2JmnwQr90kQyyHhKniQ6RrUFbyRqctymTUu4w==;y/C5eB9T/tp5Dt0X1DrjPQ=="
 ---

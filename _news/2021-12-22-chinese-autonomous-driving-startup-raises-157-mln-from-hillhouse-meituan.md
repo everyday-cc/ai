@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/chinese-autonomous-driving-startup-r
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan?amp"
 type: article
 quality: 65
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -30,7 +30,7 @@ related:
     provider:
       name: TechNode
       domain: technode.com
-    quality: 59
+    quality: 159
     images:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
@@ -45,20 +45,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 45
-  - title: "Chinese X-by-Wire Supplier Nasn Bags USD78.5 Million From Fundraiser"
-    excerpt: "Nasn Automotive Electronics, a Chinese x-by-wire supplier, has raised CNY500 million (USD78.5 million) in its latest funding round. Bank of China Group Investment, Hillouse Capital Group, Contemporary Amperex Technology,"
-    publishedDateTime: 2021-12-22T10:31:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser/18423701605449728.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Chinese self-driving startup Haomo.AI entres unicorn club after $157m Series A round"
     excerpt: "Hillhouse Capital's GL Ventures, food delivery giant Meituan, Qualcomm Ventures, and others invested in the round."
     publishedDateTime: 2021-12-22T04:16:00Z

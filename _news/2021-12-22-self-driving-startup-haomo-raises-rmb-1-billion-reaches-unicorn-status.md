@@ -8,9 +8,9 @@ webUrl: "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1
 ampWebUrl: "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 159
+heat: 199
+published: true
 
 provider:
   name: TechNode
@@ -47,20 +47,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 45
-  - title: "Chinese X-by-Wire Supplier Nasn Bags USD78.5 Million From Fundraiser"
-    excerpt: "Nasn Automotive Electronics, a Chinese x-by-wire supplier, has raised CNY500 million (USD78.5 million) in its latest funding round. Bank of China Group Investment, Hillouse Capital Group, Contemporary Amperex Technology,"
-    publishedDateTime: 2021-12-22T10:31:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser/18423701605449728.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Chinese self-driving startup Haomo.AI entres unicorn club after $157m Series A round"
     excerpt: "Hillhouse Capital's GL Ventures, food delivery giant Meituan, Qualcomm Ventures, and others invested in the round."
     publishedDateTime: 2021-12-22T04:16:00Z
@@ -90,6 +76,6 @@ related:
         height: 512
         isCached: true
 
-secured: "oQtKx2/An70K4q1Wt3caP3UlsIrKJiESkJIDKQ0PTkK1OrZefdDJy3EEeim2u7k+LZ4AVTL2Ijxj7nUp7Yk+IxIBEA8CXropvMUpvA6n6VE3NHHynyZsmvIezykOSQ9g9Xn7aJVcd4ymtAycb8WCih2RkDiUHIuZFgsSB3ypuYUakec2sm5qOyZudjnMxHVNebVoaFMyOQBT39DrTDfNPrL04A8M3oy2bxh9/j1UikJPHFhhRIUfECMxiATHQ/E7mERSYGSC5OEEXefcgid7oZIElww0Eo+knInRCeZGdz4taXDxzBURXLonkYZyAxkxJv2g9yBVGlflGcX+3e15Se7f1eDF01tUDYO2+mCuZxLVudLCBLAunuOpnKULkKWLeV0o1y+ZBfE5B+JxZgNuA4xaw2WJbLLftgPEqzxc8N3RzIls6xTjEptpxAINxKjQ0At63XqGS1CnOWUvR5sHL+lFtwB179hfLjdQ7HHPf7oc9WxBd9yFfFziFDHJBYpMkw+v+QF77AXXurJ/gj47hA==;LrTNyZaOI2NbFITIgb0aRA=="
+secured: "/wP63Des074jUeLtdBQfxE73OzW52tVM0uOK8I6D8zPFcm+MwjFRje+7yEyTr5rfz6i4F6B1N/wSTWVDe78/Ew/ChI7MbdP0Xu2Gf/PHlIF9OckAW7HJTWmiRkAfO6CJFwEzckJsuknAV5kJdKFAvQMKdi8leLdFbaPJKzKkTBB9/L8emX8HAt2R7XjVRXtX7DTahZwRrPUp/YqXQwF0xoUsm+0gqR9L51FvQmwopBHalZhCQOqG8p6CUNugovhBnC6nqVh+Z7BLLDVXC//PxrA6wiukCcuQrE10TdGLSkv8x8ElEFZqjjZ74KZUDo6zzp5p62tCKpoBeGdipUQsXDABEnTNcyKVIKWtOFSZM2s5dR7RJuhU1G00X/88m270KFYxlAjvVdvS6Z9Oyg1coeVV076qmxJjgiumhFN3AygYapl8F13huMZcCSEQsw1UwEp+ir4oHiRPXK2jGg9Vb/0ZHekNOIUYEnC5QlSiGfwGKiB9GHuLQlxt6AYBi2KN3uzpYupqcp2GAFjMjcObxSJzsV2QsRrb97mPdrxwbWk=;URxIzScbQeJ8tsvmTZF4Tw=="
 ---
 

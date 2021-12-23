@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
 quality: 91
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
+        height: 355
+        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z
@@ -149,6 +163,15 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
+  - title: "2022 will be a big year for artificial intelligence"
+    excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
+    publishedDateTime: 2021-12-23T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17576/2022-will-be-a-big-year-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 17
 
 secured: "CoFTLE9YcdOmSlu/ZTazSByQC4Sn0Apky9w2muk+pNdO5puzpH0VP9HF0587OdCdRd7isGmpzVZ5kEhOhul4ppi4OOBBwsj3R86Z+IsEHXEYA9CA0whEI4Ze0mJ7n97m+VNwF5jA6nowJ1Q056E7Ef9zznImpU2jlLnRa2ynnbxr2B3JlIglnmFCa5s5F8BlXIBtYHP1Lnklrof+UfXlXk2Inf+gwD23rfCjjMZHexVaMUP96+JzFXxM6+5tBbehTmC4d45zmsTiiGNA2nttKZhK8Mg/HUCaLfZP76GgXwreDE2ujyqQ/hZVmwl9jwlrFHKb1CN1G0aYfC5zTF3Atd5U5eP4FulHOLNzxW1IGkgwySDXlQ7nVQxCxyaZXUs4+0puXu2T1RegogEzg8IBGK4rf223Z8b6vpcwxSI7SOYe7pQd7zeQ6hmf0zN/lW3X52W9lWDkrxudwhNtcWN9Pl07dVSMFvwYlWN6j/PqQnIrw/F2ETMEcqTvUajbyYkomIdQo1Ma9x1XTTDfXjM9NA==;W1+pe9IF2i/DMSbGNd6Zcg=="
 ---

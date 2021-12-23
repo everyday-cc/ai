@@ -6,9 +6,9 @@ publishedDateTime: 2021-12-20T18:46:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/"
 webUrl: "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 139
+heat: 149
+published: true
 
 provider:
   name: Nextgov
@@ -35,6 +35,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "7vywMUKhvbcHALw4RvLKA2c94vRQaErsemXv2XassNzSMvsk8xN8HIUjuKDwJdk4d5uqm6JI4qj325CUalHgul/+Wlc4RXrz8s+ojgWmvM7/WPjs6cKA1Xhny6a9W83qYXT8OUkfaE21T6MQiGNd9yn8U01CmO1PGUfRIyURpMb5gvhfu7kJVb/HgjLha+fOYYtBGF1o1wqUHA3wa6Yrkf94GeFaaUsxDtnH5KZZhkHkutJPWAiLO/Bqd5034L6e0UlY/k4Z7oW3FaqdYomI3IX6WgokcqGuxQWcfQ4xjE1bNsoU0oYnQeKKe9E/R+ci9we1oeAVA5nk3AjNRSo2dsZuraCPlA98BpruBz075nFwIFCGHrybRyDICLsU2rR2c5XFEJwWQcBnuuPY4pc/l3G9uvKQLxi/A8D2hdrMAEbtmpjJDUx0h5sBDcGEKI4uKbGzBVhXVEttssnTkiOEQX42CTHrM2VHU0GiOG03fLHUhFPzTyNK33MNqf1tNsr36mWJmnRw0/64u9G3YEMMqA==;FDvhpTUk+keuTM5MIFnHrw=="
+secured: "qFHoUq11AZ2GgPR0Fqd1b7+biAE9UGZMeIdC17DOcXb63Lkhyj0PyQp4Wu8udJ1B+voZVutJWi3Xgkrnf6SuIGupgqu9OmLeDZxrFWuMDjJeHAPl6EuuBuFgRH9/iYFD5io6lc1BeACov8LIIZefszOjnD7vdBk1E1yDNpN/ChS2HbFA2x9JrwLUc8+/Xh3vKGbLyg2BsyriBfkcOYLpd1XRsdWHl1MnTOs2UhYu8J573/iZQMGLz6c05dI/8T4OUSk050FEnNrq5lbRmPdIhkyx9UaZaLyb57e3M7NFVSO292KwhE0UmLOUoad61G5hKxiWqfBgB4lrFue+jxdGr1/YhUKyrS6rNjsteaqrDX+hJtyGI3mAWs8p+XKbe0Z2IiDPV936R1rnGdps8eYx1Ahhj0vDQKssQqRXq3bB+BlmlIh0S+3+MW+KyLxb3JJmrn2Hq1EiH4nco+PDVYGDoUiRfjbmIBrnc+/jV/M0ixw9Eg8mi9WkaHec4qAXH7F+ORVABhQDSf3ptVHVxaan/4Cdo+qXe4otD4IWE/vO9n8=;SeiZo0tau//1jtVxsG8gWw=="
 ---
 

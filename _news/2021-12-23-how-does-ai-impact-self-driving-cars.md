@@ -56,6 +56,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
+    excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
+    publishedDateTime: 2021-12-23T06:58:00Z
+    webUrl: "https://koreaherald.com/view.php?ud=20211223000750"
+    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211223000750"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211223000750"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 43
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
+        width: 630
+        height: 415
+        isCached: true
   - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
     excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
     publishedDateTime: 2021-12-20T06:43:00Z
@@ -100,6 +116,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
+    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+    publishedDateTime: 2021-12-20T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "vgwwXJ1//02zXRrl3AaxEuefBxkDVReWuo6NZaPrhpiPHefUpMJ7hm9Kh3Pg67e+pCEA5Gb+DlkoYuopvNAKEXjdSefovUpzPJx82IF0MQov+m665o3beOKT4O0hNHfH0rV6t163iPpOtgDBT8NzWxDh3r/ZIo4JK5jUZ4ZDJGq9oKw9g69S3OaSYTwaUMpUK3Vduqce+Tn7Rsk+2gYufe4FyCHRDwd/9kK7SLfHfTU1vETqDAzL6yMeFad+6kHEfIExQHL1oPcXskaO/OkBUiY2TtzGnECvjr2aBtuU7YjZ/V7DLGHHSb6E+tRu2ehy8IWIHyk63b3i8ksHcqG0AIqtJsTHXaa7SiJSSYE+5Q6mn4ov76Eqzd7qW6qHlFoDgoqZ6fikdQevD9GkLnjDWIKZ6r3yraWITXrnljkQocIe8FcERK6lomUEQZIopamj6SKPtHkXtHg8NdRo1zCfJNqqjLcfhJkLHTekuAwfITJohAo20AHZXvNj+Thj6yjsDAuKHKFDZ4QGZGE1F+XkDg==;41rUkvj9Q/ZmVYTbdIvmWw=="
 ---

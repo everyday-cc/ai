@@ -134,6 +134,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
+        height: 355
+        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z
@@ -143,6 +157,15 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
+  - title: "2022 will be a big year for artificial intelligence"
+    excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
+    publishedDateTime: 2021-12-23T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17576/2022-will-be-a-big-year-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 17
 
 secured: "Z8nq0CRzKj15Ybhuxa2m4/68M70lokckE9TkeLCxWFX3WdV6GFGtljLYkKmlFKOYSkpPkqeNBsShqpowmrU1TXZjo3yXY+buAHd71faOZB0Rwu6/YK4z5GTA5Bi3I/bSLtdEJDahiQkoEftx4QzRk/VNs9giYcLdnwPwUwPbt/vMRtuICF+7VFkSZ7ayU418TUO61ISvtE19esVqbRQy3u7MypKctzjWX7n4dKfw/9UUGbYLfzNhNzS61kLDEQk/9/X3Yk2qRmon+WSkA6lTmE+BUzS2bqgQZSSBWy8Y/7uVhM39BuM927u9W3M/DFCUepTsxuFNFztJCEfJ3PFT+8Qvfoxn5vxxLRpawDMw8G44aZ6jP24cY7Z0lanw87B8bXe3Q3xqWYDwwp9f9m5zpcjNpVayEP6wfQYQJCZ38vP1HYad8wC4Tq5Nj87JO2ZJjjEWbqvSfoL9I8fCsh9vMv+GvcH024IhG20BUsUlLa+NIqIYrx5pffSI6CtcBdiKLInwPZVy/JeZZY/SmeIMSw==;7xwOPQkTGQ47iT4Es5M6OQ=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How to Leverage AI for Maximum Benefits for Your Business"
-    excerpt: "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers."
-    publishedDateTime: 2021-12-18T22:31:00Z
-    webUrl: "https://www.timesunion.com/business/article/How-to-Leverage-AI-for-Maximum-Benefits-for-Your-16712793.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 41
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/24/17/21840885/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
     publishedDateTime: 2021-12-22T22:02:00Z

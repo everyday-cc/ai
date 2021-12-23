@@ -56,6 +56,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Nickel oxide's ability to learn could fuel new AI fields"
+    excerpt: "A unique material, nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abi"
+    publishedDateTime: 2021-12-23T13:41:00Z
+    webUrl: "https://menafn.com/1103437672/Nickel-oxides-ability-to-learn-could-fuel-new-AI-fields"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/23/AT_59286image_story.jpg"
+        width: 755
+        height: 591
+        isCached: true
   - title: "Nickel oxide is a material that can ‘learn’ like animals and could help further artificial intelligence research"
     excerpt: "The ability to store information is central to learning and the field of artificial intelligence. Researchers have shown how a unique material shows basic learning properties similar to that of slugs."
     publishedDateTime: 2021-12-21T14:55:00Z

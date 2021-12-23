@@ -27,7 +27,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 39
+    quality: 139
     images:
       - url: "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg"
         width: 400

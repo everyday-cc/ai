@@ -30,21 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "2022 technology trend review, part two: AI and graphs"
-    excerpt: "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s."
-    publishedDateTime: 2021-12-21T20:34:00Z
-    webUrl: "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/"
+  - title: "Artificial Intelligence Was the Most Discussed Technology of 2021"
+    excerpt: "Artificial intelligence topped the list with the most online articles (175K+), followed by machine learning and virtual reality, according to Walkme.com"
+    publishedDateTime: 2021-12-22T18:12:00Z
+    webUrl: "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 157
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg"
+        width: 1000
+        height: 618
+        isCached: true
+  - title: "2021 was the year of monster AI models"
+    excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
+    publishedDateTime: 2021-12-21T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
+        width: 2764
+        height: 1555
         isCached: true
 
 secured: "lZp2HkWbjKRJfRPWi/WM7ha9IMZc7KVWWK5mKk5WUOlq6ZYq1P1QWL+eTYdgAJiRdg6nbT0FswRQ1tUDSOsos/rLefT8rQzh+KUC22N0tfY+ywx5IbxF0Kyf0J4E2yrpI5zuT/DOwnvzNXcOeDjCG70DhtUY3bSLmgEO3TMa1fic9SKEpGP6Of+vLX49db0jVSgmmeimc9GSO+4rgOPQIpU1G7w2CHQYDtQUTRGxnwhdjeb9N4e77ydBTBjjzze1ozJDjs2uZB9L6TgS/WWcx48zjx5C38DSkRkieBlnMdcJg8KUZ8blqcbpU6vd6bh49trwkOj3c84D3JWIblBnKwxuxLOv5PNuuHdSyltdutSCbIgktlKLiy/zdMQYeHPJy1RF7TL32+dCMKXs744T1+ZX+uZTs8Ma3NT1GkkHhHhvbqv0TV3bD/MolV3nmwiS4KlMvkQpAIXKgfq+gJoCILQeugWl/LISfWOZGWLUf0f1o9TeWf84VSIyCLor3IOWOIPTeS9O05b0YmTmWmYY0Q==;cQNrJBObTYjelSbG0JdXPA=="

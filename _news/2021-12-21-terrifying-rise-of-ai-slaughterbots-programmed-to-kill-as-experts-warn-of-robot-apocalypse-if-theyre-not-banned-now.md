@@ -9,7 +9,7 @@ ampWebUrl: "https://www.the-sun.com/news/4313900/ai-slaughterbots-robot-apocalyp
 cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/4313900/ai-slaughterbots-robot-apocalypse/amp/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "UN talks to ban 'slaughterbots' collapsed — here's why that matters"
+    excerpt: "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week."
+    publishedDateTime: 2021-12-22T12:45:00Z
+    webUrl: "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 172
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106992652-1640169480556-gettyimages-1236334796-Armed_Police_Training.jpeg?v=1640176120"
+        width: 4000
+        height: 2629
+        isCached: true
 
 secured: "LktzcWF4fCZLpGHGJ3XWR7+0PrjJELfyWa7F+5ANadN44ZqagUKfnCwLxwp30oiRPOdOzOuGqmOJ67mSxJMsNoS952U6BNf+SfYQ1P88UmJFfgmIr4rKQw31Ss65ff5QQQLthJ9DYUFgOEj5eGL7jYxTv2I5l076MZcaWlPpIpTapHNZKFs1ExMTb7L0c7iQCsk0Z2lLhh6dpZUdQZSH0wW/ag3KlLggk72CrdNfuUsPYk/Vau5XB0acaG8oakKDzIfhDJaJIvHCq11+JE4j1TLwU9yC3+j0Bo87v2vHTQli5dzASCJhVy4pQqKISVdpv23aJeEMmu1meIy1Le3jp2Kl0hKojy3NXgQHUhubaAy0yaMJzRF7RSEHVuLMEFtZYfSa7atFUWcJVo+36rwD6nD6rPBowlE1M9E+P/vQXpFJePmYypm5pawuL1Hii8PIpUua58beVIPiTWRiJq5dKeppAo2PEjajdiasRS180/9G97h38g5jRNZOvzwPWCjbZj2n6ZHfVd5X2huRMO0eEA==;MZ//N/Ey8AI6jkUiRK80RA=="
 ---

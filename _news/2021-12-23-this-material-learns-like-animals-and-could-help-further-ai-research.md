@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-material-learns-like-animals-furt
 webUrl: "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Nickel oxide's ability to learn could fuel new AI fields"
+    excerpt: "A unique material, nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abi"
+    publishedDateTime: 2021-12-23T13:41:00Z
+    webUrl: "https://menafn.com/1103437672/Nickel-oxides-ability-to-learn-could-fuel-new-AI-fields"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/23/AT_59286image_story.jpg"
+        width: 755
+        height: 591
+        isCached: true
   - title: "Nickel oxide is a material that can ‘learn’ like animals and could help further artificial intelligence research"
     excerpt: "The ability to store information is central to learning and the field of artificial intelligence. Researchers have shown how a unique material shows basic learning properties similar to that of slugs."
     publishedDateTime: 2021-12-21T14:55:00Z
@@ -78,6 +92,6 @@ related:
         height: 336
         isCached: true
 
-secured: "l4Ldyt8fojkjGdHjs2joseX8Bjin52d/9px+XlkYuf5PUKmea5gvp3vd3y0oqDkvZlZhWuML7TU3Eyuha2vX4U5Y/zkpTVmuorGNVafVrGUAw62Xpp3ChSDNxkSCw2rxmI/WB4qkYSoUDdjNGUodeIIgJlGqOe5t7xBHX9D8pSx9cSsvFxGorFAqlKcURHZkXTnHe2w96j4n0ouosy/Oqat8FWQEaC4Hc+ccwS2s57Yl5lCG9Kv1t3BrdpWv6PtFhg7lzjUJ5+lexkyYAYP9DJOE9jls1SGYYfvzIGotYBvhnDvJRrqVRxkhKgXJEPIfFZIbp9xD64snPya46fW4JlSg0mFhRxBZeeysWcaSdFc=;i58sJ3jxoIMyJPnu1CkUtA=="
+secured: "qFR6Ic7Ojl65SInTRC/SMrCGsRUrdjJz6vdXr3NJEtH7VeCJ2sbjV5E57bweX0M6xN9gZoBI1kYVVICqtr2czwrxzIG1DX+6uNC8z2HrXeOvfwmoQIejqrZmlEjBUMJtbxz0ersZnn3ZYtIS3a84loxL/Q8MYPWokHex1cWuNyzz9VoKHV/Rm4gYon3NV/go+eB13zFrRRnqMjRIuRX1H7tuTfnYyLp9Ox7O+A+5ht3L0Pbgq8zFpcXd5HPIzJ0SRUPxK68P+5mDNv+UzTaAhIPRpGyE7lrYsIp7S9XQcBZbYGuv83LOU8nIIr9ZVSyEQle2Zzxp554JPsdAkju1L9foHvfT//2uZ/nkhZ00/pEi7rmdH4PNU/QxYffqaGy/AcpJF9j57yNm0qI96vT5W+LEA/TqrBbrU7sIcprqtodufWjoEGkaLCKpAdbMIcpbFSdPYw8fhA5AAHBOHTISr+N47RBHb8fNdbnOt7V60K2vshM/FlF9WqZg9HTilwofo3y/LGHIJESq2QB0zgvwPQ==;DhS89bF2v9U8vBLU5eVPTg=="
 ---
 

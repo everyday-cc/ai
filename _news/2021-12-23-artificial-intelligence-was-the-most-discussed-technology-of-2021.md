@@ -8,9 +8,9 @@ webUrl: "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-
 ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 157
+heat: 177
+published: true
 
 provider:
   name: TV Technology
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI's Impact On Biotechnology"
+    excerpt: "The presence of AI in biotechnology simplifies data capturing, improves regulatory compliance and limits operational costs for businesses."
+    publishedDateTime: 2021-12-19T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d57b523a9e903dff75e6%2F0x0.jpg"
+        width: 956
+        height: 885
+        isCached: true
   - title: "2021 was the year of monster AI models"
     excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
     publishedDateTime: 2021-12-21T10:00:00Z
@@ -43,6 +59,6 @@ related:
         height: 1555
         isCached: true
 
-secured: "oWz8pDYmsm1LEGAnE/CBPG+6jlF8b4v2psR5muLeoVDoI9V+ArzAt/WHbPYMQ7jGQZ0ffbTSIyphvFYC7U+EIFOeED/9dvpO6PIBLG3kR4Lq5/zsn2XJ8hP4cZ5NMI0Y60Yc2AXstT30yitesOYbsPtzpB30NWp6aR+CAs6LruWYCTaA8rmHZrdWxlYdJ5+rZ+Nszb0CfT/lNpGnMrOPqjnpHjEpH07IQmVvIG6VtyyHOnWsABsBlxuWrqvPNw6pKq6i2+sULMoWlkrUatfmtCtvgJOhz6nGfGA5iHctfpcdl5XnuY9kMl03+htNotdO2rjbD6MtJogV31OgjJqHyMiawfSciMJzURWP1FW4+7BvIbKkiUWPtwHnTQlEbgsqk4cWbCvtlBnKcnjK7VrDHATOyTHHp24zRCVHKYoRv+khIP9/MepYeuSiQY5uRMRDf0uOBRibX/+In1Qu05SLm8tGmNmqAlc+KUvCiQ5LeE0HbxtapAS33R6uEQa7P0abiq/4tCwOTT3e/gREeeP+WA==;qApqqG1MzXGOmcPcYQyMiQ=="
+secured: "JDOMn9/F8C0Zx6eZTC+AqCDX6Celjon8JFCw5oUaCLEDTna4Joj1U2E7KSRSLVw5sqnrvVIeFelR8/xFXJP8uwJCNairywNebM9NcuKNxiQnIMGDb7zaIClARU0hf2mBWjIQL20n1Y709Gomt+l4+dxfJHsCRDbZCw2nUN6OObbjP1CX9joqfjROSQnyFAuTeEvo4VyTG++IZbPlMgCvAENGydNu30Yskui4F9RN759wpX11/VevNx6koHwcbupfGXS7WSsN83Im+xIXd+devL3Ygu7QdxYHTHr6XP8YPkvvElwhwJ4ekTvRj/Fb/XD6U8vHE7orr19Smi2Me+JBUYMr157N4PY7cVB4YOIvUsdVPHGllbaoDU3kMqut5rCm+E6FjvKLp+pzsRF46uAySWbFwVPfl8aR0u6vTlijiWUu2WrnrYvGr5ZCu4V8OhKLjlAglgBCeWwefK3Y6/nM4354Zh0WFz+Q0aDze0N195V1sxncDDphmTrOU9uSQpUvB8zTue79LPRAmBtFFWMPHQXZQe2NyY/CbH7BxIWqxf8=;1Hp/MkpOctphUuhPMkFMDA=="
 ---
 

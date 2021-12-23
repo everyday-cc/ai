@@ -135,6 +135,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
+        height: 355
+        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z
@@ -144,6 +158,15 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
+  - title: "2022 will be a big year for artificial intelligence"
+    excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
+    publishedDateTime: 2021-12-23T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17576/2022-will-be-a-big-year-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 17
 
 secured: "y1SnHh5cMnqz06rWzGo8hBTnbGi1mhS2CS3HVNrzNJEg+zR9SdLsdwNcq7+MmMF54YYFJI68RuZ4j5NxgcfAhxPKSQU5prlQFny0zf0tlh8iwoW1EGdald7Pke8a61bju6bv0/auwux4Gqxdtkgz4ZRocSw1ovVunBEuA/3QxgEVMHWcgZSstnQZK4fvkehs+K8aaQsZMgTeaWiKwrAuaBEk/v7mRBC/szhKsIEXjzPViJ2NjZW87O1VbL6YpQFJolvwM7XTWotW+VLpUk17gyu5eCPi2/6G/lAefbNZa4x8rU//yGQVsa2Hl2/pynT46gJrxXnTMgyT4tnsP+7ad2kKzq5Ar7WMSLUiT04xjOk=;ABINt/vD+Dy3ZH+kdPdDrg=="
 ---
