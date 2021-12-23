@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Voice technology for the rest of the world"
-excerpt: "The growth of voice-enabled technology is not universal. For much of the world, technology remains frustratingly silent. The challenge is data. Voice assistants need thousands to millions of unique examples to recognize individual keywords like “light” or “off”."
-publishedDateTime: 2021-12-17T22:43:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/938432"
-webUrl: "https://www.eurekalert.org/news-releases/938432"
+excerpt: "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,"
+publishedDateTime: 2021-12-17T17:58:00Z
+originalUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+webUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ADb38gsQcM3zackkmYqWXNjpyqQlFz31CxwCdmaMhHdMhGngOwfFr33zyNNb+YPbZwCHzt1CTgNaBi7//K2LSppfc/i0KDzZDaxlbOlSvyQQKIHaOe6Lmo2S4R9eMSLkOGhf2j1GasJ4H0CrrQYjt0JWwbeO+07+CEAeQec52iqUaegkOlLsx3p++O2PWFqkI64hhheJkUWy+96359ns56yxZGtwM9iJNC6zZFIV6umlkjry+gRZNgy/BGMmZyl1XKEyOX0OxZZFtekBRcRsMhOTddrBYbTVECLOUGJ/cMJoAvOxJJ1V81guJGc3S+Se0zIlc0Wgn4zZ3fYkY3cnlSP0pWSyKwtsOlVaDBhK00E=;Hy7BcpLL0Hh5D8GMSGbtRw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
+
+secured: "isWSOwrjv+Sh8pv9BJO+U7Q+6c/ghwtxcuIfMXOFnNfghhvqd8u7ToI25Owv3cZUm8tlPn/cq3h4kNIg/jZTzyu/bemW/xdjC6nswar31PEF977cEfVNcojd6hUFfOXBShHFMo8/r0vGa5coQ+otJyX2X1XeAG7Vo2KaiewTWzOJk1Dao/XHm9SEQNMdx4iFAPShiGwc+wyEdaFqOBLAdobti2dA+mVkcZiv96au9rSZeE0zQd35waAbodseK4rrzZan2qX341sq45f6kIeRc3GnROWKQ7S+YH02XXpmRvYhldW9nJINBy43rubk/Wz4Zz16HblhvpDRmbRuPrOUSJEDX5G+c4msoUXz9DPr/mM=;/ghzGatWTweXRbwVzxRG4w=="
 ---
 

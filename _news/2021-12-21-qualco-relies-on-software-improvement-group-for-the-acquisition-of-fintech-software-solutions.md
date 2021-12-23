@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Fintech Company Oportun Completes Acquisition of Digit"
+    excerpt: "Nasdaq-listed financial technology (Fintech) company, Oportun today announced the completion of the acquisition of Digit."
+    publishedDateTime: 2021-12-23T09:05:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://images.financemagnates.com/images/merger-and-acquisition_id_756730bd-0326-4a49-8b09-fad0ed1cc1c7_size900.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
     excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
     publishedDateTime: 2021-12-20T14:11:00Z

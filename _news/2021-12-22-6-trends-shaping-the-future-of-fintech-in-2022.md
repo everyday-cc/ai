@@ -45,6 +45,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Company Oportun Completes Acquisition of Digit"
+    excerpt: "Nasdaq-listed financial technology (Fintech) company, Oportun today announced the completion of the acquisition of Digit."
+    publishedDateTime: 2021-12-23T09:05:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://images.financemagnates.com/images/merger-and-acquisition_id_756730bd-0326-4a49-8b09-fad0ed1cc1c7_size900.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "QUALCO RELIES ON SOFTWARE IMPROVEMENT GROUP FOR THE ACQUISITION OF FINTECH SOFTWARE SOLUTIONS"
     excerpt: "Software Improvement Group and Code4Thought assessed the maintainability of the fintech software assets during the acquisition."
     publishedDateTime: 2021-12-21T10:37:00Z

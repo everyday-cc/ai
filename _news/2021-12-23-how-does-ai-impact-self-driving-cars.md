@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
-    publishedDateTime: 2021-12-20T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Self-driving cars could be legal by spring 2022"
     excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
     publishedDateTime: 2021-12-22T14:00:00Z
@@ -57,7 +43,16 @@ related:
         width: 755
         height: 503
         isCached: true
+  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
+    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+    publishedDateTime: 2021-12-20T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
-secured: "ZTlICigUFw6zDXBeqohi+UQLOQGM/FOvAeCO+Pr04g8Pc5fiQoc2lTzry491Anhb6884wWGT63Pou5ppe6eQTy6cjwRW1cuyeO4XMoQPFU32MpQp07iBvUnOVhXJap+3ZYkpPSouqDIxHNVCmXGZ39cYb77fLuJWCmeeZuFsLpa3dH95CLQInuNCsevwd/Sjg2v77Ys23vcpatinH8nJzvc1mUeEXmtBCT4SuoK+RGxmyfRDQZzTVFwUYSDC8wHY6rqv4u+4KDDI2qV2ptyjp5ON41prZUZWc0wS9lefEBURjPBqaOlhL1qZOQPwZG6xWSdyr29w0u1BjGC8DkpcnIS3a6Pes37xKj+4WX2g25w=;joIHtL+B0/5izoFtGyN/YA=="
+secured: "vgwwXJ1//02zXRrl3AaxEuefBxkDVReWuo6NZaPrhpiPHefUpMJ7hm9Kh3Pg67e+pCEA5Gb+DlkoYuopvNAKEXjdSefovUpzPJx82IF0MQov+m665o3beOKT4O0hNHfH0rV6t163iPpOtgDBT8NzWxDh3r/ZIo4JK5jUZ4ZDJGq9oKw9g69S3OaSYTwaUMpUK3Vduqce+Tn7Rsk+2gYufe4FyCHRDwd/9kK7SLfHfTU1vETqDAzL6yMeFad+6kHEfIExQHL1oPcXskaO/OkBUiY2TtzGnECvjr2aBtuU7YjZ/V7DLGHHSb6E+tRu2ehy8IWIHyk63b3i8ksHcqG0AIqtJsTHXaa7SiJSSYE+5Q6mn4ov76Eqzd7qW6qHlFoDgoqZ6fikdQevD9GkLnjDWIKZ6r3yraWITXrnljkQocIe8FcERK6lomUEQZIopamj6SKPtHkXtHg8NdRo1zCfJNqqjLcfhJkLHTekuAwfITJohAo20AHZXvNj+Thj6yjsDAuKHKFDZ4QGZGE1F+XkDg==;41rUkvj9Q/ZmVYTbdIvmWw=="
 ---
 

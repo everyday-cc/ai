@@ -1,28 +1,22 @@
 ---
 category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
-publishedDateTime: 2021-12-20T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+publishedDateTime: 2021-12-20T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "How does AI impact self-driving cars?"
@@ -54,6 +48,6 @@ related:
         height: 503
         isCached: true
 
-secured: "yzJiDRucvcRjLMDpDoSn8L5I1xRQu34Yf7cGA+yDDihLEOevfhTVy7htjYMxHQrGbSsS1kJvez/+UCyIX36JAEeMeo4BLm2aHsfj5aeWfbqq2FzWq0Qg071ctxOzu71wMbBw02ScE8aIwkgZn81FvAGvHt3VjR+IENRlzojdd2W47kYqob0j8GBz/pKgPZDE3M9oFvkGcJchrmP5BFIJyADDeReQROrBUx0DShFYmaYHUpMwidW7udDapx9EJ2dQkx6YMEsiXWdsMPmQYd6aJBr+uPzYhcPB3h6XfYpPdtmmtwGBqsmwM1qDZvivbXaUVZ+Vf93ab/hwd49DkrQ4+YdzFptXErcEG93NjetrZaI=;sALqzwcTJLg8yDNlL9bVtw=="
+secured: "OakjgzCdhrRoVWmaRqmD9ytJTfULCyK39AACnMHaRAQvahjjtcRL7+tA71gnfxQ9y1O0WueIHSWT+9jiyOP8S5xE8ufp4SKPPgz2yL8MMP8H+9ONgDh4gDli5koH4e8Y4Nvs0P0Ga0689VTbZgvCLf+sgRHODJ6po8IrTUsv26nitwGK+Q+AR0toWOtJPr6XLw0Nc3IM002IG9L8XyaZYA4YW6neg6C5zVFUVupYi5znHsPiBQbohkt+qm6vQYB/qJAgWaIMFilD7rMUA/Ytg3ASiumUaS53mhDdBmQ9eVWrYCWmD8EhfqtlRojUoVhNk1z/ZS8CQSzEMy5VT0+zkXf1fYbsVmmXyJOPpzu0Fb4=;vagQ3bIAa47nEV88eEOiqg=="
 ---
 

@@ -40,19 +40,14 @@ related:
         height: 720
         isCached: true
   - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
-    publishedDateTime: 2021-12-20T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+    publishedDateTime: 2021-12-20T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "okHfq7wHyCOKh8yqVL6Hr6c51+2GlN0dLpZJNn0BK7SXlb7NCYiUQCuXcFl7d+mGf12AiY1L+xOAfzUfecXX+l0f09UohylqOO28Z8Mi57y30Ezkjx2VhfK3UCNhv29A+h8I/eX9LeWPCD7OwgMTsW2xVPGZe29DOy9Jz7ZesAU2E/RxH8rAPUBVT3fQgycmk56aRLJyPNS9n4m/nWCzYVkimXuUF1xGDHD5C7aYKmtX8fakH8S4m4budxn6zmmI3eLLyGabRbIgwKlzzZKmefqR2qOnmk4doJbUaWwyxtmQNRBkMlzn3nHc1AsbM3Y3u1dYfyiF1Ydr7xKMnTy3GxyOJA+MWu1XMADCAtTD/TRnti8ayRSJLfnRQDlFWUJKeIqrjwmcVo5t866/Kojn3uCc+ymFpZV8UKyDXyfMS6TCtdGfmR2ILPm/MLV+t/hEKbQai2PP2baRtJ//z0hlkUtoyFIivbHh3jnoPBJ2EOnjs6VitGVft7hWUDXOjDkcVX17XlvV3TnOa04EP8e48A==;tV2z8DbEjlYDjw9WJPc+qg=="
 ---

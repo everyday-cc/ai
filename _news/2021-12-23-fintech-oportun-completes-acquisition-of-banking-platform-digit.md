@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 101
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Ftrendsfintech2.jpg&signature=09a774b26516141c572c77d421309f0e"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Fintech Company Oportun Completes Acquisition of Digit"
+    excerpt: "Nasdaq-listed financial technology (Fintech) company, Oportun today announced the completion of the acquisition of Digit."
+    publishedDateTime: 2021-12-23T09:05:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/fintech-company-oportun-completes-acquisition-of-digit/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://images.financemagnates.com/images/merger-and-acquisition_id_756730bd-0326-4a49-8b09-fad0ed1cc1c7_size900.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "QUALCO RELIES ON SOFTWARE IMPROVEMENT GROUP FOR THE ACQUISITION OF FINTECH SOFTWARE SOLUTIONS"
     excerpt: "Software Improvement Group and Code4Thought assessed the maintainability of the fintech software assets during the acquisition."
