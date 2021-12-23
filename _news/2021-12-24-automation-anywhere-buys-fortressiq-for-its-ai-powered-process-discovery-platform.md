@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Mines powered by robotics and AI promise explosive growth"
-excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
-publishedDateTime: 2021-12-22T15:44:00Z
-originalUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
-webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
+excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
+publishedDateTime: 2021-12-23T21:57:00Z
+originalUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
+webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
 type: article
-quality: 69
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Mining Technology
-  domain: mining-technology.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
-    width: 1280
-    height: 854
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
+    width: 768
+    height: 513
     isCached: true
 
 related:
@@ -54,6 +53,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Mines powered by robotics and AI promise explosive growth"
+    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
+    publishedDateTime: 2021-12-22T15:44:00Z
+    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 69
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "New ethical AI institute launches"
     excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
@@ -139,20 +152,6 @@ related:
         width: 864
         height: 984
         isCached: true
-  - title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
-    excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
-    publishedDateTime: 2021-12-23T21:57:00Z
-    webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T15:14:00Z
@@ -186,6 +185,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 17
 
-secured: "tYCJ59x521dypxX1vFW2jgKx/cP7lTZDyQxnLRww3kUIIMZsz1XHYh5dFnkJJdRau0NsBWMxtThLoKAORImL2aJ6K6/EsT7tKdB5Tzcah31WeLZeyy2L1s4fOQan7ujX6jaDCJMZKk8y5G/1nEEFm9dLZNnKo8vMNzhqPmrHlUlWFXHnLaAm0DGkb/8xw0JhwifyebF6tODCFseUe65/dKaMAcm2CvAFTGWie7k48GATmA178yq7dDKGJAXjISl/UqYvtdUyCEUKp1+GYRSpuEV8Uh0l4Ked/Aet76MGMVF0C/HoWZ78I1LCV1S0oj1iOzIvSTBo3aq7mU5IhKt5Fz6IoVT3g/khfYznLFyc72E=;QiWWczDu1lHHmybE/C8QOQ=="
+secured: "dQedv0hc0ieQp8wqS6XofBDm+wihJ5A7T8iDKD6jTNI+qkAGyQVSDErSH8Hpyx6MJZFaOkJkYGemUoqvV+bsYQG+Yjalxqg2G/zfte/9jJ28OWSbgv4STtSgzEa4PZTCUEJTmjoxXmjXIATCWaGlOq301O5lc8jSYOjJKW58Kf2JNkNknVexaZerOKhul/ZssSkvL3O3vxFxswblzFgLgWpVZNaLphesTesXiYhtyUkhzDBri/LsIe2SURZQV9fRMmkmD1Y1N3f6gPyu0TNYBVyRn26wgQUq17cPti+FWCyn0Ko6GfDQJYBLCSVEmrLtgPfa6XrDTJJ98LNfq6x2xhXHc263VpoRhuhUXUeCKbA=;0h57lkfFS3ywkdoWvigrVg=="
 ---
 

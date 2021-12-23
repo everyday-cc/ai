@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
+      "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
+      "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation/article_b2a0d3bf-eb2a-50ff-a9a1-1f36aa46262b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook",
+          "width": 1600,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-what-ai-means-for-gdpr-compliant-audience-targeting.md",
       "title": "What AI Means For GDPR-Compliant Audience Targeting",
       "excerpt": "It’s time for all businesses to review their approach, take small steps toward privacy-first compliance and take the lead from GDPR.",
@@ -355,7 +397,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/ai-dungeon-e2-80-99s-creators-are-launching-an-experimental-ai-powered-game-platform/ar-AARXXRU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1166,60 +1208,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
-      "title": "3 big problems with datasets in AI and machine learning",
-      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-12-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

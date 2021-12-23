@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
+      "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
+      "excerpt": "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "originalUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "publishedDateTime": "2021-12-21T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-sensors-set-to-revolutionise-brain-controlled-robotics.md",
       "title": "Sensors set to revolutionise brain-controlled robotics",
       "excerpt": "A novel carbon-based biosensor developed at UTS is set to drive new innovations in brain-controlled robotics. Developed by Professor Francesca Iacopi and her team in the UTS Faculty of Engineering and IT,",
@@ -511,7 +554,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1080,48 +1123,6 @@
       "provider": {
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
-      "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
-      "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation/article_b2a0d3bf-eb2a-50ff-a9a1-1f36aa46262b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook",
-          "width": 1600,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

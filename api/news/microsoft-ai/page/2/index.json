@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-06-amazon-amzn-expands-cloud-offerings-with-aws-cloud-wan.md",
+      "title": "Amazon (AMZN) Expands Cloud Offerings With AWS Cloud WAN",
+      "excerpt": "AWS unveils a service, namely AWS Cloud WAN, which aids in seamless development, management, operation and monitoring of a global network with the help of a central dashboard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400893",
+      "originalUrl": "https://www.entrepreneur.com/article/400893",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-400893.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-review-document-parsing-in-aws-azure-and-google-cloud.md",
       "title": "Review: Document parsing in AWS, Azure, and Google Cloud",
       "excerpt": "In this article we’ll discuss the document parsing and splitting services available from the big three public cloud providers: AWS, Microsoft Azure, and Google Cloud. The use cases these ...",
@@ -1328,59 +1381,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
-      "title": "How the public clouds are innovating on AI",
-      "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
-      "publishedDateTime": "2021-11-29T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

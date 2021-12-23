@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
-publishedDateTime: 2021-12-23T18:57:00Z
-originalUrl: "https://www.seattlepi.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-webUrl: "https://www.seattlepi.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of data for answers to complex questions – as long as you speak English or another of the world's dominant languages."
+publishedDateTime: 2021-12-23T21:01:00Z
+originalUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+webUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+ampWebUrl: "https://www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: PBS
+  domain: pbs.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/12/2020-08-13T090841Z_973674791_RC2XCI9VEEH3_RTRMADP_3_NIGERIA-JUSTICE-1024x768.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 267
         isCached: true
 
-secured: "IbWE9CgzcwKSPbUbpN5REZYvVgkGSx7/wsDwtm2oO8sF2V9lxPfg14WTY6Q054w8pg7Kxq+1W5YQwPOXlI2GUOy7TLOhuJA4IHtmkidAgmDIORjw3AP+rWXeRDetu/DnyESwFsVh+emwBpSwXdmxvEPrPxr4AsGU5XRfvzArWWAIpqwPnfpZCsuHKMQ1OM+J+gOaoSZnz9//gQEecGx8eMjWrYYKuqxM3mxSecqzr0FUu8SCbJ3R01WyzFqI+DEOaIKxgxqWCoIVL3rLaO0jQVCHsIRX9nuZxV0Ry8uuY5XOdsk85IuiHOPbbJnV8oqn+hgPqZihupOVw867aEgGCZxg4b31gH8JjCfaLZ03GDo=;231F9dWWX8pxIbbSHxwt9g=="
+secured: "Xa3aZUDU5lD/JJ8T0zDgpuGwOo7IMRob5ZdXASyg8FtSQJmZIXY8jLETO5x63iOclyqMrENPlNZVHK69pjXhX4+aEnK0VxyM4jjq60ka5+GUbQy13BScbSnyaCsDaoX9H1HSTobu4wPml74DzNGihWk8lItKKRHDoAQQiBLL6mdbaUMxtr3TlKeAOfSX1IUsYBwawkIfHJAwjaaU8e7ngekAWDBpUXAUt8BbhdC7C6QevPhd4zGOzEoZP8dytF63VqD8EKFPTR3NtwBVxB0zZLmGFL72RY8lCIBey/Yu+Ewg68AIVN4ZJ22u3TyDpUH+Nm9fsfDFQTCDrklic9W+qYCaMxqdl9/cdBfTM8xjsfA=;RREv+AVDnYB8Z0Mj8r1drw=="
 ---
 

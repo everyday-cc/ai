@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pope demands humility in new zinger-filled Christmas speech"
-excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-publishedDateTime: 2021-12-23T16:20:00Z
-originalUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
-webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+publishedDateTime: 2021-12-23T22:18:00Z
+originalUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
+    width: 506
+    height: 366
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 800
         isCached: true
 
-secured: "KH1Bb42pyNi4ROLFU65C3bXKH7UVLIQxFdJ//dflypbYpV2/yXcBIgbwMVlC4DWSncoVbcDEiSSEUI3a5uCboZJ0osDEDd7OmVt0IJu6moPG/Mc2GvAwdvLRE2v4OHUv9lrhutFCgpYwcwpM9QQOCJFRqIAfRJPNynMl6UcJEl6qrfrKZhEHJdcx83KQDeoXewL1YMuqZteg1hRFMldS3dpV2J/eR8NNywLaWFQ+8OmniEFoc2Ia+REddY+wSSgQZ+G5bo0XcdCzc815KGyGYmHa8TjVKyY892rO/cBf50JVrlYlNdpce8zzdnqkvBZp/HG1Fv/NVyYFXo7bBelYAUveN6gH7J3OEBd5CoGG/Ek=;m4APZQrD7kooxvSdKxLBSA=="
+secured: "z8c/D+yHTYGr7SYCyoOG4STVf3LxZGhVteRFZj+zmM/eXbGAGHX0xavcogQzj6N+rg8Gva9EIXCmEU2ZfrF7a8f56oMzOuMcRICx9Uc2jPujUUjERm2KFa+Usvbm+eOtTnqOfOqYZ5RsvI/+rO8GNvqeE63q0gy7M4VrRPbFNiLQBu/TSOxJzT9zsk2Uu9S9dqrtgWlJ5SxIZkMlt4PLBU/U4auUowSoRYtU59yTmUYVv6JamBJX1/qS3eTbWe8QV/kBwSSdHUV7WjOydPb3H3j0Hw+KdQ60Uza3atYK/poPAvBZFPkUtm1FM7qrLrhW0QbcSWCSr2iCH1oCrC+2B8Aqr0Aw9yVc4IGsZEUgPPU=;Qo+6eP+O4Fzr63FflVFWUw=="
 ---
 

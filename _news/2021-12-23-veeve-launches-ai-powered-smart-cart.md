@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Mines powered by robotics and AI promise explosive growth"
-excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
-publishedDateTime: 2021-12-22T15:44:00Z
-originalUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
-webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+title: "Veeve Launches AI-Powered Smart Cart"
+excerpt: "American startup Veeve has introduced an AI-powered smart cart, the Veeve smart cart that aims to offer customers a frictionless and contactless in-store shopping experience."
+publishedDateTime: 2021-12-23T10:47:00Z
+originalUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
+webUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mining Technology
-  domain: mining-technology.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
-    width: 1280
-    height: 854
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/12/shutterstock_435613807-1.jpg"
+    width: 500
+    height: 355
     isCached: true
 
 related:
@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mines powered by robotics and AI promise explosive growth"
+    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
+    publishedDateTime: 2021-12-22T15:44:00Z
+    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 69
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "New ethical AI institute launches"
     excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
     publishedDateTime: 2021-12-20T23:06:00Z
@@ -82,20 +96,6 @@ related:
       - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
         width: 512
         height: 512
-        isCached: true
-  - title: "Veeve Launches AI-Powered Smart Cart"
-    excerpt: "American startup Veeve has introduced an AI-powered smart cart, the Veeve smart cart that aims to offer customers a frictionless and contactless in-store shopping experience."
-    publishedDateTime: 2021-12-23T10:47:00Z
-    webUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/12/shutterstock_435613807-1.jpg"
-        width: 500
-        height: 355
         isCached: true
   - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
     excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
@@ -186,6 +186,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 17
 
-secured: "tYCJ59x521dypxX1vFW2jgKx/cP7lTZDyQxnLRww3kUIIMZsz1XHYh5dFnkJJdRau0NsBWMxtThLoKAORImL2aJ6K6/EsT7tKdB5Tzcah31WeLZeyy2L1s4fOQan7ujX6jaDCJMZKk8y5G/1nEEFm9dLZNnKo8vMNzhqPmrHlUlWFXHnLaAm0DGkb/8xw0JhwifyebF6tODCFseUe65/dKaMAcm2CvAFTGWie7k48GATmA178yq7dDKGJAXjISl/UqYvtdUyCEUKp1+GYRSpuEV8Uh0l4Ked/Aet76MGMVF0C/HoWZ78I1LCV1S0oj1iOzIvSTBo3aq7mU5IhKt5Fz6IoVT3g/khfYznLFyc72E=;QiWWczDu1lHHmybE/C8QOQ=="
+secured: "YJJHZIb7CQ2629nkZ3Wz0Nvp+ZHzJmxxfWhrCN+uz8wN5poGpkyByC3yCP3OGxs35ZyM/bWvVCStLjcJD6AkH6IsEVk9kvCVPPLPH6W4LKbBx8OfM8Et2yq8S+hR9NGyQm5IFjJOtFD3qmf2mUuarHLHne3alQIielnCyrqxDA7RgVTo3gHfKvY1rCK2I2qdNIEH2vmxQheO/iJ8h/WgidGZ22v2Rk4h5fJvUUMRzkamPsSEzV4G2pIfV/nZxcerjN+yUdhsx5sC7B+crmoT6RP1LDYj8fxQxQOMsS6My9z98oVVwH7uF3CDnO43GQQVi8hyAOhZ/44Ry8pph46u4ctpgWoFHKqMXzUgEl+jp9Y=;3Zm1ZsgarR2AIoDx0/CtFA=="
 ---
 

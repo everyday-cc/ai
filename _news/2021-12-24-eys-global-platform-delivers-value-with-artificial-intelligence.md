@@ -96,6 +96,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Veeve Launches AI-Powered Smart Cart"
+    excerpt: "American startup Veeve has introduced an AI-powered smart cart, the Veeve smart cart that aims to offer customers a frictionless and contactless in-store shopping experience."
+    publishedDateTime: 2021-12-23T10:47:00Z
+    webUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/12/shutterstock_435613807-1.jpg"
+        width: 500
+        height: 355
+        isCached: true
   - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
     excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
     publishedDateTime: 2021-12-21T05:07:00Z
@@ -123,6 +137,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
+    excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
+    publishedDateTime: 2021-12-23T21:57:00Z
+    webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
+        width: 768
+        height: 513
         isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."

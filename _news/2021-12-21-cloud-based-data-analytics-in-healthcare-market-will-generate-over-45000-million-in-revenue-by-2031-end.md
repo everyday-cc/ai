@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata and Dataiku join forces to improve data analytics"
-    excerpt: "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers."
-    publishedDateTime: 2021-12-19T05:20:00Z
-    webUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/"
+  - title: "Mperativ aims to leverage AI in new revenue analytics platform"
+    excerpt: "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI."
+    publishedDateTime: 2021-12-20T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1291173179-e1640011949845.jpg?fit=800%2C533&strip=all"
         width: 800
         height: 400
         isCached: true

@@ -8,8 +8,8 @@ webUrl: "https://www.alleywatch.com/2021/12/hyperscience-data-automation-platfor
 ampWebUrl: "https://www.alleywatch.com/2021/12/hyperscience-data-automation-platform-document-processing-charlie-newark-french/amp/"
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/12/hyperscience-data-automation-platform-document-processing-charlie-newark-french/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.alleywatch.com/wp-content/uploads/2021/12/charlie-newark-french_hyperscience-300x300.jpg"
@@ -26,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "3xrQBQ1/V3t7Cnldv+HaOEELJVD7LEPdWRrfm4u2KGcB7KgNxUUfrk1s2/N7dWFrsSz8/aAB1uFoT7K+VHQZFYom3h6VppBrtPGE8MUPiJi1JeRIkFDdqWAormAf2275XHYy5i0CToO6cWOyQN9ecRORD1iVXbDGNcvi21zEOcoe8FOgI0wa82KAQole6MDyjIrq5/HHoQuQ4UbzbziCOplA4yYRLH9/F210Bv47m3YsMM0+qo5FLlCMp29y1mlw2C0yx33MHvH+ruwrE6J7pm1h5UQ4X8grlN3oNI9jmfy5epFvvP+ZnVZk2d8+/zsWZWphQuOC1015zzoo2y8Wy86tdDp5rSj+4h/O+/iWDnA=;SpntmjlFkosfQunr0g7c2A=="
+secured: "mrdXUhgOzguEEHjaOF++9mfwCMdsuVRFu2bUvD969yoMxwZzhS7Snv9jVrGB7bUpOWrEj2bzijEzljOOz9inCGSQ0KeoOS4ts5DRVDMneU80ttpzYY4jBlZxjnir5v5yhxbSWEsIVM52fvUTEkT/5MYq2iHuCP+nWFZnT9NoNXrbtM6GWz6/SOjLz4lWg77SrBwqo90fM6ZqWe+3dBLvBcgxaMR8lgBp3Lsd+0DfdSmva2cjeO2bsHpFU6kMtxdIh/CrJrBMlIvuyRizm//v8RKskE5S1/Zeeit9ZmQzDv81fripGrPeEkB4t7oXuQoyjMQ/otsM4HwLMImblexa90WpxQ2EtkcVxk44P0ICNDVW5abRUHDOItsteQz8VFp458g3Ef5Wf4qi4vXjHFJD2yrSev+G+ouorqc+8QpqQavKZXD9h+JIXY4axm2vYUC5u7mVz7GdXppEygyi/F+uoUKpn7N23Wz3T6vyk0TXtY9GhC2mq8NiwhOdrHMqhgLgEA+IFpzaJgAonFtN0cRdNw==;HI2vl9p3WXXXhb6Z1QwQkw=="
 ---
 

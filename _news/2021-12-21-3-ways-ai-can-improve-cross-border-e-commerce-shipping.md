@@ -40,22 +40,6 @@ related:
         width: 901
         height: 1199
         isCached: true
-  - title: "From AI to Machine Learning, 4 ways in which technology is upscaling wealth management space"
-    excerpt: "Wealth Tech (Technology) companies have rapidly spawned in recent years. Cutting-edge technologies are making their way into almost all industries from manufacturing to logistics to financial services"
-    publishedDateTime: 2021-12-19T06:40:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-from-ai-to-machine-learning-4-ways-in-which-technology-is-upscaling-wealth-management-space-173819/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 65
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Adopting AI to Improve Patient Outcomes, Cost Savings, Health Equality"
     excerpt: "A recent survey of senior healthcare executives indicates organizations support adopting artificial intelligence practices."
     publishedDateTime: 2021-12-21T14:56:00Z

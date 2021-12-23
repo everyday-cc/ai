@@ -2,6 +2,101 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-29-shark-cyber-monday-deal-save-200-off-ai-robot-vacuum-with-xl-hepa-self-empty-base.md",
+      "title": "Shark Cyber Monday Deal: Save $200 Off AI Robot Vacuum with XL HEPA Self-Empty Base",
+      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/",
+      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/amp/",
+      "publishedDateTime": "2021-11-29T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-three-critical-facets-for-financial-services-to-succeed-in-the-digital-future.md",
+      "title": "Three Critical Facets For Financial Services To Succeed In The Digital Future",
+      "excerpt": "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "publishedDateTime": "2021-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots.md",
       "title": "How CVS Is Using IBM Watson's AI to Encourage People to Get Their Flu Shots",
       "excerpt": "The company has teamed up with IBM Watson Advertising to create a campaign that attempts to identify and target at-risk areas before the flu hits.",
@@ -1114,110 +1209,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
-      "title": "Microsoft launches fully managed Azure Load Testing service",
-      "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "publishedDateTime": "2021-11-26T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
-      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
-      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
-      "publishedDateTime": "2021-11-26T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

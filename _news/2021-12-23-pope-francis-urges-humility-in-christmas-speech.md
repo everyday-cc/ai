@@ -58,20 +58,20 @@ related:
         height: 558
         isCached: true
   - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T16:20:00Z
-    webUrl: "https://www.timesunion.com/news/article/Pope-demands-humility-in-new-zinger-filled-16724593.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pope-demands-humility-in-new-zinger-filled-16724593.php"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T22:18:00Z
+    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/23/27/01/21852269/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
+        width: 506
+        height: 366
         isCached: true
 
 secured: "ouQeUu1MO50vnaMtMHhuvSDAW2AtTwLVW8e/sZ/HXVgBg7WE2cjhCMad4BGzXEn1kcQWtaavGSGH+A0cTug0U+KTImutVDJJ2VF6RETruWOP03CDaTVDn7FlC8/x0k/y8C7WAE55h46HrTHpXHcOLngaG8djz6h1yaQcgsBZHQvSdqBJhxTviY2KoVKhU5UQUGSi1VGiAzftaYo9EpxZj27mGwzSCNc/LxHQizu/tHG/oKFB4Vtq0f4iL+RED7GKKB/niMbMyCfmkNBmInJFxXBsBp5aVE8Zv8GLL+qcjDVUk8EnP3TWGkckeCIZ3tbtY0PVoN2tcH7TqbYRfJjJovtdVH7XJKZ34E7nywzqbh3stOUcJaBpRgCPh9JfpoAH7ADgZckuzm8MQbY6XeFAsrV5ZZi5C83pRHE/4jx6BOSsUInTnjtmxc4h3NPVEGYUbAKeuumo/Ix31zAADYIMW2//SVdlPCEqV3gg3SQGBbLdlAkWUmdSEr10Aukf25ytRYuRawCB22zkPEM8giywFA==;q/pXERCz3lz+HWgxyMRt1Q=="
