@@ -61,6 +61,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 45
+  - title: "Chinese X-by-Wire Supplier Nasn Bags USD78.5 Million From Fundraiser"
+    excerpt: "Nasn Automotive Electronics, a Chinese x-by-wire supplier, has raised CNY500 million (USD78.5 million) in its latest funding round. Bank of China Group Investment, Hillouse Capital Group, Contemporary Amperex Technology,"
+    publishedDateTime: 2021-12-22T10:31:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-x-by-wire-supplier-nasn-bags-usd785-million-from-fundraiser/18423701605449728.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "qPQYu2hcV8sHqjU+YJjYd8dU1KotnmSJ1FaL8QvWyBaFgcyx2KLNnicV1XVr+svFb6M7WDpH8ab4GLsSrMvJ/keXf4qiH83dDbQLIlUvqnFolae6PMg9r7CsQQV/6jlL6Fq6HfcI21sa2r4c0Lm47jC20dFioWdvYCDLdO5en/EtYhaMKosWnHxJDwlzxsB54xNGjEmpymrBmMxbF934nIyVqLWz7vcPxdhzB6K5Wt79xND2cla2nCefDtfraUBb4YQRWGn6GbKpW/SCWL/9WAFigEcKhwCu684UWgXt3rAKnwtO8Uwipvr7hWXgr/rgbSRcRrHHajiYYEsxcXm5JJtowml1p8tPSopE+MPtApqXumOWunQNKXmJPFy2L/Gdj8ViIZbuNXqAvshpWshYqXb36bKTUCG4CGnMSF5UapoANAuBLVr/rl5w0Yam25GR1GGeXEjyCrNCXHslD9R+ic8bQD7tfNtGjANTzfZP/WS3gPOX2Y3GlC7sGNEAD0jQ4c2BcpuSfpl1DMNaaucKIQ==;KKbRAqezF0ZxU3iiVUX0qw=="
 ---

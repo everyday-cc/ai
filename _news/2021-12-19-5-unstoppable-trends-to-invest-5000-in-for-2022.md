@@ -3,30 +3,22 @@ category: news
 title: "5 Unstoppable Trends to Invest $5,000 In for 2022"
 excerpt: "Artificial intelligence (AI) has already become commonplace ... Alphabet uses AI extensively in its apps. Its Waymo business is a leader in self-driving-car technology. And its DeepMind ranks ..."
 publishedDateTime: 2021-12-19T14:44:00Z
-originalUrl: "https://www.fool.com/investing/2021/12/19/5-unstoppable-trends-to-invest-5000-in-for-2022/"
-webUrl: "https://www.fool.com/investing/2021/12/19/5-unstoppable-trends-to-invest-5000-in-for-2022/"
+originalUrl: "https://www.nasdaq.com/articles/5-unstoppable-trends-to-invest-%245000-in-for-2022"
+webUrl: "https://www.nasdaq.com/articles/5-unstoppable-trends-to-invest-%245000-in-for-2022"
+ampWebUrl: "https://www.nasdaq.com/articles/5-unstoppable-trends-to-invest-%245000-in-for-2022?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-unstoppable-trends-to-invest-%245000-in-for-2022?amp"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/657143/young-woman-and-middle-aged-man-with-laptop.jpg"
-    width: 2121
-    height: 1414
-    isCached: true
 
 related:
   - title: "5 unstoppable trends to invest $5,000 in for 2022"
@@ -46,6 +38,6 @@ related:
         height: 1193
         isCached: true
 
-secured: "UicCQ0343/cuivP3X87R3UnuPx3MP2N6STeXdbKjGlj68MlCc9Hq5EFhKAK+7IOd5j+FdK3weWAJ53gYiVlVqAH0O18stLJIWFrNvmNSMsN9jK037The2QQnXH/BS28MG7u1t/E6r7oOxz8iB5BgDiOoMmcrN5RqKJxW4u8phPb/bQyjBlRNexfD5CgnSXjEAR5XkD6w0G0qGo9GL3QBNmHNEvr586XdQ0zopfKPa9lLsuGefLJZmW8e2uSH0gfgZxRm2F0USd0i62924Vpm9KCcbcOrY9GWD5gSrz9X/N99nYK794NrVg+1rSxTtoz1mzU69fy43gdPdf+w0liUmUQX6K7e5U1qps7H2z0Pkig=;rILvdJILTfmse02ed7owGQ=="
+secured: "ZRJHY9ZNA95rVkTPYxBVG4+WyGDQ/wWzdxsiC1ZXzO2NmpL1ZaHn784sE+NtNppH1y/DFs0lRlTPM6up85YvW2BOrS4PeOt0ZR3eG38eYsT346Mgl0r4KKP58Mzq5DhVh5+wNht+vqMQtb5Bj5IKAGLzGn40PgvJj8zJelX7CFUgL374fB+uvu23H3j5rRx7dM+38XgA+ddolCJF3c9dw9wRvQTYYIwyCzJP7/c6vlRO1JdaSaNstLt9tGM443uhwOpltqYkPGQf2/Oe3hWFE6FCaxTGskNrBrBdIMZMlltbO9iaI5A9wO3nBT7nNzhgIBfVJ+vUqCpsZcjc6rKDWlfQM2n67ceQW18Wklx7dhk=;eYTIPW72XFb/42tJt18vkw=="
 ---
 

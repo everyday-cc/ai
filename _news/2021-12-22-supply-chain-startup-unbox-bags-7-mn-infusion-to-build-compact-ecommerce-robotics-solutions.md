@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-ro
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/"
 type: article
 quality: 78
-heat: 79
+heat: 80
 published: true
 
 provider:

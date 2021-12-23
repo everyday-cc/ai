@@ -34,7 +34,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/silouhette_shutterstock_whiteMocca.jpg"
         width: 1000

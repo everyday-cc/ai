@@ -7,7 +7,7 @@ originalUrl: "https://www.abiresearch.com/press/2022-will-see-a-boom-in-artifici
 webUrl: "https://www.abiresearch.com/press/2022-will-see-a-boom-in-artificial-intelligence-and-machine-learning-in-media-entertainment/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1650
     height: 825
     isCached: true
+
+related:
+  - title: "2022 Will See a Boom in Artificial Intelligence and Machine Learning in Media & Entertainment"
+    excerpt: "Trend Report identifies the one key metaverse market and technologies trend that will deliver in 2022—and the one that won't NEW YORK, Dec. 22, 2021 // -- In its new whitepaper, 70 Technology Trends That Will—and Will Not—Shape 2022,"
+    publishedDateTime: 2021-12-23T04:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=592163"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 58
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "if3w5WHMbmoTsJVAD+hWBq50HkDlQOa2CSmAPjl6olbKIyWUviUiPeedQoUV0SduevcS8YbLiud0h5zIKEWAxEFbYVmwrrJhK79TDeqYpF5ioVA5WfKKTV96LGcazL7HPGVcLU6MbDa4wjA6TAwVCFn+rUra+biJ42qhpNK9Fw3+Dtzx/qeBzvOodx+2M6QVtXU/S2KJjeIus2rX+jrN4/RquntDNESPbgS5Vgo5Y1JBruXec5+bNy4oJ4BEVncCUshuwza0W4PkrQy6JeD227UfTwSXwMWpsFI53Uv+Fq8KsNGzT4qxtYDEOLdYw9XFCp+iyLYryM7JOEF0uzumjl9j7RrUYeplC+9Z/gmX4dgFsHvOzG4lfsLNj7sVFY4IMeV/iqZDnDJH6DILEMl3y5hh3AcdFxcidAjVqycb1F0O5MMgnifejf4j5IFE/KAyy3W97f/0YjTONuXvebkqkbm7ZH+ZeN9wy0SxK8pG9FQ2HtjDN5+mwqbyutunASofeuHT3F3xHPF7oSw2DJY6Yg==;CuYlBHTMi8iYg27SCIFHGw=="
 ---
