@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/whats-next-for-the-microsof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
+    excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."
+    publishedDateTime: 2021-12-22T21:06:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/12/22/microsoft-approved-nuance-acquisition-multibillion.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
   - title: "Microsoft's acquisition of Nuance Communications gets a thumbs up from the European Commission"
     excerpt: "The European Commission has just approved Microsoft’s $16 billion acquisition of Nuance Communications, the AI and speech tech company known for its Dragon Software"
     publishedDateTime: 2021-12-21T15:39:00Z

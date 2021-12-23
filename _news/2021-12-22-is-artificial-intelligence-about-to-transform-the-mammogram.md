@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Is artificial intelligence about to transform the mammogram?"
-excerpt: "An MIT researcher who survived breast cancer has devised a technique that seems to predict, with unprecedented accuracy, whether a healthy person will get breast cancer — an innovation that could seriously disrupt how we think about the disease."
-publishedDateTime: 2021-12-21T19:45:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
-webUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
+excerpt: "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world."
+publishedDateTime: 2021-12-21T22:34:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
+webUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "iHM+r7wDFAzGWS2bZIqcC/01M1GAqTI/DakvlyAuoNTvLMNl84lofpRRItZKCF/OVrz/T9w6BI6iTy+twlj8zvZ0bClHlennG5SCwCY4DvW9EAaKizEW2cDtwlXk+V4BVT7NWmKX7A7hWgDVf3tT0TpFU1kSVgDo8vv6Y4uX4jPW1kk8HMs3r5ee3or692BJ2dC8Ao2af8iWJ01rfwJu0/sIK6lLKkMmxA7YDFdMHVU13Z61BEPxMpelTHtzLhMXA6p5HzYtBn+xJdEWLJt0bBC6sp6hx3msBBBLMfAz2X5YJmM9KoxJjAlJJVSolICNRb5TzktefpeEzoYhTuRIphr8me9dSpA1McsJnOXLV+Wp+udWHOqenqvwYJt5bjMceRXEn7lAmB7xFeDsa8iPvXce8FVzAsmtChHWHXgjdigR1Ah1cCVteFzL0bJErMM3Zx89CIiPxcK2rCeIAzVKJzGa6CEA5AA969tAiviTwG/Z5ru7rzLro5UiWh8//OiDzoCeyj7TNz5M73zjJ08JFA==;sN4UWzGTTFqDZqnvtIbH+A=="
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "oZA/sit0Qs/kDI4n6B0am6VbnqFON4PVxdW+3V9lQNiI/sAiMUXqptGXxBsjjaBvts55so/GfrWZdNJBqRnU9CKE7TdhH73kMEnoM2QpXlH8i8Qt5vOa+3mtGCJ+ubVp/BVljV1ALPidbi2BJXe8KsPuIX9uktAYFGTuTf4ou4LFY1D1SY/TzWwdhnTAYz6sIjJ90QSQVB4iC+l6qqiKg7fU1rsPGT0H6iwtBDz+LP0IPsPy4mHf2cg0VWs84KhfXnRV1jj1SnZOExrwJkOqxeg60bz2vVv5MRgEeNCC7prcBMUSOVKErNNU71nygzXdL0a/OMq8ZlU69EtHRFsflmIwz2HWE2+jPLoRbqir3g8=;INc1sL3BNxuo+HpA+ou1NQ=="
 ---
 

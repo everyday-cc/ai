@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
+    excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."
+    publishedDateTime: 2021-12-22T21:06:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/12/22/microsoft-approved-nuance-acquisition-multibillion.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "LcCYAnPSbdjd/ZRM5hh2S775WvAc380hcbZ9EJl8IslpzNY/oRiJoPDMjepy9dPAYVyW7lEuktNVMmzNjkWYCiirgHo/siDbhvwYXrN9vDmNINit8/LLfLwqZydybnPTEighybRpJbrfMeSijyu8L1Ezm24mCM+aPQI2qpeY/jHLbJjxhcFEjEyWj79JseMPo2R1X7PXJ6EE+Msfa1BkA40BTpjNafVC7Vjq2Gn+hTFiL3noTrmr3Xgqycc5cHKZWuAAS20IGnYH6pCrTRD88IviiJiAHVLoBhgD2YqthWc73YHSlGW2uo2aFfRZurEf3AitUJ2lBZpCUIDEDYBqeTkuDvA8hCELnvtA1GfO+HE=;AWd8ElRllUlYDRj3tVqtxA=="
 ---

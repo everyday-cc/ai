@@ -44,19 +44,21 @@ related:
         width: 901
         height: 1199
         isCached: true
-  - title: "How AI Can Help Therapists Make Therapy Better"
-    excerpt: "algorithms may become our first line of defence against the mental health struggles that can be debilitating for many"
-    publishedDateTime: 2021-12-18T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-ai-can-help-therapists-make-therapy-better/"
+  - title: "Adopting AI to Improve Patient Outcomes, Cost Savings, Health Equality"
+    excerpt: "A recent survey of senior healthcare executives indicates organizations support adopting artificial intelligence practices."
+    publishedDateTime: 2021-12-21T14:56:00Z
+    webUrl: "https://healthitanalytics.com/news/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/therapy.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1040557296-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
         isCached: true
   - title: "3 Ways AI Can Improve Cross-Border E-Commerce Shipping"
     excerpt: "AI is a much-needed business salve, with the power to smooth out bumps in the distinctly turbulent e-commerce supply chain. But adoption should be approached with caution."

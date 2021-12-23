@@ -1,26 +1,28 @@
 ---
 category: news
-title: "3 Ways AI Can Improve Cross-Border E-Commerce Shipping"
-excerpt: "AI is a much-needed business salve, with the power to smooth out bumps in the distinctly turbulent e-commerce supply chain. But adoption should be approached with caution."
-publishedDateTime: 2021-12-20T18:29:00Z
-originalUrl: "https://www.mytotalretail.com/article/3-ways-ai-can-improve-cross-border-e-commerce-shipping/"
-webUrl: "https://www.mytotalretail.com/article/3-ways-ai-can-improve-cross-border-e-commerce-shipping/"
+title: "Adopting AI to Improve Patient Outcomes, Cost Savings, Health Equality"
+excerpt: "A recent survey of senior healthcare executives indicates organizations support adopting artificial intelligence practices."
+publishedDateTime: 2021-12-21T14:56:00Z
+originalUrl: "https://healthitanalytics.com/news/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+webUrl: "https://healthitanalytics.com/news/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+ampWebUrl: "https://healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Total Retail
-  domain: mytotalretail.com
+  name: Analytics
+  domain: healthitanalytics.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1017117288.jpg&w=750&h=340"
-    width: 750
-    height: 340
+  - url: "https://healthitanalytics.com/images/sized/GettyImages-1040557296-e4b00c1efb9503a805928b101c78b499.jpg"
+    width: 480
+    height: 278
     isCached: true
 
 related:
@@ -56,23 +58,21 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Adopting AI to Improve Patient Outcomes, Cost Savings, Health Equality"
-    excerpt: "A recent survey of senior healthcare executives indicates organizations support adopting artificial intelligence practices."
-    publishedDateTime: 2021-12-21T14:56:00Z
-    webUrl: "https://healthitanalytics.com/news/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
+  - title: "3 Ways AI Can Improve Cross-Border E-Commerce Shipping"
+    excerpt: "AI is a much-needed business salve, with the power to smooth out bumps in the distinctly turbulent e-commerce supply chain. But adoption should be approached with caution."
+    publishedDateTime: 2021-12-20T18:29:00Z
+    webUrl: "https://www.mytotalretail.com/article/3-ways-ai-can-improve-cross-border-e-commerce-shipping/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
     images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1040557296-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1017117288.jpg&w=750&h=340"
+        width: 750
+        height: 340
         isCached: true
 
-secured: "VuvGBmGmDEZ40qNpVsr3H0NMjmGz48rmJ0UYInndpOZaXSOJp5AEhbXfOsXzYSP9eGZ2kNC0cpFNfJoNohZzH786U/d7mfV20ITjvUil8pdQVYBsgbZw7mHJuIWYA9tvtUI26GRKDdCK7hlba4FGAPSoma8Nf0VCBlSGEMs47pLWSS97bCWLJtibZXeUeWlAqjCWcHAqOvx3En45Mj/6JArrt6xNAAeTMS7Vm+WEQgEhTFMwAaULxZmoq+EU4ScwKNNaXbMJCS+Ed4hVYXBkcpVsn4Do++GevHqqx3xuQrkLmv18eA1k4TBNF5ASGmaJ7v6CPZffh2bfl/EMkUb+6jZaxZ5lTSaLFNOhNfDqehY=;V86YXvra/W0QMCZ0pn0YMg=="
+secured: "ue+wbj9sVWZ5HYLel7EaV4Ps7uPNUUQZL27j8noaoPNYhgdAIS88SjEfXPuOzCnhGL+mPIj3rFI/RvsWQHnQQ7YC/ZpMjgKPpmqaFjL3ny3YQfRPMf4jG1/wKnZlj9mP3oooPx2BhEMPXWzBDTEajzcCMclOiLDTSFAPI3Z2q9u4/gtwznKlCUabaACxQEjzyb6LQkVuxp/+RoaPqE76wDUGuh7Ihvr43gJrbYkNAv9ouodd+/NdDxk8IWO7QMvrhFu2EcOt31FUTTJRYg1He7WAFYVfHCV03M+gXGZYlPEmgCQdf8AVNDF9E69NnmkcruecxU0NoY4t74dV0Q8b+fiFUhfeShgZXmQEFs22AiA=;BwFuczhibOYxEGeYIWOf3g=="
 ---
 

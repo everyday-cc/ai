@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Commission approves acquisition of Nuance by Microsoft"
-excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
-publishedDateTime: 2021-12-22T08:41:00Z
-originalUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft"
-webUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft"
-ampWebUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
-cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
+title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
+excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."
+publishedDateTime: 2021-12-22T21:06:00Z
+originalUrl: "https://www.bizjournals.com/seattle/news/2021/12/22/microsoft-approved-nuance-acquisition-multibillion.html"
+webUrl: "https://www.bizjournals.com/seattle/news/2021/12/22/microsoft-approved-nuance-acquisition-multibillion.html"
 type: article
-quality: 59
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: poandpo.com
-  domain: poandpo.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
-  - Microsoft AI
   - AI
-
-images:
-  - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
-    width: 1200
-    height: 673
-    isCached: true
+  - Microsoft AI
 
 related:
   - title: "What's next for the Microsoft Cloud"
@@ -42,6 +34,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/9d3a811ffb18456667d3435bbae7fd56ace127ff/2021/12/20/5362bea3-f5bc-4147-be34-1e26979bbecc/whatsnextmicrosoftcloud.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 938
+        isCached: true
+  - title: "Commission approves acquisition of Nuance by Microsoft"
+    excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
+    publishedDateTime: 2021-12-22T08:41:00Z
+    webUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft"
+    ampWebUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
+    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
     excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
@@ -85,15 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
-    excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."
-    publishedDateTime: 2021-12-22T21:06:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/12/22/microsoft-approved-nuance-acquisition-multibillion.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "Microsoft's acquisition of Nuance Communications gets a thumbs up from the European Commission"
     excerpt: "The European Commission has just approved Microsoft’s $16 billion acquisition of Nuance Communications, the AI and speech tech company known for its Dragon Software"
     publishedDateTime: 2021-12-21T15:39:00Z
@@ -109,6 +108,6 @@ related:
         height: 768
         isCached: true
 
-secured: "OXrzl3kFM4T7zJQ/S1N3oT8Nl+dRmtDXD+hQ6MmIF/D+8GNx0Aun58rb1Mv8rjo7ccNRqiR2tAep7s4zMptRY5X206/fHm5fA40v54m0Mjt2SxSW7V2QUhWk6q+S+ewj24OxOjyR4xnk8Zub6azORAV0/Lo0Pkq7ce1XwKAM3cKVbI8wHQLAJQ3yf3W5+dfPQr45V7WGDMuO8+qTgxMbSUBvRvmEVfobAnXrKUnOlGmt8C6CipZjn1J06MoSC9rlssfG7t1Rx4rvTTajnO2E1HUZKHWXRiFA2uT7kyyJbyxeUQT8qWJF9+4nHfOlHHFCHhp18bT6yHCOPtWcA6VaAKdXV1GGNYehbGfHuUuNlv20U7ejfDBB5IAXTrGRsHQgsgKLSiPpjnTAdfbAkVLnhJHj6i/DkRdwzUU5qZYgRF0q3KN9U9wSLx99dazRu8JUvwqMy87e4Akoe7XVudoAeNmafoYRzEMZdiVFtkvIoFLpKih3RwLVxOHkZ4dkY7jfMhdpljxMiHoUBBG1Q3xwhQ==;q41I7EmdzaHOM370EGMiLg=="
+secured: "eYMzO+2z305dZB8lDuGrKq1q9cNIGlQwD1S0w1/f5GqAm66NQi08+mMxhtDVa5vgnmjsGOvPVz5afN5JvwCOr45Nq+n8OUm4dOsTBpx8JTIVs1xz7tkuEO7fOXYC48oZk5fd4v/fGXfGPlZD4wRJZgsK+E+kinTBNpCylAawALGP8fskFyLgiNXSxAF7U3En/EMpkBqTkcgJeWIzAezkNyHJgDzozQ5bSZsdI+gkA87VXVpaPgIP74B426abM7G5lA4Y0uNKyXnOkwzBiCTyrv0PYGaWFzWjErOwRv468DDkXMBLPk+OOfTG7dIWqCFGs8wPvyE+Slk8Da/SFl6jVGgKDrEPDoc9y3yPHv8Ecaezkw46Fa0OobL3dSQ5AgUb/lIkFliFUk88WHW/iAUI/KX6BVTLDha+/1KkiZUqgbX41HBpkrFGO3DG0ZhVbJvpd2Hd7c6yNf1waP5CJw/VQDeVMrau3qYRMjl1LZMGGYi++KfIwiF56tLZmXqtsEyRqrhZuUv/umqm0PwWmkPz5A==;8bsAMPBrZpC/hMmFkB3gYA=="
 ---
 

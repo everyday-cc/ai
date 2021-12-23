@@ -43,6 +43,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Nickel oxide is a material that can 'learn' like animals and could help further artificial intelligence research"
+    excerpt: "The Research Brief is a short take about interesting academic work. The big idea A unique material, nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals,"
+    publishedDateTime: 2021-12-21T19:04:00Z
+    webUrl: "https://www.chron.com/news/article/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 36
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "t8TjbtRqlCmWWEPkPwpPfI63wb7nRv2OqfV/mBMztG5NyRnsshBIupsfQ0sj4vIT91+l1RsC8t0xX+Kc5hpMkX3PAEtWmWTXxncwW6yN8tWzB784M28tHpwQF5q7L27H9O52bNfQnk7JcLaVX+a3+C3fkbWgtxPVdTPzjHILi7zjFylS2bKUilBXbMEt1f12jEx5I9Smh4mjfV51wp1rRlHu4rcsHfYLfJ431BcRUHUdfGGJHTRXHJaBX1IKtquWmF7vfv7DFA31Dp3M7xI4ylShoV7bqjWho73xi2jaoaXiMnhn/ofGPno56E4hO8DAjWpsxOFWVyw7ndq7fsNxzMc7DVOqR2MJstCMwZnppt0ZQ7DndHMKfQgIKLYH9AZ0qlnXaFLqLsjcajx6korK2XnSnHhXbUfIOikqdxo9Vn/dDeqUXI1SKfRaxJAmU9D7YmWb+n3Y7pMkgckpHBHe8VLwvkcuRnX52VE2fksX2o/mxwFBOU1bX7dOkJDwFWrgkvYVDU0KruqEK/xda2BtiQ==;5K0Jyf/qXhroVLRpPQIdEA=="
 ---
