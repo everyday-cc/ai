@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"
+    publishedDateTime: 2021-12-23T05:50:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5199104-global-and-japan-ai-based-edge-computing-chip-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 30
   - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
     excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
     publishedDateTime: 2021-12-19T20:47:00Z

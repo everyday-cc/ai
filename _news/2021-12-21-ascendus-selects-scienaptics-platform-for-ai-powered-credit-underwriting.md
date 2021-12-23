@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ascendus Chooses Scienaptic Platform for AI-enhanced Credit Underwriting To Support SME Lending"
+    excerpt: "AI-enhanced credit decision platform provider, Scienaptic AI announced that Ascendus has selected its AI-powered underwriting platform."
+    publishedDateTime: 2021-12-23T05:54:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/salary-loans-Liberty-Finance-Lending-One-Way.jpg"
+        width: 1800
+        height: 1434
+        isCached: true
   - title: "Scienaptic AI signs Ascendus"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T15:41:00Z

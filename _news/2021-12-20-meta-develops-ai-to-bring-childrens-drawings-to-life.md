@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/me
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-develops-ai-to-bring-childrens-drawings-to-life/88383811"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Meta develops AI to bring children's drawings to life"
-    excerpt: "Meta (formerly Facebook) researchers have developed an Artificial Intelligence (AI) system that can identify and automatically animate the human-like figures in children's drawings with a high success rate,"
-    publishedDateTime: 2021-12-18T14:11:00Z
-    webUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/articleshow/88361441.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/social/meta-develops-ai-to-bring-childrens-drawings-to-life/amp_articleshow/88361441.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88361441,imgsize-306444,width-800/88361441.jpg"
-        width: 800
-        height: 492
-        isCached: true
 
 secured: "WstigKLj4i87uOrtx86ry/P1rGVtuZdVtlN9i4yhhxW9Fr54i3WBh57smL+ZtjM0Ms3pIcLnZq9wUUYd9ZedhDAeRg/1gBMeaMyjPKMg/txN/rvPSyKjYOYLRR7F3CSg7eNhCfByNaWTc06Vvs2XmLYjjYSnrotzUjfTlY7A+nut9F2/3m3FBEOn5E+lHFCPsyhoISsxH1L1Sv+2c+uOHlhh0fMHyDkELFcCX58fthMgyZu0YiYizCyFGDfGSpobP8CAiWiJKjXnjBnXaEBmFh94gLuwxuB6qjDmMj/edLdutRyUnbUjRjEnvxCcZuM5joOnTPSYkwbJx9HqmmqzxATP1WBrYbBlmto3X6qyiWQ=;Whl3fc4iYpdujXAjKyWo1w=="
 ---

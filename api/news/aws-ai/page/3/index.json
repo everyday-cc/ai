@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
+      "title": "AWS pitches robotics as the next big thing",
+      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
+          "width": 375,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
       "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
       "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
@@ -1290,103 +1334,7 @@
         "AWS AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-11-19-aws-aiml-community-attendee-guides-to-aws-reinvent-2021.md",
-      "title": "AWS AI/ML Community attendee guides to AWS re:Invent 2021",
-      "excerpt": "The AWS AI/ML Community has compiled a series of session guides to AWS re:Invent 2021 to help you get the most out of re:Invent this year. They covered four distinct categories relevant to AI/ML. With a number of our guide authors attending re:Invent virtually, you will find a balance between virtually",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T14:59:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability.md",
-      "title": "New Amazon Forecast API that creates up to 40% more accurate forecasts and provides explainability",
-      "excerpt": "We’re excited to announce a new forecasting API for Amazon Forecast that generates up to 40% more accurate forecasts and helps you understand which factors, such as price, holidays, weather, or item category, are most influencing your forecasts. Forecast uses machine learning (ML) to generate more accurate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T09:57:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

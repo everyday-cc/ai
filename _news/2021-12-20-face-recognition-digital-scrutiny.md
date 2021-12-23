@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
+    excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
+    publishedDateTime: 2021-12-23T06:58:00Z
+    webUrl: "https://koreaherald.com/view.php?ud=20211223000750"
+    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211223000750"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211223000750"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 43
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
+        width: 630
+        height: 415
+        isCached: true
   - title: "Our casual use of facial analysis tools can lead to more sinister applications"
     excerpt: "On Dec. 14, the governments of British Columbia, Alberta and Québec ordered facial recognition company Clearview AI to stop collecting—and to delete—images of people obtained without their consent. Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations,"
     publishedDateTime: 2021-12-20T12:17:00Z

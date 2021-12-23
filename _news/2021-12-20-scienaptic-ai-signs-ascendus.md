@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/90833/scienaptic-ai-signs-as
 webUrl: "https://www.finextra.com/pressarticle/90833/scienaptic-ai-signs-ascendus"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ascendus Chooses Scienaptic Platform for AI-enhanced Credit Underwriting To Support SME Lending"
+    excerpt: "AI-enhanced credit decision platform provider, Scienaptic AI announced that Ascendus has selected its AI-powered underwriting platform."
+    publishedDateTime: 2021-12-23T05:54:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184511-ascendus-chooses-scienaptic-platform-for-ai-enhanced-credit-underwriting-to-support-sme-lending/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/salary-loans-Liberty-Finance-Lending-One-Way.jpg"
+        width: 1800
+        height: 1434
+        isCached: true
   - title: "Ascendus selects Scienaptic’s platform for AI-Powered credit underwriting"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Ascendus has chosen its AI-based"
     publishedDateTime: 2021-12-21T12:36:00Z

@@ -100,6 +100,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
+    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
+    publishedDateTime: 2021-12-23T05:34:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-relaunch-275116/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
+        width: 1280
+        height: 631
+        isCached: true
 
 secured: "wO91Ubi/aqcT1uSMUDPEfZczgxkkWfh7VyEup271s6RBoAv/1f6nqZGJmLOJ+0O47GmkN7IHTkKyFuHb8zVKhFHcqWcaKlny3iWBFf8deblz2yAS6ulWlLeWIX68sYrQsVYSC7rgndrXxDXgNiMhQ/x22/mYgXSXfxKRBWaZf4Qv3OXg7fpTzqWINfZhCUm5STNCnbr75HeKxp8Ks2+xETBJ/o5B80O15dxrHAlHoP0LyNSDcOcXvW+F/k1ZTELpFj2p+6IW6Y5y1LVjvT1nWxDIW9W7Zp/4+rjnhic27mgOAv6pAD5XAKlnvbokQidY95w1YRjCzTWuBwS3oc+cVkZfHpvw+b2tmRu1RROLsW7Oe93DLpwXUMmhH8w6PaV/0wA/pWASQste3xxL6tZpZpvIKMi3nNpkQQNLY/7spUZIIvCaNk7J4rDVknraAJRtaF6G84FZsszcfJ6zt6D3tRKP9WGi1GV1dRKe2wM4iJBbrHmutF9H57J+4NPjeZhKl4unEn7gvRW3QBfNc8zymA==;YDnFcqIFYSnAGaie5MUVqQ=="
 ---

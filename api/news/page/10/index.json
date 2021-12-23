@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-13-waymo-faces-competition-from-driverless-taxi-rivals.md",
+      "title": "Waymo faces competition from driverless taxi rivals",
+      "excerpt": "Companies including Ford Motor's Argo AI and General Motors' Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202112/13/61b6a977a310cdd3d82052e6.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
+      "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
+      "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24564999",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564999",
+      "publishedDateTime": "2021-12-13T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist.md",
       "title": "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist",
       "excerpt": "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing.",
@@ -832,6 +909,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-11-lenders-use-ai-to-offer-low-credit-score-personal-loans-to-borrowers.md",
+      "title": "Lenders use AI to offer low credit score personal loans to borrowers",
+      "excerpt": "Fintech lenders are increasing their use of AI to go beyond the traditional credit scores and offer personal loans to borrowers with lower credit scores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans",
+      "originalUrl": "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/12/932/470/Credible-Upstart-iStock-1281297414-12-10-21-.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans.amp",
+      "cdnAmpWebUrl": "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans.amp",
+      "publishedDateTime": "2021-12-10T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 5 Atlanta",
+        "domain": "fox5atlanta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-chinese-ai-company-sensetime-delays-ipo-as-us-imposes-investment-ban.md",
       "title": "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban",
       "excerpt": "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company.",
@@ -1037,155 +1157,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
-      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
-      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "publishedDateTime": "2021-12-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
-      "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
-      "excerpt": "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/deepmind-ai-reading-comprehension",
-      "originalUrl": "https://futurism.com/deepmind-ai-reading-comprehension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp",
-      "publishedDateTime": "2021-12-10T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
-      "title": "Live transcriptions of F1 races using Amazon Transcribe",
-      "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T12:08:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -1184,6 +1184,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
       "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
       "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
@@ -1373,58 +1407,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport.md",
-      "title": "NSW Transport and Cisco to run AI and IoT trials to ease congestion on public transport",
-      "excerpt": "Several buses, ferries, and light rail services in Sydney and Newcastle will used to investigate how a real-time view of those services can guide improvement for reliability, future network decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3ffd711b93de229e359891faad7acb725504b6da/2021/12/05/b170e8c3-af13-4f1c-8b3a-0bbc82cf115c/ai-congestion.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "publishedDateTime": "2021-12-05T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

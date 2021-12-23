@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relau
 webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
 type: article
 quality: 152
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
+    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
+    publishedDateTime: 2021-12-23T05:34:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-relaunch-275116/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
+        width: 1280
+        height: 631
         isCached: true
 
 secured: "ccBazjnCdt2HdDFCuM7261aDXpS/o6R/GzXj8/8MKIad9QuSsiVj2SlKdr1wh0hAAHN0rlmkeLrxq8+6/MVmv6/ytrxkGr05cJjYvaFqZtakC5HbhKYYkFcw4mUyYj1sEwdsYdD9eAjELDPTkqYjFTRL4f3mERzUJcz8kGwTgPG9iafRiWURLACHDNePJyBlAEYXZGOD+17hrxTxvs/5aR6iz+TaK4SO2AeEuE8kM3GtQygUjPhPpMiOicOFHwTuqSu+TfDHMyxvuVFCQZiK3JIWwo9gAWIfxilWN7/n8HaVggHWuUC9hlR9fJWvnhkarRxEaUPo9fe4kY9okZErPrI2xOC4nh4UE/DmDG3q7nFssj9FHeBe3X1uAX1c8hQpBsTa0yWBG10d3tMNqbL4100mr/j935dz4RTmsc+Jmt3S4dALgHHaEZWjkr5j4off4b1jE9QmiIi9kZBujTZRRmJLelSa6p9Di+aM1wnqnSgqkUiKp0Q+wi7pSp1hMdBWafWxTrydf0eECNLCwZuqq/nEWuid8rGw0aoaiUoU4KY=;9OlFawk3VphVy+6W0lzkEg=="
