@@ -27,7 +27,7 @@ related:
   - title: "Beyond Protocol Enters Strategic Partnership With Huobi on Artificial Intelligence"
     excerpt: "Beyond Protocol, the distributed ledger technology platform, is entering a strategic partnership with Huobi, one of the top global cryptocurrency exchanges. As Huobi scales up its investments in Artificial Intelligence (AI) to help investors better understand the intricacies of emerging financial markets and the potential of blockchain technology,"
     publishedDateTime: 2021-12-21T21:52:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
+    webUrl: "https://apnews.com/press-release/pr-newswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
     type: article
     provider:
       name: Associated Press

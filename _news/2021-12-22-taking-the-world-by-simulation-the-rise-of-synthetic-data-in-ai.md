@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

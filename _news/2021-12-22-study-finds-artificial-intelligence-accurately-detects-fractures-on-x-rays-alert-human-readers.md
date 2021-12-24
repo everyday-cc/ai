@@ -60,6 +60,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 37
+  - title: "AI can help identify fractures on X-rays more efficiently, study shows"
+    excerpt: "A new study published Dec. 21 in the journal Radi ology says an AI algorithm can help physicians interpret X-rays after injury or fracture. The algorithm, called BoneView, was created by French company Gleamer and is designed to detect X-rays that are positive for fractures,"
+    publishedDateTime: 2021-12-23T18:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-can-help-identify-fractures-on-x-rays-more-efficiently-study-shows.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "34LvksFervz3YEM1yzmz0FDV4Hi3J5YCQT5QAKx9l7EUU+KFMWyycaQ8bAnzS4MraUnrEaW80O22H1XIxLrEWGH4zrMpRS2/iQ57SnMMSox4pOUMqwZlE74pb1MJed6FJ8Nob0x+XujRKYL8FlHZ98FVsG1jlNL3lNE6wTOaAjczAzVMITYOxUlFHJ/7FuCppYCQcxYvEi+pcuchQqapdtkNnTH6U1tZJl5UhAcCz68c/fcJy0MMd8cTtV+nW+tXaBDij+MUVPqKwN9ZTC7hOBExEkcUPmAd7YS4q6bGRLo1CzNkT6OIQIlXrous3sRe69DIlAPsGZ8ydDn53YloKe0+uNmXseV+P/geyG2rt6k=;Ra5EKYpxxIijdd7JRehbDw=="
 ---

@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mperativ aims to leverage AI in new revenue analytics platform"
-    excerpt: "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI."
-    publishedDateTime: 2021-12-20T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/"
+  - title: "Raj to hire tech cos to train youths in AI and robotics"
+    excerpt: "Jaipur: Chief minister Ashok Gehlot has approved the proposal for roping in world-class IT companies for imparting training programmes to the youth in."
+    publishedDateTime: 2021-12-23T23:01:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/articleshow/88462458.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: India Times
+      domain: indiatimes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1291173179-e1640011949845.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Cloud-based Data Analytics in Healthcare Market will Generate Over $45,000 Million in Revenue by 2031 End"
-    excerpt: "Pages Cloud based Data Analytics in Healthcare Market Survey by Fact MR A Leading Business and Competitive Intelligence Provider ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
-    publishedDateTime: 2021-12-21T05:44:00Z
-    webUrl: "https://www.openpr.com/news/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
-    ampWebUrl: "https://www.openpr.com/amp/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2505709/cloud-based-data-analytics-in-healthcare-market-will-generate"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc21914201_g.jpg"
-        width: 650
-        height: 443
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
 
 secured: "U4keoYbtcWgrR49mTxJfSFb+CBUduSzAGpF7Ag2buROxV6QmLS+mUvTj2hVdN24Wge5NhAOXvO/2ySKKdSfjK58IZ7uBmohSFEPF0t9ug3JyW+3dIJWYCh6akuSVT3J6Sy8zE/AILl0LblWhdpZlKEHaUB85kdsk6d0f4FD76i9MhRPYC3FKbNZRGMTuAnGRWqcsbKFraRWCJx4m0MIheFGvjTGDn8pCLubOI3bnq1tJrTHJKT6ZHw3JvJeF0s2O6h7bCgcdz5v537xzkb+Dthmx2mwLXDoq7+dJ1yEhSy3E2BhIC5xJFeLXmlFutR/pfGNnYC7YEY8uWi1jix/+kfL1AyG8jJm6CVxSpt2/FHrjZkbC+yRtj05GC8PJRvEClLGLhhhcDbvnPU4F9BxUs5kKnPvqb2bNlu726UWyVOETEP0yf1UVaOA4s/jOu41zJi85vC5gggEjXD91HiXkTPhw8qKnR+X3AWXaWGfl35OIZY2LfQCcL6owfQdVUcKGK5E/VjI2LyvxoWG+YqSRjQ==;ajQGTdk3QiWcIA7Tr5ckIA=="

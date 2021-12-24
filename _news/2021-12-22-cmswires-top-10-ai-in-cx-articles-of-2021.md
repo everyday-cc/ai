@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/"
 type: article
 quality: 61
-heat: 62
+heat: 61
 published: false
 
 provider:

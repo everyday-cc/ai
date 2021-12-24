@@ -71,6 +71,20 @@ related:
         width: 315
         height: 210
         isCached: true
+  - title: "Problems of the Brave New World: AI and Ethics"
+    excerpt: "With the increased pace of technological advances and the latest popularity of dystopian series combined, often we find ourselves asking where the world is going, a dystopian world as described in the book 1984 or the one as described in Brave New World,"
+    publishedDateTime: 2021-12-22T15:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFiSUqCXo1wuA/article-cover_image-shrink_600_2000/0/1640181984260?e=1645660800&v=beta&t=BFWDloRIT3dawYsYcdCk3tAI1Q8ifIQAYzC_6ZO_QAY"
+        width: 639
+        height: 540
+        isCached: true
 
 secured: "Q06ovaGwxi3VXlj6LZLhfyYjCiPy8jN+X8xQKPUi/lFcGqmzTMG5cDCiLvV8zXY23/eDI6exLMFWoKPN9cIFFgUa0Y7kPYA4FfnjNYsW2VP03y/aFNrDk51hYD/wffqCpjFaE15POBvJv7V/ZQjuoeyEY6GPjPkouBw+YNhb4r1n5OemdaNPYKVPYLXV8ErRKxrgwGwAYiZTKTjvfBE3Og6h/VE4ydzxpeQL1DCpZgWqCQITGEEx8bUHeCBFlFPAcSqnpdGvcFhfDov0uf+vBQOdpVapb72vz2aE0QqbJo84HVcrGIy8HuTB1ZslLa33evXkUGAGTbxPUb6YhFAOb1AaPD4eDpiH1OD0okWn//0xJ/KxqbNcVCYhcQg8Z2M6onKIHPEljzp7H4sIDSnhnJ84y+MEzvKU+SbqVK6zOICGRzVYgoP6hVTiCeLYu9CXZ4T6+lsnFRjlPUq2r2v/U3TMzhZ9wwXJyEMjN3DJeHtncqXX9NjwAVvJzeqbY/NguMnRw2fVzFzK+uUkV6wR3g==;gsxOu0TbtHZPfkQEBSJiHg=="
 ---

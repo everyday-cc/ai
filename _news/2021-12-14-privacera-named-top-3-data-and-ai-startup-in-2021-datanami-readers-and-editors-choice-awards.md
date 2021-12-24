@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/23/wombo-dream-app/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/23/wombo-dream-app/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

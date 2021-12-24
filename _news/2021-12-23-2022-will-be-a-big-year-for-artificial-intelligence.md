@@ -130,6 +130,22 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
+    excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
+    publishedDateTime: 2021-12-22T20:57:00Z
+    webUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/"
+    ampWebUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
+    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 57
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "The Most Common Artificial Intelligence Misconceptions"
     excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
     publishedDateTime: 2021-12-21T23:16:00Z

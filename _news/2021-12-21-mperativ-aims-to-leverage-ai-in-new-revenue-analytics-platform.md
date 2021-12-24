@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
-    excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
-    publishedDateTime: 2021-12-21T00:19:00Z
-    webUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
-    ampWebUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Cloud-based Data Analytics in Healthcare Market will Generate Over $45,000 Million in Revenue by 2031 End"
     excerpt: "Pages Cloud based Data Analytics in Healthcare Market Survey by Fact MR A Leading Business and Competitive Intelligence Provider ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
     publishedDateTime: 2021-12-21T05:44:00Z

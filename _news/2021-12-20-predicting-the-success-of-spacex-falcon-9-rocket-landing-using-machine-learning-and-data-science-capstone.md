@@ -7,7 +7,7 @@ originalUrl: "https://github.com/KaushikPalani/Prediction_of_SpaceX_Falcon9_Land
 webUrl: "https://github.com/KaushikPalani/Prediction_of_SpaceX_Falcon9_Landing"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Science Fair 2021 - Predicting Human Behavior Buy/Sell Activities in Markets Using Deep Learning"
+    excerpt: "This repository includes much of the code and information from the 2021 Jasper High School Science Fair competition. - GitHub -"
+    publishedDateTime: 2021-12-24T00:31:00Z
+    webUrl: "https://github.com/Khosraw/Science-Fair-2021---Predicting-Human-Behavior-Buy-Sell-Activities-in-Markets-Using-Deep-Learning"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 43
+    images:
+      - url: "https://opengraph.githubassets.com/bdb81bc3e48c853dfbaf28753f6415d056e72e0697aa06fbd750457a67aad717/Khosraw/Science-Fair-2021---Predicting-Human-Behavior-Buy-Sell-Activities-in-Markets-Using-Deep-Learning"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "6sFnbfaHgsZWDObiLr08497+iZeiolBkOJ8DvHytXqSNw0++Jbc0zbaIIVoPiS0yzvu7BwC0ALTM40SnM5RKRYHC7b1HcpYIFNWnF+4/R1B6IZHvKefWrE52C3+QC+BiJUSShYnuKsTKOdcMpBz3Ty4ItbiuKKI9v8NO6Ngf/6Y4j1yvPeFeKGVGV1XVOr74lIRdER8uaoEx3Fe3m9a69zKV7+1Y8mtffc3lobFfum/tKeMroTjhguAXcd5dfPjOgQJEXHSQBe2NOkTR6C1OtF9rqKY+wqdsUxxCFara0gBSGK4NFjyqWIluJ8MSCepYIbgmJvDxYNs6G3RWQ0qD3xfhsio6/GWRLRx7rUq9lgOr22TdRSD3UjKWzEguoSfH/DUYYoFyIq7AMFrtDoneSOyaCBUzTfu9D1YXRKtZDQurVyi8iNtQLtKRuyrfbixgP9iWLKxc9HIh3fH6CfedWQSzm8yohpuyj2y1MBQIs+ks1sfYRCxI7q8Ur5kZgGGHZVSJkFoSvpXyqr2OvcoHIQ==;HxIuDEPKHY3//loYMi3wsg=="
 ---

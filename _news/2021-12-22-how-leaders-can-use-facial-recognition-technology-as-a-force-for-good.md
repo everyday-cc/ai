@@ -45,6 +45,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Face Recognition Is Being Banned—but It’s Still Everywhere"
+    excerpt: "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks."
+    publishedDateTime: 2021-12-22T12:00:00Z
+    webUrl: "https://www.wired.com/story/face-recognition-banned-but-everywhere/"
+    ampWebUrl: "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Mainstream adoption of facial recognition can have sinister consequences"
     excerpt: "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans"
     publishedDateTime: 2021-12-20T14:15:00Z
