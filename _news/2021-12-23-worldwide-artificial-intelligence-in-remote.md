@@ -112,6 +112,20 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Artificial Intelligence for Credit Unions"
+    excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
+    publishedDateTime: 2021-12-24T22:54:00Z
+    webUrl: "https://www.linkedin.com/showcase/ai-for-credit-unions"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
+        width: 800
+        height: 356
+        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z

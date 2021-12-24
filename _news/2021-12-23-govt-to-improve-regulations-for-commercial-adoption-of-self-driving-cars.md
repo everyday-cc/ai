@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
-    excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
-    publishedDateTime: 2021-12-20T06:43:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars-41639977703436.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 40
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/12/20/600x338/American_Auto_1639981171450_1639981180872.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "How does AI impact self-driving cars?"
     excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
     publishedDateTime: 2021-12-23T00:22:00Z
@@ -112,15 +96,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-    publishedDateTime: 2021-12-20T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "a3UKCNBjQQLE8fkFCI7UkPzhG3YD45G9Av4GQ/uMhz5nGisaQFOECUtQ2JsVRBHxEU05XQi4UZ6Uejsg69V47AEai9Wc5MvSuUqw7bEdIQssmJl/NusF7UtJ9sJZVetV+saFfmfyeFcZKdxFCnLJtBK95tsnstBo9T7ixfscJNPd2PK/6+cKGCgEHMQ1ljAD7YIawV64OyAd04yb4L3J5x+NV6BGo/NLFWu8LtC7zlrx/uQe2Wydad+R0oItU3+2fy82Fb93nqYmkCX/Om6i2LbEaYz2cxctxEyvLUdDmum7D50O5YvCvNO8aHqiuBL6Xg7+VL6e1G7EMd/8Km4jsg3Wp19Aycqpgp0o8/Z4/+Y=;88VLjwZlASGXEum4SvbiZw=="
 ---

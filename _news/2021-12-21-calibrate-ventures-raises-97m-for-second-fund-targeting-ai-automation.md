@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-fo
 webUrl: "https://www.finsmes.com/2021/12/calibrate-ventures-raises-97m-fund-ii.html"
 type: article
 quality: 167
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
+    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
+    publishedDateTime: 2021-12-24T22:00:00Z
+    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
+    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 54
   - title: "Apex.AI raises $56.5 million in Series B fundraising round"
     excerpt: "Apex.AI raises $56.5 million in Series B fundraising round . December 20, 2021 by Mark Allinson Leave a Comment . Apex.AI , a company developi"
     publishedDateTime: 2021-12-21T01:49:00Z

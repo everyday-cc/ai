@@ -122,6 +122,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Artificial Intelligence for Credit Unions"
+    excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
+    publishedDateTime: 2021-12-24T22:54:00Z
+    webUrl: "https://www.linkedin.com/showcase/ai-for-credit-unions"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
+        width: 800
+        height: 356
+        isCached: true
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z

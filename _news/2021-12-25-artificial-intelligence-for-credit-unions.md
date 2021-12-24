@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Five Predictions For AI In 2022"
-excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
-publishedDateTime: 2021-12-23T14:08:00Z
-originalUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
-webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
-ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+title: "Artificial Intelligence for Credit Unions"
+excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
+publishedDateTime: 2021-12-24T22:54:00Z
+originalUrl: "https://www.linkedin.com/showcase/ai-for-credit-unions"
+webUrl: "https://www.linkedin.com/showcase/ai-for-credit-unions"
 type: article
-quality: 87
-heat: 207
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: LinkedIn
+  domain: linkedin.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +22,28 @@ topics:
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c48a7b566f48451cdf6072%2F0x0.jpg"
-    width: 501
-    height: 344
+  - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
+    width: 800
+    height: 356
     isCached: true
 
 related:
+  - title: "Five Predictions For AI In 2022"
+    excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
+    publishedDateTime: 2021-12-23T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c48a7b566f48451cdf6072%2F0x0.jpg"
+        width: 501
+        height: 344
+        isCached: true
   - title: "Predictions on robotics for 2022"
     excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
     publishedDateTime: 2021-12-21T12:30:00Z
@@ -117,20 +131,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Artificial Intelligence for Credit Unions"
-    excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
-    publishedDateTime: 2021-12-24T22:54:00Z
-    webUrl: "https://www.linkedin.com/showcase/ai-for-credit-unions"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
-        width: 800
-        height: 356
-        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z
@@ -187,6 +187,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "zKNEvFi406AsD0AjjgUDBFZPnqWxh6DKdeKBsrvyL695hgwJjMeMOrvLBgVb+K+UnGQl/BypHBWAUr3pbkbSf0L19ar9H13FFLm6/cBRtzvByBMUS0SDrSBGypypwaq/cYZ25ZvkRx5v1ioNPIk+POIgNC5a6Fctk04fFbHdet7Ii+0DHb2inSZlGYZXCKaGQkqDNv1R2OksMOYYxVAkExo+SYpIV2BqYf+Xk6LlJVOTeXLyox5LrGCnGPjkEBuXWWKNS8TipTLkRQIJaEtoE3JSiiFrIKsmVlUtw/L/J9ME603JOR4/uaRa5e9X58mcCvupRb4M39V3MqFsJ2OSjhaywLscbARNxTn66Ryzd6Dd46+Re/DJEqalfRjGrwtx7niB2uMEQMNrzjCRK+enUPg9olDZnraJX8nbMIaBtHntAWezts6/akNJLGlAx4nTajl8jyWywuuSiR6g6Zj5p95z6hr2EuyrSP+rPcrJ+WNpXrwNMud5XjvglvcQm1uzLX25LeokVEY6myIiToSBjw==;uKxGmFVHwcVYNZ82pRYkOQ=="
+secured: "ZUC2IkIHOMcCiD/FrSoac0wxk1dSDNi7n4lpc0bV2zShMwZsSm4AEly0aBldj5Y8Cusu8d3Uwjo2Qej6r6Nbu9ay7gbWMcK2yrOnZcCMeGtmpydD+Sl/CPcN/WJw9K5B2inlzBzHsqP2fynxKy7aIdex4fKcxYSjiWXxa9+kQw3DBNCtJM3/ehUg2/OFOdRfuOZV7+lNihWADvxsuEnQ83U8Hh8uQrEENd4argSSkPpYQuJ0q9jFYn6tHEq4PuoHHPS2Q0vuHsX6CFWfjCG3JJZOPlwivDN/IlR7udXDpdtVvGig8sYDyYOwTFKToNXIKycJ+IjDLlJRJTleFw0zQDlm70VcbGZDKB+6GaOJaLI=;8W0shidNfykzgTZKPDjseg=="
 ---
 

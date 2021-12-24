@@ -39,6 +39,17 @@ related:
         width: 400
         height: 293
         isCached: true
+  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
+    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
+    publishedDateTime: 2021-12-24T22:00:00Z
+    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
+    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 54
 
 secured: "W3yEAgOfv+cpbmCdnmTSfes6Rut0BIEcsPlLJsErr9/ifI++Hx0CpM1M9FhLNjci6fQ4ZtvIwnqIbMf9roX0grlnalEkTxqjqvBJR2JVxY6iixHjXAgRF8pQehgBZF7D4+nCWcm4u8juKOjUHrWWPqMlpEapgsfbPx544INHzd3DqQSZc1yTZ6zMTEZImmHo24fnq6+48Oi2zBJnUXT3kR/LD5nbK/LIRh0dXo/l3tjzrHYH3qc5slprBAZjb/6mheTc0wD0qp7TcKsE2JnSQ1/c8HSk1gKi9adHokTuFtgsH4VnOV2Xy26ief35VPL4OjmPbV2yjwyChqwiXtmruMH4h8iVDqebY1x1/BAryeg=;jaKpmCQAdYDPx5+qdi2VUA=="
 ---

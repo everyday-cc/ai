@@ -72,22 +72,6 @@ related:
         width: 630
         height: 415
         isCached: true
-  - title: "This new sitcom about auto industry pokes fun at the world of self-driving cars"
-    excerpt: "The series is set around the struggles of a fictional 100-year-old auto company - Payne Motors..It shows the journey of the company which is trying to navigate the world of self-driving cars and other industry challenges."
-    publishedDateTime: 2021-12-20T06:43:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars-41639977703436.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/this-new-sitcom-about-auto-industry-pokes-fun-at-the-world-of-self-driving-cars/amp-41639977703436.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 40
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/12/20/600x338/American_Auto_1639981171450_1639981180872.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Self-driving cars could be legal by spring 2022"
     excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
     publishedDateTime: 2021-12-22T14:00:00Z
@@ -116,15 +100,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-    publishedDateTime: 2021-12-20T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "vgwwXJ1//02zXRrl3AaxEuefBxkDVReWuo6NZaPrhpiPHefUpMJ7hm9Kh3Pg67e+pCEA5Gb+DlkoYuopvNAKEXjdSefovUpzPJx82IF0MQov+m665o3beOKT4O0hNHfH0rV6t163iPpOtgDBT8NzWxDh3r/ZIo4JK5jUZ4ZDJGq9oKw9g69S3OaSYTwaUMpUK3Vduqce+Tn7Rsk+2gYufe4FyCHRDwd/9kK7SLfHfTU1vETqDAzL6yMeFad+6kHEfIExQHL1oPcXskaO/OkBUiY2TtzGnECvjr2aBtuU7YjZ/V7DLGHHSb6E+tRu2ehy8IWIHyk63b3i8ksHcqG0AIqtJsTHXaa7SiJSSYE+5Q6mn4ov76Eqzd7qW6qHlFoDgoqZ6fikdQevD9GkLnjDWIKZ6r3yraWITXrnljkQocIe8FcERK6lomUEQZIopamj6SKPtHkXtHg8NdRo1zCfJNqqjLcfhJkLHTekuAwfITJohAo20AHZXvNj+Thj6yjsDAuKHKFDZ4QGZGE1F+XkDg==;41rUkvj9Q/ZmVYTbdIvmWw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-25-report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data.md",
+      "title": "Report: Computer vision teams worldwide say projects are delayed by insufficient data",
+      "excerpt": "The scarcity of domain-specific training data is compounded by the fact that computer vision lacks well-defined standards or best practices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
+      "originalUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision-e1640111168754.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
+      "publishedDateTime": "2021-12-24T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
       "title": "Tesla agrees to stop letting drivers play video games while driving",
       "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
@@ -677,7 +729,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -875,7 +927,7 @@
       "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1160,49 +1212,6 @@
         "AI Hardware",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-interview-ibms-phil-anderson-on-ethics-and-ai.md",
-      "title": "Interview: IBM’s Phil Anderson on ethics and AI",
-      "excerpt": "IBM South Africa's Phil Anderson joins the podcast to unpack AI and the ethical concerns around the use of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
-      "originalUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/12/phil-anderson-2156-1120.jpg",
-          "width": 2156,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
-      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
-      "publishedDateTime": "2021-12-23T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
