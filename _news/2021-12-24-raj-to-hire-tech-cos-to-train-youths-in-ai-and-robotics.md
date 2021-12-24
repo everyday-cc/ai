@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
+    excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
+    publishedDateTime: 2021-12-24T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "dL5MOtwBPxoaEIE1vKhqd6L2sCJwZaAeVUUINMvKbXMN2dctHSNhY56vgbp2VHnCVvb/ztRFSETTLFDxUo7blMeJXbhlKlHDWi713SaG7z+BtRaeU6u2zFIxU4W9l5jWlvMWCD3DBmxHomII7jhbzE+1wLKujp2XueEghxR/cwXWaKRVgP1imFu71rXzeRtZROmK9wyu/9Tc6GU6AEsXjdSeWWq3XezX5TSrBefd3iT6L2N3ATj1VVfmiTae6HyUsBPh7O+XdtRm9qiHdfmhXLw3Glw0VFU6fRtBAtn3M/Y5v0d9kCK5m3ZMPN391bEmrn4Ybhp6qF3VXRqSC8INYgAeqwYOOAKXjGMrnrZZzfE=;nK08YiUREEJ0SyQS0sTQeQ=="

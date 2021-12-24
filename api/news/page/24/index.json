@@ -2,6 +2,83 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-03-experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference.md",
+      "title": "Experience the Future of AI Innovation at the NVIDIA GPU Technology Conference",
+      "excerpt": "The NVIDIA® GPU Technology Conference (GTC) is a flagship event for artificial intelligence (AI) and deep learning, bringing together IT developers and industry experts to connect, learn, discover, and innovate. GTC provides valuable training sessions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/?amp",
+      "publishedDateTime": "2021-12-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-far-field-speech-recognition-market-industry-analysis-by-future-demand-top-players-size-share-opportunities-revenue-and-growth-rate-through.md",
+      "title": "Far-field Speech Recognition Market Industry Analysis By Future Demand, Top Players, Size, Share, Opportunities, Revenue and Growth Rate Through 2026",
+      "excerpt": "Far-field Speech Recognition Market Research Report Size, Trends and Forecast provides an in-depth analysis of the Far-field Speech Recognition Market including detailed description of market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/45362365/far-field-speech-recognition-market-industry-analysis-by-future-demand-top-players-size-share-opportunities-revenue-and-growth-rate-through-2026",
+      "originalUrl": "https://www.wboc.com/story/45362365/far-field-speech-recognition-market-industry-analysis-by-future-demand-top-players-size-share-opportunities-revenue-and-growth-rate-through-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-kinetic-energy-flux-constrained-model-using-an-artificial-neural-network-for-large-eddy-simulation-of-compressible-wall-bounded-turbulence.md",
       "title": "Kinetic-energy-flux-constrained model using an artificial neural network for large-eddy simulation of compressible wall-bounded turbulence",
       "excerpt": "LHD, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, PR China School of Engineering Science, University of Chinese Academy of Sciences, Beijing 100049, PR China Department of Mechanics and Aerospace Engineering, Southern University of ...",
@@ -1065,83 +1142,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-that-radio-dj-you-hear-might-already-be-a-robot.md",
-      "title": "That radio DJ you hear might already be a robot",
-      "excerpt": "Andy Chanley has been a radio DJ for over 32 years. And now, thanks to artificial intelligence technology, his voice will live on simultaneously in many places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
-      "originalUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2019/06/13_RADNICH_6_RKH_0.jpg?w=1024&#038;h=685",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
-      "publishedDateTime": "2021-12-02T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing.md",
-      "title": "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing",
-      "excerpt": "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-helps-pfizer-accelerate-drug-development-clinical-manufacturing-/2021/12/02/9503795.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-helps-pfizer-accelerate-drug-development-clinical-manufacturing-/2021/12/02/9503795.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

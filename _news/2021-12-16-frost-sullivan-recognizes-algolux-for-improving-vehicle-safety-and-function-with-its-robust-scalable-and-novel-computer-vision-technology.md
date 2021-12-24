@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America Technology Innovation Leadership Award in the computer vision space. The company offers innovative ..."
-publishedDateTime: 2021-12-15T19:04:00Z
-originalUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
-webUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
+title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
+excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021"
+publishedDateTime: 2021-12-15T22:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
 type: article
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "0ahqxhyT7mA/fLqxdu6sOJNK4wvMZMIsGqFGjkgB8IHvWggqdLkQ6udgrhnVvRoi3yb0T9esT7pG9LgUZx2Po4Jy6S9vfpHgNKn5e6WqDor786JU/xSNvayfQv/piE0tgz3wvyxbh5TmpboTS+uNsc3eO8eYk59PTFL4ECMGqXgJQ+QjKerbzyWD96Y2YbkH8L5MLAzswcdL4ZVd1C0FWBJELS1kQscbUYs0+9AYsq8LceVcCGAnzttPkJNCfXKsv+cEPWPdWbTVso1Qv6YxsPtTS5KO0krljAAchBWrEyrRxBnrnSxC9HN8o1g58QK4KVcXxSTgcHDLbtOyHgAdm19W2awF+IO/avgQWVp11Z4=;Fb6HMnm9nNR3SGnGD1LRhQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
+    width: 1500
+    height: 785
+    isCached: true
+
+secured: "ULc/E8+C4sC0xp0xvUTGlhajvAsDEFThejsNGb/KwYfcb6wFM62RvMkmr7d5Wa0P5IcFw6cyEmbWuARIiKQUFZgg9a6kAgDy20WSldhnQHgx0ctlAVF/6KgWjWsUg2USA5G7aMZLPpvlzskGItxRVHvXzXwVEaUtPqDiZO+kmJnAX4bGhp01VbsMSUbh64fAy6R3azaua8+h/qA5Gqzg1POQUpaUjRm13D1c3hsEVsm6LVfsm+a8G8A9iQM7/U2umwmaWML/9omPp8D/AocnWysfqFc1tcrISnc67/oN8AlZ77w6Jy5zqZqk/4eyZVsGAaJNdG4wGbFbiC1G5VkmykKJbmJFLXGbAwFJbmZNiAM=;IxdwoDOvWnlKFqHpg0Tn0g=="
 ---
 

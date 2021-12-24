@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Accenture Partners With BBVA on Artificial Intelligence"
-excerpt: "This article was originally published on TipRanks.com Global professional services company Accenture plc (NYSE:ACN) has signed a 10-year collaborative"
-publishedDateTime: 2021-12-24T04:45:00Z
-originalUrl: "https://www.smarteranalyst.com/stock-news/accenture-partners-with-bbva-on-artificial-intelligence/"
-webUrl: "https://www.smarteranalyst.com/stock-news/accenture-partners-with-bbva-on-artificial-intelligence/"
-ampWebUrl: "https://www.smarteranalyst.com/stock-news/accenture-partners-with-bbva-on-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/accenture-partners-with-bbva-on-artificial-intelligence/amp/"
+excerpt: "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,"
+publishedDateTime: 2021-12-24T05:36:00Z
+originalUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence"
+webUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence"
+ampWebUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/07/ACN.jpg"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "BBVA Teams with Accenture to Streamline Operations with Artificial Intelligence"
@@ -41,6 +35,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BmInPeRHEIwHNs+qcXc5fmo0BKKWAwZP6Amo2NEpUKg4sjQJgr7fQRJhKAE6FwePmTSTPMkvE/BUVegv2Om+MfYWirV0o7YM9akVtOqIQRf9xn/oUTbNYdL8gccvtwFM7P8h/4k0NanxKLHsZJST/zLHQp1NHh32vFCnvVK0hA0+pCQvgWd3toBD7hIymU8/10Whd/r8jLbZi9RIt1Y06zkZkwcAzmfujPmRMmvfPCyT8zWf8k5E4UVfk1RPzUuztyWuVOUVSOeSlvd/j4EbtDWz2pdT9Ssno3gYYJvvTVjs1ybMh02szOhnkg14FL93hYuNAex6P64uhB+ZlzzSSmsoc0BfS7to6GPaASGxPbA=;WOq89w9mnlvanCapGtPKKA=="
+secured: "ldeORUkLCoZ36UwR+gg9u8+A5NXrMd9k7/aK0WRVB541aBaf+iOGc9T8hPCHy3xmdka8QKFqm+O04T6goHbrXfUS8hwhrOKzwieH3S+MoQzul5kX/HicFxqSO3LXzFf7kvynp9dXRuI+gL5Vl3BHlnJ0+9yLg4E7DFklAzUIiYRUMlHl7jfdO9j+ezu7/zD2pn/grBjiK5N3E49dt8RsslElvElOZ+++6xl9RQJqPJxDnqZNx6Kx2ko2ejPKZjnxVgPFhKQX5dVNRovTmF6yfLkk5T3Fy6iihj2xKyxRYr+ENkyTvsIVMGae594UmRNAZss0lImuSg4fbUiRIhYKaV7FDH/HAqTDvRzcOEI0StI=;MclwJcIJNZP389PmxayUjQ=="
 ---
 

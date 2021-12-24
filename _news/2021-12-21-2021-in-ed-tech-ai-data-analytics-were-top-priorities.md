@@ -42,6 +42,20 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
+    excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
+    publishedDateTime: 2021-12-24T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "U4keoYbtcWgrR49mTxJfSFb+CBUduSzAGpF7Ag2buROxV6QmLS+mUvTj2hVdN24Wge5NhAOXvO/2ySKKdSfjK58IZ7uBmohSFEPF0t9ug3JyW+3dIJWYCh6akuSVT3J6Sy8zE/AILl0LblWhdpZlKEHaUB85kdsk6d0f4FD76i9MhRPYC3FKbNZRGMTuAnGRWqcsbKFraRWCJx4m0MIheFGvjTGDn8pCLubOI3bnq1tJrTHJKT6ZHw3JvJeF0s2O6h7bCgcdz5v537xzkb+Dthmx2mwLXDoq7+dJ1yEhSy3E2BhIC5xJFeLXmlFutR/pfGNnYC7YEY8uWi1jix/+kfL1AyG8jJm6CVxSpt2/FHrjZkbC+yRtj05GC8PJRvEClLGLhhhcDbvnPU4F9BxUs5kKnPvqb2bNlu726UWyVOETEP0yf1UVaOA4s/jOu41zJi85vC5gggEjXD91HiXkTPhw8qKnR+X3AWXaWGfl35OIZY2LfQCcL6owfQdVUcKGK5E/VjI2LyvxoWG+YqSRjQ==;ajQGTdk3QiWcIA7Tr5ckIA=="
 ---

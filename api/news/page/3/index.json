@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-airtable-acqui-hires-walrusais-founding-team.md",
+      "title": "Airtable acqui-hires Walrus.ai’s founding team",
+      "excerpt": "Airtable today announced that it quietly acquired Walrus.ai, a no-code software testing platform, earlier this year. ‘Acquired’ may be overstating things a bit, though. Best I can tell, Walrus.ai’s homepage became unavailable a few months ago and Airtable tells me it has no plans",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/",
+      "originalUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Office-for-TechCrunch.jpeg?w=810",
+          "width": 810,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/amp/",
+      "publishedDateTime": "2021-12-21T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-bridging-divides-in-ai-machine-learning.md",
       "title": "Bridging divides in AI, machine learning",
       "excerpt": "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities",
@@ -1117,49 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty.md",
-      "title": "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty",
-      "excerpt": "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "publishedDateTime": "2021-12-20T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
