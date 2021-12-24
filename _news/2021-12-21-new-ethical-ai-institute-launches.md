@@ -70,6 +70,22 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk"
+    excerpt: "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”"
+    publishedDateTime: 2021-12-23T09:03:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Keeping an eye on AI"
     excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
     publishedDateTime: 2021-12-22T00:08:00Z

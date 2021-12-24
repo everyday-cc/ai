@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/aws-offers-free-online-course-in-machine-lea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 850
     height: 400
     isCached: true
-
-related:
-  - title: "IIT Madras Invites Applications from Students for 12-Week Free Online Course on Artificial Intelligence"
-    excerpt: "IIT Madras is offering a free online course on artificial intelligence that students with basic knowledge on programming can take"
-    publishedDateTime: 2021-12-19T12:08:00Z
-    webUrl: "https://www.dqindia.com/iit-madras-invites-applications-from-students-for-12-week-free-online-course-on-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/iit-madras-invites-applications-from-students-for-12-week-free-online-course-on-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-invites-applications-from-students-for-12-week-free-online-course-on-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 41
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "H9aDfjHMAKdkQ3eY/uYFVfBQ8iNYnov8rW4pBMFja++4Bwl/Pgj01MFRCOYZLpqodSNEs98ItyaicElXYPieyuvTZt0fVnsrQKtp4P9MSonY+TySQQa/S6/bvyjrcRilfhvHy4XIJzXQdJJPwLnexvB5BdETnxCl8fVJhTgrnNEOrfVIdJpxlm60jgenehHKJICcaqPS3sz2BX7EwMwl9KJI0wNH5eJ67EQB6/ptZVkKL14DIwhISfgGWjVYQSEMezFiB1oqsmL76YhfNK44Lmuu59NtaFU7/9tbs3MVgjd9L54I9fzo6+DUknlp3PUO9RhughTp4tYhDczlwoq14bqcn8yFwgvSEyKvlorij+WdzFv55jikZg69h8ucqkb7nxiqMK5fjIBXuBdhH4eFxy3IgR0t2Q3nQt1kWTt7BLzM0/Om46hirUg3yjJKTMLgvDe2C94SsC3bSrBQNpYkgvkvac62H/jFYW5aL7+aQLVQoXG9XYBZ7wjx+XaeXQpUrKXKbWE9iiFIYbdws/0F3A==;RrzlC/VWQ1MKl+SILx590w=="
 ---

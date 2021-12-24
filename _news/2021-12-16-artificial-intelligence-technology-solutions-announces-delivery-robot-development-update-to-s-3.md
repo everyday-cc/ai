@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ..."
-publishedDateTime: 2021-12-16T13:43:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
-webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
+excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ..."
+publishedDateTime: 2021-12-16T00:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3-2021-12-16"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3-2021-12-16"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "L2ea2V643yPs8tlRvUk6x7NJFWO7VIRsWqOdQZh/VE1n+YtxvntKzK73Rfe6wF4Zt51kpEyoTQOWZ3XDfRUCdrqKi3wnJHHZOFCQ3RaoQL4o7Kznz2Ns5Kku2LbZwGRn2qhD/Vee9ZC79krHrtlvymxhbkqI+FukO27uzThdhXVd3tFaRn4EAoJ6EpqFYMFRty2aVV3cSHDyARu1IwSe6k9IaMj1URZEDshIBYIhZApbmdjEHPUyPp2EHGQ8D9vNyRhLpvQSd1WNtRsP3wh5SHrb2llBKS1gcJxFewDNQI3DTRrgw4lmxvmESmHDVgmzGz8WatRIHiGXOBf1czYLrqa4/lyu3LVwImRyKK9pQTY=;UzFO2R0C3zDlFWI83EdMYA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "N7qGhiedVWWVlwPS4GomkKQ0r8AHJ/pxHQkWFQWMtohwSGbXd+I+nHmUT2+uOzQsUpd2lIw5JavUsbkzpu6PSPLtYM24u4u6sNo9qs5yi8Zn+PuPwzXc7fK1rrgYcycUabgjTDyBm3IiKch+JrvAzCCA+Hb32abbHEnKwjwu82mfA58OE2Trr/+vtg0+j8ihb0+d2s72XIchNxl8Uyk3uvNqgziwIoZPE+c5atyR1kK7U1Ai8vp5s83FEoD2eoiKg5Ti070MFgC29uzcxYUUi+40PkWjy8JqNBeF6swHofyMa8lNNcXN4YKO019M3SXi6Jnv8WmhkIj/hj5rEaPnTKZT+inK4O86Uu/xS0mM78Y=;BnIMjyjKpuiT+DIX6kqSaA=="
 ---
 

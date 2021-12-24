@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,20 @@ related:
         height: 558
         isCached: true
   - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T22:18:00Z
-    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-24T04:52:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/dec/23/pope-demands-humility-in-new-zinger-filled-christm/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/dec/23/pope-demands-humility-in-new-zinger-filled-christm/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/23/pope-demands-humility-in-new-zinger-filled-christm/?amp-content=amp"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 44
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
-        width: 506
-        height: 366
+      - url: "https://thumb.spokesman.com/AWmXHyZ08J04LS0aNA5mdG32hwg=/480x0/media.spokesman.com/photos/2021/12/23/61c534faa57d7.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "Pope Francis urges humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
@@ -72,6 +72,20 @@ related:
       - url: "https://www.orlandosentinel.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pope demands humility in sharp Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
+    publishedDateTime: 2021-12-24T02:29:00Z
+    webUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 24
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
+        width: 899
+        height: 599
         isCached: true
 
 secured: "7B1mQP5ZISbXdUaEvwI90nB/KE6fZcH7qATnOpsldhhcxM58rNQzSNUez0SsXTPCIVp7t0w0Z4pjB0BG/1f0AIgXQhsfaegXd+btSuX5Vum/kxvLlnTbBIssfDgd1N9+QU0AEOk1rEc2EnxSpuE/MH8dSdxVo+HCTFZ2/HSB4mSfBCofKKk5jdh1xDyIDINMc6hI9wqEnkchrn8wY7I6y+uOoJB9FhAzc3WX+6R/54q28oumZG0xZGSMYb/ZGPUW2wW9/mmhLKNHgYigjEtJeMJvsN2FRpgym2SbLAapUu26N72oYzcTRhIr03izSwU4pQG5pJRp7FbwnQ+fwmzaQC7Cq7EY4luT9mb+oXnQGdz3u8/6twi73ggFlVLuPFFmOeYEp27XJ35SAZTWw66hSwycuFxlZ1JbPi8HlA/sQagN72uNS1fUNz/dMLGozi3ZqiVEMXqrOJY+2HFBS+0V/ACUlvhu6MkCEpDFy1JcGgjtzj9sfA/CZygzljm1QBGVceQVIr2dhIJgO2/ffAeKTQ==;w52OoysIkGAiwJmIT+/axA=="

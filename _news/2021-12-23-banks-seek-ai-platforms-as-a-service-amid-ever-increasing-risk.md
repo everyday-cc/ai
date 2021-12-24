@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
-excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
-publishedDateTime: 2021-12-23T21:57:00Z
-originalUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
-webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
+title: "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk"
+excerpt: "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”"
+publishedDateTime: 2021-12-23T09:03:00Z
+originalUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
+webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
+ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
 type: article
-quality: 32
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
-    width: 768
-    height: 513
+  - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -67,22 +70,6 @@ related:
       - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
         width: 1280
         height: 854
-        isCached: true
-  - title: "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk"
-    excerpt: "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”"
-    publishedDateTime: 2021-12-23T09:03:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "New ethical AI institute launches"
     excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
@@ -168,6 +155,20 @@ related:
         width: 864
         height: 984
         isCached: true
+  - title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
+    excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
+    publishedDateTime: 2021-12-23T21:57:00Z
+    webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
+        width: 768
+        height: 513
+        isCached: true
   - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
     excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
     publishedDateTime: 2021-12-20T15:14:00Z
@@ -201,6 +202,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 17
 
-secured: "d+buUrWxnkETJhtHiasIXXwFE8k6knfm4F74z7/K4R6twU1poE7gkdOZ5xnCA6SnuS0zgYNVYqI6mj9zVxYqim7SOg1QnFhoqAH8vl9sahGTjmXebTZblw+++ppRZC4IgBLqxbd/rZ4Bv+ISJwpFALe40sQlIJ7UtQa4s9uRU1+KqrD09ypQJLKKe3BwMPRxU026ISLlUj3uVuPBlOIUBArvmJ/R+V4NAGDEB5ycJm9Se7TzeDOX1jXrIEuKRsTbnsf+9RnbbAHoOosnmmdfurxuO/wo4/SeXX5FAU98vpR/iJnMvhX1avk/Eir9GRGiZqkVwQpBE1GiEQZKdQrtLOCWupMFaarbqzzbFo9FrjhwciNd/XSvIa9x441ViBh/e4593fnqzz86o9Q9AAWT0fGVW3v46Ry/4w37GJLTxlXHomxaY3/R+IH2nzmQIlNsPllztdNU7OjENtw0EVOP37HdpXbyn48/9+icq892wSfY6mzBZeRMzrFK7bIrC7ZqgmGJypvlufAfzsXJsUZEOg==;TSH8dWm/DNsyi7QA30R/Kw=="
+secured: "XtesSn03RzRhVtph7Up+nAmM8tYHx5Rd9d2dduAgUTiLIikhX+flIzNzFQE0xo3vlGz9Z00h/zuqNBEqc4W0wlt1hsgswVgFLFZv3TQ6W2OhqHXZYsRx8+y0oQm1vVwGNccqyLV/8SXNJCVI5r7w8idbYcJxNjENi3p3wnYj91FzHq/oa9afTndI0teUPb1XzcJKdwd3HIRrRLMsoFT0ffPAzeiu7sg7ky8m4JBIqrnKRBYqXbvzUxaM/P1WOqzLkGFLokCWw1BsXRw31H4XZdvhPZWgDTIUtyFRiHUNOy4yZHasQp+Bfl0s14jLwO3dntnfzajC1Y6ifLfVy2m6eNEVB3V8mLXO5Ra80JOhye8=;OuBGQE0h9BRWj5KiALfm7g=="
 ---
 
