@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
-    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
-    publishedDateTime: 2021-12-19T18:11:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "2024 target for i-City’s driverless bus service"
     excerpt: "Urban development i-City in Shah Alam is looking to start a fully autonomous bus service. The driverless bus service is expected to start in 2024 once the LRT3 project is completed and operational. The automated shuttle is to enhance i-City’s smart city status as a transit-oriented development and provide greater connectivity to the various public transportation points."
     publishedDateTime: 2021-12-22T23:50:00Z

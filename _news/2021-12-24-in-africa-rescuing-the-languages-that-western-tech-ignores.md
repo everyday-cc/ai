@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
-publishedDateTime: 2021-12-24T02:52:00Z
-originalUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+excerpt: "Tech giants offer their products in numerous languages, but they don't always pay attention to the nuances necessary for those apps work in the real world."
+publishedDateTime: 2021-12-24T04:36:00Z
+originalUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
+webUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/9013584002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Pq9/w8IkbHa5Lhwj9IM6yMh1wppzMOIQs1DYRR2Ydvj7bgRUW1zBCnS0pCfPEQWOSASHHiHIUZAbk+RLbfhA6DvEqCNnY12coVPOjJBhA2QVVoDwmRgYdfJSogcS5TQccV8C3j6n9gLkSgL23P64RbG7SG7nW65PgejcnWjUw2XT8HFEcFHDfoVuy0eWIYhm8SCSJwj6w01jsZCqzAfZ3EDqn6nye0c5Q/lJwmkyPqdNyFTw+XyctboZr0MtYB5Xn5dY4fCheIEBIrp/6geAtZu0AtqC9SwEw4FxJBfOHZlrlVwQ/8Kb7pm/7uSrnUmeH+VK1717ziA5D+/wyVD4u40Co0ACHpGbS2EBovEqaRE=;NMAk/j4ZuHnuScK+iUovZw=="
+secured: "PeWKUTQhD/hgQPcc3xQ2y4EMwsE6rG8/gqFSqLWsgi5laEaL0B3jgfrTaEXvyOuDcGzQPS9o9GIwRmeFyeNLbbAgtYazT4arRxCDaSYaVia1zamHcVmVHmkyi+LUWfW5oO08eXthVAaHFzzYbi6WriwG4UzciR5ypweZjrluZFWPv6EbDcb010freDYXtV47bHh9hFm6w5YkRRpiKReaylNNlWvDk49ruepBCPkRCMeYWppgurwQtZwm4+6JMfwrpgslX25q06OqRCth9fwBkO8MrlOCXq2pz5QWsrTRrP0jizVD+rix7S5x/+9zKPaZ20tVQ9yJvaCUre4K1lV60VqppoaY/RDr/fFO4dCDS5Q=;GtUv9pM5ZNttI2S43VKpNA=="
 ---
 

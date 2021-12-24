@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
+      "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
+      "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d70ba295950230358690ae93de9e3cd78a0a4f16/2021/12/11/956f4dc7-de64-4b18-aa0d-20f338995549/reflection-ball-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "publishedDateTime": "2021-12-10T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-chinese-ai-company-sensetime-delays-ipo-as-us-imposes-investment-ban.md",
       "title": "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban",
       "excerpt": "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company.",
@@ -1152,57 +1203,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-to-see-proteins-change-in-quadrillionths-of-a-second-use-ai.md",
-      "title": "To See Proteins Change in Quadrillionths of a Second, Use AI",
-      "excerpt": "Researchers have long wanted to capture how protein structures contort in response to light. But getting a clear image was impossible—until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "originalUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b24d2b315dad96cfe1db53/master/pass/Science_protein_GettyImages-934883946-(1).jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
-      "publishedDateTime": "2021-12-10T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

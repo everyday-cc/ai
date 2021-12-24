@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-t
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/22/ENA(_73538image_story.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Self-driving taxi service launched in Abu Dhabi"
+    excerpt: "Abu Dhabi, the capital of the United Arab Emirates, has launched self-driving taxi service for citizens equipped with modern technology. The automatic taxi car service is introduced at Yas Island, where the formula One race track and Ferrari world theme park are also present."
+    publishedDateTime: 2021-12-24T07:46:00Z
+    webUrl: "https://www.jasarat.com/en/2021/12/24/160063/"
+    type: article
+    provider:
+      name: Daily Jasarat
+      domain: jasarat.com
+    quality: 24
+    images:
+      - url: "https://www.jasarat.com/en/wp-content/uploads/2021/12/Self-driving-taxi-service-launched-in-Abu-Dhabi.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Driverless taxis trialled on Abu Dhabi’s Yas Island"
     excerpt: "TXAI app allows residents to book a driverless car to pick them up from one of nine locations on Yas Island Driverless taxis trialled on Abu Dhabi’s Yas Island Driverless taxis, Mobility, sustainable mobility,"

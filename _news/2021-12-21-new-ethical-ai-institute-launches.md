@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "Oxford Invited an AI to Debate Its Own Ethics—What It Said Was Startling"
-    excerpt: "Nvidia's Megatron AI recently took the floor at the celebrated Oxford Union to debate whether AI can ever be ethical."
-    publishedDateTime: 2021-12-19T17:15:00Z
-    webUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/"
-    ampWebUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 75
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Ethics at the heart of emerging AI strategies"
     excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
     publishedDateTime: 2021-12-21T21:55:00Z

@@ -42,6 +42,20 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics"
+    excerpt: "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality."
+    publishedDateTime: 2021-12-24T10:28:00Z
+    webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 80
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
     excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
     publishedDateTime: 2021-12-24T08:30:00Z

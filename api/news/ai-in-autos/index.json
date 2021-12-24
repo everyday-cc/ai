@@ -62,7 +62,7 @@
       "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -572,6 +572,41 @@
       ]
     },
     {
+      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
+      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
       "title": "TuSimple locks in self-driving trucks deal with DHL",
       "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
@@ -707,59 +742,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
-      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3-2021-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3-2021-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

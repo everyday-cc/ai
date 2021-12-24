@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics"
+    excerpt: "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality."
+    publishedDateTime: 2021-12-24T10:28:00Z
+    webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 80
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
     excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
     publishedDateTime: 2021-12-21T00:19:00Z

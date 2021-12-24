@@ -1,12 +1,12 @@
 ---
 category: news
-title: "6 AI And ML Conferences That You Cannot Miss In 2022"
-excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
-publishedDateTime: 2021-12-24T08:30:00Z
-originalUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
-webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
+title: "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics"
+excerpt: "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality."
+publishedDateTime: 2021-12-24T10:28:00Z
+originalUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
+webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
 type: article
-quality: 56
+quality: 80
 heat: -1
 published: false
 
@@ -15,14 +15,14 @@ provider:
   domain: analyticsindiamag.com
 
 topics:
-  - AI Ethics
+  - AI in Robotics
   - AI
   - Machine Learning
 
 images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -42,20 +42,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics"
-    excerpt: "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality."
-    publishedDateTime: 2021-12-24T10:28:00Z
-    webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 80
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
     excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
     publishedDateTime: 2021-12-21T00:19:00Z
@@ -72,7 +58,21 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
+    excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
+    publishedDateTime: 2021-12-24T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "jofCNS4mfQCTV9PkjmFtmwqrXs2LfcPT2hPJaXEztlDArM1v0l1bzajCd4/bemePfP0+llaYyN1129+wU8v7LNYd5TS+s7j+N1FcEPPy0ixaSgumUGrFakB5+bvWkNwLyDL0OUrNQROwMHMkMyv02tu6fwNsj9VEryi1IeBPmDEjC4WPsqPGxWVk7ceDmlpPoyXCLvHJTWjnwyWOXz1EpIcY2lhgtbrfaM/MTOBHkTK/0JlRTniwOgCsnBmt/EgaTiVetVuCQtRf4PZ8FUSyT+8YN0z0tYMdVYKpK7xwmlQZVLsoXGgdlUaHuWLYJpkQ/u9GRIVl1bthTp/D5glYtX4N9t1mvbEjgoZRDfe8ktNQOskZDr1Qzw1SXFpB+qJpux4e9nGDJQ1em/Hj6iVF8Zc4eJMIllq5Y2ZBFCosZTvfFEHxStWGHk5FaH0Y+xg7g0Jil1ngfkHeY93P1QeDhtHaVw7T/P4dPuvJrtXD7JjFwzcpGNPHhWEhKScP+3dXq1BJ341TNys+Or/S1wwnaw==;LwS31UFQbYMQTzm9qplo0A=="
+secured: "HuJjd88ygXfslsA5IV3c5rdAgYEHr0cMLYBhxhYcNk5naHQCrl3wdJ2/wazS8jN6LZa4YCOimtmgLI2jc941/E9Aq8+n29b2am7oPhsqCg8VbhmdUiYX+YdIUmct/Pli3HvFZsEDfQxVtDyiUQI8TFNOxi9CBax0RjLu5Y4qord20/m8ZsiZJFV3105g+hSco4EMqlBlRW4sbaBmqJhig1wbCme/GTFJmuB3r1nIMCf4fm/JLDvxZmirPibqIq3ybTT2UFF458dXU2UgAdwPECFM1wprWUWIjiH52lQ3xpneRLqFVCwUp4V6S6yARlTuj8pcjJBrc9JDoK4GF9c6agMjGI5udpPdcDHx4jSel7k=;df3YdDyV0uW4h1/KTyKk4A=="
 ---
 

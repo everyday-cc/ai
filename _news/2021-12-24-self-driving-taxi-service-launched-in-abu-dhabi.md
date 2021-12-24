@@ -1,27 +1,27 @@
 ---
 category: news
-title: "UAE - Self-driving taxis 'TXAI' to transport passengers on Yas Island"
-excerpt: "Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services, a subsidiary of Group 42, said the first pilot phase of the driverless taxi was launched in Yas Island and will conclude on 23rd December,"
-publishedDateTime: 2021-12-22T09:45:00Z
-originalUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
-webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
+title: "Self-driving taxi service launched in Abu Dhabi"
+excerpt: "Abu Dhabi, the capital of the United Arab Emirates, has launched self-driving taxi service for citizens equipped with modern technology. The automatic taxi car service is introduced at Yas Island, where the formula One race track and Ferrari world theme park are also present."
+publishedDateTime: 2021-12-24T07:46:00Z
+originalUrl: "https://www.jasarat.com/en/2021/12/24/160063/"
+webUrl: "https://www.jasarat.com/en/2021/12/24/160063/"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daily Jasarat
+  domain: jasarat.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/22/ENA(_73538image_story.jpg"
-    width: 600
-    height: 400
+  - url: "https://www.jasarat.com/en/wp-content/uploads/2021/12/Self-driving-taxi-service-launched-in-Abu-Dhabi.jpg"
+    width: 800
+    height: 480
     isCached: true
 
 related:
@@ -57,19 +57,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self-driving taxi service launched in Abu Dhabi"
-    excerpt: "Abu Dhabi, the capital of the United Arab Emirates, has launched self-driving taxi service for citizens equipped with modern technology. The automatic taxi car service is introduced at Yas Island, where the formula One race track and Ferrari world theme park are also present."
-    publishedDateTime: 2021-12-24T07:46:00Z
-    webUrl: "https://www.jasarat.com/en/2021/12/24/160063/"
+  - title: "UAE - Self-driving taxis 'TXAI' to transport passengers on Yas Island"
+    excerpt: "Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services, a subsidiary of Group 42, said the first pilot phase of the driverless taxi was launched in Yas Island and will conclude on 23rd December,"
+    publishedDateTime: 2021-12-22T09:45:00Z
+    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
     type: article
     provider:
-      name: Daily Jasarat
-      domain: jasarat.com
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.jasarat.com/en/wp-content/uploads/2021/12/Self-driving-taxi-service-launched-in-Abu-Dhabi.jpg"
-        width: 800
-        height: 480
+      - url: "https://menafn.com/updates/pr/2021-12/22/ENA(_73538image_story.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Driverless taxis trialled on Abu Dhabi’s Yas Island"
     excerpt: "TXAI app allows residents to book a driverless car to pick them up from one of nine locations on Yas Island Driverless taxis trialled on Abu Dhabi’s Yas Island Driverless taxis, Mobility, sustainable mobility,"
@@ -81,6 +81,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "qkrXkaKxd5ATuhJEEQ2RUAKEcHdBZqmX5hOeME4vsDVlHrc/jU+GPljAydshYgmn+Iu3M0eKCfGK8RccCtllsqrK53CJ6BlU6k8Kxl5p6onRwTmeYxMLzybEr9oJeiTXH3jcaa6lLurge/M7aJtf+CbZ2bBNMSaSkc+qACho+dUma12r8JNXy3Vmhr7tevmnlvNQ9AwDXwWHgfFFnPGo5ECIBgFrtrCq5mLpcyZ9TF7TEdtyA8XI6v4554XzVmcRTXdwmc45O87fH6BI/7EvpvfUi1xRu9O0h8NGytsrYj2Z/fyz3zg6Vra2lFs7Dj9WER82AW9oR5XhRbySmeqAOwC/E5NrDfSdiikUNAt2XE4=;xEn52yXUWpzh+AH69WgMGw=="
+secured: "msa32XURTnYjW5211ZzKB1VpoKDtW2EEip0tVw8gYTH8yLEN+hVVx2yqPvAGho6aJOLsUkInRYpcXRLyvYGnglfsVMr0VYPb2uSGyC4+GqHooWfFMqJmTrrzpRaeub4pnaf2od6iuxCIsazOqsBjUgJtIPaNW7OPHgar2nXOqLJIndkPm19mawe7MuoxUSiAR53AxmAYooTnlQ4jLPb+P1KZth3mAqJuLk660Ykj9YWrwo+SIozSy1b9Rc+tEf1BXlUGYut4OSY4/kw2s4GHsf0l4RWY2LVyj3A//6XX2tYak//Hkd+tL7vlZjULM5wlYFJ5A2TGDfzLYVBwflFSTEeJ3JB5O1rkhgrtVoC4YDY=;RTvV2O+CDy4b7/GKySEfPw=="
 ---
 

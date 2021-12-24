@@ -2,24 +2,24 @@
 category: news
 title: "Pope Francis urges humility in Christmas speech"
 excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-publishedDateTime: 2021-12-23T14:38:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+publishedDateTime: 2021-12-23T13:38:00Z
+originalUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -72,18 +72,18 @@ related:
         height: 630
         isCached: true
   - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-24T08:35:00Z
-    webUrl: "https://www.timesleaderonline.com/news/international-news/2021/12/pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the \"glitter of our armor\" was perverting their spiritual lives and corrupting the church's mission."
+    publishedDateTime: 2021-12-24T10:41:00Z
+    webUrl: "https://www.newstribune.com/news/2021/dec/24/pope-demands-humility-in-new-zinger-filled/"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleaderonline.com
+      name: News Tribune
+      domain: newstribune.com
     quality: 24
     images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.timesleaderonline.com/images/2021/12/23182210/Vatican_Pope_12991-e-1100x743.jpg"
-        width: 1100
-        height: 743
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200239029_200239029-612fc5f2c40e4f09a913cf25f2e24774_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "Pope demands humility in sharp Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
@@ -100,6 +100,6 @@ related:
         height: 599
         isCached: true
 
-secured: "rg83cdzkT7lf1tgt2ke6A0fqF7YEXB3EfFHQ6s/YYkUMM5DR96qixeD4pLNzNThh2WPNfU3eXdSmkQHmiYHf7GkV49XuE9zIzefcV+XD7usQrYNM52+PqMHQ2W/PUts6JxiaixKbl9FBw50yearDBmQWbXYkJWeVxqIAja9i6Tjm5O4xbtsjvdm+hfMFwkpQkavTc2waX5xGV5GEM4GsDlG9NBy3JB1cWmFEivm+OJ9QshACeY1M0Th39QnbEV9GPErfsp33d0mfENsZm/CXsoQ5CYoBI5MRZPjTsK4Mct4ZU5u7ejD7ysLoHvoblavHSw1QuXM/hMKhe2WqpUMLby/sctnsMFrv0ayebJTbvgMJRpAQULHYzfPwQDgNiXpZ1dOI4teqIy8VVOixloPfLPkHjJgLWTwvE2afJlqsTTAfhlKO/pXeAhO3NlBO45ZMZRxPesRPGrjG/oqJPG3iCBLx2GmEedIiCfx/M0Ku5vkvc/cYNejIuHTcFtk9kseqI9UbrHF7y1v5+5X4+KN/Fg==;rOYMHrm8lEpLShZEoab20A=="
+secured: "/aPAxlg4lqlLYGSkObutQGQerG5/tPHYpiEiTzj+OucA8tORw4FqTFysxYbitFpbea+iR4ayY6CVTOk2YEoYvWpPnCJupUXrMJwik196LoNM40mw6dkzLVbU7S9iDJZkqwFCJaWERu38BC7vXC+OF/3Zi0BXPSpRQ4Jog2Bn5KfrAZTNqb+X1J0ms5xErgfgcj54Hi2cDZOCQuvIoqf5D+AdM3gk0tOCbjFiZ+Hk2J1mSJzHDiGTQpKgRGIJsjutUlHgNMCVAt8KVvamHZJBXN7m9e6zX/JrDl5IGIii7njDoH05K/l7U/mVE3rRkA61HDV9jj2vPriSkiC750LJkttXJqrXLaF9Lhk7zoMB6A8=;PjKsvcRxIqS0xHAhezOyzQ=="
 ---
 

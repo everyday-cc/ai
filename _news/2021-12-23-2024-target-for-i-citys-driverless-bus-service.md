@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/metro/metro-news/2021/12/23/2024-target
 webUrl: "https://www.thestar.com.my/metro/metro-news/2021/12/23/2024-target-for-i-citys-driverless-bus-service"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless car crashes in the Bay Area, startup's permit suspended"
-    excerpt: "The vehicle was in autonomous mode when it turned right onto Fremont Boulevard from Cushing Parkway and hit a center divider and traffic sign."
-    publishedDateTime: 2021-12-19T18:11:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/driverless-car-crashes-in-the-bay-area-startups-permit-suspended/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=52927615-62b7-5830-ad00-fe6fd66f26e7&type=primary&q=72&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
     excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
     publishedDateTime: 2021-12-20T12:00:00Z

@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market 2021 Research Studies Overview with Segments and Industry Growth by 2027"
-    excerpt: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021-2027 unveiled by MarketQuest.biz contains an extensive assessment of the business vertical and features the distinctive market segments."
-    publishedDateTime: 2021-12-19T19:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-market-2021-research-studies-overview-with-segments-and-industry-growth-by-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
     excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
     publishedDateTime: 2021-12-21T03:08:00Z
