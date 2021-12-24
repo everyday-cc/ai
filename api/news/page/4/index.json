@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-21-bias-in-artificial-intelligence-impacts-drug-development-aicure.md",
+      "title": "Bias in artificial intelligence impacts drug development: AiCure",
+      "excerpt": "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/bias-in-artificial-intelligence-impacts-drug-development-aicure/13109371-1-eng-GB/Bias-in-artificial-intelligence-impacts-drug-development-AiCure.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights.md",
+      "title": "Reinventing Game Day: How The Bundesliga Uses Machine Learning To Deliver Real-Time, Data-Driven Soccer Insights",
+      "excerpt": "Machine learning is making this level of insight on matches possible for hundreds of millions of soccer fans globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c778170ebe018990ec14%2F0x0.jpg",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-oracle-to-buy-cerner-for-283-bln-in-healthcare-sector-push.md",
+      "title": "Oracle to buy Cerner for $28.3 bln in healthcare sector push",
+      "excerpt": "Business software maker Oracle Corp said on Monday it would buy Cerner Corp for $28.3 billion in its biggest ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
+      "originalUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/N2smgO867k2IbN2cIg-RJe6iHXI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56HHVKWINZOFND6QDCR6OVOAWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-ai-powers-autonomous-materials-discovery.md",
       "title": "AI powers autonomous materials discovery",
       "excerpt": "When a master chef develops a new cake recipe, she doesn't try every conceivable combination of ingredients to see which one works best. The chef uses prior baking knowledge and basic principles to more efficiently search for that winning formula.",
@@ -1030,152 +1178,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
-      "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
-      "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/greynoise-log4j-log4shell.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
-      "publishedDateTime": "2021-12-17T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-voice-technology-for-the-rest-of-the-world.md",
-      "title": "Voice technology for the rest of the world",
-      "excerpt": "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp",
-      "publishedDateTime": "2021-12-17T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million.md",
-      "title": "Rokt, Which Personalizes Transactions With AI And Machine Learning, Raises $325 Million",
-      "excerpt": "Rokt, a leading e-commerce technology platform, which uses AI and machine learning to make transactions more relevant to shoppers, said today that it completed a $325 million Series E funding round led by Tiger Global,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bcc7b35841548809ad418f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
-      "publishedDateTime": "2021-12-17T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

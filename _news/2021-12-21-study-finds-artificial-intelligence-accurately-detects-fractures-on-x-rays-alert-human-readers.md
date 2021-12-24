@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
-    publishedDateTime: 2021-12-22T00:08:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/22/WS61c26c65a310cdd39bc7cc22.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
-        width: 512
-        height: 512
-        isCached: true
   - title: "AI can help identify fractures on X-rays more efficiently, study shows"
     excerpt: "A new study published Dec. 21 in the journal Radi ology says an AI algorithm can help physicians interpret X-rays after injury or fracture. The algorithm, called BoneView, was created by French company Gleamer and is designed to detect X-rays that are positive for fractures,"
     publishedDateTime: 2021-12-23T18:17:00Z

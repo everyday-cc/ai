@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-g
 ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Forbes
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c778170ebe018990ec14%2F0x0.jpg"

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
+      "title": "Eliminating artificial intelligence bias is everyone's job",
+      "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "originalUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "publishedDateTime": "2021-12-24T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures.md",
       "title": "AI-Powered Seafood Marketplace Startup Raises $40 Million From Tiger Global And Prosus Ventures",
       "excerpt": "Existing investors Accel India, Ankur Capital, Incubate Fund and Matrix Partners India also participated in the round.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -592,7 +643,7 @@
       "originalUrl": "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -686,7 +737,7 @@
       "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -874,6 +925,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
+      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
+      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "publishedDateTime": "2021-12-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1098,100 +1193,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
-      "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
-      "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
-      "originalUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-485025710.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
-      "publishedDateTime": "2021-12-22T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-artificial-intelligence-was-the-most-discussed-technology-of-2021.md",
-      "title": "Artificial Intelligence Was the Most Discussed Technology of 2021",
-      "excerpt": "Artificial intelligence topped the list with the most online articles (175K+), followed by machine learning and virtual reality, according to Walkme.com",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
-      "originalUrl": "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg",
-          "width": 1000,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
-      "publishedDateTime": "2021-12-22T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

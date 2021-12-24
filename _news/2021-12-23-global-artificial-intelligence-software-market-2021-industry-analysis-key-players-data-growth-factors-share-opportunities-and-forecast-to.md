@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Drug R&D Market 2021 Applications, Market Size According to a Specific Product, Sales and Revenue by Region 2027"
-    excerpt: "Global Artificial Intelligence Drug R&D Market Research Report 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Artificial Intelligence Drug R&D market statistics during the recent years as well as forecasts for coming years."
-    publishedDateTime: 2021-12-19T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2021-applications-market-size-according-to-a-specific-product-sales-and-revenue-by-region-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
     excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
     publishedDateTime: 2021-12-23T02:36:00Z
@@ -121,20 +107,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 30
-  - title: "Global Self-driving Shuttle Market 2021 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2027"
-    excerpt: "Another report named, Global Self-driving Shuttle Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report investigates and assesses the market on a worldwide,"
-    publishedDateTime: 2021-12-19T20:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-shuttle-market-2021-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2027-2021-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
     publishedDateTime: 2021-12-21T06:38:00Z

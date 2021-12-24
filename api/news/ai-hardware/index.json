@@ -1378,21 +1378,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
-      "title": "Supercharge your GeForce GPU with these 6 must-use features",
-      "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
+      "path": "_news/2021-12-10-nvidia-launchpad-enterprise-ai-lab-review.md",
+      "title": "NVIDIA LaunchPad Enterprise AI Lab Review",
+      "excerpt": "allows developers to realize the value of their AI project with an NVIDIA GPU. The NGC catalog is a hub of GPU-optimized AI, high-performance computing (HPC), and data analytics software that simplifies and accelerates end-to-end workflows. With enterprise ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
-      "originalUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
+      "webUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
+      "originalUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/Screen-Shot-2021-11-23-at-3.37.06-PM.png?w=1024",
-          "width": 1023,
-          "height": 949,
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/12/ai-launchpad-workflow-diagram-1cc-d.png",
+          "width": 850,
+          "height": 478,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1400,23 +1400,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "publishedDateTime": "2021-12-10T02:30:00-08:00",
+      "ampWebUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "publishedDateTime": "2021-12-10T04:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

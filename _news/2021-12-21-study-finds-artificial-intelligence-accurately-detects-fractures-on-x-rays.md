@@ -43,20 +43,6 @@ related:
         width: 480
         height: 279
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
-    publishedDateTime: 2021-12-22T00:08:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/22/WS61c26c65a310cdd39bc7cc22.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
     excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
     publishedDateTime: 2021-12-21T00:00:00Z

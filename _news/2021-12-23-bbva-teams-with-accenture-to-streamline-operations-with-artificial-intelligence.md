@@ -35,6 +35,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "BBVA teams with Accenture to streamline operations with artificial intelligence"
+    excerpt: "Banco Bilbao Vizcaya Argentaria (BBVA) and Accenture have signed a collaborative agreement that is focused on accelerating digital transformation and applying analytics and artificial intelligence (AI) to drive faster decision-making and enhance the customer service experience."
+    publishedDateTime: 2021-12-24T11:39:00Z
+    webUrl: "https://www.iotglobalnetwork.com/iotdir/2021/12/24/bbva-teams-with-accenture-to-streamline-operations-with-artificial-intelligence-34503/"
+    type: article
+    provider:
+      name: iotglobalnetwork.com
+      domain: iotglobalnetwork.com
+    quality: 33
+    images:
+      - url: "https://www.iotglobalnetwork.com/public/img/product/2847e2e2c6b4b2527666035946bb03c2.jpg"
+        width: 678
+        height: 494
+        isCached: true
 
 secured: "BzySJJDuvUpwCyWfuzcY6n+ChErZ2bGxMrm4++cDUhd295+qBczoAtRuMAXr9z/XBLuEqjQdWkiMxMfzYkbj+aY7fI3L3/a6ADlTHTqzUwxC8Fd+mynKVUQeiOoExNogyZn35gTuqYxgJ6/WsUjNxc11bCVZbDI7FFUUCCYNTvxjTwGgPybyYWzmcrldhi7xUJgITyTv8q8d1q4FSB6z2L0HSrvWdzc214R/9z8AilO4OnU4l2tn/SMaL7MjyxMHlg5Up3OcpOVdoApcpjL2vPSqsXHk0yxO+YoeVETQsdSCn/IhAkIE+57Gz7oX4ASRhGCy+e9BB/EiDmzm5oHYOgepkQbwzZvvRCN5YLpMZ5c=;JrWOldxEpvHNsZ7uLP8siA=="
 ---

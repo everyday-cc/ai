@@ -78,6 +78,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Haomo's system to power 1 million vehicles in three years"
+    excerpt: "Chinese autonomous driving startup Haomo.AI said on Thursday its driving-assist system will be installed in over 1 million passenger vehicles in three years. Now five passenger models feature Haomo's Level 2 autonomous driving system,"
+    publishedDateTime: 2021-12-24T12:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202112/24/WS61c57beca310cdd39bc7d533.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202112/24/61c57c5ca310cdd3d82310d7.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "fGWSdSzW5mXGsm+grsH8mlREAsW9JOlanAVBtXoP0+UpE4IJ5dDnASTPb94ElyTEp8FUeVBrz6b/LYLQufjw5N28cIxv7XHVyIA9hu1samZcw3Wf9int5/nutcgWiCp/pBbRxCqOaD1bErBUAC1IJLdxBTlZO08sGXVXMPl4/f61n5c7hBK9Zk18PQ4E1CGfPpxi5/v29xfSXzHKnMPg/tjzTOuSprA7Y0hiHS6mG9chsGr1K6Pkqpag1hfIu7RjSok8EtYXC9tnvbzuf6Rvp7otUdM7uBYcZTmKYRq7Nh+YKCykoTEqexv5Ebt6ItUbqA4QvCYiX33vepigiy8z2Kh2IcOCmYlZQXk/yDBnORE=;aD4WGR4QZgjiLE8LcW34CQ=="
 ---

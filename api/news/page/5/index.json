@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
+      "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
+      "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/greynoise-log4j-log4shell.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
+      "publishedDateTime": "2021-12-17T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-voice-technology-for-the-rest-of-the-world.md",
+      "title": "Voice technology for the rest of the world",
+      "excerpt": "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp",
+      "publishedDateTime": "2021-12-17T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million.md",
+      "title": "Rokt, Which Personalizes Transactions With AI And Machine Learning, Raises $325 Million",
+      "excerpt": "Rokt, a leading e-commerce technology platform, which uses AI and machine learning to make transactions more relevant to shoppers, said today that it completed a $325 million Series E funding round led by Tiger Global,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
+      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bcc7b35841548809ad418f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
+      "publishedDateTime": "2021-12-17T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-massrobotics-and-aws-robotics-join-forces-new-savioke-relay.md",
       "title": "MassRobotics and AWS Robotics join forces; New Savioke Relay+",
       "excerpt": "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program.",
@@ -1049,144 +1195,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-france-orders-clearview-ai-to-delete-facial-recognition-data.md",
-      "title": "France orders Clearview AI to delete facial recognition data",
-      "excerpt": "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "originalUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg",
-          "width": 1200,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "publishedDateTime": "2021-12-16T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-fintech-firm-avant-debuts-avant-banking.md",
-      "title": "FinTech Firm Avant Debuts Avant Banking",
-      "excerpt": "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "publishedDateTime": "2021-12-16T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
-      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
-      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452886/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "publishedDateTime": "2021-12-16T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

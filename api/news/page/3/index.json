@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
+      "title": "Nanome uses VR to build molecules and reality check AI recommendations",
+      "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "originalUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/21/8d1dbbcf-b504-4280-bcbb-446527541fbc/resize/1200x/6a99c0ca19d2f3cf1532999ac411c2b1/nanome01.jpg",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "publishedDateTime": "2021-12-21T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
+      "title": "The Single Misconception Holding Back Conversational AI",
+      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai.md",
       "title": "“The Meaning Of Life, But It’s In Estonian”: Leading In The Age Of AI",
       "excerpt": "Leading is choosing. Choosing well requires understanding your options – and the advice you’re given about which one to pick. But in the world that’s coming, AI will help leaders make choices. They might even make choices for them.",
@@ -750,7 +852,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1082,101 +1184,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-bias-in-artificial-intelligence-impacts-drug-development-aicure.md",
-      "title": "Bias in artificial intelligence impacts drug development: AiCure",
-      "excerpt": "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/bias-in-artificial-intelligence-impacts-drug-development-aicure/13109371-1-eng-GB/Bias-in-artificial-intelligence-impacts-drug-development-AiCure.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-oracle-to-buy-cerner-for-283-bln-in-healthcare-sector-push.md",
-      "title": "Oracle to buy Cerner for $28.3 bln in healthcare sector push",
-      "excerpt": "Business software maker Oracle Corp said on Monday it would buy Cerner Corp for $28.3 billion in its biggest ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "originalUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/N2smgO867k2IbN2cIg-RJe6iHXI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56HHVKWINZOFND6QDCR6OVOAWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

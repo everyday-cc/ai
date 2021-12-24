@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rm
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/"
 type: article
 quality: 159
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F8%252F3%252F5%252F38055380-1-eng-GB%252F%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202021-12-23%25209.32.37.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Haomo's system to power 1 million vehicles in three years"
+    excerpt: "Chinese autonomous driving startup Haomo.AI said on Thursday its driving-assist system will be installed in over 1 million passenger vehicles in three years. Now five passenger models feature Haomo's Level 2 autonomous driving system,"
+    publishedDateTime: 2021-12-24T12:00:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202112/24/WS61c57beca310cdd39bc7d533.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202112/24/61c57c5ca310cdd3d82310d7.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "/wP63Des074jUeLtdBQfxE73OzW52tVM0uOK8I6D8zPFcm+MwjFRje+7yEyTr5rfz6i4F6B1N/wSTWVDe78/Ew/ChI7MbdP0Xu2Gf/PHlIF9OckAW7HJTWmiRkAfO6CJFwEzckJsuknAV5kJdKFAvQMKdi8leLdFbaPJKzKkTBB9/L8emX8HAt2R7XjVRXtX7DTahZwRrPUp/YqXQwF0xoUsm+0gqR9L51FvQmwopBHalZhCQOqG8p6CUNugovhBnC6nqVh+Z7BLLDVXC//PxrA6wiukCcuQrE10TdGLSkv8x8ElEFZqjjZ74KZUDo6zzp5p62tCKpoBeGdipUQsXDABEnTNcyKVIKWtOFSZM2s5dR7RJuhU1G00X/88m270KFYxlAjvVdvS6Z9Oyg1coeVV076qmxJjgiumhFN3AygYapl8F13huMZcCSEQsw1UwEp+ir4oHiRPXK2jGg9Vb/0ZHekNOIUYEnC5QlSiGfwGKiB9GHuLQlxt6AYBi2KN3uzpYupqcp2GAFjMjcObxSJzsV2QsRrb97mPdrxwbWk=;URxIzScbQeJ8tsvmTZF4Tw=="

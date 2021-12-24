@@ -2,6 +2,207 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-10-chinese-ai-giant-sensetime-delays-ipo-as-us-prepares-investment-ban.md",
+      "title": "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban",
+      "excerpt": "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-449875/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
+      "publishedDateTime": "2021-12-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-the-limitations-of-scaling-up-ai-language-models.md",
+      "title": "The limitations of scaling up AI language models",
+      "excerpt": "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
+      "publishedDateTime": "2021-12-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
+      "title": "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling",
+      "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
+      "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop",
+          "width": 320,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607",
+      "publishedDateTime": "2021-12-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-cyber-daily-us-to-bar-investment-in-chinese-facial-recognition-firm.md",
+      "title": "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm",
+      "excerpt": "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
+      "originalUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-to-see-proteins-change-in-quadrillionths-of-a-second-use-ai.md",
       "title": "To See Proteins Change in Quadrillionths of a Second, Use AI",
       "excerpt": "Researchers have long wanted to capture how protein structures contort in response to light. But getting a clear image was impossible—until now.",
@@ -49,6 +250,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-nvidia-launchpad-enterprise-ai-lab-review.md",
+      "title": "NVIDIA LaunchPad Enterprise AI Lab Review",
+      "excerpt": "allows developers to realize the value of their AI project with an NVIDIA GPU. The NGC catalog is a hub of GPU-optimized AI, high-performance computing (HPC), and data analytics software that simplifies and accelerates end-to-end workflows. With enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
+      "originalUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/12/ai-launchpad-workflow-diagram-1cc-d.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "publishedDateTime": "2021-12-10T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -925,238 +1169,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
-      "title": "Instabase adds deep learning to make sense of unstructured data",
-      "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "publishedDateTime": "2021-12-09T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
-      "title": "How bias creeps into the AI designed to detect toxicity",
-      "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
-      "publishedDateTime": "2021-12-09T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience.md",
-      "title": "Startup Bedding Company Viscosoft is Slated to Develop AI-Driven Sleep Experience",
-      "excerpt": "SAN FRANCISCO, CA / ACCESSWIRE / December 9, 2021 / The award-winning startup, Viscosoft, has swiftly solidified its place as an industry leader",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/startup-bedding-company-viscosoft-is-slated-to-develop-ai-driven-sleep-experience-1031036974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/676183/sGd37fPbL0JLnpolywOMvhFt6axnr6XdLROpajLiq3QxEhg1M_VdmjiWdFB04-_m7Sk65W-5zL-VLCcFEvKg4HCP0rBSHmUnw9PlZk6hxGWzAe8BdqGXZNRULsc85tqcN9bLuYt_.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T12:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
-      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
-      "excerpt": "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
-      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
-      "publishedDateTime": "2021-12-09T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions.md",
-      "title": "DeepMind AI helps study strange electrons in chemical reactions",
-      "excerpt": "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
-      "originalUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
-      "publishedDateTime": "2021-12-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

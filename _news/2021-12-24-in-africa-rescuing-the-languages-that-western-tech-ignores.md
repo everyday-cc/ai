@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "Tech giants offer their products in numerous languages, but they don't always pay attention to the nuances necessary for those apps work in the real world."
-publishedDateTime: 2021-12-24T04:36:00Z
-originalUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
-webUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/9013584002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002"
+excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
+publishedDateTime: 2021-12-24T02:52:00Z
+originalUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -43,7 +43,21 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Bridging the financial gap for small business owners in Africa"
+    excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
+    publishedDateTime: 2021-12-21T22:32:00Z
+    webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
+    type: article
+    provider:
+      name: Mercy Corps
+      domain: mercycorps.org
+    quality: 24
+    images:
+      - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "PeWKUTQhD/hgQPcc3xQ2y4EMwsE6rG8/gqFSqLWsgi5laEaL0B3jgfrTaEXvyOuDcGzQPS9o9GIwRmeFyeNLbbAgtYazT4arRxCDaSYaVia1zamHcVmVHmkyi+LUWfW5oO08eXthVAaHFzzYbi6WriwG4UzciR5ypweZjrluZFWPv6EbDcb010freDYXtV47bHh9hFm6w5YkRRpiKReaylNNlWvDk49ruepBCPkRCMeYWppgurwQtZwm4+6JMfwrpgslX25q06OqRCth9fwBkO8MrlOCXq2pz5QWsrTRrP0jizVD+rix7S5x/+9zKPaZ20tVQ9yJvaCUre4K1lV60VqppoaY/RDr/fFO4dCDS5Q=;GtUv9pM5ZNttI2S43VKpNA=="
+secured: "mI3T7lCI+nWmQWVBq8xjNhQ1mCjqUuQ+YGTpMb18BcSWMyEcJcDJw9QXM3JJzASr6xfGk0mvre0iYzAFPBkoVYw5KgLMphc6CRgYaQdCD+zwY0WTrcn28bW4mqBWQd++x9qW9znf4ci7KaIkge6Ki5J3J4DU6VQoTjRr2YX9sZsusA5SCeczh9lVDH0PEoGeyxHpyQPXgcOwMUnGNS1jl+7drQHMCnWWkXLFs5DWAc521qMDKh1lzy40NFPiaztiLOl3tWfXM/CMGOYRLPXsIQXAUT1cR3LcwRDeni6hNz4swMcfSrPJLabtqT2CJmvVkdYVx03Y9dsyUasE+HC+jq6QxGW5oNO85WT+6N5niT4=;+whsf01ygpsj5Nt1ybQ1/w=="
 ---
 

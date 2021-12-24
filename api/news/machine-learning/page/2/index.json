@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-14-how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid.md",
+      "title": "How AWS machine learning helped United Airlines navigate some unfriendly skies during COVID",
+      "excerpt": "The COVID crisis made the skies decidedly unfriendly for United Airlines, but the carrier’s single cloud AWS commitment has enabled it to use machine learning to drive business outcomes and keep customer satisfaction levels high.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid",
+      "originalUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-12/united-gc29373f4e_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid?amp",
+      "publishedDateTime": "2021-12-14T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
+      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
+      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
+          "width": 1028,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T10:44:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
       "title": "Machine Learning Trends for Marketers to Watch in 2022",
       "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
@@ -1307,102 +1404,6 @@
         "AI",
         "Math for AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-aws-launches-a-free-tool-to-create-machine-learning-projects.md",
-      "title": "AWS Launches a Free Tool to Create Machine Learning Projects",
-      "excerpt": "Invent conference a free service to instruct users on machine learning techniques and experiment with the technology. According to AWS, SageMaker Studio Lab provides students with all the basics to create data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/",
-      "originalUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2021/12/awsmachinelearning.jpg",
-          "width": 860,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/amp/",
-      "publishedDateTime": "2021-12-06T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
-      "title": "AutoML market revenue set to surpass $14 billion by 2030",
-      "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
-      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1604666878/itpro/2020/11/shutterstock_brain_AI_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
-      "publishedDateTime": "2021-12-06T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

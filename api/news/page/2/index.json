@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
+      "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
+      "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "originalUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-485025710.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "publishedDateTime": "2021-12-22T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-artificial-intelligence-was-the-most-discussed-technology-of-2021.md",
+      "title": "Artificial Intelligence Was the Most Discussed Technology of 2021",
+      "excerpt": "Artificial intelligence topped the list with the most online articles (175K+), followed by machine learning and virtual reality, according to Walkme.com",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
+      "originalUrl": "https://www.tvtechnology.com/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg",
+          "width": 1000,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021",
+      "publishedDateTime": "2021-12-22T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-4-ways-artificial-intelligence-is-improving-mental-health-therapy.md",
       "title": "4 ways artificial intelligence is improving mental health therapy",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative",
@@ -632,7 +726,7 @@
       "originalUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1078,108 +1172,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
-      "title": "Nanome uses VR to build molecules and reality check AI recommendations",
-      "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "originalUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/21/8d1dbbcf-b504-4280-bcbb-446527541fbc/resize/1200x/6a99c0ca19d2f3cf1532999ac411c2b1/nanome01.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "publishedDateTime": "2021-12-21T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
-      "title": "The Single Misconception Holding Back Conversational AI",
-      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
