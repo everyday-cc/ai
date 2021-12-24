@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Applications of Robotics in Education"
-    excerpt: "Robotics is a popular industry. All industries, including healthcare, travel, and communication, have been made more productive by technology."
-    publishedDateTime: 2021-12-20T04:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott"
+  - title: "Commentary: The Ethical Use of AI in the Security, Defense Industry"
+    excerpt: "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,"
+    publishedDateTime: 2021-12-21T05:27:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
     quality: 71
     images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636"
+        width: 878
+        height: 500
         isCached: true
 
 secured: "LndRRP1wbetW2tP+FxMVv4YdPD58CQEVvyicjU0iy7VPnxKzqjS40aIMzWMCk9nYpN3ylsT5zxb+HLXEQQXvev29fuIa8mlOwD3eAoI8oCXtNnTsJpsXi/NzlUodGfWKIEUbCBPj6GMfLP6+yxwxRFnZJgIF/WY9nsmseyDtjK/Bzmx/pWjaAaaS/liPMjPz0A4BQ45tLI09ncdXwaXLL4mVqmB35B2TUf+Q66TGDwcVHnHAqZQL0neFoUfeAb87AfY1pXBisoOzw2QY4DCG5qREcYJQ+zT8EceMLm4TFWoqdz1cGld5p0puunXWVuSyO7yjFz6sWDE9IRULiRZY6nc4hpVcZyM+pUC23mDXSHw=;885UCzKecznIuAd0s8C2aQ=="

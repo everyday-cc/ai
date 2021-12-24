@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-22T08:02:00Z
 originalUrl: "https://semiengineering.com/eda-in-the-cloud-is-driving-semiconductor-innovation/"
 webUrl: "https://semiengineering.com/eda-in-the-cloud-is-driving-semiconductor-innovation/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Siemens_EDA-in-cloud-drives-innovation-fig1.jpg?fit=475%2C316&#038;ssl=1"
@@ -24,6 +25,6 @@ images:
     height: 316
     isCached: true
 
-secured: "Rx9GMklqpd2sAz/otODKjWbMi984dfFLUP0gJIzq87BXIM0k1nCHONNNTUrr2KKFDywX2k48YFja9eS6Y+g7jh1YoCdEqElEdbIgxHTbx32A8UGs/CuVzoJK+1hqku2gAl878N5gZur/hbbkrvsbbPseA/9/jPwmTCd8AovlEDtRhJHZ9W3C//vvNVzHGU/c+nVWTh8nA76F3dAxhZ1yPxAQMCiQvJPAstNP+d2RiL7QVvmbtP5tSmaV82b3B3y/PHd3XkzBm99qPAD4qsaEJpxn2GXFZuB7t+I73VpL8t1NJRtLPU1UxXhS5Hc+hvBaOElBbknRNCyLoEtZHt9nsw9xfG06TTfAEJ0z3yjCwj0=;JsvUBVD8fDe6BH+UxcJrAg=="
+secured: "pMGez1tsq3dEvSuEAwq4PqNOAzIqC/DqlWeCZvJIBbuIlYUOs5uKmiLIQgHYiA+c9eCCQ0JN9D1KWbIijouhvkuNB9/NpZWYlT0w4/qfcAfNi8Z0vBaS583Ka8Z+DVSZ91KBbLBqHETl+mapQcttHFxOFLjJ8HiNrZlZWAzv51RsLHU5jijS7lyzdayBOWvcb3vlpg9idRhz1I/bCCuVgVnE5lQNDW8az8vAA4WFc3zNd+YML8QALbEeL4Updh51mzhgo8Atq3SqNocavXUs69HWUaEtt3fOM1lIzKb3/slsa8CEI7aQ5oZSYfttDI9Ri1sydMbOTyuJDq3qh3n0hbIjPC8pLR5s1FmmAqyVUUQLDlmnUaEuO8R/f2hCRUBBID8PyGOu/1fgjFAy6GZ7VSVO1AVVpgI1rgm/Z9EVMFx5hscFlWaZxvsBJHXnKgRVytIwaRog4a74Xf3um4A77O0cYPrTErqWwXCxvAnkvDyFwA/Tcm89Q7iI+j04PLcENDxhjwiBYP1rQKR6KnxlsA==;vhOdIawSAVF6qWyrvF3sCA=="
 ---
 

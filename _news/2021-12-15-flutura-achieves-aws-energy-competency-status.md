@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Flutura Achieves AWS Energy Competency Status"
-excerpt: "Flutura Decision Sciences and Analytics announced today that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Flutura has demonstrated deep expertise helping customers leverage AWS to build,"
-publishedDateTime: 2021-12-14T16:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-flutura-achieves-aws-energy-competency-status-/2021/12/14/9511190.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-flutura-achieves-aws-energy-competency-status-/2021/12/14/9511190.htm"
+excerpt: "Flutura Decision Sciences and Analytics announced today that it has achieved Amazon Web Services (AWS) Energy Competency status."
+publishedDateTime: 2021-12-15T13:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/flutura-achieves-aws-energy-competency-status-832847086.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/flutura-achieves-aws-energy-competency-status-832847086.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1709490/Flutura_AWS.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1709490/Flutura_AWS.jpg?p=facebook"
+    width: 1377
+    height: 721
     isCached: true
 
-secured: "dpQfzWs0wNQH63LnH8aCv39vFXwXfXFvXjrj8tEJcPNAg/f0PALlad53V3RONjqcFPAFMEtl49PoqHQP0A11uKHdPciCpJbhetQkOx/JtSdrgsKOHCzzp//NQFxRgJ0YVJIRA1g1vsedCyxOKUJgrHsthG5CaR4m9BYaEpl4SVHGV3Lt0xpxx54iy7Jx9lkyuo1NMnXlxGMQdL0EADh7pKOOFZTaLCPvzD+i13yy4dutz8Yse6PlloHa/cd5Wy8pHEWLYiSCLRPClkNilkSJQ4j3jRNjgHK8Q9THd7PkPJpS2pv60WWjwWjRRlMVHE3YD8cWa58PXqovtFEjD9dnRDLULzDvFwP/CDLVdW4cJN2xE8WdWrs8DXOCRyFDbTF22QEqeVhAkuCcXfQ30Xut20NUU5IYh85QV4UjnYaXqVmoO5vhNZ/gb4L1iz9hfrXa1FCY5J/ACFwEJ0TJiA2C1i7l2dyVhNmUFCrz+jHY7ctPk8c9MXSZSPu876Xm57yYMgUyzaKJAJD1ZZu1DrBvOg==;R0kf1icxAOeifd6EupHJTA=="
+secured: "gE2gqnOePI59fb7AbAlQStfQH57S2dSnjkrHYRsjxjfZRb4tRUpKb8wy+n1oANSgjdcmtbF1eyvinhF7ucpMAQtOoaPFoLJZWKhHDyT6XG1m6RXVUSLQW7Bwo4bYwUep0RiMbAQlSj501Eg3naacmMJ72r5GweS8677/tVWz4+WQdMJK8jWl/ByXkktrt/Mdko/OSfhTrPvhbtDxBtOe8Q5aaIqszvS+NyOesjF5g7ocfyOyZ8eKBDOgYD3ewup7mWdk/TxFgQgb0MYFDrjVd3ozNcZ/YhNdpXn6RyB1qjHIHBvHLfL49EJov9JEj1DWnuBoBfc+KqSEf9JE/N8JpUNMi7lDMiLqb21J51QrU1Q=;XEHYuwF8Q6ZnCXzfjd+ssQ=="
 ---
 

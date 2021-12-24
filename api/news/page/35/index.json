@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-11-25-heres-why-an-mit-professor-thinks-ai-will-cause-more-harm-than-good.md",
+      "title": "Here's Why an MIT Professor Thinks AI Will Cause More Harm Than Good",
+      "excerpt": "Artificial intelligence holds tremendous promise, but the technology also threatens society. According to MIT Economist Daron Acemoğlu, AI must be regulated now.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
+      "originalUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyvqBgGQ/sizes/multi-coloured-squares-in-mid-air-gathering-to-form-head-picture-id970317224_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
+      "publishedDateTime": "2021-11-24T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-tesla-asks-full-self-driving-beta-drivers-to-consent-to-being-recorded-when-they-crash.md",
       "title": "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash",
       "excerpt": "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems.",
@@ -1121,40 +1164,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health.md",
-      "title": "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health",
-      "excerpt": "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
-      "publishedDateTime": "2021-11-23T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of data for answers to complex questions – as long as you speak English or another of the world's dominant languages."
-publishedDateTime: 2021-12-23T21:01:00Z
-originalUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-webUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-ampWebUrl: "https://www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
+publishedDateTime: 2021-12-24T02:52:00Z
+originalUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PBS
-  domain: pbs.org
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/12/2020-08-13T090841Z_973674791_RC2XCI9VEEH3_RTRMADP_3_NIGERIA-JUSTICE-1024x768.jpg"
-    width: 1024
-    height: 768
+  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 267
         isCached: true
 
-secured: "TecF+ea5KAx6T796YRxf8C9PpQf6cZXMzUXBFjasJfE/nRZTAsSC3PGbrJIouRCWwMVGbGU8S5iVA1JtUJuxeZr93f7BMRaiIKhUBQyYhJpLNs39kCYQrSXKwLl7mtYYAo1UoUudy304sgD+xUrhZg80tTOg0LbHjdExcKSrKS2ueTyUJGPNGIxTMS4bl/Rf5SCbsGeqle+2WYxM5juUm6TXAX1itr4Mp1e7HfzAgZ0Jx6b0laPtD0cB3Wf+2YapKbZ9vwyx0B3BqDPzti5HxRDG9dCpl8l95r1g+kLKOszhAklHKVg0Z4wHCVaM1HMHCI7yPRiR32Vxjghktq60xurdUofH3TZRlG8t8OEnnJtMwyVq7rImXyaFlBND3KioQeK9DyVBtJ/TMYCjU00otuaFAw+QUF6E/TZmzb1ARp9S61xAmeR/2VLP4b9sjDxdvdeubkGLNtjfgvkQt4eZbTXWl7CFozKcJlYp6Z7HlYLh+kLYB+7SR9iNOm6EHQBZ9nGsTme5MUGuor8fQwfcVw==;JrloA1TSe1CxYXZzL3JryA=="
+secured: "3ZrsHpcSgDnaP/WmCHgrCnGV8hhIGJdbJq5A9mdONLjcZrnY7dYlPSYQSA3tqv9/Mh0wj2CyQni50GghnXfg3S0ptIfyFTzXcdIikhu+bFLArHHBr6a8o1ThqPfANC3zfmCwlW/G6fA/BbeONWHl/U+ip24VSAcMpp3OURj9Yl6Ljfs1l8oiAh3v8mcnxdyd0b6W9V4VZEQQf42ZWt8F/wmq9nLUmTY1RO8IAe4gS9rK+w8w8JJCF18nge/NsE3CaZKPFxN97Pu9R5oeTzfZCdW2UTC8/wj+zIdHqqY2LLAUCxcShVCwoerHwVqiXXdccJ0bJolxTTRpUhQth4u/1wHTrAVdDZzxG1Uo/UpYF80=;EmAq2r015+M+9q+io6eREA=="
 ---
 

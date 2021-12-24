@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-19T10:23:00Z
-    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face recognition: Digital scrutiny"
     excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
     publishedDateTime: 2021-12-20T15:16:00Z
@@ -174,6 +160,6 @@ related:
         height: 405
         isCached: true
 
-secured: "y6EvoNvf+9PGS+nF7N/stTvnaUid2JiR1oJyvMQ3w9ltR8nzqTEZjZFXqM+kHZ5aa8eA1gFhZ0lGwMk7KtR8G24AWX3Pxcw0Rw3pSFaHV51STes4bfTFIZ7WbSVYI86u/YrbAq+/8D/ZZYbeztz5KZyOLMTUC81WtqGwYBl3+2V4M9UNeJobRAh6M+7Ii0WvpP6xtlBPxuJGYyjsw0/EXUD49A+PG3D94VYFiTn1PV07SkWL/jzO6B8Y7QkUqMZDWpp19JWnjymccgxXopT3o5DqgGwlyAWZOJeiQ3H3/AdXFdT7XbFLICtuL55qqBAI3EVUeors7hE05Vg3qbzLtUxWuNfPrIr6g8mRCYh19c8=;IgorfIARb4mnhivfbylPrQ=="
+secured: "JgMzkrav4w48O5wEqgMsZJu60HH5JkjzjQ7bAqz2na4mPWNc/xbfHnedgKuP7fxiuC1R9GCW1/bHaPWaS/qgwFgPfKRr2MypxyIqPar5m2U9iCE6ZN1bnFTr3R/Jq3rsUeDqJb98lXEqhv4G5QAbeQq3ugapyGIN/YAKsgz3MHH6Dn+kurDLpQG2a3kiuhGmWLOzc9Ah7IM7aM6sskr5F0cIAXVsgR0WWOPWfi/Ft8xwkB0xjoDrATwpfjlayQZdZylbG8QJBN2I7ocluUIipPqJrKjdFqZ6oycsmOzKzJfA9eZGRjZJhrCZS7ydddq/+GBAk9B8Qbh1isvve221hKndNix883J6u5r5jElBkiNqI85SYiEk9Bm4CUeVeOpK1pMLTqePrk+xs/Me4cuR3lgYYI8zGDae6OxAO5VKVUaUKTDTYOxnI3PjrLfJSrZsvLzeL55nP8X+eHy2HZimV5MReqsdRYjqIHz2GtjK+tUk+ogsra3D3JTo4N+79kLU94Ts4dNGJh8gW0jo2SpkZQ==;M568IniAvE62hww9JFafTQ=="
 ---
 

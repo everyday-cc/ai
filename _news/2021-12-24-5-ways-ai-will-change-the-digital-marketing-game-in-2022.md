@@ -2,20 +2,19 @@
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
 excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-publishedDateTime: 2021-12-23T21:50:00Z
-originalUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+publishedDateTime: 2021-12-23T20:18:00Z
+originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Marketing
 
@@ -105,6 +104,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "as7yjRDy8WkjL3jRwi0m5MaJgt/lfpvyU/7EziD6yCPg9GHwIhgjGXVOS7tGdGWZLBYP+ijoY6FwoEh0ZCIRabSuKVqtvJrUZpxJIjNsJ3PgXHaG+4b89/So7Evolnl2V3VFngyQG9PKQji7X+l8BJrVPhb41kqnDUcj3qKKnNLgZ50gu09Z9mUBecwwQw85jVbVnqPlrjFDxRkiftvnX5oaOP/aYe8eFmOU6ntvj/8GR/AAWDeZD8yZ1LiI+JG9gGO8OFJgqxmiAqU4viNxATSbEJ7KNSSEvNYfXgT3YTMihz5LY1XzpTG4lJJcKz4NZs/24AsssVj1vpOJrE7vV+jdecElj5YPpubZRgjdCTtaw0WztQ9bYZ+tRB4FlPCZt3HgP8E+B1UUSqJK64h8t2L1rLF7Ux90S9b+9OQArfa6ba4H/8wAmsDVVKXSu5fdYXZLMFapXUEq0Oe/ZP6fUjHsJIz0QLhp+fpO5UySj5g7G7OLZK4ob9VVymUvG1B+iss+eosXa/I21V8OoRrBGQ==;+agQp1U5ceoyldWpPUOd/w=="
+secured: "gtAzy0Q4FgUZBpWhwL4Ijc0wzXby2Ortj7//+0jNXSPyC/rj8Yd/U9VreE+ODAICs9vAOcIlH11AZQaLT6SULwS2K5ztF5ZNGBfyeJxGLba6Y4FZeYgSBkLHDWnlT4bcMaKAwYlDsikG/kwuc9F/iHoo+NF1BX+SwF3UYdYOmQrDFFOc1asAVylQECNU1XHOtrU0Ex93bHl637VBb+uOVw5DNu9aYWWv63tT49sN8+cSJZ1zadp4mCIk4NkfG9W3vJkGrGyLmxgqJy671AYY+HgWjhYiLLyXRmTCutDUdIrGVqOz/v3hrEnK2GtTTQoYI1eX2x85BTplt7oR2eLgLz7sHxWehPB9yuQ8OM6mTx4=;uK00Jz/6mDfQBG7XnGmBtQ=="
 ---
 

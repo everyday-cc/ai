@@ -2,24 +2,28 @@
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
 excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
-publishedDateTime: 2021-12-20T19:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/24706789"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24706789"
+publishedDateTime: 2021-12-20T20:20:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "C2hnUnP6yojzWe2/GRb3EVRJrH1dWO0WwBbTzxHN0l+a7pqye8o/3yNcFMlxuiAg/u0zT0VIvewzt1ORJSbo+wuV1v9M6oikhZa7iaJlbBnnS8CTIKRtESxhQAtymJABAlKTSCbbk2CxUYSC5/5PJzdLTAUchJ2JPEyjSPr/DsUbovlPNh1HKpIjrBjZ5TzX1zr6ywvpIHjMZhfB33JiQbXAwhfEiE0ypKVGMON2Zc2GvZV2jC1KXF1MDI39tF8Qitm5kCncgK3WQ2eXQiOMtcNf49kObgjd1T/xHxMVHaslo7Mt11qYJuuVcPoFIOXM2XPM2hzYtUq3WYszmfy/TP0l/6995wbp795A8hi4+dw=;IdYNSKO5Q35nQztX8nV3gw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Maxq+3BdzJ4ZOIrzFrL9Th91XEPB9k1X5bzxfyrlonTKrrM7rQ0MicysGsh1UDoQE5Lu8oXjG4FPI1t9U6btwRwTkueSxIMezMqIOVDiM7PtJOZhtIMTuYxeTee4s7eUsBqne38DJ1zFWa31Zi7UNfOnGiAXbYb8BMVlgYQ5l2UgBhxkXD1F2SUPfr6l5Bll9y4GUTD49h3RnrotPrQ0HMVuQhEzt+Vw8pNJx+oNr6bzXuIzDpGDtVImixggoeZYXbbeeOO9qDzmfhl9d98W5WHypyzEwfknCGBSquhmnUuI/xCulBx7qj9rgY+nd8qqID851yYED1KtJRqOAwZd6yc9Lmy5T/fjun4Xewc6gTg=;OvfJh72N15AXqzo7DSRGmA=="
 ---
 

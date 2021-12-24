@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement
 webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
 type: article
 quality: 139
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Survey sheds light on police use of facial recognition in Massachusetts"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel"
-    publishedDateTime: 2021-12-19T10:23:00Z
-    webUrl: "https://www.gloucestertimes.com/news/survey-sheds-light-on-police-use-of-facial-recognition-in-massachusetts/article_f66b5fc8-5f87-11ec-9467-0f7f4a1de164.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/c/8d/c8de626e-5f8a-11ec-8228-1b1180a72d92/61bd12ce5e1a4.preview.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Face recognition: Digital scrutiny"
     excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."

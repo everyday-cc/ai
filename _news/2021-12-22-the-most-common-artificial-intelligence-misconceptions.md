@@ -59,22 +59,6 @@ related:
         width: 501
         height: 344
         isCached: true
-  - title: "20/20 computer vision for artificial intelligence"
-    excerpt: "From autonomous drones to driver-assist cars and shopping carts that can check you out of a supermarket without standing in line for a cashier, artificial intelligence is set to change our lives. But it doesn’t just happen."
-    publishedDateTime: 2021-12-19T10:00:00Z
-    webUrl: "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/"
-    ampWebUrl: "https://www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/20-20-computer-vision-for-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 78
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/12/Dataloop-1-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Predictions on robotics for 2022"
     excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
     publishedDateTime: 2021-12-21T12:30:00Z
