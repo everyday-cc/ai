@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-26-why-data-insights-should-be-a-key-area-of-focus-for-the-financial-services-sector.md",
+      "title": "Why Data Insights should be a Key Area of Focus for the Financial Services Sector",
+      "excerpt": "Q&A with  Do you see real time data as a priority for organisations looking to boost cost and operational efficiencies? Absolutely - just think how fast the amount of data produced globally is growing,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/content/why-data-insights-should-be-key-area-focus-financial-services-sector",
+      "originalUrl": "https://financialit.net/content/why-data-insights-should-be-key-area-focus-financial-services-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/anurag_bhatia_640x493.jpg",
+          "width": 640,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-these-machine-learning-algorithms-can-add-great-value-to-a-business-in-cutting-down-costs.md",
       "title": "These machine learning algorithms can add great value to a business in cutting down costs",
       "excerpt": "Machine learning algorithms can help computers play chess, get smart, personal, and perform surgeries. Machine learning is one of the vital technologies that has been used in the current world. Let’s see what ML algorithms for business can favour.",

@@ -75,6 +75,20 @@ related:
         width: 616
         height: 582
         isCached: true
+  - title: "Neural’s AI predictions for 2022"
+    excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
+    publishedDateTime: 2021-12-21T17:00:00Z
+    webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "50 Global Hubs for Top AI Talent"
     excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
     publishedDateTime: 2021-12-21T13:25:00Z
@@ -188,6 +202,15 @@ related:
         width: 814
         height: 415
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "2022 will be a big year for artificial intelligence"
     excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
     publishedDateTime: 2021-12-23T13:47:00Z

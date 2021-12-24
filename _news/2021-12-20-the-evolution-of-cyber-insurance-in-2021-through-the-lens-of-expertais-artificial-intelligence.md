@@ -18,21 +18,53 @@ topics:
   - AI
 
 related:
-  - title: "AI Dungeon’s creators are launching an experimental AI-powered game platform"
-    excerpt: "Latitude, the startup behind text game AI Dungeon, is expanding into a new artificial intelligence-powered game platform called Voyage. The company announced the closed beta on Friday, opening a waitlist for current AI Dungeon users."
-    publishedDateTime: 2021-12-19T15:00:00Z
-    webUrl: "https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
+  - title: "10 AI Predictions For 2022"
+    excerpt: "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence."
+    publishedDateTime: 2021-12-22T17:16:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
     type: article
     provider:
-      name: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
-      domain: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
-    quality: 154
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/bR8RES-WU9Ov-DtqUAeQnkxwJAc=/0x0:2346x1732/1400x933/filters:focal(986x679:1360x1053):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70293890/Latitude___Midieval_Problems.0.png"
-        width: 1400
-        height: 933
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Five Predictions For AI In 2022"
+    excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
+    publishedDateTime: 2021-12-23T14:08:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c48a7b566f48451cdf6072%2F0x0.jpg"
+        width: 501
+        height: 344
+        isCached: true
+  - title: "Predictions on robotics for 2022"
+    excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
+    publishedDateTime: 2021-12-21T12:30:00Z
+    webUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/"
+    ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 74
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/Pulak.jpg"
+        width: 616
+        height: 582
         isCached: true
   - title: "Neural’s AI predictions for 2022"
     excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
@@ -48,156 +80,143 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Mines powered by robotics and AI promise explosive growth"
-    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
-    publishedDateTime: 2021-12-22T15:44:00Z
-    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+  - title: "Top 10 artificial intelligence stories of 2021"
+    excerpt: "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021"
+    publishedDateTime: 2021-12-20T05:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021"
+    ampWebUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
     type: article
     provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 69
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
-        width: 1280
-        height: 854
-        isCached: true
-  - title: "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk"
-    excerpt: "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”"
-    publishedDateTime: 2021-12-23T09:03:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.computerweekly.com/rms/onlineimages/storage_g539954410.jpg"
+        width: 1200
+        height: 400
         isCached: true
-  - title: "New ethical AI institute launches"
-    excerpt: "The Distributed Artificial Intelligence Research Institute (DAIR), a new ethical AI research institute, has been founded and launched by the former co-lead of the Google Ethical AI team, Dr Timnit Gebru."
-    publishedDateTime: 2021-12-20T23:06:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/new-ethical-ai-institute-launches.html"
+  - title: "50 Global Hubs for Top AI Talent"
+    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
+    publishedDateTime: 2021-12-21T13:25:00Z
+    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
+    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
     type: article
     provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 56
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ethical%20ai%20institute.jpg"
-        width: 821
-        height: 462
+      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
-    publishedDateTime: 2021-12-22T00:08:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/22/WS61c26c65a310cdd39bc7cc22.html"
+  - title: "50 Global Hubs for Top AI Talent"
+    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
+    publishedDateTime: 2021-12-21T19:14:00Z
+    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent"
+    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
-        width: 512
-        height: 512
+      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Veeve Launches AI-Powered Smart Cart"
-    excerpt: "American startup Veeve has introduced an AI-powered smart cart, the Veeve smart cart that aims to offer customers a frictionless and contactless in-store shopping experience."
-    publishedDateTime: 2021-12-23T10:47:00Z
-    webUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
+  - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
+    excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
+    publishedDateTime: 2021-12-22T20:57:00Z
+    webUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/"
+    ampWebUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
+    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 57
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/12/shutterstock_435613807-1.jpg"
-        width: 500
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
+        width: 1200
+        height: 682
+        isCached: true
+  - title: "The Most Common Artificial Intelligence Misconceptions"
+    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
+    publishedDateTime: 2021-12-21T23:16:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 43
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Applying Artificial Intelligence to Food Tray Production"
+    excerpt: "Food producer apetito uses Neurala’s artificial intelligence technology to automate and optimize visual inspection of meal tray components."
+    publishedDateTime: 2021-12-21T17:22:00Z
+    webUrl: "https://www.automationworld.com/control/article/21965030/applying-artificial-intelligence-to-food-tray-production"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 37
+    images:
+      - url: "https://cdn.base.parameter1.com/files/base/pmmi/all/image/2021/02/640w/image003.602fc7f8809bc.png"
+        width: 640
+        height: 640
+        isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
         height: 355
         isCached: true
-  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
-    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
-    publishedDateTime: 2021-12-21T05:07:00Z
-    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
+  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
+    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
+    publishedDateTime: 2021-12-22T16:31:00Z
+    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 37
+      name: Information Age
+      domain: information-age.com
+    quality: 34
+  - title: "2022 Big Data Predictions from the Cloud"
+    excerpt: "The pandemic marked an inflection point for the growth of cloud platforms in 2020, as organizations scrambled to keep their applications running. That"
+    publishedDateTime: 2021-12-23T20:26:00Z
+    webUrl: "https://www.datanami.com/2021/12/23/2022-big-data-predictions-from-the-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
     images:
-      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/2022_shutterstock_Fit-Ztudio.jpg"
+        width: 814
+        height: 415
         isCached: true
-  - title: "UC Davis Health evaluating AI-powered rapid COVID-19 test platform"
-    excerpt: "Sacramento-based UC Davis Health, alongside Las Vegas startup SpectraPass, is evaluating a new type of rapid COVID-19 test that relies on machine learning and artificial intelligence. The platform would be scalable and would allow for quick,"
-    publishedDateTime: 2021-12-20T21:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/uc-davis-health-evaluating-ai-powered-rapid-covid-19-test-platform.html"
+  - title: "2022 will be a big year for artificial intelligence"
+    excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
+    publishedDateTime: 2021-12-23T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17576/2022-will-be-a-big-year-for-artificial-intelligence"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
-    excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."
-    publishedDateTime: 2021-12-23T16:20:00Z
-    webUrl: "https://www.alteryx.com/ja/customer-center/eys-global-platform-delivers-value-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Alteryx
-      domain: alteryx.com
-    quality: 37
-    images:
-      - url: "https://cdn.alteryx.com/-/jssmedia/project/jssapp/alteryx/demo/demo-images/media_roi_calculator.png?h=984&iar=0&w=864&rev=19873a10188b484086e1e6517c68dd63&hash=391BE7610BBC089A60D490D0D6F0C9BD"
-        width: 864
-        height: 984
-        isCached: true
-  - title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
-    excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
-    publishedDateTime: 2021-12-23T21:57:00Z
-    webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
-    publishedDateTime: 2021-12-20T15:14:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
-        width: 2090
-        height: 732
-        isCached: true
-  - title: "AI-Powered Malware Doesn't Actually Exist"
-    excerpt: "Misconceptions around AI-powered malware are primarily fuelled by ignorance of what AI, or more accurately machine learning, is capable of. They assume that current machine learning techniques can be used to recreate human-level creativity and decision logic."
-    publishedDateTime: 2021-12-22T16:00:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-powered-malware-doesnt-exist/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 17
 
 secured: "PR+BSrjeCnRsz1NfLuIWn1ItGz1POYacDejM0YOHkClDGjORJsQ3rdcKn6AImYn7C1VfLrpMA58LESVOrKlty/3EjlFPB0hVYmDMJ7Aqf+aHuGk9vxj4pBxQ9MHyRssy8da4SzWhg1zKJ4TZba9NWmcJjSIylKTo4aU58u3WO2sgDEGYqJnUK4nPUkUy/jgpqLUFO4Thy+Cun/zwN27lHFLTLoJG/KQNB5l1JVpU9ubVoFwHKXRjJv1SVMF2oCv7qV5CqUQZ+xkIAG2CdsYAhDflobiScUMKLzBvq67ipBElF3o4hsgvOrPOufrTfRhTi37q4wpA3gIUTIsK2FQHMtR18tZ6gqhuq3aKN3S6NH3o+szKm8tWKSNfRmHpnY38a1x16/AFqArQSJMWq3oj+JKf1yt2haa/KZSK+wCB/0XjZyJphL8oepTXtVgXnC0i1ncCvHlBnKn/ObSAckQ75/OE2nPBv47wDypIa2HoYxRyg2THkgH6DgqYznUKl7LcDAyrFSCQ+2oyhvwVOnHAxA==;lDz22JlujPN+TsYy+eCeCQ=="

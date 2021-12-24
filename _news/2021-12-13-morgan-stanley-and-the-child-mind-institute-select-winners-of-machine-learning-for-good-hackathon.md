@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon"
+title: "Morgan Stanley and the Child Mind Institute Select Winners of \"Machine Learning for Good\" Hackathon"
 excerpt: "Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine Learning for Good Hackathon, which leveraged natural language processing (NLP) to analyze COVID-related mental health data."
-publishedDateTime: 2021-12-13T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-health-mental-health-morgan-stanley-4414b221383744e588dc19b0eb0b9f1b"
-webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-health-mental-health-morgan-stanley-4414b221383744e588dc19b0eb0b9f1b"
+publishedDateTime: 2021-12-13T00:00:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/13/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/13/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "mhvCZ5vu8YeggPjWx7mmzPCcAPBaE++6cleKPAIDotDeh9hO3xvLzzJptHPIf4RMJI1dljj90QkbOwo0Q6vk3DMDQryX8gK3TCoRSLSWsiR9i7jh2v4wMyxn/drtwBnO8wm5h2lLCd10iDaZUyNJdmHQKb5a00Rcs1myoy4DCj5hVTT8fKsAppzQbZGf3TBCqq9Ur+LiDYKHnTiNYX4qQn0o4yP6qjrnpO3y5sX9dL5BSdquds51HLgTZbf+It7IjGEle/rOOm++JIIA/2ltFRSg5ee3ubjEPbrGSdqZwrvsBKHqKk1naquZYz91uWP1qQN0XuYcTHArpbtkO8ebs2MkFspjfL6/Nmf8jkf5WVk=;+MD7nm+qE4CEO0zJtkmdQQ=="
+secured: "cEFhVkAJZjPu48Lec7BcYuLCV9hzbfeLPSbpcN8bcSGUm6tW3ulXgr6Jxfzclzubod9S+edsN2OZoJPLlgD6eKnig+oejCURE3YCX4cYISVXH+es+fLe686RkiY2JV9KeCykICXmlJJMLZQaLcE9kzWopjSdP7VUsim5mg7kWQVrnEHSrogMTP9Str/i7rlvJCRiZp8uIhzcLBzbABMfiglEMivwEt2XwKVqw1KQp/Y7LsUoFSBaIesd+BoJ7nPQmbxLnZnQF7CJUfNbSIieZSJ1t4+GyL0LCKpLwO2Ki3fEL7h97VqPc1JdOBwdIR7KqvmSgP4LSn8lNEkqOTCEdkhJUbtBbGEcihiMV0KkmxWGkVwSdTOImg5IfnSID0AKG1fQjBVxeIahIybpE1F1xXyEMdMDcHdV50Rfp6pogj9yMgJwbK/foJeb/KMFGL1WU5Y8UjgqRv6kIdLcv7O7kuY1HGuljuyaqfMqF3vWjykLxMWIiL4sJhB/aFSizqC2OnhWDMfnNdqC7gJJui9m6w==;iMhmtxaSyuINand3jABusQ=="
 ---
 

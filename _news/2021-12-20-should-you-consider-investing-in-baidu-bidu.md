@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/should-you-consider-investing-i
 webUrl: "https://www.insidermonkey.com/blog/should-you-consider-investing-in-baidu-bidu-1016583/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1920
     height: 1272
     isCached: true
+
+related:
+  - title: "Baidu Inc. (BIDU) Gains But Lags Market: What You Should Know"
+    excerpt: "Baidu Inc. (BIDU) closed the most recent trading day at $144.12, moving +0.46% from the previous trading session. This change lagged the S&P"
+    publishedDateTime: 2021-12-23T23:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-inc--bidu-gains-but-lags-market--what-you-should-know-10874243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "/rKBBj7IN8kfyt/V0XZ0N/1YpFLkGhrBMR6lE3r6Q8v1OiIdSyiERVUQQYGxjAINNApvDKf9OGo66XETbdxV+tNw5p/lnJSh8N6Cv7WVazltjEICVyuPtGyUU1YGLGWwo0+lKry3Tg0YzrWy6Wo89VHT+V8MXMrutRCItjtv+SRHeIY8VAxrJaO70AvWvRTp0n2vEYu5QZ6mJHNdq0MC+ZrCfeu1X5Kgek+31LyUp/JcQpsF7ukBqQ0QSQGmo/UoAYoAdGyn+G0R9zT2rHu4QG9zaRCoOA4n8UzPEcCCEUgLarb5h13xc08llLFR7V4CtKNL01qw3o+KDgjUvN/VJEWidSz6vmqflh/NnBu9Y/o=;/1bRccqhTJLquHganR62nA=="
 ---

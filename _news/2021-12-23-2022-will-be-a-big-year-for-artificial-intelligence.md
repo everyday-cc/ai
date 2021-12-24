@@ -66,6 +66,20 @@ related:
         width: 616
         height: 582
         isCached: true
+  - title: "Neural’s AI predictions for 2022"
+    excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
+    publishedDateTime: 2021-12-21T17:00:00Z
+    webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Top 10 artificial intelligence stories of 2021"
     excerpt: "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021"
     publishedDateTime: 2021-12-20T05:00:00Z
@@ -195,6 +209,15 @@ related:
         width: 814
         height: 415
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "/ldgOFsKhiE2cCx/tUOsWsIdFXHPbXT4XAKPHD0B3WJZcHeoAHnChwIHXfUIZr/tKwnR9JBtGV99uiJ2yUa+mAwyuHZbApEh5vWdam+wArGxBl3Es15sK0Mp5waGEaBYp9ImOEdrgyUDUeRzQ2+84iuiyThKvoG6OWxejnbetvRZPwRifKRSnKDu3uR9NvfbeGCV3YuGsMoRAExVkml2m//nPPE8lPJA0HhHolG0CeY8W7ixbLwYmXJSItkeMnkdNdXYnPbQiGyFVxEM0Qc3NPDjmvhr02bTN56gpqpFDZHjvXCAye0+6LFoRucuXjnzqnk5sSPl+NiyE22gtLA620GBwmbEn9eanGpfR+3XMCo=;oYU9Tf4jalPcy3w+TJfz9w=="
 ---

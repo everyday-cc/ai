@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-06-open-sourcing-human-rights-documentation-in-the-digital-age-why-machine-learning-isnt-a-silver-bullet.md",
+      "title": "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet",
+      "excerpt": "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
+      "originalUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a9fe130050db7974644f5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
+      "publishedDateTime": "2021-12-06T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
       "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
       "excerpt": "The cloud category dominated the AutoML market, within the deployment type segment, in the past. Moreover, this category is predicted to grow rapidly in the forthcoming years on account of the ...",
@@ -1326,49 +1378,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-using-fpgas-for-ai.md",
-      "title": "Using FPGAs For AI",
-      "excerpt": "Artificial intelligence (AI ... and the LUT structure of the programmable fabric lends itself well to a lot of neural network (NN) architectures. Second, the ability to field reprogram the entire chip, or parts of the chip, has gotten better over time.”",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "originalUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/fpgas2.png?fit=974%2C856&#038;ssl=1",
-          "width": 974,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pope demands humility in sharp Christmas speech"
-excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
-publishedDateTime: 2021-12-24T02:29:00Z
-originalUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
-webUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
+title: "Pope demands humility in Christmas speech"
+excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
+publishedDateTime: 2021-12-24T05:00:00Z
+originalUrl: "https://www.timesnews.net/news/faith/pope-demands-humility-in-christmas-speech/article_6464f85c-6403-11ec-8c00-979add8d1fe0.html"
+webUrl: "https://www.timesnews.net/news/faith/pope-demands-humility-in-christmas-speech/article_6464f85c-6403-11ec-8c00-979add8d1fe0.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: Times News
+  domain: timesnews.net
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
-    width: 899
-    height: 599
+  - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/f0/9f076b5c-6403-11ec-87d1-f7bac99ead47/61c4937590bf1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -87,21 +87,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pope demands humility in Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
-    publishedDateTime: 2021-12-24T05:00:00Z
-    webUrl: "https://www.timesnews.net/news/faith/pope-demands-humility-in-christmas-speech/article_6464f85c-6403-11ec-8c00-979add8d1fe0.html"
+  - title: "Pope demands humility in sharp Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
+    publishedDateTime: 2021-12-24T02:29:00Z
+    webUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
     type: article
     provider:
-      name: Times News
-      domain: timesnews.net
+      name: The Columbian
+      domain: columbian.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/f0/9f076b5c-6403-11ec-87d1-f7bac99ead47/61c4937590bf1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
+        width: 899
+        height: 599
         isCached: true
 
-secured: "U6HWEeXjQRm9rdQ9+nj4rAZqTheP0DFrC9BGYKzEOchHSxUwrmtg0dVsaeO2zp3ojeRwvUFYhk/Xigytk5ySCn61DBV6CEO9K+8zj+g6HykHUkadYi/yZEXeNSno30vdPr/E2/NBB3hcgMVZoX7/I+qTXx9gPaDEc9TzBRVglbjQIkLJIHg2gcZvUjZkX0B5Dj/Q1vnKTxjPjDB6AymDt478iiU9j4Os+2zqYmCv3O0bwuAAn1wMeimb+qkPOuR5R5QDxoTQxOHmIV8GoyxgzLCxTd3Tv52GGQ5+u8zxzXLbDaKE0Prm+pNJ8ztv0Gu938cHHdgQdXWmmoNYjBpgLGEsJgNyuYmfpL24zlOSPdM=;4qiRyyh9baWl7OzCuv8Ntw=="
+secured: "j0FzMKWzNKyFsnmK4VsE1kMsWJLXwMUaY4uA9rD57a5SvZIJCyx12Qbskr7MeHZFmwqbg++SWVbxPfb/DYBh9bbS6EsJNCa3C2xJxwUwyFLfMJEZtVBdUTk52eWdFwYxpPXk+nBibtFavvNmAZipsdY3xfzlOLQoCbloeYdwxapDcpwzlHBEWLDP5roK7gb9UqT5/iUDQQL6fMECgxQpxGj5o9tw0ruAul8oEN9wPvhoKN0n/oMjvha6l4bQKjNKf6tL7DEaAPiI8B5n92i3W6l6HIY/HiZ0DoaX9WR029IkAMJXaxBbuCaO+ZCO59hOdJzEEW+zPiOMyxMmKQZY5am3QWBAz8agF1UAOZnaKgI=;so6MP1fLDCYQYkkwD7f5sA=="
 ---
 

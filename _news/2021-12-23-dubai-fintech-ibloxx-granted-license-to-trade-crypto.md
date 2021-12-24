@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-gran
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
         width: 300
         height: 250
+        isCached: true
+  - title: "Five Key Fintech Trends to Watch in 2022"
+    excerpt: "In the year ahead, consumer behaviour and early adoption of new technology are set to transform the financial services market. Banks need to adapt."
+    publishedDateTime: 2021-12-24T04:35:00Z
+    webUrl: "https://businessnewswales.com/five-key-fintech-trends-to-watch-in-2022/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/fintech-general.jpg"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "/RIa9iBgfvdoh9H+dYn9ifS/8PPJSNAleGDprPlO0xXmZhjVmgTG6yk/SU8yxJGR00L+UzjqpAqDhom+lTNg8Gxpq7lHsJyV2abTseo1AByllq5+crihCI0gvT0WpgPnrsrxv0ALTsnykNbr+w84ou/zudXn5R24Ko2avWhWtDiUi3A8scGltCR9y38j+sR46TdZivoqITcxaaT52tkRrwaB15Cbjx98FU9D1qyJ8XKYU0ZHc2nKWZQtV4cDEpDM6xqx02NFJm3hVeLLC50J0uQybKILC+H447H3JgyCHXpyKpaFOxYDgp8CAV1/uzKnJNFbT/g2qTtuJ2p2k7QrQdNyrEarVxNQcPOHONg343QGG0jWbjsuP0b8GQAGVzhfP8agOUjTP5JyYnG2o3LppzYKNZZ6jFicMDGydEMCgLzrLnsWVPu2rtwyC8PguKVNn7cSe46GnDuchHEu9/quCwBnxQS/HXpJTMmX8CmzDd6mT8enTFq+u6RQ5GKe/WcX0XL/piAmRYYJHokmPqGkjA==;Ee4HBHrj79LOvQ8VtcDCzw=="

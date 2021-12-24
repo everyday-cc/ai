@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 618
         isCached: true
-  - title: "AI's Impact On Biotechnology"
-    excerpt: "The presence of AI in biotechnology simplifies data capturing, improves regulatory compliance and limits operational costs for businesses."
-    publishedDateTime: 2021-12-19T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d57b523a9e903dff75e6%2F0x0.jpg"
-        width: 956
-        height: 885
-        isCached: true
 
 secured: "QQuvIENoMWv2tVCo8ERZBF8fWJg5sgv6bdkmHti0y786eG7Pegi+P+9OdLMvPSc/Kz/cuTJ9o8IveqP/d/yINSvVxCXYrCKIFRpkp9Qool7pvsW/URqBEiJfij5L38GgKUVQffqVu7ZLEZbbvcrqGbhy5JXDvMZ++QBDfDBG7pt6CoahYLYYEcwWTpMQyUjUt+7kIGyRIwhKulnwXdCg1rufpf3RfR9whVJIPTnayGSckkcgvn91hrRCEcicffeTE3IQhX1ydVQYAicpEFtWWw4u/uI7wiBDUpcuee0T30cQUJwImpRUE8INx7lkf9oxetXrt702RPe3XeXJt4z+trdnlrAs6sA+NVG8hngeGjqPn8HKN7f5pIYyCxoezmzwTZvBDUUqqDBUzzVVkj+jzSdw2RjvGvABWoUYutXf7UYGVzkNVqdND+sjnqgxPmQ679k1l3SnscQt17DCqqr/LrsUaK0K3PpNotzTOO10lKZK3n0QwzjYnCXisOPAXmWBtyNb6OS3hMtLy7v0G4YEhg==;rcSFpLaz3s1me1Oafotkeg=="
 ---

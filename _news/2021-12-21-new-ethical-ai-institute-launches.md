@@ -26,182 +26,80 @@ images:
     isCached: true
 
 related:
-  - title: "AI Dungeon’s creators are launching an experimental AI-powered game platform"
-    excerpt: "Latitude, the startup behind text game AI Dungeon, is expanding into a new artificial intelligence-powered game platform called Voyage. The company announced the closed beta on Friday, opening a waitlist for current AI Dungeon users."
-    publishedDateTime: 2021-12-19T15:00:00Z
-    webUrl: "https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch"
+  - title: "What Does An AI Actually Think Of AI Ethics?"
+    excerpt: "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself."
+    publishedDateTime: 2021-12-21T09:53:00Z
+    webUrl: "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
+    ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
+    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
     type: article
     provider:
-      name: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
-      domain: theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch
-    quality: 154
+      name: BOOM
+      domain: boomlive.in
+    quality: 76
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/bR8RES-WU9Ov-DtqUAeQnkxwJAc=/0x0:2346x1732/1400x933/filters:focal(986x679:1360x1053):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70293890/Latitude___Midieval_Problems.0.png"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Neural’s AI predictions for 2022"
-    excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
-    publishedDateTime: 2021-12-21T17:00:00Z
-    webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
+      - url: "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg"
         width: 1280
-        height: 640
+        height: 768
         isCached: true
-  - title: "Mines powered by robotics and AI promise explosive growth"
-    excerpt: "According to the World Economic Forum, AI is already having an impact on mining via data analytics and machine learning by “maximising” productivity and efficiency. The WEF emphasise how data “collection and evaluation” represents an invaluable initial step in modern mining which affects most aspects of the process,"
-    publishedDateTime: 2021-12-22T15:44:00Z
-    webUrl: "https://www.mining-technology.com/sponsored/mines-powered-by-robotics-and-ai-promise-explosive-growth/"
+  - title: "Oxford Invited an AI to Debate Its Own Ethics—What It Said Was Startling"
+    excerpt: "Nvidia's Megatron AI recently took the floor at the celebrated Oxford Union to debate whether AI can ever be ethical."
+    publishedDateTime: 2021-12-19T17:15:00Z
+    webUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/"
+    ampWebUrl: "https://singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/19/oxford-invited-an-ai-to-debate-its-own-ethics-what-it-said-was-startling/?amp=1"
     type: article
     provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 69
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 75
     images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/12/shutterstock_95048869.jpg"
-        width: 1280
-        height: 854
+      - url: "https://singularityhub.com/wp-content/uploads/2018/09/artificial-intelligence-ai-deep-learning-robot_shutterstock_1055098985.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk"
-    excerpt: "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”"
-    publishedDateTime: 2021-12-23T09:03:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/"
+  - title: "Ethics at the heart of emerging AI strategies"
+    excerpt: "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology. While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,"
+    publishedDateTime: 2021-12-21T21:55:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 54
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1640094049_708_lg.jpg"
+        width: 315
+        height: 210
         isCached: true
-  - title: "Keeping an eye on AI"
-    excerpt: "In China, the world has seen firsthand the value of AI tools in responding to the COVID-19 outbreak through diagnostics. The UNDP's country office, meanwhile, has deployed an AI chatbot to disseminate health information."
-    publishedDateTime: 2021-12-22T00:08:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/22/WS61c26c65a310cdd39bc7cc22.html"
+  - title: "Problems of the Brave New World: AI and Ethics"
+    excerpt: "With the increased pace of technological advances and the latest popularity of dystopian series combined, often we find ourselves asking where the world is going, a dystopian world as described in the book 1984 or the one as described in Brave New World,"
+    publishedDateTime: 2021-12-22T15:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://www.chinadaily.com.cn/image_e/2020/timg.jpg"
-        width: 512
-        height: 512
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFiSUqCXo1wuA/article-cover_image-shrink_600_2000/0/1640181984260?e=1645660800&v=beta&t=BFWDloRIT3dawYsYcdCk3tAI1Q8ifIQAYzC_6ZO_QAY"
+        width: 639
+        height: 540
         isCached: true
-  - title: "Veeve Launches AI-Powered Smart Cart"
-    excerpt: "American startup Veeve has introduced an AI-powered smart cart, the Veeve smart cart that aims to offer customers a frictionless and contactless in-store shopping experience."
-    publishedDateTime: 2021-12-23T10:47:00Z
-    webUrl: "https://www.just-auto.com/research-reports/veeve-launches-ai-powered-smart-cart/"
+  - title: "We might be able to make AI ethical, but maybe we shouldn’t"
+    excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."
+    publishedDateTime: 2021-12-21T20:30:00Z
+    webUrl: "https://www.biometricupdate.com/202112/we-might-be-able-to-make-ai-ethical-but-maybe-we-shouldnt"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/12/shutterstock_435613807-1.jpg"
-        width: 500
-        height: 355
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Headroom’s AI-powered platform aims to solve Zoom fatigue"
-    excerpt: "The new videoconferencing tool integrates productivity and transcription functionality. Can it measure up against leading conference players?"
-    publishedDateTime: 2021-12-21T05:07:00Z
-    webUrl: "https://www.emarketer.com/content/headroom-s-ai-powered-platform-aims-solve-zoom-fatigue"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 37
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ed88db38ce10e194937aed60a23db2ba/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UC Davis Health evaluating AI-powered rapid COVID-19 test platform"
-    excerpt: "Sacramento-based UC Davis Health, alongside Las Vegas startup SpectraPass, is evaluating a new type of rapid COVID-19 test that relies on machine learning and artificial intelligence. The platform would be scalable and would allow for quick,"
-    publishedDateTime: 2021-12-20T21:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/uc-davis-health-evaluating-ai-powered-rapid-covid-19-test-platform.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
-    excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."
-    publishedDateTime: 2021-12-23T16:20:00Z
-    webUrl: "https://www.alteryx.com/ja/customer-center/eys-global-platform-delivers-value-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Alteryx
-      domain: alteryx.com
-    quality: 37
-    images:
-      - url: "https://cdn.alteryx.com/-/jssmedia/project/jssapp/alteryx/demo/demo-images/media_roi_calculator.png?h=984&iar=0&w=864&rev=19873a10188b484086e1e6517c68dd63&hash=391BE7610BBC089A60D490D0D6F0C9BD"
-        width: 864
-        height: 984
-        isCached: true
-  - title: "Automation Anywhere buys FortressIQ for its AI-powered process discovery platform"
-    excerpt: "Robotic process automation provider Automation Anywhere Inc. today announced that it’s acquiring FortressIQ Inc., an artificial intelligence startup backed by investors including Tiger Global and Microsoft Corp."
-    publishedDateTime: 2021-12-23T21:57:00Z
-    webUrl: "https://siliconangle.com/2021/12/23/automation-anywhere-buys-fortressiq-ai-powered-process-discovery-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/DSC_8759-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
-  - title: "Ascendus Selects Scienaptic’s Platform For AI-Powered Credit Underwriting To Strengthen SMB Lending"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced today that Ascendus has chosen its AI-based underwriting platform to augment its lending process and make advanced loan decisions for small and medium sized businesses."
-    publishedDateTime: 2021-12-20T15:14:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ascendus-selects-scienaptics-platform-ai-powered-credit-underwriting"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
-    images:
-      - url: "https://financialit.net/sites/default/files/scienaptic_5.png"
-        width: 2090
-        height: 732
-        isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-    publishedDateTime: 2021-12-20T14:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "AI-Powered Malware Doesn't Actually Exist"
-    excerpt: "Misconceptions around AI-powered malware are primarily fuelled by ignorance of what AI, or more accurately machine learning, is capable of. They assume that current machine learning techniques can be used to recreate human-level creativity and decision logic."
-    publishedDateTime: 2021-12-22T16:00:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/ai-powered-malware-doesnt-exist/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "oQYUGgrH3lSHO3qhBRRqwrGozokgZXhYCm/VYlcD92iCCoq70oiZ0LqQL12hKqNxPK7RojFLC+0SlkzsALYAh9/YfgSgL0ZCT/OD1SK1HUSBbsojJfkRW/tEaJeeDGRUvI3Zx61KTcDpLXFxy0oiFRZZFPnW+wcJzyuIgEbTFOYvlMgF3TeW4ZtS95DR0+1IzgL+ENQr8mfbPgC0Hin5Skt1DatHMWitmRiIz4ZJ9scBymjZxGucDDTaphMy9lXnU/BY9Bx1Vw07lCmPJYyXs57iUdgBo9yOu3H8TJD6FbDUkuqkVYYZ3z0iIbvPFSkByGS3eRFQ4EYrL81ykfi6zkQIz9UmxzlEqzXjw9RnfFROfslCCGt/DdgAVTKTOum3Pw5xRO0C5I4Y1WykIy+STK7mheSadBEVOk3I3ocxtoi9sx5Bxxdsuqpq7Bf7OJ9YtPHr4S/X3NYJo8Aix01/1LLkVVzmgk7NX59lcX9RJ+ncqv9JfnFzI1t1BXB24S/caQeH5BZjIZsY33d7G1b+6Q==;IKxoo/S1312mC6jHUVqDug=="
 ---

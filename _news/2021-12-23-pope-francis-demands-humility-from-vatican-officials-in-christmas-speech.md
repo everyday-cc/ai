@@ -58,20 +58,20 @@ related:
         height: 400
         isCached: true
   - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T14:11:00Z
-    webUrl: "https://www.vindy.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
     type: article
     provider:
-      name: The Vindicator
-      domain: vindy.com
+      name: Tribune Chronicle
+      domain: tribtoday.com
     quality: 22
     images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.vindy.com/images/2021/12/23090842/AP21356394634290.jpg"
-        width: 1024
-        height: 683
+      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
+        width: 750
+        height: 500
         isCached: true
 
-secured: "9SV4zhGQaBLj53zwhti9HVAMiaTHvH7J/uYrQXjUV3rRohJkjO2lsQUh+gXvPuTR2lyEdPKLpISaXv6DVsI1e1N9MpVhCQJ5+uwLLSJarr0/Nye4tiF3PjpKGyCBkUnTVoyTH7YxyEuO3wGP9Y2BniUIZuups7jMrZtE2Y9sJ3Psvk0dwgP+N3o/I0qkBS9nIOCgJ804rSmO7pPeoNwjs1E8pgsi2xp6mTYKHIFB4kE/JzZU6ZaE7aP2aPz2455ucXOo1j3tLOuTpyfDRb4KMT0KpuC2W+VulGnmDYxXNK7aagd1dIBff5f4G1k6e0Je45uwEGj9D1I1FiXmYDfsbzvkCUufFq8/O6o0Ip+fIEI=;3WuFWBH52cRmI5Qar9bPeQ=="
+secured: "6Kmzj3cZkjbIMS5Dr5j3LUo2vhDCHWeHVqgeb79KvraLjy+gLomyjoNDoEV+uC4aRrto7sNmlgzeyjDhOelS5eIfqdod01fc7M+mDE5jUf75qR8eBX8oveysT5aux7pfjaMZ6e4iM5w+k/SPc/hcWZmoe3W9WBX7QizPAFJOaOCcA40rzqsv0obIRBtoh3ownuw5/07uLjaPJnGpqRI7a96Tiw4J0TeIgEyieYextDpqHwErV2ots7CRxfjBvj3oJZ3jnP4hJcGcXltGF1R7zSWPsWM8UYfXnFbPchhhG+IaFGMPfhYWLz2yZTG/l9l8SirRE8cA2Gl2cGOxeAWNn4ZMe+XOm0S/Rfw63LOpd+zhnwxlY1DXX1DDNdBSawyWDhm0lmYF/4pDc884h1KWJdG/ICuEdK598WqopXOBLPqy/Ju1Hj2mGjb9hpkdjpNtar184jWN23Qt4iNLdDRY9DNTfdsGEykkbRit3kuhlt1I/Fun4IIZz3FTVbcFX4wJbWn4z1zb7FY1hLk/1i5vww==;4GTyySbsID1UMciBLSQrAw=="
 ---
 

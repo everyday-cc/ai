@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-th
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI's Impact On Biotechnology"
-    excerpt: "The presence of AI in biotechnology simplifies data capturing, improves regulatory compliance and limits operational costs for businesses."
-    publishedDateTime: 2021-12-19T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/19/ais-impact-on-biotechnology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d57b523a9e903dff75e6%2F0x0.jpg"
-        width: 956
-        height: 885
-        isCached: true
   - title: "2021 was the year of monster AI models"
     excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
     publishedDateTime: 2021-12-21T10:00:00Z
