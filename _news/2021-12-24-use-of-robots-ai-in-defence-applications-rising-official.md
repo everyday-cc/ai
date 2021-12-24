@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-def
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Top 10 Applications of Robotics in Education"
-    excerpt: "Robotics is a popular industry. All industries, including healthcare, travel, and communication, have been made more productive by technology."
-    publishedDateTime: 2021-12-20T04:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-10-applications-robotics-education-daniel-abbott"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 71
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
 
 secured: "OKAeZ6GoUEuRGn/AmKqfQg0tce23uN4qX/dI6K1UtBAIe+3jdcQNSKyZ2dQ3mBIgnKi4VeBbHrYwZerAgukUz0ggvPuy1zstXGhmgn2gSI7H1vGCYJuifVeyZO3ZbbjhWMxnsZRLM7GenCNsFIneTv4P4TJtTybxYOtZs50TSczogiAFEC51kiS7f50qHYXBAUCk1SqLaj08o8+qNbXgJViMuWXaNlaoMQ/rKocrzWjF8Kl/+ScHfNOS0WXVCsD+wALClmUUif+8r3Ymg4GSHwChQ0IU2y4waFsNKfnBucS6SWEkdm8keHs6TED1Wo8Yg0BWNslfH3IVgolE830FI4yGUCQCP9nkx4q8AvQCyEZCIt18d9jWHWfy3dZpHJ1YtBRZg04V/4CNLWsQmQw2FCXftujTsDPe3J9ry1Bp8lG2BZn9LGxitpLe+lV66fanIWKYJF+yyYn7IefDvfAKI32r7fq61pZFSOgl6Dr9urJ1MLV8D6X/6g5/CPUmcmOQl0dVuH+EVFE0KiCHMbL0Yg==;tSWJNhIJ8T6wPK470LF1GQ=="
 ---

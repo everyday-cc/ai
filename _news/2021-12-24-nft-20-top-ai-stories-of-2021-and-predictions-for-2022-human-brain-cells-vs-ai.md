@@ -1,21 +1,31 @@
 ---
 category: news
-title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-publishedDateTime: 2021-12-20T14:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
+excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
+publishedDateTime: 2021-12-24T15:01:00Z
+originalUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
+webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
 type: article
-quality: 19
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQE0Gu2KSX1zDw/article-cover_image-shrink_720_1280/0/1640352984392?e=1645660800&v=beta&t=y4mEvRi5toLV5EQvXRPq4OD7PlMv71dNtsrIbCRvgqc"
+    width: 1280
+    height: 700
+    isCached: true
 
 related:
   - title: "Five Predictions For AI In 2022"
@@ -130,20 +140,6 @@ related:
       name: Information Age
       domain: information-age.com
     quality: 34
-  - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
-    excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
-    publishedDateTime: 2021-12-24T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE0Gu2KSX1zDw/article-cover_image-shrink_720_1280/0/1640352984392?e=1645660800&v=beta&t=y4mEvRi5toLV5EQvXRPq4OD7PlMv71dNtsrIbCRvgqc"
-        width: 1280
-        height: 700
-        isCached: true
   - title: "2022 Big Data Predictions from the Cloud"
     excerpt: "The pandemic marked an inflection point for the growth of cloud platforms in 2020, as organizations scrambled to keep their applications running. That"
     publishedDateTime: 2021-12-23T20:26:00Z
@@ -158,6 +154,15 @@ related:
         width: 814
         height: 415
         isCached: true
+  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
+    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
+    publishedDateTime: 2021-12-20T14:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "2022 will be a big year for artificial intelligence"
     excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
     publishedDateTime: 2021-12-23T13:47:00Z
@@ -168,6 +173,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "PR+BSrjeCnRsz1NfLuIWn1ItGz1POYacDejM0YOHkClDGjORJsQ3rdcKn6AImYn7C1VfLrpMA58LESVOrKlty/3EjlFPB0hVYmDMJ7Aqf+aHuGk9vxj4pBxQ9MHyRssy8da4SzWhg1zKJ4TZba9NWmcJjSIylKTo4aU58u3WO2sgDEGYqJnUK4nPUkUy/jgpqLUFO4Thy+Cun/zwN27lHFLTLoJG/KQNB5l1JVpU9ubVoFwHKXRjJv1SVMF2oCv7qV5CqUQZ+xkIAG2CdsYAhDflobiScUMKLzBvq67ipBElF3o4hsgvOrPOufrTfRhTi37q4wpA3gIUTIsK2FQHMtR18tZ6gqhuq3aKN3S6NH3o+szKm8tWKSNfRmHpnY38a1x16/AFqArQSJMWq3oj+JKf1yt2haa/KZSK+wCB/0XjZyJphL8oepTXtVgXnC0i1ncCvHlBnKn/ObSAckQ75/OE2nPBv47wDypIa2HoYxRyg2THkgH6DgqYznUKl7LcDAyrFSCQ+2oyhvwVOnHAxA==;lDz22JlujPN+TsYy+eCeCQ=="
+secured: "YQrpaVzmPfT9z3tPVX12L1haqZhCKhLAq5aARRriciUA862KXJ/bfd66cPPX4lV/rU/0sBUsRLeaeDjHaXKN1EvF3by1e+tYqTkh/aQM3ZECSSh49nmOm7DcDmuG9++HwD30NKD/D3T1uP94FWVUawNinR+ngjZp80+IHIK264kYjDFEelVs3Y3uKtNnb/7SfTKB52B5TevfcIc+vCB3b0X8uspXiHdQ/rwsxNUqg8wBWFtdcMwa/y6jc/d2LrRd5TPlZuZaLAmdLVVGjyuI8YC5NZmCooXpJCxJC0PtxYgiwVidzw+E3P17D9DmiiHifZzetxD4TZ6QOjFzoQ3QBFfX/HxD6NwdfhKG3eUTBVE=;e9LDkvDTcNdQxd3XOnh2TA=="
 ---
 

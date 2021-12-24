@@ -122,6 +122,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
+    excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
+    publishedDateTime: 2021-12-24T15:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 31
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE0Gu2KSX1zDw/article-cover_image-shrink_720_1280/0/1640352984392?e=1645660800&v=beta&t=y4mEvRi5toLV5EQvXRPq4OD7PlMv71dNtsrIbCRvgqc"
+        width: 1280
+        height: 700
+        isCached: true
   - title: "2022 Big Data Predictions from the Cloud"
     excerpt: "The pandemic marked an inflection point for the growth of cloud platforms in 2020, as organizations scrambled to keep their applications running. That"
     publishedDateTime: 2021-12-23T20:26:00Z

@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-12-10-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
-      "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
-      "excerpt": "Alphabet’s AI research company DeepMind has released the next generation of its language model, and it says that it has close to the reading comprehension of a high schooler — a startling claim.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
-      "originalUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp",
-      "publishedDateTime": "2021-12-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
       "title": "BrainBox AI brings machine learning to building controls",
       "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
@@ -1160,6 +1117,40 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-us-demand-for-analytics-intensifies-as-enterprises-democratize-access-to-data-tools.md",
+      "title": "U.S. Demand for Analytics Intensifies as Enterprises Democratize Access to Data, Tools",
+      "excerpt": "U.S. enterprises are investing more in data analytics services and platforms, as employees at all levels gain more appreciation for the value of data, according to two new reports published today by Information Services Group ( ISG) (Nasdaq: III ),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

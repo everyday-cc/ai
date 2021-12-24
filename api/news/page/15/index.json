@@ -2,40 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-12-09-us-demand-for-analytics-intensifies-as-enterprises-democratize-access-to-data-tools.md",
-      "title": "U.S. Demand for Analytics Intensifies as Enterprises Democratize Access to Data, Tools",
-      "excerpt": "U.S. enterprises are investing more in data analytics services and platforms, as employees at all levels gain more appreciation for the value of data, according to two new reports published today by Information Services Group ( ISG) (Nasdaq: III ),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner.md",
       "title": "Microsoft details its next steps with Azure Space; adds Airbus as a partner",
       "excerpt": "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies",
@@ -1149,6 +1115,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
+      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
+      "excerpt": "Servi is more of a Bus-i, I guess you could say.\" Food and beverages director Jacky Li is talking about the smooth-moving black and white robot gliding through the dining room of Roger Bar and Restaurant in Mountain View.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
+      "originalUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mv-voice.com/blogs/photos/12/5430.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mv-voice.com",
+        "domain": "mv-voice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
