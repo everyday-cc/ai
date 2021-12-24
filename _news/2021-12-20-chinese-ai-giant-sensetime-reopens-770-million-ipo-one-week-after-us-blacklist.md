@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sense
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
         width: 512
         height: 321
-        isCached: true
-  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
-    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
-    publishedDateTime: 2021-12-20T02:36:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59722830?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
     excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."

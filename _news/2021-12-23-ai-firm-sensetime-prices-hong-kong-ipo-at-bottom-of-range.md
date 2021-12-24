@@ -58,20 +58,6 @@ related:
         width: 512
         height: 321
         isCached: true
-  - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
-    excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."
-    publishedDateTime: 2021-12-20T02:36:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-59722830?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/24B6/production/_122289390_sensetimelogo.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
     excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
     publishedDateTime: 2021-12-23T05:34:00Z

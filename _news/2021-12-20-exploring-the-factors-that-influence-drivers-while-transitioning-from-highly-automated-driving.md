@@ -128,6 +128,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Tesla Ends Motorists Playing Video Games While Driving"
+    excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
+    publishedDateTime: 2021-12-24T18:08:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/12/tesla-ends-motorists-playing-video-games-while-driving/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
+        width: 1600
+        height: 1055
+        isCached: true
   - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
     excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
     publishedDateTime: 2021-12-21T22:29:00Z

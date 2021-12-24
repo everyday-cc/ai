@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Raise Your Business's Potential by Learning Python"
+    excerpt: "If you're thinking of ways to gain an edge on the competition, learning Python can be one of them. With Python Hands-On, you'll be well on your way. It's on sale for just $19.99 (reg. $200). Python Hands-On includes 46 hours of training,"
+    publishedDateTime: 2021-12-24T17:05:00Z
+    webUrl: "https://www.timesunion.com/business/article/Raise-Your-Business-s-Potential-by-Learning-Python-16727547.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/30/56/21859261/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
 secured: "W2AAlL6oXrXoh9ew7vsQQqGDyXk0MQigdKcubSJVox52Rb59lOkrvO+qfl8H2DV38vyeMz4NmvOEV2X62k13kAbyeOgFzXtpGvcriK2xDYffirpNWMAHCskkyQoLP6GpBfqAD1pAvkycHH8JeG0I2VKMMu1Ah5u8lYq2gDv1Y1K+kHhLyyC9+rRVV/eZC4jiNN+2wlb6qPppR6RBNml5ihme9Elk3vGamBGSqib9eK+jQpH2KWVUTzUvf0i2mwlKAV/eGOlzWXe8ylM6HhlgxxjaWUEYpxd+G+lNgRTjVjR55XkGrk2rcMTM3FHXpc5SCYQipO6BlIzAjdFmEO/dIWEGMGDS4Q6EYacn9xDVMgnS131hrNuWd+dKlWf44kF1bf/+mHL1g/rN94MqQsTYqEdWKOuaPNXnx3GcKqejlnx7/lqDdJ54k2/sb/NEwU2T934TH/O5QGpkSCu9W9CN5vbpWMfyxI3Jrl7rGYlqsn6XtKWzTWONZckQlXgw/hbNd3jXHd1gmproFwZ76dui0g==;ZoXWzKjAkaiurXU+gdgnNA=="
 ---
 
