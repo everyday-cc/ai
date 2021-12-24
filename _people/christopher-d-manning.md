@@ -21,7 +21,7 @@ website: https://nlp.stanford.edu/~manning/
 twitter:
   username: chrmanning
   url: https://twitter.com/chrmanning
-  followers: 86282
+  followers: 86283
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1zmDOdwAAAAJ
