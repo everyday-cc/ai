@@ -2,24 +2,24 @@
 category: news
 title: "Pope Francis urges humility in Christmas speech"
 excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-publishedDateTime: 2021-12-23T13:38:00Z
-originalUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
-webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+publishedDateTime: 2021-12-23T14:38:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
+  - url: "https://www.chicagotribune.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -58,20 +58,20 @@ related:
         height: 558
         isCached: true
   - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
+    publishedDateTime: 2021-12-24T13:00:00Z
+    webUrl: "https://www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.amp.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: Niagara Gazette
+      domain: niagara-gazette.com
     quality: 44
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
-        width: 506
-        height: 366
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/5/1f/51f3029e-8e8f-531c-8f11-1a5539fd8d3b/61c546338aa1b.image.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Pope demands humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
@@ -102,6 +102,6 @@ related:
         height: 599
         isCached: true
 
-secured: "nOtSU8DI6BVdfht7oDp2R6LgdxLFiA9TA47/uaqv+K1rn+P4JYipIc7PwqCQKx8dhgbrazgoUEpSe6I9NEIorYYRq/uoqjODXMLXze3C4+6VbQg1S5ms+Q8/7e5FRv4LoOZDmWXdyr8g8aq3k7pEEv5TaXw2sdgIifCbsVsC7zCggKnfkmrGgaTztsFHqYfbkogNlS+r+wOcxsWyP7KTS+6tcGPHoIU8nSWAPv1ssMFTDyG4/nFzR0PnTfimLyLAF5RfCjYm0rkCeC2Sum6+xXh5weJNHiUzN1ToMAfxx6obC/24miIJ9PiC5SHnwsOWUZbwvR5i0OLHE0JPbLCKoQ3zoubH9k3+OvlUa5qY4wJWqwtCi/TW5mk9GAgPWOuWhC056lRBeZVjo2mVUFJM8ML/MbmYGi+08eN5PqcLJPwfzyPm9+lPw4Ehj5wT+kkKKabuQ+hThTeot3PTEtMXYRUJXu9SIl9hnetQU5i8/yBF8TzCy+TIlupDhRK7ZttJ2If/bgOI+AlyBMhkcJZ+YA==;AuqS8ZZWgb36A5diR1KeMg=="
+secured: "eiqxr4Y4FYEmlJa1e2ZppTAsQTd5iirdPRTAs1CDuyWltWe0cwR+H1t+fXk3ztSRLygMxwHrsaO6i9+H7R2es68qyH/c8C3besDsa9/t8L7M3uEHlRiaZGjGUv3E5N0DSN7acE9ewV7CwjkZZ+2wBjZIDNmakM5KzZbKxit/JFzVBbThzo7CD1Ok6CfBgO+sT+7+7u5Gw0kY0LFLVJ3alxmHHdO2nclwM7VIe4sG5rysvt1qIE7NLTq+tKORQokeOqdkB6QalcmtoMTuKd7No1xx9Josz6zpMZm60eizgLQPlaYxKPuebMdeTJGHKeAlXlcfi1jBh9KaH+1rrc1nV9vGk+s+/TJ/iLWWeb/A9uY=;AhxGHJ5mXSQeXZNWlF5lHA=="
 ---
 

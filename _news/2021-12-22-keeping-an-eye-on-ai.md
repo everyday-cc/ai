@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200

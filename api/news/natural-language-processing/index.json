@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-24-nlp-is-the-heart-of-the-intelligent-enterprise.md",
-      "title": "NLP is the heart of the intelligent enterprise",
-      "excerpt": "NLP's appeal lies in its ability to digest large amounts of unstructured data, which has been suspected of housing crucial information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/23/nlp-is-the-heart-of-the-intelligent-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/12/23/nlp-is-the-heart-of-the-intelligent-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_572677948-e1640275372866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/23/nlp-is-the-heart-of-the-intelligent-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/23/nlp-is-the-heart-of-the-intelligent-enterprise/amp/",
-      "publishedDateTime": "2021-12-23T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-23-open-source-nlp-is-fueling-a-new-wave-of-startups.md",
       "title": "Open source NLP is fueling a new wave of startups",
       "excerpt": "A growing number of startups are offering open source language models as a service, competing with heavyweights like OpenAI.",
@@ -159,59 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
-      "title": "10 AI Predictions For 2022",
-      "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
-      "publishedDateTime": "2021-12-22T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-22-sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm.md",
       "title": "Sayollo partners with Speechly to bring voice recognition to gComm",
       "excerpt": "Sayollo partners with Speechly to add voice recognition and navigation to mobile, in-game shops via its gComm software",
@@ -261,6 +156,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
+      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
+      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "publishedDateTime": "2021-12-22T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1490,6 +1429,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
+      "title": "3 Impacts of AI in the Machine Translation Industry",
+      "excerpt": "Given that there are over 7,000 languages, content creation ... One of the key drivers of the advanced AI software being deployed for translation services is the access to huge datasets and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/394440",
+      "originalUrl": "https://www.entrepreneur.com/article/394440",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1637701700-shutterstock-687742111.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

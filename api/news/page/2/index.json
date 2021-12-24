@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
+      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
+      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "publishedDateTime": "2021-12-22T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-dubai-fintech-ibloxx-granted-license-to-trade-crypto.md",
+      "title": "Dubai FinTech iBLOXX Granted License to Trade Crypto",
+      "excerpt": "FinTech firm iBLOXX was granted a license for proprietary trading in cryptocurrency commodities by the Dubai Multi Commodities Center (DMCC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/",
+      "originalUrl": "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1877486011-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/",
+      "publishedDateTime": "2021-12-22T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-artificial-intelligence-may-be-just-code-but-its-our-code.md",
+      "title": "Artificial Intelligence May Be Just Code, But It’s Our Code",
+      "excerpt": "The reality is that an AI is just a statistical engine, and in a lot of cases, it’s a bad statistical engine.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012edfc63c56a43fc8d45ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
+      "publishedDateTime": "2021-12-22T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-troopsai-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Troops.ai Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
       "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
       "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
@@ -136,59 +316,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
-      "title": "10 AI Predictions For 2022",
-      "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
-      "publishedDateTime": "2021-12-22T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
       ]
     },
     {
@@ -437,6 +564,94 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-oosto-to-develop-facial-recognition-and-ai-solutions-to-help-government-and-corporations-to-identify-security-threats.md",
+      "title": "Oosto to develop facial recognition and AI solutions to help government and corporations to identify security threats",
+      "excerpt": "Yossi Cohen, former head of the Mossad and current director of Softbank's operations in Israel, spoke at a conference of security consultants of the AI Company Oosto held in Raanana,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
+      "publishedDateTime": "2021-12-22T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
+      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
+      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "publishedDateTime": "2021-12-22T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -863,7 +1078,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -947,231 +1162,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
-      "title": "2022 technology trend review, part two: AI and graphs",
-      "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "originalUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "publishedDateTime": "2021-12-21T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-sait-using-autonomous-robots-to-clean-main-campus.md",
-      "title": "SAIT using autonomous robots to clean main campus",
-      "excerpt": "SAIT has started using autonomous robots to clean the floors at its main campus. The robots are from Brain Corp, an artificial intelligence (AI) company, and contracted to SAIT for use through Calgary-based Bee Clean,",
-      "sourceUrl": null,
-      "webUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
-      "originalUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
-      "publishedDateTime": "2021-12-21T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-whats-next-for-the-microsoft-cloud.md",
-      "title": "What's next for the Microsoft Cloud",
-      "excerpt": "The Microsoft Cloud is going to get bigger, more deeply integrated and more vertically focused in 2022. Here are my predictions for the fastest growing piece of Redmond's business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/whats-next-for-the-microsoft-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/whats-next-for-the-microsoft-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9d3a811ffb18456667d3435bbae7fd56ace127ff/2021/12/20/5362bea3-f5bc-4147-be34-1e26979bbecc/whatsnextmicrosoftcloud.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/",
-      "publishedDateTime": "2021-12-21T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
-      "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
-      "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "originalUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "publishedDateTime": "2021-12-21T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
-      "title": "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
-      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713799/Leopard_Imaging_CES_2022.jpg",
-          "width": 400,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24724562",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562",
-      "publishedDateTime": "2021-12-21T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

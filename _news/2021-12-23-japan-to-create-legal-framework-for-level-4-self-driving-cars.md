@@ -112,15 +112,6 @@ related:
         width: 755
         height: 503
         isCached: true
-  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-    publishedDateTime: 2021-12-20T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "pdCe5M7MxMykKWwGqaCPh2y0+q0irPf2w1mT5nYDOSjY6crC0FGympw+GTTs3YvD9rswl+/suVbhd5XYpPtHcb7uzyB7bXrXu7PLAS6BJysQoDjGDvhgiAd55d06ehYWZtCDuR/SnSd1XoAorbf/RmJPcmIF1OA+9vSgdtYA36jBKeNEIVgxh40TepMqCD47f+aYg7WccWILBMRN63h3WlVb/2dXbUP0+7vmAkGQk9Nh3pFOwuIxsmeT4/7ZtLQhzqky3EloXWnxeCBI6NVulMHwQUhvRKbfnfy7K4sNU80S2DB1eyiqRQogIYFAswZK6uGzDWOwKcH0nHHbYlqm/WtjFo8ZyIEV1CHaub0xDcw=;mvjh0jFoDE8IIu3Nhbrz8w=="
 ---

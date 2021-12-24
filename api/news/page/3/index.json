@@ -2,6 +2,221 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
+      "title": "2022 technology trend review, part two: AI and graphs",
+      "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "originalUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "publishedDateTime": "2021-12-21T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-sait-using-autonomous-robots-to-clean-main-campus.md",
+      "title": "SAIT using autonomous robots to clean main campus",
+      "excerpt": "SAIT has started using autonomous robots to clean the floors at its main campus. The robots are from Brain Corp, an artificial intelligence (AI) company, and contracted to SAIT for use through Calgary-based Bee Clean,",
+      "sourceUrl": null,
+      "webUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "originalUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "publishedDateTime": "2021-12-21T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-50-global-hubs-for-top-ai-talent.md",
+      "title": "50 Global Hubs for Top AI Talent",
+      "excerpt": "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "originalUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "publishedDateTime": "2021-12-21T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
+      "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
+      "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
+      "originalUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
+      "publishedDateTime": "2021-12-21T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
+      "title": "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
+      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1713799/Leopard_Imaging_CES_2022.jpg",
+          "width": 400,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24724562",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562",
+      "publishedDateTime": "2021-12-21T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
       "title": "Nanome uses VR to build molecules and reality check AI recommendations",
       "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
@@ -253,17 +468,17 @@
       "title": "Calibrate Ventures raises $97M for second fund targeting AI, automation",
       "excerpt": "With capital flowing freely lately, managing partners Jason Schoettler and Kevin Dunlap shared some insights on what it takes to win deals these days.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/",
+      "webUrl": "https://www.finsmes.com/2021/12/calibrate-ventures-raises-97m-fund-ii.html",
       "originalUrl": "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/image0.jpeg?w=1024",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.finsmes.com/wp-content/uploads/2018/09/broadly-400x293.jpg",
+          "width": 400,
+          "height": 293,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -271,8 +486,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/amp/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-21T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -280,7 +495,7 @@
         "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -852,7 +1067,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -943,247 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-workforce-training-bill-clears-senate.md",
-      "title": "AI Workforce Training Bill Clears Senate",
-      "excerpt": "The bipartisan legislation aims to strengthen federal employees’ AI knowledge, with a focus on procurement professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-artificial-intelligence-ai-helps-improve-patient-and-doctor-communication.md",
-      "title": "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication",
-      "excerpt": "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "publishedDateTime": "2021-12-20T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
-      "title": "AI chip maker Kneron raises $25M for autonomous driving push",
-      "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
-      "originalUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RLdt3wgnuDs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
-      "publishedDateTime": "2021-12-20T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-use-of-blockchain-technology-could-increase-human-trust-in-ai.md",
-      "title": "Use of blockchain technology could increase human trust in AI",
-      "excerpt": "Applying the benefits of blockchain technology can help address AI shortcomings and increase people's trust in AI-based applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1279332201.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
-      "publishedDateTime": "2021-12-20T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-eight-effective-ways-to-leverage-machine-learning-ad-tools.md",
-      "title": "Eight Effective Ways To Leverage Machine Learning Ad Tools",
-      "excerpt": "Rather than guess at what approach will work best to reach target audiences, brands can generate predictive models using ML and AI to identify optimal creative, content, placements and more to boost the effectiveness,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c3b1170ebe018990ec0d%2F0x0.jpg",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
-      "publishedDateTime": "2021-12-20T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

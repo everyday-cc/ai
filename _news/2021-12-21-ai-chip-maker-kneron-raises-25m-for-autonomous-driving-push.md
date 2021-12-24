@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/"
 ampWebUrl: "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 204
+heat: 214
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: telecompaper.com
     quality: 27
 
-secured: "dCIlALwxd7va621Mxm365kelm0cHIvgmFZIK4bv3geQ12yGKz/+blVXFYyTUutI4mCTRKh5n2yv+FZ9GotJ24qk8ol9+0hp4kByF9pGiABha+ke7/omKtKPV1tynnQv+TWFhIZm8cTkAHFsNCYvn13PNVdN/jZbnEnEIxGRrRjWUpuYXC986vQR5lTzA+KxV6NPzV1abPC+c19F4ryibsptRoTA2jhc8a2yE7lbut8aRtwKWJ2VfwCeQGDW0vUVmxbIbQ4114bCykrt8BdrbrmJUvPIDLLzq2wHwZ4WnJ7YcMKy8F2fr46zuoKb63/SwCeyR7IOFBEDXtZYuFHPoTWHNttTzhc2rdgZTHC0e6l6ey708m5GxcTFupqfvfGnXSwZCUcQ2XXt4XbbWb2IZzlQCFf02KGrgG3+53DVfOWA5JLXnLvY86qo/GAduOWqgjSDisMg36Od2UWo82bLccMOC5UxIuFBQ/0Is0ulyyJbH87XXZlh7dcko++sirxeyh8aVrx7etsyDcsqBJHYjSQ==;1taF8CGmZ0JYW0Fmod83cg=="
+secured: "uSoqpi3xrIwhK55sGV+uuQ1b3ZI3x2D9pMvurWZ0K/JSkq2g3fyrsVtVH8qzzU/ps3WFBRcLbK0nXZ7z2wnH4330sxpKoGex56ceWbxL+sZs4FkBKHBpIajkz8WbHGEZ7fJsJBi6DEOWuEs3b7OVdihqDHkG7c8xIz1g8Gj49AS3ov1+22yCrRFpkX1rG7yB+I3hscpGnDgncu3FmVPI9umf/T9hWXA15AS3/Lvufw+yp0hJtsU1OtwqeO0Mp3GzMNSVKRWXpagndjlCau9HrSvKHwx6ZnFKofvuH+OVgM8lR9sJ+wDJaPazGEYfAhlCqCKA4+4Gcuk4YjpMEtpaJNXeBrOkpXGVLJmS99I0loX7ELLkLqLXibY+5gBH/jo+nXVkuqkNM13BZahcGGHJlFOgJpHoMS4Fq6u/Frdv91+8l0gBfkf6RDR1gWeZn6HP+JhQwwxn2xDr/lXgAKCh4NAYJGmPHMZqTeCKMqFnbnxw3C5pyFzchtJb1iaTVZDxOd4Nx0jY9yosRgpiP6Lax5/0xNPT8yIZ5Is6GNcUUjA=;znhldB9ISJaZS6H/4Gx5Og=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp"
@@ -45,6 +46,6 @@ related:
         height: 512
         isCached: true
 
-secured: "NnuG06K+Jfx/bOKB/VbEL0foYIysqpSG/clBq6s2ovg8Gugyaklkd8xMfxf87eLMIHwAbmWgNs2+Qqi+EZLlAINji2Ax3XYinQGqDsU9/hKzFPxmlZ7LRVBD9knJ0SZcrXujAZ9alcznHAywcWIe7ZDgVORDGvahYk0KipowuKQcnMVhnDAB3Uhe1l6jzj1xGpc8ZZvdkoNy71WrOr8h9RTFwRtdenXNf0F5XSbmgOdAjabSlk0I+xT/VigUqKe3YQlMP/6rAeMLuB8ZObHcRrf+LBltVouGauR6BjaE6pukd3x8oqLpNbDF6Tv9+Gm/8Yitx85MBMSBoQzKbXFVmVivWHclnINL9/Oy5GYFBXI=;hojcZr43DgwQi4RAJYbORQ=="
+secured: "JuBxT//srY2Bpb8Jhszjc2WSeuFxMBZ0OLJXwnIbYHQX60IOCwBTYzKP9I6pjzZ+F5BOPlcb9irehtr/QmCkGYXnAEmuqhLKzQ1vtyss69bD4jiR/OUYj6XuyEqbKlDHiLG6eSHrJfehkKyx8/QfKh46d0wzI77cQii+xxr9adhp5sP6TFOYk2PkUsuhbcnPsnMtEPyiNa6/Z/RwL9mPJzIz3GjLiLgfVa9ViONiCR3JRew5biZzjN7wyW6KSULvKSwp1mrNA0JPvwt0lcLCiGj937B7cBETDbCrZnny8KGunIIunbJ5f1CJ/o74k17ua/6bHOjKaOzRqP1nJ1+qBlml+5Anp4a8rQrVm0A9jPTg5NFGFitRv6s5gOHFFxTnG6+I9GPDQgSejjayjS1QQvr7ND9S/jMtNGCGmp5+V80qUdNzrduNNJvodRWPGBM7I8pAOtw2T7XGNds86wuinWwORhuC9b0kR1xrzCSXamdqi0Y5utkiv+TxrhUhP01MSZfeHmNTJgyFO9kYBVK1xQ==;BKWHqJwtnHR1pQxaMs7mRg=="
 ---
 

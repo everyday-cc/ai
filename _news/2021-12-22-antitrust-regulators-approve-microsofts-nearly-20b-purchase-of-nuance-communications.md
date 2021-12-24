@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU OKs Microsoft's $19.7B Deal to Buy Telemedicine Tech Firm Nuance"
+    excerpt: "The European Union has cleared Microsoft’s buy of Nuance, an artificial intelligence (AI) and cloud computing company, as it doesn’t pose competition concerns."
+    publishedDateTime: 2021-12-23T03:23:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 159
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/microsoft-nuance-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "What's next for the Microsoft Cloud"
     excerpt: "The Microsoft Cloud is going to get bigger, more deeply integrated and more vertically focused in 2022. Here are my predictions for the fastest growing piece of Redmond's business."
     publishedDateTime: 2021-12-21T19:08:00Z
@@ -41,20 +57,6 @@ related:
         width: 1200
         height: 938
         isCached: true
-  - title: "Troops.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-12-22T21:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Commission approves acquisition of Nuance by Microsoft"
     excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
     publishedDateTime: 2021-12-22T08:41:00Z
@@ -70,34 +72,6 @@ related:
       - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
-    excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
-    publishedDateTime: 2021-12-21T05:51:00Z
-    webUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 56
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ce4b89940e56fbb8c70fc43659cc3556/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft partners with Royal Spanish Academy for language resources"
-    excerpt: "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,"
-    publishedDateTime: 2021-12-21T10:35:00Z
-    webUrl: "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 41
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10652/img-Microsoft-REA-partnership_940x443.jpg"
-        width: 940
-        height: 443
         isCached: true
   - title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
     excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
 type: article
 quality: 70
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
-    publishedDateTime: 2021-12-21T06:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5184800-global-and-japan-fever-detector-ai-thermal-camera-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 11
   - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
     excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
     publishedDateTime: 2021-12-20T16:49:00Z

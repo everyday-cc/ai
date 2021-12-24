@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Artificial Intelligence in Remote..."
-    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-    publishedDateTime: 2021-12-23T10:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+  - title: "Insights on the Artificial Intelligence in Remote Patient Monitoring Global Market to 2026 - Featuring 100 Plus, AiCure and Cardiomo Among Others"
+    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application,"
+    publishedDateTime: 2021-12-22T20:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-artificial-intelligence-in-remote-patient-monitoring-global-market-to-2026---featuring-100-plus-aicure-and-cardiomo-among-others-301450016.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "rm0ArUbwLZ+VVJu7gjkNcSkP/ARwBYnXZlQSs0ozNRo6NbWRMh3NB3Tf8gSrzINocuqXaWXYN1s2xtjbjeDTUXX/pCmRF4ViqB2nHaDs7HX9C6el+EPuugFXYrgLEnSMYcMyAf5v6nMMzaqFbCsRNNVKXTmyshZy+ckzAKRrqcq63QJ17U9IEfELTZ5aD3+N0csnfbkzbf0hcy7t81qAPBAJY68P1qmYaZwUELWvtAvcyVwznp43q++4OWmHcaeAyHSmq4a8wxXhoGAiq8ySzaVrmG2Iy7iYWGT2PBXtuXxpSnztZ6QuHiRPxRpuUz3Q60MBcbQBY8qht8hPutV6s809p5aRn4TtWeKMUrFQ0YkIUaXSZtJTnwfsSwGkRqXN4MLwe592aBHuFYjY+WrtZqCex0FfHyJGGT8ianFBei/xpN2IQB+E0MVZwM45xlR+E46u2ZZU3SI3ZbzRZB7FknB9nmz+a2ri4NpTDPVLVeUPdMb4o6Zgp6rXrhnMxhKrCp5ZR+0nfe9mW3GIYr6lcA==;QlIQtyZ79jBiv587pxNJ4Q=="
 ---

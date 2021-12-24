@@ -28,18 +28,16 @@ related:
   - title: "Calibrate Ventures raises $97M for second fund targeting AI, automation"
     excerpt: "With capital flowing freely lately, managing partners Jason Schoettler and Kevin Dunlap shared some insights on what it takes to win deals these days."
     publishedDateTime: 2021-12-21T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/"
-    ampWebUrl: "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/amp/"
+    webUrl: "https://www.finsmes.com/2021/12/calibrate-ventures-raises-97m-fund-ii.html"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 167
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/image0.jpeg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.finsmes.com/wp-content/uploads/2018/09/broadly-400x293.jpg"
+        width: 400
+        height: 293
         isCached: true
 
 secured: "W3yEAgOfv+cpbmCdnmTSfes6Rut0BIEcsPlLJsErr9/ifI++Hx0CpM1M9FhLNjci6fQ4ZtvIwnqIbMf9roX0grlnalEkTxqjqvBJR2JVxY6iixHjXAgRF8pQehgBZF7D4+nCWcm4u8juKOjUHrWWPqMlpEapgsfbPx544INHzd3DqQSZc1yTZ6zMTEZImmHo24fnq6+48Oi2zBJnUXT3kR/LD5nbK/LIRh0dXo/l3tjzrHYH3qc5slprBAZjb/6mheTc0wD0qp7TcKsE2JnSQ1/c8HSk1gKi9adHokTuFtgsH4VnOV2Xy26ief35VPL4OjmPbV2yjwyChqwiXtmruMH4h8iVDqebY1x1/BAryeg=;jaKpmCQAdYDPx5+qdi2VUA=="

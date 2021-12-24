@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-24-how-does-artificial-intelligence-change-the-sports-industry.md",
+      "title": "How Does Artificial Intelligence Change The Sports Industry?",
+      "excerpt": "It is now hard to imagine life without artificial intelligence. It is used in almost all areas of life. It is also increasingly found in sports, as technical innovations are no longer a rarity in this area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/",
+      "originalUrl": "https://www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.herald.ng/wp-content/uploads/2021/12/AI.jpg?fit=1024%2C640&ssl=1",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/",
+      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/",
+      "publishedDateTime": "2021-12-24T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "herald.ng",
+        "domain": "herald.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-use-of-robots-ai-in-defence-applications-rising-official.md",
       "title": "Use of robots, AI in defence applications rising: official",
       "excerpt": "Delivering a lecture at Velammal College of Engineering and Technology, as part of ‘Azadi Ka Amrit Mahotsav’ initiative, on role of DRDO in self-reliance and defence technologies, he said that application of Aritificial Intelligence (AI) and Machine Learning and use of robots was increasing.",
@@ -85,6 +128,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show.md",
+      "title": "Instacart is vetting a self-driving robot as it looks to speed up delivery and challenge Gopuff, Jokr, and Buyk, leaked documents show",
+      "excerpt": "Leaked documents show Instacart is vetting robotics warehouse startup Tortoise, as it looks to challenge Gopuff, Jokr, and other ultrafast delivery players",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show/ar-AAS40JC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61c36d6617dae400125adef3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T07:39:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "domain": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1274,104 +1360,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
-      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
-      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "publishedDateTime": "2021-12-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheBetterIndia",
-        "domain": "thebetterindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
-      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
-      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/402549",
-      "originalUrl": "https://www.entrepreneur.com/article/402549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

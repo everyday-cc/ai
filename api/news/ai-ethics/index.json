@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
+      "title": "Eliminating artificial intelligence bias is everyone's job",
+      "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "originalUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "publishedDateTime": "2021-12-24T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-interview-ibms-phil-anderson-on-ethics-and-ai.md",
       "title": "Interview: IBM’s Phil Anderson on ethics and AI",
       "excerpt": "IBM South Africa's Phil Anderson joins the podcast to unpack AI and the ethical concerns around the use of the technology.",
@@ -42,6 +94,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-cmswires-top-10-ai-in-cx-articles-of-2021.md",
+      "title": "CMSWire's Top 10 AI in CX Articles of 2021",
+      "excerpt": "AI now plays a huge role in customer service, product recommendations, personalization, marketing, and of course, customer experience. According to Salesforce’s State of Marketing report, marketer’s use of AI grew immensely from 2018 and 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/01acdd35bd944d7cb783256f195b323a.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-in-cx-articles-of-2021/amp/",
+      "publishedDateTime": "2021-12-22T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1321,84 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
-      "title": "Fordham University Hosts Global Ethical Vision AI Conference",
-      "excerpt": "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project.md",
-      "title": "Google ethical AI co-lead Timnit Gebru launches own research project",
-      "excerpt": "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "publishedDateTime": "2021-12-03T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

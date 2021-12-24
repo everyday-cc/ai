@@ -18,108 +18,82 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
-    excerpt: "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market."
-    publishedDateTime: 2021-12-21T02:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
+  - title: "50 Global Hubs for Top AI Talent"
+    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
+    publishedDateTime: 2021-12-21T19:14:00Z
+    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent"
+    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 157
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
-    excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
-    publishedDateTime: 2021-12-23T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2021-definition-size-share-segmentation-and-forecast-data-by-2027-2021-12-22"
+  - title: "10 AI Predictions For 2022"
+    excerpt: "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence."
+    publishedDateTime: 2021-12-22T17:16:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
-    publishedDateTime: 2021-12-21T14:55:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
-    excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
-    publishedDateTime: 2021-12-21T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-gene-therapy-cell-culture-medias-market-2021-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2027-2021-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Edge Device Market Comprehensive Coverage 2021-2027"
-    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Edge Device market by type, application, end use, and region: industry forecast and market potential analysis,"
-    publishedDateTime: 2021-12-22T13:29:00Z
-    webUrl: "https://www.linkedin.com/pulse/global-artificial-intelligence-edge-device-market-tejas-baraskar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFoKFePlZuDzw/article-cover_image-shrink_720_1280/0/1640179480385?e=1645660800&v=beta&t=RwybDKlmLTtoDy_5PSigyW1YYkuxwOBOgcy6vtR5hRo"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827"
         width: 1200
         height: 675
         isCached: true
-  - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"
-    publishedDateTime: 2021-12-23T05:50:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5199104-global-and-japan-ai-based-edge-computing-chip-market-insights-forecast-to-2027.html"
+  - title: "Neural’s AI predictions for 2022"
+    excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
+    publishedDateTime: 2021-12-21T17:00:00Z
+    webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 30
-  - title: "Global Artificial Intelligence Software Market 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2027"
-    excerpt: "MRInsights.biz has offered a new research study on Global Artificial Intelligence Software Market Growth (Status and Outlook) 2021-2027 that serves in-depth information on product types, applications."
-    publishedDateTime: 2021-12-23T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2021-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2027-2021-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
-    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
-    publishedDateTime: 2021-12-20T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
+  - title: "50 Global Hubs for Top AI Talent"
+    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
+    publishedDateTime: 2021-12-21T13:25:00Z
+    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
+    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
+    excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."
+    publishedDateTime: 2021-12-23T16:20:00Z
+    webUrl: "https://www.alteryx.com/ja/customer-center/eys-global-platform-delivers-value-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Alteryx
+      domain: alteryx.com
+    quality: 37
+    images:
+      - url: "https://cdn.alteryx.com/-/jssmedia/project/jssapp/alteryx/demo/demo-images/media_roi_calculator.png?h=984&iar=0&w=864&rev=19873a10188b484086e1e6517c68dd63&hash=391BE7610BBC089A60D490D0D6F0C9BD"
+        width: 864
+        height: 984
+        isCached: true
 
 secured: "xx09ZPwpJc5Msgl2XUS3Fm0Sc/BBeEoNlc2ekUVp8AC1HXSKTp6NhJj9oHXPwRRvl8pEykmwdV4E17T7leiUPnzeD94HfwZ2h3t8Oy7onP7jz1Ap3bTurlGEeFcIU1tdvDKUYRpG1BBWZ07eVZNTT3TTLqh/nbHO6fpU4d8iZi1KBAFAtfsxc/Z6r8qSTc1HUVcUoZghXkI4mTkONCFmjR74NfIb/KHJDjRqi634GMjgzYpbmGfI+iqy3+f2OO94ywKtXmF7Q5cnAMyQmUw9kjSdFjM32ef/9D1DYGdJMvM0q2mp6xrIEVRiCERWNUWIMjd89nz80TZ7dhTQuw7HIanmGht6GU9u9eWFS8ZEaR8=;7k3ES88Nk6Cp+TojcE26lg=="
 ---

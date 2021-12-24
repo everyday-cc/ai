@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 AI Predictions For 2022"
-    excerpt: "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence."
-    publishedDateTime: 2021-12-22T17:16:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Five Predictions For AI In 2022"
     excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
     publishedDateTime: 2021-12-23T14:08:00Z
@@ -59,67 +43,21 @@ related:
         width: 501
         height: 344
         isCached: true
-  - title: "Neural’s AI predictions for 2022"
-    excerpt: "Welcome to the fifth annual “Neural’s AI predictions” article! That makes this one of the longest running series in Neural’s history. And, this year, we aim to set the bar higher than it’s ever been with our best round of insights yet."
-    publishedDateTime: 2021-12-21T17:00:00Z
-    webUrl: "https://thenextweb.com/news/neurals-ai-predictions-2022"
+  - title: "Artificial Intelligence in Automotive Market"
+    excerpt: "Coherent Market Insights new report Artificial Intelligence in the Automotive Market examines the competitive landscape and forecasts for the next few years The research on Artificial Intelligence in the Automotive Market for the analysis period of 2021 2026 includes an"
+    publishedDateTime: 2021-12-21T10:05:00Z
+    webUrl: "https://www.openpr.com/news/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Top 10 artificial intelligence stories of 2021"
-    excerpt: "This year artificial intelligence has moved to operationalisation, explainability and regulatory frameworks. Here are Computer Weekly's top 10 artificial intelligence stories for 2021"
-    publishedDateTime: 2021-12-20T05:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021"
-    ampWebUrl: "https://www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510644/Top-10-artificial-intelligence-stories-of-2021?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/storage_g539954410.jpg"
-        width: 1200
+      - url: "https://cdn.openpr.com/U/c/Uc21865605_g.jpg"
+        width: 800
         height: 400
-        isCached: true
-  - title: "50 Global Hubs for Top AI Talent"
-    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
-    publishedDateTime: 2021-12-21T13:25:00Z
-    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "50 Global Hubs for Top AI Talent"
-    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
-    publishedDateTime: 2021-12-21T19:14:00Z
-    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent"
-    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
     excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
@@ -137,19 +75,19 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "The Most Common Artificial Intelligence Misconceptions"
-    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
-    publishedDateTime: 2021-12-21T23:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
+  - title: "A Promising Future for AI and Autonomy in Space"
+    excerpt: "Machine learning and deep learning are the next frontier in AI, and thus, in space applications. To quicken the integration process, engineers need software tools that they’re familiar with."
+    publishedDateTime: 2021-12-21T17:37:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21212499/mathworks-a-promising-future-for-ai-and-autonomy-in-space"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 43
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/12/Space_AI_promo.61c20e8aeeb73.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Applying Artificial Intelligence to Food Tray Production"
     excerpt: "Food producer apetito uses Neurala’s artificial intelligence technology to automate and optimize visual inspection of meal tray components."
@@ -165,20 +103,17 @@ related:
         width: 640
         height: 640
         isCached: true
-  - title: "Predicting lightning with artificial intelligence"
-    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
-    publishedDateTime: 2021-12-23T13:51:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
+  - title: "Worldwide Artificial Intelligence in Remote..."
+    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
+    publishedDateTime: 2021-12-23T10:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 37
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
-        width: 752
-        height: 355
-        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z

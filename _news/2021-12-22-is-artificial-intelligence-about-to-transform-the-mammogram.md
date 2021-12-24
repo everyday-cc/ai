@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Is artificial intelligence about to transform the mammogram?"
-excerpt: "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world."
-publishedDateTime: 2021-12-21T22:34:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
-webUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
+excerpt: "An MIT researcher who survived breast cancer has devised a technique that seems to predict, with unprecedented accuracy, whether a healthy person will get breast cancer — an innovation that could seriously disrupt how we think about the disease."
+publishedDateTime: 2021-12-21T19:45:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
+webUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "3GTFzsE07rj85BNT59Y6Ae8bvPUFeiebpcv26i+yGJmdC/yu/0opuRH5l2PCeDStUj+zLcB7DPiH0aDW4k0UVAEWQ4z4jXXmR1LS34CgxlI9yyKDSUMrDGw/kXj6d+2R9nasAxEwvxua7CsyFnXItL0tottEKXoBW+36I+ivkkexKQkbifDoVmRyFVjlT5Y7K3eutglAlRfXj3W63m2jtl2xYlXlwUSysGIwBG7fU7xay1Gcgqvad2C8v+c5q+cv/iSjUis76D9AL5o/8MI7wdxIn+jQHGQwfZ47XXRgeJg/u1tXJEC1RKmDRXpsYS9d5uCcxQSlFHT3P6MFsbAO6jkY/3kDK3gZ1Qcwmm2ZBdQ=;nwQtHtY60iFF/5SWmEJDWA=="
+secured: "VmyMhUvqJAKUeFnHOi0ppeXhvuX5Qerh/fZM3GPRcdNBYjhqQfCccTaicQ/043Hni+mYzxrkprrt1OvzZw3iM9V+T0X4whWN2aXq8fDVg26ocH9m8MjX8BUxBm6ci7HWyuBdVq2ovi3qJcUzFQzfVRmbhlEJNf9afHoesfNHPgpHiJxJD4nqER98h58MHxqJWdCH5FFd57clq12AD/Twk8Fyz8UkPlGmEt7GYj1HNR8GDHbApjgcMRhUxZgOVgbPtQCc1PsMNceHIAPxT0i+faMMB+zEFT08BPMwSIRX079y6T4kOmJJhcZitmq/ndV29hOAnpzioVJ5z/+N9mdgVjQNp3ql4fqKvPN47OEwkHaZHfnC3higuvcxyz92pnucgKx/kTMHanQiwjsLjgUwZ43825mg5zLPt4VS8VsYYb8TFEBE7Zn7lFYnf2RojVM52lTYeC/+rrryrHpdGZ2YhxkD8kiKdSSzSBcP2CEmPR/rRe3MjqlE+Ib1K1s0bRVkmMJrVtGYEtTJAoXn1FcGlg==;cK5Fgi0zqBb2aeyqWWTVsQ=="
 ---
 

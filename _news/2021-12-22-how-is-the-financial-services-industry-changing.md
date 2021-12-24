@@ -7,7 +7,7 @@ originalUrl: "https://www.marketoracle.co.uk/Article69802.html"
 webUrl: "https://www.marketoracle.co.uk/Article69802.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Brillio Acquires Cedrus Digital to Strengthen Their Digital Transformation Service Capabilities in the Healthcare, and Financial Services Industries W"
-    excerpt: "The acquisition of Cedrus Digital, with its consulting-led model and over 150 cloud, data and product engineers, primarily in the United States, will further augment Brillio’s nearshore digital transformation capabilities offered for Fortune 500 clientsEDISON,"
-    publishedDateTime: 2021-12-20T17:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=591025"
+  - title: "How Does Artificial Intelligence Change The Sports Industry?"
+    excerpt: "It is now hard to imagine life without artificial intelligence. It is used in almost all areas of life. It is also increasingly found in sports, as technical innovations are no longer a rarity in this area."
+    publishedDateTime: 2021-12-24T13:43:00Z
+    webUrl: "https://www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/"
+    ampWebUrl: "https://www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/"
+    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 1
+      name: herald.ng
+      domain: herald.ng
+    quality: 59
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://i1.wp.com/www.herald.ng/wp-content/uploads/2021/12/AI.jpg?fit=1024%2C640&ssl=1"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "National AI Centre to anchor Australian industry"
+    excerpt: "The federal government has repatriated a senior Microsoft executive to lead its efforts to coalesce Australia’s artificial intelligence (AI) industry around the newly launched National Artificial Intelligence Centre (NAIC)."
+    publishedDateTime: 2021-12-21T01:41:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/national-ai-centre-to-anchor-australian-industry.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/australian%20ai%20centre.jpg"
+        width: 821
+        height: 462
         isCached: true
 
 secured: "d6cFOSeuyKtZpyawjDmcH5z4XXRth/MTk9+iWs1NKz6viM+err1DCQCKpQCazJ0MHa+KgwNQlacgOXZE8mNtL/xHbTVtpjEEoI/qlUcF1pBhUlLkgoj94m6CIaUrNa3UJi1kzqESX6l+rKi62M2WS1eY4iS0L9ABLtYPRBksAkJLC2+EX+GLjSz3+0srVa/tk+bOSKHmSY/6cBpuubvNpjy0OQQVxdM7KXSR+w97O77BHy1UXIedUOGhkcy+cx0b1gGjKciuOMUhG/ts0oKL0L5ZPPXX7W90Dxg08Hp0Vzf7tYaVa1TuB2peYoGA6yRT+36aDUDXTOK3xa9nymx0RN6Y/iXXQ3OqmqeH99zDha4=;gX5SgEpNl3RQAzoAnPCSKQ=="
