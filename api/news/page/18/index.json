@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-08-amazon-web-services-aws-a-cheat-sheet.md",
+      "title": "Amazon Web Services (AWS): A cheat sheet",
+      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
+      "publishedDateTime": "2021-12-07T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue.md",
       "title": "Stellantis wants to outfit cars with AI to drive up revenue",
       "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030.",
@@ -1153,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
-      "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
-      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

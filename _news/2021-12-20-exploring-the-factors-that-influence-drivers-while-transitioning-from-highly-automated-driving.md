@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transi
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,157 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "Tesla agrees to stop letting drivers play video games while driving"
+    excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
+    publishedDateTime: 2021-12-24T14:58:00Z
+    webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
+    ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 89
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
+        width: 2880
+        height: 1800
+        isCached: true
+  - title: "Video games on Tesla while driving raise concerns"
+    excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
+    publishedDateTime: 2021-12-21T22:20:00Z
+    webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
+    type: article
+    provider:
+      name: WBBJ-TV
+      domain: wbbjtv.com
+    quality: 54
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Editorial Calls for Tesla to Follow Same 'Self-Driving' Testing Rules as Everyone Else"
+    excerpt: "While dozens of companies are following state-mandated regulations for autonomous vehicle testing, Tesla has managed to avoid the same rules. It's time for regulators to step in, according to the Editorial Board."
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else"
+    ampWebUrl: "https://www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2021/12/115632-editorial-calls-tesla-follow-same-self-driving-testing-rules-everyone-else?amp"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 51
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_401540152.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
+    publishedDateTime: 2021-12-20T19:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead-1031057469"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Tetris in your Tesla? Feds probe potential of drivers playing video games behind the wheel"
+    excerpt: "The U.S. has opened a formal investigation into the potential for Tesla drivers to play video games on a center touch screen while the vehicle is in motion. In a document posted Wednesday on its website,"
+    publishedDateTime: 2021-12-22T15:00:00Z
+    webUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/"
+    ampWebUrl: "https://kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/nationalworld-news/tetris-in-your-tesla-feds-probe-potential-of-drivers-playing-video-games-behind-the-wheel/amp/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 49
+    images:
+      - url: "https://kdvr.com/wp-content/uploads/sites/11/2021/12/Tesla-video-game.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
+    excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
+    publishedDateTime: 2021-12-21T10:00:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 46
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Tesla Owners, Face It: You Are Not Testing Full Self-Driving"
+    excerpt: "The most common excuse you hear from people who accept using Tesla’s beta software is that they are helping the company perform tests. This would allow Tesla to offer 1 million robotaxis in 2020. Already at the end of 2021 and with no robotaxis in sight,"
+    publishedDateTime: 2021-12-21T12:01:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
+    excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
+    publishedDateTime: 2021-12-21T22:29:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300483800/is-teslas-full-selfdriving-beta-making-driving-safer-or-is-it-a-safety-hazard"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 34
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/a/t/e/image.related.StuffLandscapeSixteenByNine.1420x800.4ywes8.png/1640125759149.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Cars are getting better at driving themselves, but you..."
+    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
+    publishedDateTime: 2021-12-22T10:41:00Z
+    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
+  - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
+    excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
+    publishedDateTime: 2021-12-21T22:50:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
+  - title: "Video: Self-driving boat comes to CES 2022"
+    excerpt: "At the upcoming CES 2022 show, Avikus, a subsidiary of South Korean shipbuilder Hyundai Heavy Industries Group, will showcase a leisure cruising self-driving boat the recently completed a 6 mile journey with 12 passengers on board in Pohang City,"
+    publishedDateTime: 2021-12-22T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17571/video-self-driving-boat-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "4bADqUAgGtwFCIQAr1kQvXuIVmBGYN7rGX1lF1NOEYnDI6yZe59W6CEJ8+a3dCEtOvlXxiO7SMoliQxOy7myOjyOWIJwm70uBWn+NQJIHDklYmHEde7KU3QAbfmwkVf+My+O+u/qy7rLyp8RzJnCoHP9fWZ9qIoT72Djkw1bd1pN4yYz7Al91MA/ptNXAiFC9+flrt+CT2eyECvWAZbtLJyvP6JB+IFUrAUKREMlEkS0TBYckwB66y+z5lUEFW6SssK8KFR4yaw+uIdDFe9TmpKZ4zp77FzezMQP/x8ar86y2qQjmIuqFduM1XIT/46cEo2DEcojmZfV5fQ2Y+1I3liHTYgyVZSTyr3tjiRqMv4=;gK8aLVG9Pu2soEriBD2w/A=="
 ---

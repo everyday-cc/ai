@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pope demands humility in new zinger-filled Christmas speech"
-excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
-publishedDateTime: 2021-12-24T13:00:00Z
-originalUrl: "https://www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.html"
-webUrl: "https://www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.html"
-ampWebUrl: "https://www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.amp.html"
-cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/pope-demands-humility-in-new-zinger-filled-christmas-speech/article_bb3c5bfa-a7ee-506d-8582-7d1a34318aae.amp.html"
+excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+publishedDateTime: 2021-12-23T21:18:00Z
+originalUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Niagara Gazette
-  domain: niagara-gazette.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/5/1f/51f3029e-8e8f-531c-8f11-1a5539fd8d3b/61c546338aa1b.image.jpg"
-    width: 800
-    height: 533
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
+    width: 506
+    height: 366
     isCached: true
 
 related:
@@ -102,6 +102,6 @@ related:
         height: 599
         isCached: true
 
-secured: "g97BV+MZ9yDp3qfeT5vfRniTCFUINyV42o2OjF59wPq+obKSARty39dIY9ep0F9UbFrTgvnFYDcU+18RbSxdIzXIcn5tmZByLIGt8z6snkrZu3f/gU8K1SywqsGx3htBuBz3Qxsw1N25ovTmHDeJtCOTfEoCehvaE1WdglhHCQeSTRmmag0DM3O7OL3xWUHdtKOsYxSlBR058w6Bv/S+ZyL9xqKk8o6XrZTZf5Kkh4frgU/QBj2dUoOieHZXnrXPA+/5axyqBbqTACrB5cKyyvNUzLZVj5pnATE8zoJ0aRvCuA1MlCBoXDvnReMjLdLL6QMEvraBY6KR7XKLIKp7rldX60Qg8UoKqR0Bbhn3n0s=;KfftbyxOdQ3zejhXn5J2bg=="
+secured: "zvvo+j86Wo2q+CAw/+KTRlRgBP3e+QJT1Y+vxh8W64Ip17fzqZmnHF7qzvP/cuwDfUk01QornaYG/LuELu6K9b7KE0rU/dJs/Rb5enxZ/eE+fKAH/xuOrRfG2oZhMKulG2H58E+6hKq2wJznWwxMkxgfYTBJcN9JXp0IfD2MOMZiafL2DKic4xzaPODzfTcP8Xo1ytW0chPEBfsKH61X/MdpYDNp5F66JGDlk9yPEYLjZ25xHlRqnnbRtimXBRVKnPuNuEPnkYviw6g4lNVdG3r68hcGZxDD2fM9uwSlb1GwN50oqYIdtHfB0IFyLQoytXBTr3dsLBfjYi1XUS9E3yDy1QNB9VPaT84rkCnnm60=;j5holpsPaeoLnGhsBtkSJA=="
 ---
 

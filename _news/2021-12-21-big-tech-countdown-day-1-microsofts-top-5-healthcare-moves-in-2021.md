@@ -40,20 +40,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Learners keen to know more about artificial intelligence, Microsoft Excel, financial markets, Korean language, and mental health, says Coursera study"
-    excerpt: "Australian learners expressed interest in topics such as artificial intelligence, Microsoft Excel, financial markets, Korean, and mental health and well-being, reflecting that they recognise the shifting nature of work and the changing contemporary social and cultural landscape,"
-    publishedDateTime: 2021-12-20T00:41:00Z
-    webUrl: "https://itwire.com/education/learners-keen-to-know-more-about-artificial-intelligence,-microsoft-excel,-financial-markets,-korean-language,-and-mental-health,-says-coursera-study.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 15
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/e993fdf96e6c5c1c02330fe08cd279b8_M.jpg"
-        width: 375
-        height: 265
-        isCached: true
 
 secured: "sidnKctV5Z2AuHbnZpDo5lxW1b16dZlqNjtaAmNzP99JzUpaI3cRwb9N+hbvONp51VhuhXHy3lzEgM1UXIIHsSKYxHZVO7HXXjMqfQsp0Fdp6l11+5os3B2lVV5iKUBh86iilXfGQukeliDypUL+pRJ1djyqvzdnWCIyq2RaSFf9PUJjKoTUP6T5SF7VdOsyk2J8afvGt4oe63v54sk+iJgqKHD2v1dN+Drsc7PKLnhJK4MGhOm7e98IvdwVDoqlxj8CSWjB/Pv5y/1w4AL6igppKQJ0fLrMdM4CJAi2ijEMpKdOm3MMkHfU35DDdTGaUU5pLZ1t7TyiRRuS7Ru6v95rg22LQWAqpP4blGUGKn4=;inLtbsYcT068zBbNMm93dg=="
 ---

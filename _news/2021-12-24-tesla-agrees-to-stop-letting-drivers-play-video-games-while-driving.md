@@ -1,45 +1,49 @@
 ---
 category: news
-title: "Video games on Tesla while driving raise concerns"
-excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
-publishedDateTime: 2021-12-21T22:20:00Z
-originalUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
-webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
+title: "Tesla agrees to stop letting drivers play video games while driving"
+excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
+publishedDateTime: 2021-12-24T14:58:00Z
+originalUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
+webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
+ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 89
+heat: 199
+published: true
 
 provider:
-  name: WBBJ-TV
-  domain: wbbjtv.com
+  name: Gizmochina
+  domain: gizmochina.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg"
-    width: 640
-    height: 360
+  - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
+    width: 2880
+    height: 1800
     isCached: true
 
 related:
-  - title: "Tesla agrees to stop letting drivers play video games while driving"
-    excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
-    publishedDateTime: 2021-12-24T14:58:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+  - title: "Video games on Tesla while driving raise concerns"
+    excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
+    publishedDateTime: 2021-12-21T22:20:00Z
+    webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
+      name: WBBJ-TV
+      domain: wbbjtv.com
+    quality: 54
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
-        width: 2880
-        height: 1800
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Editorial Calls for Tesla to Follow Same 'Self-Driving' Testing Rules as Everyone Else"
     excerpt: "While dozens of companies are following state-mandated regulations for autonomous vehicle testing, Tesla has managed to avoid the same rules. It's time for regulators to step in, according to the Editorial Board."
@@ -177,6 +181,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "M+YGFu9e9AKAFSf3o9heYlklxIQhw/kAb2prqgfZ06Se5+iNVYcR7iwJKxmaAI8KHYljD8qahOVv3ntoeN2zvpkOC/aNF+JxuaMmIKNf1eQ8nmSagL31LTyb012nS7ABmEnx5BCiJDeI6X5Upc2AcF4NociFOpt8xSN8EYO0FkXa1RaJir8VMCF5bGMW1V5IwcwGokmp/pWl4lATwDZX6lRez5UgpCZuxsIPg6I8vkBsit0FH5TGVtyaBg53ojk1lszZWxbghFPvqf0FzodLqoFxBbVaT2/nW0egt3oSpUcNloFKFWaBqT8M/WKSVBmZEc2q/bzB34vmznk6mLsWF8F7GGOn6eHfCxRbsClmkJlQ4W/Bl2CoYH2vbNT+GBcjiHOJtwoUfdqu5vFBO8aUKAIGnov6RVcO7RK6QCmtblr7e9gSfBJ3PIkEZETbD+VFlNQ2jbSsiiiK0rkMpTD+TA8vi6x/tALv5dU+teFA8kBwP1B7jjNmAS16QUPwOlwdEQQa1B95MBmTELhFjWA0cA==;NRtP2vNIjkj/aT25i9DEow=="
+secured: "Uo6wT6Hm7FevRLZ3Py4RQV5Ijj+z9WmccvJJaiua2TvHu4KqI9mqcq+t0jxeFXBMrPAfUfHarmn97cTTqttqp/FL9yXQIAz0WeCkL5ZvXe9dQrWuD1/sivv7cXGXnPZSuajmbz7AidQU7Y/L+p1cS6Vr2DJJmtH0e9RirkxVds/k/TbPt3eUy9n7H3pgvmw+cjcYsKkwcP0DIXoOP+zaIVN0vN7vU9qnk96B5MgMQMTEgdauNDL9TCHHPFozryHABpRIBf1TVpDijczmoLMEN3o6Yy46MV5SaRutcyCTBeGQRQhzpmL0t1HMdwbOl7dKEFgl+pemRjTDmuzrqhzcr5jQYF2fA7AfYYP3kSxXW10=;+1AMf/XULHSWFKQsWCNwVg=="
 ---
 

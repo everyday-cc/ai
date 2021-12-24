@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-09-cognitive-analytics-market-to-be-worth-48-billion-by-2026.md",
+      "title": "Cognitive Analytics Market to Be Worth $48 Billion By 2026",
+      "excerpt": "The leading companies profiled in the Polaris' Cognitive Analytics Market report include IBM, Cisco Systems, SAS Institute, Nuance Communications, Microsoft, Oracle, Amazon Web Services, Google, Intel, and Narrative Science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=150502",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=150502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/142013-1221_SpeechAI_Verint_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-new-generation-of-kraussmaffei-lrx-linear-robots.md",
       "title": "The new generation of KraussMaffei LRX linear robots",
       "excerpt": "The new linear robot product line also includes customized gripper solutions tailored optimally to the mold and the component. All components are integrated centrally into the MC6 control system ...",
@@ -1129,40 +1172,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-keith-kressin-as-ceo.md",
-      "title": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO",
-      "excerpt": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO. MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence proce",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

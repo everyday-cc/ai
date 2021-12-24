@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-understand-what-we-are-saying-scien
 webUrl: "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "What Does It Mean for AI to Understand?"
-    excerpt: "It's simple enough for AI to seem to comprehend data, but devising a true test of a machine's knowledge has proved difficult."
-    publishedDateTime: 2021-12-20T00:00:00Z
-    webUrl: "https://cacm.acm.org/news/257510-what-does-it-mean-for-ai-to-understand"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 21
 
 secured: "kkyvr1AvpPOSe13zaM4/5om1lAuh5fPjljOodpXSZAyJIaerT+zl+4PjRHJrLMUbd7m1JCFI7Zg3/SuiNIJnTlilS5yAc/KQ2+VoNY2PHP+iQ/H+lQXcKGrc6TiJBbIasZRFPFV+kyurGRfXnLQVN97G+FWVb2CXARRwCGx59O9kA1HqfxdPRQ9Uy5I0dpXdb/cjfqTw9ofc0mN4Gjg3hY1Blxj+f59eeLgmWJ2tyznGoDuEQyn7zoaX6sNbBd02Oaifkkmgy1Pbsm9TdQSlvCQijNQebZfvt8FB1cDlgGlAZEXrpRYR5pas3/M+GUuCH3tTHKLGV2wa/0UV+DeJ8UA2FIkjFOguUoPuWDooRpIOYM8pd+WfouZ1ST1UFLdmZksrwVSVeV/AD+HXUc/sKkLqHJnoG1vskCJkdGaoezp5BjOM8wfcnf/zgPmFMuKma+SV40RViMgg/LIox7FFJjFL7ZH9TnWMgfTZd8WsKiXvuEq7AszTGmHCldSK5hx6xal6vh6IeapOqFxsNa+gFw==;A/fysali26ocvSQWOQxhZw=="
 ---

@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-11-25-liability-for-robots-i-legal-challenges.md",
+      "title": "Liability for robots I: legal challenges",
+      "excerpt": "Department of Economics, University of Bologna, via Angherà 22, 47921 Rimini, Italy Department of Economics, University of Bologna, Bologna, Italy In robot torts, robots carry out activities that are partially controlled ... to bear in mind that human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-get-nod-to-launch-paid-driverless-robotaxi-services-in-beijing.md",
       "title": "Baidu, Pony.ai get nod to launch paid, driverless robotaxi services in Beijing",
       "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China’s capital Beijing.",
@@ -1157,58 +1191,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
-      "title": "The shape of edge AI to come",
-      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "publishedDateTime": "2021-11-24T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

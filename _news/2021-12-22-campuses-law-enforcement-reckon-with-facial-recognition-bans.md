@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement
 webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
 type: article
 quality: 139
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
+    excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."
+    publishedDateTime: 2021-12-22T17:45:00Z
+    webUrl: "https://www.biometricupdate.com/202112/frictionless-retail-projects-with-facial-recognition-from-sensetime-popcom-solmate-ramp-up"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/18130822/shopping-retail-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Face recognition: Digital scrutiny"
     excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."

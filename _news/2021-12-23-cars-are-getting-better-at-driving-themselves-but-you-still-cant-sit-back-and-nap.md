@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cars are getting better at driving themselves, but you..."
-    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
-    publishedDateTime: 2021-12-22T10:41:00Z
-    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
   - title: "Cars are getting better at driving themselves, but you still can't sit back and nap"
     excerpt: "A lot of new cars can drive themselves down the middle of a lane and adjust speed to match traffic. Some even let you go hands-free at times. But they all require very close supervision."
     publishedDateTime: 2021-12-22T14:00:00Z

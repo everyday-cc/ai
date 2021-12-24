@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
+      "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
+      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
       "title": "We love technology, until it starts loving us back.",
       "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
@@ -1075,49 +1118,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
-      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
-      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "publishedDateTime": "2021-12-06T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

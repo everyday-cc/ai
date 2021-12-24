@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime Reopens IPO, Gets $512 Million From Cornerstones"
-    excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U."
-    publishedDateTime: 2021-12-19T23:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 152
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist"
     excerpt: "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged."
     publishedDateTime: 2021-12-20T08:35:00Z
@@ -58,33 +44,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "SenseTime Relaunches Hong Kong IPO, Trading to Start Dec. 30"
-    excerpt: "Chinese artificial intelligence firm SenseTime Group Inc. filed updated listing documents with the Hong Kong exchange as it sought to resume its initial public offering, after a U.S. government directive forced the company to delay the process."
-    publishedDateTime: 2021-12-19T23:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30"
+  - title: "Chinese artificial intelligence company initiates SenseTime listing again for USD767m"
+    excerpt: "China’s artificial intelligence unicorn company SenseTime Group has reinitiated its USD767m (£580m) Hong Kong stake sale.<br /> <br /> The declaratio"
+    publishedDateTime: 2021-12-20T10:06:00Z
+    webUrl: "https://menafn.com/1103401661/Chinese-artificial-intelligence-company-initiates-SenseTime-listing-again-for-USD767m"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
-    excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."
-    publishedDateTime: 2021-12-22T17:45:00Z
-    webUrl: "https://www.biometricupdate.com/202112/frictionless-retail-projects-with-facial-recognition-from-sensetime-popcom-solmate-ramp-up"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/18130822/shopping-retail-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
+        width: 512
+        height: 321
         isCached: true
   - title: "China artificial intelligence firm relaunches SenseTime $767m listing"
     excerpt: "Chinese artificial intelligence start-up SenseTime Group has relaunched its $767m (£580m) Hong Kong share sale. The announcement comes a week after the listing was pulled as Americans were banned from investing in the firm."

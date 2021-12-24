@@ -42,20 +42,20 @@ related:
         height: 267
         isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "Tech giants offer their products in numerous languages, but they don't always pay attention to the nuances necessary for those apps work in the real world."
-    publishedDateTime: 2021-12-24T04:36:00Z
-    webUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/9013584002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002"
+    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
+    publishedDateTime: 2021-12-24T02:52:00Z
+    webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+    ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 44
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "tEiFCjt2ilF6j34wQLDnlQTgI63lBuGepXnTXtSDMPv757RXo6xdWjnxMkyb1v81trETv8Mnlhooxm5DLy2mN5IIUSiXrmofuDQSv2p+gig8dWcNdpcnpQAm0lug/shNDAQiR2bXxwh0hk75Dz2Lr+ek5bQCTZ+mXcLKbz1uTESB9IYiNRtPTbDx3Rzkq8iigZnq3MBa5lXQxrnUqAwjn7XKkh6ZsMK9DbvMf3p6RHGCqFFWwXf1/Cc7vTz0C8cLj0CgTQj0iTGA+8U3lcuvC/QZx6GtzIWfv/9sW8EP5Q1WTp9euPwEFHXGvoftI99bYLqH7EUhhKHjBhqSG0lTBvcrtXaQGRmcZOfKhUiIPhQ=;eyJBQRf8tpjFrcfCzC1Iww=="

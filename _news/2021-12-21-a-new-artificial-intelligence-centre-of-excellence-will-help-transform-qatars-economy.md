@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why retailers should deploy AI contact centres"
-    excerpt: "Speed, automation, and convenience are the three pillars of this technology-led retail revolution, and Conversational AI harnesses data to deliver on all, according to Uniphore co-founder and president for Asia Pacific,"
-    publishedDateTime: 2021-12-20T00:20:00Z
-    webUrl: "https://retailbiz.com.au/topics/customer-service/why-retailers-should-deploy-ai-contact-centres/"
+  - title: "Competence Centre for Banking & Finance"
+    excerpt: "The Competence Centre for Banking & Finance of the Eastern Switzerland University of Applied Sciences supports financial service providers and companies as an independent, scientific and practice-oriented partner."
+    publishedDateTime: 2021-12-21T21:44:00Z
+    webUrl: "https://www.linkedin.com/showcase/banking-und-finance"
     type: article
     provider:
-      name: retailbiz.com.au
-      domain: retailbiz.com.au
-    quality: 37
-    images:
-      - url: "https://www.retailbiz.com.au/wp-content/uploads/2021/12/Web-Only-Why-retailers-should-deploy-AI-contact-centres-iStock-1220591821.jpg"
-        width: 1800
-        height: 968
-        isCached: true
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
 
 secured: "LRfrUqta2PCL7gNNbkG3yajByw0D1Z3y6ZweMGETewVxuFm/JfMA+enV/hsSmde44ZrypikFyc/VFy9Jp1obTnDZQ15oDw/iC0ng1XuRtggTUXxLxYSKTYE5JgaTwAcrQtfeUHXWR5GOtUqzSFEF7hX/Tl8t1I6LR7byfu34vUbbrnXlg4wxtTUavCcIz1lNpY0rmbMvQw98bTiUCPfydJ4TYoG65Ymin6wMMSllk0VE/cZPuX0Oah3O4kkhpmlYFBg9VuJdHyisn8A8E37ov4MisIeoItkXrn/hWVNwjqZXXbRcWqJALRDrKZ9xYMasTPbs3+VF4CnwhS8HjqOoGCsu0DoRGsu5i+cFOhfWkRk=;U5ZLixyj39P4seLKkmddmQ=="
 ---

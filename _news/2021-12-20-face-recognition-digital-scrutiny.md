@@ -85,6 +85,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
+    excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."
+    publishedDateTime: 2021-12-22T17:45:00Z
+    webUrl: "https://www.biometricupdate.com/202112/frictionless-retail-projects-with-facial-recognition-from-sensetime-popcom-solmate-ramp-up"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/18130822/shopping-retail-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Survey sheds light on law enforcement use of facial recognition"
     excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
     publishedDateTime: 2021-12-20T18:48:00Z

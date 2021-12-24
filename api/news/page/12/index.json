@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-12-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
+      "title": "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling",
+      "excerpt": "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
+      "originalUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03",
+          "width": 1212,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations.md",
       "title": "Digital Diplomacy: AI As A Tool To Strengthen International Relations",
       "excerpt": "Steady international relations are necessary to maintain world peace and a stable global financial market. However, diplomacy should ideally also bridge the gap between the wealthy and poor countries.",
@@ -1132,49 +1185,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-evolution-gym-sculpts-novel-robot-bodies-and-brains.md",
-      "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
-      "excerpt": "But they usually design an animal-like robot body first and then train an AI to control it. In living creatures, though, the body and brain evolve together to tackle complex tasks. So some researchers are borrowing a page from nature’s playbook to design intelligent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
-      "originalUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/0197E040-CFB2-4AE4-99DF0AE00817D3CA.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
-      "publishedDateTime": "2021-12-10T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

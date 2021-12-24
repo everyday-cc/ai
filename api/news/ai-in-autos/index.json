@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
+      "title": "Tesla agrees to stop letting drivers play video games while driving",
+      "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg",
+          "width": 2880,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "publishedDateTime": "2021-12-24T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
       "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
       "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -244,49 +296,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-22-video-games-on-tesla-while-driving-raise-concerns.md",
-      "title": "Video games on Tesla while driving raise concerns",
-      "excerpt": "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/",
-      "originalUrl": "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBBJ-TV",
-        "domain": "wbbjtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
       "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
       "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
@@ -295,7 +304,7 @@
       "originalUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla agrees to stop letting drivers play video games while driving"
+    excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
+    publishedDateTime: 2021-12-24T14:58:00Z
+    webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
+    ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 89
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
+        width: 2880
+        height: 1800
+        isCached: true
   - title: "Video games on Tesla while driving raise concerns"
     excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
     publishedDateTime: 2021-12-21T22:20:00Z
@@ -57,6 +73,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
+    publishedDateTime: 2021-12-20T19:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead-1031057469"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tetris in your Tesla? Feds probe potential of drivers playing video games behind the wheel"
     excerpt: "The U.S. has opened a formal investigation into the potential for Tesla drivers to play video games on a center touch screen while the vehicle is in motion. In a document posted Wednesday on its website,"
     publishedDateTime: 2021-12-22T15:00:00Z
@@ -73,6 +98,64 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla Owners, Face It: You Are Not Testing Full Self-Driving"
+    excerpt: "The most common excuse you hear from people who accept using Tesla’s beta software is that they are helping the company perform tests. This would allow Tesla to offer 1 million robotaxis in 2020. Already at the end of 2021 and with no robotaxis in sight,"
+    publishedDateTime: 2021-12-21T12:01:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
+    excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
+    publishedDateTime: 2021-12-21T22:29:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300483800/is-teslas-full-selfdriving-beta-making-driving-safer-or-is-it-a-safety-hazard"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 34
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/a/t/e/image.related.StuffLandscapeSixteenByNine.1420x800.4ywes8.png/1640125759149.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Exploring the factors that influence drivers while transitioning from highly automated driving"
+    excerpt: "In recent years, many companies have been investing in fully and partly autonomous vehicles. Before these vehicles can be deployed in the real world and on a large scale; however, their developers will need to ensure that they are safe and can deal effectively with unpredictable challenges."
+    publishedDateTime: 2021-12-20T14:30:00Z
+    webUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 32
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/exploring-the-factors.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Cars are getting better at driving themselves, but you..."
+    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
+    publishedDateTime: 2021-12-22T10:41:00Z
+    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
     excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
     publishedDateTime: 2021-12-21T22:50:00Z
@@ -84,6 +167,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 21
+  - title: "Video: Self-driving boat comes to CES 2022"
+    excerpt: "At the upcoming CES 2022 show, Avikus, a subsidiary of South Korean shipbuilder Hyundai Heavy Industries Group, will showcase a leisure cruising self-driving boat the recently completed a 6 mile journey with 12 passengers on board in Pohang City,"
+    publishedDateTime: 2021-12-22T13:47:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17571/video-self-driving-boat-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "pwk+i1DPee/yl40KYpq/mhAhmdEyciYLqyYJdFKPeuAunrbJwizgMRLBmWNDz959UBXCHYb5mXaymMFFwQLh50kYy1vPfu/hqUs7iChqd3bnInCBRHdfopMRmJCvjv8McVL0fYR7W5+zhoK7wpf+cj6+WXGOslKvf4YNuCxqYoyVOoZQhwcOHk2q0vHjoR4eq/jzh3LB9GaRqTlro9fzBhPnvM3gMg6DoeH4PLIRhuK3TtNH3o1BmnoPj12RMOzTkyv2jbfcyzYe7E4B35gpz+MAO7mMdh27qi1QEXqEK+B2/uT+0AW+xVP4IR1nskhcF3FAX+I4vJFIVlYRrrreEmgHKx7UrfNE1CG7/EmCY5A=;LoNWei+g3Xx5/+IRV1l+yw=="
 ---
