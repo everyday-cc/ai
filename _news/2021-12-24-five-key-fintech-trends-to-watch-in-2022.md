@@ -55,20 +55,6 @@ related:
         width: 800
         height: 482
         isCached: true
-  - title: "Kraken Ventures raises $65m to invest across the crypto and FinTech ecosystem"
-    excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early-stage companies and protocols across the"
-    publishedDateTime: 2021-12-20T09:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/kraken-ventures-raises-65m-to-invest-across-the-crypto-and-fintech-ecosystem/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "cONs4bKh6eXla6sHC9bn51ikjV0tpl3biImk0cNeQ/Wfn/xHpKFfGP/FY5NKRe5+//mo0ZDB4Wxz6zYQ0sR9hz+xrvPLWzy2Z10o6cxsY4Cl5yhh78HJ/R2eQ6nFnURoHWLnjgRjhQGGyMh77SxMYR0deWQd1TjsgfSMYUeFiI852rCBF3rosoid4mmL3rFXoe76hjVodnu+Wk6YtYTEDOVPEGYPthz7plcy5F9CD2Ezkp8FeYUapgHt64hEm1qW5GZgfnyHInczI4acoBMzk4rCAl2Ho22Ng1KVw9Isq/wEL53ZlWzop13a1UA8lvwAPYEeczZZRgie6XxnjlVYi/UHwYu0lVUwTUQ1B6kt2MwGNuodblnM3Og98smq7OAMG6laAESHPXmhlDN2GM+8CvxawW2OpQfj7JoqlJdCK609Xj7kIMLxvJ/bWva+qwGmB6FY2PSV4RHMIHjybFtiN90tCn5GxpS6fV+amoiRpfUS2A+owGsLB9wTj2ftJNzI/6xkjHBcCquq62lk6QW/6A==;Nz54itsDdZeahA5Bb/bngQ=="
 ---

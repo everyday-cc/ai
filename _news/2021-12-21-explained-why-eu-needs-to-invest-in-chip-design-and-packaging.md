@@ -9,7 +9,7 @@ ampWebUrl: "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-
 cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -33,22 +33,6 @@ related:
     webUrl: "https://www.dw.com/en/chip-design-matters-for-eu-but-packaging-is-even-more-crucial/a-60192727"
     ampWebUrl: "https://amp.dw.com/en/chip-design-matters-for-eu-but-packaging-is-even-more-crucial/a-60192727"
     cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/chip-design-matters-for-eu-but-packaging-is-even-more-crucial/a-60192727"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://static.dw.com/image/17479815_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
-  - title: "Chip design matters for EU, but so does packaging"
-    excerpt: "Researchers have urged EU member countries to invest a lot more in chip design with a view to becoming less dependent on China. But other parts of the value chain also need more attention."
-    publishedDateTime: 2021-12-20T10:58:00Z
-    webUrl: "https://www.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
-    ampWebUrl: "https://amp.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
     type: article
     provider:
       name: Deutsche Welle

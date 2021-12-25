@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-pl
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
 type: article
 quality: 89
-heat: 210
+heat: 211
 published: true
 
 provider:

@@ -43,22 +43,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Chip design matters for EU, but so does packaging"
-    excerpt: "Researchers have urged EU member countries to invest a lot more in chip design with a view to becoming less dependent on China. But other parts of the value chain also need more attention."
-    publishedDateTime: 2021-12-20T10:58:00Z
-    webUrl: "https://www.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
-    ampWebUrl: "https://amp.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/chip-design-matters-for-eu-but-so-does-packaging/a-60192727"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://static.dw.com/image/17479815_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
 
 secured: "lv0fSXwSbuslj2ju7bEv+cUjLKVK7dE/KNVaQ2DgZVjtIQIoWt0LsJUF+nZ2mbjZ2710tK9ajmjSvYTfgmH+/eWIS0J2vAWdBen9TR/HM4K4kE2FWNbNMTys+p88JZC5pyim8Jvaf/WpTstLijbqRlbs2xD7oP/U0i9wPfwbyhnXBedgphhQZ3tp9FnfN+qz3+XdKz2d0DwEbcoAxultc0sVAymk8/FXXZ5jr9V4N4n6lzvWj6SYMsziKsP26nOL9nNpQknc4np0yYZ9Uqt1YUFMzlyTtfQY6uN27ORAJHQsHKKEfACPN9XUtgWHlesuVn6bkdcLwZCCDazX7FoujVukdxa5VAWUMuXEq1FNj/AzgfUbrqUo4ROTJoRemOsnazQGJxyEcHbeQDvRfE57pJHWCX132tkFA8FmqpKnbrWhBjQKd+BpABQPBQXlI7C7BHXubV7yQe3C12VMR3XKDHfkjYVjXo6ZObEt/dFp4qf6UBgw2SE9vm4z+9NGv8/88YwDbK3AwXODdWmmK1czKg==;1q1LH8eIDgoykAbVl59aVg=="
 ---

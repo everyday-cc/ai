@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-gran
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2020/01/DMCC-e1640166272665.jpg"
         width: 800
         height: 482
-        isCached: true
-  - title: "Kraken Ventures raises $65m to invest across the crypto and FinTech ecosystem"
-    excerpt: "Kraken Ventures, an independent investment fund led by Kraken alumni targeting early-stage companies and protocols across the"
-    publishedDateTime: 2021-12-20T09:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/kraken-ventures-raises-65m-to-invest-across-the-crypto-and-fintech-ecosystem/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 36
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Five Key Fintech Trends to Watch in 2022"
     excerpt: "In the year ahead, consumer behaviour and early adoption of new technology are set to transform the financial services market. Banks need to adapt."

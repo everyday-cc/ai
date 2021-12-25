@@ -1,27 +1,29 @@
 ---
 category: news
-title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
-excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
-publishedDateTime: 2021-12-23T15:28:00Z
-originalUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
-webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
+title: "Pope Francis demands humility from Vatican officials in Christmas speech"
+excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
+publishedDateTime: 2021-12-23T16:07:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+webUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
 type: article
-quality: 28
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: The Tablet
-  domain: thetablet.org
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
-    width: 600
-    height: 400
+  - url: "https://media.whas11.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
-    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-23T16:07:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+  - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
+    excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 43
+      name: The Tablet
+      domain: thetablet.org
+    quality: 28
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
@@ -88,6 +88,6 @@ related:
         height: 500
         isCached: true
 
-secured: "qAzfZOtlgbEUSQAFt8p9lMvSYLoXlU4oLkn3ScY0ZmkpOigovV6fgeBbYklNLnLzQPtxzhgqoUHQF14tDL9i37gUUXVNqwWl3BvUu+s1uCAQ18pC6kGue+Dnbj67EBtbtUdMb1ZABr43m85GW4M9VC/iUPvRiA+G+QZGTXSXibdyK7VG411jzwZDpaHgConTNJEBufJM2NlXL6CpUXKa8ey4S0M8FfDQSNGe7L6X7l3XIElU+MiXTGRb6nW8Q9VB16LzV+YkNPSPOTQstQcOMdat5tA+aeys0JtRepe05hRGSYK2g63rLX9Lay09uJ/sp89xtsp0o5H4d1AQu1zHxJYRgQ3AJ5BN8gFpAMxNeXIuaxl9wkqi4lGD+p9+rDJ+DvtPNvjRQpf46EdLOUK4q9Ti7kf0J4GJd8M7BLtwwziPhhAjJtDQRcZyBhwblQazrF0ch35qnXFG7aH38ln0/bJV7HzKovUtnEysLCuDwhOIsIwD24J9TzTtI8VLLKHqg3YCsMi5J346F9oMPRg7qA==;IKZN44fqaMaqpuHXx/0Oxg=="
+secured: "wt7rPdwuWXiz7SjhQ8dpgOutZVrb7ASdtVWqV9b9qu09TgLX0uOKF/6JBCMkXVWmGMpDa6kEC4I14CqPLqSJDBamKcFMOlgxJDFkzIXtWZlyPp8h/x1/YvAE0/vsxRubW9OaXb6h1D9Df2M4J1/xC/z+05PXu8omVDa3N7pGm2OZJH1mXAaFgAX5q/Z4/ghAbKEwyhelvvDpns8X0LSYH94jG/OQIJrec7qkN2KPDghnEbPEpN6Fr3tFE+t7ddpNudh5GaHcKgAk0fsFb1MJrWC/qDDE7E3tJlTX107MwY6hIEYwpPbrjZKoylh4U4ZbTArJr9gjqJBl/yCWcBOaMeysmqEondXHX3tOzMwcy4o=;2N53TF2he5zXdO307cVfOw=="
 ---
 

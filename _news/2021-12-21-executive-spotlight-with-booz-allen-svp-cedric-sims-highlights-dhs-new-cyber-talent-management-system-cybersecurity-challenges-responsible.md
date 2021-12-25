@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI for Cybersecurity Market Is Booming Worldwide with Darktrace, Vectra AI, IBM, Cylance"
-    excerpt: "Advance Market Analytics published a new research publication on AI for Cybersecurity Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-12-20T10:42:00Z
-    webUrl: "https://www.openpr.com/news/2504927/ai-for-cybersecurity-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2504927/ai-for-cybersecurity-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2504927/ai-for-cybersecurity-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc20282946_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "McKinney cybersecurity startup raises $2 million seed funding round"
     excerpt: "The Y Combinator-backed company landed grant funding from the McKinney EDC's Innovation Fund earlier this year."
     publishedDateTime: 2021-12-21T18:29:00Z

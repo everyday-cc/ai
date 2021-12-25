@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/features/asia-pacific-is
 webUrl: "https://www.pharmaceutical-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-for-machine-learning-roles-in-pharma/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 355
     isCached: true
-
-related:
-  - title: "Asia-Pacific sees hiring boom in apparel industry machine learning roles"
-    excerpt: "Asia-Pacific was the fastest-growing region for machine learning hiring among apparel industry companies in the three months ending October."
-    publishedDateTime: 2021-12-20T10:51:00Z
-    webUrl: "https://www.just-style.com/features/asia-pacific-sees-hiring-boom-in-apparel-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 38
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_435613807.jpg"
-        width: 500
-        height: 355
-        isCached: true
 
 secured: "5L+ppCh5FJwrAY0DS7KQ8IUyX682ICDh4JfsvcKrCSFCat7QWW91pahraIdfN602tZmWQh0QcVNAW4YhKDNhSQKEXI3MdAOwgrYJMTPr2M+i/hD+LVtzJD13YSMH1nfVqUVWR5sjHDFajWKMDSob5Q/JxgWlhjEh2UU1hWWW8ihArWJhLUZ8jr0enaZF/mau8jaGbJLwQo2WltbO6/A22RNAGX7UwL0jpsOFRxnPcH3edX/acmkyaatdZQa4+hsrNyGSmle4mI9vcY92KToGYmwAKohMY5JOWUer8+sRnR91r61yCdf+9xA/egg8ahCCjcCBpmspBwHv+oL9cqFmbSpJOw1IwhBh0FxRDSa9Y9JWkd9JoiLixLGbmObaR2gatXLUCFgpKpTGWuIgkOK//wnf5ZSYumqGrx8KdNo4M00cRAyU8mZkdSTEkuZQD0cJnAN+e1naAuecAmjnp5AIDJWqn/uHWoJyUsusMOywxjwRaY1sxPxzioO8i2LgxMyim7W1qJfMYooDB670sU1l8Q==;www1WRTVvK0Zev01HOcmSg=="
 ---
