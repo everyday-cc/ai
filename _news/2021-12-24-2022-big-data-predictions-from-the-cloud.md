@@ -154,7 +154,7 @@ related:
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
+    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri/?published=t"
     type: article
     provider:
       name: LinkedIn
@@ -165,15 +165,6 @@ related:
         width: 1280
         height: 700
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-    publishedDateTime: 2021-12-20T14:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "2022 will be a big year for artificial intelligence"
     excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
     publishedDateTime: 2021-12-23T13:47:00Z

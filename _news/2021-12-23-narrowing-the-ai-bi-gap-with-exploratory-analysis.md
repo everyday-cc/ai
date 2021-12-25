@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/12/22/narrowing-the-ai-bi-gap-with-e
 webUrl: "https://www.datanami.com/2021/12/22/narrowing-the-ai-bi-gap-with-exploratory-analysis/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 738
     isCached: true
-
-related:
-  - title: "Why will AI be enthralling the"
-    excerpt: "AI in Healthcare - Artificial Intelligence (AI) makes patients', doctors', and hospital administrators' life easier by completing jobs that would normally be performed by humans, but in a fraction of the time and at a fraction of the expense."
-    publishedDateTime: 2021-12-20T14:37:00Z
-    webUrl: "https://elclasificado.com/losangeles/servicio/servicios-miscelaneos/why-will-ai-be-enthralling-the-18423075"
-    ampWebUrl: "https://elclasificado.com/losangeles/servicio/servicios-miscelaneos/why-will-ai-be-enthralling-the-18423075-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/losangeles/servicio/servicios-miscelaneos/why-will-ai-be-enthralling-the-18423075-amp.html"
-    type: article
-    provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 57
-    images:
-      - url: "https://elclasificado.com/photos/b6/84/b6846dc446694e87b765bc0b686c6015/l.jpg?image=0"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "P2pr10Gq7tBSmBh/ug0bbM8RHWRZx5I8uEVqNOLkIb9o1BhQyTNvju3J0w/P44EApo6A7DhJo/wpndE/XRnVOY3cVIAyf1tFwV3ZlfvDW1b/FO2J7I30Gjcvgu5wsIikTOvOC1c9nltwuMtggsuShp1Zsy5ksNDAwV8Ibdni4pPPbo/cjbRVaaxUZx85h7DTWOLv6kiDDloHhYUrs6L2eGjRbLwfiUzZxpTO0Srm92rZ+RfVyIzKa1uMqOMvomiXGaBrRyFj4HFnR+n+Q1Ht/inbEdrdIGyGD+7t+PyWY8xwzmMbnXvOtVSswopDNTFpwDAC/VHCLfu8SY9/jbczAE2rVPMV5MTFoBh5F3ScSDXiFvF4MQTr56EXBaaS86+LCfbeBXSNd5t4IK5fgWWSp6pIQ/9/GQmWXI52hNsvOp+HRYt/eqrOQ3+u4U+cXCSNMjIz6a33a9bolbEogdaoyOURQjnDkKAuYffyoHnukwamUlEMnIZQyl6aB0rC2/kNe7jFNUjA+QkzQB0uJP4Nag==;GyL6sgTBQd/sbNZR3WdbHg=="
 ---

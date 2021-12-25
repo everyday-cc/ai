@@ -3,8 +3,8 @@ category: news
 title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
 excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
 publishedDateTime: 2021-12-24T15:01:00Z
-originalUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
-webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
+originalUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri/?published=t"
+webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri/?published=t"
 type: article
 quality: 31
 heat: -1
@@ -168,15 +168,6 @@ related:
         width: 814
         height: 415
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-    publishedDateTime: 2021-12-20T14:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "2022 will be a big year for artificial intelligence"
     excerpt: "The role of artificial intelligence (AI) is growing across all vertical markets and in 2022, AI will take off substantially in media and the entertainment industry, according to ABI Research. Both AI and machine learning (ML) will drive revenues of more than $9."
     publishedDateTime: 2021-12-23T13:47:00Z
@@ -187,6 +178,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "YQrpaVzmPfT9z3tPVX12L1haqZhCKhLAq5aARRriciUA862KXJ/bfd66cPPX4lV/rU/0sBUsRLeaeDjHaXKN1EvF3by1e+tYqTkh/aQM3ZECSSh49nmOm7DcDmuG9++HwD30NKD/D3T1uP94FWVUawNinR+ngjZp80+IHIK264kYjDFEelVs3Y3uKtNnb/7SfTKB52B5TevfcIc+vCB3b0X8uspXiHdQ/rwsxNUqg8wBWFtdcMwa/y6jc/d2LrRd5TPlZuZaLAmdLVVGjyuI8YC5NZmCooXpJCxJC0PtxYgiwVidzw+E3P17D9DmiiHifZzetxD4TZ6QOjFzoQ3QBFfX/HxD6NwdfhKG3eUTBVE=;e9LDkvDTcNdQxd3XOnh2TA=="
+secured: "lONTLL+o+BBfVwJbFG0EjDzNVEJfdnssUHtNYomQKY1varP9dlEGgzpI2+jvZVL2897s1sXSJidBdEWYcJHnyeEDwuM9RaK+QoU/q/hFAlA+3s3Ich8m/1g/gQFvjaEI5u7JGkiHAmjyTTL6nNJQho2IPO9oyk9J4Vrq/z6pUBMsUpz+hGxoytSmyiebJkYKtPiFJ9v1mB5/W3CBWuddW+fjlo+ct3jaire2oNcJo6nLq6ZCQKUZh0YHWObngQXFOpORCgLWspuUwQ3HHrT6WpFfFm/dM2HZmUV0eL38t4yIoxLnSRiKcWAsq4AAaVD5clbIf1b202vWEgJXkT49CKKr6vEM9Oz0TXlPTOr9Mkk=;Uyf6xVeYvURkJlmw1prqIg=="
 ---
 

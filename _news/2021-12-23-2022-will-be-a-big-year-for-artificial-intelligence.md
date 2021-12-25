@@ -147,7 +147,7 @@ related:
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri"
+    webUrl: "https://www.linkedin.com/pulse/nft-20-top-ai-stories-2021-predictions-2022-human-brain-steve-nouri/?published=t"
     type: article
     provider:
       name: LinkedIn
@@ -172,15 +172,6 @@ related:
         width: 814
         height: 415
         isCached: true
-  - title: "The Evolution of Cyber Insurance in 2021 Through the Lens of expert.ai's Artificial Intelligence"
-    excerpt: "Expert.ai (EXAI:IM), the premier artificial intelligence (AI) platform for language understanding, today released a new Expert IQ Report, \"How Cyber Insurance Has Evolved in 2021.\" The report provides insurers with insight into unprecedented change and risk being driven by the pandemic,"
-    publishedDateTime: 2021-12-20T14:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-evolution-cyber-insurance-2021-through-lens-expertais-artificial-/2021/12/20/9514696.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "/ldgOFsKhiE2cCx/tUOsWsIdFXHPbXT4XAKPHD0B3WJZcHeoAHnChwIHXfUIZr/tKwnR9JBtGV99uiJ2yUa+mAwyuHZbApEh5vWdam+wArGxBl3Es15sK0Mp5waGEaBYp9ImOEdrgyUDUeRzQ2+84iuiyThKvoG6OWxejnbetvRZPwRifKRSnKDu3uR9NvfbeGCV3YuGsMoRAExVkml2m//nPPE8lPJA0HhHolG0CeY8W7ixbLwYmXJSItkeMnkdNdXYnPbQiGyFVxEM0Qc3NPDjmvhr02bTN56gpqpFDZHjvXCAye0+6LFoRucuXjnzqnk5sSPl+NiyE22gtLA620GBwmbEn9eanGpfR+3XMCo=;oYU9Tf4jalPcy3w+TJfz9w=="
 ---

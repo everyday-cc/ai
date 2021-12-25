@@ -7,7 +7,7 @@ originalUrl: "https://nehandaradio.com/2021/12/22/cassava-scales-up-investment-i
 webUrl: "https://nehandaradio.com/2021/12/22/cassava-scales-up-investment-into-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DARPA invests in AI that can translate instruction manuals into augmented reality"
-    excerpt: "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems."
-    publishedDateTime: 2021-12-20T14:36:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 149
-    images:
-      - url: "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg"
-        width: 1024
-        height: 731
-        isCached: true
   - title: "Cassava scales up investment into AI"
     excerpt: "The firm’s chairperson, Sherree Shereni yesterday said in a commentary to financial statements for the half-year ended August 30, 2021 that the strategy was anchored on a sound capital and liquidity position,"
     publishedDateTime: 2021-12-21T22:00:00Z

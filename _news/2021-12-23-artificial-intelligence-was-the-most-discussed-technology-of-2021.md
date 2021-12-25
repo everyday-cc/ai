@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-th
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
 type: article
 quality: 157
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
         width: 2764
         height: 1555
+        isCached: true
+  - title: "Best AI Innovations in technology and medical sciences of 2021 that made it special"
+    excerpt: "AI’s strength and influence have already been demonstrated. With each passing day, the field of artificial intelligence continues to evolve and improve. Because of the huge potential that it has on the world’s most pressing issues,"
+    publishedDateTime: 2021-12-25T05:03:00Z
+    webUrl: "https://technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/"
+    ampWebUrl: "https://technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 53
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/From-Fantasy-to-Reality-Tech-Innovations-to-Look-Out-for-in-2021-03.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "JDOMn9/F8C0Zx6eZTC+AqCDX6Celjon8JFCw5oUaCLEDTna4Joj1U2E7KSRSLVw5sqnrvVIeFelR8/xFXJP8uwJCNairywNebM9NcuKNxiQnIMGDb7zaIClARU0hf2mBWjIQL20n1Y709Gomt+l4+dxfJHsCRDbZCw2nUN6OObbjP1CX9joqfjROSQnyFAuTeEvo4VyTG++IZbPlMgCvAENGydNu30Yskui4F9RN759wpX11/VevNx6koHwcbupfGXS7WSsN83Im+xIXd+devL3Ygu7QdxYHTHr6XP8YPkvvElwhwJ4ekTvRj/Fb/XD6U8vHE7orr19Smi2Me+JBUYMr157N4PY7cVB4YOIvUsdVPHGllbaoDU3kMqut5rCm+E6FjvKLp+pzsRF46uAySWbFwVPfl8aR0u6vTlijiWUu2WrnrYvGr5ZCu4V8OhKLjlAglgBCeWwefK3Y6/nM4354Zh0WFz+Q0aDze0N195V1sxncDDphmTrOU9uSQpUvB8zTue79LPRAmBtFFWMPHQXZQe2NyY/CbH7BxIWqxf8=;1Hp/MkpOctphUuhPMkFMDA=="

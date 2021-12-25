@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-pl
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
 type: article
 quality: 89
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -143,22 +143,6 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/a/t/e/image.related.StuffLandscapeSixteenByNine.1420x800.4ywes8.png/1640125759149.jpg"
         width: 1420
         height: 798
-        isCached: true
-  - title: "Exploring the factors that influence drivers while transitioning from highly automated driving"
-    excerpt: "In recent years, many companies have been investing in fully and partly autonomous vehicles. Before these vehicles can be deployed in the real world and on a large scale; however, their developers will need to ensure that they are safe and can deal effectively with unpredictable challenges."
-    publishedDateTime: 2021-12-20T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-exploring-factors-drivers-transitioning-highly.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/exploring-the-factors.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Cars are getting better at driving themselves, but you..."
     excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."

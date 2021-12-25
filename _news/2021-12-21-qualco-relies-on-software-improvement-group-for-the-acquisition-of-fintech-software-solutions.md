@@ -71,20 +71,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Rocket Companies to Acquire Truebill, Adding Rapidly Expanding Financial Empowerment FinTech to the Rocket Platform"
-    excerpt: "Rocket Companies, the Detroit-based platform company consisting of tech-driven real estate, mortgage and financial services businesses ? including Rocket Mortgage, Rocket Homes and Rocket Auto ? today announced it has entered into an agreement"
-    publishedDateTime: 2021-12-20T14:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20165303.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 2
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "63byiEgrt7xGSUOTelwZBjbTP8MT+fDQKSijh7hrSPXAR4Fs1XZvNPwBZef/5mm0+9fKmvTt9vMxVwFNKhXRunF56jIWQlTAf4OHZ0zVGv5kjyIiTOnFlW4MAv8wYaqZqAkFfhkMcQC7mFciiSI0X4wDh1TdmJ1xpUS/0kF3gUOmhjco0ghRkem0TFoR+slSvpr3WiicT8U/OIy0+EuwCXJz7OxeewISjCDXzwHOEroPTyQfYiHruJKD4NbyKwTGkjY8GbtD46SLUS9KZBxp8GVHwIQIkKZoig0q2KV8A3tF9xZ827KxcHwXVMWwi5yxDJRCwR/V6SdPsskE4lSr0Y7DPtXlALEAjYxqJOyaaAs=;TXcHZmd7D3LoyqyC5QCz3Q=="
 ---

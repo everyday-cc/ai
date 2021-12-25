@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement
 webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
 type: article
 quality: 139
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2114d7a803060327c8938%2F0x0.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Mainstream adoption of facial recognition can have sinister consequences"
-    excerpt: "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans"
-    publishedDateTime: 2021-12-20T14:15:00Z
-    webUrl: "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
     excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."

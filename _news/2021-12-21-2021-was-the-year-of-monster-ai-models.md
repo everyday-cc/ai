@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 618
         isCached: true
+  - title: "Best AI Innovations in technology and medical sciences of 2021 that made it special"
+    excerpt: "AI’s strength and influence have already been demonstrated. With each passing day, the field of artificial intelligence continues to evolve and improve. Because of the huge potential that it has on the world’s most pressing issues,"
+    publishedDateTime: 2021-12-25T05:03:00Z
+    webUrl: "https://technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/"
+    ampWebUrl: "https://technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/25/best-ai-innovations-in-technology-an/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 53
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/From-Fantasy-to-Reality-Tech-Innovations-to-Look-Out-for-in-2021-03.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QQuvIENoMWv2tVCo8ERZBF8fWJg5sgv6bdkmHti0y786eG7Pegi+P+9OdLMvPSc/Kz/cuTJ9o8IveqP/d/yINSvVxCXYrCKIFRpkp9Qool7pvsW/URqBEiJfij5L38GgKUVQffqVu7ZLEZbbvcrqGbhy5JXDvMZ++QBDfDBG7pt6CoahYLYYEcwWTpMQyUjUt+7kIGyRIwhKulnwXdCg1rufpf3RfR9whVJIPTnayGSckkcgvn91hrRCEcicffeTE3IQhX1ydVQYAicpEFtWWw4u/uI7wiBDUpcuee0T30cQUJwImpRUE8INx7lkf9oxetXrt702RPe3XeXJt4z+trdnlrAs6sA+NVG8hngeGjqPn8HKN7f5pIYyCxoezmzwTZvBDUUqqDBUzzVVkj+jzSdw2RjvGvABWoUYutXf7UYGVzkNVqdND+sjnqgxPmQ679k1l3SnscQt17DCqqr/LrsUaK0K3PpNotzTOO10lKZK3n0QwzjYnCXisOPAXmWBtyNb6OS3hMtLy7v0G4YEhg==;rcSFpLaz3s1me1Oafotkeg=="
 ---

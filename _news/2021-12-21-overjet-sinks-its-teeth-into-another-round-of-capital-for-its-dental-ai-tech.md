@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-anoth
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: TechCrunch
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation"
-    excerpt: "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led"
-    publishedDateTime: 2021-12-20T13:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 119
-    images:
-      - url: "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
   - title: "Dental AI startup Overjet raises $42.5M in oversubscribed Series B"
     excerpt: "Boston dental AI startup Overjet has raised $42.5 million in Series B financing, a round that comes just months after its first funding and FDA clearance."
     publishedDateTime: 2021-12-20T15:38:00Z

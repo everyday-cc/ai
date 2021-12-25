@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation"
-    excerpt: "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led"
-    publishedDateTime: 2021-12-20T13:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 119
-    images:
-      - url: "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
   - title: "Overjet sinks its teeth into another round of capital for its dental AI tech"
     excerpt: "Just four months after announcing $27 million in Series A funding, Overjet, a company developing dental artificial intelligence software, came forward again with another $42.5 million in Series B financing backed by existing investors."
     publishedDateTime: 2021-12-20T17:00:00Z

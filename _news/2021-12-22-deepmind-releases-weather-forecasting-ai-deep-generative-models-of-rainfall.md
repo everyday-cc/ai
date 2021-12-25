@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty"
-    excerpt: "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks."
-    publishedDateTime: 2021-12-20T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/"
-    ampWebUrl: "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1"
+  - title: "DeepMind cracks 'knot' conjecture that bedeviled mathematicians for decades"
+    excerpt: "T (AI) program DeepMind has gotten closer to proving a math conjecture that's bedeviled mathematicians for decades and revealed another new conjecture that may unravel how mathematicians understand knots."
+    publishedDateTime: 2021-12-23T18:29:00Z
+    webUrl: "https://www.space.com/deepmind-artificial-intelligence-pure-math"
+    ampWebUrl: "https://www.space.com/amp/deepmind-artificial-intelligence-pure-math"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/deepmind-artificial-intelligence-pure-math"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
+      name: Space.com
+      domain: space.com
+    quality: 57
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg"
-        width: 1068
-        height: 601
+      - url: "https://cdn.mos.cms.futurecdn.net/Hiqhdc8Q6f9ztSWDY7M88m-1200-80.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "PM7VWPvB9oC+GAR/IMhVqyg2kKGnyY3dmUWitezeb9xWs27H66kZ9DdIcS8Zt06FtuzHubpQknNaImDEHkKVb0jjbCEb4BOlIEq7HokCRGfIHMwhZNbmwtnA4kXQPkpuLDqJWn2TTgIo5LvS1ZXzsRAdDlCeqLl+7pPWwAz1KiwjXsbW7Zdujk3gNqeYWsdmSo8tFM/YXIv0N8WymuwtpePBQoxwY+yKeoqB76X/DhFr5vtU6kudIkUu3sO25arEqhCe2AGTUIMxCsOku1ZXva+jzGx0ffWlitYZTc+dyC+WY9tiQzfgZk3KM+NvfIOkIX3uqTuOhxXjhFWRM9avHtuk08GiT3D6nY+DMfSCpd0=;X353mlBd8OXFEvo7X/TczA=="

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Mainstream adoption of facial recognition can have sinister consequences"
-    excerpt: "To grasp the scope and consequences of these systems we must also pay attention to the casual practices of users who apply face scans"
-    publishedDateTime: 2021-12-20T14:15:00Z
-    webUrl: "https://thenextweb.com/news/mainstream-adoption-facial-recognition-sinister-consequences-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-6-2.jpg&signature=37e2d6459f2ef380fc9ff385aad19f0f"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Face recognition: Digital scrutiny"
     excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
     publishedDateTime: 2021-12-20T15:16:00Z

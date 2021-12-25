@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-co
 webUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
         width: 1000
         height: 482
-        isCached: true
-  - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a rece"
-    publishedDateTime: 2021-12-20T14:41:00Z
-    webUrl: "https://menafn.com/1103404127/UN-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/20/TC_cf22bimage_story.jpg"
-        width: 1443
-        height: 1057
         isCached: true
   - title: "UN Fails to Agree on ‘Killer Robot’ Ban as Nations Pour Billions Into Autonomous Weapons Research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
