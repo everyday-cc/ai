@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
-    publishedDateTime: 2021-12-20T19:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead-1031057469"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
     excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
     publishedDateTime: 2021-12-21T10:00:00Z

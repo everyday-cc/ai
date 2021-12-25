@@ -6,9 +6,6 @@ publishedDateTime: 2021-12-20T20:20:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: WFMZ-TV
@@ -24,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "KrCIgMv+QQd+BXubFCdH1fCzt1E3fsk8WC0tcmzdDGsrUu3NZLNj5h3HmCZDlKVzYdImvBdsPqdyMG8P2V1H5Ao8vswusdIrRU0pRCw48ewJIiBunCJKrhEF5egRQ1EVBr4vD7kHLXpY5vEl62OCyexvcpn+xTQi2eF9py/L+ne2mrW8wB7Vhz8NNd0sFd8wcR6eiXpErSLQOv+smHc5/RTnW4cxv7Z9m2jQZil1ARi1drdtliTbb8/48PSZZ2KGT3QMLFrfKwXHpAxJ0Re91EDb6CBJhlTbo2XmnD7q+enwvxmEzwpHrg7NmRizLnD02valaDWkYAOhJHWShWAM4CtLKwPIVyVSHP/rZg4aUsg=;ndSEtP6UttkfTK16Cy9L3A=="
+secured: "DHzvPO9QDXRzuUBV4N23DFHYqvRPVQwUUhTlS5iryOAX2EwGFzlicl4+PmqLWoKaENhGhcYCsy05A8M3jebRDEMO2zeurAfBd8HowtggmkMnBBgFtqLssgPcDoZhmIxc2RDWKiNtiMV06JoDIK+mPzAYi2no9kcNQ7MU4+Dw3t8pQ90DuPRbbOl38icanvgsbs9L5+nZ2cqEYWLgk2jzSLuTNN8w/p7Q3U7yB2QezvIPhB8Skr9VcJowUXHnskfJHMulPDgd/Mi/pYHwScO1fNQ+Hgb2VFXpGCbQ5308ltpZMKW4KwXd2Z2cLneBr01FrRPgzV0JvZWWpqfUspjmi3CIjBm0GRYjFy06fSvsWjU=;WhamnrGmvorkUKk8IKYPiw=="
 ---
 

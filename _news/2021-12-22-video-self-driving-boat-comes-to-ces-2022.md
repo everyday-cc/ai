@@ -65,15 +65,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Holiday cheer may be in the air as Christmas approaches, but Tesla"
-    publishedDateTime: 2021-12-20T19:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead-1031057469"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Tetris in your Tesla? Feds probe potential of drivers playing video games behind the wheel"
     excerpt: "The U.S. has opened a formal investigation into the potential for Tesla drivers to play video games on a center touch screen while the vehicle is in motion. In a document posted Wednesday on its website,"
     publishedDateTime: 2021-12-22T15:00:00Z

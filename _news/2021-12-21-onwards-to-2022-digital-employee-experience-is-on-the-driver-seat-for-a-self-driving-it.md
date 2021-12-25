@@ -21,12 +21,12 @@ topics:
 related:
   - title: "Automation Is Driving Us Toward Self-Employment"
     excerpt: "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route."
-    publishedDateTime: 2021-12-25T03:10:00Z
-    webUrl: "https://www.timesunion.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
+    publishedDateTime: 2021-12-25T00:39:00Z
+    webUrl: "https://www.chron.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 24
     images:
       - url: "https://s.hdnux.com/photos/01/23/30/65/21859668/3/rawImage.jpg"

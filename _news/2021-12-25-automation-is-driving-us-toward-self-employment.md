@@ -2,17 +2,17 @@
 category: news
 title: "Automation Is Driving Us Toward Self-Employment"
 excerpt: "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route."
-publishedDateTime: 2021-12-25T03:10:00Z
-originalUrl: "https://www.timesunion.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
-webUrl: "https://www.timesunion.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
+publishedDateTime: 2021-12-25T00:39:00Z
+originalUrl: "https://www.chron.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
+webUrl: "https://www.chron.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
@@ -35,6 +35,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "WisBYG9Y1YBhCDxMwXMTSrF9yUGmGw9No6Te1z1yro0Y/pboP73VdPxKkXXN2K9yh+KXBKzoMTEC9jv3WH1PpjXW7e2jzK/hKVk8L1Cf2uyTVAOzIywZkByjvcLs66E4eVN9dp549+a41nMX9denTDc06qk2mZYpp58wId9dQyDA+q0QK4vwWHtpzAJd6gAiEzSUE5uw3T5vb5AAFCMo8+TLzpR9TS+csXLiQwX/CFmQdvFFKTJR7JqjqIg8A0PePpavwc5idjP0KsbSd5Jfa2bheRxsISGfm7mmXRHlEk41k7zlOvTg7D2MiVJ1DKOUYc3Wphhd7u75cyyDtGUc4GAeNsJKELnON4yvv3xwV6PVsMefBYvGppajmTcJhnvy1U8tCdn8fkOT+tZ8Ihq4HvtdcPK+vICVk2ULFHqElUFmlEqrCTkF5geO9qU9NMBST0Or3jC90OmvOdIzexEBLa8cLNubZBPkQaPakfVm/9MEK5Xrw6yALjG7y8zUP+qp4qp5lhN/cbJAOeitsO+RZg==;7yb56it0KE5ys0lto7/EhQ=="
+secured: "lAaiH+aOs/8C/j+a/4xvMf9HuWfem2Gcy6NOxHWAS18/h7IWsq0eZSMDImun+5sg2QsQCI8LJHaYkLpFpykVNnWU5DSIixaMZzQPzt9fBtmeGxgq6VIvRmEMk8olkveAWaNi0n9GJsS2moE9urr03F65xTNqrEP8A3me+u3DMBYMtsHakVmb1VnfOPzaykZ4UYuGtNyCpCccXi4fpFbSkMx8yR+DjkZ+yHmbIYw9EhM8ifsq6G1OdUgCigKM2U+D1TcdmQCiBqnVQfu0GqxHFp/HqQ1YGHnGVfni3Z/bBOkfVoLVotCdGx30elw5Vk7IxVxKHdx0UZmmWzqX1DuAMW8FnVm7n5ZQZ2kMX9cGRVI=;iI7c93C6OHLXYEHFQKj4pQ=="
 ---
 

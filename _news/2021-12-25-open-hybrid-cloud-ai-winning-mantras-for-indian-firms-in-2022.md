@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
-excerpt: "By Sandip Patel Digital Transformation, particularly post-pandemic, is pervasive and fast accelerating. It is a business imperative for maintaining competitive parity in today's digital economy. As innovation,"
-publishedDateTime: 2021-12-25T10:36:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
+excerpt: "Our recent Institute for Business Value study highlighted that nearly 6 out of 10 Indian CEOs expect cloud computing to deliver results in the next 2-3 years, and 45 per cent of CEOs in India expect AI/machine learning to deliver results in the next 2-3 years."
+publishedDateTime: 2021-12-25T11:26:00Z
+originalUrl: "https://menafn.com/1103445355/Open-Hybrid-Cloud-AI-winning-mantras-for-Indian-firms-in-2022&source=30"
+webUrl: "https://menafn.com/1103445355/Open-Hybrid-Cloud-AI-winning-mantras-for-Indian-firms-in-2022&source=30"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/lotus_sq_dec2021.jpg"
-    width: 280
-    height: 250
+  - url: "https://menafn.com/updates/pr/2021-12/25/I_0222cimage_story.jpg"
+    width: 400
+    height: 257
     isCached: true
 
 related:
@@ -188,6 +188,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "HWCCEeH9a61GPrWPf0VgMWmRSsBzf5KjSP4JOlFToHfdlDov9tImJSWUKH7syhAs/jG3Wa32Q/5p4/V/T72QdEhCCrn0j00eNzKsn5/e6IKprN7rcVYBdm2XyRE72lTa8eSyDeBgKRiWi8JjnVXJzVi2zXBWfQIRLkmRkmdzNYXcFaiWZW7f8oZ4fMZHM5SHF5ub2jv5NKjvJcCHmhcbFkjvt758Cqe/VpQRxKBIJY5NYwSxYPxWIGkCjQ8dLQ//hSNYz5dV8BEn0iTMa3vw1pD54GNB1VJzl5x6nBK7UC7nfTWOMXLw2ZB3aDoMVfQAc0C/WXHee4dVvjrORJHmzHcVURw6baAaUrvDamn3j5I=;+BBykItFLQjCQGKYFFO1dQ=="
+secured: "pbOKYKleD20yi4ff8RAFUpKwWHArc1X69vzGqAClGky2DMskTXqkg/Fjt3i8+C7M3eAfgnQxR9ePq0r44sEmNW1tp19dYRiRgVlKlsY4QsChxHXCK9Fmg9hGcRkQlAZADZsI4/t2ofc8h0lRGseh8b0uGvLWNukXZ0pPkwkF1rJdvxXH/niLrY9yNfM9Ms9UuC1x/2F4aNsHDOYlEOriR1VesUjcXgk3WIAPHF+CtCGNw/bC8s0mO0H4tu0zZG1bZwH5lHqHNPObeObPl7AVDzmXANIHYYsXpasTmYEfaSmeegPwNvoGN8IlUifqou5PJ0bz0azerqtpGQ9THqJ3xZweZx+qkDq/iP3Qb4rRS1Y=;rBRzeVS1pjJU1F1425lq6w=="
 ---
 
