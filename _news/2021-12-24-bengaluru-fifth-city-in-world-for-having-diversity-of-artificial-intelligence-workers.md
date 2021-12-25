@@ -9,7 +9,7 @@ ampWebUrl: "https://thelogicalindian.com/amp/uplifting/bengaluru-fifth-city-in-w
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/uplifting/bengaluru-fifth-city-in-world-for-having-diversity-of-artificial-intelligence-workers-32788"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Bengaluru Is The World's Fifth Most Diverse City For Artificial Intelligence Workers"
+    excerpt: "Bengaluru was ranked fifth among the top 50 cities in the world for having the greatest diversity of Artificial Intelligence (A.I.) workers.The parameters that were measured included"
+    publishedDateTime: 2021-12-25T17:14:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/bengaluru-is-the-worlds-fifth-most-diverse-city-for-artificial-intelligence-workers-721594"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/bengaluru-is-the-worlds-fifth-most-diverse-city-for-artificial-intelligence-workers-721594"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/bengaluru-is-the-worlds-fifth-most-diverse-city-for-artificial-intelligence-workers-721594"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 50
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/12/25/1137691-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "lUfdH7pJYmokd7aUNAITj/rH+pLNZwrwWlSQMN3jx568suFF1rq7dp6hKT9j6XZBtjTTpGtcULnNtIu5V6DDBbBjuC6/1QdFNWDMwjz67VicFt/DdnBkRb0AWZGm2xhJyNTvHcJWEJ3hsxlWM+uZzpWcTAeX6xjjpai/CEedKws0nXcrtsFDYZanyW0m671WAlQR2P77jT7Yr1eGSzUGYki9lFCtUm6p4ytAp8dZOcNq0xN/R7F0dziBQXLT7ot/V98m4yD8jcJe+NswGTOyxlVZwFMaWtLnsLy3LUjVa16miL/8PrmpGvugUTxoEtTJXeJNQkXNOE/LZwgiK+lGz+2hGPskzXFgKW92AOihMT7zaq3U5X1hQMxcSBTK2SXqoVwWwFOflCl13hb+GzRX6InwRIT4PvSJqk6DUBRfxQyAAQ2WyLn9cXQP3zbHZh16lljafAT+aoIwleDLHJJbLXVy2CxTsqZCh3wcGPbVUfSGRimEGiUAeUrTxrMGLSvCpufQbvCMyjztPjIMAkpz5Q==;coYR2vqe1GkfeK73wKfvNw=="
 ---

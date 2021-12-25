@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -26,84 +26,46 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
-    excerpt: "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market."
-    publishedDateTime: 2021-12-21T02:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
-    excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
-    publishedDateTime: 2021-12-23T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2021-definition-size-share-segmentation-and-forecast-data-by-2027-2021-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
-    excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
-    publishedDateTime: 2021-12-21T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-gene-therapy-cell-culture-medias-market-2021-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2027-2021-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Edge Device Market Comprehensive Coverage 2021-2027"
-    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Edge Device market by type, application, end use, and region: industry forecast and market potential analysis,"
-    publishedDateTime: 2021-12-22T13:29:00Z
-    webUrl: "https://www.linkedin.com/pulse/global-artificial-intelligence-edge-device-market-tejas-baraskar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFoKFePlZuDzw/article-cover_image-shrink_720_1280/0/1640179480385?e=1645660800&v=beta&t=RwybDKlmLTtoDy_5PSigyW1YYkuxwOBOgcy6vtR5hRo"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"
-    publishedDateTime: 2021-12-23T05:50:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5199104-global-and-japan-ai-based-edge-computing-chip-market-insights-forecast-to-2027.html"
+  - title: "Global Healthcare Artificial Intelligence (AI) Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence (AI) Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-21T15:17:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5167816-global-healthcare-artificial-intelligence-ai-market-research-report-2021-impact-of-covid-19-on-the-market.html"
     type: article
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 30
-  - title: "Global Artificial Intelligence Software Market 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2027"
-    excerpt: "MRInsights.biz has offered a new research study on Global Artificial Intelligence Software Market Growth (Status and Outlook) 2021-2027 that serves in-depth information on product types, applications."
-    publishedDateTime: 2021-12-23T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2021-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2027-2021-12-22"
+  - title: "Global Artificial Intelligence (AI) in Real Estate Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Real Estate Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-21T23:46:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5164648-global-artificial-intelligence-ai-in-real-estate-market-research-report-2021-impact-of-covid-19-on-the-market.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 11
+  - title: "Global and Japan Self-driving Shuttle Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Self-driving Shuttle Market Insights, Forecast to 2027 report by QYResearch Group. Self-driving Shuttle market is segmented by region (country), players,"
+    publishedDateTime: 2021-12-22T07:29:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5187787-global-and-japan-self-driving-shuttle-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
+  - title: "Facing Burnout and Changing Revenue Models, Healthcare Looks to Augmented Intelligence for Operational Improvements - ResearchAndMarkets.com"
+    excerpt: "The “2021 Augmented Intelligence for Health Care Operations Market Trends Report” has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2021-12-23T17:29:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-artificial-intelligence-3f67befc1f924a1a9f653565a3a300f9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "tJIc5HDNrp2vWZuK8Iwhaixe5rqyzanbK/Hi0V/Se2bEX6WgbkXv5OYHjmkanZ3gFQR/GXjPk2vQGleGncYkc7cpMw+7Fv5SpwMG65HTzd/tKx1qMbA2THVLCgNYSp5nbZdQNDnfgpyGJWdo0zkAeXn9mLFWNrjN0EaBhG4wmAFHVY6475rxDYIUNec5pNbf+io4gMInqlTCstXtKitTxIX72pxEmxLd+U6wllJ/Wm6D1MZW9dt2P0Cpz4CzI6GzdnyuD4CAGv2RVZoYMLavlK8URfN/om2/F11t+rsGpbbpCzF5CFZjpRZirYVT7ftfYlx3VsrBexbCrxE1zle9BijZtM88UZlboj1vdgg1v4k=;nv+XOTg0osRw5GromyA7BA=="

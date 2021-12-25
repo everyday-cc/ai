@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultr
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "  \n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/samsung-s22_8025.jpg\n    "
         width: 500
         height: 268
+        isCached: true
+  - title: "Samsung Galaxy S22 Ultra tipped with 108MP camera sensor with AI enhancements"
+    excerpt: "Twitter The style and positioning of the camera on the future Samsung flagship smartphones were revealed in leaked launch posters for the Samsung Galaxy S22 Ultra. Now, a fresh leak exposes a few more facts about the future Samsung Galaxy S22 Ultra’s cameras and capabilities,"
+    publishedDateTime: 2021-12-25T17:43:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-s22-ultra-tipped-with-108mp-camera-sensor-with-ai-enhancements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/FHUj4oNXwAUAdcX.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Galaxy S22 Ultra main camera may support AI image enhancements"
     excerpt: "According to the noted leakster Ice Universe, the upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence,"

@@ -77,6 +77,20 @@ related:
         width: 500
         height: 268
         isCached: true
+  - title: "Samsung Galaxy S22 Ultra tipped with 108MP camera sensor with AI enhancements"
+    excerpt: "Twitter The style and positioning of the camera on the future Samsung flagship smartphones were revealed in leaked launch posters for the Samsung Galaxy S22 Ultra. Now, a fresh leak exposes a few more facts about the future Samsung Galaxy S22 Ultra’s cameras and capabilities,"
+    publishedDateTime: 2021-12-25T17:43:00Z
+    webUrl: "https://techstory.in/samsung-galaxy-s22-ultra-tipped-with-108mp-camera-sensor-with-ai-enhancements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/FHUj4oNXwAUAdcX.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XBNqfKC5c1Hhx57pXYBEL0dJQeegWnwf3DNdEOnvMfGFuql192m+5J9makdt1YR2LPDtwx3gJvDhL2ef/NVS2UvjKmMz1/3uHz7XR686X9lZpFzVRJFa9/0kzB5t59sgy8L3URQj7+w855vagWf9MUzwEqqQeHSGQSjvan4qqMAEwYyVMhbRLka2fI0FnJfq9a1LseZPYUoeVDi0smdxJpC9461G1hRgxSLxEpbf+h5oogw1xZuSTnbwqqHCgTitBp991H/k+Penii1k3Y9cmypggSktfUirdcrSVKM3yIZma4KnuaMObvFLsTKgbwQpLiBNdfFvu6eV/gTYXkKzxTwqQrSTpzymgbccTwNZdFw=;ndfOoH4WE7unxrNdBf+foQ=="
 ---

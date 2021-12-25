@@ -9,7 +9,7 @@ ampWebUrl: "https://www.herald.ng/how-does-artificial-intelligence-change-the-sp
 cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/"
 type: article
 quality: 59
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "National AI Centre to anchor Australian industry"
-    excerpt: "The federal government has repatriated a senior Microsoft executive to lead its efforts to coalesce Australia’s artificial intelligence (AI) industry around the newly launched National Artificial Intelligence Centre (NAIC)."
-    publishedDateTime: 2021-12-21T01:41:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/national-ai-centre-to-anchor-australian-industry.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/australian%20ai%20centre.jpg"
-        width: 821
-        height: 462
-        isCached: true
   - title: "How Is the Financial Services Industry Changing?"
     excerpt: "The financial services industry operates in a rapidly changing world, but one it can help shape. Banking, insurance, capital markets, commercial real estate, investment management – 2022 represents a pivotal opportunity for all these businesses to create their own future."
     publishedDateTime: 2021-12-21T19:00:00Z

@@ -26,19 +26,6 @@ images:
     height: 391
     isCached: true
 
-related:
-  - title: "Dynamic Face Recognition Systems Market Detailed Analysis, Growth Factors, Top Key Companies, Trends, Developments and Forecast by 2027"
-    excerpt: "The growing relevance of the surveillance business increased government and defense sector investment in facial recognition technology and increasing technical innovation across industrial verticals are the primary drivers driving the growth of the facial recognition market Face occlusion and face"
-    publishedDateTime: 2021-12-23T09:49:00Z
-    webUrl: "https://www.openpr.com/news/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
-
 secured: "acXh9b8IBqxxCzBSWTxatAQzox3DSzJ0wbNeRtDNUPy7sohujsdJXLDWKmz08+b3AtVKcXkqwj0zaAeNLJ2eHbDJECLMUUDA15C/5VR4nTzte/gyzRyBhwDbVtAY1L6C3w4mDKEjL3CcmAHXQQ7HpJ5Qye4WMHqZ36Szv8aTsv409kdVgwthzB8wN8IYRGxyk3PeJm1G21i+J0HzqcqfuVwApfdZ20IIQOFvtgKBvvvqlQ28EFOaNXgCQbDV7TV1u4PKLhe/DjlUYsJav2CdfoY0ivcMBjUH3SN8tc14pubQxorsRP7JZMK4twgl3xNjcCaLx4QpsMce/tSQnuem0xWWHxLuQ7PL32w1+QG+KHWcsGi221mgcL183tR6B4Qj8TqkYYWqfh8uTMYNtKmu5PWto3GeWf+rvYR8tK+p9lEJUcPjYe18rQFOZuXgeVKravpHbw291u4kAPyAvbJJol0CnVaybgk5iMl5hwCLy81ZBsch1PAqx9jbuFG/nKuT9kdaF8RLFBEjA8VkQGkDbw==;b2Y/Sn38O7M8LqfCteD1Vg=="
 ---
 

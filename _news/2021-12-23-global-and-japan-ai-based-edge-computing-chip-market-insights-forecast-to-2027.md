@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
-    excerpt: "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market."
-    publishedDateTime: 2021-12-21T02:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
     excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
     publishedDateTime: 2021-12-23T02:36:00Z
@@ -46,20 +32,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
-    publishedDateTime: 2021-12-21T14:55:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Global Gene Therapy Cell Culture Medias Market 2021 Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2027"
     excerpt: "MRInsights.biz presented a global study on the Global Gene Therapy Cell Culture Medias Market Growth (Status and Outlook) 2021-2027. It will be beneficial for firms, investors, and other individual customers looking forward to capturing the market share in this dynamic Gene Therapy Cell Culture Medias industry."
@@ -102,6 +74,31 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Dynamic Face Recognition Systems Market Detailed Analysis, Growth Factors, Top Key Companies, Trends, Developments and Forecast by 2027"
+    excerpt: "The growing relevance of the surveillance business increased government and defense sector investment in facial recognition technology and increasing technical innovation across industrial verticals are the primary drivers driving the growth of the facial recognition market Face occlusion and face"
+    publishedDateTime: 2021-12-23T09:49:00Z
+    webUrl: "https://www.openpr.com/news/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+  - title: "Global Automotive Voice Recognition System Market Size, Share & Forecast 2026"
+    excerpt: "Increasing technology advancements, rising demand for connected vehicle features and growing sale of high end passenger cars to drive global automoti"
+    publishedDateTime: 2021-12-22T14:41:00Z
+    webUrl: "https://menafn.com/1103431749/Global-Automotive-Voice-Recognition-System-Market-Size-Share-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/22/pr_11313_fb50cc5a_image_story.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "dSe2z4b6UMgH1+7Kur6280eGBV2uM71THLDORD2vlUPBfWzGrlC7jMhMJ1Cr7bNngNP9wZ3hawOD50y9vgbyGTbvCnMhPKfzoYVDt/w5KL2hhicfgIl8MmgGYeH78Mw7BEghuRyP8HL+Xbzgf0myushYvCsn/afNRtOjM3Obts+R1PF6HQmNCSyh6Z12JBUA4x9dN5DA4xyr3LBZbgduQlCjsoiWzOADnpo+Lna4Zd56qobZCYNxkNzlAX6Km6ByNzD+wOh/1HoZJlqLU6DovR4f5clOtzXMMMavx7gmynjFEm0KlbDeZ5DPL7FYqrdDcJe4zmOsjAf0Oi5/z5xMUsKbEQiV3I44r+KUdkaa89c=;UhH0I81KM7ZAMrDTrQK1Iw=="

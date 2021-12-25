@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemi
 webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-artificial-intelligence-3f67befc1f924a1a9f653565a3a300f9"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,49 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence For IT Operations (AIOps) Platform Market Research Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence For IT Operations Platform Market Size, Share & Trends Analysis Report By Offering, By Application, By Deployment Mode, By Organization Size, By Vertical, By Region, and Segment Forecasts,"
+    publishedDateTime: 2021-12-21T14:55:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c879a09ccd524310b473ab84bbade7e4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Healthcare Artificial Intelligence (AI) Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Healthcare Artificial Intelligence (AI) Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-21T15:17:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5167816-global-healthcare-artificial-intelligence-ai-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 30
+  - title: "Global Artificial Intelligence (AI) in Real Estate Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Real Estate Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-21T23:46:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5164648-global-artificial-intelligence-ai-in-real-estate-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 11
+  - title: "Global and Japan Self-driving Shuttle Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Self-driving Shuttle Market Insights, Forecast to 2027 report by QYResearch Group. Self-driving Shuttle market is segmented by region (country), players,"
+    publishedDateTime: 2021-12-22T07:29:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5187787-global-and-japan-self-driving-shuttle-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
 
 secured: "aXL48SkRcx8WPfHz1yIkyeEIpuPJWN4v46yNgTNjDZGAUvGMB/9gydCDBNP/bvHEmIA2wJT1mIhr3enXf+fnL4H9scLH8pWt6Tzim+uXcUjlPV0DJlxyJlKXZz1KHKI2Wi2pSSqF63X3YSwqG+5WPcj7oKcO2uHZL7jw8a6w352LGZn8s3psXJYcE/V3KHam1k+AsdED1OmrwJ1kxdNtBn02Jatc2cojO39ge7bZBoMAaaaAl+HvQaJfCRCIYuJWIycM4TNvYeYa7WrIZLnmcLsh5FfVEN6FeLeaPfKjOPMhRbRtqF9WV8Xfi5OIMQBBH/fPqzgNQg6GVB3ZDA+0iKs0EKSScE9wxMOEDXSEOZc=;J/798NRMVyhNYx2NChm0ZQ=="
 ---

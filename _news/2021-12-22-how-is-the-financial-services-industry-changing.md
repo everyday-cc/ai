@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "National AI Centre to anchor Australian industry"
-    excerpt: "The federal government has repatriated a senior Microsoft executive to lead its efforts to coalesce Australia’s artificial intelligence (AI) industry around the newly launched National Artificial Intelligence Centre (NAIC)."
-    publishedDateTime: 2021-12-21T01:41:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/national-ai-centre-to-anchor-australian-industry.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/australian%20ai%20centre.jpg"
-        width: 821
-        height: 462
-        isCached: true
 
 secured: "d6cFOSeuyKtZpyawjDmcH5z4XXRth/MTk9+iWs1NKz6viM+err1DCQCKpQCazJ0MHa+KgwNQlacgOXZE8mNtL/xHbTVtpjEEoI/qlUcF1pBhUlLkgoj94m6CIaUrNa3UJi1kzqESX6l+rKi62M2WS1eY4iS0L9ABLtYPRBksAkJLC2+EX+GLjSz3+0srVa/tk+bOSKHmSY/6cBpuubvNpjy0OQQVxdM7KXSR+w97O77BHy1UXIedUOGhkcy+cx0b1gGjKciuOMUhG/ts0oKL0L5ZPPXX7W90Dxg08Hp0Vzf7tYaVa1TuB2peYoGA6yRT+36aDUDXTOK3xa9nymx0RN6Y/iXXQ3OqmqeH99zDha4=;gX5SgEpNl3RQAzoAnPCSKQ=="
 ---
