@@ -276,50 +276,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-22-leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
-      "title": "Leopard Imaging to Showcase at CES 2022 with 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
-      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, and an",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24724562/leopard-imaging-to-showcase-at-ces-2022-with-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713799/Leopard_Imaging_CES_2022.jpg",
-          "width": 400,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24724562",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562",
-      "publishedDateTime": "2021-12-21T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
       "title": "Nanome uses VR to build molecules and reality check AI recommendations",
       "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
@@ -1159,6 +1115,58 @@
         "AI Ethics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027.md",
+      "title": "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027",
+      "excerpt": "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     }
   ],

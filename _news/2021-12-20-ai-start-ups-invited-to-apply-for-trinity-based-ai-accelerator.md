@@ -23,22 +23,6 @@ images:
     height: 353
     isCached: true
 
-related:
-  - title: "Trinity’s AI accelerator is looking for start-ups to enter its second year"
-    excerpt: "Trinity's AI accelerator Alsessor is designed to support early-stage AI companies with mentorship, masterclasses and workshops"
-    publishedDateTime: 2021-12-20T12:49:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/trinity-ai-accelerator-alsessor-2022-applications"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 35
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/AdobeStock_196037730.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "YNrCb4m9lMBBt4u/BBH31MBghqiyiQvvVL5c37Tfr9flQxFSU3Jh8IEOBGFGb6rsdsvvXfU3ksVUAeDnJq8/le0sRWw7W4OKk5tWqCg9sGg+CU9AqfrJbOJPhgOrU4q+swGkvuXUY5iX9GbxBHeRcpLYzZLW0BJhZzDpVDIAt+uMs0pX4GqJUiSFjebsHC09gKyERHHXgJcYNPIMJIRc/cIS4KoE5eD+ux9vdFDRNsE6KWLrziEATfuVJ+znk0WdpBxkYBdiGmKa2DNQrkSBE2U0+DfePKZpa7qgqzHfCRkKgew/0qkHFRXWHDei3qyZV3UbyP0xrNMjynYiajC73L77GF1+y8ont0J418dS5VA=;uxKn9yZkLrrrVNOx4JWpLQ=="
 ---
 

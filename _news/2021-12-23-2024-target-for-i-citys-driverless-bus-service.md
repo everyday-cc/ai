@@ -24,17 +24,6 @@ images:
     height: 699
     isCached: true
 
-related:
-  - title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
-    excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
-    publishedDateTime: 2021-12-20T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-
 secured: "+6nTRdkLOUe6wQApGN60y9qVYvSSV9Oomn9UjI+ercmvFeV3h3wcdfWZZ9byEYGSb5MuTms3vDupksE/TnyQTScQFURHBABPtteefKxNFnoExhorPCgBfltep6E9X5qtYREA98xAHLdq/kLDEhG055VLYTu7Sh8DwDU7TJYi/SrL/XOkrOW7DYLF1BL+G/5o/6pd3wJ5MWKFM94PkENqvAhh7fR8Vt0ZwRi2tzwfYe3yN+BE9RpIzX548gbJqmW67FA5kDBbRYDofSXm+yOXflCf82bBmexU2R5AwyxPZQ1FFYYz+yYx4kLFPiA26VCGY/Sefc4P5ktJDb4HO4ozOiIJnBYaJDzifDDyL3/xDUbDIVsbETZzKWpdTtYlhcIEnerFy3EKmsz86GrxuAeAHml4z5lKzUznB9s7vr+dlG5yDH84pAZFd3YHXIzYKFeCqK2OmxUr504LuuXD8y5+j5gGNAjzIWFb2I28SOqu14u9DG4PSX9tWhsEmtBjKweI2gdNBPznlFWMCtzu8KWu4w==;NV6zpGrUs5jP8ZSV1lpSpg=="
 ---
 

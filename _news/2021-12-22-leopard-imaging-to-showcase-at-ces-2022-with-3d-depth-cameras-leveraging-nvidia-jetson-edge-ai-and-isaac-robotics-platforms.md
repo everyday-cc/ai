@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24724562"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24724562"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 214
     isCached: true
-
-related:
-  - title: "NVIDIA Develops Data Generation Engine for AI Training"
-    excerpt: "NVIDIA is introducing a data generation engine to produce physically simulated synthetic data for training artificial learning (AI) deep neural networks. See more here:"
-    publishedDateTime: 2021-12-20T12:03:00Z
-    webUrl: "https://www.datamation.com/big-data/nvidia-data-generation-engine-synthetic-ai-training/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2020/12/nvidia-launches-a-workstation-ray-tracing-revolution_5fceb7db863d8.png"
-        width: 1920
-        height: 948
-        isCached: true
 
 secured: "WizNDKG/PFyyWYFimGm87D0darpKFZvt9FEYfZL1f6NQNDYKoAM0HGVBMi+LXhjPJ6zSSeHXmTuvAlf6+npV3g5IgGGO6pDspRidnZ/aXOYXI7KBP8RWFQk6EzXUxpHYlcwlmP4zZoHMa6unV8NeChKBABOYB1PCOqNcyq+YaW7mjEmdYruQAg2YnRVsScgjZ0eHFzcrblCLSBxbNruoU7GjX98Rp3tlPW2Gu6BkInhPLoEIIMhRqnnvj1Hj7yXJejGoQgdW6keWSFLXOg3K/DspfrGcclw8oUIemXLwKxoP7IvkDfVbe0X1nZvrCGr/0FLGs0JBdoBG2gLj7XAkt70uP5aZfDeIsOh55UINrRFapk8RW0nawuyMuaOaPseFJMK4bRhq7TfRR/Qwix5ItXDFIFBIvS6a+wDI99rCE7l1DcyugZr5B9+H/I9peOLmfl2V8Rjtuv4XmwdIsPHgFxFSxbYMTdDRUkPGKF+RXdlq0ZCJPiX3xvFE8hfC21jvJx9kNthXVAVJDOl1cmTfjg==;jpTVQB06TQsXAHSgikV/3w=="
 ---
