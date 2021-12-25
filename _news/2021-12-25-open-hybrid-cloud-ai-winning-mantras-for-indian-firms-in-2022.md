@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Worldwide Artificial Intelligence in Remote..."
-excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-publishedDateTime: 2021-12-23T10:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
+excerpt: "By Sandip Patel Digital Transformation, particularly post-pandemic, is pervasive and fast accelerating. It is a business imperative for maintaining competitive parity in today's digital economy. As innovation,"
+publishedDateTime: 2021-12-25T10:36:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI
+
+images:
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/lotus_sq_dec2021.jpg"
+    width: 280
+    height: 250
+    isCached: true
 
 related:
   - title: "Five Predictions For AI In 2022"
@@ -112,6 +116,17 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Worldwide Artificial Intelligence in Remote..."
+    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
+    publishedDateTime: 2021-12-23T10:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Artificial Intelligence for Credit Unions"
     excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
     publishedDateTime: 2021-12-24T22:54:00Z
@@ -125,20 +140,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
         width: 800
         height: 356
-        isCached: true
-  - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
-    excerpt: "By Sandip Patel Digital Transformation, particularly post-pandemic, is pervasive and fast accelerating. It is a business imperative for maintaining competitive parity in today's digital economy. As innovation,"
-    publishedDateTime: 2021-12-25T10:36:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/lotus_sq_dec2021.jpg"
-        width: 280
-        height: 250
         isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
@@ -187,6 +188,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "XTjLkInR5ZAjli+H/5bHhj/Fq7eNVraKFRN7Rv5pnMqUO9iUAaB9oUg9CJYJ509/gVWQj0cvJ25kQd/kpc0Jv2lxBoxQ+hqbANnCHe5aBGterPAF7mjtDW0XkR6ZeUfkwGQC7qszzcWI2HeVZFxcgSXfrX+FipRyFvjPDvecGO9mVw3jxMAq6O11sqXiKup6tQkJdonderqi/H1RZgC7Y2cjMNrPaF219pYHtIEbkyqw0oV07dMRFXH8G+vfU68k6o41XMxoIUNBL7cdMjhRvkinFGxpWnToIW4++31WWPwz6tsutvpcQyQXL+fyIgcw7eOZQTN1YbaQ1IgAQsZdtnsLIe8MS9tErLtBy1ZYYD8=;YQvV0DlUsAeylA2eeBTZ8w=="
+secured: "HWCCEeH9a61GPrWPf0VgMWmRSsBzf5KjSP4JOlFToHfdlDov9tImJSWUKH7syhAs/jG3Wa32Q/5p4/V/T72QdEhCCrn0j00eNzKsn5/e6IKprN7rcVYBdm2XyRE72lTa8eSyDeBgKRiWi8JjnVXJzVi2zXBWfQIRLkmRkmdzNYXcFaiWZW7f8oZ4fMZHM5SHF5ub2jv5NKjvJcCHmhcbFkjvt758Cqe/VpQRxKBIJY5NYwSxYPxWIGkCjQ8dLQ//hSNYz5dV8BEn0iTMa3vw1pD54GNB1VJzl5x6nBK7UC7nfTWOMXLw2ZB3aDoMVfQAc0C/WXHee4dVvjrORJHmzHcVURw6baAaUrvDamn3j5I=;+BBykItFLQjCQGKYFFO1dQ=="
 ---
 

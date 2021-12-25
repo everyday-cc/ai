@@ -42,20 +42,6 @@ related:
         width: 901
         height: 1199
         isCached: true
-  - title: "3 Ways AI Can Improve Cross-Border E-Commerce Shipping"
-    excerpt: "AI is a much-needed business salve, with the power to smooth out bumps in the distinctly turbulent e-commerce supply chain. But adoption should be approached with caution."
-    publishedDateTime: 2021-12-20T18:29:00Z
-    webUrl: "https://www.mytotalretail.com/article/3-ways-ai-can-improve-cross-border-e-commerce-shipping/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1017117288.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
 
 secured: "ue+wbj9sVWZ5HYLel7EaV4Ps7uPNUUQZL27j8noaoPNYhgdAIS88SjEfXPuOzCnhGL+mPIj3rFI/RvsWQHnQQ7YC/ZpMjgKPpmqaFjL3ny3YQfRPMf4jG1/wKnZlj9mP3oooPx2BhEMPXWzBDTEajzcCMclOiLDTSFAPI3Z2q9u4/gtwznKlCUabaACxQEjzyb6LQkVuxp/+RoaPqE76wDUGuh7Ihvr43gJrbYkNAv9ouodd+/NdDxk8IWO7QMvrhFu2EcOt31FUTTJRYg1He7WAFYVfHCV03M+gXGZYlPEmgCQdf8AVNDF9E69NnmkcruecxU0NoY4t74dV0Q8b+fiFUhfeShgZXmQEFs22AiA=;BwFuczhibOYxEGeYIWOf3g=="
 ---

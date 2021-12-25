@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
 type: article
 quality: 87
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -130,6 +130,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/sync/C4D27AQHnZ5_CoZgOFg/articleshare-shrink_800/0/1640352080441?e=1640476800&v=beta&t=5tE1T-N1pmzofNfuUbEjOWJK3_xbX2pgAL20k0Py1_s"
         width: 800
         height: 356
+        isCached: true
+  - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
+    excerpt: "By Sandip Patel Digital Transformation, particularly post-pandemic, is pervasive and fast accelerating. It is a business imperative for maintaining competitive parity in today's digital economy. As innovation,"
+    publishedDateTime: 2021-12-25T10:36:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/lotus_sq_dec2021.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"

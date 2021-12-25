@@ -75,20 +75,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Survey sheds light on law enforcement use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
-    publishedDateTime: 2021-12-20T18:48:00Z
-    webUrl: "https://www.gazettenet.com/Survey-on-law-enforcement-s-use-of-facial-recognition-technology-44107030"
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 39
-    images:
-      - url: "http://www.gazettenet.com/getattachment/74189d81-6a6d-4dd5-a27f-4151f8957090/84163aad3b904f91aed7efedc28fb436.jpg"
-        width: 499
-        height: 325
-        isCached: true
   - title: "Facial Recognition Systems Regulation: Outlook for 2022"
     excerpt: "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,"
     publishedDateTime: 2021-12-23T09:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "3 startups spearheading AI growth in South Korea"
 excerpt: "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,"
 publishedDateTime: 2021-12-16T04:08:00Z
-originalUrl: "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea"
-webUrl: "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea"
+originalUrl: "https://www.techinasia.com/ecommerce-enabler-acommerce-files-ipo-thailand/next"
+webUrl: "https://www.techinasia.com/ecommerce-enabler-acommerce-files-ipo-thailand/next"
 type: article
 
 provider:
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "/8QCEa+pFUOcqcR9I4upMs7wAFOKcAMiOoCGLrIYlgkU34WmqAqLV6woK4mwNSTtrib/dS7SHWddXPR82Xsyqg2fLRBAiC/DlfedanzAGlLmXYAp59rm3n1gudbyOk+3zy7qMWjC2yysapv4wH2fn7YOctxUCY0g68qQoBPK27xcV/dfu724Wn5TLWx4YRRgCx/1Qid/328BAnyaHGUmlciZJlIraIdegj4gGFNjf1aehd6IPzhcJmSSlx9HYnuG/lbR+5ifngcJscJhiQx1w2YWUXMB3u+w2UpuQtJhH4MwT+am30YTqKTN3E3tFi6NyCtpk7/O0ZOXUuHRqbKhAMkXSYMWQ2NYCaqCsuTVClmC+U/Iq662zfoEXANSwv1AVwhybq578F8GHMaVBqNQ9/BgzlEKmsGXu+lcrPpwE/7R33xf5doLIF/mKqlRe5iVqHeLQOUWAEI3sAvdGYkxalOszvaPeZ9k9uJDK8jKhDtjjOhbwnaJHjyj8iEIgDN1GYgfn94RCp7JxC7QsLvzKg==;PbLRfKwfq7Q2kJhgVRXE0Q=="
+secured: "xXXOwOSfqkwkyEWSMQxiaoyBQ+W3ps+slAO09U7xNVtj1dH08b3WB5EI2DAbAOzIdB/HmIQvEoqiKPz808Z+Ee+SFeDg9dS8eTQ8SR5yeup7w9NOQmLW0r/dQamxYA3yOVsNGrcVLgodrMpEhfummeAr2ot8A5ZsbcC5DbabDBTQz6qj0cfb3XonZ9Tq+rkZWGxVS47slPwxtX7y3tEHC+QWnjW5wEHvi86Oq6k5lbSVCDo7Y8JniPZzCRpv7LS4dIm2vJUmD9QvwiIRGxi7VzTis0+IVbIpnO84WpWa12kZ34yX+ygKKm2B/dv5ToAVQZxXzhf1UNi7VkrbZiqutcz+LINYwIkSuTYHkBkVtMblGvovYBynRvLpefdtLytvAmbS+kse9ruS+a8PkLcP7BW4F8W1TRx1IZntgzXNaMgxZlMywVw1y7Izr4X79IG75K8RUfD9Camljmkdmlkm/L45MB/8AVc8j0s0PH3XcB4bfIH7Q15lnXmn8QXw4tBxGTJf0bXU+0ijTo47Tec4Ug==;vUPQKSk+m9W5SJ94klMFgw=="
 ---
 

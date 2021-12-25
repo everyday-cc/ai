@@ -2,26 +2,24 @@
 category: news
 title: "Pope Francis urges humility in Christmas speech"
 excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-publishedDateTime: 2021-12-23T15:38:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
+publishedDateTime: 2021-12-23T13:38:00Z
+originalUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+webUrl: "https://www.orlandosentinel.com/news/nationworld/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -104,6 +102,6 @@ related:
         height: 599
         isCached: true
 
-secured: "hD0RtN9aTeY/tAeehTLxmtmnsJ8QfHaEwyMrcmpLoc4E6LX8uiZx5kKBsv9/pIfaEotUa3Ny4nzjpe1wiwT6AI4n5ak3ru5eefyUuKCyTeH+AdgoxY65iiD6H8LATn1ohVKZnMFjGIZ0RBg6KwwrS3ZrYfA8nDfXo1JH1BL78KNf0V7Ft4vR5ToqaPMZbdPuaauKpoVqpRVSfA83uHSPysXUM2bkQsdZ6LN58DIRjizbMQRxmOmKgmf2Kl8Ahg6ISTkklZReLSTX8KQAo9SwWQyj9r/g1f5cAxn57FBOhh2iJPLktH1+395q0nwcw+T0pr1u90dCyDQJaJ3HgNpwYILWaGHKNxtEpmiTwgyxsq8=;paySEal/QfeuDsJDTovnTA=="
+secured: "utC3skNuTrXcznTHWkxVlW67dHCCna0rAUZK/UVQHzQDaTa8EZd/068IXShetWCBvwj51yUJ7NX9KVohtJQG8lVKlc58uDxF46Tgt6V6/FFANzg/0vVsTbkqMzSEo1d9yYrwJ88PPnZMdAO2/XUugCBB0vK0q0N+ru/356Vlf0RRxYsOeENyF6C872K/dfPlszbn7u5xo6RBUvqUpyDJYe+AmtvXEPMyWTi+Q4sm5nlDa0udqEM2yXkmMLDViOm15xVtJ51gCs56DOrRjNCKedeyjZ9yQDiSfxwMqj/u2aGd7HbV9GSb7ZDLgm6prC7LnQ4ZyoUrM79pdDmmyXvmNSuyj6F6a6r8YrbiVfrD3/w=;CiHN624wC/U3i4yYYYAUiA=="
 ---
 

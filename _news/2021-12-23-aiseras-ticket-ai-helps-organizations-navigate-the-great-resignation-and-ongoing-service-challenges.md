@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Aisera's Ticket AI Helps Organizations Navigate the Great Resignation and Ongoing Service Challenges"
-excerpt: "With the Great Resignation impacting both internal and external services, Aisera, the world's first AI Service Management (AISM) platform,"
+excerpt: "With the Great Resignation impacting both internal and external services, Aisera, the world's first AI Service Management (AISM) platform, has announced the"
 publishedDateTime: 2021-12-23T12:43:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aiseras-ticket-ai-helps-organizations-navigate-the-great-resignation-and-ongoing-service-challenges-301450126.html"
-webUrl: "https://www.prnewswire.com/news-releases/aiseras-ticket-ai-helps-organizations-navigate-the-great-resignation-and-ongoing-service-challenges-301450126.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aiseras-ticket-ai-helps-organizations-navigate-the-great-resignation-and-ongoing-service-challenges/article_88ae31f5-22fe-5a55-9400-eab13daf179c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aiseras-ticket-ai-helps-organizations-navigate-the-great-resignation-and-ongoing-service-challenges/article_88ae31f5-22fe-5a55-9400-eab13daf179c.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1715533/Aisera_Logo.jpg?p=facebook"
-    width: 1812
-    height: 949
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/49/349dbe0c-f0ca-5e35-8bd8-a43c9f9813e8/61c47e32de9a7.image.jpg?crop=1808%2C949%2C2%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "RJ2jmJBAmSp2p7q9PODyakuX2yd6KYmgMbnvI8fyOFZL9sKK0solU5LcRvgdmFLyqQn+KtJze5b/ML8SF2B20dCNmjqg88hkWTIOrNsTdecv7rTzJ6ArGQi/AmSJsbWd033Ga587/qUh0zncFx7ZdVr7Q9guLCGMMSZ3FHKaBnuNjh2pKW9ZPPnEYsykXYU3R6TmUy1GbXz2Q1V9PwlNOqdQPh5MPAM9F0SFEznk3Xp2g5h5Qb7WhYiCIOYt+pdUDnlG7x7rktv4wtJrXC19DJPsAZHuv6lvnE4tNnsDDDngct/lrACTrrIgVdZ/zN9vWamUF2Nfh9qTDCtIkt0PM3bOgvtKfwiTzY+9xOjXlL4g7f9N/IQdsBaNvHuFy56f4SeG0rlRyQ7DcjnCGkFLT/m6GbJj1bBrjnFkw4o3VpmHQy/n59gfgsF7u13Pcr0BuyejIq+xZvGkdXrp6N2kgIP3gNeOM7qT/VzDyTh6mf6bqPmVp5ROrQL2LqwwiEDSJGGjstiCm0VClGOwxINbew==;nJYv9ChrWSZwkw9pcuE1zA=="
+secured: "cG5PDrRod8kkrpo6EQBRjUvQ0r/e/I6pXfgk1OQk8ui6yuZbUxdfvyrtydOFg7hzDMO8xlBCyZoSLNdeIlCFVZZFafoBc/rKBIpLcwutjY7+0Z1H7y3+YwG/nF0UicymVCc+UQNiZQbbkQAVv516KjiddL0Uqty2ACr2yVQf0XPHnHp4QTXokKp3rHt/5oAOOExEyHhf/6EgtSPxXPKKejBwoMHaPkkhG0zQUmoVl8YOcNw1UDJ8BlTfnYUzVRyu7JbE12rbPmzdjz1MKvLyLHs65NYA5bqMss1o/Sb7NpwStV7XYLil4IMjbvllBUeT+WMjRG0APxsTbhogL37tYBDDwTH7FjVAF3p8mqaMreE=;t8qLMcR699cuLbVWvIqgrA=="
 ---
 

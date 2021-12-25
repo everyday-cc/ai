@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202112/hailo-chips-integrated-by-a
 webUrl: "https://www.biometricupdate.com/202112/hailo-chips-integrated-by-axiomtek-for-smart-city-edge-ai-infrastructure"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 877
     height: 432
     isCached: true
+
+related:
+  - title: "Kneron secures USD 25 mln in funding to develop AI chip for smart city infrastructure"
+    excerpt: "US-based AI chip company Kneron announced new funding of USD 25 million, taking its total raised funds to USD 115 million. The Taiwan-based provider of smart life products, Liteon Technology, is investing as a strategic partner."
+    publishedDateTime: 2021-12-21T14:00:00Z
+    webUrl: "https://www.telecompaper.com/news/kneron-secures-usd-25-mln-in-funding-to-develop-ai-chip-for-smart-city-infrastructure--1408645"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 27
 
 secured: "cxGMestHEcAHVMMcDnH3uSlGOzmmvYBjG6AahNjC3YbWpzx15KHhQHXRVo7nqZKSIMuv+4WB01XdalTyrBjCVuqxDlU2Syy8nB2YNUJGEiN2OLIF+arPfmNL5hVxyS0wYn7wdr8o30J7OHhKsNj+Nb4cbHXCtfFBk03aJFTOnjb2Nk2zweEoQNrF0s1ey74DKM/0BZg+n3Fbl8J6Pxx3KdIJWcdFN7bywee6/NyB1zEKbMdo1IGMvDm7/diJd8s5/pSGaVqrGp93fcA3vLpsQVt3T5se+Vp6njha5bHRoyL/lrMOmkTgK8NMOWzm818w7uidU6bNkr4iUf4hUqabOgyuIpUmoG7XP8ijBx+iKSImOBVBfi814U4TOrvFTd2LAooiNMcuNmTvWjIldNJJWhinL1PLDxxSHbZDaT3e4uLrZFzVcSWwiJbknpP9kj2BqzbFRR/pKMAnMhHGL78mebaRyU3Vieq+zKHAkkGVNJOR7sTCaUEuOGuF0s5jiZlB1eH3GzBMnrXs5G6sSqE5MA==;4qz4q+UvsgnOtzSeWvGjpw=="
 ---

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Workforce Training Bill Clears Senate"
-    excerpt: "The bipartisan legislation aims to strengthen federal employees’ AI knowledge, with a focus on procurement professionals."
-    publishedDateTime: 2021-12-20T18:46:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/"
+  - title: "Sen. Peters Bipartisan legislation focusing on protecting Americans privacy regarding artificial intelligence passes Senate"
+    excerpt: "A bipartisan legislation focusing on artificial intelligence authored by U.S. Senator Gary Peters, Chairman of the Homeland Security, and Governmental Affairs"
+    publishedDateTime: 2021-12-20T20:21:00Z
+    webUrl: "https://www.wlns.com/news/sen-peters-bipartisan-legislation-focusing-on-protecting-americans-privacy-regarding-artificial-intelligence-passes-senate/"
+    ampWebUrl: "https://www.wlns.com/news/sen-peters-bipartisan-legislation-focusing-on-protecting-americans-privacy-regarding-artificial-intelligence-passes-senate/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/sen-peters-bipartisan-legislation-focusing-on-protecting-americans-privacy-regarding-artificial-intelligence-passes-senate/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 139
+      name: WLNS.com
+      domain: wlns.com
+    quality: 31
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg"
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/03/Peters_Gary_official_portrait_sm.jpg?w=1280"
         width: 400
-        height: 400
+        height: 507
         isCached: true
 
 secured: "NkatTMtQ3bZvmEs5Xp4m2YpKKJFkpre12qSVMWv2dynM4Gz4UdrkEDGi+9/3bJs6I5P5eJXWrfP78DQa4gnZqpLebdF0NYjwGkJQMJmN1J1mfnF/Pz8mKww6w8YZ90mbd7ijhjyOQ9m+cUI3yxf9GUBsf3tvhfI09lsHyJ3udDiJmKWovlw6ny+VvjXYoI76Mf64eW6a3FGptogXihZXKy+AbxgFOk9EEmSsKepmvTKdQNORUB84O4qgoG9NbpIcQj16qCyVota7DxnJdBYx2JEvpnN+cPKMTIyXUm4VYQhxydrp2lRcG+OkOh3TTwpmyjQ5yRT1DAUCYkmnk799k9Nti4qwh2YP/TgdaNAieFw=;B+KehCH0ID+2Q+q9wBhk4A=="

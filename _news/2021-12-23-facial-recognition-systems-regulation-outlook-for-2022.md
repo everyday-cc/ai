@@ -85,20 +85,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Survey sheds light on law enforcement use of facial recognition"
-    excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
-    publishedDateTime: 2021-12-20T18:48:00Z
-    webUrl: "https://www.gazettenet.com/Survey-on-law-enforcement-s-use-of-facial-recognition-technology-44107030"
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 39
-    images:
-      - url: "http://www.gazettenet.com/getattachment/74189d81-6a6d-4dd5-a27f-4151f8957090/84163aad3b904f91aed7efedc28fb436.jpg"
-        width: 499
-        height: 325
-        isCached: true
   - title: "Law enforcement and civil society grapple with facial recognition policy, transparency"
     excerpt: "Civil society groups around the world are calling for greater transparency in uses of facial recognition by police and the way technologies are procured."
     publishedDateTime: 2021-12-21T22:49:00Z

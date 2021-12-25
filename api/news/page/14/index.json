@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-10-jacksonville-dentist-goes-next-level-with-robot-assisted-dental-surgery.md",
+      "title": "Jacksonville dentist goes next-level with robot-assisted dental surgery",
+      "excerpt": "Even though the technology is robotic, Arauz maintains control at all times ... but takes advantage of the human mind in the brilliant aspect,\" said Arauz. Arauz received Yomi in February ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "originalUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/02/NJDN/a0c0e71d-9897-4de8-9847-c29fada6ae52-drarauz.jpg?auto=webp&crop=959,540,x0,y128&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jdnews.com/amp/8768281002",
+      "cdnAmpWebUrl": "https://amp-jdnews-com.cdn.ampproject.org/c/s/amp.jdnews.com/amp/8768281002",
+      "publishedDateTime": "2021-12-10T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacksonville Daily News",
+        "domain": "jdnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-how-machine-learning-is-changing-finance-forever.md",
       "title": "How Machine Learning is Changing Finance Forever",
       "excerpt": "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially.",
@@ -1112,49 +1155,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-k12-schools-can-use-artificial-intelligence-in-education.md",
-      "title": "How K–12 Schools Can Use Artificial Intelligence in Education",
-      "excerpt": "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "publishedDateTime": "2021-12-09T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI chip maker Kneron raises $25M for autonomous driving push"
-    excerpt: "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles."
-    publishedDateTime: 2021-12-20T18:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/"
+  - title: "Hailo chips integrated by Axiomtek for smart city edge AI infrastructure"
+    excerpt: "The new system enables more efficient processing of crucial tasks like facial recognition and object detection to take place closer to where data is collected."
+    publishedDateTime: 2021-12-23T19:35:00Z
+    webUrl: "https://www.biometricupdate.com/202112/hailo-chips-integrated-by-axiomtek-for-smart-city-edge-ai-infrastructure"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 204
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 53
     images:
-      - url: "https://i.ytimg.com/vi/RLdt3wgnuDs/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg"
+        width: 877
+        height: 432
         isCached: true
 
 secured: "qgKc/2iif/7xpr39kM7zD0LIlEOfVzAxMf3U2P7YbapWtgPSyz6ECd3vE+tWWr8iEpJnt7rcIEBiYs8JrC32CyeZuPpOPhbcN2J5YIUc7GA3WKQwq9CCmAp5+3/aOQPsIFLEwOXytUYTArQUX6uyQWFXZ/bjvtodnm6XT4KnIrGwmDIDdc34XGT/NEQvbEn1S6bWFYsrOD8o3+XAEQ4dm5Ts328UYML/51UC82fN/swPjDvt/DGct5Cz06+L6l1b0D2hVL39ZA6MJoWmomIz7OOoGKybb6yJ8CXzM2Ar87sHYHl+e1PgSxTCLHRxtgPixUiPC4E4cwbHdrckaPuty//iDsB87o4oDQL6vOUY43o=;V0uGFuKwvytGEKlR2jEAEg=="

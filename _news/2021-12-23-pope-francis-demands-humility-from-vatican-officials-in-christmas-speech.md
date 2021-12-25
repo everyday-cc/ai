@@ -2,26 +2,26 @@
 category: news
 title: "Pope Francis demands humility from Vatican officials in Christmas speech"
 excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-publishedDateTime: 2021-12-23T13:49:00Z
-originalUrl: "https://www.9news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-webUrl: "https://www.9news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-ampWebUrl: "https://www.9news.com/amp/article/life/faith/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/life/faith/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+publishedDateTime: 2021-12-23T12:07:00Z
+originalUrl: "https://www.khou.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+webUrl: "https://www.khou.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+  - url: "https://media.khou.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 500
         isCached: true
 
-secured: "6Kmzj3cZkjbIMS5Dr5j3LUo2vhDCHWeHVqgeb79KvraLjy+gLomyjoNDoEV+uC4aRrto7sNmlgzeyjDhOelS5eIfqdod01fc7M+mDE5jUf75qR8eBX8oveysT5aux7pfjaMZ6e4iM5w+k/SPc/hcWZmoe3W9WBX7QizPAFJOaOCcA40rzqsv0obIRBtoh3ownuw5/07uLjaPJnGpqRI7a96Tiw4J0TeIgEyieYextDpqHwErV2ots7CRxfjBvj3oJZ3jnP4hJcGcXltGF1R7zSWPsWM8UYfXnFbPchhhG+IaFGMPfhYWLz2yZTG/l9l8SirRE8cA2Gl2cGOxeAWNn4ZMe+XOm0S/Rfw63LOpd+zhnwxlY1DXX1DDNdBSawyWDhm0lmYF/4pDc884h1KWJdG/ICuEdK598WqopXOBLPqy/Ju1Hj2mGjb9hpkdjpNtar184jWN23Qt4iNLdDRY9DNTfdsGEykkbRit3kuhlt1I/Fun4IIZz3FTVbcFX4wJbWn4z1zb7FY1hLk/1i5vww==;4GTyySbsID1UMciBLSQrAw=="
+secured: "4V84jHYgvGkFv2kD+/bVxzAYs33jKikSAlFjqu+gnoY74NC5OPrnwYsT4mqcoh43xl1RXJsPCS5OzY1kPDY6DNiIQHOb4jOUSqkp6pJ4IQFFXzJhhJUM0g4zoqAilAy7ebs0IW2GKJydZLcY55tsjNJRQ9vx8hlWTc4iHd3ZP91bVVxVnOBmdFm/PsZ3DnqwJYmDN65fmtfAU6afYF/1ScyY81NW8RSWPS0g2pcN1aPaP3LeHbbnF9/1DB9rFlmkeYlYShCENoah2tCbj9JW5iQiCbkZpXTjd9yQh1lsx0hZGAQRWzhhebmCOhiwImDxtC8Bh23D+1F7JhXPITHEzLcCChIHx67asigVa8OuDec=;kE5xyTKCa2/nckqFD9XiKA=="
 ---
 

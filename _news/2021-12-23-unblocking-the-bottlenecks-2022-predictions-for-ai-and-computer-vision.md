@@ -136,6 +136,20 @@ related:
         width: 800
         height: 356
         isCached: true
+  - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
+    excerpt: "By Sandip Patel Digital Transformation, particularly post-pandemic, is pervasive and fast accelerating. It is a business imperative for maintaining competitive parity in today's digital economy. As innovation,"
+    publishedDateTime: 2021-12-25T10:36:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=908201"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/lotus_sq_dec2021.jpg"
+        width: 280
+        height: 250
+        isCached: true
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z
