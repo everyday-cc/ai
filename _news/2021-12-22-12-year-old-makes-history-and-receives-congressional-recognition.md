@@ -7,7 +7,7 @@ originalUrl: "https://www.mdjonline.com/news/lifestyle/12-year-old-makes-history
 webUrl: "https://www.mdjonline.com/news/lifestyle/12-year-old-makes-history-and-receives-congressional-recognition/article_a35f6d34-628d-11ec-bf11-a7a06351c058.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "12YO-TWEEN CHEF MAKES HISTORY AND RECEIVES CONGRESSIONAL RECOGNITION"
-    excerpt: "Marietta, GA. Sophia J. Thomas, a 12-year-old Tween chef, received a Certificate of Congressional recognition and a Letter of Congratulations from Congresswoman Lucy McBath. Sophia is an Entrepreneur,"
-    publishedDateTime: 2021-12-20T21:23:00Z
-    webUrl: "https://www.mdjonline.com/pressrelease/12yo-tween-chef-makes-history-and-receives-congressional-recognition/article_696406da-61e3-11ec-8525-b35c478fd163.html"
-    type: article
-    provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/6/89/689db674-61e3-11ec-8523-8b0bdba01f96/61c1024c3dd66.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5BmeI2lFwROR6JV+SfJoa6wkkbgepKiAh5ECQRugVQgidRYPMAs6VFhNSOnWfHh1aapw+L8vZtg8zgKJQo0qIJ0lD/OkyWJPKDKJyoTPZ/UqM0zGpON8r9roY3OXXc+LsJJEcpdsG18kpsTVsZI1WWzObooF7+tJ/w1Q4Y6b8fvElLh8QpkulgCYfZ5DBcJNeN6WMV7NloFFOXRr7nLODojvopVrAbxk5fjJ1ix2ckn0BLjKRQ+NAD8+g8FUIz0RT9bmHczvftVz+l9VQ4hJTK34Xh5aYn2j+5T6+HZVqn7CmnjwNMwOwRAf4wjpM0tnaObyAh9Gm6rm+8WSzUUa27ezr2TSUrtHzHTIuHfVTu2FzEcVA33AopFRuE6W6QxWv0zVOO2kbFD0EKwUWJoiFKOn9wi6AtQJJHympaDbmA0iWj/E2OGG7SEwOHZO8mW8CNU6HB/GODDviqTqg3tGuu2ZC41hJ2GI2wPcPw1sgp90mRs2WJCWgMiBnL7asMXQBiS5hpSQutcuLLpq6T1ciw==;Ua44dQf6j7z9vlTas1nGYw=="
 ---
