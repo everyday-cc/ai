@@ -58,15 +58,6 @@ related:
         isCached: true
   - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
     excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
-    publishedDateTime: 2021-12-21T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211221102818.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 37
-  - title: "Study finds artificial intelligence accurately detects fractures on x-rays, alert human readers"
-    excerpt: "Emergency room and urgent care clinics are typically busy and patients often have to wait many hours before they can be seen, evaluated and receive treatment. Waiting for x-rays to be interpreted by radiologists can contribute to this long wait time because radiologists often read x-rays for a large number of patients."
     publishedDateTime: 2021-12-21T16:17:00Z
     webUrl: "https://www.eurekalert.org/news-releases/938670"
     type: article

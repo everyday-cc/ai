@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In Africa, rescuing the languages that Western tech ignores"
+    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
+    publishedDateTime: 2021-12-25T15:17:00Z
+    webUrl: "https://www.winknews.com/2021/12/25/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 24
+    images:
+      - url: "https://cdn.winknews.com/wp-content/uploads/2021/12/1000-62-5.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "1NvTNvic8ArtYHmZ8zAEX2ESN3cPh9VyyHoIvym9tMh1oqWHi3syI8G0EhSRWjlSuNQX29T9lrCRTz/ZyqdUpCF3PE3hdSffLeVGSOhgymTqGTfY+NyuqKf1WDLEJHO2U0+HMNLKMaILJP091MYvRkD96Oe7qnwk5BpupHI+I47UrBevi+B0HtAiDjYbS2aCSRR4HLW2mbUYEaiZJ/rQ3kVwKpUp2rkG8icqLu6zfi5qrrlnCmRCuuIRMTSuIgLJvjLIaAW1u4V4PPWQ+EXnbmh3GIc2F8iNybdN3RBf2GlOQK/ghdEMtfY55MfOSmQqFHXY8q1rmadxWyZ0h8wViG53gSwZ8MagBy3jD1I9EF0=;ROCTc/CTyTJzw+s2uB9CBg=="
 ---

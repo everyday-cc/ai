@@ -54,18 +54,18 @@ related:
         height: 423
         isCached: true
   - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
-    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data into"
+    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
     publishedDateTime: 2021-12-21T11:35:00Z
-    webUrl: "https://www.kpvi.com/news/national_news/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform/article_ec4b7f5a-5b73-5344-aa83-ca4b78bd6a3f.html"
+    webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
     type: article
     provider:
-      name: KPVI
-      domain: kpvi.com
-    quality: 26
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/e/5c/e5cb3aa4-4ba1-5a6b-93cc-6d9bc71225f9/61c1d0014643d.image.jpg?crop=1457%2C765%2C551%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
+        width: 2561
+        height: 1341
         isCached: true
 
 secured: "P22cGmj1nvlH+UHlf+AAlMCNqJd/vOnKbahpjDlWu+bkfVYHfbR32MkD/mE6e+6bYMklesnO97c/uX8zXQCoFrkEkiZISCexa2+srTouWQDyoX6r32HiWfc9eFmRgCSfAm0A8kKk4cqHonlTOg0OWz4wyc0xbkaquYWYqZgubb5WZFYNHRs+sDuuXD7SYUtzXrdH9G25isP6cYK1FfX678uw3vXizowX+WiFh5E3azQ8SqsN3+ZS2H7ifWp6xKhjQn8hHWcs1VLbmTq5fZEv71sh5LYklBA+1hsK5XY+uaCJmd4giHn0PCBykP2gmhjJr7igrcKLsAYKl4TCkGVxc9Wa5K833i032hiF2Ydzo/fitnF0PcZuFhqvzhQK2dR7S0hc+1C2QezbZCscUCG/1kq6GAm0Pa4RWup1kp+fxnv0lRUcpL97TUZlPt/de+1+r4bm7SoJCwYkbNGlFYiJwbPYqImYpld6DEewflwvCxvO1zrkg3To7fcL8rhjiv4y6vI7qLCoRBYgIp9G5Nnc1A==;TXovdudngLxQu5lykCq2Iw=="

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Bridging the financial gap for small business owners in Africa"
-excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
-publishedDateTime: 2021-12-21T22:32:00Z
-originalUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
-webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
+title: "In Africa, rescuing the languages that Western tech ignores"
+excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
+publishedDateTime: 2021-12-25T15:17:00Z
+originalUrl: "https://www.winknews.com/2021/12/25/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+webUrl: "https://www.winknews.com/2021/12/25/in-africa-rescuing-the-languages-that-western-tech-ignores/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Mercy Corps
-  domain: mercycorps.org
+  name: WINK NEWS
+  domain: winknews.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
-    width: 1200
-    height: 630
+  - url: "https://cdn.winknews.com/wp-content/uploads/2021/12/1000-62-5.jpeg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
-    publishedDateTime: 2021-12-25T15:17:00Z
-    webUrl: "https://www.winknews.com/2021/12/25/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+  - title: "Bridging the financial gap for small business owners in Africa"
+    excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
+    publishedDateTime: 2021-12-21T22:32:00Z
+    webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
     type: article
     provider:
-      name: WINK NEWS
-      domain: winknews.com
+      name: Mercy Corps
+      domain: mercycorps.org
     quality: 24
     images:
-      - url: "https://cdn.winknews.com/wp-content/uploads/2021/12/1000-62-5.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "tEiFCjt2ilF6j34wQLDnlQTgI63lBuGepXnTXtSDMPv757RXo6xdWjnxMkyb1v81trETv8Mnlhooxm5DLy2mN5IIUSiXrmofuDQSv2p+gig8dWcNdpcnpQAm0lug/shNDAQiR2bXxwh0hk75Dz2Lr+ek5bQCTZ+mXcLKbz1uTESB9IYiNRtPTbDx3Rzkq8iigZnq3MBa5lXQxrnUqAwjn7XKkh6ZsMK9DbvMf3p6RHGCqFFWwXf1/Cc7vTz0C8cLj0CgTQj0iTGA+8U3lcuvC/QZx6GtzIWfv/9sW8EP5Q1WTp9euPwEFHXGvoftI99bYLqH7EUhhKHjBhqSG0lTBvcrtXaQGRmcZOfKhUiIPhQ=;eyJBQRf8tpjFrcfCzC1Iww=="
+secured: "YHbE1Aek+qzP7j9gLoswJaXQfHelctLZ5uu/pFyb+e+5bsrSYCoxQRQujyOkGtn2kb38U37x2DXORxCxD7hPMQ5KzLfK2iAvQ7VGss8XMekmNO0ojAey8trVK+IpYGxS80b2nmjsncmfq+0NM28pznoMCz9c+PuUrVYI91yPu1i0PMIGJDJQtB8UlfFzDH35KLEKXcb6ZsC2mn4z7tkLXUZLf29Ie2doxjPGgkpkMUcB9yzXS+tm2CO8DkX1toO25SDW4/av3UdAmZHdoFgtb0CMX0QsBsiq6oeFFWMMVB86ZtsUR8ZKcOWKaHCcnsBl7pKwKzYT8vp7QNLg034SVTjN5M0SBJ3PGSghtMEf6vE=;4GXts12Rl5SUcVK6HAQhjA=="
 ---
 
