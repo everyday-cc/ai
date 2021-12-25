@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
-    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
-    publishedDateTime: 2021-12-20T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "aJqEMv3yw/Gl8I5nDPVG7islIVomOBcWWmz6Z0WzZI/Qw+8ert2/YJ73XmIfHltVUYtibPUqbLywjOF4N1DOxE4Vf4MYJJIAGzCYwLnkj/T8lpRs9NYoiyEFCcpJ8LOadP0f71njvTAGh32w5+sABjJxupUVtlIS9NucfPk4YfiPbsbGPGs7yQvkLw7QJIpQV5uHBqlwVunuDjz5rmYrbQDdW7KT6zC1Ife+CzIRC1qrsgrYIwuCu1ZYA5maPIaRKHc460PjKOmgR6WoQW/vpHTKQqDZaM3G0G+8VErbd57Qo822hWodmm94UcS4I8tBC8vn4nXAe0dfUjsnXEuqmlp7qsinhU95DOF/qYzf7Z0=;TCWUTOn/VtGe+0ro1F6PGg=="
 ---

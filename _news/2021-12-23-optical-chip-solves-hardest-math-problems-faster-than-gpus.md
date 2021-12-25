@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-pr
 webUrl: "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

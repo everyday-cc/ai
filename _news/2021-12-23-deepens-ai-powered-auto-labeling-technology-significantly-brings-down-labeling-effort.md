@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Heliogen secures DOE funds for AI-powered solar technology"
-    excerpt: "The U.S. Department of Energy is finalizing a $39 million award to Heliogen, Inc., who will build and operate a supercritical carbon dioxide (sCO2) power cycle with AI technology."
-    publishedDateTime: 2021-12-20T16:52:00Z
-    webUrl: "https://www.renewableenergyworld.com/solar/heliogen-secures-doe-funds-for-ai-powered-solar-technology/"
-    type: article
-    provider:
-      name: Renewable Energy World
-      domain: renewableenergyworld.com
-    quality: 17
   - title: "Deepen's AI-Powered Auto-Labeling Technology Significantly Brings Down Labeling Effort"
     excerpt: "Deepen AI's proprietary auto-labeling technology helps enterprises automate labeling for up to 80 categories - increasing productivity by 7X while maintaining high levels of accuracy. Data labeling is required for a variety of use cases including computer vision."
     publishedDateTime: 2021-12-23T16:53:00Z

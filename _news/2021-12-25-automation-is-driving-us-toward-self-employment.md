@@ -2,17 +2,17 @@
 category: news
 title: "Automation Is Driving Us Toward Self-Employment"
 excerpt: "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route."
-publishedDateTime: 2021-12-25T00:39:00Z
-originalUrl: "https://www.chron.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
-webUrl: "https://www.chron.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
+publishedDateTime: 2021-12-25T03:10:00Z
+originalUrl: "https://www.timesunion.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
+webUrl: "https://www.timesunion.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Autos
@@ -35,6 +35,6 @@ related:
       domain: publicnow.com
     quality: 0
 
-secured: "cTeKc0fP71fb9nreZt4cfOCJldSzjMHkeWc56eyCqDFrIDHjHh1lwEsfLKG4wVjjNkSXjr21ZMpsxSktR/JFsxc7wmOWY9PC+hyf4W3EoWTNZ9FWFKrNwPJ98LG62TBpbZfqzD4/n4jqc1w3HvOMtGh6eO2+ts4cQ7WXMdSWPACXDvzMasKBVhFeTMh6mp1dGlNlaupSQ0ozhYDF685ZY4QXN0vIZII2iMYYCtqkU5fgECKJdkA6+zcuy+v99fhHNK+3UbmaBI69h8adU37942b6jz40JyViBBAYO7U+0uSCCQxrBNtrJAQBvM7fk7IwZ8vo7+2sYn2Tw+3u4Y0/bna0TDuDcCxJYLZXGv0dUXI=;EkFJn8S27o2HL8Bq4zfHNQ=="
+secured: "w7dzy57mcJ4yeZ2+oGbnjuYwRwvZXJrmWENaH16D3OLLGhxi1RUl36U0JOrvJaPUuUCeqSrHvhtAhPJd6tZ05bmJAT9GFtL0d1Qlh9IXE7/A7k6MU7/fMKIvnHIBC9YwYqucoT8cnro/mkLvr7no5spy3o3VNIRWWwC9LW6238Ixj9V0ynV8JUc9jZfnZUJbkgBLCCLaVQa5FMR8WKlXdd4612fHvgHsmmwoPjbEs/Ga8Sj2YVsfUH13OG43l3CKOFXD/MfZbQmwKoY3SS5nUPdoRN9ggFfFSRqFRlFTveQ9H7nzSJm2WNB4ONXg4IB5wG16F59EOUox0FODDRUCHY2sYQxTmRQymmCLfUptLNo=;TIwn63U4IAAZeWhUTxws1Q=="
 ---
 

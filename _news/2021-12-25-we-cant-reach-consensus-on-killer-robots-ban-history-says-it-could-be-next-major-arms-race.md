@@ -1,27 +1,29 @@
 ---
 category: news
-title: "No UN agreement on 'killer robot' ban"
-excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
-publishedDateTime: 2021-12-21T08:41:00Z
-originalUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
-webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
+title: "We can’t reach consensus on killer robots ban. History says it could be next major arms race"
+excerpt: "Autonomous weapons killed human beings for the first time last year in the Libyan civil war. There's still a debate on their ban."
+publishedDateTime: 2021-12-25T03:04:00Z
+originalUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/"
+webUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/"
+ampWebUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
 type: article
-quality: 39
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
-    width: 700
-    height: 400
+  - url: "https://static.theprint.in/wp-content/uploads/2020/08/robots.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
         width: 1000
         height: 482
         isCached: true
-  - title: "We can’t reach consensus on killer robots ban. History says it could be next major arms race"
-    excerpt: "Autonomous weapons killed human beings for the first time last year in the Libyan civil war. There's still a debate on their ban."
-    publishedDateTime: 2021-12-25T03:04:00Z
-    webUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/"
-    ampWebUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 48
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2020/08/robots.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UN Fails to Agree on ‘Killer Robot’ Ban as Nations Pour Billions Into Autonomous Weapons Research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
     publishedDateTime: 2021-12-22T09:47:00Z
@@ -85,7 +71,21 @@ related:
         width: 754
         height: 364
         isCached: true
+  - title: "No UN agreement on 'killer robot' ban"
+    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
+    publishedDateTime: 2021-12-21T08:41:00Z
+    webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
-secured: "qAwP3AzEGlskwWw2AfJ90klxbY2WKpd985KmG4ArbF5w9VgPMN0usXwrvIla0vpMJnzvoKhOUckAAyAjsFnhymu3LA86BJRNCbHH4Fo5tMYTkIZxTE13Y29rf2zEUoWIyW4+NeTm4kPA82aMjf72VvwQwvKcr/JcaluorC7CwlLV9s7ZYKFsxteh9E6OrK8UnUZh7yCUVzLm6bWA0ac//n48b+V68uSnEDKCyMN5cnAFwuO+EMrdQFGkptrGeft5M1bPMAM2j4H+Gt5edGHzWnsPK6J9m+2mD5a7vN1MHGV2EKVWmMijvdghbuoO+sO+lUIloNSRTqnkdKjj7pRcsxbPAHUCwt7Em9sMYXcZkl1r9oBdoo/mv94GxbB9/1nFg7tfhygIASOk7QRDjLopLSzyGzTYaSjGVvcdnFOkKsKL08LssL9uK1zSMkn7HNDiXXoZGecaoIf6XkBf/ZihqZNFRSQ5n2iWcyX6HL3UDvoL89yQNG0o+Li74+yKQInjvYHfgYtXJRGtK4NaCwObIQ==;xka99m9j28DIh4Y9WnaFYg=="
+secured: "LXOe/CmU2cTGAP5CLXrisHlHfxu94zT6+N4s+K1Ui8u6pt3VONHJ1L9anvQfbWE2fP+51uqiGCsGnrt122y1r/UPFhymgVpFSIpnUCBTjv+cimg6Xl4UrucORhQMvct9syuXnc/Vw88XptHz+zPkRKiKq4ogHDW1qBmbeW52Ex0COEuVlvOAbityu49iI5h9bhO+GPcCKOuDk0D3IVIzk/cp0z5gL/BJ86apkjafFybdNFATJxBjZTrUpX88kevAmHoGPb8EDgU5nN2gdUfpjXgAnuttlGNgSymhKILLc6RBsOMBAAkGQLM8xvod73s+PIQYTE+uZwr/UvHLxlySQdr+L7X1mRw8XPAx7bVgOUQ=;Ma1wivHWL9DcRrDfcoXNrQ=="
 ---
 

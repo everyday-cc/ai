@@ -583,40 +583,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations.md",
-      "title": "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations",
-      "excerpt": "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for both therapeutic and toxic effects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/Artificial-Intelligence-Being-Used-to-Accurately-Predict-Synergistic-Cancer-Drug-Combinations-561010-1.htm",
-      "originalUrl": "https://www.medindia.net/health-press-release/Artificial-Intelligence-Being-Used-to-Accurately-Predict-Synergistic-Cancer-Drug-Combinations-561010-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T21:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
       "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
       "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
@@ -767,6 +733,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations.md",
+      "title": "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations",
+      "excerpt": "VANCOUVER, BC, Dec. 10, 2021 /PRNewswire/ -- USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

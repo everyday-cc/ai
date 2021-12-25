@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Face recognition: Digital scrutiny"
-    excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
-    publishedDateTime: 2021-12-20T15:16:00Z
-    webUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
-    type: article
-    provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 39
-    images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/opinion/shutterstock1747856960-1640014198.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Survey sheds light on law enforcement use of facial recognition"
     excerpt: "As a legislative commission works toward recommendations to regulate government use of facial recognition technology in Massachusetts, more than 20 departments that submitted information to the panel say they are currently using"
     publishedDateTime: 2021-12-20T18:48:00Z

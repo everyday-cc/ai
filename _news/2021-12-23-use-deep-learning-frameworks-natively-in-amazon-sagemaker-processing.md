@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-fr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:

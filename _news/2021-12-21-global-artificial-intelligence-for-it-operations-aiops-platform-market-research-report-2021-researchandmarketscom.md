@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Social and Emotional Learning (SEL) Markets, 2021-2026: Opportunities in the Emergence of AI, AR, and VR Learning Trends in the K-12 Sector"
-    excerpt: "The global Social and Emotional Learning market size is expected to grow from USD 2.0 billion in 2021 to USD 5.6 billion by 2026, at a CAGR of 22.7% The increasing need for social and emotional well-being in educational institutions to drive the Social and Emotional Learning market."
-    publishedDateTime: 2021-12-20T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-social-emotional-learning-sel-markets-2021-2026-/2021/12/20/9514877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "tJIc5HDNrp2vWZuK8Iwhaixe5rqyzanbK/Hi0V/Se2bEX6WgbkXv5OYHjmkanZ3gFQR/GXjPk2vQGleGncYkc7cpMw+7Fv5SpwMG65HTzd/tKx1qMbA2THVLCgNYSp5nbZdQNDnfgpyGJWdo0zkAeXn9mLFWNrjN0EaBhG4wmAFHVY6475rxDYIUNec5pNbf+io4gMInqlTCstXtKitTxIX72pxEmxLd+U6wllJ/Wm6D1MZW9dt2P0Cpz4CzI6GzdnyuD4CAGv2RVZoYMLavlK8URfN/om2/F11t+rsGpbbpCzF5CFZjpRZirYVT7ftfYlx3VsrBexbCrxE1zle9BijZtM88UZlboj1vdgg1v4k=;nv+XOTg0osRw5GromyA7BA=="
 ---

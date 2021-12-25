@@ -1,28 +1,30 @@
 ---
 category: news
-title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
-excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
-publishedDateTime: 2021-12-21T00:19:00Z
-originalUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
-webUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
-ampWebUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+title: "About AI, kids and robots in a store"
+excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
+publishedDateTime: 2021-12-25T08:03:00Z
+originalUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
+webUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
-    width: 840
-    height: 438
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHw8BlUz-MkKg/article-cover_image-shrink_720_1280/0/1640344867429?e=1645660800&v=beta&t=ZfFqxOPUoz-AR-j6sLtqX6eNC3CDtG9WDu720a6eKiI"
+    width: 540
+    height: 720
     isCached: true
 
 related:
@@ -56,6 +58,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "2021 in Ed Tech: AI, Data Analytics Were Top Priorities"
+    excerpt: "Growing interest in artificial-intelligence tools and data analytics were among the dominant trends in education technology in both K-12 and higher education this year, according to industry leaders."
+    publishedDateTime: 2021-12-21T00:19:00Z
+    webUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities"
+    ampWebUrl: "https://www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/2021-in-ed-tech-ai-data-analytics-were-top-priorities?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6aebe38/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F82%2F89%2F22deb7dea8922b3a8e185ab75a9f%2Ftechnology-in-education.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
     excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
     publishedDateTime: 2021-12-24T08:30:00Z
@@ -70,21 +88,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "About AI, kids and robots in a store"
-    excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
-    publishedDateTime: 2021-12-25T08:03:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHw8BlUz-MkKg/article-cover_image-shrink_720_1280/0/1640344867429?e=1645660800&v=beta&t=ZfFqxOPUoz-AR-j6sLtqX6eNC3CDtG9WDu720a6eKiI"
-        width: 540
-        height: 720
-        isCached: true
 
-secured: "U4keoYbtcWgrR49mTxJfSFb+CBUduSzAGpF7Ag2buROxV6QmLS+mUvTj2hVdN24Wge5NhAOXvO/2ySKKdSfjK58IZ7uBmohSFEPF0t9ug3JyW+3dIJWYCh6akuSVT3J6Sy8zE/AILl0LblWhdpZlKEHaUB85kdsk6d0f4FD76i9MhRPYC3FKbNZRGMTuAnGRWqcsbKFraRWCJx4m0MIheFGvjTGDn8pCLubOI3bnq1tJrTHJKT6ZHw3JvJeF0s2O6h7bCgcdz5v537xzkb+Dthmx2mwLXDoq7+dJ1yEhSy3E2BhIC5xJFeLXmlFutR/pfGNnYC7YEY8uWi1jix/+kfL1AyG8jJm6CVxSpt2/FHrjZkbC+yRtj05GC8PJRvEClLGLhhhcDbvnPU4F9BxUs5kKnPvqb2bNlu726UWyVOETEP0yf1UVaOA4s/jOu41zJi85vC5gggEjXD91HiXkTPhw8qKnR+X3AWXaWGfl35OIZY2LfQCcL6owfQdVUcKGK5E/VjI2LyvxoWG+YqSRjQ==;ajQGTdk3QiWcIA7Tr5ckIA=="
+secured: "RO16gmIZHC762SboG1D7Vo+3yAVsQNgCtXvxMKQRAC7kFVCmpsipzvADarc+cJ/Kpx4sL/0Qzwzl3zU0Z5d68FLHpt5a8eK16eZ+xOFfSP1q2I3kjdmLD7MrBWQBa5iq2EGkQIJIY4d/yBsv5yYTbE2EAJ9Hp4jKG8z34Y8eZfAnQnM8qvVsZPa+ApHPlaOsnLQc5pjFyBLbsZHQMRxCxunXqFCH0Po8cc28v0/0XxdQ2rEioEFzsM4f5bJTX15bEeascTUn9Ig9gCeaRVLk8KQ4EH9PlptWEQfODjg11hSmNhOb3KDHG3EMlnMxiVAsL1Q+KnPlxS5bdCKo8KUQbI9Pp+TevLdliY/LDkKuVKU=;h6BcUVxlx5l+/osQgOwLVg=="
 ---
 

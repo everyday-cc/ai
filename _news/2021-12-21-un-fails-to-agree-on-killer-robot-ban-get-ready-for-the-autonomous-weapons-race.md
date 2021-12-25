@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-co
 webUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
         width: 1000
         height: 482
+        isCached: true
+  - title: "We can’t reach consensus on killer robots ban. History says it could be next major arms race"
+    excerpt: "Autonomous weapons killed human beings for the first time last year in the Libyan civil war. There's still a debate on their ban."
+    publishedDateTime: 2021-12-25T03:04:00Z
+    webUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/"
+    ampWebUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 48
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2020/08/robots.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "UN Fails to Agree on ‘Killer Robot’ Ban as Nations Pour Billions Into Autonomous Weapons Research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"

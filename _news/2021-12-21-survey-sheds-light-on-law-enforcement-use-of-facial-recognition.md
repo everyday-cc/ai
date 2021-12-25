@@ -85,20 +85,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Face recognition: Digital scrutiny"
-    excerpt: "Discussions about the risks of facial recognition systems that rely on automated face analysis technologies tend to focus on corporations, national governments and law enforcement. But what is of great concern are the ways in which facial recognition and analysis have become integrated into our everyday lives."
-    publishedDateTime: 2021-12-20T15:16:00Z
-    webUrl: "https://kathmandupost.com/columns/2021/12/20/face-recognition-digital-scrutiny"
-    type: article
-    provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 39
-    images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2021/opinion/shutterstock1747856960-1640014198.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial Recognition Systems Regulation: Outlook for 2022"
     excerpt: "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,"
     publishedDateTime: 2021-12-23T09:00:00Z
