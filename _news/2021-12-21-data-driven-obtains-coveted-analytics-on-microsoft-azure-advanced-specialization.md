@@ -33,20 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
-    excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
-    publishedDateTime: 2021-12-21T05:51:00Z
-    webUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 56
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ce4b89940e56fbb8c70fc43659cc3556/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "05rBUVOxGT/Pqp4h+N2cmlv6PNrQ1wZdbfMS0IoWYpMIGmG8PKVfgj+sZ/d8DEBHJh1HHrD7fmWC4ruquLnQNSn24sSPwpZ5Gbzx0/zDUwPnkyKGwQKtMAmMSnAUMrJUHlZHuNUqmz4F8Fo1JxtbtsfA5tuf9FVz205q5M+fM246ydebF2FWqnMLygWsadEFsVxLE6zO0qkaPWhroRpOvaB/mZcBHjZlpimdgeOlAzaYPiLfE2njWA621iiXXsVJ/MvRNEOrb+tsBu94xFL1YltyhKt2sJSMm6hwqfPgtEaeHJU6xLzczEpElGNSAC9bLP+w0Vaprjo1Wws5jrYPCXAHplG/r19JtMe//BTAo/8=;Ne2IjYDr5hjP4jQcAI8Gxw=="
 ---

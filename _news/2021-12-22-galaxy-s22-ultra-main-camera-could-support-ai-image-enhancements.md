@@ -41,20 +41,6 @@ related:
         width: 1199
         height: 799
         isCached: true
-  - title: "Galaxy S22 Ultra main camera may supports AI image enhancements"
-    excerpt: "Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new"
-    publishedDateTime: 2021-12-21T06:47:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=906685"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Galaxy S22 Ultra main camera may support AI image enhancements"
     excerpt: "According to the noted leakster Ice Universe, the upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence,"
     publishedDateTime: 2021-12-21T18:57:00Z

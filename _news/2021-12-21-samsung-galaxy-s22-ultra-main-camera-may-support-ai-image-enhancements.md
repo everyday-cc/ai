@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultr
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy S22 Ultra main camera may supports AI image enhancements"
-    excerpt: "Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new"
-    publishedDateTime: 2021-12-21T06:47:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=906685"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Galaxy S22 Ultra Main Camera Could Support AI Image Enhancements"
     excerpt: "Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22"
     publishedDateTime: 2021-12-21T18:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 type: article
 quality: 157
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 864
         height: 984
         isCached: true
-  - title: "Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan Fever Detector AI Thermal Camera Market Insights, Forecast to 2027 report by QYResearch Group. Fever Detector AI Thermal Camera market is segmented by region"
-    publishedDateTime: 2021-12-21T06:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5184800-global-and-japan-fever-detector-ai-thermal-camera-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 11
 
 secured: "dx4LM/syeqkBucLhLxr8+Fa0K4cjmPYP2o+cAc/dPd+f3ehreFJueasW8K8X+8j7PQh8bafOX1Kaa0lbRXacPlf7G3pHCr89NGJtQaTtVmWb0mjWMSD6bmvqEojOVkuJ0KI+pBxOHSN42ZzrPhGoWzDnBE4U1VNOgCgqS3Zw+tIMnLeaTBvvwEzwpdtcIcPUlou5rI62Q7C3mgBEXLPLLgaFdtANFEHjvf2WHBD+ClhGdB+N3nMohy6EVGNJh0oESeddqAWF6HiANAUZii9Ns8mI3dxWxG17wPpvUWrzW8dMzwxGMccqitJ+v6HeOsus2yX/wmW7vCXGZACHa9QqZzbfg1E+73avMbKh9XOhg9oAmYWQppfOaQ2km8o5lXlI8Wf1EpsOaYS17u9AVYlDiLkzQcEODPLl8qHxhU2fmMOTavt/AToujmtgglo/KUmIjT73eKjaiEVnpg+Dxeg0Vbl2HCgLhxstnd8NMhnSgivEjy38mMcdsUSESm0tiEwNaGEYgtNz5tC3fS+iU4oHV/HARKncLGp5LlD7KWElZKA=;x8sABQVkHn9HgUkiQIPqBQ=="
 ---

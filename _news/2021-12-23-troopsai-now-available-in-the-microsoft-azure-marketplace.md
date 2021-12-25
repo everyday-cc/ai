@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a0
 webUrl: "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Big Tech Countdown Day 1: Microsoft’s top 5 healthcare moves in 2021"
-    excerpt: "From a multibillion dollar acquisition to new tech launches, we detail Microsoft’s 5 most significant healthcare plays in 2021."
-    publishedDateTime: 2021-12-21T05:51:00Z
-    webUrl: "https://www.emarketer.com/content/big-tech-countdown-day-1-microsoft-s-top-5-healthcare-moves-2021"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 56
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ce4b89940e56fbb8c70fc43659cc3556/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data-Driven obtains coveted Analytics on Microsoft Azure Advanced Specialization"
     excerpt: "Microsoft Azure Advanced Specialisation. As one of only two Australian consultancies to achieve this, Data-Driven now joins a select group of less than 35 enterprises worldwide such as IBM, EY, and Insight with this capability."
     publishedDateTime: 2021-12-21T07:01:00Z
