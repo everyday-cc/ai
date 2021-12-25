@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/usingartificial-intelligencet
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:

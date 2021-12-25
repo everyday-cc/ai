@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-gran
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

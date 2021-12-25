@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/"
 type: article
 quality: 59
-heat: 101
+heat: 99
 published: true
 
 provider:

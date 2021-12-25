@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/johnkang/2021/12/22/founding-family-o
 webUrl: "https://www.forbes.com/sites/johnkang/2021/12/22/founding-family-of-footwear-giant-belle-takes-a-big-step-into-hong-kongs-startup-scene/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "AI Firm SenseTime Prices Hong Kong IPO at Bottom of Range"
+    excerpt: "SenseTime Group Inc. is likely to price its Hong Kong initial public offering at the bottom of its marketed range, according to people familiar with the matter. SenseTime plans to"
+    publishedDateTime: 2021-12-22T16:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0jPdbk7bxKw/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
+    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
+    publishedDateTime: 2021-12-23T05:34:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-relaunch-275116/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
+        width: 1280
+        height: 631
+        isCached: true
   - title: "Following the money of Hong Kong's growing fintech cluster"
     excerpt: "Economist Michael Porter once said that California is successful for its wine, not because of its meteorological conditions, but because it has an economic cluster of interconnected wineries, grape"
     publishedDateTime: 2021-12-24T01:41:00Z

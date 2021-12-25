@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
+    excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
+    publishedDateTime: 2021-12-20T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "Ewy6dPQZ/1mbVNPywCcDfxNfFqHasY3KbTpF/pfcH8wUw3rZs4Fq4aRyTaT1ncmOQ5vwxa/Yk5kKcT0idcRUJSu2Q6uRwfplJAD/K80MUz4lODPUyF36bjCurUnpSWzM6z9/VtaMNVZqySLMrNV+A+5wg7FBLuwEQ61JrvmSOjPZQuhn7SLC+h3JEdBR19Go6b69/1G1m5B6LSX2nPcV6vzjiHIEYmwDLa2YF15Y/vnatWnTWhgmQxsF7nk7dLNbTOJfMTSJsL9jHS0noNtQpBpiTyC9Tj8FcGE5++xEGYsNNPZGYml04V5/WCENVfPDGkIdcbLzxNTWOevJaqiMMd7j2JPaC7gRc83Wfvl6aVagWlHXGjsvkuiL8TLNUhRxJL0rZTiTMzRtcBQ3Snyw7iGfYPJPbAB/Z6dfQ/LYgwxANX3Zi6quIZwjoQhswb7Vtwkay+FrCosjJdaDS4UyRM8AU4U6JYQ8NYqwsk5eE19vj6rlyxzRipIQuTs81bjHIRMDm4KUk7F7l5wXdzE/bg==;dRAFmCLhfyuB9dDe7E3ixg=="
 ---

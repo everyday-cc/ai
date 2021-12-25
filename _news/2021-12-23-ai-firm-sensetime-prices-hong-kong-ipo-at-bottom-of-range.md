@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-sa
 webUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Bloomberg
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist"
-    excerpt: "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged."
-    publishedDateTime: 2021-12-20T08:35:00Z
-    webUrl: "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/"
-    ampWebUrl: "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/"
+  - title: "Founding Family Of Footwear Giant Belle Takes A Big Step Into Hong Kong’s Startup Scene"
+    excerpt: "Tang Yiu quietly built a multibillion-dollar business in Hong Kong selling women’s shoes across the Greater China region. Now, the 87-year-old’s little-known investment firm is backing some of Hong Kong's most promising startups."
+    publishedDateTime: 2021-12-22T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnkang/2021/12/22/founding-family-of-footwear-giant-belle-takes-a-big-step-into-hong-kongs-startup-scene/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c05aa3901842d7231d386b%2F0x0.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Chinese artificial intelligence company initiates SenseTime listing again for USD767m"
-    excerpt: "China’s artificial intelligence unicorn company SenseTime Group has reinitiated its USD767m (£580m) Hong Kong stake sale.<br /> <br /> The declaratio"
-    publishedDateTime: 2021-12-20T10:06:00Z
-    webUrl: "https://menafn.com/1103401661/Chinese-artificial-intelligence-company-initiates-SenseTime-listing-again-for-USD767m"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Economy_118_menafn.jpg"
-        width: 512
-        height: 321
+        height: 801
         isCached: true
   - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
     excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
@@ -71,6 +55,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
         width: 1280
         height: 631
+        isCached: true
+  - title: "Following the money of Hong Kong's growing fintech cluster"
+    excerpt: "Economist Michael Porter once said that California is successful for its wine, not because of its meteorological conditions, but because it has an economic cluster of interconnected wineries, grape"
+    publishedDateTime: 2021-12-24T01:41:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/3001610/20211224-Following-the-money-of-Hong-Kong's-growing-fintech-cluster"
+    type: article
+    provider:
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 24
+    images:
+      - url: "https://static.hkej.com/eji/images/2021/12/24/3001610_2ae21a179a0f3eba9fe221b0dbf1e69a.jpg"
+        width: 835
+        height: 526
         isCached: true
 
 secured: "r90/j5EQBbQnVPzLBCoDq/HtWU+NWTfGSTcX6gFA1WmZnREb6SR4kEdK6i2JYlI36VFsw7s9c0BmqGKJT+fG3SjrNVFvC0qlb7hoE5P365YURMM9fg0P8C9Mz9LxpjzNhoNZ4s8+t2rQ9GISSDdjiK0AOzcayXTPYOczicsAPWcSIxVTtTnnepciCsM5wPc1KhR7p2M3Cr906aRR/nQcqqMIoO5WfpefSMdnyqjwe6Jsx1Bi3gJpCzkhg7zMeyFKZ5VVGnTYzmzsNfhrThFs9YdXoIF1hR/Sk88A5oqaDlVNdyWojc66YvVMy5yRN1nQttO/XC0PnuY6fMI4KFqRoiaVY0XI9yj2gxgipnzmZrQTbNWT4kuJZgqZpzSvtGvSSc/rJWX2qFj3EzOwWDTnrm0fnyYSXa5DHKQiUiI6rJqltGH/tVBXzT3su+6/ZmMoIZKOstfVevSAf8lCwU1/XigFwJlWd8b/zoEG1WiTATU8tNpvpWVopu1+yRAs+zgQZESQDYoPivEzxCOTzxG4ng==;klnfzo2CUlY1QjjSgyHtmg=="

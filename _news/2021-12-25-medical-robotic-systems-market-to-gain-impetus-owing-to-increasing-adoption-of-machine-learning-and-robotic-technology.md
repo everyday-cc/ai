@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impet
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders"
-    excerpt: "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people"
-    publishedDateTime: 2021-12-20T07:09:00Z
-    webUrl: "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/"
-    ampWebUrl: "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/"
-    cdnAmpWebUrl: "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/"
-    type: article
-    provider:
-      name: News OnTheWight Isle of Wight News
-      domain: onthewight.com
-    quality: 70
-    images:
-      - url: "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg"
-        width: 1024
-        height: 714
-        isCached: true
 
 secured: "72taba7uezB+JdZLFTSTYgx/9Dlg3ngMYi67Udb/cwXyfNvBvrGDvUJeI4pMij7mALPaPMs+spXGSIFR1aGzsQVG+gS09B0OKZkXYHMeXuR+/ZvkOKCPSFi09apYID9jRyOJ5KSmxc4pyoqPQmz3IvyqIVZe4yeJR2ucBHxoTon3V9UFJ2bmrcXDqfHSjVGUy84VLtxmKmsHXjQTpmdOCzLvCmeM0h/JLpd7Gs8HBOmfTxqN7ityIMQ7jM/RiEzihFNVXNvSyx2UioYb8UdfY8G70vSvNXfN7tXR2Ljnbw/giV6BFyLQ/K9GrBbH2ayGiRw4CG/+RkC+NOZB6gwCGDkwZyOLPFtduTpg89AZmzU9HOQUElX3pZag8+umA30JxO42ulh+GFjkWgrYCrlR6inQLkshZ3qhXkHdqvhp2lTs1aY8onIjF1+QdLxCsLnHBCybnoOWgRe2V8N56JrLjNYK/g+1D/nmX8qmbqvjUXnGNts8oWnT1/SKPJISbVeiEe35NY+EBqB8Os/qcYCJow==;CIOSzjB2pZKDCh8TLCDU2g=="
 ---

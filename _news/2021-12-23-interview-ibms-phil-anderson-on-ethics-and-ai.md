@@ -9,7 +9,7 @@ ampWebUrl: "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibm
 cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

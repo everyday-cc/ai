@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-def
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

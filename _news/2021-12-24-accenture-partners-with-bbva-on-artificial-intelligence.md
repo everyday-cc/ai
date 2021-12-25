@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-arti
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
