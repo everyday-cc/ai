@@ -40,6 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Data-Driven obtains coveted Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Microsoft Azure Advanced Specialisation. As one of only two Australian consultancies to achieve this, Data-Driven now joins a select group of less than 35 enterprises worldwide such as IBM, EY, and Insight with this capability."
+    publishedDateTime: 2021-12-21T07:01:00Z
+    webUrl: "https://newsmaker.com.au/news/384775/datadriven-obtains-coveted-analytics-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: News Maker
+      domain: newsmaker.com.au
+    quality: 44
 
 secured: "sidnKctV5Z2AuHbnZpDo5lxW1b16dZlqNjtaAmNzP99JzUpaI3cRwb9N+hbvONp51VhuhXHy3lzEgM1UXIIHsSKYxHZVO7HXXjMqfQsp0Fdp6l11+5os3B2lVV5iKUBh86iilXfGQukeliDypUL+pRJ1djyqvzdnWCIyq2RaSFf9PUJjKoTUP6T5SF7VdOsyk2J8afvGt4oe63v54sk+iJgqKHD2v1dN+Drsc7PKLnhJK4MGhOm7e98IvdwVDoqlxj8CSWjB/Pv5y/1w4AL6igppKQJ0fLrMdM4CJAi2ijEMpKdOm3MMkHfU35DDdTGaUU5pLZ1t7TyiRRuS7Ru6v95rg22LQWAqpP4blGUGKn4=;inLtbsYcT068zBbNMm93dg=="
 ---

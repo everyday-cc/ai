@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-11-24-quantum-computing-next-big-focus-for-digital-india-arvind-krishna-to-etilc-members.md",
+      "title": "Quantum computing, next big focus for 'Digital India': Arvind Krishna to ETILC Members",
+      "excerpt": "The rapid adoption of exponential tech like AI, ML, IoT, and Cloud computing along with the overhaul of business operating models continues will propel the Indian economy forward.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/quantum-computing-next-big-focus-for-digital-india-arvind-krishna-to-etilc-members/articleshow/87873971.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/quantum-computing-next-big-focus-for-digital-india-arvind-krishna-to-etilc-members/articleshow/87873971.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-20472,msid-87885046/ilc_logo_final.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/quantum-computing-next-big-focus-for-digital-india-arvind-krishna-to-etilc-members/amp_articleshow/87873971.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/quantum-computing-next-big-focus-for-digital-india-arvind-krishna-to-etilc-members/amp_articleshow/87873971.cms",
+      "publishedDateTime": "2021-11-23T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-apollo-tyres-moves-to-aws-to-enhance-customer-experience.md",
       "title": "Apollo Tyres moves to AWS to enhance customer experience",
       "excerpt": "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track",
@@ -1063,41 +1106,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
-      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG's ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.tmcnet.com/usubmit/2021/11/23/9498673.htm",
-      "originalUrl": "https://news.tmcnet.com/usubmit/2021/11/23/9498673.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

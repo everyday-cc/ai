@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-25T15:30:00Z
 originalUrl: "https://nationalinterest.org/blog/reboot/why-american-special-forces-are-cutting-edge-artificial-intelligence-technology-198503"
 webUrl: "https://nationalinterest.org/blog/reboot/why-american-special-forces-are-cutting-edge-artificial-intelligence-technology-198503"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/army%20special%20forces%20flickr.jpg"
