@@ -35,17 +35,17 @@ related:
         width: 1161
         height: 774
         isCached: true
-  - title: "How to Design the Ideal AI Assistant"
-    excerpt: "AI assistants will be an integral part of next-generation products because of their functionality: They will be capable of doing a lot of different things, and users won’t need to spend extra time learning the system because the interaction with AI products will resemble human conversations."
-    publishedDateTime: 2021-12-21T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/401588"
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+    publishedDateTime: 2021-12-23T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/article/401518"
     type: article
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 67
+    quality: 86
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598641-GettyImages-1271099302.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
         width: 2000
         height: 1333
         isCached: true
@@ -64,20 +64,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-    publishedDateTime: 2021-12-23T20:18:00Z
-    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
     excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"

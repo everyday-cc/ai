@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Bridging the financial gap for small business owners in Africa"
-excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
-publishedDateTime: 2021-12-21T22:32:00Z
-originalUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
-webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
+title: "In Africa, researchers rescuing languages that Western tech ignores"
+excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages."
+publishedDateTime: 2021-12-26T07:17:00Z
+originalUrl: "https://texarkanagazette.com/news/2021/dec/25/in-africa-researchers-rescuing-languages-that/"
+webUrl: "https://texarkanagazette.com/news/2021/dec/25/in-africa-researchers-rescuing-languages-that/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Mercy Corps
-  domain: mercycorps.org
+  name: Texarkana Gazette
+  domain: texarkanagazette.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
-    width: 1200
-    height: 630
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200246928_200246928-12d8e4c7682c4e849ca73e08fa360359_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -52,6 +52,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Bridging the financial gap for small business owners in Africa"
+    excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
+    publishedDateTime: 2021-12-21T22:32:00Z
+    webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
+    type: article
+    provider:
+      name: Mercy Corps
+      domain: mercycorps.org
+    quality: 24
+    images:
+      - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
     publishedDateTime: 2021-12-25T15:17:00Z
@@ -66,21 +80,7 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "In Africa, researchers rescuing languages that Western tech ignores"
-    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages."
-    publishedDateTime: 2021-12-26T07:17:00Z
-    webUrl: "https://texarkanagazette.com/news/2021/dec/25/in-africa-researchers-rescuing-languages-that/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200246928_200246928-12d8e4c7682c4e849ca73e08fa360359_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
 
-secured: "tEiFCjt2ilF6j34wQLDnlQTgI63lBuGepXnTXtSDMPv757RXo6xdWjnxMkyb1v81trETv8Mnlhooxm5DLy2mN5IIUSiXrmofuDQSv2p+gig8dWcNdpcnpQAm0lug/shNDAQiR2bXxwh0hk75Dz2Lr+ek5bQCTZ+mXcLKbz1uTESB9IYiNRtPTbDx3Rzkq8iigZnq3MBa5lXQxrnUqAwjn7XKkh6ZsMK9DbvMf3p6RHGCqFFWwXf1/Cc7vTz0C8cLj0CgTQj0iTGA+8U3lcuvC/QZx6GtzIWfv/9sW8EP5Q1WTp9euPwEFHXGvoftI99bYLqH7EUhhKHjBhqSG0lTBvcrtXaQGRmcZOfKhUiIPhQ=;eyJBQRf8tpjFrcfCzC1Iww=="
+secured: "mcF3e5eVJQn+aHLVev4gla3MqLRtSoAh45MmhWtnGFiTg1G3vtuoJEbcpLVlMxryVaZWZk1qYhjTngFLBOyXGTgT5kLwb4Qr30/P2sXXs3clBQTw3MeIXcLY5QIyrjAkXWeiuIkA6S8rMuoeFKR5ME5NSBwtEEXWZFEZfNfoP3ke3m+QruU2ptFiP25jubY95uhhdT+1g837mpsQKZO/4DU6OPK6sv6ZDcqYdGEHhTDRvzqoc+SQR7IiADtSZAKO9AVjfJY9tK3uXROaBdVOWyeo02D4i3IP9u/XVwS5iu1v4TIcKhv01v45Ii5vIJLCbr5fbkzCOz8xtAFlezw9TqbZpK508hcNCmTJmnIM6Cw=;kSYWThTkNmQwD5xyqftaOw=="
 ---
 

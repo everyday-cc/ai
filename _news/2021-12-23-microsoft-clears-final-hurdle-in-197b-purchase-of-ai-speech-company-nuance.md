@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's acquisition of Nuance Communications gets a thumbs up from the European Commission"
-    excerpt: "The European Commission has just approved Microsoft’s $16 billion acquisition of Nuance Communications, the AI and speech tech company known for its Dragon Software"
-    publishedDateTime: 2021-12-21T15:39:00Z
-    webUrl: "https://www.onmsft.com/news/microsofts-acquisition-of-nuance-communications-gets-a-thumbs-up-from-the-european-commission"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 27
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/12/Microsoft-Nuance-acquisition.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "eYMzO+2z305dZB8lDuGrKq1q9cNIGlQwD1S0w1/f5GqAm66NQi08+mMxhtDVa5vgnmjsGOvPVz5afN5JvwCOr45Nq+n8OUm4dOsTBpx8JTIVs1xz7tkuEO7fOXYC48oZk5fd4v/fGXfGPlZD4wRJZgsK+E+kinTBNpCylAawALGP8fskFyLgiNXSxAF7U3En/EMpkBqTkcgJeWIzAezkNyHJgDzozQ5bSZsdI+gkA87VXVpaPgIP74B426abM7G5lA4Y0uNKyXnOkwzBiCTyrv0PYGaWFzWjErOwRv468DDkXMBLPk+OOfTG7dIWqCFGs8wPvyE+Slk8Da/SFl6jVGgKDrEPDoc9y3yPHv8Ecaezkw46Fa0OobL3dSQ5AgUb/lIkFliFUk88WHW/iAUI/KX6BVTLDha+/1KkiZUqgbX41HBpkrFGO3DG0ZhVbJvpd2Hd7c6yNf1waP5CJw/VQDeVMrau3qYRMjl1LZMGGYi++KfIwiF56tLZmXqtsEyRqrhZuUv/umqm0PwWmkPz5A==;8bsAMPBrZpC/hMmFkB3gYA=="
 ---

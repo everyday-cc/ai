@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-23-using-artificial-intelligence-to-identify-fractures-on-x-rays.md",
-      "title": "Using Artificial Intelligence to Identify Fractures on X-rays",
-      "excerpt": "According to a study by Boston University School of Medicine researchers, artificial intelligence can assist clinicians in detecting fractures on x-rays. “Our AI algorithm can quickly and automatically detect x-rays that are positive for fractures and flag those studies in the system so that radiologists can prioritize reading x-rays with positive fractures,",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays",
-      "originalUrl": "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/ThinkstockPhotos-507650587-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays",
-      "publishedDateTime": "2021-12-23T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-23-4-ways-artificial-intelligence-is-improving-mental-health-therapy.md",
       "title": "4 ways artificial intelligence is improving mental health therapy",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative",
@@ -1308,6 +1265,50 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-could-googles-deepmind-ai-transform-healthcare.md",
+      "title": "Could Google's DeepMind AI Transform Healthcare?",
+      "excerpt": "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "AI in Healthcare"
       ]

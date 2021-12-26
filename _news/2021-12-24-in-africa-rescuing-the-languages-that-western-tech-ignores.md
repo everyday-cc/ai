@@ -66,6 +66,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "In Africa, researchers rescuing languages that Western tech ignores"
+    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages."
+    publishedDateTime: 2021-12-26T07:17:00Z
+    webUrl: "https://texarkanagazette.com/news/2021/dec/25/in-africa-researchers-rescuing-languages-that/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200246928_200246928-12d8e4c7682c4e849ca73e08fa360359_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "Sh1P3uhdzCg2zs+OyW4GnbhHNAG2H4UhGc6pHquDTr52f7ZPtEaZLuBnhQMoAUnZBjxlR9/4j7tMfqOdhdXVHlhpJ1xkFOQ1Ero5AENzw5oiiWraZH1X0rLzArGtxRwN7iQQPRXZFwR7SHUORztb0UjG55UH+sMkQ3ZrZSlb3b0eivI+vsw5TlkL1F9ca5w0BucDmajls/zzJPY++Q92FIkVVfRzn0ozChRKtjhfy59vE5WJOkFExBRoGG9PS+MqdTRI77JfLkbUs9xpys5tTkjWOXCn3eOaThuon0gmdtyJJn1/eB0YAoxS7dKUjiC8ESYQWniNcSCZMHnZqo7z3QAoYVUS9Qs6QEXi4CRAe5MHjFqKGGN0xXKi8SH9GRYxrjnHM/a0nwQBLIol/TTjx2kAsaPJbTi8Cb1c8P/9GPcH4+55ldO0kw69psdBwuFccKXzMs5mkleQxK2DUrzxzpapSf40sjCmpYeDtGa9mRisTP3aoGSduhBmuSrql7hGkAzP4U0mZIadKo/7Qha53Q==;a3Cv8x1iHkLgIXBUGXG2FQ=="
 ---

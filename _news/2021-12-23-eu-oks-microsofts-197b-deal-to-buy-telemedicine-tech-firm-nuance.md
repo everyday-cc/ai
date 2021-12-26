@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/"
 type: article
 quality: 159
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
-  - title: "Microsoft's acquisition of Nuance Communications gets a thumbs up from the European Commission"
-    excerpt: "The European Commission has just approved Microsoft’s $16 billion acquisition of Nuance Communications, the AI and speech tech company known for its Dragon Software"
-    publishedDateTime: 2021-12-21T15:39:00Z
-    webUrl: "https://www.onmsft.com/news/microsofts-acquisition-of-nuance-communications-gets-a-thumbs-up-from-the-european-commission"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 27
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/12/Microsoft-Nuance-acquisition.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "jfKMHu4oNnNPeTYGkQeOGW9Aus0Kqx4bDRC33QcXHFPsEABK+PfJnwGCFjhFaJ1qtlorSdvu3IJVM+YRe40fmpulNgJ2cxbGtMXpM4yQCp1m7WpJRugn5w1M/dI8OVAAdQl3rhYmc+8nml2cab5FtuMktubHyWvWNKv/2V32b1lo5jsev1B/5X6yQS9B3VmvWJPFO/U5IOldAOGBaTpd7CDh0m5qRFNFxUGK5DobmfWQGZpradAV5vzYbbBWI6VdQljt9ku0n3f2uWw440F6A7164PP9N5JsOXYigZBSFF1DZ13XNEGXWaib+ZHVdB7YDS0Phitc+ZyEjCnRlbGwzrpdeV5jeSKRAFujYIRY9VDtTkVc3GMjlNO2MzV32G0IgXfY2TY3hqYoOBOzc+JdbcofBxEtQvg+/rpqA78ilgXIs0uHJ+2Y/0d/qjYjuSPxf6V8OnN5Tb/D1U7yBSv/7xKvNLV4P3LijnLwMpiUIyOeBD3FQz3m8YaZxIRxK7Va2X+exf6gzxuouoiABGK0zgEuRvcGrerOQyJaW6WzyT4=;uBhoiM4+T9XZoIZDm3R3ow=="
 ---

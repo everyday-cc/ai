@@ -1,25 +1,30 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-publishedDateTime: 2021-12-23T20:18:00Z
-originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+publishedDateTime: 2021-12-23T17:16:00Z
+originalUrl: "https://www.entrepreneur.com/article/401518"
+webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
-quality: 54
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -40,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg"
         width: 1161
         height: 774
-        isCached: true
-  - title: "How to Design the Ideal AI Assistant"
-    excerpt: "AI assistants will be an integral part of next-generation products because of their functionality: They will be capable of doing a lot of different things, and users won’t need to spend extra time learning the system because the interaction with AI products will resemble human conversations."
-    publishedDateTime: 2021-12-21T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/401588"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598641-GettyImages-1271099302.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
     excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
@@ -115,6 +106,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "EY8xTEEJlWz03+B9sYmOuARLf0b/Gv0FeznAzGvt5RDxDV2nu5428WK37BMnGdTAdbG9hStxXGY/yIxuhgN7l/PgZw2PGTD5jAqRb/zKz5W5/2VktdkK5aSeQPyBajwRqRa1K4Eci3f+KjVvvhVX/abPXU87KAGAs3u/wccUcuPi6amhiShAIYuGRxYkkNREsP26raqdDsfsiqFuh6NRIcMHG47Cn3QhqPKv9GOwdeyA0cdv/7VaLNO8UQ2aQcWkDvEawVkplX+fzxJUHjGy3DgSPCWVu1xFvV4ZqUHIW9h3AC1A9+ZQjcQ7f08N356D+1WOIGLr0H4QRUPkf0/Ig8CgQkQs/T48w+4Aq/oRjWs=;8wEl1FqJi3fO07CvcbqbyQ=="
+secured: "C00zcV8E8e+ZPaJ12dbT4ARaPamDFwYuMH63gTRCGRM9QxDE7t+wXJheL+UNeqTIGhwqwN+rGCGGuh6Gl4ODqFJKaVLaJAxNttBIZAFlygjTqk+NZi6EWe5cGKY1EUTDNG3FWKxqskzT3Yz9JRADmXcnDZFCE7mugIW3VEMp75IKXSwvy2F8KpkdFAEyeiWFR9aMx6sMzpQbfvUfibeexqp0IldSMDZ/aHrF30vpQ3gQZJH947LmMNtgCTuOmZo3546xGH1o7ZAxxiha1RbWHQyhZvNbH629H456k4gQHF9jiBkPgX3EJwnGhF9rQeZLTQBGhswxv+a3IWvW4UPymSwM92jHofDb9pGzx/pman4=;3TwgCBui7Ujklxk2M554kA=="
 ---
 
