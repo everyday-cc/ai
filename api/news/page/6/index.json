@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
+      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
+      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
+          "width": 600,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "publishedDateTime": "2021-12-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
       "title": "3 big problems with datasets in AI and machine learning",
       "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
@@ -1152,49 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata.md",
-      "title": "US Energy Department tests new smart grid chip from Nvidia, Utilidata",
-      "excerpt": "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "originalUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "publishedDateTime": "2021-12-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-16-mediatek-launches-energy-efficient-5g-smartphone-chip-dimensity-9000.md",
+      "title": "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000",
+      "excerpt": "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more.",
+      "sourceUrl": null,
+      "webUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
+      "originalUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telecomtalk.info/wp-content/uploads/2021/12/mediatek-unveils-energy-efficient-5g-smartphone-chip.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
+      "cdnAmpWebUrl": "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
+      "publishedDateTime": "2021-12-16T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom TALK",
+        "domain": "telecomtalk.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
       "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
       "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
@@ -1131,49 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
-      "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
-      "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "originalUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "publishedDateTime": "2021-12-15T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

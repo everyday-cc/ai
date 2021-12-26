@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-17-us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata.md",
+      "title": "US Energy Department tests new smart grid chip from Nvidia, Utilidata",
+      "excerpt": "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
+      "originalUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
+      "publishedDateTime": "2021-12-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-characters-for-good-created-by-artificial-intelligence.md",
       "title": "Characters for good, created by artificial intelligence",
       "excerpt": "MIT Media Lab researchers offer positive use cases of AI-generated synthetic characters for education and well-being. A new paper provides an open-source, easy-to-use pipeline that combines AI-generated models to create synthetic characters with facial gestures,",
@@ -1208,49 +1251,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-mediatek-launches-energy-efficient-5g-smartphone-chip-dimensity-9000.md",
-      "title": "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000",
-      "excerpt": "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more.",
-      "sourceUrl": null,
-      "webUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
-      "originalUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telecomtalk.info/wp-content/uploads/2021/12/mediatek-unveils-energy-efficient-5g-smartphone-chip.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
-      "cdnAmpWebUrl": "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
-      "publishedDateTime": "2021-12-16T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom TALK",
-        "domain": "telecomtalk.info",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

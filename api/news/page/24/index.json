@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-04-how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler.md",
+      "title": "How to take advantage of Microsoft 365's AI meeting Scheduler",
+      "excerpt": "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "publishedDateTime": "2021-12-03T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-peter-jackson-details-how-get-back-used-machine-learning-to-restore-the-beatles-sound-and-footage-exclusive.md",
       "title": "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)",
       "excerpt": "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of",
@@ -1128,59 +1180,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-optimizers-in-tensorflow-probability.md",
-      "title": "Optimizers in TensorFlow Probability",
-      "excerpt": "In this colab we demonstrate how to use the various optimizers implemented in TensorFlow Probability. Quasi Newton methods are a class of popular first order optimization algorithm. These methods use a positive definite approximation to the exact Hessian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/probability/examples/Optimizers_in_TensorFlow_Probability?hl=zh-cn",
-      "originalUrl": "https://www.tensorflow.org/probability/examples/Optimizers_in_TensorFlow_Probability?hl=zh-cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh-cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T23:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

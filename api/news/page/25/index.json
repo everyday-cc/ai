@@ -2,6 +2,59 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-03-optimizers-in-tensorflow-probability.md",
+      "title": "Optimizers in TensorFlow Probability",
+      "excerpt": "In this colab we demonstrate how to use the various optimizers implemented in TensorFlow Probability. Quasi Newton methods are a class of popular first order optimization algorithm. These methods use a positive definite approximation to the exact Hessian ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/probability/examples/Optimizers_in_TensorFlow_Probability?hl=zh-cn",
+      "originalUrl": "https://www.tensorflow.org/probability/examples/Optimizers_in_TensorFlow_Probability?hl=zh-cn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh-cn",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
       "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
       "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
@@ -1087,57 +1140,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-ai-powered-ecommerce-platform-convious-raises-12m.md",
-      "title": "AI-powered ecommerce platform Convious raises $12M",
-      "excerpt": "Convious, an AI-driven ecommerce platform, seeks to help the experience economy transition from legacy systems to more modern, industry-specific, cloud-based platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1210935014-e1634839477614.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
-      "publishedDateTime": "2021-12-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
