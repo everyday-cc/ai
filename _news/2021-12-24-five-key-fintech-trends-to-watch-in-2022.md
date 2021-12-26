@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai FinTech iBLOXX Granted License to Trade Crypto"
-    excerpt: "FinTech firm iBLOXX was granted a license for proprietary trading in cryptocurrency commodities by the Dubai Multi Commodities Center (DMCC)."
-    publishedDateTime: 2021-12-22T22:59:00Z
-    webUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/"
-    ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
+  - title: "Digital Debt Collection Fintech TrueAccord Explains how They Leverage Machine Learning to Streamline Key Processes"
+    excerpt: "TrueAccord Chief Product Officer, Laura Marino, a civil engineer turned product management executive, discusses how firm leverages ML."
+    publishedDateTime: 2021-12-26T21:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 67
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1877486011-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Dubai fintech firm iBloxx gets DMCC crypto trading licence"
-    excerpt: "BLOXX designs AI and machine learning algorithms to manage active trading models for crypto commodity markets."
-    publishedDateTime: 2021-12-22T09:44:00Z
-    webUrl: "https://gulfbusiness.com/dubai-fintech-firm-ibloxx-gets-dmcc-crypto-trading-licence/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/01/DMCC-e1640166272665.jpg"
-        width: 800
-        height: 482
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Click-and-Collect-henrik-donnestad-unsplash.jpg"
+        width: 1600
+        height: 1600
         isCached: true
 
 secured: "cONs4bKh6eXla6sHC9bn51ikjV0tpl3biImk0cNeQ/Wfn/xHpKFfGP/FY5NKRe5+//mo0ZDB4Wxz6zYQ0sR9hz+xrvPLWzy2Z10o6cxsY4Cl5yhh78HJ/R2eQ6nFnURoHWLnjgRjhQGGyMh77SxMYR0deWQd1TjsgfSMYUeFiI852rCBF3rosoid4mmL3rFXoe76hjVodnu+Wk6YtYTEDOVPEGYPthz7plcy5F9CD2Ezkp8FeYUapgHt64hEm1qW5GZgfnyHInczI4acoBMzk4rCAl2Ho22Ng1KVw9Isq/wEL53ZlWzop13a1UA8lvwAPYEeczZZRgie6XxnjlVYi/UHwYu0lVUwTUQ1B6kt2MwGNuodblnM3Og98smq7OAMG6laAESHPXmhlDN2GM+8CvxawW2OpQfj7JoqlJdCK609Xj7kIMLxvJ/bWva+qwGmB6FY2PSV4RHMIHjybFtiN90tCn5GxpS6fV+amoiRpfUS2A+owGsLB9wTj2ftJNzI/6xkjHBcCquq62lk6QW/6A==;Nz54itsDdZeahA5Bb/bngQ=="

@@ -2,6 +2,128 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
+      "title": "Natural Language Processing and Conversational AI in the Call Center",
+      "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "publishedDateTime": "2021-12-08T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-moderna-stock-is-sold-by-this-robot-trader-it-bought-tesla-and-merck-instead.md",
+      "title": "Moderna Stock Is Sold by This Robot Trader. It Bought Tesla and Merck Instead.",
+      "excerpt": "Artificial intelligence-run fund AMOM also loaded up on shares of Netflix, and bet big on a very low-profile medical device specialist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
+      "originalUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-77576/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
+      "publishedDateTime": "2021-12-08T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-keith-kressin-as-ceo.md",
+      "title": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO",
+      "excerpt": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO. MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence proce",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles.md",
       "title": "Robot-assisted assembly of high-voltage connectors for electric vehicles",
       "excerpt": "Against this background, a pioneering system with six Stäubli robots, 13 image processing systems and inline quality control at every ... immediately springs to mind: How did the designers ...",
@@ -978,154 +1100,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-nec-facial-recognition-can-check-for-vaccination.md",
-      "title": "NEC: Facial recognition can check for vaccination",
-      "excerpt": "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
-      "publishedDateTime": "2021-12-07T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
-      "title": "Natural language processing: time is now to advance human language insights for finance industry",
-      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-amazon-web-services-aws-a-cheat-sheet.md",
-      "title": "Amazon Web Services (AWS): A cheat sheet",
-      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
-      "publishedDateTime": "2021-12-07T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

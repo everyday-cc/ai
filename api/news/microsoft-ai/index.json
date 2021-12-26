@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-troopsai-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Troops.ai Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-02d19842a01eb08907ce93f7e9b2e439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
       "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
       "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
@@ -1335,59 +1378,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022-2027.md",
-      "title": "Speech Recognition Engine Market Companies, and Competitive Landscape Market Players : Nuance, Microsoft, Alphabet – 2022 - 2027",
-      "excerpt": "Dec 07, 2021 (Heraldkeepers) -- The Speech Recognition Engine Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

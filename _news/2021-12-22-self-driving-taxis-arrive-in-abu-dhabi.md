@@ -9,7 +9,7 @@ ampWebUrl: "https://english.alarabiya.net/amp/News/gulf/2021/12/22/Self-driving-
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/gulf/2021/12/22/Self-driving-taxis-arrive-in-Abu-Dhabi"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island"
-    excerpt: "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,"
-    publishedDateTime: 2021-12-22T06:25:00Z
-    webUrl: "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 54
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "UAE - Self-driving taxis 'TXAI' to transport passengers on Yas Island"
-    excerpt: "Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services, a subsidiary of Group 42, said the first pilot phase of the driverless taxi was launched in Yas Island and will conclude on 23rd December,"
-    publishedDateTime: 2021-12-22T09:45:00Z
-    webUrl: "https://menafn.com/1103429296/UAE-Self-driving-taxis-TXAI-to-transport-passengers-on-Yas-Island"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/22/ENA(_73538image_story.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Self-driving taxi service launched in Abu Dhabi"
     excerpt: "Abu Dhabi, the capital of the United Arab Emirates, has launched self-driving taxi service for citizens equipped with modern technology. The automatic taxi car service is introduced at Yas Island, where the formula One race track and Ferrari world theme park are also present."
     publishedDateTime: 2021-12-24T07:46:00Z

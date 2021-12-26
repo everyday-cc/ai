@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-18-massrobotics-and-aws-robotics-join-forces-new-savioke-relay.md",
+      "title": "MassRobotics and AWS Robotics join forces; New Savioke Relay+",
+      "excerpt": "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
+      "originalUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/AWS-roborunner-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-this-archaeologist-fights-tomb-raiders-with-google-earth.md",
+      "title": "This archaeologist fights tomb raiders with Google Earth",
+      "excerpt": "In the summer, Dr. Gino Caspari’s day starts at 5:30 a.m. in Siberia, where he studies the ancient Scythians with the Swiss National Science Foundation. There, he looks for burial places of these nomadic warriors who rode through Asia 2,500 years ago. The work isn’t easy, from dealing with extreme temperatures,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
+      "originalUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/15M.Jendryke.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
+      "publishedDateTime": "2021-12-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
+      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
+      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "publishedDateTime": "2021-12-17T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
       "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
       "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
@@ -1057,144 +1196,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-france-orders-clearview-ai-to-delete-facial-recognition-data.md",
-      "title": "France orders Clearview AI to delete facial recognition data",
-      "excerpt": "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "originalUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg",
-          "width": 1200,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "publishedDateTime": "2021-12-16T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-fintech-firm-avant-debuts-avant-banking.md",
-      "title": "FinTech Firm Avant Debuts Avant Banking",
-      "excerpt": "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "publishedDateTime": "2021-12-16T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
-      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
-      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452886/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "publishedDateTime": "2021-12-16T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
+      "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
+      "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "originalUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM",
+          "width": 1200,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "publishedDateTime": "2021-12-22T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island.md",
+      "title": "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island",
+      "excerpt": "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
+      "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
+      "publishedDateTime": "2021-12-21T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status.md",
+      "title": "Self-driving startup Haomo raises RMB 1 billion, reaches unicorn status",
+      "excerpt": "Chinese self-driving startup Haomo announced Tuesday it has secured a RMB 1 billion (around $157 million) Series A from investors including GL Ventures, the early-stage investment arm of private equity firm Hillhouse Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "originalUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "publishedDateTime": "2021-12-21T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-supply-chain-startup-unbox-bags-7-mn-infusion-to-build-compact-ecommerce-robotics-solutions.md",
       "title": "Supply Chain Startup Unbox Bags $7 Mn Infusion To Build Compact Ecommerce Robotics Solutions",
       "excerpt": "Supply-chain robotics startup Unbox Robotics has raised $7 Mn in a Series A funding round led by 3one4 Capital.",
@@ -1026,137 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
-      "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
-      "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "originalUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2019-12/469dc663-a43a-4493-8eef-d1aa6d40617a/SamsunG.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "publishedDateTime": "2021-12-21T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
-      "title": "AWS Offers Free Online Course in Machine Learning",
-      "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
-      "originalUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
-      "publishedDateTime": "2021-12-21T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
-      "title": "What Does An AI Actually Think Of AI Ethics?",
-      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "publishedDateTime": "2021-12-21T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOOM",
-        "domain": "boomlive.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -1,25 +1,30 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-publishedDateTime: 2021-12-23T21:50:00Z
-originalUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+publishedDateTime: 2021-12-23T17:16:00Z
+originalUrl: "https://www.entrepreneur.com/article/401518"
+webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
-quality: 54
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -96,16 +101,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Marketing : All"
-    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
-    publishedDateTime: 2021-12-22T06:48:00Z
-    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 34
 
-secured: "ZOxPmXHNAC1vlZeaKBucwnCiweevms92cqurWsa99+rPifXaTpFzqjw567TfY3QuzjC9Uo98NuT66xWrCHl++9F2qZKhPu8m5JqVuoY5LqRdz7N1sD7Yp94xld+TPPlDfE2aWCgLyBH6inOIfWYjMB7+B18xz6yeJuCtU6snRyPxPoyms+60Yhh4QZCQG0K9alkq5dq0Q2admAcKKPgkyKryqgJbsR1RJR5jkdjHrExK7J5QQsP6lzmPUF5UVMkDHimFfBj4XpeJ8XfjtCjj85XaXSogICG39TJzvnrynNXHj+ciRyQGb+HTiyNhYNF5mP724tPCxa2bR0nKnxcEOl+GGkjyn5EjS8qef+yrV/8=;CToMzAsSxAfJ6heaeFKrEg=="
+secured: "RhxDGqL2f0LG5NXSSJZ82//a72BYVCWJ7zK4EuBYO9poGTYPrSw+dAJEwDRt4o9B2/1BWog3IGz8QQoBOw/wfkXzS/AcEzsOjGGAjO91SFybqUzY9jIO5JEAelRLwlh5fGIwVRf2PoC7xAGQYJ+PvykTVg6unM8IprsNaJs5lp2qrB5s+o7PSYXEzns3CFzNBBi1/1bppw/wyZaNndpw2UO3DJy2vKBBvEs34aC/ghu8GW1hfYf4muMkJGYTem7OHroNbEBYT3rnJeX/HFLYum3YSP2UrVTRR1Ccbn4NszXw8NHzT4XTguwWH38KrN7qyU9mhS3Wni3SzIfUhG3KJA8BaDvkVqTqgB3DDpUwcFU=;l0BOnr9MS9W+4U2/0/GZ5A=="
 ---
 

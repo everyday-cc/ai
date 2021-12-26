@@ -44,16 +44,16 @@ related:
         height: 774
         isCached: true
   - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-    publishedDateTime: 2021-12-23T21:50:00Z
-    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+    publishedDateTime: 2021-12-23T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/article/401518"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
     images:
-      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
         width: 2000
         height: 1333
         isCached: true
@@ -96,15 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Marketing : All"
-    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
-    publishedDateTime: 2021-12-22T06:48:00Z
-    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 34
 
 secured: "evD1w6tcTRxK4SJyRfQEGJKJvA+sr6LZ87YlNNtkaL4FtsOJi9QjCtHeUGatfWuE53KidD4Qme62In5HX32AilBk5eSPPkmO2aHHu6iV3FY1WE8nTGhydKG3WVa6qrQdzZ9OL5Px/6G+RH6U+loBHF8xJtFnfM+Qynczb1mtkB/Avg/zQdxA6GAMhEjP+IxTSbgkxMsI6JsYXg98FuNiCSDjKqihQkcF3bPIVYmwgqWPVEXRA3xe29E0qp33Ns2xC35ZG5j9RptyeypQb3zE6eTuwYW/iwsynegjEZsc0cwKSb0wkFKVu8g590Jvs/bTC8KmYBoqKOqogjZlBy3VjPKFkYm3Ge3sEMZWQNf2OC03CmPFU2fN62aP9RtW6DD5ej2pZ6cDOmis0Q0syBSMtKJfIe5ro5ggKxTkqxQV0wh1tLnthR4JiqSIrr1jXN6PFIAGTYWPIhrzSwDqxuJTvwdBdG/EW/ytdlRqCN/cx39JNPoeCWEmlB4tE40auqVDN4SnKNQ7fkq2/pnXddT58A==;ScrIaqePqNHpKWw2hpjv0A=="
 ---

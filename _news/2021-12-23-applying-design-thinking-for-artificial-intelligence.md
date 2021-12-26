@@ -41,6 +41,20 @@ related:
         width: 1161
         height: 774
         isCached: true
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+    publishedDateTime: 2021-12-23T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/article/401518"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
     excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
     publishedDateTime: 2021-12-22T13:30:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-    publishedDateTime: 2021-12-23T21:50:00Z
-    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
     excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
@@ -96,15 +96,6 @@ related:
         width: 1279
         height: 719
         isCached: true
-  - title: "Artificial Intelligence Marketing : All"
-    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
-    publishedDateTime: 2021-12-22T06:48:00Z
-    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 34
 
 secured: "Nr+8TaTAR9S6/iv0rgFb22Bd53AoYwwxdNDlqv+1axisTZwSsF3VdlQFTLRwuu05ofUvpK6VHjLqYYEpPq7Wb+nWY1Ks9bvJNPYzmd7j3YHv/9+2IAv+yONoqdviwnJuBxPqhwxf8HYLY5c0nmnJkHAcJjhVmz7PrUCjlzlk4BnzTNvVbipc6/+7ExZU4vXWvK3AhyJLJTnTeFSyjO7yU6Jsjfle/ENMzLwSpB23JmO88PO8h2VHx3oHkuFsKfCsZFvvRZmy+NEIZ3WAi6NlqMIOYuGDuvzsmXoL9hXwbYfm65ZhpuOe9zOqjqHakj4mhlBr7v5k4IoqOLUuXkCKP3cDZkxVUJUjGYvVOKTjF6g=;a5NJ8F3IPMJqxbeNeHArww=="
 ---

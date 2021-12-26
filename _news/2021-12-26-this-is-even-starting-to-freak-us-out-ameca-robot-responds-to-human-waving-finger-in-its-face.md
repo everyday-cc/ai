@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news.com.au/technology/innovation/this-is-even-starting-
 cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/this-is-even-starting-to-freak-us-out-ameca-robot-responds-to-human-waving-finger-in-its-face/news-story/68b622082b8fc179e18ffd6aada37f30?amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 721
     isCached: true
+
+related:
+  - title: "'Starting to freak us out': Robot's realistic response stuns engineers"
+    excerpt: "Incredible footage of a lifelike android reacting to a human invading its \"personal space\" has completely freaked everyone out, including the engineers who made it. UK tech company Engineered Arts revealed details of a highly realistic robot they had developed that not only has lifelike facial features,"
+    publishedDateTime: 2021-12-26T20:19:00Z
+    webUrl: "https://www.nzherald.co.nz/lifestyle/starting-to-freak-us-out-robots-realistic-response-stuns-engineers/5AC323CNPIEWIHU6AEQEFGMMWI/"
+    ampWebUrl: "https://www.nzherald.co.nz/lifestyle/starting-to-freak-us-out-robots-realistic-response-stuns-engineers/5AC323CNPIEWIHU6AEQEFGMMWI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-nzherald-co-nz.cdn.ampproject.org/c/s/www.nzherald.co.nz/lifestyle/starting-to-freak-us-out-robots-realistic-response-stuns-engineers/5AC323CNPIEWIHU6AEQEFGMMWI/?outputType=amp"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 59
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/lSp-bOro6RnFe9wu5mXjC7lOEdI=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LRO2ROPMBRNM2IHAZ4AEQ5JC7I.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "bk6K7Fkiuk1JQxYeT3Sa6M2Eakw0qJksGYj49tZcG7SHCAsZI6lY73AWAp+xYyM89I76D5Iynkgr7HEXJhc536iXaXQAQYYlpBxRgR9UyKPPwnNQ+CvP64jw/0Vt4VAftKzo4RqNtL6UM6ZOhYeW69kXqqMIwGxJu4EH5itYaAKDLU0A5YU3y9xUPNiZ3Q7bymFF+EhBGPaMkwUJIj37gt8vLZ5Zqm9RjvLByTYUTj6+u/Jd+cQxMJdT5ixU8pJfGRlyKFsozLKdjSldwHz0FFHmWcK9tn38eDCl4lFwdyroGP0MIkX8rjMdZi+F8Y0WOcydP4jca//zPEhdumM4eQHdOK3XthgvGWPICWb9VbNoKJFQTNMx+Z0RTn/hoEifW0yGMd38ppX2j3rmu9aY9EXxnP2nfcOCV6jcLKIUsYmK4CdpdBLQE8IpCBlY4AFJXTJ5X1zpcsTiDA8rgOaDHxqo19yfTudqMM8i7caTqG7xtX6jMFS0yXUkS0A5sZsnFFS9J9eGa2S6XusZULwCOA==;Yo2I90cucgdCWrn30lI/tw=="
 ---

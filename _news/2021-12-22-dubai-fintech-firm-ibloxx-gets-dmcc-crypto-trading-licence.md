@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Five Key Fintech Trends to Watch in 2022"
-    excerpt: "In the year ahead, consumer behaviour and early adoption of new technology are set to transform the financial services market. Banks need to adapt."
-    publishedDateTime: 2021-12-24T04:35:00Z
-    webUrl: "https://businessnewswales.com/five-key-fintech-trends-to-watch-in-2022/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 24
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/fintech-general.jpg"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "r2tWdl1Vl3VR1aR6VhUcN78ekNUuhjMh9qK4coiJwpRLD0AufGF/U++6fzMIGAD9jwVktBG0MzW3vds9JsBhsgr7j3RUkSdds0LPfuu981l56nkWwtmAG+CAkp8mi7qlE66ARscz9s2O8B2SP775/+SVA4oMk/9y2Xb9Yz2EoudkXjHovccfe0OScAg0kvt8aNYVZnTqWvYNSi3KeSXdZtE5rUclnIdFkDApp5/52kDsf0JNTHFcUnt8F5mwAWVNx3WqPkEWO8orjmPnJoCMxHDGzNNkrovyhGnH3xX990jjzxDDYhUzCIAWwyqIt6CEvmz9c5+GjDiHZNqwKOte/lZCy03wxTknTmOoxTjEL/zCln+7PXiJ5l/nOEr3GXAznfyUk/Lg7+Ft9WFhqLjDKZyw7aPY62+51+FV3J9eog1yg9muw+OiYekQBjr3tefmzgX52NBlnJ124Um/j1YxE+lG/WfOg9twzbAJlT0yiNT1DOzjCEIY5r23GdFcsZTkSHX+Ns908jpkWH4ELnz3oQ==;6OvMDLM8Q4tS1Wf/N6stCQ=="
 ---

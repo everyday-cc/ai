@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022-2027.md",
+      "title": "Speech Recognition Engine Market Companies, and Competitive Landscape Market Players : Nuance, Microsoft, Alphabet – 2022 - 2027",
+      "excerpt": "Dec 07, 2021 (Heraldkeepers) -- The Speech Recognition Engine Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
       "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
       "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
@@ -1326,40 +1379,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-atento-introduces-xtrabot-an-omnichannel-solution-for-automation-of-voice-and-text-customer-interactions.md",
-      "title": "Atento introduces Xtrabot, an omnichannel solution for automation of voice and text customer interactions",
-      "excerpt": "Atento's new automated omnichannel platform allows conversations to seamlessly flow across all channels without the customer noticing, introducing voice and text bots at the first level of interaction to solve common and/or simple queries Atento designed Xtrabot to be integrated into any cognitive platform available on the market while allowing continuous development of the platform's intelligence and related capabilities without limitations According to Gartner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
-      "originalUrl": "https://www.publicnow.com/view/D0B512A690D195F7CF7B268FF445AC9D51419F73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

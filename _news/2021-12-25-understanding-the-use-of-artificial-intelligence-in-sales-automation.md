@@ -37,6 +37,20 @@ related:
         width: 1161
         height: 774
         isCached: true
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+    publishedDateTime: 2021-12-23T17:16:00Z
+    webUrl: "https://www.entrepreneur.com/article/401518"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
     excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
     publishedDateTime: 2021-12-22T13:30:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-    publishedDateTime: 2021-12-23T21:50:00Z
-    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "How AI-driven customer personas can transform marketing"
     excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
@@ -95,15 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Marketing : All"
-    excerpt: "In a first of its kind case, a Delhi court earlier this month agreed to examine the legality of futures and derivative trading in cryptocurrency."
-    publishedDateTime: 2021-12-22T06:48:00Z
-    webUrl: "https://www.newsclick.in/articles/Artificial Intelligence marketing"
-    type: article
-    provider:
-      name: Newsclick
-      domain: newsclick.in
-    quality: 34
 
 secured: "/AMxZL0nzFlccGplwxKeTrS7XkHEMjEGPatUfH4Y6jKMC2jfqPK1e5yH5vTiALobm+kIt8xv/McyBURxYojlF+ZtauROieRzG4kyUW5nOapveX3c9sCOZOGcw7GgMOMvcJzb+W99UxE4BY0rBvKDlyzmdukmKUcdYnrkt+sdZ6BJ2nQpZ2VT4JHO1/aCqVjNYlWSMnimDcvZmbHc1wazp0gx7mZ+3kl381SI8hJvehSK1p1hjrASeInbLKVaeSaQZMeiv2QMeLDmsOAuQo+bJrfVuL+IpXjuXAiF5xTTre5ru2JA/HChir9BxCqEdD+p33UBeJKx/VE3UEJW0/Lx1wbvFAlZuO+O5peGu/eAmHY=;xNGlMaNBB/HgFOiUmYhQZQ=="
 ---

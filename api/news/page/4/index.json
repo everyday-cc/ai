@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
+      "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
+      "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "originalUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2019-12/469dc663-a43a-4493-8eef-d1aa6d40617a/SamsunG.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "publishedDateTime": "2021-12-21T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
+      "title": "AWS Offers Free Online Course in Machine Learning",
+      "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "publishedDateTime": "2021-12-21T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
+      "title": "What Does An AI Actually Think Of AI Ethics?",
+      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "publishedDateTime": "2021-12-21T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
       "title": "Explained: Why E.U. needs to invest in chip design and packaging",
       "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
@@ -1013,132 +1144,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-supriya-lifescience-ipo-subscribed-7151-times-on-final-day-qib-portion-booked-3183-times.md",
-      "title": "Supriya Lifescience IPO subscribed 71.51 times on final day, QIB portion booked 31.83 times",
-      "excerpt": "The company has a healthy balance sheet position with a debt/equity ratio of 0.2x as of H1FY22, says Geojit Financial Services. The price band for the offer, which opened on December 16, is Rs 265-274 per equity share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/supriya-lifescience-ipo-subscribed-7-93-times-on-final-day-qib-portion-booked-61-7843101.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
-      "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
-      "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation/article_b2a0d3bf-eb2a-50ff-a9a1-1f36aa46262b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook",
-          "width": 1600,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-what-ai-means-for-gdpr-compliant-audience-targeting.md",
-      "title": "What AI Means For GDPR-Compliant Audience Targeting",
-      "excerpt": "It’s time for all businesses to review their approach, take small steps toward privacy-first compliance and take the lead from GDPR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616836b70b2d3470ee1e3a1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/20/what-ai-means-for-gdpr-compliant-audience-targeting/amp/",
-      "publishedDateTime": "2021-12-20T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
