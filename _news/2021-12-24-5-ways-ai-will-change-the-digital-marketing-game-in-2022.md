@@ -1,30 +1,25 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-publishedDateTime: 2021-12-23T17:16:00Z
-originalUrl: "https://www.entrepreneur.com/article/401518"
-webUrl: "https://www.entrepreneur.com/article/401518"
+excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+publishedDateTime: 2021-12-23T20:18:00Z
+originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -96,16 +91,7 @@ related:
       name: Newsclick
       domain: newsclick.in
     quality: 34
-  - title: "4 Trends in Scaling AI for the Coming Year"
-    excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
-    publishedDateTime: 2021-12-21T17:18:00Z
-    webUrl: "https://www.publicnow.com/view/C148D1931724826FF8657818398C8EFA2E6BDBF1"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
-secured: "C00zcV8E8e+ZPaJ12dbT4ARaPamDFwYuMH63gTRCGRM9QxDE7t+wXJheL+UNeqTIGhwqwN+rGCGGuh6Gl4ODqFJKaVLaJAxNttBIZAFlygjTqk+NZi6EWe5cGKY1EUTDNG3FWKxqskzT3Yz9JRADmXcnDZFCE7mugIW3VEMp75IKXSwvy2F8KpkdFAEyeiWFR9aMx6sMzpQbfvUfibeexqp0IldSMDZ/aHrF30vpQ3gQZJH947LmMNtgCTuOmZo3546xGH1o7ZAxxiha1RbWHQyhZvNbH629H456k4gQHF9jiBkPgX3EJwnGhF9rQeZLTQBGhswxv+a3IWvW4UPymSwM92jHofDb9pGzx/pman4=;3TwgCBui7Ujklxk2M554kA=="
+secured: "js6l3ki074yQ/tsa2uNPrh3dOUFnsBCkLg9L3tsuO/th67VS73/4Xn1eUR43iwiLu6U9U3fkwnY0KYx346Pf2WJM0bSA/jOQvPAkTe3ySeItS50iHhEwEGPKMBkj03n4Bq11fs797UWG1sKHhau4CvtkEoGJANldeVSJhHJp1UGEhksfAkX9k5hZvXRyghvSo4bBTnTOJAGCByH/zCwzZf0hScpbiP2/xg3LZe5FyjbC3r4efQWC9EWQTYeYqJ3f/GRQM2qQfzANL9bca6pW+b84Rk869OBvpD1381vN9+E1Pr0UX4EH9fDkjQd88FoProUWUgavtm8b5ueDMwXYywJ65ottIPXaIzIkenxPLlg=;QnMt7KHx4tLcjydVvnosyg=="
 ---
 

@@ -52,34 +52,6 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "A Promising Future for AI and Autonomy in Space"
-    excerpt: "Machine learning and deep learning are the next frontier in AI, and thus, in space applications. To quicken the integration process, engineers need software tools that they’re familiar with."
-    publishedDateTime: 2021-12-21T17:37:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21212499/mathworks-a-promising-future-for-ai-and-autonomy-in-space"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/12/Space_AI_promo.61c20e8aeeb73.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Applying Artificial Intelligence to Food Tray Production"
-    excerpt: "Food producer apetito uses Neurala’s artificial intelligence technology to automate and optimize visual inspection of meal tray components."
-    publishedDateTime: 2021-12-21T17:22:00Z
-    webUrl: "https://www.automationworld.com/control/article/21965030/applying-artificial-intelligence-to-food-tray-production"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.base.parameter1.com/files/base/pmmi/all/image/2021/02/640w/image003.602fc7f8809bc.png"
-        width: 640
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence for Credit Unions"
     excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
     publishedDateTime: 2021-12-24T22:54:00Z

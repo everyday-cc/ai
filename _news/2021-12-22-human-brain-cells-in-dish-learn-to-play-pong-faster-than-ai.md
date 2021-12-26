@@ -7,7 +7,7 @@ originalUrl: "https://www.tasnimnews.com/en/news/2021/12/22/2630522/human-brain-
 webUrl: "https://www.tasnimnews.com/en/news/2021/12/22/2630522/human-brain-cells-in-dish-learn-to-play-pong-faster-than-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 487
     height: 423
     isCached: true
-
-related:
-  - title: "Bridging divides in AI, machine learning"
-    excerpt: "A team of health equity experts from Johns Hopkins have joined a $50 million National Institutes of Health effort to close glaring gaps in the use of artificial intelligence and machine learning in health care and medicine among underrepresented communities."
-    publishedDateTime: 2021-12-21T17:03:00Z
-    webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 54
-    images:
-      - url: "https://www.bme.jhu.edu/wp-content/uploads/2021/12/Taylor.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "Sz+h29LvElUEQqH+1kZaRfSimaCWzQ0T+/MzsYJYXxBez6d+FCm1NEjjwxhPAW9uVSIrQelHEtAJTKdzbueY3VTu5sIqou/OhOZje/6GDENuzzKnBF9/xCyEQ0m8aCnS5HrDPsaZ1uhLOEHh0N7mBgqJaHmPwlAAXmwO62ZPDSDLjkcmbeoXA7Wim1l0RybEcTt/MloSa6HfxEYK/48bK41+wn7jdhuIsjgOJb0DZN0ix0b7ytXXR1ILjnXe1Co8lWUJ8d9FyCANcq5gQOB+2HjpvXC8TAs+PwtzipvvAYoYem//BPD/Zws/t/CJn2Nv/BtFt/NlPHVgh3pposa4njhKmh8xT9prjGpLpDPibTE=;h6F8py0RmCRqgJYShZyeYA=="
 ---

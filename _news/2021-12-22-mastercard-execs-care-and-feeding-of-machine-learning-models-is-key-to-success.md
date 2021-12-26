@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/301792/mastercard-execs-care-and-feeding
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/301792/mastercard-execs-care-and-feeding-of-machine-learning-models-is-key-to-success.html/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CIO
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "McDonald's to sell AI startup Dynamic Yield to Mastercard"
-    excerpt: "McDonald's on Tuesday announced that it has signed an agreement to sell Dynamic Yield, an artificial intelligence (AI) startup, to Mastercard for an undisclosed amount. McDonald's had acquired the startup in 2019 for more than $300 million in its biggest deal in two decades."
-    publishedDateTime: 2021-12-21T17:21:00Z
-    webUrl: "https://inshorts.com/en/news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/21_tue/img_1640105294864_231.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "McDonald's Sells AI Unit to Mastercard, Not Giving Up on Predicting Customer Orders"
     excerpt: "McDonald's says it will sell data startup Dynamic Yield to Mastercard, a deal expected to close in the first half."
     publishedDateTime: 2021-12-21T22:04:00Z

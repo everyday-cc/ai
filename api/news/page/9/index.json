@@ -2,108 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-12-15-forethought-nabs-65m-series-c-to-improve-customer-service-with-ai.md",
-      "title": "Forethought nabs $65M Series C to improve customer service with AI",
-      "excerpt": "Forethought, a startup looking to put AI to work across customer service, won the TechCrunch Disrupt Battlefield and soon after landed a $9 million Series A. Well, three years later that company just landed a $65 million Series C,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1210502593.jpg?w=1024",
-          "width": 1024,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
-      "publishedDateTime": "2021-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-timnit-gebrus-new-ai-institute-is-a-challenge-to-silicon-valley.md",
-      "title": "Timnit Gebru’s new AI institute is a challenge to Silicon Valley",
-      "excerpt": "A little over a year has passed since Timnit Gebru was fired from Google. The 38-year old Ethiopian-American researcher and former co-lead of the company’s Ethical AI unit, believes she was pushed out for working on an academic paper that raised red flags about using large language models in Google’s quest to develop “superintelligent” AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
-      "originalUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/12/Timnit_Gebru_crop.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-three-strategies-for-filling-tech-roles-during-the-talent-shortage.md",
       "title": "Three Strategies For Filling Tech Roles During The Talent Shortage",
       "excerpt": "The technology job market has never been more competitive than now, and employers and employees alike are struggling to find the best fit.",
@@ -1180,6 +1078,95 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-artificial-intelligence-in-manufacturing-markets-2028-by-component-technology-ml-nlp-computer-vision-application-predictive-maintenance.md",
+      "title": "Artificial Intelligence in Manufacturing Markets, 2028 By Component, Technology (ML, NLP, Computer Vision), Application (Predictive Maintenance Qualit",
+      "excerpt": "The \"Artificial Intelligence in Manufacturing Market By Component, Technology, Application, Industry Vertical, & Geography - Global Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=587796",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=587796",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 release of the world’s first artificial human arm,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

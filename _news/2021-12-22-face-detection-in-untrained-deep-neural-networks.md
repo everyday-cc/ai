@@ -6,9 +6,6 @@ publishedDateTime: 2021-12-21T17:13:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/938633"
 webUrl: "https://www.eurekalert.org/news-releases/938633"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: EurekAlert!
@@ -24,6 +21,6 @@ images:
     height: 336
     isCached: true
 
-secured: "pn2zsMF5yQIxLqe4iBwoacSVsSxOrXus0p7Zx1OuVF2L2I8WqLWKIbEeiihGrYCVeR22c9znK8MsQUwHlXlJikknBxCXifWOlr3FhMcz1t+nGo21dD6DVRhgzGeMR9lB0L/XuaIbtlcrupRw6WpGCoLGZgRm0eFBMvGCnLdrRNaRSqsedU0EqZY5K9suQZPj8zooH+UHmcCwS4gwZfbc3NfWpZel3igBsn13fj57K81BPmWsh3geoDBuVl8UHI5fOVeuuJtvEtljlwUUEt6s8QYSgxJxJFC36fxV6b2Pp1oqGogD/mI2Ao75icm6EiWdudZuvUr/CKGKiJ7nBcXweaDlrnKJBOqB8qvaKdLeqaA=;ojcvtoXXO9LemMgVBOoP6A=="
+secured: "VumoskeS68+Asld0Du0VrdLJwvmouOmUVYQ4HEf0BAiCSNzOaTYs+VIrXGmxzWwtt/ihHQUZq+zRhJJrA4iAk5EHb+/V6+dVMmVFnp3rsx7lV9QhSKsiaKrBThWE4a9bEWtZ5SE7ko+YhUt2bMIE4P+mrqtX8qlh7ujTo5rHSKSdr+2FPHisjhgfSgE6Exs2Wz13ElNaGitG/t47Obu3dBPGB2P4CYc4wmA8LOllI8IRmGJfa1WFOhF1KH4hQYyc2ve7uxvEM2y7n5UwZgcEgJiaLcl0r7wNENxGaol54gvhGxjVtj8JeB4Mttn2pXuy1Hk3IHHeLq7UcM2EqzGuCIDlI2OVHalGN0xu0Vv4uXg=;bQRUNQgVTF6rcku5F9TKVQ=="
 ---
 

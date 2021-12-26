@@ -9,8 +9,8 @@ ampWebUrl: "https://www.herald.ng/how-does-artificial-intelligence-change-the-sp
 cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/"
 type: article
 quality: 59
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: herald.ng
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 640
     isCached: true
-
-related:
-  - title: "How Is the Financial Services Industry Changing?"
-    excerpt: "The financial services industry operates in a rapidly changing world, but one it can help shape. Banking, insurance, capital markets, commercial real estate, investment management – 2022 represents a pivotal opportunity for all these businesses to create their own future."
-    publishedDateTime: 2021-12-21T19:00:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69802.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 24
-    images:
-      - url: "https://www.marketoracle.co.uk/images/Online-Banking-Laptop-PIXB.png"
-        width: 800
-        height: 495
-        isCached: true
 
 secured: "xzi5jNm8xiQseTRghRP7gyJWhl4KGVjOG+MzI4zSLBJfZSBb57+PQ8G1H2COxqcVlT5zeZvezUufHrlU3TwFEomBhreFc6xAgOjT9YD0m1f6hSRY3tbTJio1B1IoBq8Sexst3vUmVb5EUb31rHbVPv6V18/CvTW9KqF2RzbYT73cAp7FBISAgmDvPpJSin/QbBgwE8NhWzJp9A7tWtNvyP8IDzsqI/cFHItcO8YTuRQVJVu/ujXhEHrRYEqq7njwf9HWr+JqaOZjT+JjPoEu5cC6Qz+0sKfGqYT5eo7SZEW7N8Gzxhf7MV6dYHIgMM6G3DtllEHprQyiJyiczKyOnC3xLZ5IpWHIly90+mh0BLfzoFvq/nVEzWI1z/BfIYv3gROUo2CVfxtmFftKoL4gAJJrzmuadfPa+i/eJo80Sgc8L2Sc4eZ1onUhhOVhqJWKDBZcVZR/UPi22GewPGRu0DRMyaNggWwF5jl1MM+U5j/Nx1/Gzzj9ZmonsYPA7Byf2HjFZJexIofFULs2iAlFzA==;ZM+5fXSM4WvgTdu026krHA=="
 ---

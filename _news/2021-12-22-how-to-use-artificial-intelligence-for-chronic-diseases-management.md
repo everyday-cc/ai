@@ -44,16 +44,16 @@ related:
         height: 774
         isCached: true
   - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-    publishedDateTime: 2021-12-23T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/401518"
+    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+    publishedDateTime: 2021-12-23T20:18:00Z
+    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true
@@ -91,15 +91,6 @@ related:
       name: Newsclick
       domain: newsclick.in
     quality: 34
-  - title: "4 Trends in Scaling AI for the Coming Year"
-    excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
-    publishedDateTime: 2021-12-21T17:18:00Z
-    webUrl: "https://www.publicnow.com/view/C148D1931724826FF8657818398C8EFA2E6BDBF1"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "evD1w6tcTRxK4SJyRfQEGJKJvA+sr6LZ87YlNNtkaL4FtsOJi9QjCtHeUGatfWuE53KidD4Qme62In5HX32AilBk5eSPPkmO2aHHu6iV3FY1WE8nTGhydKG3WVa6qrQdzZ9OL5Px/6G+RH6U+loBHF8xJtFnfM+Qynczb1mtkB/Avg/zQdxA6GAMhEjP+IxTSbgkxMsI6JsYXg98FuNiCSDjKqihQkcF3bPIVYmwgqWPVEXRA3xe29E0qp33Ns2xC35ZG5j9RptyeypQb3zE6eTuwYW/iwsynegjEZsc0cwKSb0wkFKVu8g590Jvs/bTC8KmYBoqKOqogjZlBy3VjPKFkYm3Ge3sEMZWQNf2OC03CmPFU2fN62aP9RtW6DD5ej2pZ6cDOmis0Q0syBSMtKJfIe5ro5ggKxTkqxQV0wh1tLnthR4JiqSIrr1jXN6PFIAGTYWPIhrzSwDqxuJTvwdBdG/EW/ytdlRqCN/cx39JNPoeCWEmlB4tE40auqVDN4SnKNQ7fkq2/pnXddT58A==;ScrIaqePqNHpKWw2hpjv0A=="
 ---

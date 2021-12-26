@@ -3,8 +3,8 @@ category: news
 title: "Be the first to know"
 excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that"
 publishedDateTime: 2021-12-23T11:00:00Z
-originalUrl: "https://www.stltoday.com/lifestyles/technology/in-africa-rescuing-the-languages-that-western-tech-ignores/article_20b59f82-cf43-5f2c-9fa2-6d09606f4e99.html"
-webUrl: "https://www.stltoday.com/lifestyles/technology/in-africa-rescuing-the-languages-that-western-tech-ignores/article_20b59f82-cf43-5f2c-9fa2-6d09606f4e99.html"
+originalUrl: "https://www.stltoday.com/article_20b59f82-cf43-5f2c-9fa2-6d09606f4e99.html"
+webUrl: "https://www.stltoday.com/article_20b59f82-cf43-5f2c-9fa2-6d09606f4e99.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 1207
     isCached: true
 
-secured: "WEPjhOGSLhCtPNbY2v1cB9Iny0Yo8Eb8U8HgxKxujiMjS7GbxqKmye4+QTx8lpra0OsbDiI5GP1RQgPhTg0vRJubZCSOa+Dnnd35gP1nHHm8/1bYOOOGsO/UT+zaAs2VIU+tz+COlVKicApc2iWL720FyGhhHr4FyqmBiaDLTZm8O6+QnTqqm3Hy2GWVIu124LvW2mM6AxBbag5sepT0EC5Dc3VJ4KprEbXl8eYp5BMaRyrvEHU8woLGWiv23+fgOPld/Y2IrnwpWwdqsc4N4iCZ+p/RVb0ELKWgychLu+JgH2CcvFt/ub3j3X66SHd+6lVhR8QQI0ghqLKhZMbpE90jH3/WoHguEhTnkYjjmHI=;2YeLx9Tlc9aZNPa+qq8fhA=="
+secured: "YbPHESgM0bQ69FyQHHoOf/fdrKyuCh/KAy45bsRuwhn+KmF/pqz6+cghxMVt0A8ZbJiuicIkk9A7IYhqQlch/mW7QoNJxiuzmHtkQ2pdeC9uNRS9iSitqpHN/tv87zCWqIWAEMJVbG/toB3towcSgi+MLg5uz1iU3vUrH1yrQE7rmYSYT9EjkEZ0QLqfh+07GbdMkcZUBjgGPz75GTZejwQ6ZrrzioLy3OxmR8w3GyDPwZsqYAuOIY3LiA0tl6h9TsGYpsFa8/LLouejVSPuZHfPALvNmBrpI6QuX2vBjZfvD0AY2fCPHmDfBc1IzzR1UNci6R/PB/in+bUlWDMjhYgSsm5+FmKIQrX5STjiJhc=;M9TvtRFCim12XZEV/Zar+w=="
 ---
 

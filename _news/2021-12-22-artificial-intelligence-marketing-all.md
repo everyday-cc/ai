@@ -35,20 +35,6 @@ related:
         width: 1161
         height: 774
         isCached: true
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-    publishedDateTime: 2021-12-23T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/401518"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
     excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
     publishedDateTime: 2021-12-22T13:30:00Z
@@ -64,6 +50,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+    publishedDateTime: 2021-12-23T20:18:00Z
+    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
     excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
@@ -90,15 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "4 Trends in Scaling AI for the Coming Year"
-    excerpt: "This is one of many trends coming up in the new year. Others, related to artificial intelligence (AI), will profoundly alter the way we live, work, and interact with technology. Since Brad Porter, CTO at Scale AI and Corey Patton,"
-    publishedDateTime: 2021-12-21T17:18:00Z
-    webUrl: "https://www.publicnow.com/view/C148D1931724826FF8657818398C8EFA2E6BDBF1"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "gXaqnUL1/ftXnROOZdj4mW3srEIfWIBnS+pEbbZRxjzPexMLBaTZO8Jv2iaXFtdaA5AuMJzxtyiUP3YY9OIWl6MpdIZuZXdP961MVM+F/l1hQ33EUNp6IvTkZZwQDtyKQAIg1Z06fnQrY6bNlY4kv4gBea9ENJPtTcajqS776L4mSOjcNmne6lNwAiw2af3BHWr33vuyOQGPkIYiHCW/YPMNuEXT5gSGsAQd1l6nn/ujEDDm3MZKuf3N0wvNlw8RhSQ8CMXhrRT1OZXwZwVc6+uBA93cJJKZ/yjVPx2+PxG4iuxKDJaqg3I8ZAifq9l0oVBMyCbbHxCIZ7ar7h8YJBChCd3UHLou9WnMJR5pdBg=;KqgTRQqtfcgYwgOpM4M8xw=="
 ---

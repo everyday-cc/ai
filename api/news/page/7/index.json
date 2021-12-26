@@ -2,111 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-12-17-gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform.md",
-      "title": "Gtmhub raises $120M to expand its automatic OKR-tracking platform",
-      "excerpt": "Gtmhub, a company developing OKR-tracking software, has raised $120 million in capital, bringing its total raised to over $161 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "publishedDateTime": "2021-12-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition.md",
-      "title": "Build custom Amazon SageMaker PyTorch models for real-time handwriting text recognition",
-      "excerpt": "In many industries, including financial services, banking, healthcare, legal, and real estate, automating document handling is an essential part of the business and customer service. In addition, strict compliance regulations make it necessary for businesses to handle sensitive documents, especially",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-4925-image003.jpg",
-          "width": 4004,
-          "height": 2132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T12:02:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-17-how-to-leverage-ai-for-maximum-benefits-for-your-business.md",
       "title": "How to Leverage AI for Maximum Benefits for Your Business",
       "excerpt": "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers.",
@@ -1250,6 +1145,91 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-samsung-rolls-out-chips-for-self-driving-cars.md",
+      "title": "Samsung rolls out chips for self-driving cars",
+      "excerpt": "Samsung Electronics said Thursday it has begun mass-producing cutting-edge memory chips for an undisclosed auto manufacturer to power a range of connected features including autonomous driving. The newest lineup of chips includes 2-gigabyte GDDR6 graphic dynamic random access memory chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F16%2F20211216000591_0.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "publishedDateTime": "2021-12-15T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
+      "title": "3 startups spearheading AI growth in South Korea",
+      "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/ecommerce-enabler-acommerce-files-ipo-thailand/next",
+      "originalUrl": "https://www.techinasia.com/ecommerce-enabler-acommerce-files-ipo-thailand/next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

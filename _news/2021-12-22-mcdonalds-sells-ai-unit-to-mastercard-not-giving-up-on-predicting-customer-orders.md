@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "McDonald's to sell AI startup Dynamic Yield to Mastercard"
-    excerpt: "McDonald's on Tuesday announced that it has signed an agreement to sell Dynamic Yield, an artificial intelligence (AI) startup, to Mastercard for an undisclosed amount. McDonald's had acquired the startup in 2019 for more than $300 million in its biggest deal in two decades."
-    publishedDateTime: 2021-12-21T17:21:00Z
-    webUrl: "https://inshorts.com/en/news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/mcdonalds-to-sell-ai-startup-dynamic-yield-to-mastercard-1640107291753"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/21_tue/img_1640105294864_231.jpg?"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "ytBgvalpfmGaqQO3+Se74tIaZihNMdbaJtslvLp/GoVe2xWj1BgbkeheSig5tXK2Mb+EhHBZh9fFULxrcDy15FQ9qAD7h3PRB1TmXblkCWhYDvCc78So+ggIY4ruFuS+BEbk6cCSyiYu46+lUgocPPo21TWjXiTpcBWHW2gXDESDVdSPexfgfY8kci2uemY/CYnb7Jc1HlBQEk2ZkT5HbMmDno8e0yjh5KY+UAY9bACldSDL12Wd8APxdnvTIdDYclPn5NNF3ROwOvpKxiWnFdPj8DFgzlEpJgJWv6cWM2+nN1NgbsbNDYVprKlcszw9seTdUt+JRz+7patvc+VuBq3y4/5ru68+Eu3ALaxQwo3+Ap+f6HaMfVtGfE5FUL9/gbjA9jhL/wQmkFNoO4uKUB2rd41OZx0L7ecjBDVdUy4My5/5L4WxjcTKoirEilvHFGSB71bRskC32pWrMkSXHQM+ugytR52Rn+N9F+JZ2x612ipQnniolx6D0TjibI1eXKB724Y1ctJFXNIWSfiMLg==;aenH7oM31qAQkvjCTgMLkQ=="
 ---
