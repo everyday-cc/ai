@@ -41,20 +41,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Chinese self-driving startup Haomo.AI entres unicorn club after $157m Series A round"
-    excerpt: "Hillhouse Capital's GL Ventures, food delivery giant Meituan, Qualcomm Ventures, and others invested in the round."
-    publishedDateTime: 2021-12-22T04:16:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/chinese-self-driving-startup-haomo-ai-raises-157m-series-a-round-274865/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 32
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/12/haomo-scaled.jpeg"
-        width: 2560
-        height: 1426
-        isCached: true
   - title: "Chinese self-driving startup hits $1bn valuation"
     excerpt: "Beijing-based autonomous driving startup Haomo.AI has raised nearly 1 billion yuan ($156.9 million) in a Series A round of financing to reach unicorn status, with a valuation of over $1 billion, the startup announced Wednesday."
     publishedDateTime: 2021-12-23T07:11:00Z

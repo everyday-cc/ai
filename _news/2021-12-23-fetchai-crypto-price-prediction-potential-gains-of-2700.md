@@ -58,6 +58,20 @@ related:
         width: 501
         height: 344
         isCached: true
+  - title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
+    excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
+    publishedDateTime: 2021-12-26T18:21:00Z
+    webUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Predicting lightning with artificial intelligence"
     excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
     publishedDateTime: 2021-12-23T13:51:00Z

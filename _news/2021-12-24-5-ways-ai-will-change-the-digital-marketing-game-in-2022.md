@@ -1,30 +1,25 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-publishedDateTime: 2021-12-23T17:16:00Z
-originalUrl: "https://www.entrepreneur.com/article/401518"
-webUrl: "https://www.entrepreneur.com/article/401518"
+excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+publishedDateTime: 2021-12-23T21:50:00Z
+originalUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -73,6 +68,20 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 54
+  - title: "How AI-driven customer personas can transform marketing"
+    excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
+    publishedDateTime: 2021-12-26T18:39:00Z
+    webUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/system-927147_1280-pixabay.jpg"
+        width: 1279
+        height: 719
+        isCached: true
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
     publishedDateTime: 2021-12-22T22:02:00Z
@@ -97,6 +106,6 @@ related:
       domain: newsclick.in
     quality: 34
 
-secured: "PIzLkocQRxcH8P4wtJJoN0mSbV+UH6KD8XORAkPpr21DEUBQbPcxKQsRme4v6l74vXnW2ECu6aYMBvnrvPKWO28NoOY0FZpuDWI6KTN3aU2tooGSgUTwnsORqzFuUWAMim/GHoZBnZq4FkdjFOtliA77nq1GiYsvlkadVLxcalLh5VAr9NvXFAMnx7KFC3INOh6v4/KBPdM6j0mLb4JnwnKhHXyx/9/n3MRaR3maMiXpktRQT33JcGewABx3raZqw1qdAO7earolQMMLJpASsnFIAKqW5v7cFJistZmU/9TftHKrgQ3fohsh5vYvldLz7fy/xBDmQTsQSuYfsIRhrYpL9rCUbJkhnXUAcB2UzXI=;vEg5ZbX4rqBIW1nSCuVlcw=="
+secured: "ZOxPmXHNAC1vlZeaKBucwnCiweevms92cqurWsa99+rPifXaTpFzqjw567TfY3QuzjC9Uo98NuT66xWrCHl++9F2qZKhPu8m5JqVuoY5LqRdz7N1sD7Yp94xld+TPPlDfE2aWCgLyBH6inOIfWYjMB7+B18xz6yeJuCtU6snRyPxPoyms+60Yhh4QZCQG0K9alkq5dq0Q2admAcKKPgkyKryqgJbsR1RJR5jkdjHrExK7J5QQsP6lzmPUF5UVMkDHimFfBj4XpeJ8XfjtCjj85XaXSogICG39TJzvnrynNXHj+ciRyQGb+HTiyNhYNF5mP724tPCxa2bR0nKnxcEOl+GGkjyn5EjS8qef+yrV/8=;CToMzAsSxAfJ6heaeFKrEg=="
 ---
 

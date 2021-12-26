@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-sa
 webUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Founding Family Of Footwear Giant Belle Takes A Big Step Into Hong Kong’s Startup Scene"
-    excerpt: "Tang Yiu quietly built a multibillion-dollar business in Hong Kong selling women’s shoes across the Greater China region. Now, the 87-year-old’s little-known investment firm is backing some of Hong Kong's most promising startups."
-    publishedDateTime: 2021-12-22T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnkang/2021/12/22/founding-family-of-footwear-giant-belle-takes-a-big-step-into-hong-kongs-startup-scene/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c05aa3901842d7231d386b%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
     excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
     publishedDateTime: 2021-12-23T05:34:00Z

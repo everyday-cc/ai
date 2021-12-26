@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
-excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
-publishedDateTime: 2021-12-22T16:31:00Z
-originalUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
-webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
+title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
+excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
+publishedDateTime: 2021-12-26T18:21:00Z
+originalUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
+webUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: CustomerThink
+  domain: customerthink.com
 
 topics:
-  - Computer Vision
   - AI
+  - AI in Sales
+
+images:
+  - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+    width: 3608
+    height: 2336
+    isCached: true
 
 related:
   - title: "10 AI Predictions For 2022"
@@ -67,20 +73,6 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
-    excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
-    publishedDateTime: 2021-12-26T18:21:00Z
-    webUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
   - title: "Predicting lightning with artificial intelligence"
     excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
     publishedDateTime: 2021-12-23T13:51:00Z
@@ -123,6 +115,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
+    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
+    publishedDateTime: 2021-12-22T16:31:00Z
+    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 34
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z
@@ -161,6 +162,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "+aCcZ3zwu8cdyO6DyLxoJz9PbbyaMaSZq+QniV6c/KYjdoZWQuTE/9IuUihWdkrcxeVB9aDybBhrYt4yqCHExknX8Fr5/DDBNr+Z4PUP72BTJ231jd6cy+/HIIK7mzOfbA+s5r3InAqyGGtsrCphtcwnoT7SKCqeCXzt6h9I7RtTfQtfC1gLdZlB1pYMsdq6/MisW6XrqBIfnXokig0aJqqVgioonYHiva9+UJs/Fi+HpYT4uzlP/RSyKil6tUpUv1WUElh1mfKjdkHP7ezQj/aHMFnVC9QVzIdNdlElbubS4I/IWhvla3Cve6rMS7iDTKjqLD3Qe3WdFF5EQKE1+ApgUjd2Fr/FG/oZZx5VBkuMTXBAViGqjtv6BFw+hOGfVBfxgRqyTjkhLfkkN89zTEGdyd4Hc6pytDWWd+Vzg8BzUPGm72hUM77bYPcY44mvEh2ncdk7rPPpEJEU9MLUZqjxTb5eIaXImq28BqWfgj++kbDSR2JmnwQr90kQyyHhKniQ6RrUFbyRqctymTUu4w==;y/C5eB9T/tp5Dt0X1DrjPQ=="
+secured: "A5f00lrHJCsFAdEjrp0OajTQ8j3HhVuAl5XzTXKBrZn77QTnXLDXoGaqySrvhHqIFXQB7iv9dHkM59lcgk989fvMKOr3B3pquboPPgvpE5EklqUEGy3QTbg0JkR1LYMeMM4E4VvI62ne7aICAIDZdnGoDAWKZGDP+fHyDawPkwQQ/VTXOpW2g4cDTi4t9xQdXV2RytvecS5zcHdHj+25kqd+wHu80nYIYtTRTRVnnKTMOEX7zXGWolg5fKNjE2Y+ih0Bwn7+WP+lgFyPKlomrZWI4Pp+eP+qaXm1TgGm+iyhQCu0x27kNkvnTBqEzkUO+W2p0rqUwa4/ELozPbHXcoY2r2qXDzAR0jaeES2N7Co=;qXrTWFrMTeMDgpJHK51syQ=="
 ---
 

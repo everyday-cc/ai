@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 682
         isCached: true
+  - title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
+    excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
+    publishedDateTime: 2021-12-26T18:21:00Z
+    webUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Artificial Intelligence for Credit Unions"
     excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
     publishedDateTime: 2021-12-24T22:54:00Z

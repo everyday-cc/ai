@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
         width: 1200
         height: 682
+        isCached: true
+  - title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
+    excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
+    publishedDateTime: 2021-12-26T18:21:00Z
+    webUrl: "https://customerthink.com/5-best-uses-for-artificial-intelligence-in-b2b-sales-in-2022/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
         isCached: true
   - title: "Predicting lightning with artificial intelligence"
     excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"

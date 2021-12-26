@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-    publishedDateTime: 2021-12-23T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/401518"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
     excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
     publishedDateTime: 2021-12-22T13:30:00Z
@@ -61,6 +47,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
+    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+    publishedDateTime: 2021-12-23T21:50:00Z
+    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
     excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
     publishedDateTime: 2021-12-24T22:00:00Z
@@ -72,6 +72,20 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 54
+  - title: "How AI-driven customer personas can transform marketing"
+    excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
+    publishedDateTime: 2021-12-26T18:39:00Z
+    webUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/system-927147_1280-pixabay.jpg"
+        width: 1279
+        height: 719
+        isCached: true
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
     publishedDateTime: 2021-12-22T22:02:00Z

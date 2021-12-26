@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Understanding the Use of Artificial Intelligence in Sales Automation"
-excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
-publishedDateTime: 2021-12-24T22:00:00Z
-originalUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
-webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
-ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
-cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+title: "How AI-driven customer personas can transform marketing"
+excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
+publishedDateTime: 2021-12-26T18:39:00Z
+originalUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
+webUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business 2 Community
-  domain: business2community.com
+  name: CustomerThink
+  domain: customerthink.com
 
 topics:
   - AI
-  - AI in Sales
+  - AI in Marketing
+
+images:
+  - url: "https://customerthink.com/wp-content/uploads/system-927147_1280-pixabay.jpg"
+    width: 1279
+    height: 719
+    isCached: true
 
 related:
   - title: "How To Use The Power Of AI For Marketing Success"
@@ -67,20 +71,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How AI-driven customer personas can transform marketing"
-    excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
-    publishedDateTime: 2021-12-26T18:39:00Z
-    webUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
+  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
+    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
+    publishedDateTime: 2021-12-24T22:00:00Z
+    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
+    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
+      name: Business 2 Community
+      domain: business2community.com
     quality: 54
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/system-927147_1280-pixabay.jpg"
-        width: 1279
-        height: 719
-        isCached: true
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
     publishedDateTime: 2021-12-22T22:02:00Z
@@ -105,6 +106,6 @@ related:
       domain: newsclick.in
     quality: 34
 
-secured: "/AMxZL0nzFlccGplwxKeTrS7XkHEMjEGPatUfH4Y6jKMC2jfqPK1e5yH5vTiALobm+kIt8xv/McyBURxYojlF+ZtauROieRzG4kyUW5nOapveX3c9sCOZOGcw7GgMOMvcJzb+W99UxE4BY0rBvKDlyzmdukmKUcdYnrkt+sdZ6BJ2nQpZ2VT4JHO1/aCqVjNYlWSMnimDcvZmbHc1wazp0gx7mZ+3kl381SI8hJvehSK1p1hjrASeInbLKVaeSaQZMeiv2QMeLDmsOAuQo+bJrfVuL+IpXjuXAiF5xTTre5ru2JA/HChir9BxCqEdD+p33UBeJKx/VE3UEJW0/Lx1wbvFAlZuO+O5peGu/eAmHY=;xNGlMaNBB/HgFOiUmYhQZQ=="
+secured: "YEXhUSWUmMufA7DqjXbmqQbEYzgz9EtKYWUrdIrFfOa1XgDDdaIFxHDmhM5lAn180KOsf/whR3PQzNHvr0mEOKv3kOt5NppqR3rSN0N6h/TGO8rr9sOT5IJZnPYfV9O7gPAgHFXRoPYvAZDNfu/3cxzUHCx/Tp59dcYRUYoCJPoB/wdAfaUvlK3xp8T1TL8SkzEN2P16V6tlxWbE2pJvCz2xx8nYLKTVBz9ruK9MfeOD+Rpy6u+/W8E4/8mpmeaWu5+3iCLvKm6leLizX8/XTt6ruMpJOdNjZPaYZZige1JH5TbdSoCNWyl4xogzCEVHrcpYRKVheHVsH7ApjoCL2R1YSiF1FjksEN4+Drz2Z2E=;ezYvXN4VdlLuUk7BGKl4eA=="
 ---
 
