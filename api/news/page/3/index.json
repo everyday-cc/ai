@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status.md",
+      "title": "Self-driving startup Haomo raises RMB 1 billion, reaches unicorn status",
+      "excerpt": "Chinese self-driving startup Haomo announced Tuesday it has secured a RMB 1 billion (around $157 million) Series A from investors including GL Ventures, the early-stage investment arm of private equity firm Hillhouse Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "originalUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "publishedDateTime": "2021-12-21T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-supply-chain-startup-unbox-bags-7-mn-infusion-to-build-compact-ecommerce-robotics-solutions.md",
       "title": "Supply Chain Startup Unbox Bags $7 Mn Infusion To Build Compact Ecommerce Robotics Solutions",
       "excerpt": "Supply-chain robotics startup Unbox Robotics has raised $7 Mn in a Series A funding round led by 3one4 Capital.",
@@ -251,7 +294,7 @@
       "originalUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -469,41 +512,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-fintech-developments-how-ai-and-ml-are-changing-finance-in-2022.md",
-      "title": "Fintech Developments: How AI and ML are Changing Finance in 2022",
-      "excerpt": "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022",
-      "originalUrl": "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

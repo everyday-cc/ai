@@ -1,30 +1,25 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-publishedDateTime: 2021-12-23T17:16:00Z
-originalUrl: "https://www.entrepreneur.com/article/401518"
-webUrl: "https://www.entrepreneur.com/article/401518"
+excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+publishedDateTime: 2021-12-23T20:18:00Z
+originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -76,6 +71,17 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
+    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
+    publishedDateTime: 2021-12-24T22:00:00Z
+    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
+    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 54
   - title: "Applying Design Thinking for Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
     publishedDateTime: 2021-12-22T22:02:00Z
@@ -109,6 +115,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "4mq9tei9972iRjlB/W3iKQTHxEAAJT0tNSYTqP82O+Kn+wJMXzQB7/JrnVjr6XAa6d6j5XjDxPP/zZr5tzMRNxUDXCxYOxpAKlMNDVh2Zu/hS6Oksvw7VxnqYyMtTFsnycE6GQdlOJNUy238MnKskR78CKzVZvCv9Wov2Pft7o2IjqnNGRQDbQHqmg2dQKbS6P983/F3UA/4x8D4RZJngknDJ8XMp4n4g50I4Vxq0FPCeGQk/l2jVdHZjYzSG6tPHBF0w5JSoyRgKfNs7n/zbD9gtMA2+4eYcyPVjlvgyAqJi2j1dERWuf7IP5y1Pze3pTIDT0LzpghuHlGZeuLww4qxytigFFeGdRhGZ8G/8Vo=;LJ7x4ePsaOMGKnd9llMO4g=="
+secured: "EY8xTEEJlWz03+B9sYmOuARLf0b/Gv0FeznAzGvt5RDxDV2nu5428WK37BMnGdTAdbG9hStxXGY/yIxuhgN7l/PgZw2PGTD5jAqRb/zKz5W5/2VktdkK5aSeQPyBajwRqRa1K4Eci3f+KjVvvhVX/abPXU87KAGAs3u/wccUcuPi6amhiShAIYuGRxYkkNREsP26raqdDsfsiqFuh6NRIcMHG47Cn3QhqPKv9GOwdeyA0cdv/7VaLNO8UQ2aQcWkDvEawVkplX+fzxJUHjGy3DgSPCWVu1xFvV4ZqUHIW9h3AC1A9+ZQjcQ7f08N356D+1WOIGLr0H4QRUPkf0/Ig8CgQkQs/T48w+4Aq/oRjWs=;8wEl1FqJi3fO07CvcbqbyQ=="
 ---
 

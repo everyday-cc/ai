@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-ho
 webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Finextra
@@ -20,20 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Demand Outlook of AI in Agriculture Industry Development Scenario and Forecast 2026"
-    excerpt: "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ..."
-    publishedDateTime: 2021-12-21T14:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/demand-outlook-of-ai-in-agriculture-industry-development-scenario-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Christmas-Camel-Santa-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The future of Fintech – where are we heading in 2022?"
     excerpt: "As the year draws to a close, there is no better time to take stock of the progress made across the Fintech ecosystem over the year just passed and look ahead to what the future holds. Let’s take a closer"
     publishedDateTime: 2021-12-22T11:31:00Z

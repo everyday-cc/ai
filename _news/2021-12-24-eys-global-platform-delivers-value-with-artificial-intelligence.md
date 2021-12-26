@@ -70,22 +70,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "50 Global Hubs for Top AI Talent"
-    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
-    publishedDateTime: 2021-12-21T13:25:00Z
-    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "7i3PPoui/keHooEmrjv471gXHT63on/3tcOrVUlEjhQVMcj6rGw0sCl3w13M2eMZzxe7fHf9BtJ4mhnWtuuAxlLJhTLayXTKLJninjQS59AzBgD4a0cHm6sCgnkmyBDnlgxb5F4E2SISk/jfB/b37db/AVAZrjrBj46ujd+ISNxNamy39BzmYAWfD4O0+pq25oZBgF/BDPg/ttWYbmBrGlX0SFaruHeelmCwixU8M7idTnHdcg8LB92JUZrM+eWHBity/hCybEMyBXowDdOSnu3Vm1ObLpdAnjyQftZge19Z6tFq+x6U/kisklqEQ3VWlKqB/YghYIT1p2HoCJksn23fR3iwG46CvcjebqnroiM=;srDtTN2BRLZehqPr1e+yDA=="
 ---

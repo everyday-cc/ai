@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How to prevent mass extinction in the ocean using AI, robots and 3D printers"
-    excerpt: "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,"
-    publishedDateTime: 2021-12-21T13:40:00Z
-    webUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html"
-    ampWebUrl: "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 71
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "How to Prevent Mass Extinction in the Ocean using AI, Robots and 3D Printers"
     excerpt: "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible"
     publishedDateTime: 2021-12-22T13:12:00Z

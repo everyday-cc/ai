@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-21T13:32:00Z
-    webUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
-    ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
-        width: 1000
-        height: 482
-        isCached: true
   - title: "We can’t reach consensus on killer robots ban. History says it could be next major arms race"
     excerpt: "Autonomous weapons killed human beings for the first time last year in the Libyan civil war. There's still a debate on their ban."
     publishedDateTime: 2021-12-25T03:04:00Z

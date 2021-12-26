@@ -227,6 +227,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
+      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
+      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
       "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
       "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
@@ -1316,49 +1359,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-meet-nous-an-underwater-artificial-mind.md",
-      "title": "Meet NOUS: An Underwater ‘Artificial Mind’",
-      "excerpt": "The establishment of Maritime Protective Areas (MPA) and marine archaeological sites has been an objective of the Ministries of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
-      "originalUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/images-courtesy-george-128204.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
-      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
-      "publishedDateTime": "2021-12-14T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

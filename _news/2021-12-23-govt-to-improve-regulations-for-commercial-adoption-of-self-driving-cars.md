@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The $7 TRILLION Self-Driving Revolution Is Here"
-    excerpt: "Domino’s is already autonomously delivering pizzas using mini self-driving cars in Houston. 7-Eleven has launched its own autonomous delivery service in California. Kroger is using self-driving cars to autonomously deliver groceries in Phoenix and Houston."
-    publishedDateTime: 2021-12-21T14:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "How does AI impact self-driving cars?"
     excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
     publishedDateTime: 2021-12-23T00:22:00Z

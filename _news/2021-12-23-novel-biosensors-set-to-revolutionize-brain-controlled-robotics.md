@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/12/211222100804.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/12/211222100804.htm"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Science Daily
@@ -23,38 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Sensors set to revolutionise brain-controlled robotics"
-    excerpt: "A novel carbon-based biosensor developed at UTS is set to drive new innovations in brain-controlled robotics. Developed by Professor Francesca Iacopi and her team in the UTS Faculty of Engineering and IT,"
-    publishedDateTime: 2021-12-21T13:29:00Z
-    webUrl: "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp"
+  - title: "Mind-controlled robots now one step closer"
+    excerpt: "Researchers teamed up to develop a machine-learning program that can be connected to a human brain and used to command a robot. The program adjusts the robot's movements based on electrical signals from the brain."
+    publishedDateTime: 2021-12-21T21:56:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/12/211216150201.htm"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 89
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/sensors-set-to-revolut.jpg"
-        width: 825
-        height: 409
-        isCached: true
-  - title: "The Robot Revolution: How To Talk To Employees About The Benefits Of RPA"
-    excerpt: "Advertisement Just a few years back, it was all doom and gloom for humans. AI doomsayers cast a picture of a jobless future, in which humans could be replaced by machines in every facet of their working lives."
-    publishedDateTime: 2021-12-23T11:32:00Z
-    webUrl: "https://wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/"
-    ampWebUrl: "https://wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-robot-revolution-how-to-talk-to-employees-about-the-benefits-of-rpa/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 58
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/robot-with-realistic-expressions.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "gE57iz1WboJD1HAxeyrCjcC6g3qaEAtXXFTwcE+n3zz/D/45XevxvxcooZ53hFAgN2hHcQnaO5OyU8SOCBjnx39cTbov5FdayMnDbL++wRzBUmikxp+yTTkjjgr63GXbKHxAU8cIB88L0IaPs8A3s2ymjgCHklMwP93Pl/1C/yF05Ai5tvEnvtXrq7rjB36vB+hWwltI5JKoIOcM9dfsaljYPsPTbk5X2pRk5skxkPCbkq3+lKkQNws25aTdrqZZgAHa2ZEFzQYJ/8IFWCWCyySgu12Z+ufboO9jgJ+wkwUo/IPwhTxIyCc4ERhgnlrkLBsH5LyS2T5MdJUGfu35JXG1Z/4u91vH2SqVaRGjmz4=;nJzBgLd5j8GrFjsD2avtig=="
 ---

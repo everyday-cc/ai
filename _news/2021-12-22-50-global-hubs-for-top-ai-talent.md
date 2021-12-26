@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
 type: article
 quality: 157
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fpredictions_2022-1.jpg&signature=89285f9f9a18d61afe7c78367c47a3c8"
         width: 1280
         height: 640
-        isCached: true
-  - title: "50 Global Hubs for Top AI Talent"
-    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
-    publishedDateTime: 2021-12-21T13:25:00Z
-    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
     excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."

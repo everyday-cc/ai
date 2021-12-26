@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 901
     height: 1199
     isCached: true
-
-related:
-  - title: "Adopting AI to Improve Patient Outcomes, Cost Savings, Health Equality"
-    excerpt: "A recent survey of senior healthcare executives indicates organizations support adopting artificial intelligence practices."
-    publishedDateTime: 2021-12-21T14:56:00Z
-    webUrl: "https://healthitanalytics.com/news/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/adopting-ai-to-improve-patient-outcomes-cost-savings-health-equality"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1040557296-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
 
 secured: "GXVvqaJjf8tLbXs92Y8TsDw3CVwpQ/FjFHRCDZJX4nia3Msdv+/gIKOONydRT4SRTiiSQQ3TEXPY4PnNKYvfUC+pdsecgvJfJqr8X5YnjbsvCnS+BOAZCwh+v+CGHgca61gRKSDKVpw8v/ytDoxX3VNJqp5rTfpAILEc9GZM634xsRwUQ7ObT+IpbUQD+Tgghd3QfugWJhevNkoKkBj5QCp41HmGs48j8lj0BwWl9GI29DjaxOnq/E3ls85rym5T36+Q+wt0PPFbmxEBjhBDUc/t3liYiHAqJwmYy4+IyR3XQvx0rJXRR+RUBeJF1VQcdAC3i36QzQcsbvXjHp15xHHJu4Zs8EDi5xL+bbjaSJtk9WR8Mzc0W3EtXa12K6oKOmUyPdbT4N/zwZsSRv/gHKXkqhnRBxLxItpw2zXoIXkMFvnhDNbwkNjd9gNLkeKxKHwTaULgrVilzGVwmkaSxuuxvxXaPZ0/kiLv77HcsdcoLnqPLqxLBDpE/Y+SXQmf8jhpsNQKMO76EIzIE1u8RA==;FvU+vvAAAUGBeWTfDGn4NQ=="
 ---

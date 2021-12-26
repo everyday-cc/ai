@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The $7 TRILLION Self-Driving Revolution Is Here"
-    excerpt: "Domino’s is already autonomously delivering pizzas using mini self-driving cars in Houston. 7-Eleven has launched its own autonomous delivery service in California. Kroger is using self-driving cars to autonomously deliver groceries in Phoenix and Houston."
-    publishedDateTime: 2021-12-21T14:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-%247-trillion-self-driving-revolution-is-here?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
     excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
     publishedDateTime: 2021-12-23T06:58:00Z

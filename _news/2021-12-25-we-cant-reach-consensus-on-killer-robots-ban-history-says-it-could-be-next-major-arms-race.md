@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/opinion/we-cant-reach-consensus-on-killer-robots
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/we-cant-reach-consensus-on-killer-robots-ban-history-says-it-could-be-next-major-arms-race/787895/?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research"
-    excerpt: "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war."
-    publishedDateTime: 2021-12-21T13:32:00Z
-    webUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html"
-    ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg"
-        width: 1000
-        height: 482
-        isCached: true
   - title: "UN Fails to Agree on ‘Killer Robot’ Ban as Nations Pour Billions Into Autonomous Weapons Research"
     excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time ever last year, according to a recent United"
     publishedDateTime: 2021-12-22T09:47:00Z

@@ -28,20 +28,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 51
-  - title: "Demand Outlook of AI in Agriculture Industry Development Scenario and Forecast 2026"
-    excerpt: "Artificial Intelligence has various application in agriculture ranging from rural automatons, facial acknowledgment, computerized water system frameworks, and driverless tractors. These ..."
-    publishedDateTime: 2021-12-21T14:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/demand-outlook-of-ai-in-agriculture-industry-development-scenario-and-forecast-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Christmas-Camel-Santa-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "bfTCrLhi3Pbz9X1WqJLq6GuB7k5IKWHvqD98ICpJRYT+pWIuG7hspgNJzbr9ND0t27g8NA/8fE7d5tv5JMPzeNM7iRZRaQEZag9Qq7t3ETt2XnzKNfAou4opT0WHc2aOXgZoNCk3xEABEqiPX5S2Smpf8XOcHR30clkT3kPj9gWF4/Nb57Xukc6K5/g4xUEKuX1Is2IQjbMXA0RzBUDk1Ou2q8zSX7mpyybTikIOFLoTsHWPUcvtm7RaV5KOT5xdtGarJ5tGa8wwjRdZ5M2qfVaFaoD2foWEmyemLH+iNCozWRJ5oTj7Air91st3XBWgWcM5vvUFfPPszICXCOblUqA5FTsMlmkiUySErOw3b33zHUpyogauCfopTVV6UknJpTBoknWz1xwLrs874uXiZRyLZGhJ378UGHZJ0IWbK2GebFmGcnqUMlfQ3wD539y0k8x6DuHgeF2vnmc750dFsE8JY7a2Xz0KzT2pXzEKEBJZV0VXKtVy3fBTKgmcnyuOUtenZPzcVEnv6bZ5GlAMKg==;89BnwzIcibxJWf2zfiuFng=="
 ---

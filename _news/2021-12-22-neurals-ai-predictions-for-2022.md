@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "50 Global Hubs for Top AI Talent"
-    excerpt: "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives."
-    publishedDateTime: 2021-12-21T13:25:00Z
-    webUrl: "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "EY's Global Platform Delivers Value With Artificial Intelligence"
     excerpt: "Going beyond the standard extract, transform, and load (ETL) processes, EY’s Innovation Council developed and deployed complex Artificial Intelligence models through Alteryx Python building blocks to enable efficient deployment of the intelligent classification algorithms across a number of use cases."
     publishedDateTime: 2021-12-23T16:20:00Z

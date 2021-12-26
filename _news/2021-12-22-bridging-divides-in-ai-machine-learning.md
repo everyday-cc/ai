@@ -7,7 +7,7 @@ originalUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-ma
 webUrl: "https://www.bme.jhu.edu/news-events/news/bridging-divides-in-ai-machine-learning/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bridging divides in AI, machine learning"
-    excerpt: "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities"
-    publishedDateTime: 2021-12-21T14:20:00Z
-    webUrl: "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine-learning-consortium/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 54
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/purnell-taylor-thorpe121721.jpg?itok=GgDj2ZbR"
-        width: 900
-        height: 375
-        isCached: true
   - title: "Human Brain Cells in Dish Learn to Play Pong Faster than AI"
     excerpt: "Hundreds of thousands of brain cells in a dish are being taught to play Pong by responding to pulses of electricity – and can improve their performance more quickly than an AI can."
     publishedDateTime: 2021-12-22T08:02:00Z
