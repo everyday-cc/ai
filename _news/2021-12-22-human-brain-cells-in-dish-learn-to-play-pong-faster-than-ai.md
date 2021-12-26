@@ -53,20 +53,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
-    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
-    publishedDateTime: 2021-12-21T11:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
-        width: 2561
-        height: 1341
-        isCached: true
 
 secured: "Sz+h29LvElUEQqH+1kZaRfSimaCWzQ0T+/MzsYJYXxBez6d+FCm1NEjjwxhPAW9uVSIrQelHEtAJTKdzbueY3VTu5sIqou/OhOZje/6GDENuzzKnBF9/xCyEQ0m8aCnS5HrDPsaZ1uhLOEHh0N7mBgqJaHmPwlAAXmwO62ZPDSDLjkcmbeoXA7Wim1l0RybEcTt/MloSa6HfxEYK/48bK41+wn7jdhuIsjgOJb0DZN0ix0b7ytXXR1ILjnXe1Co8lWUJ8d9FyCANcq5gQOB+2HjpvXC8TAs+PwtzipvvAYoYem//BPD/Zws/t/CJn2Nv/BtFt/NlPHVgh3pposa4njhKmh8xT9prjGpLpDPibTE=;h6F8py0RmCRqgJYShZyeYA=="
 ---

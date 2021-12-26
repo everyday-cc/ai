@@ -7,7 +7,7 @@ originalUrl: "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine
 webUrl: "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine-learning-consortium/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
         width: 487
         height: 423
-        isCached: true
-  - title: "Sight Machine, NVIDIA Collaborate to Turbocharge Manufacturing Data Labeling with NVIDIA AI Platform"
-    excerpt: "Sight Machine Inc. today announced it is collaborating with NVIDIA Corp. to apply machine learning to turn the chaos of factory data"
-    publishedDateTime: 2021-12-21T11:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sight-machine-nvidia-collaborate-to-turbocharge-manufacturing-data-labeling-with-nvidia-ai-platform-301448297.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/816554/Sight_Machine_Logo.jpg?p=facebook"
-        width: 2561
-        height: 1341
         isCached: true
 
 secured: "P22cGmj1nvlH+UHlf+AAlMCNqJd/vOnKbahpjDlWu+bkfVYHfbR32MkD/mE6e+6bYMklesnO97c/uX8zXQCoFrkEkiZISCexa2+srTouWQDyoX6r32HiWfc9eFmRgCSfAm0A8kKk4cqHonlTOg0OWz4wyc0xbkaquYWYqZgubb5WZFYNHRs+sDuuXD7SYUtzXrdH9G25isP6cYK1FfX678uw3vXizowX+WiFh5E3azQ8SqsN3+ZS2H7ifWp6xKhjQn8hHWcs1VLbmTq5fZEv71sh5LYklBA+1hsK5XY+uaCJmd4giHn0PCBykP2gmhjJr7igrcKLsAYKl4TCkGVxc9Wa5K833i032hiF2Ydzo/fitnF0PcZuFhqvzhQK2dR7S0hc+1C2QezbZCscUCG/1kq6GAm0Pa4RWup1kp+fxnv0lRUcpL97TUZlPt/de+1+r4bm7SoJCwYkbNGlFYiJwbPYqImYpld6DEewflwvCxvO1zrkg3To7fcL8rhjiv4y6vI7qLCoRBYgIp9G5Nnc1A==;TXovdudngLxQu5lykCq2Iw=="

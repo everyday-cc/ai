@@ -480,7 +480,7 @@
       "originalUrl": "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -566,7 +566,7 @@
       "originalUrl": "https://hub.jhu.edu/2021/12/21/nih-artificial-intelligence-machine-learning-consortium/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -744,6 +744,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
+      "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
+      "excerpt": "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
+      "originalUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg",
+          "width": 1000,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
+      "publishedDateTime": "2021-12-21T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1106,49 +1149,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
-      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
-      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "publishedDateTime": "2021-12-21T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

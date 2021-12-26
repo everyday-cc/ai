@@ -399,6 +399,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
+      "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
+      "excerpt": "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
+      "originalUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg",
+          "width": 1000,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
+      "publishedDateTime": "2021-12-21T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-sensors-set-to-revolutionise-brain-controlled-robotics.md",
       "title": "Sensors set to revolutionise brain-controlled robotics",
       "excerpt": "A novel carbon-based biosensor developed at UTS is set to drive new innovations in brain-controlled robotics. Developed by Professor Francesca Iacopi and her team in the UTS Faculty of Engineering and IT,",
@@ -782,10 +825,10 @@
     {
       "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
       "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
-      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ...",
+      "excerpt": "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -793,13 +836,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
-      "publishedDateTime": "2021-12-16T06:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T05:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1305,49 +1348,6 @@
       "provider": {
         "name": "marinetechnologynews.com",
         "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
-      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
-      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "publishedDateTime": "2021-12-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheBetterIndia",
-        "domain": "thebetterindia.com",
         "images": null,
         "publishers": null,
         "authors": null

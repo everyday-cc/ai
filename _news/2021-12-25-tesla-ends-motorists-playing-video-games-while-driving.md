@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla Owners, Face It: You Are Not Testing Full Self-Driving"
-    excerpt: "The most common excuse you hear from people who accept using Tesla’s beta software is that they are helping the company perform tests. This would allow Tesla to offer 1 million robotaxis in 2020. Already at the end of 2021 and with no robotaxis in sight,"
-    publishedDateTime: 2021-12-21T12:01:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-owners-face-it-you-are-not-testing-full-self-driving-177109-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
     excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
     publishedDateTime: 2021-12-21T22:29:00Z

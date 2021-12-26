@@ -42,22 +42,6 @@ related:
         width: 501
         height: 344
         isCached: true
-  - title: "Predictions on robotics for 2022"
-    excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
-    publishedDateTime: 2021-12-21T12:30:00Z
-    webUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/"
-    ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/Pulak.jpg"
-        width: 616
-        height: 582
-        isCached: true
   - title: "A Promising Future for AI and Autonomy in Space"
     excerpt: "Machine learning and deep learning are the next frontier in AI, and thus, in space applications. To quicken the integration process, engineers need software tools that they’re familiar with."
     publishedDateTime: 2021-12-21T17:37:00Z

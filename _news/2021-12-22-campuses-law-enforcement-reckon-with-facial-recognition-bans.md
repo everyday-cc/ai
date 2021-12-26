@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement
 webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
 type: article
 quality: 139
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://images.assettype.com/fortuneindia/2021-12/464c1236-29a3-4948-a6ef-88df05867880/facial_recognition.jpg?w=700"
         width: 700
         height: 394
-        isCached: true
-  - title: "Despite officials’ unwillingness to talk, students at The U got to the bottom of facial recognition technology on campus"
-    excerpt: "The students published their semester-long investigation independently of any outlet, providing a model for others."
-    publishedDateTime: 2021-12-21T11:30:00Z
-    webUrl: "https://www.poynter.org/educators-students/2021/despite-officials-unwillingness-to-talk-students-at-the-u-got-to-the-bottom-of-facial-recognition-technology-on-campus/"
-    type: article
-    provider:
-      name: Poynter
-      domain: poynter.org
-    quality: 14
-    images:
-      - url: "https://www.poynter.org/wp-content/uploads/2021/12/AM25.png"
-        width: 540
-        height: 405
         isCached: true
 
 secured: "nlwVmEYOAapntx78+XminFAeKP9DoeAlw6UJPTDUBetp7dJp/0YU8CQNeb6TY85q99xDMf9Uo6iG7oSPdEQ2HkA83Rg4A+kufsuhmm2VrFd5yzedUP5jEmGMD6QwywfgFO7tRgmJ27u2GxR5um2Lp9NYICUvZSqpPfeex2Flxx7/bFvMI6q+PTmjNhTZpok8IVHFf2niHFgsKaXOKMz+XCTihH3GsSf6s2wiDVtbZg3RHf1lE2uCu6bPmhMFmOxuHag43+qCEZo8a1YBaNBm/pSymKaUoPPJ5gmtbHUPxd54DGd3xzGF/TCcZS//1wCklS1ogBaS6gkeSbbSRFgEWYO8JRe+CSDuHzS5cf8bwacgRQkwDE1Vnu+hz3FYC9n0pXAtl8fr9sklbYkNxhQiD7Eh8FKNtso6Ewlnle+iKd01tMkLxLdLSn8xKDVhgR2IRcQ7oW8uwRuGF4pRrd2Qhq0d/0DS912FLIN/xdM1/eogRcNCvU/euMqO1I/PqiXy8d+DqAUugVTDpLbhFLCzylwsdfY1pKUVNWSnTkd5j2E=;73e07xGmuTqyHhc/TTYVDg=="

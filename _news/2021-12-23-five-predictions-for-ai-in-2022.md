@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/23/five-predictions-for-ai-in-2022/amp/"
 type: article
 quality: 87
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predictions on robotics for 2022"
-    excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
-    publishedDateTime: 2021-12-21T12:30:00Z
-    webUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/"
-    ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/Pulak.jpg"
-        width: 616
-        height: 582
-        isCached: true
   - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
     excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
     publishedDateTime: 2021-12-22T20:57:00Z

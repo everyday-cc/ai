@@ -1,25 +1,30 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-publishedDateTime: 2021-12-23T20:18:00Z
-originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+publishedDateTime: 2021-12-23T17:16:00Z
+originalUrl: "https://www.entrepreneur.com/article/401518"
+webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
-quality: 54
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -104,6 +109,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "tk4ALnhPEAMFn9wlWlA0wcWoAsHT9YadA7WFtVD56yki5Ttsb+F9cZ+phC19V0phoHRkB0JPpd097ZVjcqp7jAJgv36kwIW968vSskE82DP+5R8oNuhOWjvVpm+2OIu3UEBHRFpV/MdrRtdYwJiNp8jTzBCzgua7X8jAyuKDYVdddLlUA4d28BHsoSlRsbj1kHduGpXl39U4VZyiS6TX2JyYWh3DSsWdeVm3QI76/VLRmhjQewBGNjTBgVZTZKZgkF5wLazI/CJ00b9LVay0JFlYS7JyjHs8EvHa2o5fxg8TibnQxMlP3LsJYRKuL26TWMB0WI89/0LNCXXGvVdbuKyDchCh/wnrO7tqUgvjyg4=;gj045d/YVEnkyr/Pha5pkg=="
+secured: "4mq9tei9972iRjlB/W3iKQTHxEAAJT0tNSYTqP82O+Kn+wJMXzQB7/JrnVjr6XAa6d6j5XjDxPP/zZr5tzMRNxUDXCxYOxpAKlMNDVh2Zu/hS6Oksvw7VxnqYyMtTFsnycE6GQdlOJNUy238MnKskR78CKzVZvCv9Wov2Pft7o2IjqnNGRQDbQHqmg2dQKbS6P983/F3UA/4x8D4RZJngknDJ8XMp4n4g50I4Vxq0FPCeGQk/l2jVdHZjYzSG6tPHBF0w5JSoyRgKfNs7n/zbD9gtMA2+4eYcyPVjlvgyAqJi2j1dERWuf7IP5y1Pze3pTIDT0LzpghuHlGZeuLww4qxytigFFeGdRhGZ8G/8Vo=;LJ7x4ePsaOMGKnd9llMO4g=="
 ---
 

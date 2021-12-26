@@ -75,17 +75,17 @@ related:
         isCached: true
   - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
     excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-26T02:20:00Z
-    webUrl: "https://www.ktvb.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    publishedDateTime: 2021-12-26T03:22:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
     type: article
     provider:
-      name: KTVB
-      domain: ktvb.com
+      name: KPNX
+      domain: 12news.com
     quality: 43
     images:
-      - url: "https://media.ktvb.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+      - url: "https://media.12news.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

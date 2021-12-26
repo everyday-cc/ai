@@ -113,20 +113,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Despite officials’ unwillingness to talk, students at The U got to the bottom of facial recognition technology on campus"
-    excerpt: "The students published their semester-long investigation independently of any outlet, providing a model for others."
-    publishedDateTime: 2021-12-21T11:30:00Z
-    webUrl: "https://www.poynter.org/educators-students/2021/despite-officials-unwillingness-to-talk-students-at-the-u-got-to-the-bottom-of-facial-recognition-technology-on-campus/"
-    type: article
-    provider:
-      name: Poynter
-      domain: poynter.org
-    quality: 14
-    images:
-      - url: "https://www.poynter.org/wp-content/uploads/2021/12/AM25.png"
-        width: 540
-        height: 405
-        isCached: true
 
 secured: "+DHsI1J0aTR1pqXGWItUEmtKKabGvt9pgmEWTEBk/n08LG7LQPkm8Y8zm4x/MOCpEbD+A2SVjF4WcZHT2Ph24qr5d2qYXAQ8KFN/2NdlIT38zJ8ecYtIeKFTI/9vYz4TTbpTD88kRuxkjtu+oMyBDDQpZ6gM+aQGPeqpB9Vs3olwkXktBbznLycug3G3deEpLKO4Cf+A74YWceSkneUZU5C1URQM1ut6MDqcK8DgqfLqJHGqbUEm199zZmL0nCsVJBsgiRykaETKbO/H/4po0Sau1JMYdRa8EAocHxi62lQifOJy+W0UInYAd284SGIHrH/1flQnxTaqO6TuQyLO4X+TFL0+Z085Cf+iuts7v3OpKPf/q8aL+yH7K1KcazpLuqTwSdbevoRNP+usjmBT+yoS9abs5g0clxUlDtvfBTfUnVOTBseB8Ybb2SynTFbzYbUywiG/jdU/v5PlghJvuVi6YiaNgEi1zFfk2bVrzFzSM0gbIVonh5z1IKlf+0DLvQQX46rfh8jF3aiqzl9oLQ==;/POv7wbDEAK0xD8AInY7Jg=="
 ---

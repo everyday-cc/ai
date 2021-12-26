@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
+      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
+      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "publishedDateTime": "2021-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology.md",
       "title": "Podcastle Makes Creating Podcasts Easy Thanks To Ai Technology",
       "excerpt": "Podcastle is a new platform that aims to make the creation of podcasts easier and more professional thanks to some nifty AI technology and a text-to-speech editing tool.",
@@ -1110,52 +1153,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
-      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
-      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
-          "width": 777,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "publishedDateTime": "2021-12-11T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

@@ -34,15 +34,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 51
-  - title: "Fintech Developments: How AI and ML Will Impact Finance Next Year"
-    excerpt: "Naturally, AI (artificial intelligence) and ML (machine learning) are  at the heart of this, and it comes as no surprise that the industry is predicted to be worth over $17,440 million with a CAGR of 17."
-    publishedDateTime: 2021-12-21T11:46:00Z
-    webUrl: "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-will-impact-finance-next-year"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
   - title: "The future of Fintech – where are we heading in 2022?"
     excerpt: "As the year draws to a close, there is no better time to take stock of the progress made across the Fintech ecosystem over the year just passed and look ahead to what the future holds. Let’s take a closer"
     publishedDateTime: 2021-12-22T11:31:00Z

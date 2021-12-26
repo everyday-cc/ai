@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomo
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Phys.org
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race"
-    excerpt: "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last."
-    publishedDateTime: 2021-12-21T12:18:00Z
-    webUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 78
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fkiller-bots.jpeg&signature=e8721fa3d7faa8f7c1aa3cdc4fecbcba"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "We can’t reach consensus on killer robots ban. History says it could be next major arms race"
     excerpt: "Autonomous weapons killed human beings for the first time last year in the Libyan civil war. There's still a debate on their ban."
     publishedDateTime: 2021-12-25T03:04:00Z

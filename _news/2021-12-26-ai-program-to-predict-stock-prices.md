@@ -40,22 +40,6 @@ related:
         width: 501
         height: 344
         isCached: true
-  - title: "Predictions on robotics for 2022"
-    excerpt: "A \"robot revolution\" appears to be coming real now, with AI robots evident, completing little chores, as robots have evolved"
-    publishedDateTime: 2021-12-21T12:30:00Z
-    webUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/"
-    ampWebUrl: "https://www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/the-fictitious-concept-of-a-robot-revolution-appears-to-be-coming-real-now-with-ai-robots-evident-around-us-completing-little-chores-robots-have-evolved-over-the-last-few-decades/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/Pulak.jpg"
-        width: 616
-        height: 582
-        isCached: true
   - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
     excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
     publishedDateTime: 2021-12-22T20:57:00Z
@@ -186,6 +170,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "wpgzjIO70aHtef0BWBqTF7jo4eIsP9ugwc8RzyHqNoo+iOslRGIj/be+b9Pyi16pVQdwbuHPz5T+nLnHJxH2VfczTEPHRn0hzFcacAVxjuQi3EEpcOsECDHpnzx4s8iYMGdK0A/1xCEBUlLOeosMgXOaP7gnYSY38p0p9k0D8qAWfBk5PHoYsLax5jW2WjXIw2glZvGNODhA396MqPXJ1hlvu1f5jNjSGc04OytO9DWWvuuyHxZIbAJTfzt5i8fsnvGAmnlnn5qtJSAJ8wqRRAWMwg9uvn+PX5gP8huBpADprExd2xDIg2W0VNG/eYWRoCa/7ozhRiiK8atkIow8TgRXDzugX9uMhv2pf81MXw4=;jNdlJdvpG9JUxY2/RRQatA=="
+secured: "dKFPQ7i9Ggtg4z5bAbEeJCXGdz1rYUqrIDdBdfSPrfZfAwychLy1A0Aopi/hjp0frk63jT5Ar56NbMcNRRW1EU1qMBOprhMNM3LuTn60oFhX8wAAm6OhTw4H16fHWESXxK9eBU/p9f4GU2AuDuZHdYaSAZJQ0DdZp6BCEmxhfu3kUrKYc7XlwVJJse7hbjHHR6zircEc3iZAMMeNf49xyL1OHbQSzgvhaPr4FxTpColf5UF/A6sp+n9oD1IzFyqbd+4qneB4nrMqKpbjT2RymS8IbrUyGjE86LI4lHDpUjPdY+ljRsj+Io9j9ASwp4lHrmgUodhaBu0rsee86wQzdYBdIEkzA96flQI4MZgrgqIXwADun8lCBC+M+Z83OEFPnS0QBlII7mIroCuc49nndC4Yn1dScd57NJRy4sx4l20j29dSj76Ge3fKlkQXh0wATbncJL2cALJlN1lhIz0DUX2ZiArgPO9FmTImlyADEVunE0SzEa57VFOqUZvd4pSrpleJpTwfs66g8qM+SB3qmQ==;QUVGZ4oAoJyCrYtiigpTXg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-30-facial-recognition-company-fined-by-ico-following-data-breach.md",
+      "title": "Facial recognition company fined by ICO following data breach",
+      "excerpt": "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
+      "originalUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
+      "publishedDateTime": "2021-11-30T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets.md",
       "title": "NASA Uses Deep Learning to Add 301 Entries to Kepler's List of Exoplanets",
       "excerpt": "Searching for exoplanets is a daunting task in our vast universe. That's why NASA is looking at machine learning for a little help in the search.",
@@ -1115,58 +1158,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
-      "title": "Does the right to bear arms cover AI guns and killer robots?",
-      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
