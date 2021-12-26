@@ -41,20 +41,6 @@ related:
         width: 2880
         height: 1800
         isCached: true
-  - title: "Video games on Tesla while driving raise concerns"
-    excerpt: "Vince Patton was watching a YouTube video of a Tesla owner who had made a startling observation: Tesla drivers could now play a video game on their car’s touch-screen dashboard – while the vehicle is moving."
-    publishedDateTime: 2021-12-21T22:20:00Z
-    webUrl: "https://www.wbbjtv.com/2021/12/21/video-games-on-tesla-while-driving-raise-concerns/"
-    type: article
-    provider:
-      name: WBBJ-TV
-      domain: wbbjtv.com
-    quality: 54
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wbbjtv.com/content/uploads/2021/12/k/b/f85f966b8218ec65804e4ae557e9b99ebb55111b_fl9-360p.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Editorial Calls for Tesla to Follow Same 'Self-Driving' Testing Rules as Everyone Else"
     excerpt: "While dozens of companies are following state-mandated regulations for autonomous vehicle testing, Tesla has managed to avoid the same rules. It's time for regulators to step in, according to the Editorial Board."
     publishedDateTime: 2021-12-22T15:00:00Z
@@ -87,20 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Is Tesla's Full Self-Driving beta making driving safer? Or is it a safety hazard?"
-    excerpt: "Tesla test drivers believe they're on a mission to make driving safer for everyone. Sceptics say they're a safety hazard."
-    publishedDateTime: 2021-12-21T22:29:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300483800/is-teslas-full-selfdriving-beta-making-driving-safer-or-is-it-a-safety-hazard"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 34
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/a/t/e/image.related.StuffLandscapeSixteenByNine.1420x800.4ywes8.png/1640125759149.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Cars are getting better at driving themselves, but you..."
     excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
     publishedDateTime: 2021-12-22T10:41:00Z
@@ -115,17 +87,6 @@ related:
         width: 342
         height: 240
         isCached: true
-  - title: "Tesla test drivers believe they’re making driving safer for everyone. Skeptics say they’re a safety hazard"
-    excerpt: "In navigating public roads with unproven software, Tesla's Full Self-Driving beta testers have not just volunteered to help. They have also taken on the liability for any mistakes the software might make."
-    publishedDateTime: 2021-12-21T22:50:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-test-drivers-believe-theyre-making-driving-safer-for-everyone-skeptics-say-theyre-a-safety-hazard/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
   - title: "Video: Self-driving boat comes to CES 2022"
     excerpt: "At the upcoming CES 2022 show, Avikus, a subsidiary of South Korean shipbuilder Hyundai Heavy Industries Group, will showcase a leisure cruising self-driving boat the recently completed a 6 mile journey with 12 passengers on board in Pohang City,"
     publishedDateTime: 2021-12-22T13:47:00Z

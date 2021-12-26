@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/blockchain-is-ind
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/amp_articleshow/88430656.cms"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1069
     height: 580
     isCached: true
-
-related:
-  - title: "How Digital Twins, Blockchain and IIoT are leading the innovation of the wind power industry of the future"
-    excerpt: "The connected assets and the Digital Twin ecosystems are taking part in the current digital transformation of the industry empowered by IIoT technologies and Blockchain. In my last article, I explained “How Digital Twins will transform and digitize the wind power industry”,"
-    publishedDateTime: 2021-12-23T15:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-digital-twins-blockchain-iiot-leading-innovation-mba-llm-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 21
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFu9Zp1ZJc9dg/article-cover_image-shrink_720_1280/0/1640264667501?e=1645660800&v=beta&t=t6fVxEKMvbl8N_jyDtpKm8xnoXYnXdhjJ154t9opRq0"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "DPmnwlC0hVH1L3R1g1oADiSFN+SLwtm+B137RDMb6ZE093+QrPmK8ZFaX9FKf52x0rqHXlweOllkvg+HE2eyp5AurY5qNht2yTMpnw0olC99M0Epi2x7kkVFTpovdeCMQ9FCz0b2EkFLv6hHKwG9ESG0mRtEq6N8+7S1L2zzM80GJ4VfuFJhBuB/hOLwvE8+rFkrfFD52mwg4kBz8afCTJv49HWKFj5/T9KHFvPWG56Y8gLsBIEH7IDpJfsfOTNQ7UaVKtuRwnciopYAqk9TRYUjDWL1giQDAFQHPQpcJExbkj6o1kOr24CymmT6dYal9xTc8GGO7OUo3KgoIXOfze8KKPsxNrtw+YpKsPAdj+Y=;zag6zpIn3ZYDEES4rB49lQ=="
 ---

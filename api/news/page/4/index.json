@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
+      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
+      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-deepminds-new-ai-with-a-memory-outperforms-algorithms-25-times-its-size.md",
       "title": "DeepMind’s New AI With a Memory Outperforms Algorithms 25 Times Its Size",
       "excerpt": "Bigger is better—or at least that’s been the attitude of those designing AI language models in recent years. But now DeepMind is questioning this rationale, and says giving an AI a memory can help it compete with models 25 times its size. When OpenAI ...",
@@ -963,49 +1007,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
-      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
-      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
       "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
       "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
@@ -1099,45 +1100,27 @@
       ]
     },
     {
-      "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
-      "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
-      "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
+      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
+      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
+      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
-      "originalUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
+      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
-      "publishedDateTime": "2021-12-20T02:55:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

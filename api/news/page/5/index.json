@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
+      "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
+      "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
+      "originalUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
+      "publishedDateTime": "2021-12-20T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
       "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
       "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
@@ -1147,60 +1199,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
-      "title": "3 big problems with datasets in AI and machine learning",
-      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-12-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

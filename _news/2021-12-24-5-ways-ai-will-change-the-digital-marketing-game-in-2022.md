@@ -1,30 +1,25 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-publishedDateTime: 2021-12-23T17:16:00Z
-originalUrl: "https://www.entrepreneur.com/article/401518"
-webUrl: "https://www.entrepreneur.com/article/401518"
+excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+publishedDateTime: 2021-12-23T20:18:00Z
+originalUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.chron.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -97,6 +92,6 @@ related:
       domain: newsclick.in
     quality: 34
 
-secured: "5HL3esHuhTv+B+LX+9T25pAuoCgdR/UQSQWLkZlxnGdXjOVLFcmkzmXpp4Pb3cJbgRsvATgVZuFCWFQAcE/2+d1gti78FFfBSpxKfwd04q3KCoKc8dBfBapq/Hwejzlj7+J/OLy7hlErj/s24D/iA9g05pMTRds1wHqWxVcDXyqyGIDRCTMc6Bhpx2XK9jMHGTbJyP5/AvjvXuldJf/43aCI8BuTUZ9mQwXWncZkFrpeF9Et5Dn7yIQlBlyaST49UgeRTQXZUNBNMWIk1K8/sdVxW/IOQAegmgfJEVjek82Vpd1P6o7tfTQoVvvGYGtbW9JdGBYG01AP9x7uCjjkJMX4r4HCu8xRyaojtnc65gA=;3ZM/OXxRUsK7WJYIqYkF/A=="
+secured: "yvwJ2FFvoUIRF4kjsR0vQs+cyGQ7TvQvAqVjtA8p1uYztCf5r2eBKgQa1Ai1c74faUxU6GLvZnBbSnz8YEwmy+/N03ev0upmB+lpLEnUEPH+fRgbcSAIeN3Gk9OKBiN1Jm+vvN9KnDFFz0kzRqXNZJRM4S1vYCP/CPvK+/eWytePR4yK0XXz8l5oks6PCdhdcxrEN3UlNCh60HaapAVQy3fY33aTzHUICQkj7DNyWXBrmBgzcy6mIJQ9ioWr8JEOP0vsUeguT2z+8XLI2NLPBon7RD3z1QvjujrP8l1IT4JzjPmJOJ7o1gmQfdE69jubr3uWlUMisYrkiF/4iEY6gPmakbkx3dzLF//m0Mv77Gs=;PrnbH/ZMxgvmigQUh/WnyA=="
 ---
 

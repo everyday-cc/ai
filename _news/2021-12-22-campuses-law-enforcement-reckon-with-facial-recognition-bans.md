@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement
 webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
 type: article
 quality: 139
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d1086a6/2147483647/crop/7888x3032%2B27%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg"
         width: 960
         height: 369
-        isCached: true
-  - title: "Law enforcement and civil society grapple with facial recognition policy, transparency"
-    excerpt: "Civil society groups around the world are calling for greater transparency in uses of facial recognition by police and the way technologies are procured."
-    publishedDateTime: 2021-12-21T22:49:00Z
-    webUrl: "https://www.biometricupdate.com/202112/law-enforcement-and-civil-society-grapple-with-facial-recognition-policy-transparency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
         isCached: true
   - title: "Law enforcers outsourcing facial recognition to pvt sector, infringing rights, says study"
     excerpt: "The paper notes that there is no data or documented records made available to the public in India by the law enforcement agencies involved in such practices."

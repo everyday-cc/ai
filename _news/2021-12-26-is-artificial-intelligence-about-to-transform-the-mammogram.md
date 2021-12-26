@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/8988452002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8988452002"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Is artificial intelligence about to transform the mammogram?"
-    excerpt: "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world."
-    publishedDateTime: 2021-12-21T22:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-
-secured: "ZGKYzjzt7Gh4yxg4tCgjoyM6TUAOmsfLhxLNp6rdx+Yns04ebAzJHz7zbU3/QsVFFaiu1fALqERxJGqd+5qdOEuEtNpybWMHIKrLwBeg0rwO9ykbkyT3lroVNsiLvIMMWuetYQXrdLuedJSylSEN3SZWLVagbBJGCwjeCzWJJ0s9TQN3BATfiCUdHQ+EHQibYKGougp8+4OVDw+r0FBoMoDdc8CG0ByM+yFkqeX9SDLwbIdbWRPTXcHJY584G8SyZfthOm+2an+pcDt0FV/RyilNyt3Akys2IKXv/degMaCCC2LraVga0A1bjRXoDGo05hQd+qDvQ4wM6PfP/35/TPF+zkHWCQKhSRu0QXtut7c=;gukPsD58NfgqYWhdFNy6HQ=="
+secured: "32sA6ksgeTy/2DOAy94a9B+FvbWqQtvMvC6RdBOZzzV5Sx91pFbMyjfCNgFYPBpFZv6TOhcN/kMHZTdrrfLx9erRKZKQW2aIPJM6fggDQaVG8ejM18xKoRDjOeWkhKGHjoonkxabea7d5JhEeNFwt/QK9yLK4qlDp3CuG1MlwSBU+Tm77UvcV6w272XF264xNjCeCAHbbXyitHfoZJoF7YvivaEcEprnwiWCK9901Z14sYV/ZjXA/wCq1/k2iF+ytnGMh3LkDQdT3SfrnpsN4OLnCfcl6zizd8SRCNnPnnm2svsiZB5VmZtPP1TmnHwzzakGGl+AYFptw9zMZWi1cJdJ2PCvpIz8rSej7e6e/st4p68t4ZLzStiyJzLKrnJkMEnOhiR/dkXPAMJVr7fHpeX5MiVQcJ/gvfSNIR4zzYEUEspjuWMLEV73mkkZ+J6jNIPKPvdY7lX+8sGfGUV234gKC6FuXWZV1lhXUl0Wgn9EBaGlQpQ7VOtblECEbrfOeIWQ7F1ekfI5mzjfLi7Ydg==;u/p4DSfZ4+AOtIwtxDpYrQ=="
 ---
 

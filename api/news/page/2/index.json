@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-fintech-startup-khatabook-aims-to-double-employee-base-in-2022.md",
+      "title": "Fintech startup Khatabook aims to double employee base in 2022",
+      "excerpt": "Fintech startup Khatabook on Thursday announced that it is planning to double its employee base in 2022. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
+      "originalUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-10/30daa46c-42a1-4418-b22a-2ef888f0f1d8/startups.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1199,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
+      "publishedDateTime": "2021-12-23T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
       "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
       "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
@@ -330,7 +373,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -916,7 +959,7 @@
       "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1119,57 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai.md",
-      "title": "Taking the world by simulation: The rise of synthetic data in AI",
-      "excerpt": "Would you trust AI that has been trained on synthetic data, as opposed to real-world data? You may not know it, but you probably already do.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/simulation-big-border.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
-      "publishedDateTime": "2021-12-21T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

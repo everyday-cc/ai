@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-08-clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api.md",
+      "title": "Clinical text mining using the Amazon Comprehend Medical new SNOMED CT API",
+      "excerpt": "Mining medical concepts from written clinical text, such as patient encounters, plays an important role in clinical analytics and decision-making applications, such as population analytics for providers, pre-authorization for payers, and adverse-event detection for pharma companies. Medical concepts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:08:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m.md",
       "title": "Synthesia, which is developing AI to generate synthetic videos, secures $50M",
       "excerpt": "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million.",
@@ -1118,58 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
-      "title": "Red Hat brings Ansible IT automation engine to Azure",
-      "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

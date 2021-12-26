@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of data for answers to complex questions – as long as you speak English or another of the world's dominant languages."
-publishedDateTime: 2021-12-23T21:01:00Z
-originalUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-webUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-ampWebUrl: "https://www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
-cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
+publishedDateTime: 2021-12-24T02:52:00Z
+originalUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PBS
-  domain: pbs.org
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/12/2020-08-13T090841Z_973674791_RC2XCI9VEEH3_RTRMADP_3_NIGERIA-JUSTICE-1024x768.jpg"
-    width: 1024
-    height: 768
+  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -38,20 +38,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
-  - title: "Bridging the financial gap for small business owners in Africa"
-    excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
-    publishedDateTime: 2021-12-21T22:32:00Z
-    webUrl: "https://www.mercycorps.org/blog/bridging-financial-gap-africa-payhippo"
-    type: article
-    provider:
-      name: Mercy Corps
-      domain: mercycorps.org
-    quality: 24
-    images:
-      - url: "https://www.mercycorps.org/sites/default/files/styles/1_19_1_1200x630/public/2021-12/unknown-20211217-Payhippo-001-3024x1799px.jpg?h=668103b6&itok=5MIPubpb"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
     publishedDateTime: 2021-12-25T15:17:00Z
@@ -81,6 +67,6 @@ related:
         height: 400
         isCached: true
 
-secured: "53ylC3hrI6ktXCaEpWX0ZU1XnMTDnIblW+eFyxSDgfci0u/+uxEN+XmZzTdH7N7fZSFd60PBFpCDYxkRfvirGKFNja7EEt6qw9j3CgALLc9pagWBKHyDiNccsdWOecZoBsEKrpIBefIw1qq7dH5cwFQdjUk8U7X6+wmTbIfB1U/Gu7emhqX3kdWZbo25TFBEGEhFDyqgKSFi0CS5X2XRWK/yxdzS84I3ANXCTsh9eskFcoeSlG1HuIS0XsySPtrAK8riatWSmIZM42sn3KcI8874BdiWypmUPlO5+owL8cFV38ddjs9eM8CAIeHBFV56ZjP1TCUQ6xckgQZGqtnGsmbQ4LGczKDJn0LrymtkW7g=;1IbUVKKhafO4QG4NJRiZ6A=="
+secured: "6fBY2bGFHrnzco0Zi7JyF5TDuRF7s7hroYQpKic18jR4IY5BzOs9O/jXgPSTBqwFl87KMlk9vtLPwVszuGEpOLRyClkuHfq3Q/OUs0CVOpgxNDLsgZMyzsOVph3ALqca3BxQXhkyIbesVKg1Xjn87srtNV1b5+ZttIDiiQCGgWEBulEHRF+Ll8gtjShdx2Y1LWKJVdG3rsDsJH/5Svy3lLQwQvXjW8Y8qUl5YCyku1784n/4LBn4XQ+aKDcTntKvRQmsZX2jT5ZIH0kaQHcdtGgEpwKql1Fxab6vqPM7mfi5RFG4JtVh+1Vruy3lifwM6dd4Zp8kCs3Vg0n6/CuwYNHGbHD0qLKrmeI4wrtXvmU=;SyEsXdGSJa1BrbDWFc/xlg=="
 ---
 

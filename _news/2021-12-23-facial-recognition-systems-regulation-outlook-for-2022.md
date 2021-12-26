@@ -85,20 +85,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Law enforcement and civil society grapple with facial recognition policy, transparency"
-    excerpt: "Civil society groups around the world are calling for greater transparency in uses of facial recognition by police and the way technologies are procured."
-    publishedDateTime: 2021-12-21T22:49:00Z
-    webUrl: "https://www.biometricupdate.com/202112/law-enforcement-and-civil-society-grapple-with-facial-recognition-policy-transparency"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Law enforcers outsourcing facial recognition to pvt sector, infringing rights, says study"
     excerpt: "The paper notes that there is no data or documented records made available to the public in India by the law enforcement agencies involved in such practices."
     publishedDateTime: 2021-12-23T08:22:00Z

@@ -2,6 +2,61 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
+      "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
+      "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "publishedDateTime": "2021-12-03T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-ai-weekly-recognition-of-bias-in-ai-continues-to-grow.md",
       "title": "AI Weekly: Recognition of bias in AI continues to grow",
       "excerpt": "There's growing recognition that AI encodes biases. Efforts are underway to address these while recognizing the challenges.",
@@ -1116,57 +1171,6 @@
         "name": "cnbctv18",
         "domain": "cnbctv18.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
-      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
-      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "publishedDateTime": "2021-12-02T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

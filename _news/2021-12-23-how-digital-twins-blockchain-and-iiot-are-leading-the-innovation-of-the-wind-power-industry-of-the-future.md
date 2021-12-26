@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Blockchain is India's future, and if you are a developer you can earn Rs 82 lakh a year!"
-    excerpt: "Digital employment is creating a boom in the IT industry and blockchain is one of the fastest-growing skill sets with jobs in this domain growing at a"
-    publishedDateTime: 2021-12-22T09:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/articleshow/88430656.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/amp_articleshow/88430656.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/blockchain-is-indias-future-and-if-you-are-a-developer-you-can-earn-rs-82-lakh-a-year/amp_articleshow/88430656.cms"
+  - title: "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse"
+    excerpt: "The metaverse could be the killer app for several of the most exciting emerging technologies that haven't yet found their footing."
+    publishedDateTime: 2021-12-26T14:40:00Z
+    webUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 50
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/thumb/msid-88430915,width-1070,height-580,imgsize-91548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 659
+        isCached: true
+  - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
+    excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
+    publishedDateTime: 2021-12-25T13:17:00Z
+    webUrl: "https://www.linkedin.com/pulse/metakings-worlds-first-action-based-artificial-metaverse-mhatre"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF9vHcEl3do0A/article-cover_image-shrink_600_2000/0/1640354403686?e=1645660800&v=beta&t=Xg8SLsMsVd6xtphhTtFLosWGA6DRu5_wH1RiAYIobiM"
+        width: 826
+        height: 400
         isCached: true
 
 secured: "w8wUrN5NIXhfTr9UOIkZmDjfIdNvBJKMAj7apyrVQ1h8OCgQ+SSRG+/XaQAEIi2gqoRDjkotagWGFJDCIQauDYd5n73jQgWUrw4xhI7f4x5BcZxXc8w8dTqKnUdU00P6Sw61zoYGjA0ibALCpDaGZNF2B3/mSIIQ7isbWy2lQlwgIG7+STGF0oEkOs3V6WGBgN7WdS2O7QepZdK7QG05mA6P2Jeg9NCamfjXnT7rQCJqcJqQk4eVgekiJNtYHVSkrUPL+Blvlv8733YLt620Coi7usokDbJnTQ7PYvQB7XyZ38Jque+6LCu/LG+5VFD23RIImxs5zHMd+lfRX5/gQlS6ZNUUtwXDtHeL4VfzULk=;lWx80SQApbvRXvqKYxrz5w=="
