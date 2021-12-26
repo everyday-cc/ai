@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-fr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/"
 type: article
 quality: 106
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explore Amazon SageMaker Serverless Inference for Deploying ML Models"
-    excerpt: "Invent 2021 user conference earlier this month, ‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure."
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/5337b514-sage-g821224b89_640.jpg"
-        width: 640
-        height: 439
-        isCached: true
   - title: "Review: Build a ML Model with Amazon SageMaker Canvas"
     excerpt: "In this post, we will do a hands-on evaluation of Amazon SageMaker Canvas. Follow along to train a logistic regression model."
     publishedDateTime: 2021-12-23T10:00:00Z

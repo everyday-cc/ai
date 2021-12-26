@@ -73,6 +73,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
+    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
+    publishedDateTime: 2021-12-26T02:20:00Z
+    webUrl: "https://www.ktvb.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    type: article
+    provider:
+      name: KTVB
+      domain: ktvb.com
+    quality: 43
+    images:
+      - url: "https://media.ktvb.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
     excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
     publishedDateTime: 2021-12-23T15:28:00Z

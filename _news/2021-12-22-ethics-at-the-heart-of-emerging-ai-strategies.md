@@ -7,7 +7,7 @@ originalUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
 webUrl: "https://www.bitpipe.com/detail/RES/1640094049_708.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What Does An AI Actually Think Of AI Ethics?"
-    excerpt: "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself."
-    publishedDateTime: 2021-12-21T09:53:00Z
-    webUrl: "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
-    ampWebUrl: "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102"
+  - title: "AI At The Edge Hack Chat"
+    excerpt: "Join us Wednesday at noon Pacific time for the AI at the Edge Hack Chat with John Welsh from NVIDIA! Machine learning was once the business of big iron like IBM’s Watson or the nearly limitless ..."
+    publishedDateTime: 2021-12-23T00:00:00Z
+    webUrl: "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/"
     type: article
     provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 76
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
     images:
-      - url: "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg"
-        width: 1280
-        height: 768
-        isCached: true
-  - title: "Problems of the Brave New World: AI and Ethics"
-    excerpt: "With the increased pace of technological advances and the latest popularity of dystopian series combined, often we find ourselves asking where the world is going, a dystopian world as described in the book 1984 or the one as described in Brave New World,"
-    publishedDateTime: 2021-12-22T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFiSUqCXo1wuA/article-cover_image-shrink_600_2000/0/1640181984260?e=1645660800&v=beta&t=BFWDloRIT3dawYsYcdCk3tAI1Q8ifIQAYzC_6ZO_QAY"
-        width: 639
-        height: 540
-        isCached: true
-  - title: "We might be able to make AI ethical, but maybe we shouldn’t"
-    excerpt: "An article in The Conversation reports on a novel experiment in which an AI was invited to participate on a debate about AI ethics in the Oxford Union."
-    publishedDateTime: 2021-12-21T20:30:00Z
-    webUrl: "https://www.biometricupdate.com/202112/we-might-be-able-to-make-ai-ethical-but-maybe-we-shouldnt"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://hackaday.com/wp-content/uploads/2019/04/1_Jetson_nano-PressGraphic_2000x1200-1.png"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "/e0mp4CTE9f8mcur3YT2GFy8Ko9iXDBdKIv1fLFRXh1sp6kHFaYhSM/VQNSnWWsWMTup2NzC1g6th8C93dT+hKUfO44HWh5FQfOtlWlw2aLf26sEY+BAkM0hkRy/fucOH8WbdU4lekiT4MpNkEL1G6QIyevTTMIzDq8WNnVh3WPoyMoeg6clwAnXBLY8nNAahwH3vJGQ0TxZo/37nE69D+R5xrbxi+r4Bubenvc4iOcWyxXXCr9LS021IGND3u6MxRRJwiUEUbk0fEIwgiPez75BsIVuXE0krAdJ/96gsf2b4pXkp5nvZNhznYYyzKkZeuo7Wh4OAZRLz+F9l+g5U14PEu94nRvBeWh0l+W+36ZvTqPKapNnCrRY5MXy08x9YxQF72a56NaqWzzmrZdnorFnDDctKE1kMyzce6NUO6j8WOnSxByNIm2cfvhY3nvr+X01xciJumm1bfCsSFzrda+USCEwChEoRvb1ZVjebDhah9ZcV7LPs3oaOChykEYbAjQQUGUX1JjRghGI3B9rkw==;ZwxYJOxSBFkhbG5AVj2cXg=="

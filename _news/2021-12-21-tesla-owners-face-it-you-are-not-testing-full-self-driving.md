@@ -87,22 +87,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
-    excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262"
-    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 46
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Tesla Ends Motorists Playing Video Games While Driving"
     excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
     publishedDateTime: 2021-12-24T18:08:00Z

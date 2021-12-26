@@ -1,26 +1,26 @@
 ---
 category: news
-title: "A Promising Future for AI and Autonomy in Space"
-excerpt: "Machine learning and deep learning are the next frontier in AI, and thus, in space applications. To quicken the integration process, engineers need software tools that they’re familiar with."
-publishedDateTime: 2021-12-21T17:37:00Z
-originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21212499/mathworks-a-promising-future-for-ai-and-autonomy-in-space"
-webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21212499/mathworks-a-promising-future-for-ai-and-autonomy-in-space"
+title: "AI program to predict stock prices."
+excerpt: "AI program to predict stock prices. Contribute to CalderStaude/AI-StockPrediction development by creating an account on GitHub."
+publishedDateTime: 2021-12-26T02:06:00Z
+originalUrl: "https://github.com/CalderStaude/AI-StockPrediction"
+webUrl: "https://github.com/CalderStaude/AI-StockPrediction"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Electronic Design
-  domain: electronicdesign.com
+  name: GitHub
+  domain: github.com
 
 topics:
   - AI
 
 images:
-  - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/12/Space_AI_promo.61c20e8aeeb73.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+  - url: "https://opengraph.githubassets.com/7191800dfe356f5f8ca7d3beba323b3c1ad67d71b9439bb1e93f0ab8e8e36d29/CalderStaude/AI-StockPrediction"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
@@ -71,6 +71,20 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
         width: 1200
         height: 682
+        isCached: true
+  - title: "A Promising Future for AI and Autonomy in Space"
+    excerpt: "Machine learning and deep learning are the next frontier in AI, and thus, in space applications. To quicken the integration process, engineers need software tools that they’re familiar with."
+    publishedDateTime: 2021-12-21T17:37:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21212499/mathworks-a-promising-future-for-ai-and-autonomy-in-space"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/12/Space_AI_promo.61c20e8aeeb73.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Applying Artificial Intelligence to Food Tray Production"
     excerpt: "Food producer apetito uses Neurala’s artificial intelligence technology to automate and optimize visual inspection of meal tray components."
@@ -125,20 +139,6 @@ related:
         width: 400
         height: 257
         isCached: true
-  - title: "AI program to predict stock prices."
-    excerpt: "AI program to predict stock prices. Contribute to CalderStaude/AI-StockPrediction development by creating an account on GitHub."
-    publishedDateTime: 2021-12-26T02:06:00Z
-    webUrl: "https://github.com/CalderStaude/AI-StockPrediction"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 37
-    images:
-      - url: "https://opengraph.githubassets.com/7191800dfe356f5f8ca7d3beba323b3c1ad67d71b9439bb1e93f0ab8e8e36d29/CalderStaude/AI-StockPrediction"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
     publishedDateTime: 2021-12-22T16:31:00Z
@@ -186,6 +186,6 @@ related:
       domain: globalspec.com
     quality: 17
 
-secured: "AOW7LTMmTNX4lk9p7Zv2F21TwzKs1jr59f+g0pRqwzZEvd4Fs2JUE36a8q9CSJP8yK/yTzUJ86NKn7IC0ZZ0D17mimhZaYp1+0FKLMlq3F/ITABIyqC9mhvHEZguyHS6+05MlLotm0xcjoPT7tJiLxvo7vUfsBcq3iF+IrDY2HBUxXQ5pYy2ip1DG63O/XrkeMivms33OrS7JH3ngSgWh9CS1nqvcZ2fpQ3Q2tLaCUR1AsYAA5juzMnTt2b6jK05RuLd1++PM50rqY66/K2hFoudr1rz9O+oH7N7Bs7j0HVp+ozaexKYfU6yp/sLMH52LvHKkQEvrBQa5ibt2Wc95M/SuwIr1hCoO6Tl8C3r7aM=;2y7n/BeHve6pJhTQMcrA3Q=="
+secured: "wpgzjIO70aHtef0BWBqTF7jo4eIsP9ugwc8RzyHqNoo+iOslRGIj/be+b9Pyi16pVQdwbuHPz5T+nLnHJxH2VfczTEPHRn0hzFcacAVxjuQi3EEpcOsECDHpnzx4s8iYMGdK0A/1xCEBUlLOeosMgXOaP7gnYSY38p0p9k0D8qAWfBk5PHoYsLax5jW2WjXIw2glZvGNODhA396MqPXJ1hlvu1f5jNjSGc04OytO9DWWvuuyHxZIbAJTfzt5i8fsnvGAmnlnn5qtJSAJ8wqRRAWMwg9uvn+PX5gP8huBpADprExd2xDIg2W0VNG/eYWRoCa/7ozhRiiK8atkIow8TgRXDzugX9uMhv2pf81MXw4=;jNdlJdvpG9JUxY2/RRQatA=="
 ---
 

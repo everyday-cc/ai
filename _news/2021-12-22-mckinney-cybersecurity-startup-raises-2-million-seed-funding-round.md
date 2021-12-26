@@ -32,29 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "StrikeReady Sweeps 2021 CyberSecured Awards with Wins in Vulnerability Risk Management, AI Security/ Machine Learning and Enterprise Security"
-    excerpt: "StrikeReady, a cloud-based security operations and management company, announced today that it has swept the 2021 CyberSecured Awards with wins in thr"
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211221005197/en/StrikeReady-Sweeps-2021-CyberSecured-Awards-with-Wins-in-Vulnerability-Risk-Management-AI-Security-Machine-Learning-and-Enterprise-Security"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
-  - title: "Executive Spotlight With Booz Allen SVP Cedric Sims Highlights DHS’ new Cyber Talent Management System, Cybersecurity Challenges, Responsible AI"
-    excerpt: "Cedric Sims, a senior vice president with Booz Allen Hamilton, was featured in the most recent Executive Spotlight interview with ExecutiveBiz on Monday. He talked about the challenges the Department of Homeland Security is experiencing in the cybersecurity space,"
-    publishedDateTime: 2021-12-21T09:42:00Z
-    webUrl: "https://www.govconwire.com/2021/12/executive-spotlight-with-booz-allen-svp-cedric-sims/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 0
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOuF8EAL.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "bpdwZFIQwBbGMqeUTox5sCAHQyL5dtagjSimU5mYJ/pLOpBWiC8rsRz9/T4olOO+KL1Y/vIBacGM37pOJHuP5B1HQjI8n5ZBE6IxRbQVv9umNkxb/SmPfLvUrHAhyPK1MrZeOUtiz1jyNsaKEYngUy2+LX45LWsBRJ5Bnhvmxjer4WS3wREIP5UjUVteSUhXhlMyQbpLFtDTMs2BwaJDeUa2r5EvFm1kf6GF1ppX40VBr9tTiXd+Ch9khsb/8oQPUO+1ySW+C6Lx/rRTpdMYXINnS8Wzru2+ktYXrLh0DDhIyH4hbyXQxJVzlpzS3Yh30Rk7buoLofX7BaWY7r5xUcWnrnVtFBWdoYEloPMKls1Zojl7hlmB6/7mmWvBYZnvdwOgrwPrL/kFkz2Ulgxm9sY1KuHGtZ0CJ2fmK51Wq9eMGQGKEed/dmDEb+llG9H5uu7uC63wCbEI3a4wW+Qs/6SZej6HhhuuhHI/cd7LWOuojIJhSPBzzD8nXNY4EkjfZ5xYpp+KmaACikdUG3CaLg==;yoKOc5dbQxgfLncykLCG7w=="
 ---

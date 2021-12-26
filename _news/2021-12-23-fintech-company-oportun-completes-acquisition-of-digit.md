@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "QUALCO RELIES ON SOFTWARE IMPROVEMENT GROUP FOR THE ACQUISITION OF FINTECH SOFTWARE SOLUTIONS"
-    excerpt: "Software Improvement Group and Code4Thought assessed the maintainability of the fintech software assets during the acquisition."
-    publishedDateTime: 2021-12-21T10:37:00Z
-    webUrl: "https://www.persberichten.com/persbericht/103586/QUALCO-RELIES-ON-SOFTWARE-IMPROVEMENT-GROUP-FOR-THE-ACQUISITION-OF-FINTECH-SOFTWARE-SOLUTIONS"
-    type: article
-    provider:
-      name: Persberichten
-      domain: persberichten.com
-    quality: 13
-    images:
-      - url: "https://www.persberichten.com/Images/marcommit/2021-1.gif"
-        width: 290
-        height: 290
-        isCached: true
 
 secured: "//hmsFUyBt1ONwXbAw85QgODW1u+ZMw2iiAe8HvYDUcy8/ae3pPLjnn2+hUHlvp2SSt0OPkj2ztlghKPsO7wV7sRQDibMCyG4RWC73bM15E2Q1I0TeCEXOWF48UBCXE/u4XO164jBw1z2h2XisM5luGHXwHpYPi8+2XT38xq1F1UBSnys9GEBm0qE6ODwavx9SXqs1WM5C9aQMLgGwdWJCyd+QNWBBRqwVFaiboy0BWAm4wvzwz3yZCirt3h3aWRtUmm7+JEmTkjbsG29xZQE/0m0KxYgnXtkD/BsiqYx2mpa+Bf0Rcsz2bjMyhU69uCTNeawSDtCzFLSTSdnvA88n5usjA0lybgdAfA03zG7TzpYUN60UXG05xjVBoNi8DErS8JTn7h9VdHmLsGTM6GXoYfZ//XP1Uoy1ppyvUgPLTSMlfysP9yEu1IVscDq5uPDj0tgXQhDafDUpjaViR/4s+CHsSBYJWUlBiL3sGaXqfguIuR1alRZ3zO6hQexpXqp3ZtgouFWxCDXFJ31+o6NQ==;cEBa/eA6/LacshglTip11g=="
 ---

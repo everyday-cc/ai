@@ -57,22 +57,6 @@ related:
         width: 616
         height: 582
         isCached: true
-  - title: "Artificial Intelligence in Automotive Market"
-    excerpt: "Coherent Market Insights new report Artificial Intelligence in the Automotive Market examines the competitive landscape and forecasts for the next few years The research on Artificial Intelligence in the Automotive Market for the analysis period of 2021 2026 includes an"
-    publishedDateTime: 2021-12-21T10:05:00Z
-    webUrl: "https://www.openpr.com/news/2506352/artificial-intelligence-ai-in-automotive-market-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506352/artificial-intelligence-ai-in-automotive-market-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc21865605_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
     excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
     publishedDateTime: 2021-12-22T20:57:00Z
@@ -155,6 +139,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/25/I_0222cimage_story.jpg"
         width: 400
         height: 257
+        isCached: true
+  - title: "AI program to predict stock prices."
+    excerpt: "AI program to predict stock prices. Contribute to CalderStaude/AI-StockPrediction development by creating an account on GitHub."
+    publishedDateTime: 2021-12-26T02:06:00Z
+    webUrl: "https://github.com/CalderStaude/AI-StockPrediction"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://opengraph.githubassets.com/7191800dfe356f5f8ca7d3beba323b3c1ad67d71b9439bb1e93f0ab8e8e36d29/CalderStaude/AI-StockPrediction"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
     excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"

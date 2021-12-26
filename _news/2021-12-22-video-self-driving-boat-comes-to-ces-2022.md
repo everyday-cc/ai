@@ -81,22 +81,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Hashtag Trending Dec. 21 – Freedom Mobile sale; Parler’s NFT; Musk on Tesla’s self-driving issues"
-    excerpt: "Files from Tom Li Freedom Mobile may be up for sale once more, Parler wants to expand into the NFT market, and"
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262"
-    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-dec-21-freedom-mobile-sale-parlers-nft-musk-on-teslas-self-driving-issues/120262?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 46
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Tesla Owners, Face It: You Are Not Testing Full Self-Driving"
     excerpt: "The most common excuse you hear from people who accept using Tesla’s beta software is that they are helping the company perform tests. This would allow Tesla to offer 1 million robotaxis in 2020. Already at the end of 2021 and with no robotaxis in sight,"
     publishedDateTime: 2021-12-21T12:01:00Z

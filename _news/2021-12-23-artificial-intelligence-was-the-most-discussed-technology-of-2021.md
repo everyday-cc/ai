@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/artificial-intelligence-was-th
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/artificial-intelligence-was-the-most-discussed-technology-of-2021"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 was the year of monster AI models"
-    excerpt: "GPT-3, OpenAI’s program to mimic human language,  kicked off a new trend in artificial intelligence for bigger and bigger models. How large will they get, and at what cost?"
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/MBDBLOB_EC002_AI2.jpg?w=2764"
-        width: 2764
-        height: 1555
-        isCached: true
   - title: "Best AI Innovations in technology and medical sciences of 2021 that made it special"
     excerpt: "AI’s strength and influence have already been demonstrated. With each passing day, the field of artificial intelligence continues to evolve and improve. Because of the huge potential that it has on the world’s most pressing issues,"
     publishedDateTime: 2021-12-25T05:03:00Z

@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external fundraising ... the following: the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital needs from operating revenues ..."
-publishedDateTime: 2021-12-16T13:43:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
-webUrl: "https://stockhouse.com/news/press-releases/2021/12/16/artificial-intelligence-technology-solutions-announces-delivery-robot"
+excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ..."
+publishedDateTime: 2021-12-16T14:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
+ampWebUrl: "https://www.benzinga.com/amp/content/24643155"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "IRa5BI7Njq0gSmaB8lS3rFskEMzZEgXYcATBPfgxKFMv/2KRvRA6ioYXR6as2+K/dseBgXfbCRGIh0Quzty9SZzSwUn1kmUWOij1Jg3Y4O1gIJ7JylUvNBvGLUHudG8I2PfPS9F7xLMp+EpwgXmR1IJ0txIHgCa+mRh6ncYwIqgJZtZ23WX66J+BLaTW181/vxbiEiyY+EdvFbs32DeLdVZx77HeXGYls/uai7QwmWNEO59GJRAOmi4gVjrBlZxGAaRVa69FhdbfI5iLPWOFAzLSX9R2PkNdrGswVZYCSzHCTGcA/bNou7CaYa/rST3+kxGeXZsuxGMxo2xJ0uGSyRtJV92XHyK1WnkrpI8bozM=;rndosa8sv3LUaBZ4/nCq4Q=="
+secured: "1b1gSCjF+1r+xNqhjQVAjfMCx3IZPamZxU74Ize+9pu9Jw83xmw7e5/5VbG5SIY2TYkBI3SG9prQ+3UADf4IYWEQCB2Ic/Eh+rrXS1P2kNA/mCuEglO2iNSHCEeDNe45tobiTbEgLCnwZBNtXdpRUnLYBz0u947m+nGttWoBObv3v8Zv2jtIde2j0uuYmTsyJjb6Oul4PGS73c08riaXi4CnaMmX2VV3TDGtEDJqHNrTjYxkwsr1ILNdhGAJLileiEOfRXngVKINAJcpMaiWtLrS+hyKRZjjKHjDty/GA5bl2NWoydH8e/1FqlWAMwiY8iK50hWJ5wcQVaBWBMCrt+vLZ/eTwRQjQnWVcUVjPJ4=;78u9USrt2xu41osezVi5aQ=="
 ---
 

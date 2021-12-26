@@ -40,20 +40,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Explore Amazon SageMaker Serverless Inference for Deploying ML Models"
-    excerpt: "Invent 2021 user conference earlier this month, ‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure."
-    publishedDateTime: 2021-12-21T10:00:00Z
-    webUrl: "https://thenewstack.io/explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/5337b514-sage-g821224b89_640.jpg"
-        width: 640
-        height: 439
-        isCached: true
 
 secured: "U5i7YH7AuRZ4FVnu+ZLNq1ZRbYWHi8CdC8MmOHI3AhN5Nu4/7K8sVavINVOK4G1e/qN5cO7h5QnHCuzC+y61qMZixSTqugZvY+dEHpPSZDiva4Rfyl8qEWy23pxdExwiZi9oa4aLwthF0bVAw3Ljl6m+FD9yWG1iHEvKJq+BgtnSbM+Qi39upH7rJGQ+Eax7A4cvZ3iQjBHQ36SjPqeYyDPYnGAfqI0FZOJmDXoysh/2nn7kSemXMM+wfRItRzo95j7a1xl2qTiA97ZhWlZDpPFeSrjT9Vf2XT77ixIw0bK6ER+3PpQpUwus8WLymqfwh+OEbim1PaaBnkjsimWkCd/It25CoMOHqyDhNCXe4ZRkaltNOKiuxmZlRbCEH60mopSzrBfqEWnlatcNoOoVVCQXJzYFDihSCmUfV84KJjebeCMqXjQ0+kSaC3MoKrZe1/Ojj0CHu1xSf3gRrwA9iqRHDI6lmsKmVfy6khIIRoXatoYfkXh50EVBRgMFHEIUOkxPN9R7Fb/XZlmUCuvorw==;yvobZpBZSHy0h+DeVio5Ew=="
 ---
