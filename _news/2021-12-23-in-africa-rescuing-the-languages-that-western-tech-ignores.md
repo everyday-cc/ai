@@ -26,20 +26,20 @@ topics:
 
 related:
   - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
-    publishedDateTime: 2021-12-24T02:52:00Z
-    webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of data for answers to complex questions – as long as you speak English or another of the world's dominant languages."
+    publishedDateTime: 2021-12-23T21:01:00Z
+    webUrl: "https://www.pbs.org/newshour/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/in-africa-rescuing-the-languages-that-western-tech-ignores"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: PBS
+      domain: pbs.org
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/12/2020-08-13T090841Z_973674791_RC2XCI9VEEH3_RTRMADP_3_NIGERIA-JUSTICE-1024x768.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Bridging the financial gap for small business owners in Africa"
     excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."

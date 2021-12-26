@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Learn what makes a self-driving car autonomous"
+    excerpt: "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car."
+    publishedDateTime: 2021-12-26T12:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "How does AI impact self-driving cars?"
     excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
     publishedDateTime: 2021-12-23T00:22:00Z

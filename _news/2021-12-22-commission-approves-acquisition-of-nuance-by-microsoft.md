@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "What's next for the Microsoft Cloud"
-    excerpt: "The Microsoft Cloud is going to get bigger, more deeply integrated and more vertically focused in 2022. Here are my predictions for the fastest growing piece of Redmond's business."
-    publishedDateTime: 2021-12-21T19:08:00Z
-    webUrl: "https://www.zdnet.com/article/whats-next-for-the-microsoft-cloud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/whats-next-for-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9d3a811ffb18456667d3435bbae7fd56ace127ff/2021/12/20/5362bea3-f5bc-4147-be34-1e26979bbecc/whatsnextmicrosoftcloud.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 938
-        isCached: true
   - title: "Antitrust regulators approve Microsoft’s nearly $20B purchase of Nuance Communications"
     excerpt: "Antitrust regulators have approved Microsoft’s $19.7 billion acquisition of Nuance Communications, officials announced Tuesday. The European Commission said it’s granting the approval without any conditions."
     publishedDateTime: 2021-12-22T07:31:00Z

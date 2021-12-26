@@ -2,6 +2,86 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
+      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
+      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
+          "width": 777,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "publishedDateTime": "2021-12-11T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
+      "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
+      "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "publishedDateTime": "2021-12-11T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-top-free-artificial-intelligence-courses-to-take-up-in-2022.md",
       "title": "Top Free Artificial Intelligence Courses to Take up in 2022",
       "excerpt": "Artificial Intelligence makes it all possible and more. Artificial Intelligence is a useful skill to keep under your belt, especially since it was all the rage right now, as the dot-com boom a few years ago.",
@@ -1089,84 +1169,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-intel-teases-alchemist-graphics-card-in-arc-gpu-gameplay-trailer-at-game-awards-show.md",
-      "title": "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show",
-      "excerpt": "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "originalUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57017/content/small_intel_arc_alchemist_setup.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "publishedDateTime": "2021-12-10T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-will-ai-and-ml-revolutionize-the-financial-services-industry.md",
-      "title": "Will AI and ML Revolutionize the Financial Services Industry?",
-      "excerpt": "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp",
-      "publishedDateTime": "2021-12-10T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

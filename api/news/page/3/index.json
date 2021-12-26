@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
+      "title": "Faster, safer, more efficient data processing with Edge AI",
+      "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
+      "publishedDateTime": "2021-12-21T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
       "title": "2022 technology trend review, part two: AI and graphs",
       "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
@@ -1098,49 +1150,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-deepminds-new-ai-with-a-memory-outperforms-algorithms-25-times-its-size.md",
-      "title": "DeepMind’s New AI With a Memory Outperforms Algorithms 25 Times Its Size",
-      "excerpt": "Bigger is better—or at least that’s been the attitude of those designing AI language models in recent years. But now DeepMind is questioning this rationale, and says giving an AI a memory can help it compete with models 25 times its size. When OpenAI ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "publishedDateTime": "2021-12-20T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

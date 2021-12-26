@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-material-learns-like-animals-furt
 webUrl: "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/23/AT_59286image_story.jpg"
         width: 755
         height: 591
-        isCached: true
-  - title: "Nickel oxide is a material that can 'learn' like animals and could help further artificial intelligence research"
-    excerpt: "The Research Brief is a short take about interesting academic work. The big idea A unique material, nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals,"
-    publishedDateTime: 2021-12-21T19:04:00Z
-    webUrl: "https://www.chron.com/news/article/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Nickel-oxide-is-a-material-that-can-learn-like-16719196.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 36
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "qFR6Ic7Ojl65SInTRC/SMrCGsRUrdjJz6vdXr3NJEtH7VeCJ2sbjV5E57bweX0M6xN9gZoBI1kYVVICqtr2czwrxzIG1DX+6uNC8z2HrXeOvfwmoQIejqrZmlEjBUMJtbxz0ersZnn3ZYtIS3a84loxL/Q8MYPWokHex1cWuNyzz9VoKHV/Rm4gYon3NV/go+eB13zFrRRnqMjRIuRX1H7tuTfnYyLp9Ox7O+A+5ht3L0Pbgq8zFpcXd5HPIzJ0SRUPxK68P+5mDNv+UzTaAhIPRpGyE7lrYsIp7S9XQcBZbYGuv83LOU8nIIr9ZVSyEQle2Zzxp554JPsdAkju1L9foHvfT//2uZ/nkhZ00/pEi7rmdH4PNU/QxYffqaGy/AcpJF9j57yNm0qI96vT5W+LEA/TqrBbrU7sIcprqtodufWjoEGkaLCKpAdbMIcpbFSdPYw8fhA5AAHBOHTISr+N47RBHb8fNdbnOt7V60K2vshM/FlF9WqZg9HTilwofo3y/LGHIJESq2QB0zgvwPQ==;DhS89bF2v9U8vBLU5eVPTg=="

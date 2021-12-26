@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future
 webUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future-johan-steyn"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 744
     height: 400
     isCached: true
-
-related:
-  - title: "2022 technology trend review, part two: AI and graphs"
-    excerpt: "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s."
-    publishedDateTime: 2021-12-21T20:34:00Z
-    webUrl: "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "o0eBsPgDgnxx7jLwE8I1YyQiPdpd+c/PuCQ7MtYiq2KdulyD8k9BLN9IHlgn9TG4eL/I3yQeWAIine0sv7JNSJkhLRzlYS68xQOILr8IYQCReIoBW6DtyxTUBS127eS1Y8Dq1GDVTUqf1sRjFI0uNrC88uQZkc8D1h6F6EWib2OFmfIR3BkEDaW5Krl167I83sQHHMzh68UItdvXVwqDn9W5XO1eqODJBpEFEp0mLWFMH84c9qobN40AqQCnaPUqfy9qqzwrJc9Y/S6OxS8c5U5abiIGQjJR9v2UuHRUnWdF0KEsEHuMWM5KSH7gyyGeeJwv8LtUEKNsgm1ogYzUxV+pGOvcAnolzVOCfzs3CaksAouxtWZKh98xKsFf1ZupkZI96Gh9y9vPB4DFJaLop/GYOj3NYyJSs/emPbHPPPF9NYumqmFY+dUcEScfSiV2hcC8CjlfEtL2wQ9FBY1x1M3yQOpVRc3uTLTs1NSC01XxgOJjrqb3VZuSNCuoqCS9nW1TSH/zvpCCLlrOhszAWQ==;V2c/cIT5O8ZAwWrG5EZX7w=="
 ---

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
+      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
+      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "publishedDateTime": "2021-12-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
       "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
       "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
@@ -106,7 +150,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -458,6 +502,59 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
+      "title": "10 AI Predictions For 2022",
+      "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/",
+      "publishedDateTime": "2021-12-22T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-ai-firm-sensetime-prices-hong-kong-ipo-at-bottom-of-range.md",
       "title": "AI Firm SenseTime Prices Hong Kong IPO at Bottom of Range",
       "excerpt": "SenseTime Group Inc. is likely to price its Hong Kong initial public offering at the bottom of its marketed range, according to people familiar with the matter. SenseTime plans to",
@@ -703,50 +800,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-oosto-to-develop-facial-recognition-and-ai-solutions-to-help-government-and-corporations-to-identify-security-threats.md",
-      "title": "Oosto to develop facial recognition and AI solutions to help government and corporations to identify security threats",
-      "excerpt": "Yossi Cohen, former head of the Mossad and current director of Softbank's operations in Israel, spoke at a conference of security consultants of the AI Company Oosto held in Raanana,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "publishedDateTime": "2021-12-22T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1118,58 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
-      "title": "Faster, safer, more efficient data processing with Edge AI",
-      "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
-      "publishedDateTime": "2021-12-21T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

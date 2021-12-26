@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 AI Predictions For 2022"
+    excerpt: "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence."
+    publishedDateTime: 2021-12-22T17:16:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2a18e6ce0e51852dd2326%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D129%26cropY2%3D827"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Five Predictions For AI In 2022"
     excerpt: "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022."
     publishedDateTime: 2021-12-23T14:08:00Z
@@ -60,30 +76,33 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "Worldwide Artificial Intelligence in Remote..."
-    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-    publishedDateTime: 2021-12-23T10:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+  - title: "The Most Common Artificial Intelligence Misconceptions"
+    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
+    publishedDateTime: 2021-12-21T23:16:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-  - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
-    excerpt: "Our recent Institute for Business Value study highlighted that nearly 6 out of 10 Indian CEOs expect cloud computing to deliver results in the next 2-3 years, and 45 per cent of CEOs in India expect AI/machine learning to deliver results in the next 2-3 years."
-    publishedDateTime: 2021-12-25T11:26:00Z
-    webUrl: "https://menafn.com/1103445355/Open-Hybrid-Cloud-AI-winning-mantras-for-Indian-firms-in-2022&source=30"
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 43
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Predicting lightning with artificial intelligence"
+    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
+    publishedDateTime: 2021-12-23T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/25/I_0222cimage_story.jpg"
-        width: 400
-        height: 257
+      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
+        width: 752
+        height: 355
         isCached: true
   - title: "AI program to predict stock prices."
     excerpt: "AI program to predict stock prices. Contribute to CalderStaude/AI-StockPrediction development by creating an account on GitHub."

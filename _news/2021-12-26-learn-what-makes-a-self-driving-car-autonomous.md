@@ -1,20 +1,22 @@
 ---
 category: news
-title: "How does AI impact self-driving cars?"
-excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
-publishedDateTime: 2021-12-23T00:22:00Z
-originalUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
-webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
+title: "Learn what makes a self-driving car autonomous"
+excerpt: "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car."
+publishedDateTime: 2021-12-26T12:00:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
+webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
 type: article
-quality: 39
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
-    width: 958
-    height: 720
+  - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -45,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Learn what makes a self-driving car autonomous"
-    excerpt: "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car."
-    publishedDateTime: 2021-12-26T12:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
     excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
     publishedDateTime: 2021-12-23T06:58:00Z
@@ -76,6 +62,20 @@ related:
       - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
         width: 630
         height: 415
+        isCached: true
+  - title: "How does AI impact self-driving cars?"
+    excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
+    publishedDateTime: 2021-12-23T00:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
+        width: 958
+        height: 720
         isCached: true
   - title: "Self-driving cars could be legal by spring 2022"
     excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
@@ -106,6 +106,6 @@ related:
         height: 512
         isCached: true
 
-secured: "vgwwXJ1//02zXRrl3AaxEuefBxkDVReWuo6NZaPrhpiPHefUpMJ7hm9Kh3Pg67e+pCEA5Gb+DlkoYuopvNAKEXjdSefovUpzPJx82IF0MQov+m665o3beOKT4O0hNHfH0rV6t163iPpOtgDBT8NzWxDh3r/ZIo4JK5jUZ4ZDJGq9oKw9g69S3OaSYTwaUMpUK3Vduqce+Tn7Rsk+2gYufe4FyCHRDwd/9kK7SLfHfTU1vETqDAzL6yMeFad+6kHEfIExQHL1oPcXskaO/OkBUiY2TtzGnECvjr2aBtuU7YjZ/V7DLGHHSb6E+tRu2ehy8IWIHyk63b3i8ksHcqG0AIqtJsTHXaa7SiJSSYE+5Q6mn4ov76Eqzd7qW6qHlFoDgoqZ6fikdQevD9GkLnjDWIKZ6r3yraWITXrnljkQocIe8FcERK6lomUEQZIopamj6SKPtHkXtHg8NdRo1zCfJNqqjLcfhJkLHTekuAwfITJohAo20AHZXvNj+Thj6yjsDAuKHKFDZ4QGZGE1F+XkDg==;41rUkvj9Q/ZmVYTbdIvmWw=="
+secured: "Xa9xd/5a/ZplwEzaKluRcXSc/tuSDx6FthkUt7LPHAGLFlLWtvKProCTMgAP9lHM0K/l1wO2H2q4P46Mdz9WOeJNd+w3NyZe1ccOsjd+GQ1HKBoECShAmyNM63OcYVx+98Gdcmr8vKHda/i/Jq5i+1G0KxfvChUhCFTw8CVY02J4ubcNUNr983UcAe3b/3SlkewW2QBiPQ8RXPKlqvwaSCPyLiPI66vTu8q1BnAXWC5ppab3hOX6wRM36osBBS3/ucs63G1S8Var53rY+5QQbPJhuV0dKk05JnnaHsZZ907s+pgmVgzjY8f8dtM+InxgFwtBeC0LKvIbE/hxblQdqgokxs5M/GPV4PUHuNr4hOA=;jI8y3XobOjUhkxjTjIBzkA=="
 ---
 

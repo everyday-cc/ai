@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-
 webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 639
     height: 540
     isCached: true
+
+related:
+  - title: "Worldwide Artificial Intelligence in Remote..."
+    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
+    publishedDateTime: 2021-12-23T10:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "MsKI8gh6URCV/8syEDWyOtEsjZIs4Vmwn5bPi5DXJu8HVjTqwUrGcx0iKqg5+Z4HZaq613u0PwKUm76r+bnG44VvzVj+rWwxZZMOzkyKIHzP1OrcQ/6VJ0oPnzcyYMDaJOacVFbzFN1Mn1A4PBAbt7UUvoyA7FU4tjFruv5MtZXs6WDUH+RfzWcUiTj5VxVkbpVtMJilodx57dxxYxtUvLR571x/UzUZyQL8ZqYWjX4QkSy3HvvEhjVxRuSUyiPI9pNzR50OIKwUKnY2IZfod8JeBtivz6vOhrO5VsvtL/C/0SW6PmEeZzuJf12LeG1tmdjataDj/kA1NsvZGZDbpt4wExBE7rXkmUQvhbTTNwJsUrgOnEeQgBaXdZq6BtiwU9+FPM7evFpyr4gHmWrjQdIEJQRQk67+h2ptU7q4Ke81tQJvogCwuLpzF5rasilquJfTYreXg1nfmjX8gAU6RtI7bdhSfTTW79S9RTggYYgD0R4jwnYyKz0+TLMbPmgL+uquEQEYdvTSSoOKCQpOUg==;/WnYjT3/lJu99zpXbBSepQ=="
 ---

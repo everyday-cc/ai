@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Learn what makes a self-driving car autonomous"
+    excerpt: "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car."
+    publishedDateTime: 2021-12-26T12:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
     excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
     publishedDateTime: 2021-12-23T06:58:00Z

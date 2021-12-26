@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -104,50 +104,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-oosto-to-develop-facial-recognition-and-ai-solutions-to-help-government-and-corporations-to-identify-security-threats.md",
-      "title": "Oosto to develop facial recognition and AI solutions to help government and corporations to identify security threats",
-      "excerpt": "Yossi Cohen, former head of the Mossad and current director of Softbank's operations in Israel, spoke at a conference of security consultants of the AI Company Oosto held in Raanana,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-develop-facial-recognition-ai-solutions-co-1536229326-ga.1640172578.html",
-      "publishedDateTime": "2021-12-22T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -559,6 +515,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust",
+      "originalUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp",
+      "publishedDateTime": "2021-12-15T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-papaya-raises-50m-for-computer-vision-that-facilitates-bill-payment.md",
       "title": "Papaya raises $50M for computer vision that facilitates bill payment",
       "excerpt": "Papaya, a startup developing a computer vision-powered app that facilitates bill payments, has raised $50 million in capital.",
@@ -598,49 +597,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
-      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
-      "excerpt": "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/frost--sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-301443364.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1350,6 +1306,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-uk-us-facial-recognition-firm-clearview-ai-faces-17m-fine-for-breaching-data-protection-law-considers-appealing.md",
+      "title": "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing",
+      "excerpt": "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
+      "originalUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "洗護用品和肥皂",
+        "domain": "business-humanrights.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
