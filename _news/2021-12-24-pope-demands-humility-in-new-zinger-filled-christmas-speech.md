@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Computer Vision Maps Christmas Lights"
+    excerpt: "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays."
+    publishedDateTime: 2021-12-24T00:00:00Z
+    webUrl: "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg"
+        width: 1195
+        height: 600
+        isCached: true
   - title: "Pope demands humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
     publishedDateTime: 2021-12-24T05:00:00Z

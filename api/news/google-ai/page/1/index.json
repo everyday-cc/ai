@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-21-deepminds-new-ai-with-a-memory-outperforms-algorithms-25-times-its-size.md",
+      "title": "DeepMind’s New AI With a Memory Outperforms Algorithms 25 Times Its Size",
+      "excerpt": "Bigger is better—or at least that’s been the attitude of those designing AI language models in recent years. But now DeepMind is questioning this rationale, and says giving an AI a memory can help it compete with models 25 times its size. When OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
+      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
+      "publishedDateTime": "2021-12-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty.md",
       "title": "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty",
       "excerpt": "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks.",
@@ -1385,50 +1428,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-do-we-develop-ai-education-in-schools-a-panel-discussion.md",
-      "title": "How do we develop AI education in schools? A panel discussion",
-      "excerpt": "AI is a broad and rapidly developing field of technology. Our goal is to make sure all young people have the skills, knowledge, and confidence to use and create AI systems. So what should AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "originalUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.blogdot.tv/wp-content/uploads/2021/11/how-do-we-develop-ai-education-in-schools-a-panel-discussion.jpg",
-          "width": 500,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "cdnAmpWebUrl": "https://www-blogdot-tv.cdn.ampproject.org/c/s/www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "publishedDateTime": "2021-11-30T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blogdot",
-        "domain": "blogdot.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

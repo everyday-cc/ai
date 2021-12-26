@@ -2,6 +2,310 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
+      "title": "3 big problems with datasets in AI and machine learning",
+      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-12-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-top-5-podcasts-on-artificial-intelligence-everyone-should-make-time-to-listen-to-in-2021.md",
+      "title": "Top 5 Podcasts on Artificial Intelligence Everyone Should Make Time to Listen to in 2021",
+      "excerpt": "Have you ever wondered how Netflix always suggests the perfect films for your tastes? Or how Tesla can create self-driving cars? Artificial Intelligence is behind much of the innovative technology we see today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
+      "originalUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEgSardIuRNZg/article-cover_image-shrink_720_1280/0/1639750626705?e=1645660800&v=beta&t=fRnbA1w1yXBaNpOYUyUgKPSSQO8tVHSMtUzuJCU5LAE",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
+      "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
+      "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "publishedDateTime": "2021-12-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
+      "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
+      "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-435932/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "publishedDateTime": "2021-12-17T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-most-uk-businesses-say-data-regulations-are-stifling-ai-innovation.md",
+      "title": "Most UK businesses say data regulations are stifling AI innovation",
+      "excerpt": "A new survey , commissioned by the Centre for Data Ethics and Innovation (CDEI) , asked 1,000 UK businesses about the key barriers to trustworthy innovation in data and AI. Nearly half of the surveyed businesses (43%) stated that limited technological capabilities are preventing them from investing in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1639748270/itpro/artificial_intelligence_data_GettyImages-1305428682.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
+      "publishedDateTime": "2021-12-17T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-education-partnership-to-improve-artificial-intelligence-practices.md",
+      "title": "Education Partnership To Improve Artificial Intelligence Practices",
+      "excerpt": "Partnering with Carnegie Mellon University, Moderna will launch an AI Academy to educate employees on best practices.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices",
+      "originalUrl": "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/Code_data-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices",
+      "publishedDateTime": "2021-12-17T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-five-ways-ai-improves-brand-marketing-roi.md",
       "title": "Five Ways AI Improves Brand Marketing ROI",
       "excerpt": "AI does more than provide valuable data to inform your digital strategy or improve user experience; it reduces the time necessary to effect real change in your bottom line.",
@@ -285,6 +589,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
+      "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
+      "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource. As Metaverse become the new hot space to enter, high-performance computing power may become important basic infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-blockchain-artificial-intelligence-5baa7937549a0f02b1cb0612f9afefa5",
+      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-blockchain-artificial-intelligence-5baa7937549a0f02b1cb0612f9afefa5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
       "title": "The Sims 4 could use AI to automatically turn photographs into characters",
       "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
@@ -332,49 +679,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
-      "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
-      "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
-      "originalUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
-      "publishedDateTime": "2021-12-17T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -893,309 +1197,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform.md",
-      "title": "Gtmhub raises $120M to expand its automatic OKR-tracking platform",
-      "excerpt": "Gtmhub, a company developing OKR-tracking software, has raised $120 million in capital, bringing its total raised to over $161 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "publishedDateTime": "2021-12-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition.md",
-      "title": "Build custom Amazon SageMaker PyTorch models for real-time handwriting text recognition",
-      "excerpt": "In many industries, including financial services, banking, healthcare, legal, and real estate, automating document handling is an essential part of the business and customer service. In addition, strict compliance regulations make it necessary for businesses to handle sensitive documents, especially",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-4925-image003.jpg",
-          "width": 4004,
-          "height": 2132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T12:02:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-how-to-leverage-ai-for-maximum-benefits-for-your-business.md",
-      "title": "How to Leverage AI for Maximum Benefits for Your Business",
-      "excerpt": "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/398444",
-      "originalUrl": "https://www.entrepreneur.com/article/398444",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1639684343-GettyImages-1257729194.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
-      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
-      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-12-16T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
-      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
-      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "publishedDateTime": "2021-12-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey.md",
-      "title": "Most Indian firms able to pay back on artificial intelligence investments in 2 years: Survey",
-      "excerpt": "The study laid an additional focus on measures taken by AI leaders and global capability centres (GCCs) or to embrace AI for their business growth.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-      "originalUrl": "https://www.msn.com/en-in/money/news/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/ar-AART0JN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-37818,msid-88326059/1.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "publishedDateTime": "2021-12-16T09:04:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "domain": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

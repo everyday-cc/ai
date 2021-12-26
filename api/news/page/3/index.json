@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-supply-chain-startup-unbox-bags-7-mn-infusion-to-build-compact-ecommerce-robotics-solutions.md",
+      "title": "Supply Chain Startup Unbox Bags $7 Mn Infusion To Build Compact Ecommerce Robotics Solutions",
+      "excerpt": "Supply-chain robotics startup Unbox Robotics has raised $7 Mn in a Series A funding round led by 3one4 Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/",
+      "originalUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/12/unbox-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/unbox-bags-7-mn-to-build-compact-ecommerce-robotics-solutions/amp/",
+      "publishedDateTime": "2021-12-21T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai.md",
       "title": "Taking the world by simulation: The rise of synthetic data in AI",
       "excerpt": "Would you trust AI that has been trained on synthetic data, as opposed to real-world data? You may not know it, but you probably already do.",
@@ -437,7 +480,7 @@
       "originalUrl": "https://www.finextra.com/blogposting/21455/fintech-developments-how-ai-and-ml-are-changing-finance-in-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -807,7 +850,7 @@
       "originalUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1106,50 +1149,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
-      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
-      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

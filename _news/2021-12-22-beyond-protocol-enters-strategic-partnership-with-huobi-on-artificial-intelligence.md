@@ -3,8 +3,8 @@ category: news
 title: "Beyond Protocol Enters Strategic Partnership With Huobi on Artificial Intelligence"
 excerpt: "Beyond Protocol, the distributed ledger technology platform, is entering a strategic partnership with Huobi, one of the top global cryptocurrency exchanges. As Huobi scales up its investments in Artificial Intelligence (AI) to help investors better understand the intricacies of emerging financial markets and the potential of blockchain technology,"
 publishedDateTime: 2021-12-21T21:52:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
-webUrl: "https://apnews.com/press-release/pr-newswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
+originalUrl: "https://apnews.com/press-release/PRNewswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
+webUrl: "https://apnews.com/press-release/PRNewswire/cryptocurrency-technology-business-blockchain-artificial-intelligence-86eccbaaa7e46ebea6bee2d65be49983"
 type: article
 quality: 31
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 451
         isCached: true
 
-secured: "3EI36BlRBF7ghrFpvlDF64gAL69Z84dMX0bOhisYL/wdH+/ZrufFraAjF9Pxd22IeNSBiivL89RwiytObWDvGXcCXnyM5GMaxxBWdbVn8lSGwmwkt+ltl89rCjU7LJaDmps1rZ5xYP0IPKcusFoqexgpAD5ekW/QDG9YIKZSx8Ar689zbeazAvbGpCoIAyLIbyySklCAn5MPBASqLf76TexRJUcA6PmK6RarzULh+KtI9jsNanZLF0sHKQMpgFzex15gQXIYn2cXjy+aCMbK8nubd6DLHjakoGCdiOymCLlb8+TdoC1ivgr2mWDclpQuFkY045xDkw/KF5JhIIDd2uoQNf01+Ozp5iBsIrWBoH4=;wqix76m5F738tuirmqKXNw=="
+secured: "HXwMWq6APyUlY+rXR5F3mcJqAKFtgHcmk/Ii4XHBlCeCCGunvmjDFIZLt4a8TNSXXhZ5lFHkJCXpYGIealMi/AQSX/oCILZuqmqUWvZF49iCu6FjTbbcsxhyDJAloD3qU6lkw7L2MOZyn3NB+6oNX833B9c6rk2Y0l4PeFIp1XHyxsDzUzmWbpTlU11NbTI4/sJMYLY/564mcmd951f4UUJB06/1xmOukjxvTEwCroWlISTSLJx9KVPsiainUkdIE2byC8h47xmj0AqbyDK6Ty8c9bBWZaJu1RLS7SaBhEpARO96AmitJvpgLDLGZC2YJ38PyN1/MLy5Ea7jKhnNrttbrd2pqTPCBMPLhBZIkeY=;uFUtJvt29nXm7MPqSfFoPA=="
 ---
 

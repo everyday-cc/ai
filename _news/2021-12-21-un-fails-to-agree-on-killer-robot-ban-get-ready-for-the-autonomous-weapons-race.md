@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-co
 webUrl: "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://images.theconversation.com/files/423428/original/file-20210927-17-1kqlqer.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 364
-        isCached: true
-  - title: "No UN agreement on 'killer robot' ban"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
-    publishedDateTime: 2021-12-21T08:41:00Z
-    webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
-        width: 700
-        height: 400
         isCached: true
 
 secured: "zdBxvp/QyigEe/3WkQJypZHEOeRmTOHUQw5bGzmk8tC+tIbUZhz4FDUJ9RGGulgUGTNt+6QwRIg6y9PumZ0lTPscq32vX6NnsgJgFkeEGnQpzSqObYdzuhp+EfdTtbkplgcpp0c3kQKuBfNMRMBC9IMzkdydNZFSWYZfBJP6ICcaPEirnfJdqA2kv7aAA/X/4GGqqB7xXyAQe9OgyVTqQNZ3jEPLNGeFwkLRuHQ1yY60cSCz42F8i7mymFQ7jy/1Sf+9sosF2SgqGKa+tLNIDexCpVeZaZYuJIMTfDo6CjQtURIgbsFo4qLkbVp5e9J+6DahqqRNzyXan5ewzNhv6xwJGwPKfbqkALiq49R+1eHwLEfY6cA9Ax57dXTIzhIYhA1fOIMeBbX15VGE3C8Bpm8gIo2+/1xJvXP/ulP/gZxDlykAuVJKlUTyP13HMmih0x5i2QDPUPkdFy5oQte8BYdgnEzIGKPmd8aT+jgzL/Zud6O3CLJOGrxbe/zKEGVZzDTIBmHEbfsDmGEbdB0Uvg==;uds7DICyQabvsNR86vdrRw=="

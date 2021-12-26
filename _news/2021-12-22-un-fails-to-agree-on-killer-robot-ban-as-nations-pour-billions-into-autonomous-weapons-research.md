@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "No UN agreement on 'killer robot' ban"
-    excerpt: "Autonomous weapon systems – commonly known as killer robots – may have killed human beings for the first time last year, according to a recent U"
-    publishedDateTime: 2021-12-21T08:41:00Z
-    webUrl: "https://menafn.com/1103409528/No-UN-agreement-on-killer-robot-ban"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/21/AT_2e164image_story.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "0i8NH4zs6BQY04Vjs11foFHoILRlEwKYS66fbAowE5zabIUevPDnhHqwhKHW9SMTiyN+doWwyepbkRuLHLALyqsQdM75No4VS+7uYQC9DsZDeixS4e9qTc+Pt0lADWM8v8sR+cw2JQUSeHV/yhQWQwaotuzJ4efSsSXdJrSgJl5L6wklLDZWpuqycVHIeoirxENpQOOFgUw1ol99L466AeWwuh8DmZfTCMkT74lhTvXUI1BAQVuyhJI1PhGcl8uVLhvTC4AwoiikCaJ9Stu/dkwrCfTXnh2fxcl9SLm/o4Ibx5uR0HKzpuA5biB8HS75KUQheUm5syJZ2ZM/PG+TYlaUD8yg+irODjOaypWYVRU=;VFHS+1XqKn/S7WqIAtHPow=="
 ---

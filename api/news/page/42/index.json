@@ -2,21 +2,21 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2021-11-18-sanofi-inks-270m-cancer-ai-deal-with-rd-platform-developer-owkin.md",
-      "title": "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin",
-      "excerpt": "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years.",
+      "path": "_news/2021-11-20-scientists-use-machine-learning-to-predict-smells-based-on-brain-activity-in-worms.md",
+      "title": "Scientists use machine learning to predict smells based on brain activity in worms",
+      "excerpt": "It sounds like a party trick: scientists can now look at the brain activity of a tiny worm and tell you which chemical the animal smelled a few seconds before. But the findings of a new study, led by Salk Associate Professor Sreekanth Chalasani,",
       "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin",
+      "webUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
+      "originalUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://qtxasset.com/fiercebiotech/1637187670/GettyImages-1226985345.jpg/GettyImages-1226985345.jpg?VersionId=H84OC4OBu58E__a.nTqoWmU7AUJCVZ6G",
-          "width": 800,
-          "height": 450,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/reading-the-mind-of-a.jpg",
+          "width": 1880,
+          "height": 1495,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T21:30:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "publishedDateTime": "2021-11-19T13:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,25 +40,26 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-11-18-baidus-robotaxi-service-aims-to-be-in-100-cities-by-2030.md",
-      "title": "Baidu’s robotaxi service aims to be in 100 cities by 2030",
-      "excerpt": "Baidu keeps ramping up its autonomous driving ambitions. The Chinese tech company made its name in search engines and still relies greatly on search ads for revenues. But it’s hoping that its heavy bet on autonomous driving will pay off down the road.",
+      "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
+      "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
+      "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
-          "width": 1024,
-          "height": 661,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61981d5e16a15abc836db9ec%2F0x0.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,16 +67,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "publishedDateTime": "2021-11-17T20:04:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "publishedDateTime": "2021-11-19T12:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-fleet-operators-want-teslas-but-not-full-self-driving.md",
+      "title": "Fleet operators want Teslas. But not 'full self-driving'",
+      "excerpt": "But for all their Tesla enthusiasm, there's one feature they overwhelmingly aren't touching — \"full self-driving.\" Some say the technology isn't ready yet. The $10,000 optional software feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "originalUrl": "https://www.cnn.com/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211118132230-01-revel-tesla-cars-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "publishedDateTime": "2021-11-19T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -96,72 +149,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-18-grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-using-ai.md",
-      "title": "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI",
-      "excerpt": "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,",
+      "path": "_news/2021-11-20-self-driving-stocks-join-evs-as-next-retail-trader-obsession.md",
+      "title": "Self-Driving Stocks Join EVs as Next Retail Trader Obsession",
+      "excerpt": "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "publishedDateTime": "2021-11-17T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips.md",
-      "title": "Advanced Verification: Unlocking the Door to a New Era of AI Chips",
-      "excerpt": "A look at how chip manufacturers will have to adjust hardware architecture in order to accommodate ever-growing demand for increased AI functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
-      "originalUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/11/Synopsys-Kiran-Vittal-featured-image-EDA-tools-.jpg",
-          "width": 600,
-          "height": 341,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,48 +173,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:51:00-08:00",
+      "publishedDateTime": "2021-11-19T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-why-conversational-ai-is-now-ready-for-prime-time.md",
-      "title": "Why conversational AI is now ready for prime time",
-      "excerpt": "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "originalUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "publishedDateTime": "2021-11-17T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -228,23 +196,111 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
-      "title": "Computer Vision in Agriculture",
-      "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
+      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
+      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
+      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
-      "originalUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
+      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "publishedDateTime": "2021-11-19T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
+      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
+      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "publishedDateTime": "2021-11-19T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-steps-every-leader-should-take-to-prepare-for-artificial-intelligence.md",
+      "title": "Steps Every Leader Should Take to Prepare for Artificial Intelligence",
+      "excerpt": "I’ve spent much of the past year thinking about the rise of artificial intelligence (AI) and how it will affect what it means to be human over the coming decades. As part of that work, I’ve spoken with a wide range of scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGLbK4229LvLg/article-cover_image-shrink_720_1280/0/1637252530672?e=1643241600&v=beta&t=7Suuvkau68tBE8YHvNNqyoIY-j0y7-cODF49bx0teME",
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEmHGrRXdd1Kw/article-cover_image-shrink_720_1280/0/1637345356690?e=1643241600&v=beta&t=Mnv-pvTZaTbLOE-lmoNra4e1HV_Ry3fxJ7TuEqA6JlM",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -256,7 +312,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
+      "publishedDateTime": "2021-11-19T10:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "LinkedIn",
@@ -279,156 +335,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-11-18-real-time-object-detection-for-59.md",
-      "title": "Real Time Object Detection For $59",
-      "excerpt": "Pretty impressive. We’ve seen dedicated object recognition systems at this price point, but the Jetson has a lot of flexibility. We were excited to see the Jetson Nano and with 128 cores and a ...",
+      "path": "_news/2021-11-20-key-executives-resign-after-ponyai-combines-trucking-and-passenger-car-rd-units.md",
+      "title": "Key executives resign after Pony.ai combines trucking and passenger car R&D units",
+      "excerpt": "Pony.ai, the self-driving startup that operates in both the U.S. and China, has lost at least two executives from its trucking team following the combination of the company’s passenger car and self-driving truck R&D teams.",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/03/26/real-time-object-detection-for-59/",
-      "originalUrl": "https://hackaday.com/2021/03/26/real-time-object-detection-for-59/",
+      "webUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
+      "originalUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2021/11/arduin-of-ivrea-thumbnail.jpg?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tools-tricks-and-learning-in-machine-learning-ft-aliaksei-mikhailiuk-ml-054.md",
-      "title": "Tools, Tricks, and Learning in Machine Learning ft. Aliaksei Mikhailiuk - ML 054",
-      "excerpt": "Aliaksei Mikhailiuk joins the Adventure to discuss the tools he wishes he'd mastered before getting his PhD in Machine Learning. However, the conversation meanders through his background, what qualifications people should have, algorithms, and approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "originalUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51hS6VOUAML._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-facial-recognition-check-in-to-public-education-space-geisinger-expands.md",
-      "title": "From facial recognition check-in to public education space: Geisinger expands",
-      "excerpt": "Multiple pieces of heavy equipment thrummed in the background and Life Flight Helicopter roared overhead before it landed on the nearby hospital roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "originalUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24526.pcdn.co/wp-content/uploads/2021/11/127911290_web1_geisinger-1.jpg.optimal.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "publishedDateTime": "2021-11-17T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times Leader",
-        "domain": "timesleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware.md",
-      "title": "Cohere partners with Google Cloud to train large language models using dedicated hardware",
-      "excerpt": "AI startup Cohere has partnered with Google Cloud to train large language models on the company's dedicated hardware infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=1200&strip=all",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/SJM_8934.jpg?w=1024",
           "width": 1024,
-          "height": 512,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -436,756 +362,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "publishedDateTime": "2021-11-17T15:00:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
+      "publishedDateTime": "2021-11-19T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-nvidia-data-center-sales-grew-55-on-demand-for-artificial-intelligence-chips.md",
-      "title": "Nvidia data center sales grew 55% on demand for artificial intelligence chips",
-      "excerpt": "Nvidia stock rose more than 5% in extended trading after it reported third-quarter earnings Wednesday that beat expectations for both earnings and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "publishedDateTime": "2021-11-17T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia.md",
-      "title": "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia",
-      "excerpt": "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "publishedDateTime": "2021-11-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu.md",
-      "title": "Cognitive Services Market to Witness Massive Growth by 2027: Google, AWS, Baidu",
-      "excerpt": "If you are involved in the Cognitive Services product offering or planning ... Middle East & Africa and leading players such as IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-nvidia-ceo-supply-chain-mess-was-a-wake-up-call-for-everybody.md",
-      "title": "Nvidia CEO: Supply chain mess 'was a wake-up call for everybody'",
-      "excerpt": "Nvidia said it has enough supply of its own chips to meet demand, but companies should \"be more mindful about not taking the supply chain for granted.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
-      "publishedDateTime": "2021-11-17T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-in-the-push-for-development-is-the-us-prepared-to-regulate-ai.md",
-      "title": "In the push for development, is the U.S. prepared to regulate AI?",
-      "excerpt": "For ethical and unbiased AI to be the way of the future, we need to regulate AI now to address today's research and development challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
-      "publishedDateTime": "2021-11-17T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
-      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
-      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "publishedDateTime": "2021-11-17T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
-      "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
-      "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg",
-          "width": 801,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T11:43:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-in-a-5g-future-physical-work-wont-require-your-physical-presence.md",
-      "title": "In A 5G Future, Physical Work Won’t Require Your Physical Presence",
-      "excerpt": "It’s from here that the operator remotely pilots the machine via a 5G connection—protected from the dirty, dangerous work outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
-      "originalUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192aa14af7232fadbf0f689%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
-      "publishedDateTime": "2021-11-17T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
-      "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
-      "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "originalUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/finch_photo_featire.jpg",
-          "width": 2000,
-          "height": 1506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "publishedDateTime": "2021-11-17T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-fortanix-reveals-confidential-ai-for-seamless-app-development.md",
-      "title": "Fortanix reveals confidential AI for seamless app development",
-      "excerpt": "The development of AI applications is usually hindered by the inability to use highly sensitive private data for AI modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1637172595387.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "publishedDateTime": "2021-11-17T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
-      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
-      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "publishedDateTime": "2021-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it.md",
-      "title": "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it",
-      "excerpt": "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "originalUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cathie-wood-ai-stocks_financial_hero_1_564x423_v202111121130.jpg",
-          "width": 564,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "cdnAmpWebUrl": "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "publishedDateTime": "2021-11-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edmonton Sun",
-        "domain": "edmontonsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment.md",
-      "title": "Coros raises $6.1M to bring computer vision to e-commerce parcel fulfillment",
-      "excerpt": "Coros, a real-time visibility provider for e-commerce and parcel fulfillment, announced Wednesday that it has raised a $6.1 million seed round of venture capital funding led by Dynamo Ventures. Susa Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "originalUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/11/Leadership-Team-1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "publishedDateTime": "2021-11-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-early-disease-detection-to-facial-recognition-tech-heres-how-ai-is-integrated-with-everyday-tools.md",
-      "title": "From early disease detection to facial-recognition tech, here's how AI is integrated with everyday tools",
-      "excerpt": "Businesses are keen to adopt AI solutions in their technology and make the most of the competitive advantage it brings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-artificial-intelligence-is-changing-everyday-technology-2021-11",
-      "originalUrl": "https://www.businessinsider.com/sc/how-artificial-intelligence-is-changing-everyday-technology-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6194f1a6a2e68800198a9cfd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug.md",
-      "title": "From Emergencies To Moonshots, Can AI Help Find The Next Blockbuster Drug?",
-      "excerpt": "Deep-learning technology allows Toronto-based biotech firm Cyclica to help researchers, companies and governments do drug discovery in record time—including in the COVID-19 crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618f00844dbd149e7c93c0c6%2F0x0.jpg%3FcropX1%3D91%26cropX2%3D5026%26cropY1%3D0%26cropY2%3D2776",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/amp/",
-      "publishedDateTime": "2021-11-17T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1205,5 +391,5 @@
       ]
     }
   ],
-  "nextPage": 43
+  "nextPage": null
 }

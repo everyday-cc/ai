@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
-excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
-publishedDateTime: 2021-12-20T20:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+excerpt: "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer"
+publishedDateTime: 2021-12-20T18:49:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ZKDgGtQiHGM4+genupHh8MUHsYABuULKk3+LgXnVAqz6Jet32Sj1G7wmn3bM+uNO/QQXn52uWpHe5az6zRzsdD9smLocMRKEtPmLua6DTXsds60F7sCGJ0o6dF8RQeixzNg3NPIK/y84EML8YoxQWJoMOmqRYj0k+9mdEph9moCnpYCLsjcZcsfCuJnJKoEbg6hVVKj0nM2gigWTqTvaGLK3ByJTZ96AjeyU64+g2roaVMUVuC0iRBOFdHZxGGMgOquGRcf7wD35DuDof+gln26mY/ZtMYN+1NENKa20LkstKfUwNdDwvtXh+s6aj+RTB5fcHF9oYAKat+ULKC1Sgj1Qq0g6HPlg/sXo2fAeuLE=;Up8/yspZuDN/La6drh/fTw=="
+secured: "b03Hgba5IwADLv6DJZBa3kGrIvPPYaS7jLpKlu5XBECdb/hqNysz9opikDw1JRaVz/YSqhy9J+ggL9nU84WIDaGpmXYB4c5NRDo6w2GvB70Z36BrLmoaKMPAZDaRaQOCmc3C7K9PtvT7O4sy2x2A1D+quRMoj9gcotQROpYZ35f+cp15ZujeqVd/zT2LkAiVL/hKwV/KQ33xHFFOtG9jr0i+sI+cWRwS6t/ZrTwB7CHs4LxvlYOkCxIuZwYoNF4Lif057d5FoIYnnTCWpzB/ItpddU99sdJke3V4p751iITLXNZRZpcRFBcedmzOSILLYiOMw1t0r5HccuYYtsNNB2X+Nx4E1dmodDwrCthUmwk=;VQSZfVfT5twb3XWBGNz3DQ=="
 ---
 

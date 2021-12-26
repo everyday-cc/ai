@@ -2,6 +2,452 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 release of the world’s first artificial human arm,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
+      "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
+      "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ford-pilot-uses-self-driving-shuttles-to-deliver-food-to-detroit-seniors.md",
+      "title": "Ford pilot uses self-driving shuttles to deliver food to Detroit seniors",
+      "excerpt": "Ford is launching a pilot project that will have self-driving shuttles bring food to Detroit seniors in need..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html",
+      "originalUrl": "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/a6ce9ca0-5ce4-11ec-bfe7-22eb2ba92db7",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mobility-software-startup-apexai-lands-supplier-giants-continental-zf-as-investors.md",
+      "title": "Mobility software startup Apex.ai lands supplier giants Continental, ZF as investors",
+      "excerpt": "The four years that Apex.ai spent rewriting — and then safety certifying — the robot operating system to give automakers and other mobility companies a toolkit to integrate software applications into vehicles has paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "publishedDateTime": "2021-12-14T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-can-ai-help-make-social-media-more-accessible-inclusive-and-safe.md",
+      "title": "Can AI Help Make Social Media More Accessible, Inclusive And Safe?",
+      "excerpt": "In the latest edition of our “On AI Ethics” series, we caught up with Ramit Sawhney, Lead AI Scientist at Sharechat. Learn more about how the India-based social media unicorn leverages machine learning to to further its mission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8b79833d0ee727bc20e82%2F0x0.jpg",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/12/14/can-ai-help-make-social-media-more-accessible-inclusive-and-safe/amp/",
+      "publishedDateTime": "2021-12-14T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-meet-nous-an-underwater-artificial-mind.md",
+      "title": "Meet NOUS: An Underwater ‘Artificial Mind’",
+      "excerpt": "The establishment of Maritime Protective Areas (MPA) and marine archaeological sites has been an objective of the Ministries of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "originalUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/images-courtesy-george-128204.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "publishedDateTime": "2021-12-14T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
+      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
+      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "publishedDateTime": "2021-12-14T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheBetterIndia",
+        "domain": "thebetterindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/402549",
+      "originalUrl": "https://www.entrepreneur.com/article/402549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-california-suspends-ponyai-driverless-test-permit-after-crash.md",
+      "title": "California suspends Pony.ai driverless test permit after crash",
+      "excerpt": "Pony.ai, a Chinese autonomous driving startup with an office in the U.S., has paused its driverless pilot fleet in California six months after it was approved by local regulators to test autonomous vehicles without a human safety driver.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-12-at-6.56.57-PM.png?w=1024",
+          "width": 1023,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/pony-ai-suspension-driverless-pilot-california/amp/",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-globalwonks-relaunches-as-enquire-ai-following-55m-round.md",
       "title": "GlobalWonks relaunches as Enquire AI following $5.5M round",
       "excerpt": "When users ask a question they receive bite-sized answers in real time from over 40,000 possible experts based on expertise tags.",
@@ -738,402 +1184,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath.md",
-      "title": "DRDO adding IT, artificial intelligence, robotics in tech warfare: Rajnath",
-      "excerpt": "Defence Minister Rajnath Singh on Tuesday said that the Defence Research and Development Organisation (DRDO) is adding new chapters like information technology (IT), artificial intelligence (AI) and robotics in technological warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/14_tue/img_1639478703391_58.jpg?",
-          "width": 1080,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "publishedDateTime": "2021-12-14T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
-      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "publishedDateTime": "2021-12-14T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
-      "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
-      "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/mts-to-acquire-ai-computer-vision-leader-visionlabs-43177/amp/",
-      "publishedDateTime": "2021-12-14T00:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition.md",
-      "title": "Movement of COVID cases in this country to be tracked by AI-facial recognition",
-      "excerpt": "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
-      "originalUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
-      "publishedDateTime": "2021-12-13T23:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-can-artificial-intelligence-ever-be-ethical-answer-might-surprise-you.md",
-      "title": "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You",
-      "excerpt": "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "originalUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "publishedDateTime": "2021-12-13T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
-      "title": "UN head calls for action on 'killer robots' as Geneva talks start",
-      "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "publishedDateTime": "2021-12-13T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geo News",
-        "domain": "www.geo.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
-      "title": "California halts Pony.ai's driverless testing permit after accident",
-      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
-          "width": 4134,
-          "height": 2757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
-      "publishedDateTime": "2021-12-13T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
-      "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
-      "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/walmart-backed-symbotic-will-ipo-via-softbank-spac-for-2455b/ar-AARMzFP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg",
-          "width": 1000,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "domain": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-how-artificial-intelligence-will-transform-business.md",
-      "title": "How Artificial Intelligence Will Transform Business",
-      "excerpt": "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-",
-          "width": 1000,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ “We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,"
-    publishedDateTime: 2021-12-23T13:25:00Z
-    webUrl: "https://www.timesunion.com/business/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+  - title: "In Africa, Rescuing the Languages That Western Tech Ignores"
+    excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
+    publishedDateTime: 2021-12-23T12:08:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Bridging the financial gap for small business owners in Africa"
     excerpt: "Our Ventures team shares why they invested in Payhippo, a Nigerian startup building a game-changing lending platform."
     publishedDateTime: 2021-12-21T22:32:00Z

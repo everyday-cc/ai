@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-07-deep-learning-dreams-up-new-protein-structures.md",
+      "title": "Deep learning dreams up new protein structures",
+      "excerpt": "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "originalUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "publishedDateTime": "2021-12-06T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-human-intuition-and-machine-reasoning-ais-helping-us-solve-giant-math-puzzles.md",
       "title": "Human intuition and machine reasoning: AI’s helping us solve giant math puzzles",
       "excerpt": "Mathematical discoveries take creativity – and now a little help from AI. Here's how neural nets are helping us develop intuition.",
@@ -1363,49 +1406,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-new-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.md",
-      "title": "New machine learning model reduces uncertainty in detection of breast cancer",
-      "excerpt": "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx",
-      "publishedDateTime": "2021-12-01T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

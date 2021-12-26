@@ -26,22 +26,6 @@ images:
     height: 650
     isCached: true
 
-related:
-  - title: "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals"
-    excerpt: "IIIT Hyderabad announces a year-long Research Translation Fellowship for working professionals to work on creating products from"
-    publishedDateTime: 2021-12-21T08:41:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals-844485007.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-        width: 2398
-        height: 1257
-        isCached: true
-
 secured: "46HqKNA6B/UUfhlMQN5KZT4lcnNpEd1B6NpmiuI0anKrXYqWeHxOZ/azUTbNbGA5mTac/eS9AB+Tbm64m4g9GFa7aAghwbXX9oh7MtxVagbIc9w6IVsUkDdg9c3ekrVlzyHhWWV3VU36amgDtk9spkfFlCjJpqizSqxb4JzUH0i2xYR+dbOzMDcv4yhHjSq7GEPDFQAr3yMOxIJYzCs3c3wjqskZvijYVAbJxOyqHLNSFL/xxanRQIvTo49iMxicOAvqXwTqUqxhGQmWH3IA9IoUr3+ByDLICWlP2tzrQ6mFcX5xuAuSTyuScD0rAzPBnafN1j1lW2WP+DkD4C9k7qz4b+pE44nNgViFkFu0MncT2M9Yjwyi+wu22A78oTQcD2Pg3nMkbjHudX/cNOsCeXwxsCOxNgJyAaeZNWtEUroQFmWhwhGk8kf/yQxgE2dwRP06KyxjcXsTJSRZQjArM+EMLts5fJUaQksF/Rf8pzomnZvAlmAbYnmQTbO9O1RGL6paWO9KgbrZYY1Owgqyow==;NgSF8am55gfiOtnFaqPmCw=="
 ---
 
