@@ -1,20 +1,26 @@
 ---
 category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
-excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human"
-publishedDateTime: 2021-12-20T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
-webUrl: "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html"
+excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
+publishedDateTime: 2021-12-20T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "+Zzaaj5OjV6uyVhliR0PDJNPxIBShWw94nSNnobFwb0d19SVaauliHuGYeaaGB5XMW9PLiA0ZMMTAjfQuj9earaeFRw4ba3Y83xwSh1mOZgk9Rc0cdBQic6TgB96FD04fvm24sOKktREkiiulpS+L4fVmmT2aZDxnh2z5/ZOgO2mcX55mIN5sledDe2LfVCVUhu80eGdkk4LaIOwkat+TYWiajYAUrYtLR8z3BxwKdY+UCkvgNL1rsRxUki25jhtCI+yrMVuUYVz6bGFCdF5eK+zSRX/+i0EYIymNWcy4ayV808H2nNvaBsFSvrp4D2XDXPRn+JkAvr1jzhhw5txWVIVoFla2EAIzlhiHEugLzQ=;ziHrbM3R+3nTiz9y9jA6OQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "6XLu0VY3X5mzfNYXNSyOY59LDO9leanEaqhZDITcGzQDrgSZzVk/gmGnfwSXDqwoeaVWKFOvgSqkinycdVUl5VaxBDqa7rVPRYYmfPKwhxdqbPrLfzxPiD9pILcCouaxQ74jSW5ulgcMLPjcJ+604lHlyhk6tZUnDqFfJcuBnWbhIjfBl0lxrXiqGz3r9DjyZDcbS0j+b162JRcdHbtL1xuJI5nQ61uMtqGTOWj+Xbc/O9xIg8SCXyD0/CNxXnD12yWL/6uGCHf1UG1b0mvJXAEnc1tWugnAZpwLvb/d/u4k9HbkGSbbj/IVGapMMj+qTylaPw5lqWep5DkgU463gVxoFv6HZ9/PwvyxcxCy0gQ=;F3KZISUZr53rXfMYTMmLww=="
 ---
 

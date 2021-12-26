@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tencent Is Exploring Big Data, AI, Blockchain to Offer Green Computing Solutions"
+    excerpt: "Tencent, whose subsidiaries globally market Internet-related services and products, including in entertainment, Fintech, artificial intelligence ... exploring Big Data, AI and blockchain to provide green computing solutions, and establishing a Carbon ..."
+    publishedDateTime: 2021-12-26T13:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Guilin-China-sam-beasley-unsplash.jpeg"
+        width: 1280
+        height: 1050
+        isCached: true
   - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
     publishedDateTime: 2021-12-25T13:17:00Z
@@ -59,6 +75,6 @@ related:
         height: 720
         isCached: true
 
-secured: "0WpeR6qa+7tBSfBRBurbwv7ZrNhdDCoR5yg0FUUmKJrfbo1ZDCCNM4W20sgFvCqsH4daJGlseDxPIP8Gu4Q3TWiHE0hp+puQtShpsYl+i6dYpeKdAEfe8gRWgFLo9MWMb18or+qmSzB7feRMRAM+EgpijUGyoknCUIUGmCpH1lFvfHkonFI0+UsGAis3/yaN5lGfm9FdDL/mb6pE8qoxre4SDeQkkg+fVU42SUSn6j7VdeZy3grdq4RUr7Y0jdXLlaWHa5x/XyXXt+mnypHhu2qGLPwxC4ffDBUSJB6nqZc+HSvgOJpH2iJd91vO9ZfcA0CQBF02b6x8c70DD+X0stqvVBi99Gi+qaJp//0A7lo=;xBLViGqkclwN9Kgqo++CIw=="
+secured: "6vuzBru722h4GMFBqsdWuBBqh3WchQGbayBv2ko43I6eQDYFc/ty63tzFJ5WAYE6nnWuCX6PCoWRMINtTj4va7mwodxMRW7ndFXmw2j+8KBHdGon7RXcoDBdj3IUix2Y6FHDwAzDdB5NIdauQbhI7v+V9q/X65KLLy6ocqoITfMmN2WJsWlPdcIbF3G1/7B51s3bq0BFUgxOonSwQdadi0HS8OFVaX3USY7lBnk4vTdTvmMI4uu/Ht/yNJvNYZ5/tKfHsLjo+rUHXQ2AzId+Bae3/XemsLDiyPp+VAztNA8o4E1LefGkSaunLpz35iRsKzOWTOlKhHXjdyHu/9TMrQrLjFycblokBE/3ANBkHv/cy/PHwUC9jY83OycjWUYEct1zBkqkcHZN6wZ76KZXlRDJVKCQHmxDgbxgju1a6J+Nm7Z3EFU2SJaRfyAWu3K/+Yu9dWxZbauT4pGd08xZ3Nkg4xXO5/AM3hjUj/1WjflnfaSh3EZPNohRGgiwe9hkvb1SPgOWLcZWU3F7b4v1EQ==;PQcu3Y3+UyZEfle/Ws+0pg=="
 ---
 

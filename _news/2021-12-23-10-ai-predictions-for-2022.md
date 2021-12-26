@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/22/10-ai-predictions-for-2022/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
         width: 1200
         height: 682
-        isCached: true
-  - title: "The Most Common Artificial Intelligence Misconceptions"
-    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
-    publishedDateTime: 2021-12-21T23:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 43
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Predicting lightning with artificial intelligence"
     excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"

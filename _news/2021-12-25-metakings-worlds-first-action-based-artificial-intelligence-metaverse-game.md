@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 659
         isCached: true
+  - title: "Tencent Is Exploring Big Data, AI, Blockchain to Offer Green Computing Solutions"
+    excerpt: "Tencent, whose subsidiaries globally market Internet-related services and products, including in entertainment, Fintech, artificial intelligence ... exploring Big Data, AI and blockchain to provide green computing solutions, and establishing a Carbon ..."
+    publishedDateTime: 2021-12-26T13:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184695-tencent-is-exploring-big-data-ai-blockchain-to-offer-green-computing-solutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Guilin-China-sam-beasley-unsplash.jpeg"
+        width: 1280
+        height: 1050
+        isCached: true
   - title: "How Digital Twins, Blockchain and IIoT are leading the innovation of the wind power industry of the future"
     excerpt: "The connected assets and the Digital Twin ecosystems are taking part in the current digital transformation of the industry empowered by IIoT technologies and Blockchain. In my last article, I explained “How Digital Twins will transform and digitize the wind power industry”,"
     publishedDateTime: 2021-12-23T15:55:00Z

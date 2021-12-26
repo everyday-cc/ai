@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 682
         isCached: true
-  - title: "The Most Common Artificial Intelligence Misconceptions"
-    excerpt: "The concept of artificial intelligence (AI) is so vast that there are many misconceptions. Artificial intelligence has a great future and will be one of the essential tools for organisations in the future."
-    publishedDateTime: 2021-12-21T23:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-most-common-artificial-intelligence-misconceptions"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 43
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Most_Common_Artificial_Intelligence_Misconceptions.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence for Credit Unions"
     excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
     publishedDateTime: 2021-12-24T22:54:00Z

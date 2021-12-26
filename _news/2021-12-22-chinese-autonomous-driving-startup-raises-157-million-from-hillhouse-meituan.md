@@ -39,17 +39,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Chinese autonomous driving startup raises $157 mln from Hillhouse, Meituan"
-    excerpt: "Haomo.AI, a Chinese autonomous driving startup controlled by Great Wall Motor's 601633.SS Chairman Wei Jianjun, has raised nearly 1 billion yuan ($157 million) in a funding round as investors increase bets on smart car technologies."
-    publishedDateTime: 2021-12-22T01:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan"
-    ampWebUrl: "https://www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chinese-autonomous-driving-startup-raises-%24157-mln-from-hillhouse-meituan?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 65
   - title: "Chinese self-driving startup Haomo.AI entres unicorn club after $157m Series A round"
     excerpt: "Hillhouse Capital's GL Ventures, food delivery giant Meituan, Qualcomm Ventures, and others invested in the round."
     publishedDateTime: 2021-12-22T04:16:00Z
