@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "moveworks"
   url: "https://twitter.com/moveworks"
-  followers: 5449
+  followers: 5450
 
 size: 51-200 employees
 yearFounded: 2016
