@@ -2,6 +2,186 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
+      "title": "Ambyint Achieves AWS Energy Competency Status",
+      "excerpt": "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance-launches-precision-imaging-network.md",
+      "title": "AI Eye Podcast - IBM Watson Health Introducing AI Orchestration Offering For Imaging, Nuance Launches Precision Imaging Network",
+      "excerpt": "Paid for content is disclosed. IBM (NYSE:IBM) has announced that Watson Health is introducing a new AI orchestration offering to help imaging organizations experience the benefits of having ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2021/11/30/776842-16382973501935647.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "publishedDateTime": "2021-11-30T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-what-are-major-factors-driving-growth-of-deep-learning-market.md",
+      "title": "What are Major Factors Driving Growth of Deep Learning Market?",
+      "excerpt": "The increasing focus of the education sector on conversational learning owing to the rapid adoption of e learning and digital solutions is facilitating the deployment of artificial i AI technology in this sector In conversational learning content is presented as",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub30952293_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "publishedDateTime": "2021-11-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool.md",
+      "title": "Why Employers Should Ditch Relying On AI As A Recruitment Tool",
+      "excerpt": "As has been written here and elsewhere, one of the great mysteries of the current economic environment is how businesses of all sorts can be complaining of staff shortages at the same time as even the best qualified young people struggle to get on to the employment ladder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a633e163d816f8c303d8c8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "publishedDateTime": "2021-11-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai.md",
       "title": "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI",
       "excerpt": "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,",
@@ -948,205 +1128,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2.md",
-      "title": "Using AI To Scrub Image Noise (And Save Money And Time) In The Addams Family 2",
-      "excerpt": "Removing visual noise from visual effects is a big challenge for post-production companies, but a new Intel de-noiser using artificial intelligence saved Cinesite an estimated 20 percent in creating the recently released 'The Addams Family 2' movie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a5675509704b2b0f06c332%2F0x0.jpg",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
-      "publishedDateTime": "2021-11-29T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-clearview-ai-a-facial-recognition-company-is-fined-for-breach-of-britains-privacy-laws.md",
-      "title": "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws.",
-      "excerpt": "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
-      "publishedDateTime": "2021-11-29T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation.md",
-      "title": "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation",
-      "excerpt": "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "originalUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "publishedDateTime": "2021-11-29T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-new-azure-ai-vms-immediately-claim-top500-supercomputer-rankings.md",
-      "title": "New Azure AI VMs Immediately Claim Top500 Supercomputer Rankings",
-      "excerpt": "Visual Studio coders who dabble in artificial intelligence projects can now take advantage of new Azure virtual machines (VMs) featuring 80 GB NVIDIA GPUs that immediately claimed four spots on the TOP500 supercomputers list,",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2021/11/29/azure-ai-vms.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2021/11/29/azure-ai-vms.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

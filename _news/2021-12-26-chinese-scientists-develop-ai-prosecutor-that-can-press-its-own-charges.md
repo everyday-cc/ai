@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "China Created an AI ‘Prosecutor’ That Can Charge People with Crimes"
+    excerpt: "Researchers in China created a machine that can file a charge with more than 97 percent accuracy based on a description of a suspected criminal case."
+    publishedDateTime: 2021-12-27T14:59:00Z
+    webUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
+    ampWebUrl: "https://futurism.com/china-ai-prosecutor-crimes/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-ai-prosecutor-crimes/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
     excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
     publishedDateTime: 2021-12-27T12:33:00Z

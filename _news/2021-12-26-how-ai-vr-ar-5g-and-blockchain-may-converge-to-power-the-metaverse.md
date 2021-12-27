@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
 type: article
 quality: 87
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Guilin-China-sam-beasley-unsplash.jpeg"
         width: 1280
         height: 1050
+        isCached: true
+  - title: "Baidu held an AI event in its own metaverse – and it's not cool"
+    excerpt: "China's search engine giant Baidu on Monday held an event about artificial intelligence (AI) nowhere in the physical world. Instead, they moved the event location to its metaverse. We at CGTN Digital Sci-tech logged into the metaverse and joined the event,"
+    publishedDateTime: 2021-12-27T15:28:00Z
+    webUrl: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/img/4f330c5310bf4604ac99f15c6ebad2ec/4f330c5310bf4604ac99f15c6ebad2ec-1280.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."

@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
+      "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
+      "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
+      "sourceUrl": null,
+      "webUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "originalUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2021/11/Yoga.png",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multiple Sclerosis News Today",
+        "domain": "multiplesclerosisnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-bad-robots-arley-sorg-and-josh-pearce-discuss-eternals.md",
+      "title": "Bad Robots: Arley Sorg and Josh Pearce Discuss Eternals",
+      "excerpt": "Thousands of years ago, the godlike Celestial Arishem (voiced by David Kaye) sent a squad of immortal, humanoid Eternals to Earth to hunt down alien monsters called Deviants, and to provide",
+      "sourceUrl": null,
+      "webUrl": "https://locusmag.com/2021/12/bad-robots-arley-sorg-and-josh-pearce-discuss-eternals/",
+      "originalUrl": "https://locusmag.com/2021/12/bad-robots-arley-sorg-and-josh-pearce-discuss-eternals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://locusmag.com/wp-content/uploads/2021/12/Eternals-poster-2.jpg",
+          "width": 540,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Locus Online",
+        "domain": "locusmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
       "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
       "excerpt": "Servi is more of a Bus-i, I guess you could say.\" Food and beverages director Jacky Li is talking about the smooth-moving black and white robot gliding through the dining room of Roger Bar and Restaurant in Mountain View.",
@@ -1282,92 +1368,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-ecu-robotics-team-wins-awards-at-national-competition.md",
-      "title": "ECU robotics team wins awards at national competition",
-      "excerpt": "High finishes in national robotics competitions are becoming a habit for the Association of Technology, Management and Applied Engineering team from East Carolina University.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
-      "originalUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/9/71/9711c353-db90-5d56-aa08-28e8c3c0ffb7/61a901ab1f984.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Reflector",
-        "domain": "reflector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
-      "title": "Robots made from living cells learned how to replicate themselves",
-      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
-      "publishedDateTime": "2021-12-03T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

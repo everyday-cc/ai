@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 1050
         isCached: true
+  - title: "Baidu held an AI event in its own metaverse – and it's not cool"
+    excerpt: "China's search engine giant Baidu on Monday held an event about artificial intelligence (AI) nowhere in the physical world. Instead, they moved the event location to its metaverse. We at CGTN Digital Sci-tech logged into the metaverse and joined the event,"
+    publishedDateTime: 2021-12-27T15:28:00Z
+    webUrl: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/img/4f330c5310bf4604ac99f15c6ebad2ec/4f330c5310bf4604ac99f15c6ebad2ec-1280.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Digital Twins, Blockchain and IIoT are leading the innovation of the wind power industry of the future"
     excerpt: "The connected assets and the Digital Twin ecosystems are taking part in the current digital transformation of the industry empowered by IIoT technologies and Blockchain. In my last article, I explained “How Digital Twins will transform and digitize the wind power industry”,"
     publishedDateTime: 2021-12-23T15:55:00Z

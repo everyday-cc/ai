@@ -2,6 +2,187 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-11-21-artificial-intelligence-that-understands-object-relationships.md",
+      "title": "Artificial intelligence that understands object relationships",
+      "excerpt": "Researchers developed a machine learning model that understands the underlying relationships between objects in a scene and can generate accurate images of scenes from text descriptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-21-azure-cognitive-search-brings-knowledge-mining-to-the-enterprise.md",
+      "title": "Azure Cognitive Search brings knowledge mining to the enterprise",
+      "excerpt": "A recent report from Harvard Business Review Analytics Services also found 82% ... will move from finding to understanding. Microsoft’s Azure Cognitive Search solution will offer knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
+      "originalUrl": "https://sdtimes.com/msft/azure-cognitive-search-brings-knowledge-mining-to-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/11/fb71dd42-16c5-46ae-a4b7-ea12f641b093.jpg",
+          "width": 1024,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
+      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
+      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "publishedDateTime": "2021-11-20T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry.md",
+      "title": "Reshaping Fintech with AI: Top AI Innovations in the Financial Industry",
+      "excerpt": "Banking and finance procedures have been made easier because of the use of AI and machine learning. Check out the top 10 AI innovations in the financial industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
+      "originalUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Reshaping-Fintech-with-AI-Top-AI-Innovations-in-the-Financial-Industry.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-20T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-low-code-and-no-code-may-open-more-doors-to-artificial-intelligence.md",
       "title": "Low code and no code may open more doors to artificial intelligence",
       "excerpt": "The jury is still out on whether low and no code platforms can blaze a path to high-end application development -- at least not yet.",

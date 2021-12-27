@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Samsung rolls out chips for self-driving cars"
-excerpt: "Samsung Electronics said Thursday it has begun mass-producing cutting-edge memory chips for an undisclosed auto manufacturer to power a range of connected features including autonomous driving. The newest lineup of chips includes 2-gigabyte GDDR6 graphic dynamic random access memory chips,"
+excerpt: "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ..."
 publishedDateTime: 2021-12-16T06:42:00Z
-originalUrl: "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1"
-webUrl: "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1"
+originalUrl: "https://www.koreaherald.com/view.php?ud=20211216000657"
+webUrl: "https://www.koreaherald.com/view.php?ud=20211216000657"
 ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211216000657"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 354
     isCached: true
 
-secured: "szY2pS1NDTc5dhZvot0sJoBuZfgzYLQLLB/5LVEP8cYcCjE6OrwE7E9YtoKBYFCJJfcZhV/mWMbZDoaV11IgVWVCrpJfH3VDuNkyDVfRBKuHjlCVmH/3PpQ0pqWGMqDhQFhVpUijJnQZ80B9e2uZPHpSmfUan2z8OBjAvwUwejjbiXfYWKVlP4MKGow2Q7Z4wKzPCP/kg42hYL1RQppM/XpoBDYVVGYdHMksBdhH7M+8EyWdBc1hebo9j3VbNefQOJlnQrktnvdklCCZf5vKPptQLDXFWtK8sdPwoKuhpQE/eGgQ6kvCbHA/S+YIVOZoqodU2LeMTKGB3vGv0urKhriqo+aQ0XkDrGLbeCdlAyN0LTkwU6lpU10hfLNwe49gGVOyqKjsQjlQdICVYln6Or/id7CAODORwiW1LHS3QC6C3J95GZSaPEJhXYGuF46USSHTaDfzXHtuo7fbFe1hHL/o1FYi0kGEo/cqFMs70wQ5KZ2ZnwEwT06KlX31aYNxSfRcpNSygFd0EGvV7wu3CA==;sufq3gjc9JxhldK4UESCew=="
+secured: "zEZLJpoeQeRHaY6e1w8g/7g+vlQYC4EKJz9o+wpaGugQeDm1hzezj0+3YwigUhy/ohHYDS6bCFSRtgdcT2iJYcRKQ4Lsn8eWV4WCvW7Kf1QP2P5ysAIEkTv0BnTnRPxWzloln3rMSYJQwKOdrUacb+NsOQjXNtiI+hNEMeoAPwb/HKv+Ynn0WBsteN5pL/s3jnxXWzGQ6tgABxE7+VjrDIRvfDge1lV3PjpB7FFzwF3vCLEMfPyZfJpylpJbYBfXeZqysc7HFji3tS2pN8KW+PAMozEhiSkn0PDpcrLWNU6iLX1qLYAsJG+sfpv8JgfNPNE+MKOxa3agfbqSk3PSxS2+trFsrKdrhZNKdz6TW44=;v7VARmcfoymJBTpAmMzn5w=="
 ---
 

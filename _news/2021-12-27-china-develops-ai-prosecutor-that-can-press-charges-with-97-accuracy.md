@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China Created an AI ‘Prosecutor’ That Can Charge People with Crimes"
+    excerpt: "Researchers in China created a machine that can file a charge with more than 97 percent accuracy based on a description of a suspected criminal case."
+    publishedDateTime: 2021-12-27T14:59:00Z
+    webUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
+    ampWebUrl: "https://futurism.com/china-ai-prosecutor-crimes/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-ai-prosecutor-crimes/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z

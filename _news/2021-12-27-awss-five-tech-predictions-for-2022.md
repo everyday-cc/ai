@@ -43,6 +43,22 @@ related:
         width: 501
         height: 344
         isCached: true
+  - title: "New Artificial Intelligence Model Predicts Disease Progression During Aging"
+    excerpt: "Researchers developed an artificial intelligence-supported model to monitor the progression of diseases that occur during aging."
+    publishedDateTime: 2021-12-27T16:13:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 55
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/gene-linked-to-aging-identified.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "5 Best Uses for Artificial Intelligence in B2B Sales in 2022"
     excerpt: "AI empowers sales and marketing teams to do more and do better, transforming any personalized marketing initiative into an intelligent and highly effective strategy that delivers results. Let’s look at five AI-assisted technologies that are poised to bring the most significant results to B2B sales in 2022."
     publishedDateTime: 2021-12-26T18:21:00Z

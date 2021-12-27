@@ -57,6 +57,22 @@ related:
         width: 375
         height: 210
         isCached: true
+  - title: "New Artificial Intelligence Model Predicts Disease Progression During Aging"
+    excerpt: "Researchers developed an artificial intelligence-supported model to monitor the progression of diseases that occur during aging."
+    publishedDateTime: 2021-12-27T16:13:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-model-predicts-disease-progression-during-aging-204902-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 55
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/gene-linked-to-aging-identified.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Best AI Innovations in technology and medical sciences of 2021 that made it special"
     excerpt: "AI’s strength and influence have already been demonstrated. With each passing day, the field of artificial intelligence continues to evolve and improve. Because of the huge potential that it has on the world’s most pressing issues,"
     publishedDateTime: 2021-12-25T05:03:00Z

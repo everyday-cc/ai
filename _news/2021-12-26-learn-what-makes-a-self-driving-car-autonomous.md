@@ -63,20 +63,6 @@ related:
         width: 630
         height: 415
         isCached: true
-  - title: "How does AI impact self-driving cars?"
-    excerpt: "TLDR Deep learning is the driving force behind self-driving cars. Once reserved for only research, is now being deployed onto streets everywhere."
-    publishedDateTime: 2021-12-23T00:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-does-ai-impact-self-driving-cars-magetech"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9VaSL4TM4Fg/article-cover_image-shrink_720_1280/0/1640218508202?e=1645660800&v=beta&t=16Q0bowZ5K3trRQ16iqJG05keCUPf_-fmxQS2ascyoM"
-        width: 958
-        height: 720
-        isCached: true
   - title: "Japan to create legal framework for level 4 self-driving cars"
     excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
     publishedDateTime: 2021-12-23T03:12:00Z

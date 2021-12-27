@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 659
         isCached: true
+  - title: "Baidu held an AI event in its own metaverse – and it's not cool"
+    excerpt: "China's search engine giant Baidu on Monday held an event about artificial intelligence (AI) nowhere in the physical world. Instead, they moved the event location to its metaverse. We at CGTN Digital Sci-tech logged into the metaverse and joined the event,"
+    publishedDateTime: 2021-12-27T15:28:00Z
+    webUrl: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 37
+    images:
+      - url: "https://news.cgtn.com/news/2021-12-27/Baidu-held-an-AI-event-in-its-own-metaverse-and-it-s-not-cool-16lbNTLTXgs/img/4f330c5310bf4604ac99f15c6ebad2ec/4f330c5310bf4604ac99f15c6ebad2ec-1280.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
     publishedDateTime: 2021-12-25T13:17:00Z
