@@ -34,6 +34,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "How to Create a Reliable and Secure FinTech App?"
+    excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
+    publishedDateTime: 2021-12-27T10:22:00Z
+    webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 24
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
+        width: 1400
+        height: 788
+        isCached: true
 
 secured: "Fm0zvSFRBHujiYn5WROA3LhE8RQiQAkshJaOq50RCMIYCFT9FqGKFh/eOJPy1TxmBJUjgrcM4Iq5ghc03MOzaX9sd1M18doNT0fiFOkFSbR0X+McNqdcXpxb7QdZYGbnnplfZFxxRVWSyf5apmJVM8mdd6Ptujg66ZyCga66HfS+14V0fOXZ38dAx4SDWvjgEFMzJ5wkTkdiC0FetN+1sHqnZB9kMbr+PJWlXoSgg8moo40WbQfrUdWFZhX0o8ZGDN8vLMZPgnaH6MrXr8+OpLepTDrWDkLvcgvmJzBPMFQtUD3hPXf1TIIODAwkzmwSRVD9ko2PtI2JqAT7+HNaTlhEh4Jofu1vxXmsvhPlAoe9BdrvOcCA1967R82650VZErQzTSodmLJU4aCIA6KWsrqcFqyUEINniT0nCL7hy5sq8pXb3ab9Vjg4Yu7JTnm07i3NayK5Z+ZR4AA/CJ2HiztJ31vfCsX5QNfz9egK3DtHzChKo755nEkpYJ8ElpQBH9epAg30NiMivSRz+o5dOw==;iO2cssV3EgmN1ncv0ZX3nw=="
 ---

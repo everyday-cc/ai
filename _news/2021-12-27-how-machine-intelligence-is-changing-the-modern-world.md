@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machin
 ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg"
@@ -47,6 +48,6 @@ related:
         height: 320
         isCached: true
 
-secured: "9QT0B5yf57ub3Oo54P1Tu+xm1oblxsVDXYdqaeiI8KFB/kVvQ8XstHuh64BO1p0El6FrYKRJejSCnAc7ZMjeYGqrRmixh7m0wVnImiNj0d65CRvVDL0UyzHysfBfl1uHihbyzUPK324c0UgJ2MNCshdMQf5Q72Lg2doW2H8VIQ5YDfwUvNJHtvOC98P1HGqroqafr4YjrIlTw/hJmK62F5fmsKFZEaXY5zVEWHiU7s8nM4Wk6RgRPwNZnJLOX2PDET7Aac55E4QDTyjQXH6c1gTiKbipFkRwcYecNCFi0/KXFYI8pni6Pn5nf+J12eBcgRlxKyFTiVp2meV3xPPTaE9Z8vD4v+Wi3jIES72vddo=;PRoZoPrqdrWbk/LZyh5uSw=="
+secured: "uSjBxLd3P8KRIuLnvKfXO5dEPeHPyJmD+w+/nLn28Tz4E7rh6AO8FiRFtKy/e50IuAfgofSO2miZ+/iHhT0Q0gXjoWUam36491Qeh3uNrx19mJ+xsisUgqpLYVVbg9KnAZSXloLF423+IJibBhCk0TZsWgo3q00ud0d300HQSO3S07VsecJGELrzoc/4VmxdTDZxGdINMtuHH3cZfA1yE3Wr3c1QF6riSI1clUyE1kkgAApFNV8owv1th6nkAeXsUAiOwJk8MPcHF+HJtLnGDia1cFee3N0+fTsEFRKL/HfmxfdKKOmjjxTUKSj2X4Qe4eo5I4WdpniKp4ZLV40SlTguHbWMnYhz9wGo0oUZUCE50mlLOHQZyA4M6o36ZpSl5KUT53GirNCPuMYmUrptuzAICAAzxrZFU4jh9D48iJyzOm5ui7SQg6+xmrjfWn/ul54HCrjayn4qataPEmy8ooFDVHPaCRCmFxhrrp3FNqkbQSnYjVaj4hqbB9V/B+jEw8SygG3iEirV64PuAMgITQ==;LWELYymzoesrqMihj381Rg=="
 ---
 

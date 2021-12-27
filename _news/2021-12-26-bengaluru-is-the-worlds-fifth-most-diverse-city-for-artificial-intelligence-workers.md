@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Second largest in AI talent pool, Bengaluru ranked fifth in the world"
+    excerpt: "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE)."
+    publishedDateTime: 2021-12-27T13:04:00Z
+    webUrl: "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Bengaluru Fifth City In World For Having Diversity Of Artificial Intelligence Workers"
     excerpt: "According to the report, the city is also on Harvard's list of A.I. hotspots in the developing world. Hyderabad, New Delhi and Mumbai also made it to the top 50 cities, with 19th, 18th, and"
     publishedDateTime: 2021-12-24T10:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/mind-controlled-robots-a-step-closer
 webUrl: "https://analyticsindiamag.com/mind-controlled-robots-a-step-closer-to-realization/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel biosensors set to revolutionize brain-controlled robotics"
-    excerpt: "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain."
-    publishedDateTime: 2021-12-22T21:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211222100804.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 79
   - title: "Mind-controlled robots come closer"
     excerpt: "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own."
     publishedDateTime: 2021-12-27T07:52:00Z

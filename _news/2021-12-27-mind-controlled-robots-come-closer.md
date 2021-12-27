@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel biosensors set to revolutionize brain-controlled robotics"
-    excerpt: "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain."
-    publishedDateTime: 2021-12-22T21:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211222100804.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 79
   - title: "Mind-Controlled Robots A Step Closer To Realization"
     excerpt: "Researchers have been working for years to build devices that tetraplegic patients can control using their thoughts and perform certain activities independently."
     publishedDateTime: 2021-12-27T08:30:00Z

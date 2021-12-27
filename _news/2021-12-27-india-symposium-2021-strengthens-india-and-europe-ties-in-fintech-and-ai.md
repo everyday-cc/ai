@@ -1,23 +1,31 @@
 ---
 category: news
 title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-excerpt: "shared different warehousing solutions that are being used with AI technology a transition that may one day allow you to think it and see it take shape. Don Ginsel, CEO Holland FinTech ..."
-publishedDateTime: 2021-12-27T12:55:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
+excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas"
+publishedDateTime: 2021-12-27T13:31:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
 type: article
-quality: 18
-heat: 18
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "wBOSGhemFhFF/tZItQpQeVl9RsVfkQFmP3Ozc3rkqnmrBGSOIA6smPt7KR67Iz1r4y4zYBkMuSgI2jtV9pCJh0qEXAiHOfgzrdqmlgNBdSNv3XQhpC8hOnGQyC45/CYKEIrimkCYMCuouVa7jAUjfN3FSxrlK0qENf/HQITfXS5p7VLDSdJGPihXazQE71wseIZVE7p+MjsqCMCwqU+r5lOi6i4kxJbCzaaw/J7BVvQD6BC3fQfmg/V/ZNQOM4Tzo5Pc5Uu9uORSAIv9zS36DQ9pnDja2uFaUgNQCxSgSckxqfTp8dN4RkX+89mLv5ggRpyXsquza5H7F87NqNi2Rh4ifL7IaqnOUwn5oOp+Sig=;jzbfYMhBSGNPeG53nAK5tw=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/27/full/20211227175931.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "fUea6XCB514UD7uQJSz1wFUc/wlHhnv4GeQNZupOg64muwtU6ekXD2TeEmPt82JjlO15//TeImWpXUaWaGx5UDZTAMWk+yDFuzTew1kG75KxyT91WGgPgPTr3lQi1aHVVYN1e3ZLLMWc5tSNnFBcSFqUkM/TyWdJY4PIK70tjt91bB+NHPoRklHJ1kGYQcC+W1qlwNrzTT0Spu25HU3GIc6vCTuvwsm+CbRNVKuwY82fpMMs0JMR74HxB4dkEA8E2ZwvK6Odu61p2E0utyI7M9kT9gLrvyODGsbSZSZFKDOiL+X17TUYXAFu2w+gV3EU6GGTvf8mMqoG0+nMLftFAj9N01pVq/GEjoj5sM91iLg=;rmboRmpZGTipueoczFRkzw=="
 ---
 

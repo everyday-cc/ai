@@ -1,25 +1,30 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
-publishedDateTime: 2021-12-23T21:50:00Z
-originalUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
-webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
+publishedDateTime: 2021-12-23T17:16:00Z
+originalUrl: "https://www.entrepreneur.com/article/401518"
+webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
-quality: 54
-heat: 74
+quality: 86
+heat: 106
 published: true
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - IBM AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -54,6 +59,6 @@ related:
         height: 720
         isCached: true
 
-secured: "WuGTsO2mI/xUufxbcZMWWuhw/GEeQN9XL9NKU3YPVwbqjlBzHES/Xm0itHP+zo0LL71UDFDzS+yBdIiqFHAz1GLUFVp1wyrM+ZeYfvhS4+bTHskBV4Iz9gYdclTDEOk516jGL+Q/6OA2n5/GT1LoMruZn4AH+gX7dtAIL7sOvNczM6P6VdjZRFV05YdqaO+BtRf7uRg7ArkZN2ZHHxVHw/qPwTn4jRtzKOhnZNnjQLds2emANRMG8GcHAAzDIJUgG3PReZHxspdyCdGId11EFwb0Vr8X+zDkZSSVYd5crT2Jh2ox8jc9i3q1wVqJEsLgMcAJX6zVVhWR4t4jz1l9zigccIE+iYUQWNc3TnmOb8w=;PreqnV06av69O+PKPnuxLg=="
+secured: "12x9VbPtxerVYnrTWgnA4PLITb5XaWt5QCsyE9PBgRNDQRCf1kWBihGwHOHVnnN5JLvgMuih9kAUkpr0Z1w4GD6RHCISQoAOeJSp5DbgZaQKSYWOrH72si9fGvMguHkUSw7r/pS1AgQelEcTIpSlRd31PFGFYkUiRo2qEyOasgvioKio6slwo0QqGfXkD8BcNu9FIEaeQEDIbZ0CQSvvRt90zXzLIcHa/+a4yYIijHN+wfA0Vh2wUnMHfy7nEwmcM3uRzQKu6SS00ZcRxtV6muYEZiYScJMmWuGkSXmpqPeF2H5qXtoRVYvWYmUK5M/ugf0imaXGEX6sXXK/v9AdYhLp2PCqyAvHqiAsNrb0E/E=;4lx8AwX5Vtp7hKmN/WohPw=="
 ---
 

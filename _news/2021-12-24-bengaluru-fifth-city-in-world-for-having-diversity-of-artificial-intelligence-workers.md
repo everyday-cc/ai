@@ -9,7 +9,7 @@ ampWebUrl: "https://thelogicalindian.com/amp/uplifting/bengaluru-fifth-city-in-w
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/uplifting/bengaluru-fifth-city-in-world-for-having-diversity-of-artificial-intelligence-workers-32788"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Second largest in AI talent pool, Bengaluru ranked fifth in the world"
+    excerpt: "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE)."
+    publishedDateTime: 2021-12-27T13:04:00Z
+    webUrl: "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Bengaluru Is The World's Fifth Most Diverse City For Artificial Intelligence Workers"
     excerpt: "Bengaluru was ranked fifth among the top 50 cities in the world for having the greatest diversity of Artificial Intelligence (A.I.) workers.The parameters that were measured included"
     publishedDateTime: 2021-12-25T17:14:00Z
