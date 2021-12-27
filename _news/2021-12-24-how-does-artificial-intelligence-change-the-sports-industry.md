@@ -9,7 +9,7 @@ ampWebUrl: "https://www.herald.ng/how-does-artificial-intelligence-change-the-sp
 cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/how-does-artificial-intelligence-change-the-sports-industry/amp/"
 type: article
 quality: 59
-heat: 61
+heat: 59
 published: false
 
 provider:

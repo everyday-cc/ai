@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-demands-humi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Santa’s Christmas secret? Maybe it’s artificial intelligence"
-    excerpt: "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice"
-    publishedDateTime: 2021-12-22T08:00:00Z
-    webUrl: "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/"
+  - title: "Pope Francis demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” were perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T12:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 59
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 44
     images:
-      - url: "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/12/22/vatican_pope_14922_c0-0-5430-3167_s1200x700.jpg?3b878e7f3b4731ce23e771b346626c30164e1875"
         width: 1200
-        height: 863
+        height: 700
         isCached: true
   - title: "Pope Francis urges humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
@@ -74,6 +74,54 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
         width: 506
         height: 366
+        isCached: true
+  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
+    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
+    publishedDateTime: 2021-12-23T11:07:00Z
+    webUrl: "https://www.newswest9.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.newswest9.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    type: article
+    provider:
+      name: NewsWest 9
+      domain: newswest9.com
+    quality: 43
+    images:
+      - url: "https://media.newswest9.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
+    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
+    publishedDateTime: 2021-12-23T16:07:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 43
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
+    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
+    publishedDateTime: 2021-12-26T03:22:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 43
+    images:
+      - url: "https://media.12news.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Computer Vision Maps Christmas Lights"
     excerpt: "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays."
@@ -116,6 +164,34 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
         width: 899
         height: 599
+        isCached: true
+  - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
+    type: article
+    provider:
+      name: Tribune Chronicle
+      domain: tribtoday.com
+    quality: 22
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Get the lowdown on all the best after-Christmas vacuum deals — prices as low as $99"
+    excerpt: "Some killer after-Christmas sales! Luckily, vacs are no longer clunky, hulking machines that have to be lugged around from room to room — they're lightweight, glide across the floor, and are possibly smarter than we are."
+    publishedDateTime: 2021-12-26T13:13:00Z
+    webUrl: "https://www.aol.com/lifestyle/lowdown-best-christmas-vacuum-deals-141307213.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 18
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/1_I.mz4CD0TQIlLUpXSoQw--~B/aD03MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/6c3acc3249b0f6bca925ac8f515fabd5"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "BBTbYCD3ps/OICReId93lLR6tt7g/fW+/n4cW0DAPZY7ij/loS9l+ybmFtQWmZMkcpJUiWOEESNF7qIWLNJIq06CtsatWOFBSxDXm9N2haTDIwCg/KSb/CkyIfOspX8fzrBClvu0FKmjWZjDc2XBy2YyotElGfK8ynKLwLyqOutibN7nkMMxMbwQEA43lusfnWR5WZwS3o8VFx8+YJJhAFeZChv6mOFJ34pwiioZWdt0jNdpx0XECg0fumT52zVycOYI0zHR73a2l4T2lO5yAgUZel4WymSIJHA3EsYA0gi/D2Pq1QqIh5ilGkqzf4H4lXjickB+4ADfICSmnlmD5LCZdwQExcNBcktqh9QkvWMn506P4vUzmZGTgiHgdrBqUcCNdR8NcWSV5E7Q2Vsx+rh5IQTsEehnVTyjKWdd/q2u4x+Tavhg40hsh5VRm/sZhqYyjcdmYfFv0tHkxfM3Md5szFKxmcEYACEa7vgRqPH0XIj/58PQ/XnxJjBy1gJ4vvkKnGdCw7Ga5dt0btXjOQ==;bRcusbuxbqeRTqfIV/jabg=="

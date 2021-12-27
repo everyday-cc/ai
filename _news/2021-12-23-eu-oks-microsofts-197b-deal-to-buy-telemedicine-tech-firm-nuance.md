@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/"
 type: article
 quality: 159
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commission approves acquisition of Nuance by Microsoft"
-    excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
-    publishedDateTime: 2021-12-22T08:41:00Z
-    webUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft"
-    ampWebUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
-    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Antitrust regulators approve Microsoft’s nearly $20B purchase of Nuance Communications"
-    excerpt: "Antitrust regulators have approved Microsoft’s $19.7 billion acquisition of Nuance Communications, officials announced Tuesday. The European Commission said it’s granting the approval without any conditions."
-    publishedDateTime: 2021-12-22T07:31:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/antitrust-approval-microsoft-nuance-communications"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 31
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-04/microsoft.jpg?h=333110b5&itok=V1eiuOOw"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft clears final hurdle in $19.7B purchase of AI speech company Nuance"
     excerpt: "Microsoft Corp.'s (Nasdaq: MSFT) $19.7 billion acquisition of Nuance Communications is expected to close soon after the European Commission gave the company unconditional approval this week. European Union regulators were the last hurdle after Microsoft won U."
     publishedDateTime: 2021-12-22T21:06:00Z

@@ -41,15 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Driverless taxis trialled on Abu Dhabi’s Yas Island"
-    excerpt: "TXAI app allows residents to book a driverless car to pick them up from one of nine locations on Yas Island Driverless taxis trialled on Abu Dhabi’s Yas Island Driverless taxis, Mobility, sustainable mobility,"
-    publishedDateTime: 2021-12-22T07:44:00Z
-    webUrl: "https://www.arabianbusiness.com/gcc/uae/driverless-taxis-trialled-on-abu-dhabis-yas-island"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "msa32XURTnYjW5211ZzKB1VpoKDtW2EEip0tVw8gYTH8yLEN+hVVx2yqPvAGho6aJOLsUkInRYpcXRLyvYGnglfsVMr0VYPb2uSGyC4+GqHooWfFMqJmTrrzpRaeub4pnaf2od6iuxCIsazOqsBjUgJtIPaNW7OPHgar2nXOqLJIndkPm19mawe7MuoxUSiAR53AxmAYooTnlQ4jLPb+P1KZth3mAqJuLk660Ykj9YWrwo+SIozSy1b9Rc+tEf1BXlUGYut4OSY4/kw2s4GHsf0l4RWY2LVyj3A//6XX2tYak//Hkd+tL7vlZjULM5wlYFJ5A2TGDfzLYVBwflFSTEeJ3JB5O1rkhgrtVoC4YDY=;RTvV2O+CDy4b7/GKySEfPw=="
 ---

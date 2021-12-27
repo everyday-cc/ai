@@ -3,8 +3,8 @@ category: news
 title: "Introducing the Uncanny Robot Podcast"
 excerpt: "Check out this great listen on Audible.com. Every aspect of the Uncanny Robot Podcast is brought to life with the help of artificial intelligence, from the stories we tell, to the music and artwork, to even this description itself!"
 publishedDateTime: 2021-12-24T00:00:00Z
-originalUrl: "https://www.audible.com/pd/B09P64582T"
-webUrl: "https://www.audible.com/pd/B09P64582T"
+originalUrl: "https://www.audible.com/pd/Introducing-the-Uncanny-Robot-Podcast-Podcast/B09P64582T"
+webUrl: "https://www.audible.com/pd/Introducing-the-Uncanny-Robot-Podcast-Podcast/B09P64582T"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cCa4+tZHo+NAl/5y4Vfxh+If2Xr53GfXhlp3gQaywSbY8oRMTVwFzUmds7/95amiR9G1A1X4MxpHA7e0JcqsSzdBE/uFKBTY1Dkcd/63rpuZnSIlaWMx1XlDrnw5RS+k2zCLDvWHxq3JwXKA6Qn3joBDjRS6qluKj/iLVKTLf7U55cYizaNnoapbdzY4pXCfYKCG1uZNFcEfY0wdANgz+KY6FusuJl7hmduvX5f1Hga1o+qzW9rUqV3nfV6QRw26RmqjOivhgGVM/fL/Jof6z/O6uqrGPuwG3rU7gDw4iU7oyRCE8rP4v5oUDY3j3z4mAZGjx/yBxX2/VlDTOBz9L5gCm2vJmM0C0CQc7vnqAcI=;IfAw01NLDV9JIycHahcq3A=="
+secured: "qItpE30NB/FkDX/V4CwGOxjBh06y5LjEIcclFp+qK3oiN3SGSWuDcZf4bTlbi2TWZTdCJHcRs95IT+Ou1k0zD8kXTiCaYI37fACzREkg3LelW7kcdjTmA2AbUjOE/Qnk7bzL5hzHM+v7a/9tL0F+TByrvyHHRi1Ipmz1YH15WCYQfdIKZGqcWIREspB4TSk/mPBYEMDdNkzwGPssmrduC3sQ8RQnlbmeNO7LqVcL/TRtN/6neV+jtk3Tc/JuSK2GWTz/6iBj8+gB20/yB9nyNkXBGHjQ1pu45QvWFrtve4zjsbrFJPf2wQ/KPeGe2wJI2kJFpIbbip3plyXEYUlof+GyAH4W9NOKzRNIqUInLRw=;g2eXvZ/McAncalC0YpZ8+g=="
 ---
 

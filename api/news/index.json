@@ -62,7 +62,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -93,7 +93,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -105,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -144,7 +145,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -156,7 +158,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -349,6 +351,39 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-guardforce-ai-co-ltd-shares-close-the-day-172-higher-daily-wrap.md",
+      "title": "Guardforce AI Co Ltd Shares Close the Day 17.2% Higher - Daily Wrap",
+      "excerpt": "Guardforce AI Co Ltd shares closed today 17.2% higher than it did at the end of yesterday. The stock is currently down 65.7% year-to-date, down 65.7% over the past 12 months, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
+      "originalUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
+      "publishedDateTime": "2021-12-25T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1166,57 +1201,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-this-ai-powered-art-app-lets-you-paint-pictures-with-words.md",
-      "title": "This AI-powered art app lets you paint pictures with words",
-      "excerpt": "The reality-bending powers of AI have been kept increasingly busy over the past decade. We’ve had computer vision-powered 3D dioramas; trend-setting style-transfer; viral photorealistic selfie-tuning,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
-      "originalUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/IMG_6269.png?w=748",
-          "width": 748,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/23/wombo-dream-app/amp/",
-      "publishedDateTime": "2021-12-23T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

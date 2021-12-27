@@ -2,6 +2,151 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-11-22-ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities.md",
+      "title": "AI In Healthcare Presents Unique Challenges And Amazing Opportunities",
+      "excerpt": "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-ai-in-drug-discovery-market-2021-development-status-and-future-statistics-by-2031.md",
+      "title": "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031",
+      "excerpt": "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "originalUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub22142087_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "publishedDateTime": "2021-11-22T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem.md",
+      "title": "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem",
+      "excerpt": "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-301429783.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-1030994301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1692806/JinaLogo_Logo.jpg?p=facebook",
+          "width": 599,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-worldwide-ai-software-market-to-reach-62-billion-in-2022-gartner.md",
       "title": "Worldwide AI software market to reach $62 billion in 2022 — Gartner",
       "excerpt": "Worldwide artificial intelligence (AI) software revenue will total $62.5 billion in 2022, according to a new forecast from Gartner",
@@ -960,135 +1105,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-how-sms-marketing-continues-to-evolve-via-ai.md",
-      "title": "How SMS marketing continues to evolve via AI",
-      "excerpt": "SMS is exceeding different forms of marketing communication including social media messages and emails. It is mainly because consumers are moving to mobile purchases with online shoppers in India expected to reach 220 million by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "originalUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/11/Mr.-Tushar-Agarwal.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "publishedDateTime": "2021-11-20T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-mediateks-pentonic-2000-is-the-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
-      "title": "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz",
-      "excerpt": "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php",
-      "originalUrl": "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/11/mediatek-pentonic-2000-offic/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php",
-      "publishedDateTime": "2021-11-20T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-artificial-intelligence-that-understands-object-relationships.md",
-      "title": "Artificial intelligence that understands object relationships",
-      "excerpt": "Researchers developed a machine learning model that understands the underlying relationships between objects in a scene and can generate accurate images of scenes from text descriptions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

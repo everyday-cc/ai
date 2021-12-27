@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/12/184707-digital-debt-collection
 ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184707-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes/amp/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Click-and-Collect-henrik-donnestad-unsplash.jpg"
@@ -42,6 +43,6 @@ related:
         height: 360
         isCached: true
 
-secured: "rggu7hMTNtdRC+GZbv6b6v1iFNEZMYLEoj35ydaPAbVBwsuYz3zP6T191kk+ZHpTOQZGPNi9EnubxXKRND3GQF99A8v1JqgOI0acmbhQrCpzdeCOJV06qorkSL64EUCxfBv59mbb4BuVhi8CpW7osZkbsN9ukTyInG0eBKqHEjN6m9TUesXy4s290h8hJWKZAdZPNz7j3L5B2FkEXoLC/jxT00Wo/f+11Wng5aUHx5+AIAbEWtiLWpV5rRij5/zOtRWsVhb3NnCztY190Q9Vw6CfLuzuYF3ovxZqbYOK7QRM39VnPpRLzBK+ufzwatXmPwu8uoohS0mIJKWzZDLCtp7LW0cWgd4cvFIrgrEhglI=;7CkLVrLcLir8xxyB39Nb8g=="
+secured: "52OmMCgsEQn2N53i+LiKP5LKyXbdbwKaB7KSn525oYeONms0jVicoDMLrc+qeXi78GEBT+eApTHWvfhQWt6trKfXOwCUy1Zxix/UM9QOOWocdcvguOUORoeoNiMgVh25Zsr5lX2Qryl/3D/IhoQSmmnSTZQo57bU0E6Lypq5wZQOWQrCwXLE0kICId/iEqQYHs+HfDgWFevQ7trngajxnS18S11+YSZjZXCdXi4rImvf7SaVXixCR6AvW89OdKLppMjl5xwwa9mI6f2b5SAPHamsuzk8+93Bzh4MEPXgKp6FeEY2+33k+kG3RcMnTQFAhzhTEcdzLAbDjjb0QnNmj3ZzxSNEc6AFnBgeDL3t0fO5OMojZTaAQ7yAwXTfpYjf1B7/h02k22UBvHsgEB/CjMkQR6HI74h0Hvfxj7hHgxjW0kXNRU3rbP1cNeb1vC5GDKhY6ZjKhXKqe+az7JTNYrCm9Oncq/61mAV8POiMkNGbVf/tR3ySOY1uC3G6S4t6FFZklVygw09W8D8QdguF7Q==;M3K+GnS5JMGYWkVgP06Jtw=="
 ---
 

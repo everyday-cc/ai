@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intellige
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c62c2e34d9dede0a90a84d%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "T6Im5Pl3wEP/5DL1p4/o3/TsS6OGLz3NUMA/PjnIvzncpY0qppI8s3D0yWKSjPAbMxuaMIIkXH99Vhzsqe6DyGQTlv9Ng5vr5Um1e6jgjR5StTYVU8ztmhSmEdGt1tcpUBMzYuWjg0xBgRAxMAFxN874WreRz4U506LXCFbvkyb8qoLmXdkOTfPbLFjaPOD+klCSCPQ0Hvqa/mp366atrauD4fyvVWfk/DwtcimhJfIO+b48UQ5Pfcgfwwle754bz+ZaXc4lAAaPipprfBCymuSPR/ouyZtdjdDQ1nyjbX7cvCNfg1V5/gMek7+HlOYohWGPrD8zFAng9/ECYoeeQfQWEVzExEsvdh3t4Ur3eUc=;AhIXP+qDdgWyIDmw79SRjw=="
+secured: "qG8lY2VTIX7/AfeENI0KLofHpkIjkfXZIBRWfa9AXJBbbZKNThFLgUZv+FUd3Sr/Xe6A0FS/t/nK5vC3cQCA6TS/oYf24V7eJw6KEbHi7ML1DiyG+PnnullPOsjlKth0WpR8BvvMZa5WeQyfwHM/dw5S1ro0lwj5T3U+VV8hwaiv5U2CEn1XdShDsqy33DkFHFUZx9ops77JplmugAXQXH4u2BUYWrjzmjFrCJp7eJDiVaILpMOBXfwkJDtTkYmG+6MLyj9+bBU6G2dic0VkBi+vNCeWXqxP3zELoxT5WuiBmClpJ92siW4zZ2HOzp/8FJ/FOHH1v3j4ZVB2Y5RoLwYVgpPqO1yB7ezbVqD0D1fM6UqUK6cgsHQEL71LQ3vRD7bc4xXDmYqEYF7HVFWTnhQAjZV9axooDYGBJULEg0Na9Zkumu5JGGk6hGrrRjVylhyUNgS59o4yuAt9mRMI1cKIwzThqonebmB21V03+fIeyEbJTRQEROAQUKqVd2NIJ5oEFgHSW3kX85lsjzdUgg==;4+2ZoYVvWySzXUe8r8OH3g=="
 ---
 

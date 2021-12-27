@@ -35,7 +35,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Click-and-Collect-henrik-donnestad-unsplash.jpg"
         width: 1600

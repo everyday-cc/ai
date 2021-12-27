@@ -24,6 +24,22 @@ images:
     height: 495
     isCached: true
 
+related:
+  - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
+    excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
+    publishedDateTime: 2021-12-23T15:28:00Z
+    webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
+    type: article
+    provider:
+      name: The Tablet
+      domain: thetablet.org
+    quality: 28
+    images:
+      - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
+        width: 600
+        height: 400
+        isCached: true
+
 secured: "/q0MoJ4thYXIAmKA/qEbb3h8xxVmzeRLrJB7qyA/5h/NOjsOMGbA1BRV4M4SheRbxjvpYkiZHsRFWIAaWuijd0IIbKyD9nwmm/h26B28V9jzT1frCQc9KRLAx0I7mOBozP3VYysIj12nRi32jOMY07K9agD6i8KXjUdmFamNPbK0rrkQCvXkwfViS13lFQq6k1CXqd2mH7ku6YkBx/t9Y6DytoQCE1SJl798TxDJioFyJQZ5Vu1sPA65D2sRMxtYeATybV7U3Yli2eBXPwS6TacZ29VvvCvGlrW1FIF+pX8ffNLkpaKBf88J49cB527YSB9OPxu4mKZSRXi0h0tquiYBsoovgnC1TsqjjSeytns=;eGrUZYaN0RP4ORgZTEbD2Q=="
 ---
 

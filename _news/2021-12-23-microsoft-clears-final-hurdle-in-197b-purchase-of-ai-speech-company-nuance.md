@@ -35,36 +35,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Commission approves acquisition of Nuance by Microsoft"
-    excerpt: "The European Commission has approved unconditionally, under the EU Merger Regulation, the proposed acquisition of Nuance Communications, Inc. by Microsoft Corporation. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA')."
-    publishedDateTime: 2021-12-22T08:41:00Z
-    webUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft"
-    ampWebUrl: "https://www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
-    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/commission-approves-acquisition-of-nuance-by-microsoft.amp"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://histerius.com/hs0921/microsoft.jpg"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Antitrust regulators approve Microsoft’s nearly $20B purchase of Nuance Communications"
-    excerpt: "Antitrust regulators have approved Microsoft’s $19.7 billion acquisition of Nuance Communications, officials announced Tuesday. The European Commission said it’s granting the approval without any conditions."
-    publishedDateTime: 2021-12-22T07:31:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/antitrust-approval-microsoft-nuance-communications"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 31
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-04/microsoft.jpg?h=333110b5&itok=V1eiuOOw"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eYMzO+2z305dZB8lDuGrKq1q9cNIGlQwD1S0w1/f5GqAm66NQi08+mMxhtDVa5vgnmjsGOvPVz5afN5JvwCOr45Nq+n8OUm4dOsTBpx8JTIVs1xz7tkuEO7fOXYC48oZk5fd4v/fGXfGPlZD4wRJZgsK+E+kinTBNpCylAawALGP8fskFyLgiNXSxAF7U3En/EMpkBqTkcgJeWIzAezkNyHJgDzozQ5bSZsdI+gkA87VXVpaPgIP74B426abM7G5lA4Y0uNKyXnOkwzBiCTyrv0PYGaWFzWjErOwRv468DDkXMBLPk+OOfTG7dIWqCFGs8wPvyE+Slk8Da/SFl6jVGgKDrEPDoc9y3yPHv8Ecaezkw46Fa0OobL3dSQ5AgUb/lIkFliFUk88WHW/iAUI/KX6BVTLDha+/1KkiZUqgbX41HBpkrFGO3DG0ZhVbJvpd2Hd7c6yNf1waP5CJw/VQDeVMrau3qYRMjl1LZMGGYi++KfIwiF56tLZmXqtsEyRqrhZuUv/umqm0PwWmkPz5A==;8bsAMPBrZpC/hMmFkB3gYA=="
 ---

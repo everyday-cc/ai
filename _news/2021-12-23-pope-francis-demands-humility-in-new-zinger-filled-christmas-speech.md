@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/23/pope-francis-demand
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T11:57:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-demands-humility-zinger-filled-christmas-speech-81912298"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_612fc5f2c40e4f09a913cf25f2e24774_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pope Francis urges humility in Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T15:38:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 44
+    images:
+      - url: "https://www.baltimoresun.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pope demands humility in new zinger-filled Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
+    publishedDateTime: 2021-12-23T21:18:00Z
+    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 44
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
+        width: 506
+        height: 366
+        isCached: true
   - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
     excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
     publishedDateTime: 2021-12-23T11:07:00Z
@@ -75,19 +123,47 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
-    excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
-    publishedDateTime: 2021-12-23T15:28:00Z
-    webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
+  - title: "Computer Vision Maps Christmas Lights"
+    excerpt: "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays."
+    publishedDateTime: 2021-12-24T00:00:00Z
+    webUrl: "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/"
     type: article
     provider:
-      name: The Tablet
-      domain: thetablet.org
-    quality: 28
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
     images:
-      - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
-        width: 600
-        height: 400
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg"
+        width: 1195
+        height: 600
+        isCached: true
+  - title: "Pope demands humility in Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
+    publishedDateTime: 2021-12-24T05:00:00Z
+    webUrl: "https://www.timesnews.net/news/faith/pope-demands-humility-in-christmas-speech/article_6464f85c-6403-11ec-8c00-979add8d1fe0.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/f0/9f076b5c-6403-11ec-87d1-f7bac99ead47/61c4937590bf1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pope demands humility in sharp Christmas speech"
+    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
+    publishedDateTime: 2021-12-24T02:29:00Z
+    webUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 24
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
+        width: 899
+        height: 599
         isCached: true
   - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
@@ -102,6 +178,20 @@ related:
       - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Get the lowdown on all the best after-Christmas vacuum deals — prices as low as $99"
+    excerpt: "Some killer after-Christmas sales! Luckily, vacs are no longer clunky, hulking machines that have to be lugged around from room to room — they're lightweight, glide across the floor, and are possibly smarter than we are."
+    publishedDateTime: 2021-12-26T13:13:00Z
+    webUrl: "https://www.aol.com/lifestyle/lowdown-best-christmas-vacuum-deals-141307213.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 18
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/1_I.mz4CD0TQIlLUpXSoQw--~B/aD03MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/6c3acc3249b0f6bca925ac8f515fabd5"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "5IAQqWjj5l/2pzBsJRqCZvbjUqD2PmrlD7zMbc2rB/w1jURJi6hse/T2Bk7WLGmJYpgaDQSt/fBreSBWPbuEfeJe0wgFbYCSV+OfPhE6KiZ0as1TPMDjjT27PeqXfD5gEbZDVWZOegE36TNUGW2bUAjTL+ymM5ci6MSvKHKSDwoBpZdE/bbqvWAqx+/bHYg4KRppHgQwyPXe5igQHFIUF0UqIpaghy/5Xo/MJlli7SOVn2b6+KA7YYYcHn9GVJCiCV55zcmAYuvQfTh7Rh2vEt+menOtLkEfSGsNz6qbdzCjkD/0bl9NoOKrxdnrpuq9ShO+kKa5hkh1gh/O7F2Xy4Fkfhc7yef51gs0ZqELUAvlgx+mXqnXF2mRzxl6YvYyy6XCiy0Tsq+oQdBEbxextFA180P/v6FuCkq1veQxufqDvuW0gWpHxXuqDtTk8NwbIDxTlbqJoS3/j7mKB4ODUJxe9og89PVyjMUrBXiXeJz4cjrRrfwJ5N8LSWqr7e0ScfyYEUpO5yZw4DAi2oJVeg==;CHnSbesNPxnjUF7OmPHfqw=="

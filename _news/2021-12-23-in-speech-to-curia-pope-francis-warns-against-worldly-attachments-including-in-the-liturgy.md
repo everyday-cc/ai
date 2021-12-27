@@ -25,83 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” were perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T12:59:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/23/pope-francis-demands-humility-in-new-zinger-filled/"
+  - title: "In speech to Curia, pope warns against worldly attachments, including in the liturgy"
+    excerpt: "To close a year in which Pope Francis suppressed the Latin Mass, in his annual speech to members of the Roman Curia he warned against the temptations of spiritual worldliness and attachment to superficial reassurances,"
+    publishedDateTime: 2021-12-23T10:15:00Z
+    webUrl: "https://cruxnow.com/vatican/2021/12/in-speech-to-curia-pope-warns-against-worldly-attachments-including-in-the-liturgy"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 44
+      name: Crux
+      domain: cruxnow.com
+    quality: 32
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/12/22/vatican_pope_14922_c0-0-5430-3167_s1200x700.jpg?3b878e7f3b4731ce23e771b346626c30164e1875"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
-    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-23T11:07:00Z
-    webUrl: "https://www.newswest9.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.newswest9.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-newswest9-com.cdn.ampproject.org/c/s/www.newswest9.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    type: article
-    provider:
-      name: NewsWest 9
-      domain: newswest9.com
-    quality: 43
-    images:
-      - url: "https://media.newswest9.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
-    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-23T16:07:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 43
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
-    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-26T03:22:00Z
-    webUrl: "https://www.12news.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 43
-    images:
-      - url: "https://media.12news.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
-    publishedDateTime: 2021-12-23T15:28:00Z
-    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
-    type: article
-    provider:
-      name: Tribune Chronicle
-      domain: tribtoday.com
-    quality: 22
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
+      - url: "https://wp.cruxnow.com/wp-content/uploads/2021/12/20191221T0635-0390-CNS-POPE-CURIA.jpg?w=1200"
         width: 750
-        height: 500
+        height: 495
         isCached: true
 
 secured: "qAzfZOtlgbEUSQAFt8p9lMvSYLoXlU4oLkn3ScY0ZmkpOigovV6fgeBbYklNLnLzQPtxzhgqoUHQF14tDL9i37gUUXVNqwWl3BvUu+s1uCAQ18pC6kGue+Dnbj67EBtbtUdMb1ZABr43m85GW4M9VC/iUPvRiA+G+QZGTXSXibdyK7VG411jzwZDpaHgConTNJEBufJM2NlXL6CpUXKa8ey4S0M8FfDQSNGe7L6X7l3XIElU+MiXTGRb6nW8Q9VB16LzV+YkNPSPOTQstQcOMdat5tA+aeys0JtRepe05hRGSYK2g63rLX9Lay09uJ/sp89xtsp0o5H4d1AQu1zHxJYRgQ3AJ5BN8gFpAMxNeXIuaxl9wkqi4lGD+p9+rDJ+DvtPNvjRQpf46EdLOUK4q9Ti7kf0J4GJd8M7BLtwwziPhhAjJtDQRcZyBhwblQazrF0ch35qnXFG7aH38ln0/bJV7HzKovUtnEysLCuDwhOIsIwD24J9TzTtI8VLLKHqg3YCsMi5J346F9oMPRg7qA==;IKZN44fqaMaqpuHXx/0Oxg=="

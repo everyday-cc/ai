@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "In Africa, Rescuing the Languages That Western Tech Ignores"
-    excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
+  - title: "In Africa, rescuing the languages that Western tech ignores"
+    excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
     publishedDateTime: 2021-12-23T12:08:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
+    webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
+      name: WTOP News
+      domain: wtop.com
+    quality: 24
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
     publishedDateTime: 2021-12-25T15:17:00Z
@@ -67,6 +70,6 @@ related:
         height: 400
         isCached: true
 
-secured: "eO7wekjW6yk+cbCtLSpj1ZLJqHRLiOUo6l6doYD6cs/731kXo53nDW6r36cH9ZOrBqutYjvX3DvjGQvqs6cVZZj58bGKmWMDqCEUP6KDoyo2sG7tbMBv0/AeYmhUMRHtt6Wb307TGoR8ILxnHoy8MjfvCTJELH2SMy6C34hsSvoHL+GytSve5LqteRhggT18v+TbonmM3k2/1W/c6HUCTDd3DgLj6OSb+7sf0EGzd3Y/kIDIGDZN6MCq619Hh0iBB/HzsLTZaLxgKPJjWKxCZx8A+uEhV+FjvoDm6eTLKvvkyDZCAOt9RrKlFctF0B7awN/FeXOedg6Qug8Aa6s5Omhmi2TQyQnibDhLCJF/Z+w=;KuTziWGn1BOR8ePy2V6USw=="
+secured: "m8HYlF04sYUxplQ4q6UTeYgKYgU8F7Wv1UfGyuJhWC3Y9xQfrWQQtGRe4bOE/lIiqhtsWTBrgUKFG1+5pLTLSEV2VwpiOHoq1raqPlx6m4MAYs7jA2BK+ibxuf6FdmDCJSwp9GWPN/FmDE2OwbHgQEVN4HKCX5fvwwrXEtG4UUsSLloFnNuPenNynjGwWiM5LHpxa4sSpkyRU0/UVVvUh6AawM3V17GJvz1Pi86k86ozwbfDXTKd6nLQBbl67um4N+jL/yrzTT0lnxWWx+K0vPaxtZQDBlL02ak7jhjWRdY9jJntb4/499x3vSWgskz5lRxVXGNDh7KEEmsmlh15asCUIaPSB3OTjiaWXXGkZuoQx8cO8w46vQKGkzHLZ6mM2dCjW5rmgb5pa6dLV2htoYGrd+AoudYsCf/Auoj/grlXa2OCKEvzCEZnf7+NcRvGL7fE0nabc7fnQ5ZHyRSSgloAgTo1+9LmAR0k9AAQtdEqJ90ExC+0oh6YlPszDFmTak2NaInFhs7HFJLGB5vz5Q==;LFGWBfYw8ziClpb/XwnJVA=="
 ---
 

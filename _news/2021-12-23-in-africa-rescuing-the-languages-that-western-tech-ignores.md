@@ -1,28 +1,28 @@
 ---
 category: news
-title: "In Africa, Rescuing the Languages That Western Tech Ignores"
-excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
+title: "In Africa, rescuing the languages that Western tech ignores"
+excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
 publishedDateTime: 2021-12-23T12:08:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
-webUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
+originalUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
 type: article
-quality: 54
-heat: 84
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WTOP News
+  domain: wtop.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
+    width: 2560
+    height: 1706
+    isCached: true
 
 related:
   - title: "In Africa, rescuing the languages that Western tech ignores"
@@ -70,6 +70,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WZUwq/HF7RYtQiY7o7dzDtMY4lffuqGSOjGGlXhxv7yxjVjXNzC2ep1Or/iJjTbqger610lCL3+Gwa+GJakrA+fL7SdyUv9anfYsUBzZV3P+18ppsGKWrzDu0u08hviq+lobBeYSDfu8S0hXv2Fikr53RsqPpWqWpPcHpTZll1IdzEafurIM8WRTuiMQ/Hmeb7mpKfRlot9K7hbvWp1fDNCcDyp8OrX1tt0/2As+zeXjLHevDty8AKYp9oKVM2d14KVTkiyEkn4yK1hX01VIawBVLY3CP7JVwAUk05W4ylRtKwRUyNH6aHcTzvwcaoH3IyIEPvEgkfT3XFAhpTUIdlYJuQzk3a6bEdalgDYVe4c=;gbN+vtvdlACgR0NxgMlYAw=="
+secured: "tqqC1V5cHV4kE3ZmI/fBXePryIJqMw4nG49UWuZAHKsXtJs+NcQ8hYXRQp4KnnUCGWTyLgOW1y/ZcgIReg6XfdDlC15zGQlUH++SQdfqrNctROIrfw2HLYIPX0/2XdhGiztUCpVxKmRToGfqqSK8v47E7g+9yEAg/14FVvpBZbKyyWDn6ovvWAnsY1mlq7QWAFlM7FawDcqvkRtp3akPpfv30B9BJJ1FrLFEp6MkGlBU2kj/ttrtu4Z2HW495FfIGXH02+EyccMy03sgtxJAsWPPE91QnlPRocy4VPhWPA1RBrb5fUBnk2jki7cQQ7MxFnBnK2GfPMvEp691SkZxGM5LMDr3kVkeu4JcUzLW4V8=;8OkS1YmTQdO+JVImdbOnpA=="
 ---
 

@@ -2,29 +2,38 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, Rescuing the Languages That Western Tech Ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
+      "path": "_news/2021-12-23-this-ai-powered-art-app-lets-you-paint-pictures-with-words.md",
+      "title": "This AI-powered art app lets you paint pictures with words",
+      "excerpt": "The reality-bending powers of AI have been kept increasingly busy over the past decade. We’ve had computer vision-powered 3D dioramas; trend-setting style-transfer; viral photorealistic selfie-tuning,",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores",
-      "originalUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "webUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
+      "originalUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 97,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/IMG_6269.png?w=748",
+          "width": 748,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp",
-      "publishedDateTime": "2021-12-23T04:08:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/23/wombo-dream-app/amp/",
+      "publishedDateTime": "2021-12-23T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -392,7 +400,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -994,6 +1002,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-22-can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity.md",
+      "title": "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?",
+      "excerpt": "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.md",
       "title": "UN talks to ban 'slaughterbots' collapsed — here's why that matters",
       "excerpt": "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week.",
@@ -1147,49 +1206,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
-      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
-      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

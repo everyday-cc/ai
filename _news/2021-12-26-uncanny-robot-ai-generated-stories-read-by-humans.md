@@ -28,7 +28,7 @@ related:
   - title: "Introducing the Uncanny Robot Podcast"
     excerpt: "Check out this great listen on Audible.com. Every aspect of the Uncanny Robot Podcast is brought to life with the help of artificial intelligence, from the stories we tell, to the music and artwork, to even this description itself!"
     publishedDateTime: 2021-12-24T00:00:00Z
-    webUrl: "https://www.audible.com/pd/B09P64582T"
+    webUrl: "https://www.audible.com/pd/Introducing-the-Uncanny-Robot-Podcast-Podcast/B09P64582T"
     type: article
     provider:
       name: Audible
