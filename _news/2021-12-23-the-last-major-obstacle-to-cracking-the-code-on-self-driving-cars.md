@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
-    excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
-    publishedDateTime: 2021-12-23T06:58:00Z
-    webUrl: "https://koreaherald.com/view.php?ud=20211223000750"
-    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211223000750"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211223000750"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 43
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
-        width: 630
-        height: 415
         isCached: true
 
 secured: "Ewy6dPQZ/1mbVNPywCcDfxNfFqHasY3KbTpF/pfcH8wUw3rZs4Fq4aRyTaT1ncmOQ5vwxa/Yk5kKcT0idcRUJSu2Q6uRwfplJAD/K80MUz4lODPUyF36bjCurUnpSWzM6z9/VtaMNVZqySLMrNV+A+5wg7FBLuwEQ61JrvmSOjPZQuhn7SLC+h3JEdBR19Go6b69/1G1m5B6LSX2nPcV6vzjiHIEYmwDLa2YF15Y/vnatWnTWhgmQxsF7nk7dLNbTOJfMTSJsL9jHS0noNtQpBpiTyC9Tj8FcGE5++xEGYsNNPZGYml04V5/WCENVfPDGkIdcbLzxNTWOevJaqiMMd7j2JPaC7gRc83Wfvl6aVagWlHXGjsvkuiL8TLNUhRxJL0rZTiTMzRtcBQ3Snyw7iGfYPJPbAB/Z6dfQ/LYgwxANX3Zi6quIZwjoQhswb7Vtwkay+FrCosjJdaDS4UyRM8AU4U6JYQ8NYqwsk5eE19vj6rlyxzRipIQuTs81bjHIRMDm4KUk7F7l5wXdzE/bg==;dRAFmCLhfyuB9dDe7E3ixg=="

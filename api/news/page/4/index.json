@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-22-taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai.md",
+      "title": "Taking the world by simulation: The rise of synthetic data in AI",
+      "excerpt": "Would you trust AI that has been trained on synthetic data, as opposed to real-world data? You may not know it, but you probably already do.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/simulation-big-border.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
+      "publishedDateTime": "2021-12-21T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
+      "title": "Faster, safer, more efficient data processing with Edge AI",
+      "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/faster-safer-more-efficient-data-processing-with-edge-ai/amp/",
+      "publishedDateTime": "2021-12-21T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-azure-space-introduces-azure-orbital-in-preview-and-new-geospatial-capabilities.md",
       "title": "Azure Space Introduces Azure Orbital in Preview and New Geospatial Capabilities",
       "excerpt": "Microsoft recently announced new satellite connectivity and geospatial capabilities for Azure Space. The cloud provider introduced the preview of Azure Orbital, a ground station as-a-service that provides communication and control of satellites,",
@@ -1053,93 +1156,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
-      "title": "What Does An AI Actually Think Of AI Ethics?",
-      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "publishedDateTime": "2021-12-21T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOOM",
-        "domain": "boomlive.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
-      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
-      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "publishedDateTime": "2021-12-21T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

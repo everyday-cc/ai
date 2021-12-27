@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "C3.ai Inc. (NYSE: AI): The Most Interesting Shares Of The Day"
+    excerpt: "In the latest trading session, 1.26 million C3.ai Inc. (NYSE:AI) shares changed hands as the company’s beta touched 0. With the company’s most recent per share price at $33.56 changed hands at -$0.69 or -2."
+    publishedDateTime: 2021-12-27T21:01:00Z
+    webUrl: "https://marketingsentinel.com/2021/12/27/c3-ai-inc-nyse-ai-the-most-interesting-shares-of-the-day/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "/OiE9mPv0NCyOCKALUIDMcUO3hrxRibTi5MZ1+zEpAD4x6ul479+9N/cd2nw1wCcJVhx4dsZ78YOTLJv3+xy40DikuhivyksQGRsv7bld6Qcc5zj2QQ3Lo48kgqyrPmAW79hS8c9HAijsVEezNsxmEpGGZNIUEDX6XzHMBLMNWA38G12XkAbBAvg1TUwhdk8X1SinBaqdIuip/Gh0rCzuQJgTv/M01Iqlb2TMC9p1wpOPjKXNuhMD2Pb41VkvC8I5HctHuygdUAiMR9uYQBwlweG5G6ipm7W06PcEhyiZVH3O1D7QmmFQsWcxGJ2bSTZTRniju0cbtSvThuqyd7JEz5guj4vNXrZe8OTJOVwgw0=;NbOwyqyULBa9ydZvDGm2qg=="
 ---
 

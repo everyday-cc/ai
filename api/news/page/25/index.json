@@ -2,6 +2,101 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-04-ecu-robotics-team-wins-awards-at-national-competition.md",
+      "title": "ECU robotics team wins awards at national competition",
+      "excerpt": "High finishes in national robotics competitions are becoming a habit for the Association of Technology, Management and Applied Engineering team from East Carolina University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
+      "originalUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/9/71/9711c353-db90-5d56-aa08-28e8c3c0ffb7/61a901ab1f984.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Reflector",
+        "domain": "reflector.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about.md",
+      "title": "How AI and ML can thwart a cybersecurity threat no one talks about",
+      "excerpt": "A new report by Honeywell says 46% of known OT cybersecurity threats are poorly detected or not detected at all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-167687205.jpg?fit=800%2C532&strip=all",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
+      "publishedDateTime": "2021-12-03T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy.md",
       "title": "Cognitive rehab: One patient’s painstaking path through long COVID-19 therapy",
       "excerpt": "It is one of many strategies Lewis, 34, has learned from “cognitive rehab,” an intensive ... administrative director of outpatient therapy services, said data on patients’ results was ...",
@@ -1092,92 +1187,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
-      "title": "What meets the eye: get granular consumer insights with visual analytics",
-      "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "originalUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-image_21--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
-      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
-      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
-      "publishedDateTime": "2021-12-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

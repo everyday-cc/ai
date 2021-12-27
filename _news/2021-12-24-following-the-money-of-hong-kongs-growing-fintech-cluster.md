@@ -7,7 +7,7 @@ originalUrl: "https://www.ejinsight.com/eji/article/id/3001610/20211224-Followin
 webUrl: "https://www.ejinsight.com/eji/article/id/3001610/20211224-Following-the-money-of-Hong-Kong's-growing-fintech-cluster"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 835
     height: 526
     isCached: true
-
-related:
-  - title: "What’s behind the growth of fintech in South Korea?"
-    excerpt: "For one, the country’s fintech sector is booming. Kakao Pay, the fintech arm of messaging app Kakao, is valued at about US$10 billion, while Seoul-based startup Toss raised almost US$400 million in June as part of its plans to grow its sales by 12x."
-    publishedDateTime: 2021-12-23T06:04:00Z
-    webUrl: "https://www.techinasia.com/whats-growth-fintech-south-korea"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
 
 secured: "Fm0zvSFRBHujiYn5WROA3LhE8RQiQAkshJaOq50RCMIYCFT9FqGKFh/eOJPy1TxmBJUjgrcM4Iq5ghc03MOzaX9sd1M18doNT0fiFOkFSbR0X+McNqdcXpxb7QdZYGbnnplfZFxxRVWSyf5apmJVM8mdd6Ptujg66ZyCga66HfS+14V0fOXZ38dAx4SDWvjgEFMzJ5wkTkdiC0FetN+1sHqnZB9kMbr+PJWlXoSgg8moo40WbQfrUdWFZhX0o8ZGDN8vLMZPgnaH6MrXr8+OpLepTDrWDkLvcgvmJzBPMFQtUD3hPXf1TIIODAwkzmwSRVD9ko2PtI2JqAT7+HNaTlhEh4Jofu1vxXmsvhPlAoe9BdrvOcCA1967R82650VZErQzTSodmLJU4aCIA6KWsrqcFqyUEINniT0nCL7hy5sq8pXb3ab9Vjg4Yu7JTnm07i3NayK5Z+ZR4AA/CJ2HiztJ31vfCsX5QNfz9egK3DtHzChKo755nEkpYJ8ElpQBH9epAg30NiMivSRz+o5dOw==;iO2cssV3EgmN1ncv0ZX3nw=="
 ---

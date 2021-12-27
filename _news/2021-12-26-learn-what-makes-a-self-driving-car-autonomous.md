@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Govt. to improve regulations for commercial adoption of self-driving cars"
-    excerpt: "The government unveiled a revised road map on improving regulations for self-driving cars Thursday to hasten their commercial adoption starting next year. The road map, confirmed at an interagency ..."
-    publishedDateTime: 2021-12-23T06:58:00Z
-    webUrl: "https://koreaherald.com/view.php?ud=20211223000750"
-    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211223000750"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211223000750"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 43
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
-        width: 630
-        height: 415
-        isCached: true
 
 secured: "Xa9xd/5a/ZplwEzaKluRcXSc/tuSDx6FthkUt7LPHAGLFlLWtvKProCTMgAP9lHM0K/l1wO2H2q4P46Mdz9WOeJNd+w3NyZe1ccOsjd+GQ1HKBoECShAmyNM63OcYVx+98Gdcmr8vKHda/i/Jq5i+1G0KxfvChUhCFTw8CVY02J4ubcNUNr983UcAe3b/3SlkewW2QBiPQ8RXPKlqvwaSCPyLiPI66vTu8q1BnAXWC5ppab3hOX6wRM36osBBS3/ucs63G1S8Var53rY+5QQbPJhuV0dKk05JnnaHsZZ907s+pgmVgzjY8f8dtM+InxgFwtBeC0LKvIbE/hxblQdqgokxs5M/GPV4PUHuNr4hOA=;jI8y3XobOjUhkxjTjIBzkA=="
 ---

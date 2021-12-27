@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
+      "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
+      "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation/article_b2a0d3bf-eb2a-50ff-a9a1-1f36aa46262b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook",
+          "width": 1600,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-what-ai-means-for-gdpr-compliant-audience-targeting.md",
       "title": "What AI Means For GDPR-Compliant Audience Targeting",
       "excerpt": "It’s time for all businesses to review their approach, take small steps toward privacy-first compliance and take the lead from GDPR.",
@@ -49,6 +91,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
+      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
+      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1111,102 +1187,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-massrobotics-and-aws-robotics-join-forces-new-savioke-relay.md",
-      "title": "MassRobotics and AWS Robotics join forces; New Savioke Relay+",
-      "excerpt": "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
-      "originalUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/AWS-roborunner-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-this-archaeologist-fights-tomb-raiders-with-google-earth.md",
-      "title": "This archaeologist fights tomb raiders with Google Earth",
-      "excerpt": "In the summer, Dr. Gino Caspari’s day starts at 5:30 a.m. in Siberia, where he studies the ancient Scythians with the Swiss National Science Foundation. There, he looks for burial places of these nomadic warriors who rode through Asia 2,500 years ago. The work isn’t easy, from dealing with extreme temperatures,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
-      "originalUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/15M.Jendryke.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
-      "publishedDateTime": "2021-12-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

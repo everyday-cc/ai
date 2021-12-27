@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
+      "title": "What Does An AI Actually Think Of AI Ethics?",
+      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "publishedDateTime": "2021-12-21T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
+      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
+      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
+      "sourceUrl": null,
+      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
+      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
+      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
+      "publishedDateTime": "2021-12-21T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
       "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
       "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
@@ -1027,91 +1114,6 @@
       "provider": {
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
-      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
-      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
-      "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
-      "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation-301447966.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/overjet-raises-42-5-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation/article_b2a0d3bf-eb2a-50ff-a9a1-1f36aa46262b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1713125/teef.jpg?p=facebook",
-          "width": 1600,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
