@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-pl
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
         width: 1600
         height: 1055
-        isCached: true
-  - title: "Cars are getting better at driving themselves, but you..."
-    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
-    publishedDateTime: 2021-12-22T10:41:00Z
-    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
         isCached: true
   - title: "Video: Self-driving boat comes to CES 2022"
     excerpt: "At the upcoming CES 2022 show, Avikus, a subsidiary of South Korean shipbuilder Hyundai Heavy Industries Group, will showcase a leisure cruising self-driving boat the recently completed a 6 mile journey with 12 passengers on board in Pohang City,"

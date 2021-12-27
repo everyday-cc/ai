@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Samsung rolls out chips for self-driving cars"
-excerpt: "Samsung Electronics said Thursday it has begun mass-producing cutting-edge memory chips for an undisclosed auto manufacturer to power a range of connected features including autonomous driving. The newest lineup of chips includes 2-gigabyte GDDR6 graphic dynamic random access memory chips,"
+excerpt: "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ..."
 publishedDateTime: 2021-12-16T06:42:00Z
-originalUrl: "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1"
-webUrl: "https://www.koreaherald.com/view.php?ud=20211216000657&np=1&mp=1"
+originalUrl: "https://www.koreaherald.com/view.php?ud=20211216000657"
+webUrl: "https://www.koreaherald.com/view.php?ud=20211216000657"
 ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20211216000657"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 354
     isCached: true
 
-secured: "WDfsBUVVN3COWQCs6EA3EehAG5pHQ0Me4fa0WViMnr6+AkKyXUdILjuA0yOptm8K7ld3kARY6ryiUxLiAZKJQuDuSzwvQlaRcZzM3Z4mcIAp88wjwRzEpm++SmWuzdAlqQo7gICL9+AWMkMEyPLtobp5ngifw/IpOaOgDndxtlxASxoBbeW3GfeYiMOZ8XAZyvqhXpc3Cw9vxEiDaOakNIgIZGK8Wcq+K0WVLWh1f7XOoEMR1mc1Wbxcf+WelCcifs0t4n/3Vk7VjoSZn3PmDT9zd3S3LChZYrIlZoqCHJXMaktYd0GM42tCGDmfnETILF1gMflwSrdqOM0w3B/mxNdrDt/N7BoBQx2yo26CbN+vrY1/M6y3Gobw8XQDqzQkMAXlnP9lHqyXb9UjNVAI3F0SDBpB3hwi0dQy+ZeK5nv64fc4Wy/GGaXA96aIrdHOGta70NsQvAr/ZH4g/vPLDroxKAP8EUEHMKdN0R3r4bgW247vWy8W21F9MM1GZ36l8vAEDqyOz9DyCe7U3HMEPg==;HCZoQJLX9cPRQpR+LUgsjw=="
+secured: "snLcj1VTMxkQi0jH6L5ZQljMuxhq2mJ4m8SRVt9TWrjF2L4MeJwk5DpspMPelxq8/UZW01ggddPOnpM4TUeU6cjUfki77IVwqKuEVgRlvKFyQk83NyDiBPGgdlAqKRhfz01OdZux7fvUqmqps5N2UuYN/+0VQVGaMndCw+UZgoLN0+WCuttb04VSaJV4+/Kz3NEJbJ350Ij0R3ukjKyrZHiLUEdcA4yFBG/eGkPxJIghAVopK78a5a1CoMS/ci4lT7D2mUNdG5mVlVHw/Y5zQ1GRw86sSfKaoIqnBLxgod6jcQZSj1DpjYwDNtkPdcEK2d4E3tf3YK8lQYSlgG6foXNtpDZh3Hgv01pwT4x1KUc=;+/aRgjGE3KWf6PBk3F/mLw=="
 ---
 

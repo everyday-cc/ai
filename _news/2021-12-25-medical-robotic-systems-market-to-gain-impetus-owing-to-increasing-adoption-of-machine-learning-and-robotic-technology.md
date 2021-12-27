@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impet
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "Businesses In IT Robotic Automation Market Speed Up Implementation, Integrating Platforms With Machine Learning To Up The Ante For Incumbents: TMR"
+    excerpt: "IT robotic process automation (RPA) tool and technologies have penetrated enterprise digital automation frameworks remarkably over the past few decades."
+    publishedDateTime: 2021-12-23T15:26:00Z
+    webUrl: "https://www.digitaljournal.com/pr/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents-tmr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/656d5c99e50550df050cfb2c6cfa845d3190b5a6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "72taba7uezB+JdZLFTSTYgx/9Dlg3ngMYi67Udb/cwXyfNvBvrGDvUJeI4pMij7mALPaPMs+spXGSIFR1aGzsQVG+gS09B0OKZkXYHMeXuR+/ZvkOKCPSFi09apYID9jRyOJ5KSmxc4pyoqPQmz3IvyqIVZe4yeJR2ucBHxoTon3V9UFJ2bmrcXDqfHSjVGUy84VLtxmKmsHXjQTpmdOCzLvCmeM0h/JLpd7Gs8HBOmfTxqN7ityIMQ7jM/RiEzihFNVXNvSyx2UioYb8UdfY8G70vSvNXfN7tXR2Ljnbw/giV6BFyLQ/K9GrBbH2ayGiRw4CG/+RkC+NOZB6gwCGDkwZyOLPFtduTpg89AZmzU9HOQUElX3pZag8+umA30JxO42ulh+GFjkWgrYCrlR6inQLkshZ3qhXkHdqvhp2lTs1aY8onIjF1+QdLxCsLnHBCybnoOWgRe2V8N56JrLjNYK/g+1D/nmX8qmbqvjUXnGNts8oWnT1/SKPJISbVeiEe35NY+EBqB8Os/qcYCJow==;CIOSzjB2pZKDCh8TLCDU2g=="
 ---

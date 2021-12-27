@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,80 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Campuses, Law Enforcement Reckon with Facial Recognition Bans"
-    excerpt: "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology."
-    publishedDateTime: 2021-12-22T10:40:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 139
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Face Recognition Is Being Banned—but It’s Still Everywhere"
-    excerpt: "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks."
-    publishedDateTime: 2021-12-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/face-recognition-banned-but-everywhere/"
-    ampWebUrl: "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Frictionless retail projects with facial recognition from SenseTime, Popcom, Solmate ramp up"
-    excerpt: "A number of companies stepped up their frictionless retail efforts for payments and marketing with biometrics and computer vision in the last weeks of 2021."
-    publishedDateTime: 2021-12-22T17:45:00Z
-    webUrl: "https://www.biometricupdate.com/202112/frictionless-retail-projects-with-facial-recognition-from-sensetime-popcom-solmate-ramp-up"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/11/18130822/shopping-retail-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Facial Recognition Systems Regulation: Outlook for 2022"
-    excerpt: "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,"
-    publishedDateTime: 2021-12-23T09:00:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d1086a6/2147483647/crop/7888x3032%2B27%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg"
-        width: 960
-        height: 369
-        isCached: true
-  - title: "Law enforcers outsourcing facial recognition to pvt sector, infringing rights, says study"
-    excerpt: "The paper notes that there is no data or documented records made available to the public in India by the law enforcement agencies involved in such practices."
-    publishedDateTime: 2021-12-23T08:22:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/law-enforcers-outsourcing-facial-recognition-to-pvt-sector-infringing-rights-says-study/106470"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 30
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2021-12/464c1236-29a3-4948-a6ef-88df05867880/facial_recognition.jpg?w=700"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "14jCMZVnigTskCMEkoA/iQgdRj4aZkJHqy9M6aA4wji1MY0V3H8mOFbdILA0fJ2C3eUUlEbNeL9pivm0ah2Rbwst/Cq+xzMWbqWR3TzigpxpW0VS7qwuLlrMd7u/bizjLqwDOyNPQgXmpSkkdk4LUavT+pMEjRZLYh2g0v7BNnnL+X/XOzejUoWmh+2hvlBhN4ZWmcSNSbSoj8khfb0iSa6Y0xIRNhNGbq48MGuINOGj3QbadSQYv+WyT3RT7ytKcihHGAv9VFIehpObVvxdN1TixtU1e5yfyuBk0ktaiquno2E3+sX1WqfARGaff1MVs1dCo4/tXlwa5eJEhnG+DmknRyzd2VQntk9svdAiszjP//FEMK9oNGXrqgYJzXfoqzzL46//H9nVjmjDsSVb4pWcrO0I/ymgNPNr+XGhSaFrCwM7HkOfieCtigt56j9DeNCKrrG8V6UxzlTn2cUUREwr5tqhkmCTcy/bWJkTd32YTfKSePOpENFEgtsZrJs0k3d/RmYFl1KAY9II5xFiUA==;bMcYgYdy7zfEIvMOWMrnFQ=="
 ---

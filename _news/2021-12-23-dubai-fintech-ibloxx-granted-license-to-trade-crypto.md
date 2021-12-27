@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-gran
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cryptocurrency/2021/dubai-fintech-ibloxx-granted-license-to-trade-crypto/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Dubai fintech firm iBloxx gets DMCC crypto trading licence"
-    excerpt: "BLOXX designs AI and machine learning algorithms to manage active trading models for crypto commodity markets."
-    publishedDateTime: 2021-12-22T09:44:00Z
-    webUrl: "https://gulfbusiness.com/dubai-fintech-firm-ibloxx-gets-dmcc-crypto-trading-licence/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/01/DMCC-e1640166272665.jpg"
-        width: 800
-        height: 482
-        isCached: true
 
 secured: "/RIa9iBgfvdoh9H+dYn9ifS/8PPJSNAleGDprPlO0xXmZhjVmgTG6yk/SU8yxJGR00L+UzjqpAqDhom+lTNg8Gxpq7lHsJyV2abTseo1AByllq5+crihCI0gvT0WpgPnrsrxv0ALTsnykNbr+w84ou/zudXn5R24Ko2avWhWtDiUi3A8scGltCR9y38j+sR46TdZivoqITcxaaT52tkRrwaB15Cbjx98FU9D1qyJ8XKYU0ZHc2nKWZQtV4cDEpDM6xqx02NFJm3hVeLLC50J0uQybKILC+H447H3JgyCHXpyKpaFOxYDgp8CAV1/uzKnJNFbT/g2qTtuJ2p2k7QrQdNyrEarVxNQcPOHONg343QGG0jWbjsuP0b8GQAGVzhfP8agOUjTP5JyYnG2o3LppzYKNZZ6jFicMDGydEMCgLzrLnsWVPu2rtwyC8PguKVNn7cSe46GnDuchHEu9/quCwBnxQS/HXpJTMmX8CmzDd6mT8enTFq+u6RQ5GKe/WcX0XL/piAmRYYJHokmPqGkjA==;Ee4HBHrj79LOvQ8VtcDCzw=="
 ---

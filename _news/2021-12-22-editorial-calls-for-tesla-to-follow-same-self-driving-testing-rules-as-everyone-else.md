@@ -73,20 +73,6 @@ related:
         width: 1600
         height: 1055
         isCached: true
-  - title: "Cars are getting better at driving themselves, but you..."
-    excerpt: "The auto industry has been working on autonomous driving for years. And companies like Waymo and Cruise are testing fully autonomous driving — in some cities, you can already hop in a driverless taxi."
-    publishedDateTime: 2021-12-22T10:41:00Z
-    webUrl: "https://wfuv.org/content/cars-are-getting-better-driving-themselves-you-still-cant-sit-back-and-nap"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
   - title: "Video: Self-driving boat comes to CES 2022"
     excerpt: "At the upcoming CES 2022 show, Avikus, a subsidiary of South Korean shipbuilder Hyundai Heavy Industries Group, will showcase a leisure cruising self-driving boat the recently completed a 6 mile journey with 12 passengers on board in Pohang City,"
     publishedDateTime: 2021-12-22T13:47:00Z

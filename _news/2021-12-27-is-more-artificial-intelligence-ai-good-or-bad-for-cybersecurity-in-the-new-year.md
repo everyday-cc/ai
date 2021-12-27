@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-26T18:06:00Z
 originalUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-good-bad-new-year-dan-lohrmann"
 webUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-good-bad-new-year-dan-lohrmann"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEbDLFfxgdDiw/article-cover_image-shrink_720_1280/0/1640541838937?e=1646265600&v=beta&t=vVpaMIVr86u1M23Fxu9TXM14_W4Wihp3fIs5kJHAAxE"
@@ -43,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Q0z28L9dEW1OXJhJB9K6iGNhpAtJmW0twQeiU98NfjS1bg7MWmbzJjATJx6F5eZLievV/HtqgofRJbJTjd3OdJBS1CZCQnugDle3BK8OgWR+OwBjIC5t1am6yRab0sfKJcJN1lSIyKPg7rz1w7piUYUf0dvwVdlf13NWocEyTK/Imn/CwzvYSNHlrAsJHMFzTsXTI4sOwP+I3wuo+ALR3qPDCwtjA7MMHNWERb+ZM3QAjeRG6JVIF2SkrpW6zmeiU44pKYwhVczNKBsoq145E2V4WRsIUYEGZG4TN8hHq7TeXAsdKJ5qY8EDssCPfkKi4WJvveF7ktT0rC5sZ30UTBC7tnkulTbE8x4AeTsORz4=;2Lc+7CBm+uXHrYouYtX4PA=="
+secured: "zvIDfCxd7i/jve34d6OuKpmcskjvQFxBpL97RrdROXrwe/sy61+mdsW5gvocMTk88WyJdQWm7ScNbZ2K+grtQsKhmv9jKbTISHzKwgNTWI/K+28TTwTs4bQRg7JPHU408XF653HGeck4IpcVWZ/sZd9xP8H1x+eoa1LD5vxNVT2go3A1c6Aq10dzKVMDNWIxSUCC2U2jBAzfJGJL+137yoX5HjoRed7GXiWPxrqOuOXPY9CKu0M9Ol4tvs2xXKz6lXRaYTXcYVCUbhQ9F0W3cHznoH3ornDt94Rzih6Yto/IIjapP9SwtmEKALVhAIFufYoPYTatbwh0mhW2tOQZGFdzAzGv+cZhxZTp54ws4drbaIg4YoHGVUPRdmVmda/nB9psnGFkmsFPE8c219Rb5XxrJ2qBEQOopY9N4CgZ5VFncEM0l9/sLbw7XEFyA8jB5PiiQ5fkwyXuZASlYCeESG48ThG4tBiKTrsxTJ/+jqdqxfRL1u+nkyRxL7hfGE1z9Zp5Zlfg87O1ztdZnRtLfg==;Kc96wr+iOl214UK2Jf9FsA=="
 ---
 
