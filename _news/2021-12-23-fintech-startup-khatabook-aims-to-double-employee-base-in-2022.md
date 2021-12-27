@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-startup-khatabo
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/1629796564-3451.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Year-ender quotes for Startup, Ed-tech, Fintech and Tech Sector"
+    excerpt: "Many of the trends that are showing green shoots today will bloom in the months to come. Having said that, I reckon cash will still be the king in the Fintech world, with banking services becoming more accessible for the last mile of the society,"
+    publishedDateTime: 2021-12-27T10:44:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 44
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
   - title: "Fintech startup Khatabook to double employee base in 2022"
     excerpt: "Leading fintech startup Khatabook on Thursday announced that it is planning to double its employee base in the upcoming year. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,"

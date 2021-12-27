@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Year-ender quotes for Startup, Ed-tech, Fintech and Tech Sector"
+    excerpt: "Many of the trends that are showing green shoots today will bloom in the months to come. Having said that, I reckon cash will still be the king in the Fintech world, with banking services becoming more accessible for the last mile of the society,"
+    publishedDateTime: 2021-12-27T10:44:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 44
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
 
 secured: "9LihhsSKgXy7qbFgUZl5gqIjRCbiUq0gE0ycneTPRWdqo0HAxQe1aQ7Hj2OhHaSTLX+q3SXuaw8FI7SsTH6NH5bkSUhDEXXBuIg3SSxLN6HSJaizLVr/70XKk652QWCP2OrL+rFv8qzpgK9EBknvWIt40qF63meYT0Z7Lk1hucI4Wt4DwypO5ggCkf2FcEYx4POkixdseJUsz3EgUXloBa1yKGd/J2A0o8nTc/jHbPJ2thgVjJAetpZ0HyAXwC1PazyjjdfJ3xCk3UxvdUZFUJQbZejMjxL9l9M7A/s1VazHf3zCodPNNJxGcAutgf6e/0QhqMbbv+zzgxPHZiuDlNzjUqzEtRifi0N7S1yK3Wo=;Si2PiwLGXv0rtzZ/ichUOQ=="
 ---

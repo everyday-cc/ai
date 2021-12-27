@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NEC named a Major Player in IDC MarketScape: Asia/Pacific Vision Artificial Intelligence Software Platform 2021 Vendor Assessment"
+    excerpt: "NEC Corporation (NEC; TSE: 6701) announced it has been named a Major Player in the IDC MarketScape: Asia/Pacific (Excluding Japan) Vision Artificial Intelligence Software Platform 2021 Vendor Assessment."
+    publishedDateTime: 2021-12-27T18:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=592996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "sYZxvwQFsnCfRImpZuczqTpObojvCjmBTjXgtob93LGdes/kkBJtkM0rPQ8zHfB+2g5jzP/uz/GB6ZESRyZMiZrQN1yJsJ2SfRrp0UKHoG/3e6grnQqHt+9xEwjsO/ruIB2EZqsLu7Mah3HIrMo8jytVRiR/MHR71OsHv0Cp0JgjUH5+GJvz+pBfObMQ7Qh+b/CwQW9llOazozynrC8li0Sl9e3NZ0P5loS22T+fzCs5Rk2tNIq8EYUpms28gZXx+zMkFew2Yv0wB5e0GufAVhB2I2fcOTd/er2Or37zP6y4SVvNTK+nwyGdgL1MSO5xRFGshYftO9WYkGtMfB9Kqvm5rU3mdn94bajv0ofvXVUPDNZj9FhVX9IoozJkaCBD4M0Cs6T5akUV/uW7G1azynvAuJvumi7ITjkk29LL7vVCMbuZlPgpY+MplV9kqhFAnjcdzP9/yxZmEUAOwDohlLQJlBCta0OyvkhQn43zwRJ82CDHUF2NN/D+OpoGzOD3c75EDvSDeofRBrjb2dC/qQ==;RcjpNPqtcoZpMySmr2fqKw=="
 ---

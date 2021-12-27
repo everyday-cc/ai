@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-
 webUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-"
 type: article
 quality: 62
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
-    excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
-    publishedDateTime: 2021-12-23T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2021-definition-size-share-segmentation-and-forecast-data-by-2027-2021-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"
     publishedDateTime: 2021-12-23T05:50:00Z

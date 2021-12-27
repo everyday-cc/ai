@@ -37,20 +37,6 @@ related:
         width: 737
         height: 737
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2021 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2027"
-    excerpt: "MRInsights.biz has offered a new research study on Global Artificial Intelligence Software Market Growth (Status and Outlook) 2021-2027 that serves in-depth information on product types, applications."
-    publishedDateTime: 2021-12-23T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2021-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2027-2021-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
     excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
     publishedDateTime: 2021-12-27T08:17:00Z

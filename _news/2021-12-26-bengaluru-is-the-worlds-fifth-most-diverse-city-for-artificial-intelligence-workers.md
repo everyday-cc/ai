@@ -58,6 +58,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Second largest in AI talent pool, Bengaluru ranked fifth in the world"
+    excerpt: "Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI), at No. 5 according to a study by TIDE Framework and listed by Harvard Business Review (HBR). The ranking is derived based on a framework of indicators such as talent pool,"
+    publishedDateTime: 2021-12-27T17:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211227/3881272.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "ETpE9x1ve1/RPIfEFm0u9i5dAMfyAeJdAT6/eed5QkfcaCbV38YveXaLRTbXW8L6PY7ffy1r83aDeNKgBvuwqksrCVV+SDY/vVFc6Qv8zI0FLk7BEqdFNGM9b8CXfZiC4ak+/HT/WtVCFoqr+lWMeVHlMnzsb33zKggPSCqcmyn8V9fAPacez08KdZJKT4WlxWjsEfuxXfyqgo6VEJse3t6J4FaELd8yHjeMN5FItzIzfztufGNL6eaTS6xnHbExOI22eEA8FELfW06S/QTyH4kigAZlSkXbKfYFi4XxS0sYEt3R4HWne+6WbGdcrYpCeTNzmjGAO7IBV/LmqSpz8qKb+i96epNb6locTs5taEB1bUgP0FwwQ8IsSw5/k0qX5ckQJWRLiDWCdthmUsuk+ZGkMVUTNHbfDHb7/q3NM1IOi9K5jzTGj3My4oPSpz0IQkCxf15Zp+KL4PgUEWUFYkzaCAOaKEAbJurpiZVJUNAhlyPduanE/3OwPY0MeW2Ah7NpB1FqIEa68NABUwn3LA==;r0QumSnN4jA/2uPDzCGJxA=="
 ---

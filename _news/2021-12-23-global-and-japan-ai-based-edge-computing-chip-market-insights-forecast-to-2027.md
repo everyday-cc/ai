@@ -33,20 +33,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
-    excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
-    publishedDateTime: 2021-12-23T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2021-definition-size-share-segmentation-and-forecast-data-by-2027-2021-12-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dSe2z4b6UMgH1+7Kur6280eGBV2uM71THLDORD2vlUPBfWzGrlC7jMhMJ1Cr7bNngNP9wZ3hawOD50y9vgbyGTbvCnMhPKfzoYVDt/w5KL2hhicfgIl8MmgGYeH78Mw7BEghuRyP8HL+Xbzgf0myushYvCsn/afNRtOjM3Obts+R1PF6HQmNCSyh6Z12JBUA4x9dN5DA4xyr3LBZbgduQlCjsoiWzOADnpo+Lna4Zd56qobZCYNxkNzlAX6Km6ByNzD+wOh/1HoZJlqLU6DovR4f5clOtzXMMMavx7gmynjFEm0KlbDeZ5DPL7FYqrdDcJe4zmOsjAf0Oi5/z5xMUsKbEQiV3I44r+KUdkaa89c=;UhH0I81KM7ZAMrDTrQK1Iw=="
 ---
