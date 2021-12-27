@@ -29,16 +29,16 @@ images:
 
 related:
   - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-    publishedDateTime: 2021-12-23T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/401518"
+    excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+    publishedDateTime: 2021-12-23T21:50:00Z
+    webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+      - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true

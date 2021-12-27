@@ -1,28 +1,28 @@
 ---
 category: news
-title: "China develops AI 'prosecutor' that can press charges 'with 97% accuracy'"
-excerpt: "The machine can file a charge based on a verbal description of the case and was built and tested by the Shanghai Pudong People's Procuratorate."
-publishedDateTime: 2021-12-27T07:36:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-10346933/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
-webUrl: "https://www.dailymail.co.uk/news/article-10346933/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
+title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
+excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
+publishedDateTime: 2021-12-27T12:33:00Z
+originalUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536.html"
+webUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536.html"
+ampWebUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2021/12/27/08/52254825-0-image-a-5_1640593802436.jpg"
-    width: 636
-    height: 382
+  - url: "https://images.hindustantimes.com/img/2021/12/27/1600x900/china_artificial_intelligence_posecutor_1640608287032_1640608287151.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 536
         isCached: true
 
-secured: "lxDAKRirBEOPCTytKlRPvSsSui4w7Ulq+MtT3+6M5BZYcwpqRyJOMuDumpzYAEDYQ6vzatAR0K+HMh0y8QEXnBdkPSj/cJGkWlABBtfoRo5Du39WlhkcnTQ6KtqW83slAGVpL8tsnak/DrNYambtSgB20azjJUMo1AKiACV3lKDh1lfBPsPe6S0d4sLJFeIJ8zkRqha4aeI5L54njl/UUhG5R7ClAHiqXrZrcoAK2Nzjsye49BkdVj8tLOYzWBVwBQsmqDVp3sqG4hz5YQDEvigiYJmLllcbatGxZyMLJBc/F92k0mrKFxOmeRwIbU/NVth/RzR65Ik7QSwM+b6JPEEnHpEKaCqN6O+lwxNh8eo=;TpnTSUvapwh+hYPy103O6Q=="
+secured: "wtvMVcCVBG88cC+x/5e8dgff9ODNXZLCjixSQ6J3xnLIoKS2z/8QB1I18vQGI+IMCm3mJwSOThMFNClQjZDLZnb+M4b5IRpfSIyuks+R6peM2gkDGYOmJDkTwWkI6XduKl43riiA6d6mLaTCVuSN5r7DgavcGFCA1pIeNviTD+g9uTDxmFEjtJrRamYFtwpDupG9q10AiyWUf+PF5017yOLKz3zgD4SvBFAuoOpl3F/D4D65LknU4yBYlnFGbdyus/3WQvgIebDR9Mn9UAH3hXYKH5098L2ZPnCarVkhrQz14eCtSwNhtnZE8uZnGEP7Rb9kCHzF3AhDdf/Y99po7FegdZD+9ml+Xr5E0j7A0VY=;gKu3GiOQjXHygDMPiz+LCg=="
 ---
 

@@ -40,21 +40,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China develops AI 'prosecutor' that can press charges 'with 97% accuracy'"
-    excerpt: "The machine can file a charge based on a verbal description of the case and was built and tested by the Shanghai Pudong People's Procuratorate."
-    publishedDateTime: 2021-12-27T07:36:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10346933/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
+  - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
+    excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
+    publishedDateTime: 2021-12-27T12:33:00Z
+    webUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536.html"
+    ampWebUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 56
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/12/27/08/52254825-0-image-a-5_1640593802436.jpg"
-        width: 636
-        height: 382
+      - url: "https://images.hindustantimes.com/img/2021/12/27/1600x900/china_artificial_intelligence_posecutor_1640608287032_1640608287151.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "T/5b2HVNyvkmzCavTlt6yiiTiuk4+Osc5iCD9TAByHBjEFMqmwzY8v4CbqOGbg+o4Zj7EpbE7aj0HFI75o703D2ZRp22vcfiJb9qEsSpwec1q9LjY9n3pVlLq6sAunWd07xkNZsMi048TS9jTkW1PE5YSmbtxXeRkRMfOoPP8ieZ+ckRYmPq/K8ZRYRtdQh6hVyFqm6I3Cqp2LSOHmNLU7E3J1fZX5Sz5eVD2msOSfROHaR12EiWI7oNGylb0HNT+3n9d/luitFryIuvMUIVCXYsECDViQttvEb/sNtKLQ4FtVwv1ck9+dwtpc2jYloNvNKKovqtF/HayW/8VZ8S9/Kudt7FpEFqX3qu9GSMyuBOYx68tTrPEeW6mpoXP5h+5ad7gIY02LOSC3QmML0TzszqIuYpWxQWKACYOj6W6OFAQb9n5aMF6w5b2MFErzgxwtCRoRrymAm3Yf79NH6BBztZUnM9EsIoJlQQ5XzF7wZjjgD1j4QjmPUK6MqJfZczO+vnfikSn3QWMwzMKKN23A==;6JHgdsTE6Xyqye8bc4mygA=="

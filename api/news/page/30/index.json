@@ -2,6 +2,144 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-02-meet-xenobots-worlds-first-living-robots-that-can-reproduce.md",
+      "title": "Meet Xenobots, World's First Living Robots That Can Reproduce",
+      "excerpt": "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "originalUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "cdnAmpWebUrl": "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "publishedDateTime": "2021-12-01T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Logical Indian",
+        "domain": "thelogicalindian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-facebook-whistle-blower-returns-to-congress-to-talk-regulation.md",
+      "title": "Facebook Whistle-Blower Returns to Congress to Talk Regulation",
+      "excerpt": "The whistle-blower who revealed thousands of internal Facebook documents is renewing her call for regulation of a social-media business model that she says puts profits over the health of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-01/facebook-whistle-blower-returns-to-congress-to-talk-regulation",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-01/facebook-whistle-blower-returns-to-congress-to-talk-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ickWzvb8ed8A/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-maths-researchers-hail-breakthrough-in-applications-of-artificial-intelligence.md",
+      "title": "Maths researchers hail breakthrough in applications of artificial intelligence",
+      "excerpt": "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
+      "originalUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
+      "publishedDateTime": "2021-12-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-deep-learning-dreams-up-new-protein-structures.md",
       "title": "Deep Learning Dreams Up New Protein Structures",
       "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools.",
@@ -1021,161 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-gpu-market-size-industry-forecast-report-to-2024.md",
-      "title": "GPU Market Size | Industry Forecast Report To 2024",
-      "excerpt": "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-twitch-will-use-machine-learning-to-catch-ban-dodging-trolls.md",
-      "title": "Twitch will use machine learning to catch ban-dodging trolls",
-      "excerpt": "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
-      "originalUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2019-10/cf1228f0-eb47-11e9-b7bf-ed13b8e4c860",
-          "width": 5076,
-          "height": 3384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-sydney-based-medtech-startup-harrisonai-gets-129m-aud-led-by-horizons-ventures.md",
-      "title": "Sydney-based medtech startup Harrison.ai gets $129M AUD led by Horizons Ventures",
-      "excerpt": "Harrison.ai, a Sydney-based company that creates medical devices with AI technology, announced today it has raised $129 million AUD (about $92.3 million USD) in what it says is one of the largest Series B rounds ever for an Australian healthtech company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/sydney-based-medtech-startup-harrison-ai-gets-129m-aud-led-by-horizons-ventures/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/sydney-based-medtech-startup-harrison-ai-gets-129m-aud-led-by-horizons-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Dimitry-Tran-Dr-Colin-GoldschmidtDr-Aengus-Tran.jpg",
-          "width": 4892,
-          "height": 2859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/sydney-based-medtech-startup-harrison-ai-gets-129m-aud-led-by-horizons-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/sydney-based-medtech-startup-harrison-ai-gets-129m-aud-led-by-horizons-ventures/amp/",
-      "publishedDateTime": "2021-11-30T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

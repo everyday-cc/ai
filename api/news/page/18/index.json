@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/",
+      "originalUrl": "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-esben-stergaard-eu-ai-act-will-stifle-robotics-innovation.md",
+      "title": "Esben Østergaard: EU AI Act will stifle robotics innovation",
+      "excerpt": "Steve and Mike interview robotics innovator Esben Østergaard and discuss the potential impact of the pending EU AI Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/esben-ostergaard-eu-ai-act-will-stifle-robotics-innovation/",
+      "originalUrl": "https://www.therobotreport.com/esben-ostergaard-eu-ai-act-will-stifle-robotics-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/ai-robot-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-microsoft-corporation-msft-presents-at-ubs-2021-global-tmt-conference-transcript.md",
+      "title": "Microsoft Corporation (MSFT) Presents at UBS 2021 Global TMT Conference (Transcript)",
+      "excerpt": "UBS 2021 Global TMT Conference December 08, 2021 12:00 PM ET Company Participants Corey Sanders - Corporate VP, Microsoft Commercial Solution",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
+      "publishedDateTime": "2021-12-08T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-new-windows-11-build-tests-voice-access-spotlight-backgrounds.md",
       "title": "New Windows 11 build tests Voice Access, Spotlight backgrounds",
       "excerpt": "Microsoft's Windows 11 Insider Build 22518 adds Voice Access for controlling your PC with your voice. Plus a new \"Spotlight\" background feature has been added, and Widgets has been reworked.",
@@ -1014,152 +1152,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "originalUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-fegoai-raises-15-million-in-seed-round.md",
-      "title": "Fego.ai Raises $1.5 Million In Seed Round",
-      "excerpt": "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401435",
-      "originalUrl": "https://www.entrepreneur.com/article/401435",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team.md",
-      "title": "Unstoppable Domains Hires AWS and IBM Veteran Sandy Carter to Executive Team",
-      "excerpt": "Unstoppable Domains, the leading platform for self-sovereign identity on Web3, today announced the hiring of seasoned Fortune 25 leader Sandy Carter from AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/e4/5e40845d-7110-5488-ad85-6b5d5ee10786/60c8ced79bf1d.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize",
-          "width": 1194,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-california-suspends-ponyais-driverless-testing-after-accident.md",
+      "title": "California suspends Pony.ai’s driverless testing after accident",
+      "excerpt": "Following an accident on October 28 while operating a vehicle in autonomous mode, Pony.ai's driverless testing permit has been suspended.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/california-suspends-pony-ai-driverless-testing-after-accident/",
+      "originalUrl": "https://www.therobotreport.com/california-suspends-pony-ai-driverless-testing-after-accident/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/pony.ai-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
       "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
       "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 release of the world’s first artificial human arm,",
@@ -1318,49 +1362,6 @@
       "provider": {
         "name": "Locus Online",
         "domain": "locusmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
-      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
-      "excerpt": "Servi is more of a Bus-i, I guess you could say.\" Food and beverages director Jacky Li is talking about the smooth-moving black and white robot gliding through the dining room of Roger Bar and Restaurant in Mountain View.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "originalUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mv-voice.com/blogs/photos/12/5430.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mv-voice.com",
-        "domain": "mv-voice.com",
         "images": null,
         "publishers": null,
         "authors": null

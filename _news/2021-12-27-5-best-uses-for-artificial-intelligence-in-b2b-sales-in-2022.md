@@ -57,22 +57,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
-    excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
-    publishedDateTime: 2021-12-22T20:57:00Z
-    webUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/"
-    ampWebUrl: "https://moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
-    cdnAmpWebUrl: "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2021/12/22/fetch-ai-crypto-price-prediction-potential-gains-of-2700/amp/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 57
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/12/fetchai-1200.jpg"
-        width: 1200
-        height: 682
-        isCached: true
   - title: "Best AI Innovations in technology and medical sciences of 2021 that made it special"
     excerpt: "AI’s strength and influence have already been demonstrated. With each passing day, the field of artificial intelligence continues to evolve and improve. Because of the huge potential that it has on the world’s most pressing issues,"
     publishedDateTime: 2021-12-25T05:03:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/From-Fantasy-to-Reality-Tech-Innovations-to-Look-Out-for-in-2021-03.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Predicting lightning with artificial intelligence"
-    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
-    publishedDateTime: 2021-12-23T13:51:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
-        width: 752
-        height: 355
         isCached: true
   - title: "Worldwide Artificial Intelligence in Remote..."
     excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"

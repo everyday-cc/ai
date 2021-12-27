@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-09-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
+      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
+      "excerpt": "Servi is more of a Bus-i, I guess you could say.\" Food and beverages director Jacky Li is talking about the smooth-moving black and white robot gliding through the dining room of Roger Bar and Restaurant in Mountain View.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
+      "originalUrl": "https://www.mv-voice.com/blogs/p/2021/12/08/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mv-voice.com/blogs/photos/12/5430.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mv-voice.com",
+        "domain": "mv-voice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-new-generation-of-kraussmaffei-lrx-linear-robots.md",
       "title": "The new generation of KraussMaffei LRX linear robots",
       "excerpt": "The new linear robot product line also includes customized gripper solutions tailored optimally to the mold and the component. All components are integrated centrally into the MC6 control system ...",
@@ -1314,49 +1357,6 @@
       "provider": {
         "name": "CBC.ca",
         "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools.md",
-      "title": "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools",
-      "excerpt": "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
-      "originalUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/12/Artificial-Intelligence-AI-robot-tech-automate.jpg",
-          "width": 617,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
-      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
-      "publishedDateTime": "2021-12-03T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benefits Pro",
-        "domain": "benefitspro.com",
         "images": null,
         "publishers": null,
         "authors": null
