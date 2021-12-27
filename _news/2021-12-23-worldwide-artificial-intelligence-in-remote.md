@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nine Things You Should Know About AI"
-    excerpt: "AI – the adoption of computers or machines to produce intelligent behaviour – is expanding rapidly. In the last decade it has conquered a number of tasks, including agile legged robot locomotion, recognition of objects in images,"
-    publishedDateTime: 2021-12-22T16:48:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/articles/3pVB9hLv8TdGjSdJv4CmYjC/nine-things-you-should-know-about-ai"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0bc5z3y.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XTjLkInR5ZAjli+H/5bHhj/Fq7eNVraKFRN7Rv5pnMqUO9iUAaB9oUg9CJYJ509/gVWQj0cvJ25kQd/kpc0Jv2lxBoxQ+hqbANnCHe5aBGterPAF7mjtDW0XkR6ZeUfkwGQC7qszzcWI2HeVZFxcgSXfrX+FipRyFvjPDvecGO9mVw3jxMAq6O11sqXiKup6tQkJdonderqi/H1RZgC7Y2cjMNrPaF219pYHtIEbkyqw0oV07dMRFXH8G+vfU68k6o41XMxoIUNBL7cdMjhRvkinFGxpWnToIW4++31WWPwz6tsutvpcQyQXL+fyIgcw7eOZQTN1YbaQ1IgAQsZdtnsLIe8MS9tErLtBy1ZYYD8=;YQvV0DlUsAeylA2eeBTZ8w=="
 ---

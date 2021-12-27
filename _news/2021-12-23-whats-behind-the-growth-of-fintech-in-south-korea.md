@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Following the money of Hong Kong's growing fintech cluster"
+    excerpt: "Economist Michael Porter once said that California is successful for its wine, not because of its meteorological conditions, but because it has an economic cluster of interconnected wineries, grape"
+    publishedDateTime: 2021-12-24T01:41:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/3001610/20211224-Following-the-money-of-Hong-Kong's-growing-fintech-cluster"
+    type: article
+    provider:
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 24
+    images:
+      - url: "https://static.hkej.com/eji/images/2021/12/24/3001610_2ae21a179a0f3eba9fe221b0dbf1e69a.jpg"
+        width: 835
+        height: 526
+        isCached: true
+
 secured: "wy+ItZp66oFuOYqyfBAdHXzl9sadF81Yn6DyitrjBbkz1S5r/zNc9llzKPyfsE27OCjtHMjN/ec8j2odu+Ys89Q6cHHB7DoKQEtDudZqZ7KnDlY36LO7IHV8SXj0qrInNJSji7xtXF4PrAohulTn579+WjpANyn4PPKNWU2BsDHhq+npijbb4xCHuY47eH3ddgdxS7reDjCkbzeu+WFp2FwjqYRhWh3gLABcdXVjF1okRxEjvCiY6hKC/l+KIt4Xni9wwyIVfLXxnv0ac04n3VMLGy0mb24COlcgfzoVp+4xBf71NU6Su8VLHlufeC0rf0/bCct8h4Q0CQPgt2wP6GeebXw/ZJhz0D4uOUitsWk=;iy4vomr0UWH4hViU1r6fQw=="
 ---
 

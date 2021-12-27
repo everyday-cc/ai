@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
-      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
-      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "publishedDateTime": "2021-12-23T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-23-advancing-deep-learning-with-collective-intelligence-google-brain-surveys-recent-developments.md",
       "title": "Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments",
       "excerpt": "The contemporaneous development in recent years of deep neural networks, hardware accelerators with large memory capacity and massive training datasets has advanced the state-of-the-art on tasks in fields such as computer vision and natural language processing.",
@@ -730,7 +686,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1199,6 +1155,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-how-leaders-can-use-facial-recognition-technology-as-a-force-for-good.md",
+      "title": "How Leaders Can Use Facial Recognition Technology As A Force For Good",
+      "excerpt": "Facial recognition, when used within moral codes of conduct and an ethical framework, can be very beneficial, and it could be key to streamlined experiences, secure processes and a safer society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2114d7a803060327c8938%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
+      "publishedDateTime": "2021-12-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

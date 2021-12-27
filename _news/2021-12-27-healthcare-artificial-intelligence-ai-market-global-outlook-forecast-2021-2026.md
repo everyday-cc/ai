@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-
 webUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-"
 type: article
 quality: 62
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
       domain: reportsnreports.com
     quality: 30
 
-secured: "FN/+l4DKbs0UJ/Z79OPTxCxepQ7z99PZ7E5AHyHR5udPu14rKwb12yJ3NvXuDGsuJ0Bl/SfVlJZh/8dLbrGTVawBZoSQ1WWDEdMrFJHCphE2RMhjj+fus2PsyXKzupuKncXLxIIwEfgxK4nYnNgxjiJQGjzESpa3kSlFwXoAXBOh4wBAObUVOjnfeweTydJjFRr69hhzVa7qphxd+YiEbnFTPO58DweqqKx7Xu3h4G44jLTuW1/niAqyVkbQusE8nDOW5AEEBAelYVNztgO4rtvwOc2QKOvOpc7+tUMThCMkKmhUbOpC7LiAa8vuDXODczx65iM/bfElcPglDtmPUwgmhCEzfi45P//hk1xJVD0=;QAxHT08nd7N8P2Gh6xf3rw=="
+secured: "RzroVpupq6Az1AQKJp3teHJG/L2Fuhw/RQ25pUf67172pQ9TBuFaYo0NhPbrKErYkRNtxMstFFGfmLKhOj7m6CMpWNBPJumiTBL/i/xwjKwbSPy+zwhjDQDQDsYSsXd1aeKeMn7d3x26YmdEUig6hJEW1ljlHzpl2ZSJI6QZ3eJcpL1cTXwA6ttxhLq8RUI+/+q+KN2rCMvZLjCdE7/fOl29JZQ6yUzZDCRL1pHvGb1a7LAGkY2U3cHVbC6hHriVuhh3VeqhtQ0w1GJviISqOH6clAxAufxZzRzZKxvQmPw7W+NORq0x2dORnVir7RIDP6cmSoSkgzF/SZ1B7Du57Px7i6P6FwJ7D8pp0fBZQfdwYQZ19si3fj6qsltvqzzB3jrmZauczudAktF9FbnfteGjXbIMkT+8AOkJsP4BT9UgN0V6rCSzm2/4nqM0UNWjGzUlouiiIeeaKV/fR5e9UzQpunkt+qWJSuUL7kiE7dGXopVZ3sqSSeA78P/XySfnFXWLNdn4AhST0HB3QqYHQw==;tLfBWq5ZEKGJiUb8zciniQ=="
 ---
 

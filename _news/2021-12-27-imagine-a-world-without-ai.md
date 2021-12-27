@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nine Things You Should Know About AI"
-    excerpt: "AI – the adoption of computers or machines to produce intelligent behaviour – is expanding rapidly. In the last decade it has conquered a number of tasks, including agile legged robot locomotion, recognition of objects in images,"
-    publishedDateTime: 2021-12-22T16:48:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/articles/3pVB9hLv8TdGjSdJv4CmYjC/nine-things-you-should-know-about-ai"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0bc5z3y.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Worldwide Artificial Intelligence in Remote..."
     excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
     publishedDateTime: 2021-12-23T10:10:00Z

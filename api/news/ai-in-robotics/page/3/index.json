@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-09-the-new-generation-of-kraussmaffei-lrx-linear-robots.md",
+      "title": "The new generation of KraussMaffei LRX linear robots",
+      "excerpt": "The new linear robot product line also includes customized gripper solutions tailored optimally to the mold and the component. All components are integrated centrally into the MC6 control system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.plasticsnews.com/sponsored-content/new-generation-kraussmaffei-lrx-linear-robots",
+      "originalUrl": "https://www.plasticsnews.com/sponsored-content/new-generation-kraussmaffei-lrx-linear-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.plasticsnews.com/styles/800x600/s3/KM_2021_12_AUT_LRX_linear_robot_wrist_axis__200x200.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Plastics News",
+        "domain": "plasticsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-esben-stergaard-eu-ai-act-will-stifle-robotics-innovation.md",
       "title": "Esben Østergaard: EU AI Act will stifle robotics innovation",
       "excerpt": "Steve and Mike interview robotics innovator Esben Østergaard and discuss the potential impact of the pending EU AI Act.",
@@ -1325,49 +1368,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.md",
-      "title": "Humanoid Robot 'Ameca' Shows Most Accurate Facial Expressions In New Video; WATCH",
-      "excerpt": "The UK’s Cornwall-based firm Engineered Arts has unveiled a humanoid robot Ameca that can display human-like expressions with the most accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=IPukuYb9xWw",
-      "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IPukuYb9xWw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

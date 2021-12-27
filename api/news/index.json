@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -53,7 +54,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -136,48 +137,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-imagine-a-world-without-ai.md",
-      "title": "Imagine a world without AI",
-      "excerpt": "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88509489,imgsize-38988,width-1200,height-628,overlay-etcio/imagine-a-world-without-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "publishedDateTime": "2021-12-26T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -339,7 +298,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -390,7 +349,7 @@
       "originalUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -441,7 +400,7 @@
       "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1199,6 +1158,50 @@
         "IBM AI",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "publishedDateTime": "2021-12-23T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

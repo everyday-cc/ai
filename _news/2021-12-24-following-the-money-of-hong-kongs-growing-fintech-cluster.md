@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Firm SenseTime Prices Hong Kong IPO at Bottom of Range"
-    excerpt: "SenseTime Group Inc. is likely to price its Hong Kong initial public offering at the bottom of its marketed range, according to people familiar with the matter. SenseTime plans to"
-    publishedDateTime: 2021-12-22T16:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range"
+  - title: "What’s behind the growth of fintech in South Korea?"
+    excerpt: "For one, the country’s fintech sector is booming. Kakao Pay, the fintech arm of messaging app Kakao, is valued at about US$10 billion, while Seoul-based startup Toss raised almost US$400 million in June as part of its plans to grow its sales by 12x."
+    publishedDateTime: 2021-12-23T06:04:00Z
+    webUrl: "https://www.techinasia.com/whats-growth-fintech-south-korea"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0jPdbk7bxKw/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Chinese AI startup SenseTime said to plan HK IPO relaunch on Monday"
-    excerpt: "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK3.99 each, according to its initial filings."
-    publishedDateTime: 2021-12-23T05:34:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-relaunch-275116/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 37
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
-        width: 1280
-        height: 631
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
 
 secured: "Fm0zvSFRBHujiYn5WROA3LhE8RQiQAkshJaOq50RCMIYCFT9FqGKFh/eOJPy1TxmBJUjgrcM4Iq5ghc03MOzaX9sd1M18doNT0fiFOkFSbR0X+McNqdcXpxb7QdZYGbnnplfZFxxRVWSyf5apmJVM8mdd6Ptujg66ZyCga66HfS+14V0fOXZ38dAx4SDWvjgEFMzJ5wkTkdiC0FetN+1sHqnZB9kMbr+PJWlXoSgg8moo40WbQfrUdWFZhX0o8ZGDN8vLMZPgnaH6MrXr8+OpLepTDrWDkLvcgvmJzBPMFQtUD3hPXf1TIIODAwkzmwSRVD9ko2PtI2JqAT7+HNaTlhEh4Jofu1vxXmsvhPlAoe9BdrvOcCA1967R82650VZErQzTSodmLJU4aCIA6KWsrqcFqyUEINniT0nCL7hy5sq8pXb3ab9Vjg4Yu7JTnm07i3NayK5Z+ZR4AA/CJ2HiztJ31vfCsX5QNfz9egK3DtHzChKo755nEkpYJ8ElpQBH9epAg30NiMivSRz+o5dOw==;iO2cssV3EgmN1ncv0ZX3nw=="
 ---

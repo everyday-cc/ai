@@ -56,6 +56,22 @@ related:
         width: 501
         height: 344
         isCached: true
+  - title: "AWS’s five tech predictions for 2022"
+    excerpt: "As tech companies make their predictions for 2022, Amazon Web Services (AWS) is banking on five areas that they believe will shape 2022 and beyond."
+    publishedDateTime: 2021-12-27T06:11:00Z
+    webUrl: "https://techhq.com/2021/12/aws-tech-predictions-2022/"
+    ampWebUrl: "https://techhq.com/amp/2021/12/aws-tech-predictions-2022/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/aws-tech-predictions-2022/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 59
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/12/063_1356696208-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Fetch.ai Crypto Price Prediction: Potential Gains of 2,700%"
     excerpt: "Fetch.ai is one-half of the two-pronged AI investment sphere. And our FET crypto price prediction shows you high this one could go."
     publishedDateTime: 2021-12-22T20:57:00Z
@@ -114,15 +130,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Unblocking the bottlenecks: 2022 predictions for AI and computer vision"
-    excerpt: "Appu Shaji, CEO and chief scientist at Mobius Labs, provides his predictions for AI and computer vision developments in 2022"
-    publishedDateTime: 2021-12-22T16:31:00Z
-    webUrl: "https://www.information-age.com/unblocking-bottlenecks-2022-predictions-for-ai-computer-vision-123498257/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 34
   - title: "NFT 2.0! Top AI stories of 2021 and predictions for 2022. Human Brain Cells VS AI."
     excerpt: "If you’ve been keeping up with the cryptocurrency world, you’ve probably come across the term “NFT.” They are one-of-a-kind, non-interchangeable digital assets that also serve as valid proof of ownership on the blockchain."
     publishedDateTime: 2021-12-24T15:01:00Z

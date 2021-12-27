@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 97
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "China develops AI 'prosecutor' that can press charges 'with 97% accuracy'"
+    excerpt: "The machine can file a charge based on a verbal description of the case and was built and tested by the Shanghai Pudong People's Procuratorate."
+    publishedDateTime: 2021-12-27T07:36:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10346933/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10346933/amp/China-develops-AI-prosecutor-press-charges-97-accuracy.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/12/27/08/52254825-0-image-a-5_1640593802436.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z

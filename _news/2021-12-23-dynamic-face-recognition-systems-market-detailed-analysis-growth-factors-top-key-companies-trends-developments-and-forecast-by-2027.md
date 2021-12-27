@@ -31,7 +31,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://cdn.openpr.com/U/c/Uc27270452_g.jpg"
         width: 737
@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
+    excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
+    publishedDateTime: 2021-12-27T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    ampWebUrl: "https://www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "CylujCud6hkpLQToxOQSujm2QYX7hz0rlDKRD5QoTTR1FRsGtTN2apRxgTFYAOsszydlouSkKoidigCsnG0lQQebl9pzsYWIbFilzKD3LJnWzIIKN4NLwnkLFAFR23vEazRghiuRcai/CCPRl2N2p/I17S9u67ZGdoBsiGU5D3t4c/2OJH/o6RcatU/pEsSvOOLiTGHYNa1hMGYeNM7XG9sarHYkyFFS+tkG3RW4XtM/jaw/BN6WYGTvQVRv2HJkRDcu+DISWxaOe0rjlLPLw7xPB0pOBZW/TdrKXfMzPeFoFirbGTLM0ztgMCL4MtykTC4cH80pz7BrxQHfA3FsrkNsTaxTvDe8LPn+cWdjIA0=;X3g1iFDCix5f1I/7N32fzw=="
 ---

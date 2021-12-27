@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 120
 published: true
 
 provider:

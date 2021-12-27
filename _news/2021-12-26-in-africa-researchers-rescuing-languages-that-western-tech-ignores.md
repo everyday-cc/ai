@@ -41,19 +41,35 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
-    publishedDateTime: 2021-12-23T13:25:00Z
-    webUrl: "https://apnews.com/article/coronavirus-pandemic-technology-science-business-health-24d3789e1a87b212d61e80f0fe2e89b1"
+  - title: "In Africa, Rescuing the Languages that Western Tech Ignores"
+    excerpt: "Tech giants don't have a great track record of making language technology work well outside wealthiest markets"
+    publishedDateTime: 2021-12-27T07:03:00Z
+    webUrl: "https://www.voanews.com/a/in-africa-rescuing-the-languages-that-western-tech-ignores-/6366618.html"
+    ampWebUrl: "https://www.voanews.com/amp/in-africa-rescuing-the-languages-that-western-tech-ignores-/6366618.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/in-africa-rescuing-the-languages-that-western-tech-ignores-/6366618.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://gdb.voanews.com/636B7ACC-267C-4F3C-936E-E1D1A590946F_w1080_h608_s.png"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "In Africa, rescuing the languages that Western tech ignores"
+    excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
+    publishedDateTime: 2021-12-23T12:08:00Z
+    webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
     quality: 24
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/8796040a4d724a62aa59121d9fe2817e/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."

@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market
 ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 90
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.openpr.com/U/c/Uc27270452_g.jpg"
@@ -52,7 +53,18 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
+    excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
+    publishedDateTime: 2021-12-27T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    ampWebUrl: "https://www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
-secured: "aYx4vgJpWWSL1mO0FlyzIV2kp81sk1O94smNxt0B3xogVSAVZw46gFsTaYPfjblHiGY7RgxcIg6yKMpmAs6gg7TObsL8c3REJ6Dg7o1ODHBEarsv1bXKH3GDRJSRHQ6pN0buHDO5nKAi+vSSr59RjDr2JRdDElnnE3tIitVoo71Y63iIJko5En4cq2FP3lMii3dXlkMzmHHOKYM9hi6nPaYEXZUZbkbuBWsIXmS+c1YAJkhHca17CdFTQwkdgrdpEFJ2+8lsJ+MyWeLlPOrZw8VuzhLSf46woc0LH+538+x2JvhFI77YPTC0xsQ9ZOrg8CfI9c/WTczM4FGa97QRsRoAZA0X4wcIwQ7V+2Huix0=;lsJYA2FD9AL2DFxGOEju4g=="
+secured: "FwPmyVWAsFDilShG07UpR+oU/YwShlw8X0/yL0nyOYKKLo3MB0HVKHGiu65QpgXOwg1aORnHUgx9A+YkvvDcCzq0fCOJJo4CE9YZQgO6ZY1yl4tay7TkOwtSTURCSiP2tgOBSoE/uW15i4IOT00+qmolBiqj8nO3Yc98alF/+Nd8lasIVIE9vCMwpOJT/5Wop4NjplpbozML5AmfMg8TUVLyj1XFlhtYej4+joqz4dzcUWorcw3raNt5E88K6pSgiJpHSjufsHnyf0OZnmrvU97APpubeboZS5O/Yc98YAA8YPAken+06baSveUP6zwNFNofc0JHLGeQ3EoiB4JbWvFXs13GPE9fRz41TTtmigP03/jpWlRyuyZH0lMsML0qL9yyWfCRUyyarL17SsxrFsf8kJuFU9mW0SHGWEZ6bXupwTcL77uw6tIxJbWSeUE9qSeMKE7coKoFPEmK7wIPNmEbYxho4If/SP7sAxAp/viWa6Cb9GHRKGBpE6PKG4cpEt+LYpTNsC6RdgNNxjADeg==;jIzeZip3Hrh6uzbA7zlcPQ=="
 ---
 

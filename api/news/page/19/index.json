@@ -2,58 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
-      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
-      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "publishedDateTime": "2021-12-08T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
       "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
       "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
@@ -1139,6 +1087,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
+      "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
+      "excerpt": "NEW YORK, Dec. 6, 2021 /PRNewswire/ -- From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook",
+          "width": 1498,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

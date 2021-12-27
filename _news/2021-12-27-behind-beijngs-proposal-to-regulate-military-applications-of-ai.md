@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-27T06:44:00Z
 originalUrl: "https://menafn.com/1103450627/Behind-Beijngs-proposal-to-regulate-military-applications-of-AI"
 webUrl: "https://menafn.com/1103450627/Behind-Beijngs-proposal-to-regulate-military-applications-of-AI"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://menafn.com/updates/pr/2021-12/27/AT_c6bc5image_story.jpg"
@@ -23,6 +24,6 @@ images:
     height: 534
     isCached: true
 
-secured: "dGQmJxzGQn2EEb8uDn1Y/KzGvd8KhqvVm2z0Az8C1f0NxSiczJQvkQ5r0u/bIps6pkY0m+8A29BOI/kfY1vEw68h+8CmVf3BrlGPgH3/yLCq1d4L5ufRt4/b890gpvdOyUKm6AanT4AFLVovnvbgQRJUom0SlvODmDns59HIsBLxAMzZweGsIAqENbY5KtQLHG58gMwhZdkwChH53QXy6pR1Qk4xdtvD2z2IxmUiGqeOfE0GoqUKRvVcbMq5waec1s10syNkc1EbE+BqP7L8Fdh10vGEFlItZJuFRJv26fEcvYtKukOSU8zuyH3iA/ye32uBHPNM4uOGBXX+IqRmseIakpvOUjtYPiFQroZgv9w=;OZUc7p7s48ullGNxYqxpXA=="
+secured: "OkrELGfnGtJe+hTn1f2hrN2FGoq2XA5ZK25HK+Fy1FygX97gHVb3YOp6YxVDEK0Px/f8paHs4wg2D6iH5pImt29ZoXhpzs4v8Erwpmc2S02Xzn6Lj48OIEpl1N3HJJ2xx/1PmcwMWQOJi1Jxxb1yDx0aGQQqYjxr6OPOu23L21B+arM2FiBAckFMD8+LktucPAd9e19lnEzfUR3bYCB3UWBi0SWeT9pYIekCHAg9cu/vJinGMqqoPZjqd60gKWvsy++W4ja03oRrcUlfRqDFh93f86MPmCbnnBIWivWDMrL4LWJ8dHtCnsrEPz/A3oU5f62Hdh7VUMGJbwMbaeA/fpy1flghFPiRjCHibSMJx7cSrh704PuzEFVYRUiXRhzqeVrE7AIihvVot6t9hHrSbII0p7H3g9InbOqdK0i/1MnErTli27JKOE0qMmT4lsDiONzvIxgC7P5vZw2wlIEYvDXO89MxCVT773g5XyplXmCh6uHeiYLe9hRaaaaseZm7X4Of0xTKCTg0BPcbOh/I9A==;kRkYHvvIpj7VCEM9sIfKew=="
 ---
 
