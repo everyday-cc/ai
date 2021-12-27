@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-work
 webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Factories: Can Robots Replace Humans In The Workplace?"
-    excerpt: "Innovation has been at the core of factory operations since the beginning of the industrial revolution. As the world enters the 4th industrial revolution, machines will inevitably be part of daily factory operations."
-    publishedDateTime: 2021-12-22T18:54:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/22/451015-future-factories-robots-replace-humans-the-workplace.htm"
+  - title: "Book review: The Age of AI - And Our Human Future"
+    excerpt: "A book with a fairly unappealing cover came up in my Amazon Kindle recommendations. What drew me was the name of one of the authors: Henry Kissinger."
+    publishedDateTime: 2021-12-26T07:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future-johan-steyn"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5651775655-warehouse.jpg"
-        width: 1125
-        height: 750
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG79EtHnPculw/article-cover_image-shrink_600_2000/0/1640496669534?e=1646265600&v=beta&t=wiz5T_H554MXbCViEtsfPs1miEL8hhniX4VGmAAXLFc"
+        width: 744
+        height: 400
         isCached: true
 
-secured: "Oivco2u3DLLIS4k2EPAxh21RzdAE3uHpRReUaWT4a7lTFPEE+SeT0KgLvUPoRddDlM7ZZEnZgOh6QguyCIidIFwpn1jXIYo9MEDkiriob3kVb3JY4UOsiabkIeumWxyY+JyBZU705DCitN7/mrHNiJhTkvq72WletYYmS4kPvLQgxxS41ry98GJRLFOy37T6allra66z3xZ/OcCIZyFFfb61Hx9YLJNI1cmP4LJ89Oqztsg87pcBBBio8zIMwQd5Jyc7w+EgntsiZsERSUH+Wj5Jp8OCMTHHzfFrnfuDIApVpyh7VUnr3DpkLq2xqX3KsGw5YMs0Sjzb9iC1IQ0T5IcuAS7cOgvvGN58B2XXO84=;P8u2Xw4lG/ZNAEI/PFTgeA=="
+secured: "xzizeOm3Sb5ZVDTY+SdqNc3ACdlNhlPMWaU3CF2n3gUh+jKKC3KQGAW2NAn08wU7S20vGTLRbj1gub2Eteurbhp+Jp0SKg+lKyUrVH61oKhtZqwQWLtAs86sl4f3xoZWABwSxID6V6eAngL7+vi2lCgFB/7fm2WkK8cQUyZzcQl+Suka9Amui990sTkvWMx6cOJTKwuOOtEKAxOncRM2YnU4G+PaRIA76ohBbPv5WSEBCquB6ckInQWez6CrO3fCIh6xJ8zHWdYdTmF9dI/ZtC7BNsOzF4T5X4MfelcppgKwjFzPVujR/HWuA7ijSWsfhREaj87mK3EjGVV3DkcSq4BoCvIsb3/CHs1qosnR/xz/qkiI9PVZdnWeaEbnAYhjHAqlLuoz9kHf533YhENdHu54P7kfd33r7qyEn6y3MoIXM834DDVtOoIHKDS5uN+8/MdMG9044/5q7XgP5HUSk90jWcoKVWrZiuLjPnqaV0iYGRR5y7zX++9ZptciwubGORqJHw92enXusk6fWiO39w==;MWVpjpLYtp0w479j/+421Q=="
 ---
 

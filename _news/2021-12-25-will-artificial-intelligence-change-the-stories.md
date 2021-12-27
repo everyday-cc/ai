@@ -42,22 +42,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative"
-    publishedDateTime: 2021-12-22T18:00:00Z
-    webUrl: "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/"
-    ampWebUrl: "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 74
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/12/2021-robots.jpg?w=901"
-        width: 901
-        height: 1199
-        isCached: true
   - title: "How AI digital twins help weather the world’s supply chain nightmare"
     excerpt: "With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time."
     publishedDateTime: 2021-12-23T04:53:00Z

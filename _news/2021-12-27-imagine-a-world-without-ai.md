@@ -26,17 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Artificial Intelligence in Remote..."
-    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-    publishedDateTime: 2021-12-23T10:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
+  - title: "AI and wine – a riposte"
+    excerpt: "Alder Yarrow’s article on AI and wine is spot on in terms of the current state of AI and wine, but gloomily off-target regarding its consumer-facing future. It is absolutely true that ‘most, if not all,"
+    publishedDateTime: 2021-12-27T09:14:00Z
+    webUrl: "https://www.jancisrobinson.com/articles/ai-and-wine-riposte"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
+      name: Jancis Robinson
+      domain: jancisrobinson.com
+    quality: 17
 
 secured: "pxToAhOWmwk15ahrfkQQSXVwRy111Cx4P2LnQk8avi5MbRWMG9cf0ejrcoMbjP8AsdDSdR9L/MfB7rjmiDUoJI7AyfcvCyS3TRVd/LnX035qP91awea2qkiX9pmt4dVfteKU2gG+Ex52fKwj+AoAUjVJcbbYgkkLbXJEOXP0Eb0Roo5QXGq+Njr47K+HOs4CRv39wTB7ObxvfFB8MKGiPonFLq7ONn7XoNzDUy9HaOe7sZEIwU8JAiAqVpMjPzsDPOa6KtbY+psrXERGwDOrvIl83jau89LJObQx19ht5CMKrMxxgJJbvTh3ZgSmhQwz10dunb2PybWPo4+5aFA+lLDuX45YzwXxmUvs0+uik9I=;vRwlAxjXL4RbVq0ICeWlzQ=="
 ---

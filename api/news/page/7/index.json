@@ -2,6 +2,142 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
+      "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
+      "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-Lion.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
+      "publishedDateTime": "2021-12-17T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-eu-faces-nuclear-rift-in-decision-on-energy-funds-future.md",
+      "title": "EU faces nuclear rift in decision on energy funds, future",
+      "excerpt": "The leaders of the European Union’s two most important nations faced reporters together during a joint news conference early Friday, a show of unity at the end of the EU’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.signal-ai.com/blog/on-our-latest-investment-building-the-future-together",
+      "originalUrl": "https://www.everythinglubbock.com/news/latest/eu-faces-nuclear-rift-in-decision-on-energy-funds-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.signal-ai.com/wp-content/uploads/fly-images/10260/Decision_Making_Reputation_800x450px-750x450-c.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
+      "title": "The Sims 4 could use AI to automatically turn photographs into characters",
+      "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "originalUrl": "https://www.techradar.com/nz/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4H5BcPERVpvbyTHyV6wHsP-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "publishedDateTime": "2021-12-17T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
       "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
       "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,",
@@ -1060,162 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-continual-raises-4m-for-its-ai-powered-data-platform.md",
-      "title": "Continual raises $4M for its AI-powered data platform",
-      "excerpt": "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680",
-          "width": 680,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "publishedDateTime": "2021-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises.md",
-      "title": "Unbabel acquires Lingo24 to bolster AI-driven translations for enterprises",
-      "excerpt": "Unbabel, a startup delivering AI-driven translations, today announced the decision to acquire Lingo24, a UK-based language service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
-      "publishedDateTime": "2021-12-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
-      "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
-      "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58be71f71a1f3001f125%2F0x0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "publishedDateTime": "2021-12-16T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
