@@ -42,18 +42,18 @@ related:
         height: 267
         isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
-    publishedDateTime: 2021-12-23T12:08:00Z
-    webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+    excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
+    publishedDateTime: 2021-12-23T13:25:00Z
+    webUrl: "https://apnews.com/article/coronavirus-pandemic-technology-science-business-health-24d3789e1a87b212d61e80f0fe2e89b1"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://storage.googleapis.com/afs-prod/media/8796040a4d724a62aa59121d9fe2817e/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "In Africa, researchers rescuing languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages."

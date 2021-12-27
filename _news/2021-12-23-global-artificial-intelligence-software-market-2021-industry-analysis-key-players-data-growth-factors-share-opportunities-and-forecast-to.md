@@ -28,43 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Software System Market 2021 Definition, Size, Share, Segmentation and Forecast data by 2027"
-    excerpt: "The research study published on the Global Artificial Intelligence Software System Market Growth (Status and Outlook) 2021-2027 provides a historical overview and in-depth study on the current & future market of the industry."
-    publishedDateTime: 2021-12-23T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-system-market-2021-definition-size-share-segmentation-and-forecast-data-by-2027-2021-12-22"
+  - title: "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028"
+    excerpt: "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for"
+    publishedDateTime: 2021-12-27T06:20:00Z
+    webUrl: "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
+    ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: openpr.com
+      domain: openpr.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/c/Uc27270452_g.jpg"
+        width: 737
+        height: 737
         isCached: true
-  - title: "Global Artificial Intelligence Edge Device Market Comprehensive Coverage 2021-2027"
-    excerpt: "Dec 2021, as per the new study published by Data Library Research, titled, “Artificial Intelligence Edge Device market by type, application, end use, and region: industry forecast and market potential analysis,"
-    publishedDateTime: 2021-12-22T13:29:00Z
-    webUrl: "https://www.linkedin.com/pulse/global-artificial-intelligence-edge-device-market-tejas-baraskar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFoKFePlZuDzw/article-cover_image-shrink_720_1280/0/1640179480385?e=1645660800&v=beta&t=RwybDKlmLTtoDy_5PSigyW1YYkuxwOBOgcy6vtR5hRo"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan AI based Edge Computing Chip Market Insights, Forecast to 2027 report by QYResearch Group. AI based Edge Computing Chip market is segmented by region"
-    publishedDateTime: 2021-12-23T05:50:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5199104-global-and-japan-ai-based-edge-computing-chip-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 30
   - title: "Dynamic Face Recognition Systems Market Detailed Analysis, Growth Factors, Top Key Companies, Trends, Developments and Forecast by 2027"
     excerpt: "The growing relevance of the surveillance business increased government and defense sector investment in facial recognition technology and increasing technical innovation across industrial verticals are the primary drivers driving the growth of the facial recognition market Face occlusion and face"
     publishedDateTime: 2021-12-23T09:49:00Z
@@ -76,20 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
-  - title: "Global Automotive Voice Recognition System Market Size, Share & Forecast 2026"
-    excerpt: "Increasing technology advancements, rising demand for connected vehicle features and growing sale of high end passenger cars to drive global automoti"
-    publishedDateTime: 2021-12-22T14:41:00Z
-    webUrl: "https://menafn.com/1103431749/Global-Automotive-Voice-Recognition-System-Market-Size-Share-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/22/pr_11313_fb50cc5a_image_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "al+IJS++1SpdanY4T6wfD+gbgenH4tJwb+F5gG1OSylmF2WAzK/ALArRik3q0MeTz/Vn0nu/GQO+aEnYLFhZci3DTOmZ8xxl+cgEBWevL8w2UeBncKKAl1rUNn8KW/p90T+IXserNRIEfP3McYBNKOZLmdfwbfwmIKlHJVnq2y2JBPlO7q1HqWWUFCf0XxzFu01/Ls/S9Q6E52vHUrdIVygL1ev4ASCogH9CPhtx0UN0SvMO2qaInbs0wgWI/4M5BAL8KXY53wDo1WBRLstCBr+VDRqnXq/BqTRNb1Twk6wxtMrsb63LTz+WQVmcaKmtrV7k0EfYcHecs6GMOhSPcoF0uYzcGtsapSpnlhkoSgU=;gW1hRmAgO9CLOlHFx5xiIQ=="
 ---

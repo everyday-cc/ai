@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
+      "title": "Natural Language Processing and Conversational AI in the Call Center",
+      "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "publishedDateTime": "2021-12-08T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud",
@@ -1330,40 +1374,6 @@
       "provider": {
         "name": "IT News Africa",
         "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-analysis-of-mental-and-physical-disorders-associated-with-covid-19-in-online-health-forums-a-natural-language-processing-study.md",
-      "title": "Analysis of mental and physical disorders associated with COVID-19 in online health forums: a natural language processing study.",
-      "excerpt": "Online health forums provide rich and untapped real-time data on population health. Through novel data extraction and natural language processing (NLP) techniques, we characterise the evolution of mental and physical health concerns relating to the COVID-19 pandemic among online health forum users.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34740937",
-      "originalUrl": "https://europepmc.org/article/MED/34740937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
         "images": null,
         "publishers": null,
         "authors": null

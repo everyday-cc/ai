@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-27-healthcare-artificial-intelligence-ai-market-global-outlook-forecast-2021-2026.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026",
+      "excerpt": "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise.md",
       "title": "A Market to Harness: Speech Recognition Artificial Intelligence (AI) Innovations On The Rise",
       "excerpt": "This blog focuses on the speech recognition and AI market profiled market innovator AssemblyAI, EmotionalCloud and other innovations advancing the speech and emotional AI intelligence landscape.",
@@ -1266,50 +1318,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-global-assistive-robotics-market-size-to-reach-usd-2516-billion-in-2028.md",
-      "title": "Global Assistive Robotics Market Size to Reach USD 25.16 Billion in 2028",
-      "excerpt": "Rapidly increasing geriatric population, advancements in Artificial Intelligence, and surging prevalence of autism are some key factors driving market revenue growth Market Size – USD 5.05 Billion in 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "publishedDateTime": "2021-12-03T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]

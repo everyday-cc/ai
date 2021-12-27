@@ -1,27 +1,27 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
-publishedDateTime: 2021-12-23T12:08:00Z
-originalUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
-webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
+publishedDateTime: 2021-12-23T13:25:00Z
+originalUrl: "https://apnews.com/article/coronavirus-pandemic-technology-science-business-health-24d3789e1a87b212d61e80f0fe2e89b1"
+webUrl: "https://apnews.com/article/coronavirus-pandemic-technology-science-business-health-24d3789e1a87b212d61e80f0fe2e89b1"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
-    width: 2560
-    height: 1706
+  - url: "https://storage.googleapis.com/afs-prod/media/8796040a4d724a62aa59121d9fe2817e/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 400
         isCached: true
 
-secured: "tqqC1V5cHV4kE3ZmI/fBXePryIJqMw4nG49UWuZAHKsXtJs+NcQ8hYXRQp4KnnUCGWTyLgOW1y/ZcgIReg6XfdDlC15zGQlUH++SQdfqrNctROIrfw2HLYIPX0/2XdhGiztUCpVxKmRToGfqqSK8v47E7g+9yEAg/14FVvpBZbKyyWDn6ovvWAnsY1mlq7QWAFlM7FawDcqvkRtp3akPpfv30B9BJJ1FrLFEp6MkGlBU2kj/ttrtu4Z2HW495FfIGXH02+EyccMy03sgtxJAsWPPE91QnlPRocy4VPhWPA1RBrb5fUBnk2jki7cQQ7MxFnBnK2GfPMvEp691SkZxGM5LMDr3kVkeu4JcUzLW4V8=;8OkS1YmTQdO+JVImdbOnpA=="
+secured: "YGmAX6NkjzFuTgbOChg1VCqzItEwi0ta0j7d7marwpBwwvqS6IvAYdROvG7QBaH4hicvQySnaER2Vg6eg2iPl7leHZZmPMFjl+csaicGLt4E/2yyziCcv6uB68baxbl7xhAGvXpVqflgl8a5riKN21GUs6y1qHsj8sXuej/1q1e31NWyumu2PRlVSfmdZhA+H4UbgoCqEiNsQW+au6eyX4soxSePj0L2s4gj2jXihVNSbDp9gwOfSpZdrdchQV+DL/PaomWEIskoR3HwLKdVM5xllOc3xbUMyNJmPpToJiFKogCWXLnlgjzW4gkZYf8lUqbTH3XTmr3EKz82KjxD71cF3RgMdloZqBDxh0nE8mc=;FVid1Cxp4Qn803eZwc1VCA=="
 ---
 

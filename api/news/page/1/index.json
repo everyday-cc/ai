@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
+      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
+      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
+          "width": 737,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "publishedDateTime": "2021-12-26T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-healthcare-artificial-intelligence-ai-market-global-outlook-forecast-2021-2026.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026",
+      "excerpt": "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-aizen-creditconnect-new-paradigm-for-ai-banking.md",
+      "title": "AIZEN 'CreditConnect', New Paradigm for AI Banking",
+      "excerpt": "People can see the banking democratization trend, where bigtechs and fintechs present a new form of threat to traditional",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/dccee0d5-78a0-4c6f-bf93-db8b36100510",
+          "width": 1380,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24776401",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24776401",
+      "publishedDateTime": "2021-12-26T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-imagine-a-world-without-ai.md",
       "title": "Imagine a world without AI",
       "excerpt": "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that..",
@@ -10,7 +148,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -149,7 +287,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -534,7 +672,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1061,137 +1199,6 @@
         "IBM AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
-      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
-      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "publishedDateTime": "2021-12-23T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-advancing-deep-learning-with-collective-intelligence-google-brain-surveys-recent-developments.md",
-      "title": "Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments",
-      "excerpt": "The contemporaneous development in recent years of deep neural networks, hardware accelerators with large memory capacity and massive training datasets has advanced the state-of-the-art on tasks in fields such as computer vision and natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/",
-      "originalUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/",
-      "publishedDateTime": "2021-12-23T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show.md",
-      "title": "Instacart is vetting a self-driving robot as it looks to speed up delivery and challenge Gopuff, Jokr, and Buyk, leaked documents show",
-      "excerpt": "Leaked documents show Instacart is vetting robotics warehouse startup Tortoise, as it looks to challenge Gopuff, Jokr, and other ultrafast delivery players",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show/ar-AAS40JC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61c36d6617dae400125adef3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T07:39:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
-        "domain": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

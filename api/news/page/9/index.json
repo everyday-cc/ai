@@ -2,6 +2,134 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America Technology Innovation Leadership Award in the computer vision space. The company offers innovative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/",
+      "originalUrl": "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-neural-network-20-a-game-changer.md",
+      "title": "Neural Network 2.0: A Game Changer",
+      "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026",
+      "excerpt": "Global Artificial Intelligence (AI) in Drug Discovery Market Research Report provides key analysis on the market status of the Artificial Intelligence (AI) in Drug Discovery manufacturers with best facts and figures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-us-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance.md",
       "title": "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance",
       "excerpt": "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups.",
@@ -529,6 +657,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-15-natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027.md",
+      "title": "Natural Language Processing (NLP) Software Market | Industry Outlook and Data Collected 2021-2027",
+      "excerpt": "The research report thoroughly examines the changing landscape of the Global Natural Language Processing (NLP) Software Market with the help of exhaustive amount of data compiled by the research analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
+      "originalUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/R4cS544/Researchmoz-us-132.jpg",
+          "width": 1280,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
+      "publishedDateTime": "2021-12-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-dimensity-9000-ai-running-score-far-exceeds-snapdragon-8-gen1.md",
       "title": "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1",
       "excerpt": "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s",
@@ -997,189 +1168,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-why-are-teslas-self-driving-software-sales-slowing-down.md",
-      "title": "Why Are Tesla's Self Driving Software Sales Slowing Down?",
-      "excerpt": "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down",
-      "originalUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp",
-      "publishedDateTime": "2021-12-15T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-how-much-maths-is-enough-for-machine-learning.md",
-      "title": "How much maths is enough for Machine Learning?",
-      "excerpt": "So I have seen a lot of posts on this topic and some of them very controversial. I need to throw in my opinion on what I think you need to succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/do-you-need-maths-succeed-machine-learning-ngwa-bandolo-bobga-cyril",
-      "originalUrl": "https://www.linkedin.com/pulse/do-you-need-maths-succeed-machine-learning-ngwa-bandolo-bobga-cyril",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEd79gvp99ySA/article-cover_image-shrink_720_1280/0/1639558174591?e=1645056000&v=beta&t=RPv40JQkA3GEIQ1GarAAugIqhNG5r6nmGyuj1l3HJYE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-mediatek-dimensity-9000-is-over-4-times-faster-than-snapdragon-888-in-ai-benchmark-results.md",
-      "title": "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results",
-      "excerpt": "A new benchmarking result has just showcased some interesting information regarding the upcoming MediaTek Dimensity 9000 SoC. The chip managed to easily outclass almost every other chipset in the high end smartphone market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg",
-          "width": 4949,
-          "height": 2775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
-      "publishedDateTime": "2021-12-14T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-continuous-renal-replacement-therapy-market-insights-trends-outlook-segmentation-latest-innovation-and-forecast-2021-to-2027.md",
-      "title": "Continuous Renal Replacement Therapy Market Insights, Trends, Outlook, Segmentation, Latest Innovation and Forecast 2021 To 2027",
-      "excerpt": "Global Continuous Renal Replacement Therapy Market size, segmentation 2021 Analysis Scope, Risk Factor, Opportunity, Market Overview, Driving Forces, Sales, Revenue and Production cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/45454485/continuous-renal-replacement-therapy-market-insights-trends-outlook-segmentation-latest-innovation-and-forecast-2021-to-2027",
-      "originalUrl": "https://www.wboc.com/story/45454485/continuous-renal-replacement-therapy-market-insights-trends-outlook-segmentation-latest-innovation-and-forecast-2021-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ABSOLUTEREPORTS.images.worldnow.com/images/21883129_G.png?lastEditedDate=1639526892000",
-          "width": 450,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

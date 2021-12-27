@@ -2,6 +2,197 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-11-the-worlds-first-risc-v-gpu-could-be-on-the-horizon.md",
+      "title": "The world's first RISC-V GPU could be on the horizon",
+      "excerpt": "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "originalUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
+      "publishedDateTime": "2021-12-10T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations.md",
+      "title": "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations",
+      "excerpt": "VANCOUVER, BC, Dec. 10, 2021 /PRNewswire/ -- USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
+      "title": "Investing in the Future: Burger-Flipping Robots?",
+      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
+          "width": 2120,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
+      "title": "AI is thriving on and driving the edge",
+      "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
+      "publishedDateTime": "2021-12-10T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
       "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
       "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
@@ -995,186 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-nvidia-launchpad-enterprise-ai-lab-review.md",
-      "title": "NVIDIA LaunchPad Enterprise AI Lab Review",
-      "excerpt": "allows developers to realize the value of their AI project with an NVIDIA GPU. The NGC catalog is a hub of GPU-optimized AI, high-performance computing (HPC), and data analytics software that simplifies and accelerates end-to-end workflows. With enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
-      "originalUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.storagereview.com/wp-content/uploads/2021/12/ai-launchpad-workflow-diagram-1cc-d.png",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
-      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
-      "publishedDateTime": "2021-12-10T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StorageReview",
-        "domain": "storagereview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
-      "title": "Microsoft and Esri deliver centralized satellite image analysis in Azure Orbital",
-      "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "publishedDateTime": "2021-12-10T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
-      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
-      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
-      "title": "Supercharge your GeForce GPU with these 6 must-use features",
-      "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
-      "originalUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/Screen-Shot-2021-11-23-at-3.37.06-PM.png?w=1024",
-          "width": 1023,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/557823/supercharge-your-geforce-gpu-with-these-6-must-use-features.html/amp",
-      "publishedDateTime": "2021-12-10T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

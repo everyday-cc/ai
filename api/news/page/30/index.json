@@ -2,6 +2,205 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-01-supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise.md",
+      "title": "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise",
+      "excerpt": "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681",
+          "width": 1021,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
+      "publishedDateTime": "2021-12-01T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-a-golden-age-for-natural-language.md",
+      "title": "A Golden Age For Natural Language",
+      "excerpt": "The last three years signaled the beginning of a golden age for natural language processing (NLP). Here are a few promising companies emerging in space and why this is all happening now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/",
+      "originalUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619d98cfa48a446f44ac5b85%2F0x0.jpg",
+          "width": 1200,
+          "height": 920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/",
+      "publishedDateTime": "2021-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience.md",
+      "title": "Billion-Dollar Unicorn And Artificial Intelligence Career-Tech Startup Is Improving The Job Search Experience",
+      "excerpt": "In this tight, hot labor market, artificial intelligence is gaining attention as a compelling and effective way to improve the hiring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a792b0c3987bee417323e3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/amp/",
+      "publishedDateTime": "2021-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition.md",
+      "title": "Mantra Softech gets Listed on NIST FRVT for Facial Recognition",
+      "excerpt": "Mantra Softech recently announced that its facial recognition algorithms 1:N and 1:1 placed first out of 25 percent tested systems and 367 entrants in the latest NIST FRVT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124367-mantra-softech.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "publishedDateTime": "2021-12-01T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-cloud-computing-is-evolving-heres-where-its-going-next.md",
       "title": "Cloud computing is evolving: Here's where it's going next",
       "excerpt": "Today's hybrid and multi-cloud architectures will evolve into highly optimised app-centric, AI-driven environments.",
@@ -968,196 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-qualcomm-snapdragon-8-gen-1-chip-will-power-flagship-phones-from-oneplus-and-xiaomi.md",
-      "title": "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi",
-      "excerpt": "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
-      "originalUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/11/Snapdragon.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
-      "publishedDateTime": "2021-11-30T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-machine-learning-to-make-sign-language-more-accessible.md",
-      "title": "Machine learning to make sign language more accessible",
-      "excerpt": "Google has spent over twenty years helping to make information accessible and useful in more than 150 languages. And our work is definitely not done, because the internet changes so quickly. About 15% of searches we see are entirely new every day. And when it comes to other types of information beyond",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
-      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9DoGwSqjhw3vBUB.max-1300x1300.png",
-          "width": 1215,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
-      "publishedDateTime": "2021-11-30T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech.md",
-      "title": "Artists criticise Spotify CEO Daniel Ek’s investment in AI defence tech",
-      "excerpt": "Spotify‘s CEO Daniel Ek’s investment in artificial intelligence defence technology has been met with backlash by artists and users on the streaming platform. Ek announced earlier this month, that he was investing 100million euros (£85.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864",
-      "originalUrl": "https://www.nme.com/en_asia/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3108279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/11/2021_spotify_danielek_getty_2000x1270.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
-      "publishedDateTime": "2021-11-30T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aws-announces-six-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Six New Amazon SageMaker Capabilities",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01?dist=bigcharts&tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01?dist=bigcharts&tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,137 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "publishedDateTime": "2021-12-23T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-advancing-deep-learning-with-collective-intelligence-google-brain-surveys-recent-developments.md",
+      "title": "Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments",
+      "excerpt": "The contemporaneous development in recent years of deep neural networks, hardware accelerators with large memory capacity and massive training datasets has advanced the state-of-the-art on tasks in fields such as computer vision and natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/",
+      "originalUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/",
+      "publishedDateTime": "2021-12-23T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show.md",
+      "title": "Instacart is vetting a self-driving robot as it looks to speed up delivery and challenge Gopuff, Jokr, and Buyk, leaked documents show",
+      "excerpt": "Leaked documents show Instacart is vetting robotics warehouse startup Tortoise, as it looks to challenge Gopuff, Jokr, and other ultrafast delivery players",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show/ar-AAS40JC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61c36d6617dae400125adef3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T07:39:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "domain": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-open-source-nlp-is-fueling-a-new-wave-of-startups.md",
       "title": "Open source NLP is fueling a new wave of startups",
       "excerpt": "A growing number of startups are offering open source language models as a service, competing with heavyweights like OpenAI.",
@@ -166,7 +297,7 @@
       "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -270,7 +401,7 @@
       "originalUrl": "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -537,49 +668,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
-      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
-      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "publishedDateTime": "2021-12-22T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -1096,109 +1184,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-how-leaders-can-use-facial-recognition-technology-as-a-force-for-good.md",
-      "title": "How Leaders Can Use Facial Recognition Technology As A Force For Good",
-      "excerpt": "Facial recognition, when used within moral codes of conduct and an ethical framework, can be very beneficial, and it could be key to streamlined experiences, secure processes and a safer society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2114d7a803060327c8938%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
-      "publishedDateTime": "2021-12-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.md",
-      "title": "UN talks to ban 'slaughterbots' collapsed — here's why that matters",
-      "excerpt": "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106992652-1640169480556-gettyimages-1236334796-Armed_Police_Training.jpeg?v=1640176120",
-          "width": 4000,
-          "height": 2629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "publishedDateTime": "2021-12-22T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

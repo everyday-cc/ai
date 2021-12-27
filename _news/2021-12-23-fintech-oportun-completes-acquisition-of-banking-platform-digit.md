@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 trends shaping the future of fintech in 2022"
-    excerpt: "Fintech has catapulted the banking and finance sector into the digital age. Here are 6 new trends to watch in 2022."
-    publishedDateTime: 2021-12-22T13:59:00Z
-    webUrl: "https://thenextweb.com/news/6-trends-shaping-future-of-fintech-2022"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Ftrendsfintech2.jpg&signature=09a774b26516141c572c77d421309f0e"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Fintech Company Oportun Completes Acquisition of Digit"
     excerpt: "Nasdaq-listed financial technology (Fintech) company, Oportun today announced the completion of the acquisition of Digit."
     publishedDateTime: 2021-12-23T09:05:00Z

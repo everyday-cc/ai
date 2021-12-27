@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Problems of the Brave New World: AI and Ethics"
-    excerpt: "With the increased pace of technological advances and the latest popularity of dystopian series combined, often we find ourselves asking where the world is going, a dystopian world as described in the book 1984 or the one as described in Brave New World,"
-    publishedDateTime: 2021-12-22T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFiSUqCXo1wuA/article-cover_image-shrink_600_2000/0/1640181984260?e=1645660800&v=beta&t=BFWDloRIT3dawYsYcdCk3tAI1Q8ifIQAYzC_6ZO_QAY"
-        width: 639
-        height: 540
-        isCached: true
   - title: "Worldwide Artificial Intelligence in Remote..."
     excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
     publishedDateTime: 2021-12-23T10:10:00Z

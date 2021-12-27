@@ -77,20 +77,6 @@ related:
         width: 958
         height: 720
         isCached: true
-  - title: "Self-driving cars could be legal by spring 2022"
-    excerpt: "Using advanced car lane-keeping systems without your hands on the steering wheel will become legal in the UK under new government proposals"
-    publishedDateTime: 2021-12-22T14:00:00Z
-    webUrl: "https://www.whatcar.com/news/self-driving-cars-could-be-legal-by-spring-2022/n22965"
-    type: article
-    provider:
-      name: What Car?
-      domain: whatcar.com
-    quality: 24
-    images:
-      - url: "https://media.whatcar.com/fit-in/760x503/migration/articles/56bb78af5f55854732c20708e1cf1c4b505c6d81.jpg"
-        width: 755
-        height: 503
-        isCached: true
   - title: "Japan to create legal framework for level 4 self-driving cars"
     excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
     publishedDateTime: 2021-12-23T03:12:00Z

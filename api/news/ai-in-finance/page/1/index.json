@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-27-aizen-creditconnect-new-paradigm-for-ai-banking.md",
+      "title": "AIZEN 'CreditConnect', New Paradigm for AI Banking",
+      "excerpt": "People can see the banking democratization trend, where bigtechs and fintechs present a new form of threat to traditional",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/dccee0d5-78a0-4c6f-bf93-db8b36100510",
+          "width": 1380,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24776401",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24776401",
+      "publishedDateTime": "2021-12-26T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-digital-debt-collection-fintech-trueaccord-explains-how-they-leverage-machine-learning-to-streamline-key-processes.md",
       "title": "Digital Debt Collection Fintech TrueAccord Explains how They Leverage Machine Learning to Streamline Key Processes",
       "excerpt": "TrueAccord Chief Product Officer, Laura Marino, a civil engineer turned product management executive, discusses how firm leverages ML.",
@@ -130,49 +173,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
-      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
-      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "publishedDateTime": "2021-12-22T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {

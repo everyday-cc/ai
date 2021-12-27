@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Problems of the Brave New World: AI and Ethics"
-    excerpt: "With the increased pace of technological advances and the latest popularity of dystopian series combined, often we find ourselves asking where the world is going, a dystopian world as described in the book 1984 or the one as described in Brave New World,"
-    publishedDateTime: 2021-12-22T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/problems-brave-new-world-ai-ethics-aslıhan-akin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFiSUqCXo1wuA/article-cover_image-shrink_600_2000/0/1640181984260?e=1645660800&v=beta&t=BFWDloRIT3dawYsYcdCk3tAI1Q8ifIQAYzC_6ZO_QAY"
-        width: 639
-        height: 540
-        isCached: true
   - title: "Nine Things You Should Know About AI"
     excerpt: "AI – the adoption of computers or machines to produce intelligent behaviour – is expanding rapidly. In the last decade it has conquered a number of tasks, including agile legged robot locomotion, recognition of objects in images,"
     publishedDateTime: 2021-12-22T16:48:00Z

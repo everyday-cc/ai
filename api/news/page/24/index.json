@@ -2,6 +2,170 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-04-clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology.md",
+      "title": "Clearview AI on track to win U.S. patent for facial recognition technology",
+      "excerpt": "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology/ar-AARsODG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1f/c6/e26ed93a4911a083f7f881137c54/gettyimages-925054788.jpg",
+          "width": 3000,
+          "height": 2041,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-04T06:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+        "domain": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-kindering-helps-children-with-special-needs-and-their-parents-live-better-lives.md",
+      "title": "Kindering helps children with special needs — and their parents — live better lives",
+      "excerpt": "The symptoms became clearer as Kuba grew: airway problems and difficulty feeding after birth, weak muscle tone, seizures and severe cognitive ... half the need for services on the east side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "publishedDateTime": "2021-12-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond.md",
+      "title": "Top Developments in Artificial Intelligence that Will Shape 2022 and Beyond",
+      "excerpt": "AI is the force behind many modern technological comforts. Everything in the digital era is powered by artificial intelligence and its sub-technologies. Check out the lists of the top developments in artificial intelligence that will shape 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
+      "originalUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Developments-in-Artificial-Intelligence-that-Will-Shape-2022-and-Beyond.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-04T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-4th-international-conference-on-robotics-and-computer-vision-icrcv-2022.md",
+      "title": "4th International Conference on Robotics and Computer Vision (ICRCV 2022)",
+      "excerpt": "International Conference on Robotics and Computer Vision (ICRCV 2022)--Ei Compendex, Scopus. Web:  Time: September 25-27, 2022. Venue: Wuhan Institut",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
+      "originalUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F193094599%2F527281139803%2F1%2Foriginal.20211129-081740?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=361%2C0%2C772%2C386&s=5793cc950dd438fc42333e98e81671f3",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eventbrite",
+        "domain": "eventbrite.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-ai-for-speech-recognition-market-may-see-a-big-move-microsoft-google-amazon-apple.md",
       "title": "AI for Speech Recognition Market May See a Big Move | Microsoft, Google, Amazon, Apple",
       "excerpt": "Worldwide AI for Speech Recognition Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
@@ -998,194 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-yellowfin-launches-guided-natural-language-query-making-true-self-service-analytics-available-to-everyone.md",
-      "title": "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone",
-      "excerpt": "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals.md",
-      "title": "The IBM Research AI Hardware Center: Solid Progress, Aggressive Goals",
-      "excerpt": "IBM AI acceleration technologies are so good, most AI chip companies would be better off licensing the tech from IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8eb11777726e67d5e1c91%2F0x0.png",
-          "width": 742,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-onset-of-data-centric-ai-and-why-its-here-to-stay.md",
-      "title": "The Onset Of Data-Centric AI And Why It’s Here To Stay",
-      "excerpt": "The present circumstances indicate that if a company or organization wishes to start working with an AI system or wants to improve their current operation, giving much more emphasis on the data component will be a huge step forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-1-dividend-king-is-leveraging-ai-to-stay-on-top.md",
-      "title": "1 Dividend King Is Leveraging AI to Stay On Top",
-      "excerpt": "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
