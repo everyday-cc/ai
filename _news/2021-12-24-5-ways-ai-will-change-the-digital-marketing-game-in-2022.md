@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/401518"
 webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Entrepreneur
@@ -30,75 +30,48 @@ images:
     isCached: true
 
 related:
-  - title: "How To Use The Power Of AI For Marketing Success"
-    excerpt: "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive."
-    publishedDateTime: 2021-12-22T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/"
+  - title: "4 ways artificial intelligence is improving mental health therapy"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kayleigh Bateman, Senior Writer, Formative"
+    publishedDateTime: 2021-12-22T18:00:00Z
+    webUrl: "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/"
+    ampWebUrl: "https://europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/12/22/4-ways-artificial-intelligence-is-improving-mental-health-therapy/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg"
-        width: 1161
-        height: 774
+      - url: "https://europeansting.files.wordpress.com/2021/12/2021-robots.jpg?w=901"
+        width: 901
+        height: 1199
         isCached: true
-  - title: "How to Use Artificial Intelligence for Chronic Diseases Management"
-    excerpt: "Artificial intelligence supports efficiency in disease diagnosis, medical decisions, and treatment as part of effective chronic disease management."
-    publishedDateTime: 2021-12-22T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/howto-useartificial-intelligenceforchronic-diseasesmanagement"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/howto-useartificial-intelligenceforchronic-diseasesmanagement"
+  - title: "How AI digital twins help weather the world’s supply chain nightmare"
+    excerpt: "With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time."
+    publishedDateTime: 2021-12-23T04:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-digital-twins-help-weather-worlds-supply-chain-minh-duc-"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://healthitanalytics.com/images/site/features/GettyImages-1132986308.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
-    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
-    publishedDateTime: 2021-12-24T22:00:00Z
-    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
-    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 54
-  - title: "How AI-driven customer personas can transform marketing"
-    excerpt: "The world is cautiously optimistic about using artificial intelligence (AI) from customer data due to privacy and AI-bias concerns. At the same time, AI is proven to boost sales for businesses. It saves the time it would get to get customer insights manually,"
-    publishedDateTime: 2021-12-26T18:39:00Z
-    webUrl: "https://customerthink.com/how-ai-driven-customer-personas-can-transform-marketing/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/system-927147_1280-pixabay.jpg"
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjDXhGSu_fVQ/article-cover_image-shrink_720_1280/0/1640234797885?e=1645660800&v=beta&t=uK8srha1mrhuPJr08udbBHf3s0532Cv8Tpgvor8ThZc"
         width: 1279
-        height: 719
+        height: 720
         isCached: true
-  - title: "Applying Design Thinking for Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) has been a dominant player within the top digital technology trends shaping our global economy and society."
-    publishedDateTime: 2021-12-22T22:02:00Z
-    webUrl: "https://www.bbntimes.com/technology/applying-design-thinking-for-artificial-intelligence"
+  - title: "Will Artificial Intelligence Change the Stories?"
+    excerpt: "The Reindeer are chosen and line up for that last inspection before the lucky eight head out worldwide. Rudolf will lead the way again."
+    publishedDateTime: 2021-12-24T18:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-change-stories-ray-stasieczko-1e"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Applying_Design_Thinking_for_Artificial_Intelligence.jpeg"
-        width: 1280
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFC2rNylJzEgA/article-cover_image-shrink_720_1280/0/1640369457018?e=1645660800&v=beta&t=_wn983QULaC26g-MQif8zkxh5OPE3fjPkFfzyKAqYi8"
+        width: 1138
         height: 720
         isCached: true
 
