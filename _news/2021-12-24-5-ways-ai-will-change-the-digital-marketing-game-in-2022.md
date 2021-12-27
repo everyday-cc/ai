@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/401518"
 webUrl: "https://www.entrepreneur.com/article/401518"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI digital twins help weather the world’s supply chain nightmare"
-    excerpt: "With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time."
-    publishedDateTime: 2021-12-23T04:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-digital-twins-help-weather-worlds-supply-chain-minh-duc-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjDXhGSu_fVQ/article-cover_image-shrink_720_1280/0/1640234797885?e=1645660800&v=beta&t=uK8srha1mrhuPJr08udbBHf3s0532Cv8Tpgvor8ThZc"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "Will Artificial Intelligence Change the Stories?"
     excerpt: "The Reindeer are chosen and line up for that last inspection before the lucky eight head out worldwide. Rudolf will lead the way again."
     publishedDateTime: 2021-12-24T18:18:00Z

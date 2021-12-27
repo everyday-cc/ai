@@ -41,6 +41,22 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "Video of Tesla-driving dog was staged"
+    excerpt: "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,"
+    publishedDateTime: 2021-12-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/"
+    ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Ihhqv/i2TZ3vemI6xYKusfvz6JHje3/NQJk9zv/LOl+0p6WQMIztRSYd4Qz36ZQVouTzQZ8JGZyCXQc4Gb6op5sZ4UV9FypwW6TjZZSyTTm155WJVhFRXEIx7mtFBqGFpRESNieOMeX6+Bic0zJUbxtTLHWXCFrmxwxcoKT1XGdcdMvOJYfoe/HIAoX71Y3HRkS8nyYfbP6HcjOv6WsFrqXluIiIYLm5+ykaVVFaNSmEx3p4J6ts+AUL1N/2yoIbAGAfw1s48U3ap5XMIZ+8kpxH/aq1Da+02nozmQ1DTiFjNjqwBCYC4ZCCYLOgyIETf0xgq/xEtZdnsWWIJfMteo9j6uu87ortbSV9mLigMtk=;PTPSkRrCv6Jbk55P766QaQ=="
 ---

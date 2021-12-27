@@ -63,20 +63,6 @@ related:
         width: 630
         height: 415
         isCached: true
-  - title: "Japan to create legal framework for level 4 self-driving cars"
-    excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
-    publishedDateTime: 2021-12-23T03:12:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Japan-to-create-legal-framework-for-level-4-self-driving-cars"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F6%252F8%252F38058683-6-eng-GB%252FCropped-1640229034photo_SXM2021102900005043.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Xa9xd/5a/ZplwEzaKluRcXSc/tuSDx6FthkUt7LPHAGLFlLWtvKProCTMgAP9lHM0K/l1wO2H2q4P46Mdz9WOeJNd+w3NyZe1ccOsjd+GQ1HKBoECShAmyNM63OcYVx+98Gdcmr8vKHda/i/Jq5i+1G0KxfvChUhCFTw8CVY02J4ubcNUNr983UcAe3b/3SlkewW2QBiPQ8RXPKlqvwaSCPyLiPI66vTu8q1BnAXWC5ppab3hOX6wRM36osBBS3/ucs63G1S8Var53rY+5QQbPJhuV0dKk05JnnaHsZZ907s+pgmVgzjY8f8dtM+InxgFwtBeC0LKvIbE/hxblQdqgokxs5M/GPV4PUHuNr4hOA=;jI8y3XobOjUhkxjTjIBzkA=="
 ---

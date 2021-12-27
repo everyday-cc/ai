@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F23%2F20211223000692_0.jpg"
         width: 630
         height: 415
-        isCached: true
-  - title: "Japan to create legal framework for level 4 self-driving cars"
-    excerpt: "Japan's National Police Agency is set to create a permitting system for the use of level 4 self-driving cars for transportation services in rural areas, Nikkei has learned."
-    publishedDateTime: 2021-12-23T03:12:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Japan-to-create-legal-framework-for-level-4-self-driving-cars"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F6%252F8%252F38058683-6-eng-GB%252FCropped-1640229034photo_SXM2021102900005043.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "Ewy6dPQZ/1mbVNPywCcDfxNfFqHasY3KbTpF/pfcH8wUw3rZs4Fq4aRyTaT1ncmOQ5vwxa/Yk5kKcT0idcRUJSu2Q6uRwfplJAD/K80MUz4lODPUyF36bjCurUnpSWzM6z9/VtaMNVZqySLMrNV+A+5wg7FBLuwEQ61JrvmSOjPZQuhn7SLC+h3JEdBR19Go6b69/1G1m5B6LSX2nPcV6vzjiHIEYmwDLa2YF15Y/vnatWnTWhgmQxsF7nk7dLNbTOJfMTSJsL9jHS0noNtQpBpiTyC9Tj8FcGE5++xEGYsNNPZGYml04V5/WCENVfPDGkIdcbLzxNTWOevJaqiMMd7j2JPaC7gRc83Wfvl6aVagWlHXGjsvkuiL8TLNUhRxJL0rZTiTMzRtcBQ3Snyw7iGfYPJPbAB/Z6dfQ/LYgwxANX3Zi6quIZwjoQhswb7Vtwkay+FrCosjJdaDS4UyRM8AU4U6JYQ8NYqwsk5eE19vj6rlyxzRipIQuTs81bjHIRMDm4KUk7F7l5wXdzE/bg==;dRAFmCLhfyuB9dDe7E3ixg=="

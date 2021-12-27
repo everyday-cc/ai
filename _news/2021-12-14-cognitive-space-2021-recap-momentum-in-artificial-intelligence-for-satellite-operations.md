@@ -2,9 +2,9 @@
 category: news
 title: "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations"
 excerpt: "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth"
-publishedDateTime: 2021-12-14T10:15:00Z
-originalUrl: "https://businessghana.com/site/news/business/252586/Cognitive-Space-2021-Recap-Momentum-in-Artificial-Intelligence-for-Satellite-Operations"
-webUrl: "https://businessghana.com/site/news/business/252586/Cognitive-Space-2021-Recap-Momentum-in-Artificial-Intelligence-for-Satellite-Operations"
+publishedDateTime: 2021-12-14T10:49:00Z
+originalUrl: "https://www.businessghana.com/site/news/Business/252586/Cognitive-Space-2021-Recap-–-Momentum-in-Artificial-Intelligence-for-Satellite-Operations"
+webUrl: "https://www.businessghana.com/site/news/Business/252586/Cognitive-Space-2021-Recap-–-Momentum-in-Artificial-Intelligence-for-Satellite-Operations"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 250
     isCached: true
 
-secured: "vsMU6rI1BB//F5e3M1wQ+m3RW4W75KDksQwbjE+IR5cN59K0ZAfoFfFMB/0CMUEPP0FE5h4i6db0B4iaohO9fCWRFX9i2B/Y/LQsvpMJAKAUGLhJs0KEVM6aKaKluXnE8rUETZ8TiYvS/9pRmtgLa+1hiVZcptKrCLI3bnQNmXKYXZaSv3crtw1BDsCFQSBjqO+08wO9cOXi8ez4dMit6S4xcpdr+vE9Q5lEPNxsixhdendb9lmOrkSLNO6uWLTIYjpKN3zk1iy+Ig7JLdOADFMuSEqa7CmE/u5+bw+1z5hZz1PTasna2ldlpRcTYJT+3LYdFs4nwrV//wzHjp42Yi7WrGmXERFuaVNce8UAvQQ=;VpMOF9mXVkce/WePZ+BaVw=="
+secured: "uEeru6nhSjt5dQgaIE4mgFrkvcLCxbilqZbHw/ZOEGDAjDVT3n+1LBjDkZN2pxif1CQR0y+nGotRh7L+ke4pH/5caEwlqA+BLVR1lIprj+LZPV7+RlXdsWwfdjPgmmUPdLrRWjxcn3sKilztNqA1Ro5KI3D2s56aPLg9FA/JlhmRXbyz+0VJBLFyvpoUWGO+rc0JZweQm6hcU1DpLf5CPG6HGjAFhJ1I8LLIvBpdE62sFyBu4RzHdQ3LsuG3L/Jbb9rIz+DFri0TTmgZRhW1QrfDNntEpuYDNjjQe7m7wVCXyQfpoz6YYpqd5o6D/YIrN+D2ER4mmHrqdrLyNeRGJKUCRljyZbD4cAxwI4SAyR0=;KQ3VZ392lJPgnD3K61VrsA=="
 ---
 

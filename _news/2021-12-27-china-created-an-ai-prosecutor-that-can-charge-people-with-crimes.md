@@ -58,6 +58,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
+    excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
+    publishedDateTime: 2021-12-27T18:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z
