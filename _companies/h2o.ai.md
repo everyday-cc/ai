@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "h2oai"
   url: "https://twitter.com/h2oai"
-  followers: 23053
+  followers: 23052
 
 size: 51-200 employees
 yearFounded: 2012
