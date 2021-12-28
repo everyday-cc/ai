@@ -7,7 +7,7 @@ originalUrl: "https://technuter.com/telecom/airtel-and-tcs-demonstrate-5g-based-
 webUrl: "https://technuter.com/telecom/airtel-and-tcs-demonstrate-5g-based-remote-robotic-operations-and-artificial-intelligence-driven-quality-inspection-for-factories-of-the-future.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 441
     height: 371
     isCached: true
+
+related:
+  - title: "Airtel, TCS successfully test neural manufacturing on 5G network"
+    excerpt: "These solutions help manufacturers build smart, cognitive factories which mimic resilient and adaptive behaviours"
+    publishedDateTime: 2021-12-28T12:19:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/ji9xdx/article38053925.ece/ALTERNATES/LANDSCAPE_615/airtel2021-08-30T111652Z483559939RC2NFP9O1PCURTRMADP3BHARTI-AIRTEL-INDIA-F"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "JN3Cq7qWTLJ50YD3am0JkPsLqlMHVK3k2ztBXqAXSnR53a1bfERyh7KyMAuiSw9D6i6WlMyTzMqkIj/BhF8rcuvtiuhoV612bGS0KAz1mYjYWqvdwmKqONpqD6SYgjGyVqzSLYpBGkx1sFZ7p9UraPJu0hvPDdIOyKVOGjXVJV+4q/oH+lFJpNH6MJP1yymVj3li5huueeP4ZPJ7AOz3CBoubdfrDgLjpHylAtyyXrShslpT9oFc1OYSvDnE5ewuiR2L3B7tOOOt5aCWOgH4dP0lu63fGBYCjw/2V4kVm5u1TDBcHmC2kD6xzg3xfyogCzFe3rZwpEgfS5tg+PYBAZ1AvUcIL8Nn7woR9sgyLG8=;JfiCo5cVRosyjQUT5wr1LA=="
 ---

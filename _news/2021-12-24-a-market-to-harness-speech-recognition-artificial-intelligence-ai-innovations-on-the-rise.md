@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/amp/"
 type: article
 quality: 110
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
+    publishedDateTime: 2021-12-28T12:16:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5164798-global-artificial-intelligence-ai-in-education-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 29
 
 secured: "wl8d1VlF3/xQWz7/Gi2sm5T0ZdgFAklYLgmbjq4loIbnpy/tdh3NxQEcxNnlHhWFldwPBF/5nqhekGXXkiLZRBH7i0nHVnrFW8a3pVkMfSfizRGDthaGNs5p0P9j7QgK+mKu36qre+47z1uQJFtQJFhY906s053gMOGjm9zVjF9qYQVxqZc45dKU9VNacpmmTYoPxU4jkTwq+dWAvRqkpV85tKbz1dRA/SIvknehvd5Iz5GZuItmdP5iK5DFareZ19D/ZV72B+C+X2EEcUH1yfE8Epdt6seXB1i/FvdbmY2UDnT48ugGQLuCN3eGGIr5tCTi+hznu9jpRraQ67/UAjXBo2xwOkhkZ8u+mkf5z3ej+6RelxICyctzawmFBU1YNwtUXodSqL2rXrNO3adBWukBcl9LRQoHF/N9SN+Q2hk/jsseX5zd+oCHup3G/wKzOqggL3uDy1y+SdeMj7TbxVugB8kOmBoH+3rU+UQ/mzx6FfOpcrWaei/f7J6I2Bk3XsOOIqz5e8QODja5fHFC0w==;JwU+YR3SnYDD0KOBYxwgSQ=="
 ---

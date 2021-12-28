@@ -24,22 +24,6 @@ images:
     height: 474
     isCached: true
 
-related:
-  - title: "Baidu-Backed Jidu Auto to Mass Produce First Robotic EV in 2023, Robin Li Says"
-    excerpt: "Jidu Auto, a joint venture between Chinese search engine Baidu and automaker Geely Holding Group, will start mass production of its first electric vehicle robots by 2023, Baidu’s founder said. Jidu is planning to release the prototype of its robotic EV as soon as next year’s first half,"
-    publishedDateTime: 2021-12-28T04:14:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-backed-jidu-auto-to-mass-produce-first-robotic-ev-in-2023-robin-li-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 35
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-backed-jidu-auto-to-mass-produce-first-robotic-ev-in-2023-robin-li-says/18553691775434752.jpg"
-        width: 720
-        height: 480
-        isCached: true
-
 secured: "ms+w/tVSCAjx0zd58wlq/MDA5SFe8syu723qkyvsM+HNgmvGycsirVJwvJrhbiYP4lbr1DCUSCJR2sXH6JxxzYYe6avd4BYCTche3KYD6s012esBNVl0+Djuydhc0YrOdZ0/cEJ2XzwJfebEVOFnEzMsjc38qowruO3pM6uS5kJrMlBvmcS80Gw89LwC+3dLTHcF4SO6+csNLrejehrBH9qvi3e8eCT40CVKonYaFNdV1gyBEFFIsRjSmOAQ0N+thW/5LKz2j0/a8wpjIvG2NzeJ4f3lR3D6A3/q37ehao8sMjjX9IPuADRLGjjrmIX+0PrrLEGtZiZeqwKVoTcxOlUp6GJpQ0rRmfqWYx+o1v3pxHosS6g/iEdgqDCvm5qb5hAKqJP9WVm6fHoPRUk7m0QQL4ebc0tJUrAzMM8Q4JBez6fmnSfhD7+BA17yFStLQrxmS4PRQ+1cX06j+M0yX8XFoigQtigW/Gx3HOG8WLv1xACbWTJgPtQOthFdJO3R9mDF78H1RID5AeWvvnAkaQ==;AFJA4z+LBmv2PKDUcS4N2w=="
 ---
 

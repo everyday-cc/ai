@@ -1,46 +1,22 @@
 ---
 category: news
 title: "Is artificial intelligence about to transform the mammogram?"
-excerpt: "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world."
-publishedDateTime: 2021-12-21T22:34:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
-webUrl: "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/"
+excerpt: "An MIT researcher who survived breast cancer has devised a technique that seems to predict, with unprecedented accuracy, whether a healthy person will get breast cancer — an innovation that could seriously disrupt how we think about the disease."
+publishedDateTime: 2021-12-21T19:45:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
+webUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/is-artificial-intelligence-about-to-transform-the-mammogram/?amp=1"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
-related:
-  - title: "Is artificial intelligence about to transform the mammogram?"
-    excerpt: "AI - known as Mirai - can predict nearly half of all incidences of breast cancer up to five years before they happen."
-    publishedDateTime: 2021-12-26T11:22:00Z
-    webUrl: "https://www.detroitnews.com/story/life/2021/12/26/artificial-intelligence-transform-mammogram-tdn/8988452002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8988452002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8988452002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/21/PDTN/7ca1bc65-076b-42fa-88ca-c254b01bbef4-tech-mammogram-26b3f2fc-6259-11ec-a7e8-3a8455b71fad.jpg?auto=webp&crop=3500,1969,x0,y178&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "uHs9CapSoXtjeGJsACyNtDLQ5H79bWhNa1qp58MKWHYYa4cTAz74eSRXoS50Ww3x3Bmo+FeF8bEilmvY0zBfQJdhu7yGQDKoaD4KUCfwlmUbvDabjcYM4Xz2bKIEBerWTT7w1Bj8u3p3zlJbI9fcElN3YkMgVGqCB/Bs9EmCqdYTt7joSAPW6z6ebTKKpxRHQre5bgTIdaIdcOAmwzuK2QSqKtnvX4VX3/4x1O8tn+HOz9nIN7P1lEV0XVgE0aawGL+fgCKyTRJB1oHzYRWqD60MWGS5s2gJoqH0oDMMgSbza5GBltcR95hCRh12qme1Z3KsdYAiIUny0+CaSlE2g044X1zLpO8VvIwoDCbtvaXGF+OBQcM4+bSxOt7jiI7PpWypVUljjP3lKY8VOfnEEXd0KrB82yqX6yy1y1eVEw/muf2OtUZh7jn2UwWKe7+09+FIRWq+ya9vmnv0UyYlc3qsIvXDgsODwYTq/wexGvzn6a3pgnG3MTCk/xZHfcq6QKf083YfIPNOlV0Ua0J3gg==;HhKcm0tsksJGeFzs6NwBqw=="
+secured: "cxRmdbWszn3dZh05OuIhIaWPlTb8xSlAQKnke89uBsWvHXRHPuVKZwoG7jo17rDhWYDIVsygUfoFngq66DFkRNSx9I6ZO31cEMm0D7CE/rRjToUjXvPY+zGXV6QZHH4ojS7N3oSNatySyTDiWHIWqaFTh+S+RmUkBtExxtFwqMdeJBKSVfwVOtmu+hcPxzVqt9W4xinFlVUdpKxxbxcULm6M/0gBDlWAlBZTpNzFXJIt9u4pa8zygb1BR8hu9ZnYkIItY7uR+WCgQdsZYR86S3WMxnaNoBLleEX8XVgrT2oZHFUeO3pdeC0FyYvmrfLy+7LvhQI8ImLZTp28nTLD3vacDFdVtqrTnEIZHfv79lTjZGZRjec2wzPwVY3X7hVXpfXZMYtUXz108v7KMyduUY4IQJzyoaPV8WoDUOP3mCPyUi5UthFlteIhi1nvR/M/gUugaR33M0CcAjAyGsVAu5hWKYyayORHArdf9to78j86cE7PjNIjnO6c9U6KpnFcsIbvtZ4BqUG6yDMg1qQUaA==;JKUjnKhNztOr0YfY/xe51g=="
 ---
 

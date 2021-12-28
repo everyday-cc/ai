@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu JV readies for robocar launch"
-    excerpt: "Smart electric vehicle venture Jidu Auto, a joint venture that tech giant Baidu Inc and carmaker Geely Holding Group set up in March, plans to unveil its first concept robocar with level 4 autonomous driving ability in the first half of 2022,"
-    publishedDateTime: 2021-12-28T01:06:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/28/WS61ca6305a310cdd39bc7dc9d.html"
+  - title: "Tech Insider: Baidu’s First ‘Robot’ Electric Car, BYD Establishes Self-Driving Venture"
+    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu’s first ‘robot’ electric car targeted for mass-production in 2023 Jidu Auto,"
+    publishedDateTime: 2021-12-28T11:46:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-28/tech-insider-baidus-first-robot-electric-car-byd-establishes-self-driving-venture-101823242.html"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 48
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202112/28/61ca667aa310cdd3d8239ec4.jpeg"
-        width: 711
-        height: 474
+      - url: "https://img.caixin.com/2021-12-28/164067647615162_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
+  - title: "Tech Insider: China’s Latest Self-Driving Unicorn, Nio’s New Electric Sedan"
+    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Self-driving startup Haomo gets its unicorn horn after new funding round Beijing-based autonomous driving startup Haomo AI said Tuesday that it had raised 1 billion yuan ($150 million) in a series A funding round from a group of big-name investors including Meituan,"
+    publishedDateTime: 2021-12-24T11:30:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-24/tech-insider-chinas-latest-self-driving-unicorn-nios-new-electric-sedan-101821853.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 22
+    images:
+      - url: "https://img.caixin.com/2021-12-24/164034345637056_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "F3i9b6jYMBdcifP7WziBeA7R4Vjssh5SJ9NGsc5I6cTtMseXjIhGJR0piGLqJ0XgtOtiZ/5HiwSsb5y0u9S5ur9X+zhutVYPTqKwcMjMDkP+kro0vexR2uRGccx/OH+mXOtnAOBrW4xm0UC5KLI8LgKOUQyI15/jz8KJzZsBCWdFEG6/HjhPXXkDGoMRm4kTMb1sitaI9qskKWeKS7ptLZZlu8jU4zJPM9N9v2Bt3Pu0YwqsN9ZfIVx02ewBbfvxRstTwz8UMoHh75pFpHwI879aO49Y9ZTtWtPR6/p8R0qqrvZrL9SiAu9PVm5zuxyU2ZSYnkVkyuHSl1Knetf1giD5kcIpN0vBS8BRdnKszyP1Dw/jfiwloYCV2cUuZuBOLon9JkpvVtOvrW4RjiFMuoENilUL0QWsNZVBHqcLTK9mX7StXycG3lQWEgbfQY/ghNzkOZlQPQXuRhE3oPCAPNPs6z9XPlbKJBIUtJ6l46JtsDTsS9NCCTZk//wGAmxqr79XJ03Y71o1B4T84QW4CA==;pDs0curOga8lQu7tXTVlng=="
