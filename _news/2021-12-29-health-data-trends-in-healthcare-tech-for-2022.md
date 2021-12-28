@@ -3,8 +3,8 @@ category: news
 title: "Health data: trends in healthcare tech for 2022"
 excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
 publishedDateTime: 2021-12-28T18:52:00Z
-originalUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022-0"
-webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022-0"
+originalUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
+webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
 type: article
 quality: 39
 heat: -1
@@ -79,6 +79,6 @@ related:
       domain: tmcnet.com
     quality: 32
 
-secured: "z5NjL+69lckQlHXpFG0iE20POj3a+fKIdVDzkHUglc5Bcbd6VvjkI5/kqkOZa+9gCI8MkUSlEnE9iURcS+yo6B2CsLCl+dZgw8i7RYIRadBn1ZV9XdePb45jdfhRyl5OSyi3tjd/7M/hwF5tJEh85qg5ce7AE8juDn4t2+JnXaPPs3rEnS+lNwUYTrjGbDdFJDFWFMgdw9beO9jD8iAJbUqMQO/4Iv20tBkjHweIMTQzXhe1WIQnMsDuZX1PWuwCT08T7MVa6UmNA0zSieKeTjma9C2lHZohuLO1OtSjr2roO5BxfAb7ImZlCk1YOnh/V6DnLts1c7MXmbbefFTBT+fhm8x23hjUiiOMVCQwfiI=;3X1JZCd1fBgaPkOWRxnAsA=="
+secured: "rZVbWsk4J822S+axS74M8oQsc1GqI2uI9rINPHNeJ2EvP8Usi33ZzNNJtTOLZnRRDP5nYtGKQ8WFC6YTjVskDpLVGK9o5loMYhdM+gd6hTouG/FfOL/fmTeD2CE3xfEtQz8503BAdAKjQUFF7490znJ7T/1ENVg3NzonHkzkQtJAMwpgV20c1z6HL4fMARnsVYmFksgEsKDjcAK2Yb4q5FzjrJmFVIGqxV3cEoXCaIel5tIiSmOXpd0NDQUvLukhnP1WV+IGhsyfnGlf0B6kMhQV89iGJ8FXmvsRaFtuC7Lp24AaozX0Y77oBBG5i0TK62okV7ReLzaROeHybU0hsDvy29pO1n3DiLnnlPRO9Gg=;9zQO8UdqqJb2fI2yA9B6hA=="
 ---
 

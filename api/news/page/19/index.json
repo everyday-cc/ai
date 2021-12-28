@@ -2,84 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
-      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
-      "publishedDateTime": "2021-12-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-sensorimotor-exercise-linked-to-better-overall-quality-of-life.md",
-      "title": "Sensorimotor Exercise Linked to Better Overall Quality of Life",
-      "excerpt": "Sensorimotor exercise, which aims to improve the neuromuscular system with reduced pressure interventions, such as robotic-assisted training or aquatic exercises, was found to have the greatest total benefits on both mental and physical health-related quality of life (HRQoL) among people",
-      "sourceUrl": null,
-      "webUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
-      "originalUrl": "https://multiplesclerosisnewstoday.com/news-posts/2021/12/09/sensorimotor-exercise-linked-better-quality-of-life-ms-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2021/11/Yoga.png",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multiple Sclerosis News Today",
-        "domain": "multiplesclerosisnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-bad-robots-arley-sorg-and-josh-pearce-discuss-eternals.md",
       "title": "Bad Robots: Arley Sorg and Josh Pearce Discuss Eternals",
       "excerpt": "Thousands of years ago, the godlike Celestial Arishem (voiced by David Kaye) sent a squad of immortal, humanoid Eternals to Earth to hunt down alien monsters called Deviants, and to provide",
@@ -1165,6 +1087,92 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-these-tiny-liquid-robots-never-run-out-of-juice-as-long-as-they-have-food.md",
+      "title": "These tiny liquid robots never run out of juice as long as they have food",
+      "excerpt": "When you think of a robot, images of R2-D2 or C-3PO might come to mind. But robots can serve up more than just entertainment on the big screen. In a lab, for example, robotic systems can improve safety and efficiency by performing repetitive tasks and handling harsh chemicals.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-tiny-liquid-robo.gif",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.amp",
+      "publishedDateTime": "2021-12-08T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-hospitality-facial-recognition-tools.md",
+      "title": "Hospitality Facial Recognition Tools",
+      "excerpt": "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "originalUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg",
+          "width": 622,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/zoox-pass",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass",
+      "publishedDateTime": "2021-12-08T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

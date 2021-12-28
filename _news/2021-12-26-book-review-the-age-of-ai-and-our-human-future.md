@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future
 webUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future-johan-steyn"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 744
     height: 400
     isCached: true
+
+related:
+  - title: "2021 in review: Oversight questions loom over federal AI efforts"
+    excerpt: "The Biden administration established several artificial intelligence bodies in 2021 likely to impact how agencies use the technology moving forward, but oversight mechanisms are lacking, experts say."
+    publishedDateTime: 2021-12-28T20:37:00Z
+    webUrl: "https://www.fedscoop.com/questions-around-federal-ai-oversight/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
 
 secured: "o0eBsPgDgnxx7jLwE8I1YyQiPdpd+c/PuCQ7MtYiq2KdulyD8k9BLN9IHlgn9TG4eL/I3yQeWAIine0sv7JNSJkhLRzlYS68xQOILr8IYQCReIoBW6DtyxTUBS127eS1Y8Dq1GDVTUqf1sRjFI0uNrC88uQZkc8D1h6F6EWib2OFmfIR3BkEDaW5Krl167I83sQHHMzh68UItdvXVwqDn9W5XO1eqODJBpEFEp0mLWFMH84c9qobN40AqQCnaPUqfy9qqzwrJc9Y/S6OxS8c5U5abiIGQjJR9v2UuHRUnWdF0KEsEHuMWM5KSH7gyyGeeJwv8LtUEKNsgm1ogYzUxV+pGOvcAnolzVOCfzs3CaksAouxtWZKh98xKsFf1ZupkZI96Gh9y9vPB4DFJaLop/GYOj3NYyJSs/emPbHPPPF9NYumqmFY+dUcEScfSiV2hcC8CjlfEtL2wQ9FBY1x1M3yQOpVRc3uTLTs1NSC01XxgOJjrqb3VZuSNCuoqCS9nW1TSH/zvpCCLlrOhszAWQ==;V2c/cIT5O8ZAwWrG5EZX7w=="
 ---

@@ -1,25 +1,44 @@
 ---
 category: news
 title: "China pursues tech ‘self-reliance,’ fueling global unease"
-excerpt: "China's ruling Communist Party is pressing entrepreneurs to make the country a “technology superpower” that doesn’t need the United States or other foreign suppliers."
-publishedDateTime: 2021-12-28T15:03:00Z
-originalUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/"
-webUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/"
-ampWebUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/?amp=1"
+excerpt: "To help make China a self-reliant “technology superpower,” the ruling Communist Party is pushing the world’s biggest e-commerce company to take on the tricky, expensive"
+publishedDateTime: 2021-12-28T02:28:00Z
+originalUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/"
+webUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/"
+ampWebUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
+cdnAmpWebUrl: "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: 12WBOY
+  domain: wboy.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "SHSZyGywN69rtD2/G+AgLeiucmuZSCLFqcBbK/shnaLgc0zYd2o0DKyMpCRcpGqpFQmWpuP4ExP4IiJ0h0Rvs9zJfMz+vgT74w1JSx/MV/35YM6TQAdOQufAQUxf/5sgpPGWs7W68a+BUQ+TB2Ih/bSEJ9VdfGErfomJa3sW/0bX5zU5wTQs3HANZUJEmIFEixz/DLlFKM4VTe3ez8eZl3EAX51YF1Jgqpqn6PCt/CcFD9zDcLh2XCduI5PS1EfDoZTo8HjCV2hKtINqBftvgia7qI/HARj6uyFvh3y6DB4CNruYh4U/aaLJDKZpU1fEXIXFGMaV454b3wMfqoY2CfPkaASv0ZHxfRE5+U7XEHyIm6VkYqIuHH78BptVWnRUVq+xhnjyumYOFAKw3o6cUlX1PhLi3JtPhXroBusLrj5f4nFcnXg3S/wfRGnDse0z7r/ICFH5qUgTikVMH+TKMtJwfSCaY1y0l/errsqZoFCMKw2eePIHLrzazOI99f3BMfi48wZSx6x2aGC/G3QLFQ==;vkY+KK/1AEmPGPvMvAEgMw=="
+images:
+  - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/12/aef2a7ca6ed1453087c2326c1949a244.jpg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
+
+related:
+  - title: "China pursues tech ‘self-reliance,’ fueling global unease"
+    excerpt: "Beijing’s campaign is adding to tension with Washington and Europe, which see China as a strategic competitor and complain it steals technology. They limit access to tools needed to improve its"
+    publishedDateTime: 2021-12-28T18:36:00Z
+    webUrl: "https://nypost.com/2021/12/28/china-pursues-tech-self-reliance-fueling-global-unease/"
+    ampWebUrl: "https://nypost.com/2021/12/28/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/28/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 24
+
+secured: "JqcLfvRAMfWpGyjX+oJ43wWyZtygBedVDfk2+Ev14tgOKRYWSShzIQ3CtnXfFdhafk3E9UC2GCjrjDi1i8DqD/nHPWOQn5Wlq5ZAjCbOU5ZfZ21zJtzqKL9wCmSRrYbElLAttQlnqL9Pom+DORvZ+ZbxDgQe3TaDZIHRthJANtAB8wDHrchjjDcLYJbviVR15LnuCFBuYXtRrexGTkweoCo/MNrpp+C1mXGBQsavPdoPxZu6LqyhQSQ5rmJai/iGd/Uvff1XoIJJl0/YnHc5MELJ3dxBrfMCNO/eAkclkleM1uaBy0SlUo4OTQY1CKv/QYayKv9vbY4d/PEn+bTlo/01XQ0gH5nF50pBMd/MpIc=;n7YlvFl6IJNLUODyOAjr+Q=="
 ---
 

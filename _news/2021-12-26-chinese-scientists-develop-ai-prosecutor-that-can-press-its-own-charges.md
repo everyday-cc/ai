@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -126,6 +126,17 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
+    excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
+    publishedDateTime: 2021-12-28T20:05:00Z
+    webUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
+    ampWebUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    cdnAmpWebUrl: "https://humanevents-com.cdn.ampproject.org/c/s/humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    type: article
+    provider:
+      name: Human Events
+      domain: humanevents.com
+    quality: 32
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.thenation.com/article/society/artificial-intelligence-kissi
 ampWebUrl: "https://www.thenation.com/article/society/artificial-intelligence-kissinger-schmidt/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/artificial-intelligence-kissinger-schmidt/tnamp/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thenation.com/wp-content/uploads/2021/12/Kissinger-Zoom.jpg"
@@ -25,6 +26,6 @@ images:
     height: 907
     isCached: true
 
-secured: "qHZ2aDnZgintFLh98DN+NKRL2x4SdmfyM4u1zV+ZQ7pS2LlN/iZKU6hOyoH7HTFLWmiOdG7+H+1KGDEiPOXkkGdy+b5yGAiX8Y/D/KVDKbEiWKmGmNRzgFdXou0jo4Dc5yVOoEwqL1UksLUiTm+7JHeRyji+mhNsn1gLJmgHeciH5IrXHgb1RqV/3bZa4DrmZhi90jIJ/0e8sq7kCbliDFIcdi5rSOuNeNvuxLAA4R81646w/WlVbto1r0Q0e+y01MFc4kAbmNhdMPRo/UFVcXwKR36DdbZ+GcvHxjbHj1hm4MkLx0vHF7f6zAxuHhAjqNmEVz+7MlVVVBIGZusz3Q62n23c4uwoe80y/xrOM/Y=;v6ZXYJJIUkI7CCMfjlHAFA=="
+secured: "cqtETKeHTlKHVGbTHHM2LrhVktrEDj4O3nZ5ryzDD6xd/Ljgen/hXa7VeH7vu4kixxLeYWfF7Ju1sCdmSBn0s1BV1W+NKPNt6ptTIV5InwRERUVenqCA/FDOg9ZKu3Bxbah7xavCPVuP68IIvMD1afLtsZR40uVljz2i4QKPQpQyeMmjBuQp27ft3hl1/mbPW+YA9Tz5jrk/EYbwDZl3rH4lnDtrL1rOlDzYuAlp4Yz98qHLIZgElcDSu8NxO+DgE/xYs8QJJpTqLPjr+I9bWTRzPgHynS3q0fFbjl2CVb+2kWoONcYId2+AxjwrG8hGKvaKHFuFknWoac9oDqWUQFswvftGLInsx8mDbl035+F6LLL6GVvWW3WkTIfE+yZPft5yGrK13OZJm9Mg8EVjky2gW16oPlFwQ6Q04pWbjKKlpYokQ/M5YKUYrbBr3qsMlq88RTzJLRTj/SXhB52s3GCWpAqkCIaJCi9OJgZRDWbCgNdXDN26TAa9xQU6fn8rXaXC+G71IFrd5S1e67L9xw==;LjDc5hLRtjcUIgfp3VQavQ=="
 ---
 

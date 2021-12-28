@@ -62,7 +62,7 @@ related:
   - title: "Health data: trends in healthcare tech for 2022"
     excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
     publishedDateTime: 2021-12-28T18:52:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022-0"
+    webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
     type: article
     provider:
       name: HealthLeaders Media

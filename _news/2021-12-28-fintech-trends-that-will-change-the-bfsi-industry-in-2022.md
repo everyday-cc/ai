@@ -57,20 +57,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Global AI in Fintech Market Trends By 2022 | How the Industry Will Witness Substantial Growth in The Upcoming Years, and Top Countries Data"
-    excerpt: "What is the current market size of the AI in Fintech market? AI in Fintech industry report offers an inclusive"
-    publishedDateTime: 2021-12-24T03:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-trends-by-2022-how-the-industry-will-witness-substantial-growth-in-the-upcoming-years-and-top-countries-data-2021-12-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
     publishedDateTime: 2021-12-28T00:49:00Z

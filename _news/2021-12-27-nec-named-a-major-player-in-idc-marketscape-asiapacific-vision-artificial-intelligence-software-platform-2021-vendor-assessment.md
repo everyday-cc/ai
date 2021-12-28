@@ -1,28 +1,22 @@
 ---
 category: news
-title: "NEC named a Major Player in IDC MarketScape: Asia/Pacific Vision Artificial Intelligence Software Platform 2021 Vendor Assessment"
-excerpt: "NEC Corporation (NEC; TSE: 6701) today announced it has been named a Major Player in the IDC MarketScape: Asia/Pacific (Excluding Japan) Vision Artificial Intelligence Software Platform 2021 Vendor Assessment."
-publishedDateTime: 2021-12-27T03:07:00Z
-originalUrl: "https://www.nec.com/en/press/202112/global_20211227_01.html"
-webUrl: "https://www.nec.com/en/press/202112/global_20211227_01.html"
+title: "NEC named a Major Player in IDC MarketScape - Asia/Pacific Vision Artificial Intelligence Software Platform 2021 Vendor Assessment"
+excerpt: "NewswireToday - /newswire/ - Tokyo, Japan, 2021/12/27 - NEC Corporation announced it has been named a Major Player in the IDC MarketScape: Asia/Pacific (Excluding Japan) Vision Artificial Intelligence Software Platform 2021 Vendor Assessment - IDC."
+publishedDateTime: 2021-12-27T00:00:00Z
+originalUrl: "https://www.newswiretoday.com/news/176869/"
+webUrl: "https://www.newswiretoday.com/news/176869/"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: NEC
-  domain: nec.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.nec.com/en/press/202112/images/2701_ogp.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "NEC Recognized as a “Major Player” in IDC MarketScape: APeJ Vision AI Software research 2021"
@@ -54,6 +48,6 @@ related:
         height: 324
         isCached: true
 
-secured: "sYZxvwQFsnCfRImpZuczqTpObojvCjmBTjXgtob93LGdes/kkBJtkM0rPQ8zHfB+2g5jzP/uz/GB6ZESRyZMiZrQN1yJsJ2SfRrp0UKHoG/3e6grnQqHt+9xEwjsO/ruIB2EZqsLu7Mah3HIrMo8jytVRiR/MHR71OsHv0Cp0JgjUH5+GJvz+pBfObMQ7Qh+b/CwQW9llOazozynrC8li0Sl9e3NZ0P5loS22T+fzCs5Rk2tNIq8EYUpms28gZXx+zMkFew2Yv0wB5e0GufAVhB2I2fcOTd/er2Or37zP6y4SVvNTK+nwyGdgL1MSO5xRFGshYftO9WYkGtMfB9Kqvm5rU3mdn94bajv0ofvXVUPDNZj9FhVX9IoozJkaCBD4M0Cs6T5akUV/uW7G1azynvAuJvumi7ITjkk29LL7vVCMbuZlPgpY+MplV9kqhFAnjcdzP9/yxZmEUAOwDohlLQJlBCta0OyvkhQn43zwRJ82CDHUF2NN/D+OpoGzOD3c75EDvSDeofRBrjb2dC/qQ==;RcjpNPqtcoZpMySmr2fqKw=="
+secured: "F1cRMBIzx10ZBZlb/gMAhJNNLCx5g+Bp/bD5bMbGbNqhsHRngOtko1fljzuJyKeQv7WT6u2tM3s3TQ4R4i4Yxczfj948TvRXVMLD0JTIaRA5PCQN1e7oZufQB85NblbvFin/t0lLz05YD7VwNAn6MShZW5j71QEFxAWlFk5LbtQLpsuws6L7f0/WeW2T0t0fijcjqxerBmMnFz7V6uiuO+wkibct5/mDKUhfVOr54RvNdbsKX3e5qZh8usoXjxjMd7jKhlGxfK61K/t6jpXel4u0//0o+B2HxJKkxfR03Ro6WdrUPJn0JxKuPJ+BMoHUN6HhZeEl9SbAiCNPai16fWg3LSYoywWLgjj4fSOSb6HlkNIkCA3C1MfEXAM2YTqVKZlzY53acYzF1FL7X5XN6pGrWUpurFgq0UEqf1HNj3CUD3Of8x1R8DllRAdty3WvjruaMR+OUT3v8b3Aw8csQocYkRPowqH+2N91L3zEYA+zh/uBOYGvIPxjhZpu8/TD6jGUeyGi4mzGKY8TZC+bQA==;lsqCJzzo4IGMoGS4XQVwPg=="
 ---
 

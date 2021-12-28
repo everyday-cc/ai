@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How do Public Officials Make Land Bank Decisions? Artificial Intelligence may Seek Patterns"
+    excerpt: "Al Jenkins has what neighbors called “the nicest house on the block.” The renovated historic structure has fresh gray paint and manicured landscaping. A side lawn looks like it also is his."
+    publishedDateTime: 2021-12-28T20:09:00Z
+    webUrl: "https://pulitzercenter.org/stories/how-do-public-officials-make-land-bank-decisions-artificial-intelligence-may-seek-patterns"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 44
+    images:
+      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2021-12/IMG_8764.jpeg?h=08b866d1&itok=kyAv-l_s"
+        width: 768
+        height: 600
+        isCached: true
   - title: "How Do Public Officials Make Land Bank Decisions? Artificial Intelligence May Help Show Patterns"
     excerpt: "This project was funded by a grant from the Pulitzer Center and provided by Eye on Ohio, the nonprofit, nonpartisan Ohio Center for Journalism."
     publishedDateTime: 2021-12-28T09:46:00Z

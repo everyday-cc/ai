@@ -122,6 +122,17 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
+    excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
+    publishedDateTime: 2021-12-28T20:05:00Z
+    webUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
+    ampWebUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    cdnAmpWebUrl: "https://humanevents-com.cdn.ampproject.org/c/s/humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    type: article
+    provider:
+      name: Human Events
+      domain: humanevents.com
+    quality: 32
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z
@@ -137,6 +148,6 @@ related:
         height: 536
         isCached: true
 
-secured: "qxIbdK85LkUgaFZDBe+pPxM7sgk+Fy9fYjSsTV/bHyedx4FMu3NMw4mM6pPDUPrKQ8ips3EPj4Ljek/eSjqelKEhxDvoOIZkhnuxtuDDyJM/ofSCbn3Fvgpn3vtHq3Ua6d5Cmx39LvWNIY39y46XpgkWu6lOHTo2qILAugjTyWtvQDlu9bqK5ogz2MoSmI1ph+TA/Jcv0aJz7pPzrV6t1uIYO0RhAJdA5OFWvQaw0w7WN7i8qVgG4wwnxVbCPewpWONggWpH+vBK3siuo4lI3hYbtmgATOEoDwuDvBj21MYzI/BgtT4YsrzlM67y8yMt8y+iJ+MzsFMGBJrZ2zyLWa+cpvARiIadOdnhClmke8Y=;1eP2z+rs21Ea+jY8NNoX5Q=="
+secured: "/UhkufWjTUrYR3N8OJozVyQVe2b/QymlXnmi5jTxheufKGcP+EgAgQPIifzffjyQ+UYxHLfTL9m2/1tVs/yTWcUOnzTl/2y246NKHI2TE4s7mwGNkY4IYEYM+3iizzesjMCz/Noeo2hTlkYQ2Sc9TQxGjwqewXqJe160xJtGKAHCPGNubAYmCYuAU7gijSm7jzai3ArcEwaHQdPdKi290g6W6EXZmP08ZXdaHS8A0TNH7EJQrM26HQweswogpiWlLgaUxngOwAV0mE9qqyAaOBdFq/c18Hdu1JyJEaYJthrPaLv50NuISkd2GpAaC1FOBdubYF8njZ2J8ZoblPSMyavMP2LXkVYbzwuOelfe8bvTk6Oxg1IT91Dz+bu5EiERcNfwxK1lN7io4OqbzfyxMjWqghZ5tZGiLFp+ZqfYhZzdBgLS2KLw0UlcWZ2mNVhGuX7ddAhzYsoTfD0Gbe39ehkSbfbmyi+fC55gSuyrzw7flHZhcooRyWiwLsPd51QdYwcg00ibOXcJ7I7P6ywQew==;X091SLB3TtOXzzxBI2uC2g=="
 ---
 

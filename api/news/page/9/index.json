@@ -2,111 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-12-17-characters-for-good-created-by-artificial-intelligence.md",
-      "title": "Characters for good, created by artificial intelligence",
-      "excerpt": "MIT Media Lab researchers offer positive use cases of AI-generated synthetic characters for education and well-being. A new paper provides an open-source, easy-to-use pipeline that combines AI-generated models to create synthetic characters with facial gestures,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
-      "originalUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/ai-characters-for-good-mit-A1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform.md",
-      "title": "Gtmhub raises $120M to expand its automatic OKR-tracking platform",
-      "excerpt": "Gtmhub, a company developing OKR-tracking software, has raised $120 million in capital, bringing its total raised to over $161 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "publishedDateTime": "2021-12-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-17-connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr.md",
       "title": "Connected, Autonomous, Shared, and Electric (CASE) Market – Outlook 2027 – TMR",
       "excerpt": "and Artificial Intelligence (AI), has led to a revolution in vehicle manufacturing. This has further helped in the development of driverless cars. Want to know the obstructions to your company’s ...",
@@ -1251,6 +1146,101 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-mediatek-launches-energy-efficient-5g-smartphone-chip-dimensity-9000.md",
+      "title": "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000",
+      "excerpt": "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more.",
+      "sourceUrl": null,
+      "webUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
+      "originalUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telecomtalk.info/wp-content/uploads/2021/12/mediatek-unveils-energy-efficient-5g-smartphone-chip.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
+      "cdnAmpWebUrl": "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/mediatek-unveils-energy-efficient-5g-smartphone-chip/485827/amp/",
+      "publishedDateTime": "2021-12-16T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom TALK",
+        "domain": "telecomtalk.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
+      "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
+      "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "originalUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49bf43168e0748129940868d7c398b542e442d36/2021/12/16/7d3883bc-3c2e-472b-baee-fed126dee970/screen-shot-2021-12-16-at-1-45-57-am.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1149,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "publishedDateTime": "2021-12-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

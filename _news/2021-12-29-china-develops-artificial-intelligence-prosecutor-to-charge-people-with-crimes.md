@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
-excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
-publishedDateTime: 2021-12-27T18:27:00Z
-originalUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
+excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
+publishedDateTime: 2021-12-28T20:05:00Z
+originalUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
+webUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
+ampWebUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+cdnAmpWebUrl: "https://humanevents-com.cdn.ampproject.org/c/s/humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
 type: article
-quality: 53
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: Human Events
+  domain: humanevents.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
-    width: 530
-    height: 300
-    isCached: true
 
 related:
   - title: "Chinese scientists develop AI ‘prosecutor’ that can press its own charges"
@@ -122,17 +116,22 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
-    excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
-    publishedDateTime: 2021-12-28T20:05:00Z
-    webUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
-    ampWebUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
-    cdnAmpWebUrl: "https://humanevents-com.cdn.ampproject.org/c/s/humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+  - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
+    excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
+    publishedDateTime: 2021-12-27T18:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
     type: article
     provider:
-      name: Human Events
-      domain: humanevents.com
-    quality: 32
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z
@@ -148,6 +147,6 @@ related:
         height: 536
         isCached: true
 
-secured: "xhmn/8g9s72ilyC0RFM8L+5HFipcGFzzqPvLf3H2ITndb4eJUQroZIQM19sCG6sazrQz1aPgmZFeaGq3HuPPbq7AbRJQYUS1ugbadbPVig5cIjTb0vAzxUHQuS0fFOna5k8bIa5TF9MMQ1lWAnjW2Jwa2oNOFi7kuewfgEzCHPFyrEPQngt28qyl2+Gyi9/dCbueUgZ26joF+YESYHeKIgQJ1eViVs9SSSR7jmOxhK8sbiIUhZ8h/yNmtrIi47xLGCmhVjW3IjuJU1GsmmExCos4GG4h+ITy4hnr8QRZUSwQI/RWir1gNoRlWyWXb5QiWCzdJ4mZ85+x6LMcK7iRp6fFvQgCGU3GB6jvt4RYoiPizZA9n/2wLNApfn4hIgthErhbHhlZcgbOnlg8GwR/wEWNB4kLyBkwQJ8N8XqJs5ErBXeUOj0oqFEWv1m+HXB0IKWAGVEkSCcajfLyvgRZ4QqljeE19g8lsZloqn6b6wZe3sdR5v0LCx5i8605m85P/Z4+KFudAT3BimAnke/ccQ==;xo5Lu5002BIc4/eNImeR4Q=="
+secured: "sPz1hEDCGAmLZGUMSVdnZq2o9FzlKmx92Dn5W0abj7ss9dsQtc2ZxRP+VKpvfoS+Do8a7RFlDNwo+4+UKbLYrU+5+m5kE0keyuOZZUtTl/qUtdzaNyhegt4zFYweiy6lg+MOmkFL/UqD464zBK12gRbsLhn6O1slXQNxZWQBnv97E5cwrkpfh/qRm04VvPecs8aO6z7A+wa6LIKzsuLF2E6CBTGptAs6JWRJyq6RlzC7sUTerHOTHXPk4DGtE4/yIGI4YC22vHKLrS96tfgYAGUpVNPTc4BJtl1tR8FM7CnHyr7X+h5WLLn3MqLQtw4WJm3K02gBDBxw9dSCytuOWgaZTcutVNR+PHaSLRBiHuE=;uSQTMBpP21fxWadTFxRbkw=="
 ---
 

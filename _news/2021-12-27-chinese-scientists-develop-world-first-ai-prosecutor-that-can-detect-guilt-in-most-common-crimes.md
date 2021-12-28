@@ -136,6 +136,17 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
+    excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
+    publishedDateTime: 2021-12-28T20:05:00Z
+    webUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/"
+    ampWebUrl: "https://humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    cdnAmpWebUrl: "https://humanevents-com.cdn.ampproject.org/c/s/humanevents.com/2021/12/28/china-develops-artificial-intelligence-prosecutor-to-charge-people-with-crimes/?amp=1"
+    type: article
+    provider:
+      name: Human Events
+      domain: humanevents.com
+    quality: 32
 
 secured: "T/5b2HVNyvkmzCavTlt6yiiTiuk4+Osc5iCD9TAByHBjEFMqmwzY8v4CbqOGbg+o4Zj7EpbE7aj0HFI75o703D2ZRp22vcfiJb9qEsSpwec1q9LjY9n3pVlLq6sAunWd07xkNZsMi048TS9jTkW1PE5YSmbtxXeRkRMfOoPP8ieZ+ckRYmPq/K8ZRYRtdQh6hVyFqm6I3Cqp2LSOHmNLU7E3J1fZX5Sz5eVD2msOSfROHaR12EiWI7oNGylb0HNT+3n9d/luitFryIuvMUIVCXYsECDViQttvEb/sNtKLQ4FtVwv1ck9+dwtpc2jYloNvNKKovqtF/HayW/8VZ8S9/Kudt7FpEFqX3qu9GSMyuBOYx68tTrPEeW6mpoXP5h+5ad7gIY02LOSC3QmML0TzszqIuYpWxQWKACYOj6W6OFAQb9n5aMF6w5b2MFErzgxwtCRoRrymAm3Yf79NH6BBztZUnM9EsIoJlQQ5XzF7wZjjgD1j4QjmPUK6MqJfZczO+vnfikSn3QWMwzMKKN23A==;6JHgdsTE6Xyqye8bc4mygA=="
 ---

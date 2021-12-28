@@ -26,22 +26,6 @@ images:
     height: 641
     isCached: true
 
-related:
-  - title: "Pope demands humility in Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
-    publishedDateTime: 2021-12-24T05:00:00Z
-    webUrl: "https://www.timesnews.net/news/faith/pope-demands-humility-in-christmas-speech/article_6464f85c-6403-11ec-8c00-979add8d1fe0.html"
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/9/f0/9f076b5c-6403-11ec-87d1-f7bac99ead47/61c4937590bf1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "Dw7gF0OQT73HXseNC+7s4UWnbms8gPPJcy6L1AqqsVmI2NdT8c+QaabLr/6RYhlOmbUoP7E7oy/t3t7Q6skawIm6VYSS1CWKbL9+ylva0kDrf2MZcKQLDz8j4m22Uh3gRbPWfsnXPfWPp44IERVnX1JRdUt9s1KrckIBLn0qf1SvxpC3mnOfkFCdml0gILwaGs8OP0cuDhuyqkDwtR/Is33DcXLZo8B+hL+O0z8GuThJ3x84V0lHTaL5UOyJA4s5WN0a2RGzQW8EfxYHbr2Zq5OR5owpHmUgdf/hSGl870v/u5tlYOjhwI/odnys8oJdodOF4GhaAC7JQ0ijd1xnhsynDVO0MYC9CpLlG/TbFAcvVQGo3fjv9tMHt+CHNYOUJ/DskQTW8njNKqWoV0yPpXl/0GVAJHqHiTI+X3ZYswiKR8GqZOYxFf8OEFa51+nhk5ASLZUdWCvFnZ6yoHSFdy/pkFrNomzzes428j+cL2JVZ1zBXXxOrXNWb9KS0nwJEZh/JRohEhdW5T81VRNE0A==;6SWf6NB0eYLaYE2UNrQV6A=="
 ---
 

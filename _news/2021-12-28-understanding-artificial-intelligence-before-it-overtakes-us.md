@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/amp/columns/article/understanding-artif
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/columns/article/understanding-artificial-intelligence-before-it-overtakes-us/841233"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: timesnownews.com
@@ -37,20 +37,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 54
-  - title: "Understanding the AI revolution"
-    excerpt: "Artificial intelligence (AI) is emerging as one of the most important issues of our time. Whilst we are growing used to the idea of AI impacting our daily lives, key questions remain; is AI a threat or an opportunity?"
-    publishedDateTime: 2021-12-24T03:33:00Z
-    webUrl: "https://www.newscientist.com/science-events/ai-revolution/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/23173938/2022_live_keyasset_1200x800_ai_rev.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "hicsIwPy+7s6lp2p7UZ5EJRT+BSALFIpitHTscp0iYV1Zv5JUN7dGCV7NewMZwuoGrleEpbGuhUoQ+zZdzlS23yalTh0VCqqBpXtbqu14cppjmka56eOVtWB+JO8OLjwIw2m+zsOzj/KCcxMEcRCClcTRrZ0uYGA2PY6tIJTNvcceYvTsWqpBwfMZPwj1THLGOQkJmMgUxGQZJQeOCsTqeYn7/I+Q0dpiKwNn/3q0WTIPXeBrbesLVoYgk5dBgCryl8JoqO2PMuS0+F9AhKtkabSCWnJwX9KnSwhjkRV66aVf9B+C38mboqV+qbSMjMGWI0FP4A8xSxxbdw7wpMgP9YGps1UUTq9WCDY+IDIMPA=;oohnEjwTs+VbP05WDn2oRQ=="
 ---
