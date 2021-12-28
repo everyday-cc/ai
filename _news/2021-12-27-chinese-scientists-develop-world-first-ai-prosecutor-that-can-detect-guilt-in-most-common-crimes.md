@@ -56,6 +56,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "China has developed an… AI prosecutor?"
+    excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
+    publishedDateTime: 2021-12-28T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 57
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
     excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
     publishedDateTime: 2021-12-27T12:33:00Z

@@ -2,6 +2,162 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-16-octoml-helps-enterprise-automate-with-ml-platform-for-the-edge.md",
+      "title": "OctoML helps enterprise automate with ML platform for the edge",
+      "excerpt": "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-cxos-are-we-ready-for-ai-to-assist-human-decision-making.md",
+      "title": "CXOs: Are we ready for AI to assist human decision-making?",
+      "excerpt": "One of the emerging areas of AI use in corporations is to assist in human decisions. But is it ready, and are the decision-makers ready for it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "originalUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "publishedDateTime": "2021-12-16T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022.md",
+      "title": "Motional and Uber partner to launch autonomous delivery pilot in Santa Monica in 2022",
+      "excerpt": "Motional, a driverless technology company, is partnering with Uber to launch an autonomous delivery pilot in Santa Monica, according to Motional. Uber Eats customers will be able to order restaurant meal kits to be delivered to them via one of Motional’s retrofitted all-electric Hyundai",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/image001.png?w=1024",
+          "width": 1024,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
+      "publishedDateTime": "2021-12-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-france-latest-to-slap-clearview-ai-with-order-to-delete-data.md",
       "title": "France latest to slap Clearview AI with order to delete data",
       "excerpt": "Controversial facial recognition company, Clearview AI, which has amassed a database of some 10 billion images by scraping selfies off the Internet so it can sell an identity-matching service to law enforcement,",
@@ -807,40 +963,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
-      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with its Robust, Scalable, and Novel Computer Vision Technology",
-      "excerpt": "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America Technology Innovation Leadership Award in the computer vision space. The company offers innovative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/",
-      "originalUrl": "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-16-neural-network-20-a-game-changer.md",
       "title": "Neural Network 2.0: A Game Changer",
       "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
@@ -1085,102 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-the-many-faces-of-artificial-intelligence.md",
-      "title": "The many faces of artificial intelligence",
-      "excerpt": "Artificial intelligence has graduated from science fiction to being applied to almost everything. One dental hygiene manufacturer has even claimed its electric toothbrushes now incorporate the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-robots-taking-more-jobs-because-of-covid-19-pandemic.md",
-      "title": "Robots taking more jobs because of COVID-19 pandemic",
-      "excerpt": "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "originalUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

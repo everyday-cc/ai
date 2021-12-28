@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "2nd largest in AI talent pool, B'luru ranked fifth in the world"
+    excerpt: "Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI), at No. 5 according to a study by TIDE Framework and listed by Harvard Business Review (HBR)."
+    publishedDateTime: 2021-12-28T00:35:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/12/27/1138119-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Bengaluru Is The World's Fifth Most Diverse City For Artificial Intelligence Workers"
     excerpt: "Bengaluru was ranked fifth among the top 50 cities in the world for having the greatest diversity of Artificial Intelligence (A.I.) workers.The parameters that were measured included"
     publishedDateTime: 2021-12-25T17:14:00Z

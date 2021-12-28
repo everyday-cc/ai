@@ -346,6 +346,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
+      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
+      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
+          "width": 600,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
       "title": "A desert robot depicts AI’s vast opportunities",
       "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
@@ -440,7 +483,7 @@
       "originalUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -916,7 +959,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1019,7 +1062,7 @@
       "originalUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1161,39 +1204,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-guardforce-ai-co-ltd-shares-close-the-day-172-higher-daily-wrap.md",
-      "title": "Guardforce AI Co Ltd Shares Close the Day 17.2% Higher - Daily Wrap",
-      "excerpt": "Guardforce AI Co Ltd shares closed today 17.2% higher than it did at the end of yesterday. The stock is currently down 65.7% year-to-date, down 65.7% over the past 12 months, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
-      "originalUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
-      "publishedDateTime": "2021-12-25T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

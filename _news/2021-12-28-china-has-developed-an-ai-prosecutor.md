@@ -1,28 +1,28 @@
 ---
 category: news
-title: "China Created an AI ‘Prosecutor’ That Can Charge People with Crimes"
-excerpt: "Researchers in China created a machine that can file a charge with more than 97 percent accuracy based on a description of a suspected criminal case."
-publishedDateTime: 2021-12-27T14:59:00Z
-originalUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
-webUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
-ampWebUrl: "https://futurism.com/china-ai-prosecutor-crimes/amp"
-cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-ai-prosecutor-crimes/amp"
+title: "China has developed an… AI prosecutor?"
+excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
+publishedDateTime: 2021-12-28T00:50:00Z
+originalUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
+webUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
+ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
+cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: techwireasia.com
+  domain: techwireasia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
-    width: 600
-    height: 315
+  - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -42,21 +42,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China has developed an… AI prosecutor?"
-    excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
-    publishedDateTime: 2021-12-28T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
+  - title: "China Created an AI ‘Prosecutor’ That Can Charge People with Crimes"
+    excerpt: "Researchers in China created a machine that can file a charge with more than 97 percent accuracy based on a description of a suspected criminal case."
+    publishedDateTime: 2021-12-27T14:59:00Z
+    webUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
+    ampWebUrl: "https://futurism.com/china-ai-prosecutor-crimes/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-ai-prosecutor-crimes/amp"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: Futurism
+      domain: futurism.com
     quality: 57
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
+        width: 600
+        height: 315
         isCached: true
   - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
     excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
@@ -105,6 +105,6 @@ related:
         height: 536
         isCached: true
 
-secured: "VfwFMWWSiMbpvJeaH4EmFQXVIzGZRcQoJS/VgY5cmgfLN3s4b9kZn2BZ081xfYb/+k/BlRrwyu+bSG+9thaJzCAlYtKerUpu9ie6RBXNYuMD3901A6TG91x/ewVAWPIA59rhD2vhbMwmbDWbFYDYzRAXe4jIr7l7FO1VSyOUet6TV+h/lS7+rPjRT2CxLWHBnldll/k1Bgj7vaWABQBr9ZFY1NYHQmePyuQJy2/UCk/xsIQNVougm+eskQvl+l3Z4wG0SCftGiFTw9GawrMk7sRXWjSGD6gU+8hIfq/aG0aSvkkXkCnLsGWx1K8HZlxISJyejcvhDBJ1DGdzGFzz0jPlI3JtzMWoBIorrrnUWco=;8wNymeoz2y2dPywl4v02lg=="
+secured: "W7EPuQCHX/CQ46uMJoHX5O8xnaH4Dr2hj7xxxyRTp1lfjMRTqy3KIM5CwB9g0z4w3IQcMyu5DOJj9WqM3vNhrysrbO5ZHB9PhaJrfHP7/8z6iGDYtWQg2CMMLU2SjFxWk34pp0CcRjY65IqjYQjJyHkMo2H+Z7BEEPU2uGcMukoumnKEx2qRrUn5+EC8HZcpArgUjge/0Xuij8wWKz45gVEebTLNz6+pEaNRsyDQmPeDD9rlnbPy/hD1yRqXxgL20lANjrx6Xm8H404l5oQunDl7qswy10M6MDffRUBuabt4ZqH2h6PR2W/Xwfk+DgXnb6pfR1x1rIgSFvocDt1aQtyOJBKyosehix/29obuDug=;gGGd9nED5t2Pc5Xf5/r7zQ=="
 ---
 

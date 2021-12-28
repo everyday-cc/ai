@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ..."
-publishedDateTime: 2021-12-15T00:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space 2021 North American Computer Vision Technology ..."
+publishedDateTime: 2021-12-15T14:03:00Z
+originalUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
+webUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust"
+ampWebUrl: "https://www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/frost-sullivan-recognizes-algolux-improving-vehicle-safety-and-function-its-robust?amp"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-    width: 1500
-    height: 785
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
-secured: "a8vAZLHYP5RAfnOdp7TcFHhJvm6S+Pr8+DmHlzeMw3fK4DSEDbHjeo7KHengFXa9guwHEF01pAZ6mz/SueynYl4Q9kAdvxfTrDGL0/hj2H6ELpFFZSLmA3sm9gN1nBsw/4u80zSQUUEvXWAUsf5/ge9zCLacQGg4etLwzrCoLH9SJt55zhZabVA8V8H2wl+12M7NHBMjrazljzvzMHAxsgGkP73UnsfyHbjIh/xx7H+QaNds9CQob4wltKGEz493EWdzIvDLdwsbOEIsHrILxpUNQYy5tLKL95dhMCuzXbdnU9afGCRsACAa1gof3x9gyyOgjbXjHKHKE4hZjbegWcPqPF+wwvoZYURq42nnlMY=;tk4S5v9vx3OhtC+F8whEWA=="
+secured: "ggGbzupgnv8zw9HDcxUcOsK/kkuIrnWHkSIIFbxT6YHlcylKEcpNWxXQSi6oXsSdwEgwVg80HJlfxPLQS1XDpdAuWym0t5aYLojYInHfcx1leByRFrVLrV8s+aHMy0eS7S9k2ob/z4/C4VKSe7wynhmCKdBE84ghzVtP/J3wjyEQpTc5+HxT9IRFK4saph1y7PW2TCRUGXczyahsLszziZI4FFNYrqSNmcGvAxgMl5R5aEXcztQp67Un0wnX/x+zU3F2TgwivsS5zgFBeoLrxrD5cAyWYD6+0yLMv4hTrlUbnG9Q+ZMuBL0IzshX0Rjbo+RZS1qqmMjeYPeipwMM4owJoQftTh8RSPH4T18nVzI=;oUoJwfM2LkzchvSw4n0gXg=="
 ---
 

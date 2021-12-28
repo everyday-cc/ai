@@ -2,6 +2,167 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-20-new-theory-of-consciousness-in-humans-animals-and-artificial-intelligence.md",
+      "title": "New theory of consciousness in humans, animals and artificial intelligence",
+      "excerpt": "Two researchers at Ruhr-Universität Bochum (RUB) have come up with a new theory of consciousness. They have long been exploring the nature of consciousness, the question of how and where the brain generates consciousness,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/braincells.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
+      "publishedDateTime": "2021-12-20T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality.md",
+      "title": "DARPA invests in AI that can translate instruction manuals into augmented reality",
+      "excerpt": "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-supriya-lifescience-ipo-subscribed-7151-times-on-final-day-qib-portion-booked-3183-times.md",
+      "title": "Supriya Lifescience IPO subscribed 71.51 times on final day, QIB portion booked 31.83 times",
+      "excerpt": "The company has a healthy balance sheet position with a debt/equity ratio of 0.2x as of H1FY22, says Geojit Financial Services. The price band for the offer, which opened on December 16, is Rs 265-274 per equity share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
+      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/supriya-lifescience-ipo-subscribed-7-93-times-on-final-day-qib-portion-booked-61-7843101.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
+      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
+      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-overjet-raises-425-million-series-b-following-explosive-customer-demand-reaching-425-million-valuation.md",
       "title": "Overjet Raises $42.5 Million Series B Following Explosive Customer Demand, Reaching $425 Million Valuation",
       "excerpt": "Amid accelerated demand for its dental artificial intelligence (AI) software, Overjet ( today announced it has raised $42.5 million in Series B financing led",
@@ -91,40 +252,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
-      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
-      "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1041,152 +1168,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
-      "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
-      "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/greynoise-log4j-log4shell.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
-      "publishedDateTime": "2021-12-17T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-voice-technology-for-the-rest-of-the-world.md",
-      "title": "Voice technology for the rest of the world",
-      "excerpt": "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp",
-      "publishedDateTime": "2021-12-17T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million.md",
-      "title": "Rokt, Which Personalizes Transactions With AI And Machine Learning, Raises $325 Million",
-      "excerpt": "Rokt, a leading e-commerce technology platform, which uses AI and machine learning to make transactions more relevant to shoppers, said today that it completed a $325 million Series E funding round led by Tiger Global,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bcc7b35841548809ad418f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
-      "publishedDateTime": "2021-12-17T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

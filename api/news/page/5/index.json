@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
+      "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
+      "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "originalUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2019-12/469dc663-a43a-4493-8eef-d1aa6d40617a/SamsunG.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
+      "publishedDateTime": "2021-12-21T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
+      "title": "AWS Offers Free Online Course in Machine Learning",
+      "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "publishedDateTime": "2021-12-21T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
       "title": "What Does An AI Actually Think Of AI Ethics?",
       "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
@@ -924,6 +1011,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-rigetti-provides-business-update-and-nine-month-2021-financial-highlights.md",
+      "title": "Rigetti Provides Business Update and Nine-Month 2021 Financial Highlights",
+      "excerpt": "Rigetti Computing (“Rigetti” or the “Company”), a pioneer and leader in hybrid quantum-classical computing, today announced business highlights for the year to date and financial highlights for the nine months ended October 31,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-ai-powers-autonomous-materials-discovery.md",
       "title": "AI powers autonomous materials discovery",
       "excerpt": "When a master chef develops a new cake recipe, she doesn't try every conceivable combination of ingredients to see which one works best. The chef uses prior baking knowledge and basic principles to more efficiently search for that winning formula.",
@@ -1005,124 +1126,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-new-theory-of-consciousness-in-humans-animals-and-artificial-intelligence.md",
-      "title": "New theory of consciousness in humans, animals and artificial intelligence",
-      "excerpt": "Two researchers at Ruhr-Universität Bochum (RUB) have come up with a new theory of consciousness. They have long been exploring the nature of consciousness, the question of how and where the brain generates consciousness,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/braincells.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "publishedDateTime": "2021-12-20T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality.md",
-      "title": "DARPA invests in AI that can translate instruction manuals into augmented reality",
-      "excerpt": "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-supriya-lifescience-ipo-subscribed-7151-times-on-final-day-qib-portion-booked-3183-times.md",
-      "title": "Supriya Lifescience IPO subscribed 71.51 times on final day, QIB portion booked 31.83 times",
-      "excerpt": "The company has a healthy balance sheet position with a debt/equity ratio of 0.2x as of H1FY22, says Geojit Financial Services. The price band for the offer, which opened on December 16, is Rs 265-274 per equity share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/supriya-lifescience-ipo-subscribed-7-93-times-on-final-day-qib-portion-booked-61-7843101.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

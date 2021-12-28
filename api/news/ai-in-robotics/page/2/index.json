@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-how-restaurants-are-using-robotics-and-ai-to-relieve-operational-headaches.md",
+      "title": "How Restaurants are Using Robotics and AI to Relieve Operational Headaches",
+      "excerpt": "This and other challenges, such as the increased demand for off-premises, are leading to an increasing number of operators turning to robotics and artificial intelligence (AI) sooner than they expected. What was anticipated to be a gradual shift over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
+      "originalUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Robotics.jpg?itok=WNraG1nu",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-real-or-fake-robot-uses-ai-to-find-waldo.md",
       "title": "Real Or Fake? Robot Uses AI To Find Waldo",
       "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
@@ -1329,58 +1372,6 @@
         "name": "Play Station Universe",
         "domain": "psu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-berlin-is-leading-germany-in-ai-startups.md",
-      "title": "Berlin is Leading Germany in AI Startups",
-      "excerpt": "Berlin is actively taking part in this AI revolution of new startups and cutting-edge research. With a total of more than 300 AI companies, the city is a European center for innovators and visionaries in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
-      "originalUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1948190/berlin-main-second.jpg",
-          "width": 1387,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

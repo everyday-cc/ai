@@ -7,8 +7,8 @@ originalUrl: "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-
 webUrl: "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: DC Velocity
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 395
     isCached: true
+
+related:
+  - title: "HAI ROBOTICS celebrates 5th anniversary, gets AI unicorn nomination by Hurun report"
+    excerpt: "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotics (ACR) systems for warehouse order fulfillment, is celebrating its fifth anniversary at its new headquarters as it ranks among global unicorns according to this year's unicorn ranking list from the Hurun Research Institute."
+    publishedDateTime: 2021-12-28T00:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=593008"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 63
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "uHtZ8N7Jbq3hS5pqgWF2indzlQueLclyRpzY6L2Xxabqb+vHuzX2EsPXaT4rPHpHWSH862pupP+O4xAxlCrKUjMD9nPTsbPRVKZN+YO2SRC23xMY1bGeNOGMECEoT8JF55ZtldPEnMWzxONx9PMIDcftBIv6yPcMe96d+yPfEl3HaJrFZk1weV9+S32tY0SSaPJk01Gkf9BUfipJNxM9XnLiQ2Y94P7gmpR+3PLLdyJ4Gt6nLC/3rzxFF8IR5URNlBjBsF6oGObwKo4+w+H7aonARTdwTr89tykZILaaXnQPSW1THOXL1MvxMuo30lweHfXCyweijQkSU6UBf17hWEX1/5RYbc0IgPt5fn/42rk=;b+SeXmclektfS3HrnRQlTw=="
 ---

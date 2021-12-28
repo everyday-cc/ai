@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
+      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
+      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
+          "width": 600,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
       "title": "A desert robot depicts AI’s vast opportunities",
       "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
@@ -1307,49 +1350,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-how-restaurants-are-using-robotics-and-ai-to-relieve-operational-headaches.md",
-      "title": "How Restaurants are Using Robotics and AI to Relieve Operational Headaches",
-      "excerpt": "This and other challenges, such as the increased demand for off-premises, are leading to an increasing number of operators turning to robotics and artificial intelligence (AI) sooner than they expected. What was anticipated to be a gradual shift over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
-      "originalUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Robotics.jpg?itok=WNraG1nu",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

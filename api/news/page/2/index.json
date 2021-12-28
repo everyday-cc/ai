@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-26-guardforce-ai-co-ltd-shares-close-the-day-172-higher-daily-wrap.md",
+      "title": "Guardforce AI Co Ltd Shares Close the Day 17.2% Higher - Daily Wrap",
+      "excerpt": "Guardforce AI Co Ltd shares closed today 17.2% higher than it did at the end of yesterday. The stock is currently down 65.7% year-to-date, down 65.7% over the past 12 months, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
+      "originalUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
+      "publishedDateTime": "2021-12-25T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-25-report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data.md",
       "title": "Report: Computer vision teams worldwide say projects are delayed by insufficient data",
       "excerpt": "The scarcity of domain-specific training data is compounded by the fact that computer vision lacks well-defined standards or best practices.",
@@ -10,7 +43,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1169,59 +1202,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
-      "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
-      "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
-      "originalUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEdNV-z4quJhg/article-cover_image-shrink_600_2000/0/1640249825852?e=1645660800&v=beta&t=HREkn0tRYdobd7G6XUQWJOt71A9MPnL3bCRpCmevAPY",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

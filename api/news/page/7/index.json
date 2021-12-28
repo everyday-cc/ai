@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
+      "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
+      "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/greynoise-log4j-log4shell.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free/amp/",
+      "publishedDateTime": "2021-12-17T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-voice-technology-for-the-rest-of-the-world.md",
+      "title": "Voice technology for the rest of the world",
+      "excerpt": "Voice-enabled technologies like Siri have gone from a novelty to a routine way to interact with technology in the past decade. In the coming years, our devices will only get chattier as the market for voice-enabled apps,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dataset.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-voice-technology-rest-world.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-voice-technology-rest-world.amp",
+      "publishedDateTime": "2021-12-17T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million.md",
+      "title": "Rokt, Which Personalizes Transactions With AI And Machine Learning, Raises $325 Million",
+      "excerpt": "Rokt, a leading e-commerce technology platform, which uses AI and machine learning to make transactions more relevant to shoppers, said today that it completed a $325 million Series E funding round led by Tiger Global,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
+      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bcc7b35841548809ad418f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/12/17/rokt-which-personalizes-transactions-with-ai-and-machine-learning-raises-325-million/amp/",
+      "publishedDateTime": "2021-12-17T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-massrobotics-and-aws-robotics-join-forces-new-savioke-relay.md",
       "title": "MassRobotics and AWS Robotics join forces; New Savioke Relay+",
       "excerpt": "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program.",
@@ -1050,152 +1196,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-nauticus-robotics-to-go-public-in-560-million-spac-merger.md",
-      "title": "Nauticus Robotics to Go Public in $560 Million SPAC Merger",
-      "excerpt": "The ocean software startup is working to replace large ships with robots in industries including energy and fishing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "originalUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-453691/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "publishedDateTime": "2021-12-17T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-artificial-intelligence-ai-helps-predict-dementia-risk.md",
-      "title": "Artificial Intelligence (AI) Helps Predict Dementia Risk",
-      "excerpt": "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "publishedDateTime": "2021-12-17T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-machine-learning-certification-platforms-that-work.md",
-      "title": "Machine Learning Certification Platforms That Work",
-      "excerpt": "According to International Data Corporation, more than half of the world's economy will be digitised by 2023. As a result, businesses can expect to increase their investments in advanced technologies in order to prepare for the transition to a new digitised economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDArpJAx8Gzw/article-cover_image-shrink_720_1280/0/1639723108193?e=1645660800&v=beta&t=F86oZfVxpasgz8ygtgnanoP7Yd2lrD9VNwf_jmf21V0",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

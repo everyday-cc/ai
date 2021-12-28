@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ind
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
+    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
+    publishedDateTime: 2021-12-28T00:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "vvPiL04f1ZPRiEQDnyHxTdoxKc64XBGopKZC1tgHI+5AjihrVME2nFa3Ug8wph+tjXZyqyLtlKwtZ/SgGTmPgscFPip1z1pJl3fxW8P2Fb/4vhK6hEwJu9Oh3Ht2T+IgHqc9O6bosjlSIo62uzjEvskUS/LDsKUh069v4MShDBPriwuTZw30J76gjZStWeM6xcQ/pUmvZVrYu6bAhSqmlN5uatu1b7mCDt30Ka5FOufVV8MY5l0FEZUA9kTPBCAhU6b5zj0UCS/QEYPH2XZjNdoVb70TCsLPitbwGsBKVAS4rRAgPVwpg/EKHyvyPDmBrIdqEuhRuIBnRo/1vRaoZ/zp/ERZ0SttSEo7IS6NLOhVjQeRFMgNRdSNr2OJvq2MMqzfpoTwlm/yM9+8sJoK5AucIgS7N5ndIxaGabz57+kgRk6vqocMfDIKWt/wJvfIDGIiJfGeqV5tx5xMSf3EFM2Bxef5YBbdZodqI3IWqOEKDaRqS0SQyqg2jP5uz3a+cJNMUJTw6bFvRYKe8xbE+g==;Xhqfb0dYQ863Zf0/RfQdUA=="
 ---
