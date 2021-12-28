@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-21-ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers.md",
+      "title": "FTC Considering New Artificial Intelligence Regulation to Protect Consumers",
+      "excerpt": "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "originalUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "publishedDateTime": "2021-12-21T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
       "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
       "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
@@ -539,24 +581,33 @@
     {
       "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
       "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ...",
+      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T11:57:00-08:00",
+      "publishedDateTime": "2021-12-20T10:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1083,49 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty.md",
-      "title": "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty",
-      "excerpt": "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "publishedDateTime": "2021-12-20T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-t
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Self Driving Cars Are Good for Society"
+    excerpt: "Imagine being able to sleep and drive at the same time! While that may seem like a ridiculous concept, it may soon be a reality. In fact, Google Inc. has"
+    publishedDateTime: 2021-12-26T17:28:00Z
+    webUrl: "https://studymoose.com/self-driving-cars-are-good-for-society-essay"
+    type: article
+    provider:
+      name: Truth
+      domain: studymoose.com
+    quality: 19
 
 secured: "Ewy6dPQZ/1mbVNPywCcDfxNfFqHasY3KbTpF/pfcH8wUw3rZs4Fq4aRyTaT1ncmOQ5vwxa/Yk5kKcT0idcRUJSu2Q6uRwfplJAD/K80MUz4lODPUyF36bjCurUnpSWzM6z9/VtaMNVZqySLMrNV+A+5wg7FBLuwEQ61JrvmSOjPZQuhn7SLC+h3JEdBR19Go6b69/1G1m5B6LSX2nPcV6vzjiHIEYmwDLa2YF15Y/vnatWnTWhgmQxsF7nk7dLNbTOJfMTSJsL9jHS0noNtQpBpiTyC9Tj8FcGE5++xEGYsNNPZGYml04V5/WCENVfPDGkIdcbLzxNTWOevJaqiMMd7j2JPaC7gRc83Wfvl6aVagWlHXGjsvkuiL8TLNUhRxJL0rZTiTMzRtcBQ3Snyw7iGfYPJPbAB/Z6dfQ/LYgwxANX3Zi6quIZwjoQhswb7Vtwkay+FrCosjJdaDS4UyRM8AU4U6JYQ8NYqwsk5eE19vj6rlyxzRipIQuTs81bjHIRMDm4KUk7F7l5wXdzE/bg==;dRAFmCLhfyuB9dDe7E3ixg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ind
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Year-ender quotes for Startup, Ed-tech, Fintech and Tech Sector"
+    excerpt: "Many of the trends that are showing green shoots today will bloom in the months to come. Having said that, I reckon cash will still be the king in the Fintech world, with banking services becoming more accessible for the last mile of the society,"
+    publishedDateTime: 2021-12-27T10:44:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 44
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
     publishedDateTime: 2021-12-28T00:49:00Z

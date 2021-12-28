@@ -8,7 +8,7 @@ webUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
 ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
@@ -105,6 +106,6 @@ related:
         height: 536
         isCached: true
 
-secured: "W7EPuQCHX/CQ46uMJoHX5O8xnaH4Dr2hj7xxxyRTp1lfjMRTqy3KIM5CwB9g0z4w3IQcMyu5DOJj9WqM3vNhrysrbO5ZHB9PhaJrfHP7/8z6iGDYtWQg2CMMLU2SjFxWk34pp0CcRjY65IqjYQjJyHkMo2H+Z7BEEPU2uGcMukoumnKEx2qRrUn5+EC8HZcpArgUjge/0Xuij8wWKz45gVEebTLNz6+pEaNRsyDQmPeDD9rlnbPy/hD1yRqXxgL20lANjrx6Xm8H404l5oQunDl7qswy10M6MDffRUBuabt4ZqH2h6PR2W/Xwfk+DgXnb6pfR1x1rIgSFvocDt1aQtyOJBKyosehix/29obuDug=;gGGd9nED5t2Pc5Xf5/r7zQ=="
+secured: "R9h5+WpZaGhdr+iTC29k05ARO4YJ8MacZAH+fLnNL1AZwSMR4Z0z06J9MFDqwyulGO2dutPL5w3l3H+KVPQFL7NHIH1lbjM2QgbZgXU2VjrhxJ5dlZQQpXQsaAYluJ/Zabkob5MgsxlUwaq0JXOpKQVMyXeQAmIVuxjNXnhVE7xHZ3lDqXZ79Ib4yqUiSUHUXw0MYLvSbee+nMovBopZjENYSup/3yjY5kXn6gSu+ewQcReIJF/KjZmQvOAI1CNXOXEqHsylWi9jQ2JabqKl/AUNPjopPDk3x26aMtyRMZ7bUe3cBUFKreiKxwwECEyrSZYXki/Pln3QJZucdIApQTUKo6kpWtLHrLv6/DBCHqLem7GhV3/jDp49/1rT25kqRZhg83ZSeDJkt77nVenlDZfA3crlwsC/ohDsqKYWoi38Z7/+6b6oyfhM2sTGjGskitxNfTcyRtgKRKs0VD9rzQixGhdutOnRZ63OxQRRT6347cROKsBqIuDjal5hRxHAz/4pnC21nD8mA2UW93nm/w==;ISAOCl5QWp3aZVbwbcor8w=="
 ---
 

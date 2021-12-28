@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-15-new-goldman-sachs-aws-data-service-points-to-a-larger-banking-trend.md",
+      "title": "New Goldman Sachs-AWS data service points to a larger banking trend",
+      "excerpt": "Goldman Sachs and AWS have teamed up to help businesses seeking to crunch massive pools of data for smarter business insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
+      "originalUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_224442191.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-continuous-renal-replacement-therapy-market-insights-trends-outlook-segmentation-latest-innovation-and-forecast-2021-to-2027.md",
       "title": "Continuous Renal Replacement Therapy Market Insights, Trends, Outlook, Segmentation, Latest Innovation and Forecast 2021 To 2027",
       "excerpt": "Global Continuous Renal Replacement Therapy Market size, segmentation 2021 Analysis Scope, Risk Factor, Opportunity, Market Overview, Driving Forces, Sales, Revenue and Production cost",
@@ -1160,58 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
-      "title": "Who Killed the Robot Dog?",
-      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-agains
 webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "In speech to Curia, pope warns against worldly attachments, including in the liturgy"
-    excerpt: "To close a year in which Pope Francis suppressed the Latin Mass, in his annual speech to members of the Roman Curia he warned against the temptations of spiritual worldliness and attachment to superficial reassurances,"
-    publishedDateTime: 2021-12-23T10:15:00Z
-    webUrl: "https://cruxnow.com/vatican/2021/12/in-speech-to-curia-pope-warns-against-worldly-attachments-including-in-the-liturgy"
-    type: article
-    provider:
-      name: Crux
-      domain: cruxnow.com
-    quality: 32
-    images:
-      - url: "https://wp.cruxnow.com/wp-content/uploads/2021/12/20191221T0635-0390-CNS-POPE-CURIA.jpg?w=1200"
-        width: 750
-        height: 495
-        isCached: true
 
 secured: "qAzfZOtlgbEUSQAFt8p9lMvSYLoXlU4oLkn3ScY0ZmkpOigovV6fgeBbYklNLnLzQPtxzhgqoUHQF14tDL9i37gUUXVNqwWl3BvUu+s1uCAQ18pC6kGue+Dnbj67EBtbtUdMb1ZABr43m85GW4M9VC/iUPvRiA+G+QZGTXSXibdyK7VG411jzwZDpaHgConTNJEBufJM2NlXL6CpUXKa8ey4S0M8FfDQSNGe7L6X7l3XIElU+MiXTGRb6nW8Q9VB16LzV+YkNPSPOTQstQcOMdat5tA+aeys0JtRepe05hRGSYK2g63rLX9Lay09uJ/sp89xtsp0o5H4d1AQu1zHxJYRgQ3AJ5BN8gFpAMxNeXIuaxl9wkqi4lGD+p9+rDJ+DvtPNvjRQpf46EdLOUK4q9Ti7kf0J4GJd8M7BLtwwziPhhAjJtDQRcZyBhwblQazrF0ch35qnXFG7aH38ln0/bJV7HzKovUtnEysLCuDwhOIsIwD24J9TzTtI8VLLKHqg3YCsMi5J346F9oMPRg7qA==;IKZN44fqaMaqpuHXx/0Oxg=="
 ---

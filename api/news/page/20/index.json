@@ -2,6 +2,41 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
+      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
+      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
+      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "publishedDateTime": "2021-12-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
       "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
       "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
@@ -760,6 +795,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-08-global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026.md",
+      "title": "Global Natural Language Processing Market Size, Share, Revenue & Demand | Future Opportunities | Forecast upto 2026",
+      "excerpt": "Dec 08, 2021 (The Expresswire) -- In 2022, “Natural Language Processing Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million USD in 2026, with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
       "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
       "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
@@ -1030,100 +1117,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
       "publishedDateTime": "2021-12-07T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
-      "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
-      "excerpt": "NEW YORK, Dec. 6, 2021 /PRNewswire/ -- From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook",
-          "width": 1498,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-identity-verification-startup-incode-raises-220m.md",
-      "title": "Identity verification startup Incode raises $220M",
-      "excerpt": "Incode, a company developing an AI-powered identity verification product, has raised $220 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
-      "publishedDateTime": "2021-12-07T12:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

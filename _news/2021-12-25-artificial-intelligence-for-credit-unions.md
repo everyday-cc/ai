@@ -106,17 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Worldwide Artificial Intelligence in Remote..."
-    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-    publishedDateTime: 2021-12-23T10:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
     excerpt: "Our recent Institute for Business Value study highlighted that nearly 6 out of 10 Indian CEOs expect cloud computing to deliver results in the next 2-3 years, and 45 per cent of CEOs in India expect AI/machine learning to deliver results in the next 2-3 years."
     publishedDateTime: 2021-12-25T11:26:00Z

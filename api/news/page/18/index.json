@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-09-citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterprises-via-ict-miind-strategy.md",
+      "title": "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy",
+      "excerpt": "In turn, the CAHK STAR Awards 2021 \"Best Innovation for Future Enterprise - Gold\" highlights the game-changing significance of CITIC Telecom CPC's AI-enabled Cognitive Object Recognition System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/a24517618/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterp",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/a24517618/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24517618",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24517618",
+      "publishedDateTime": "2021-12-09T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-power-of-ai-can-be-unleashed-with-a-focus-on-ethics.md",
       "title": "The power of AI can be unleashed with a focus on ethics",
       "excerpt": "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach.",
@@ -1095,48 +1129,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-cybersecurity-ai-startup-cyberq-secures-5mm-to-automate-ai-data-solutions.md",
-      "title": "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions",
-      "excerpt": "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

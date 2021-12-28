@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-16-lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus.md",
+      "title": "Lenovo Delivers AI-Enhanced Edge Computing with NVIDIA GPUs",
+      "excerpt": "The ThinkEdge SE450 is the latest example of how continuing technological evolution substantially impacts and transforms the ways that organizations benefit from computing innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/",
+      "originalUrl": "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/data-center.jpeg",
+          "width": 1920,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
       "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
       "excerpt": "SAN ANTONIO, Dec. 15, 2021 /PRNewswire/ -- Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America ...",
@@ -944,15 +995,24 @@
     {
       "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
       "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
-      "excerpt": "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based entertainment localization,",
+      "excerpt": "Topic, the fast-growing North American streaming service from First Look Entertainment and Deepdub, the leader in AI-based",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/topics-streaming-service--deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform-301444670.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/topics-streaming-service--deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform-301444670.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1709649/Deepdub_AI_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -960,8 +1020,8 @@
       "publishedDateTime": "2021-12-15T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1112,49 +1172,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-new-goldman-sachs-aws-data-service-points-to-a-larger-banking-trend.md",
-      "title": "New Goldman Sachs-AWS data service points to a larger banking trend",
-      "excerpt": "Goldman Sachs and AWS have teamed up to help businesses seeking to crunch massive pools of data for smarter business insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
-      "originalUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_224442191.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-arti
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "BBVA Teams with Accenture to Streamline Operations with Artificial Intelligence"
-    excerpt: "The collaboration agreement with Accenture will also accelerate digital transformation across BBVA’s core operations, providing the entity with better insights and the ability t"
-    publishedDateTime: 2021-12-23T09:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-74351d5795e9489ab355ded11dfac6aa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "BBVA teams with Accenture to streamline operations with artificial intelligence"
     excerpt: "Banco Bilbao Vizcaya Argentaria (BBVA) and Accenture have signed a collaborative agreement that is focused on accelerating digital transformation and applying analytics and artificial intelligence (AI) to drive faster decision-making and enhance the customer service experience."
     publishedDateTime: 2021-12-24T11:39:00Z

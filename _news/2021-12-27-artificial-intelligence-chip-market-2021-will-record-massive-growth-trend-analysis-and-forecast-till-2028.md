@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
 type: article
 quality: 58
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dynamic Face Recognition Systems Market Detailed Analysis, Growth Factors, Top Key Companies, Trends, Developments and Forecast by 2027"
-    excerpt: "The growing relevance of the surveillance business increased government and defense sector investment in facial recognition technology and increasing technical innovation across industrial verticals are the primary drivers driving the growth of the facial recognition market Face occlusion and face"
-    publishedDateTime: 2021-12-23T09:49:00Z
-    webUrl: "https://www.openpr.com/news/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2509179/dynamic-face-recognition-systems-market-detailed-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
   - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
     excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
     publishedDateTime: 2021-12-27T08:17:00Z

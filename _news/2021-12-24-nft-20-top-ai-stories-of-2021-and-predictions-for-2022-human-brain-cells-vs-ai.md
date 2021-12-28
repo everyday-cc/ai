@@ -106,17 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Worldwide Artificial Intelligence in Remote..."
-    excerpt: "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to"
-    publishedDateTime: 2021-12-23T10:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24752699/worldwide-artificial-intelligence-in-remote-patient-monitoring-industry-to-2026-shift-in-trend-tow"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24752699"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24752699"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Artificial Intelligence for Credit Unions"
     excerpt: "Artificial Intelligence for Credit Unions | 2 followers on LinkedIn. Empower your credit union with innovations and acquire more loyal members with the help of AI | Over the course of the pandemic, credit unions have faced a myriad of challenges and experienced an acute need in finding more innovative ways to engage their members."
     publishedDateTime: 2021-12-24T22:54:00Z

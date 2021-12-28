@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
+      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
+      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "publishedDateTime": "2021-12-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
       "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
       "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
@@ -1135,49 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island.md",
-      "title": "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island",
-      "excerpt": "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "publishedDateTime": "2021-12-21T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

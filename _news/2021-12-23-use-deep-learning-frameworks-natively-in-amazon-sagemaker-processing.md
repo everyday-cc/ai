@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-fr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Review: Build a ML Model with Amazon SageMaker Canvas"
-    excerpt: "In this post, we will do a hands-on evaluation of Amazon SageMaker Canvas. Follow along to train a logistic regression model."
-    publishedDateTime: 2021-12-23T10:00:00Z
-    webUrl: "https://thenewstack.io/review-build-a-ml-model-with-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/cc9450ac-sagemaker-canvas.png"
-        width: 600
-        height: 367
-        isCached: true
 
 secured: "tkXvf71hX6ajMJWk685fetqgBfuhh8Tz9Z4V9bTUCQFSqOx7/CcfBIfUJXEkBOf7PGmGh9as3u4yzBC1lFnvsckCSuGOHdLgvwp7fvgeil8Cq7g0QeL0bLiH1+UTZGf1GsdBRp7a2JBso/xUIl9oBTPU2nXPDLEOaNyVQj9WCcbFkf+n0//9sFOUWB9/6Zj5eq2XIF+OhonPgkSVi/Vu7x4a8TjqzyfPbO8nvnY5P1k7BV9tC43hR2w5l3j46jobOtRUVMFrLnptnwJQietwS8JMLRg9T6sT8WlhNKD3Z9JVUPVPfOBE7qpwUDjpReu8kmneLR5w8Z24BJpwx/d6Voa6GbIjpKl98uH8Rla42xU=;pjnZ1uEokj4p+R2nuFzr3g=="
 ---

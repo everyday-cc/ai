@@ -25,22 +25,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Start-up investment platform nr2 raises new capital"
-    excerpt: "Start-up investment platform nr2, which gives businesses and investors AI-enabled insights into South Korea and China’s most promising and innovative start-ups, has raised capital for expansion from new investors,"
-    publishedDateTime: 2021-12-23T10:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90858/start-up-investment-platform-nr2-raises-new-capital"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-
 secured: "106A186ihZz8HMJpgqvso1//NSAqlyLIq9VT+/V2J22tHrTqcfdvCDlH1/TutxU9rDxEMAf9dFDqqpvzXvWoDkdSwTxj2Pm9o+nRaHYHA0G8TII3jclu1vRWmacl1T1d6pHl8j3w6ORdlMJT97hrGyZSXbfv2cYghg0vL4uT/NFDPKyguNvn1h1rzGEIUR5Rv1wmQts1Jgl1ADw8K4CChjCzhfkUmm4lTlOS6OKwVh8h1eQaOCaJZsS10qh/83q47uO/ZhlbIvRTB00CeD+lTX5lL7V3UZjvwo7RBoP/aMQbLhttwR74xZLE5gzdsapU/dHoTW9jk3LhTArWz0G2IUrnhNpv/XExfbaCveAfRz6Zzc2RB6AQ21eaihANXm6jB3TX8ap+iU56FnS38MQWkd0w0+O4qhR6xKhKle/8CZVaVBPCH6AmfU6BcaQ9BO6R0L5T4bicgtt0t6XKKq/4Ptv3m31zUdjB06Lq+jVN8yt51KeKrxPXYZ1vs/nnDpXg0q1zQ91lDMYr3OySmXwghA==;62SZE1b+rPyI57q8dyRkBQ=="
 ---
 

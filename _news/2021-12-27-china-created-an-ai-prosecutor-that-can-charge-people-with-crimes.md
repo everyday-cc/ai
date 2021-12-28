@@ -52,7 +52,7 @@ related:
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
         width: 450

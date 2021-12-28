@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Cars Are Good for Society"
+    excerpt: "Imagine being able to sleep and drive at the same time! While that may seem like a ridiculous concept, it may soon be a reality. In fact, Google Inc. has"
+    publishedDateTime: 2021-12-26T17:28:00Z
+    webUrl: "https://studymoose.com/self-driving-cars-are-good-for-society-essay"
+    type: article
+    provider:
+      name: Truth
+      domain: studymoose.com
+    quality: 19
 
 secured: "Xa9xd/5a/ZplwEzaKluRcXSc/tuSDx6FthkUt7LPHAGLFlLWtvKProCTMgAP9lHM0K/l1wO2H2q4P46Mdz9WOeJNd+w3NyZe1ccOsjd+GQ1HKBoECShAmyNM63OcYVx+98Gdcmr8vKHda/i/Jq5i+1G0KxfvChUhCFTw8CVY02J4ubcNUNr983UcAe3b/3SlkewW2QBiPQ8RXPKlqvwaSCPyLiPI66vTu8q1BnAXWC5ppab3hOX6wRM36osBBS3/ucs63G1S8Var53rY+5QQbPJhuV0dKk05JnnaHsZZ907s+pgmVgzjY8f8dtM+InxgFwtBeC0LKvIbE/hxblQdqgokxs5M/GPV4PUHuNr4hOA=;jI8y3XobOjUhkxjTjIBzkA=="
 ---
