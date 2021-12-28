@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
-    publishedDateTime: 2021-12-24T02:52:00Z
-    webUrl: "https://www.chron.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    ampWebUrl: "https://www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "In Africa, Rescuing the Languages that Western Tech Ignores"
     excerpt: "Tech giants don't have a great track record of making language technology work well outside wealthiest markets"
     publishedDateTime: 2021-12-27T07:03:00Z

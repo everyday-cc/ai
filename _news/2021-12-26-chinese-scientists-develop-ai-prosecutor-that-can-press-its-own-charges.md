@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/12/27/1600x900/china_artificial_intelligence_posecutor_1640608287032_1640608287151.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
+    excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
+    publishedDateTime: 2021-12-28T18:16:00Z
+    webUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/"
+    ampWebUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 56
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg"
+        width: 600
+        height: 399
         isCached: true
   - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
     excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."

@@ -41,20 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Pope demands humility in sharp Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting"
-    publishedDateTime: 2021-12-24T02:29:00Z
-    webUrl: "https://www.columbian.com/news/2021/dec/23/pope-demands-humility-in-sharp-christmas-speech/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 24
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
-        width: 899
-        height: 599
-        isCached: true
 
 secured: "DG83GvevhX/3n0Aq+HvKYKzGE4+DKpP4fQtzfybLyVCdfmAEobYkqw3umbWeQ5Isn8xt2y+Vrb3pib9Mj05Ew5kOthnZni6ueP/wIdUZRGj617NCRV7WQsNX80dyTWvNp1qgZAWbxoE/Hz8Z9OYX/11lg3rVDDynJcXXSenbKxuhQxpuflGO2LCwSyWy15pc/bo++gPOXhZ/ruLcn2yL2m/Kdo4Xg+TxL3EiJVWe8bX1/fDpVpS35gyafxrPZnP3JZ6jA7MSZinj5lOCxSUlbl4sblb2wFDNYWYkdQybD1/O1bvidZYYiVsLuUZTnRJ0IuDNg0wkNhjLcwJj1k4PeaCvOZl66+FJGrwb3YUdpGnIG2skNNtcnG96n3q9EKvN7H83pB19TQppAiS77ss2JoOFI633niwI0XqCs7NGDFLr8S6CA2EVRb91s2j0Pe11k7X5pIFWWu2CcvJ4So2+QG/7CgSFzPCvyTdeueCUxmkuGmBQ+zPSp8oEs1NmwfLtUqPVa9LEfGzX06axUPGzzA==;KI4odnAreLzbdFTYH3qU8Q=="
 ---

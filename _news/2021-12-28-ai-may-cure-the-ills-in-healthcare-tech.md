@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/FFF-5.jpg"
         width: 1004
         height: 586
+        isCached: true
+  - title: "Health data: trends in healthcare tech for 2022"
+    excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
+    publishedDateTime: 2021-12-28T18:52:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022-0"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
         isCached: true
   - title: "HealthWorksAI™ Unveils the First Healthcare Data Platform using xAI technology"
     excerpt: "HealthWorksAI™, an industry-leading Healthcare analytics company, announces the launch of the 2nd generation of their state-of-the-art xAI program. It's an advanced analytical approach that collects and processes data,"

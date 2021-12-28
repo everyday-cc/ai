@@ -34,6 +34,6 @@ related:
       domain: hauteliving.com
     quality: 13
 
-secured: "KGCjZqf3MuJeMp4wFzUMmUewNqpnPpNx8phmx+f19bqLsuF+Anfb/7g20ePW8+prfNi00fgiIiIwjx/PlAsGffE/ztr+VYeK/CsAUKcU/vV44ezaREBU0jDODkvRdwHfSOq/8Xcb+VgPW4RqVEiRg6115Qp+PttJyd4C0aqdmEmrcMaf4PYn1N/QVC/qjXMJ27NLihBIuoPYcJYGBhwCtW+k99kgLIgZg/2/JT2IckAtmyME31dpSUWpKX+mZAuOOCUC9wHzpBDNbIlmno/Mm1yCsmXYjmVLiAyrXzld4LRDREuw7msu6Y0HAGN5px9viabeoqD7hp6sNINSMlscHHXApRmSLVDziN5mo22ouQs=;1evPTTMVuUZGV/jBYpgoug=="
+secured: "bk8A4Xv6l8GtSIORgOfy2mhBbrXZdU0/Ty1AVT5jRa81WJUUsdvgeU96wOMK1G8+YRUNdGh3jc/xJaYfz5TJqHUpTd3qFekM/Eaome43Oby//obF0auB52EeGIELgKMr9/m6COkTeOT9LKvAbJwog6vc/wWul3rET2DtT7ya3GOJAAbFmIAmHUHUQanE1L1fQna0fVBNK5SazwndQoJItwNOgj0yb84lWknT51cNzCoy/+YXDxRDz2qwpqVduDXVGZcw4CS1ST6GYv8pEA8T/Jh/+ShVnvUjsMN1Aw77k8J75EW+mTBnGIN7ctup4+9ODkU5+Xaqu6uaB+T2ThhodY2pHB1bxu3+aNPLypsPwluqeOY7Uiopp0xuFvk0DPEtEzaGlebfjHqolfYn2xnfa2TPKy8Uc6/x8yd7l+g/z338sOUHcNYlA6NsjHCcDUk+6TNhZxsJEoy8bKpNE1huxEzj08QnHXAvFMvXjf843No+u3F1omBYs3wAdFHoPtvMRUgb2bxZW83c4IKvuxKYwg==;kRwHSTNV+q+wEHN3wWgocw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-27T19:17:00Z
 originalUrl: "https://www.linkedin.com/pulse/what-emerging-ai-machine-learning-trends-watch-2022-azamat-abdoullaev/?published=t"
 webUrl: "https://www.linkedin.com/pulse/what-emerging-ai-machine-learning-trends-watch-2022-azamat-abdoullaev/?published=t"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE8yUza0b-Gvw/article-cover_image-shrink_720_1280/0/1640540228878?e=1646265600&v=beta&t=JoFNGskPbdIpMSKMR53eZ5IaJ73pGFHeg_SoZNw8yWU"
@@ -46,6 +47,6 @@ related:
         height: 600
         isCached: true
 
-secured: "NDAOQ+6AKIfoFLycj9P6n4FZj6wVzSFeNw5M4Jg1KVNrqfYP6gKsI9yQRoVPv89yPRBwAbVr5V2+YqVuK3YAnK+6HgHUHQua+CXGdym+wP+zCDiVbOYl3s3nV2Nq4Ah9pvdT5sda5S5xLzyHlo0afkypo4R2FQ+oixVH5bVZByq35ekpdXoh4h4lz9bVLi2sbNuD7ViPYeN1y4yHTVSOQZXIy/DZtjXMhI66QVcFa4NJrD6OAXXQn1N5dXWwEzIhN9FnOMBKK4F+PmG8QnaLT5Nr01LteqU3wdApH3NHY4LFUiUXscE4c6kNrolVSNg5mplME/jM3KRopKZL0CL0YNnfHh2ezSI0UiZIJOWVxNI=;qYw+VBtHZ91xUOVAnUSgRw=="
+secured: "07SiF3PtCLWgpZRGDjh56RN8jdug0y5llKY9pTp911Fnx8apdtqU3afrDBcMwXt6GNHM9y4gbBIHNPssVivEem9EQwyy9dRbFKR5yiUVpjZFUuA2AvP5+tcqNKiZDiCCx2dOLjCUzPkMedAPdsk7sFQr/TiTvvZ6b1alCIUVtH7tX8g9hp3YQjpNm3ks/fJR7Jb7H2hwI0EPOXyDKW7quu17Jh/wBrCcA1lpt0GW7x6uJq2vrTyIa25da6OSgvN4Wwy7ppCtC33+bCkkD/tHX9v0wrCHklD4lzcsHCtavoxcgey/FByO62PGUsIwDN2/wwOj2wlVjaX3wYuobw05yavuh9416BAc/uVR/mWrhEd3vmHN3aP4AvZ4VDM/X110Sp+lnxFUJGXZhrMEmc8nQMXA2V8t0aEpv17l7QmU9YxiwF+yBC3DPcN58ORJCWEbxokKP8lu+/+Q6g1cjvzx2ure7BQ89gyhQkRicaUqtYITpXu9UtLYh1hLJ5s+GV0cM/s6pfFxGgSdZiYjN0Z3gw==;eIKnkQGuUq+uVBxK6ugiQw=="
 ---
 

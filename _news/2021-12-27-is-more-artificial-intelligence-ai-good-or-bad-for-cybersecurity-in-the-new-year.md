@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-goo
 webUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-good-bad-new-year-dan-lohrmann"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Industry Experts Team Up to Advance Cybersecurity With AI"
+    excerpt: "The C3.ai Digital Transformation Institute welcomed industry experts to submit proposals for advancing cybersecurity with AI in order to secure critical infrastructure."
+    publishedDateTime: 2021-12-28T17:00:00Z
+    webUrl: "https://healthitsecurity.com/news/industry-experts-team-up-to-advance-cybersecurity-with-ai"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 57
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-1136684203-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "How Fintech Companies Can Go The Extra Mile With Cybersecurity"
     excerpt: "Hacking attacks and data theft are more rampant than ever. So cybersecurity is a crucial concern for modern businesses. While threats prevail in all domains, fintech companies need to be extra conscious."
     publishedDateTime: 2021-12-27T10:53:00Z

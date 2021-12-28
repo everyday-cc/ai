@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-29-industry-experts-team-up-to-advance-cybersecurity-with-ai.md",
+      "title": "Industry Experts Team Up to Advance Cybersecurity With AI",
+      "excerpt": "The C3.ai Digital Transformation Institute welcomed industry experts to submit proposals for advancing cybersecurity with AI in order to secure critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/industry-experts-team-up-to-advance-cybersecurity-with-ai",
+      "originalUrl": "https://healthitsecurity.com/news/industry-experts-team-up-to-advance-cybersecurity-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/GettyImages-1136684203-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai",
+      "publishedDateTime": "2021-12-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-ai-may-cure-the-ills-in-healthcare-tech.md",
       "title": "AI May Cure The Ills In Healthcare Tech",
       "excerpt": "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -54,6 +96,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-airtel-tcs-successfully-test-neural-manufacturing-on-5g-network.md",
+      "title": "Airtel, TCS successfully test neural manufacturing on 5G network",
+      "excerpt": "These solutions help manufacturers build smart, cognitive factories which mimic resilient and adaptive behaviours",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/ji9xdx/article38053925.ece/ALTERNATES/LANDSCAPE_615/airtel2021-08-30T111652Z483559939RC2NFP9O1PCURTRMADP3BHARTI-AIRTEL-INDIA-F",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/",
+      "publishedDateTime": "2021-12-28T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-the-three-core-pillars-of-responsible-ai.md",
       "title": "The Three Core Pillars Of Responsible AI",
       "excerpt": "A good way to raise executive-level awareness around the benefits of responsible AI is to establish a set of best practices your company can follow that map back to these three core pillars.",
@@ -62,7 +147,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -102,7 +187,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1092,101 +1178,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-robotics-firm-arapl-raas-raises-funding-for-warehouse-automation.md",
-      "title": "Robotics firm ARAPL Raas raises funding for warehouse automation",
-      "excerpt": "ARAPL RaaS, a robotics and automation company, said on Monday it has raised $0.7 million funding within two months of its existence as it strengthens its 10-minute delivery in supply management. The start-up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "publishedDateTime": "2021-12-27T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-how-machine-intelligence-is-changing-the-modern-world.md",
-      "title": "How Machine Intelligence Is Changing The Modern World",
-      "excerpt": "Specialists and mass media expect technology advancements to allow complete redefining of the role of machine intelligence in modern life. This is about the development of computer vision, natural language processing and neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "publishedDateTime": "2021-12-27T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

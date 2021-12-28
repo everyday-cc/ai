@@ -106,6 +106,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
+    excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
+    publishedDateTime: 2021-12-28T18:16:00Z
+    webUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/"
+    ampWebUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 56
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
     excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
     publishedDateTime: 2021-12-26T16:45:00Z

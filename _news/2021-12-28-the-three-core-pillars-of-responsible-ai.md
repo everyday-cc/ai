@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-cor
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d485278f05f9d68aa8b3e1%2F0x0.jpg"

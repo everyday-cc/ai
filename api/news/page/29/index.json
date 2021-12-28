@@ -2,6 +2,134 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing.md",
+      "title": "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing",
+      "excerpt": "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-helps-pfizer-accelerate-drug-development-clinical-manufacturing-/2021/12/02/9503795.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-helps-pfizer-accelerate-drug-development-clinical-manufacturing-/2021/12/02/9503795.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-exclusive-softbank-led-funding-round-for-sustainability-start-up-clarity-ai.md",
+      "title": "EXCLUSIVE Softbank led funding round for sustainability start-up Clarity AI",
+      "excerpt": "Softbank Group Corp's Vision Fund 2 has led the latest funding round for sustainability data technology platform Clarity AI, alongside existing investors including BlackRock , valuing the start-up at $450 million,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "originalUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6_B_kyhd4Z6lGVcp0gRO-qwDMCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LIP4CZNCMJKDVCPICMXP45WUEY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event.md",
+      "title": "4 reasons to attend the Put Responsible AI into Practice Azure digital event",
+      "excerpt": "AI is transforming business and the world. However, AI models learn from the data. Biases that exist in society will exist in the models. Human judgment must be the overriding factor, ensuring that AI models benefit and are inclusive of everyone. Equally important, AI must inspire trust in customers",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
+      "originalUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:00:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-the-quest-to-make-an-ai-that-can-play-competitive-pokemon.md",
       "title": "The quest to make an AI that can play competitive Pokémon",
       "excerpt": "An AI can beat a chess grandmaster. An AI can become the StarCraft esports champion. But creating an AI that could play Pokémon at the competitive level has been a more elusive problem. Thanks to the variety of monsters,",
@@ -997,144 +1125,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-qualcomm-ditches-tsmc-lets-samsung-produce-new-chips.md",
-      "title": "Qualcomm ditches TSMC, lets Samsung produce new chips",
-      "excerpt": "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg",
-          "width": 980,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
-      "publishedDateTime": "2021-12-01T22:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption.md",
-      "title": "IBM Watson Health Introduces New Opportunities for Imaging AI Adoption",
-      "excerpt": "Nov. 30, 2021 /PRNewswire/ -- IBM (NYSE: IBM) Watson Health is introducing a new AI orchestration offering to help imaging organizations experience the benefits of having AI applications work ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption-1031011945",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-health-introduces-new-opportunities-for-imaging-ai-adoption-1031011945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-the-public-clouds-are-innovating-on-ai.md",
-      "title": "How the public clouds are innovating on AI",
-      "excerpt": "Below is a brief overview of the machine learning services offered on Azure, GCP, and AWS: Will we see more machine learning models as a service (MLaaS) from public clouds and other competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
-      "originalUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_cloud_2_1.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

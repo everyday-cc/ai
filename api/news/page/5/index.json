@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-22-50-global-hubs-for-top-ai-talent.md",
+      "title": "50 Global Hubs for Top AI Talent",
+      "excerpt": "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "originalUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "publishedDateTime": "2021-12-21T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-face-detection-in-untrained-deep-neural-networks.md",
+      "title": "Face detection in untrained deep neural networks",
+      "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/938633",
+      "originalUrl": "https://www.eurekalert.org/news-releases/938633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/287aa929-bfb7-4958-9f9f-184912fa866c/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
       "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
       "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
@@ -1056,91 +1141,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-powered-dental-startup-overjet-raises-425m.md",
-      "title": "AI-powered dental startup Overjet raises $42.5M",
-      "excerpt": "Of all areas of healthcare, it seems like dental care is one that gets very little attention and disruption, but it's one that desperately needs it: i n 2019, there were almost 74 million people without dental insurance in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
-      "originalUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/21409.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vator",
-        "domain": "vator.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

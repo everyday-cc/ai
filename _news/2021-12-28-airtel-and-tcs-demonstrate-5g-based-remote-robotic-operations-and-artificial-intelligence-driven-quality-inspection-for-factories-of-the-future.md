@@ -42,6 +42,15 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Airtel and TCS demonstrate 5G based Remote Robotic Operations and AI driven Quality Inspection for Factories of the Future"
+    excerpt: "India's premier digital communications solutions provider, and Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), announced the successful testing of innovative use cases from TCS' Neural Manufa"
+    publishedDateTime: 2021-12-28T18:13:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=304282"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 8
 
 secured: "JN3Cq7qWTLJ50YD3am0JkPsLqlMHVK3k2ztBXqAXSnR53a1bfERyh7KyMAuiSw9D6i6WlMyTzMqkIj/BhF8rcuvtiuhoV612bGS0KAz1mYjYWqvdwmKqONpqD6SYgjGyVqzSLYpBGkx1sFZ7p9UraPJu0hvPDdIOyKVOGjXVJV+4q/oH+lFJpNH6MJP1yymVj3li5huueeP4ZPJ7AOz3CBoubdfrDgLjpHylAtyyXrShslpT9oFc1OYSvDnE5ewuiR2L3B7tOOOt5aCWOgH4dP0lu63fGBYCjw/2V4kVm5u1TDBcHmC2kD6xzg3xfyogCzFe3rZwpEgfS5tg+PYBAZ1AvUcIL8Nn7woR9sgyLG8=;JfiCo5cVRosyjQUT5wr1LA=="
 ---

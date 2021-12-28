@@ -2,6 +2,125 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-15-zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics.md",
+      "title": "Zhejiang University: Joint efforts called for to promote AI ethics",
+      "excerpt": "A multi-country panel of scholars, researchers and stakeholders called for global efforts to tackle the peril of AI usage with AI ethics at the Workshop themed on “the AI Ethics & Internet Governance: Global Lessons & Practices”.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "originalUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/1200px-Zhejiang_University_Logo.svg_-1024x1024.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/zhejiang-university-joint-efforts-called-for-to-promote-ai-ethics/",
+      "publishedDateTime": "2021-12-14T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading.md",
+      "title": "Humans.ai’s HEART token gets listed on KuCoin and tops $30M volume on the first day of trading",
+      "excerpt": "Humans.ai is excited to announce that its native HEART token is now listed on one of the world’s top cryptocurrency exchanges, KuCoin",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading",
+      "originalUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDFkNGM5YmU2NDg4MzUyNjA1YmM0MzNlMTQzYTcwZS5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp",
+      "publishedDateTime": "2021-12-14T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-vidmob-research-reveals-that-creative-choices-like-a-models-eye-gaze-have-measurable-impact-on-ad-performance.md",
+      "title": "VidMob Research Reveals That Creative Choices Like A Model's Eye Gaze Have Measurable Impact on Ad Performance",
+      "excerpt": "VidMob Research Reveals That Creative Choices Like A Model's Eye Gaze Have Measurable Impact on Ad Performance. NEW YORK, Dec. 14, 2021 (GLOBE NEWSWIRE) -- VidMob, the leading pla",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/14/9511284.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/14/9511284.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
       "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
       "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
@@ -1038,154 +1157,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-machine-learning-mlperf-and-ai-benchmark-4.md",
-      "title": "Machine Learning: MLPerf and AI Benchmark 4",
-      "excerpt": "Even as a new benchmark in the space, MLPerf has been made available that runs representative workloads on devices and takes advantage of both common ML frameworks such as NNAPI as well as the respective chip libraries for each vendor. Using this benchmark on retail phones to date, Qualcomm has had the lead in almost all the tests, but given that the company is promoting a 4x increase in AI performance, it will be interesting to see if that comes across all of MLPerf’s testing scenarios. It should be noted that Apple’s CoreML is currently not supported, hence the lack of Apple numbers here. Across the board in these first four tests Qualcomm is making a sizeable lead, going above and beyond what the S888 can do. Here we’re seeing up to a 2.2x result, making an average +75% gain. It’s not quite the 4x that Qualcomm promoted in its materials, but there’s a sizeable gap with the other high-end silicon we’ve tested to date. The only non-lead is with the language processing, where Google’s Tensor SoC is almost 2x what the S8g1 scores. This test is based on a mobileBERT model, and either for software or architecture reasons, it fits a lot better into the Google chip than any other. As smartphones increase their ML capabilities, we might see some vendors optimizing for specific workloads over others, like Google has, or offering different accelerator blocks for different models. The ML space is also fast paced, so perhaps optimizing for one type of model might not be a great strategy long-term. We will see. In AI Benchmark 4, running in pure NNAPI mode, the Qualcomm S8g1 takes a comfortable lead. Andrei noted in previous reviews with this test that the power consumed during this test can be quite high, up to 14 W, and this is where some chips might be able to pull ahead an efficiency advantage. Unfortunately we didn’t record power at the same time as the test, but it would be good to monitor this in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
-      "originalUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/17102/P1010318a_678x452.JPG",
-          "width": 678,
-          "height": 291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-what-challenges-in-education-can-ai-solve-today.md",
-      "title": "What Challenges In Education Can AI Solve Today?",
-      "excerpt": "The core idea of e-learning mobile and web applications is making the process available anytime and anywhere through personal devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7a6ef32363c07c9a0c8b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
-      "publishedDateTime": "2021-12-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
-      "title": "2022: A major revolution in robotics",
-      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
-      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
-      "publishedDateTime": "2021-12-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
