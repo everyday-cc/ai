@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
-excerpt: "SAN ANTONIO, Dec. 15, 2021 /PRNewswire/ -- Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America ..."
-publishedDateTime: 2021-12-15T16:43:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html"
+title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with its Robust, Scalable, and Novel Computer Vision Technology"
+excerpt: "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021 North America Technology Innovation Leadership Award in the computer vision space. The company offers innovative ..."
+publishedDateTime: 2021-12-15T19:04:00Z
+originalUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
+webUrl: "https://www.newswiretoday.com/news/176815/Frost-and-Sullivan-Recognizes-Algolux-for-Improving-Vehicle-Safety-and-Function-with-its-Robust-Scalable-and-Novel-Computer-Vision-Technology/"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
-
-secured: "PBxbecsdEtC7YyhiIXeLCDf/5ZTr2NYraIqfB9jMtz8zSwfpTxEI8QQOlInsEhLpbHEisfIAlRtLHr2HGfFxIa7hBlTr5WZf/sseKZMJJwgxlwr0oqfAdk27Mdf4UK1xolnrGY+6gs08NWg21qQmddfDfbcwhufLIxc0z37FhaQBZt4eEdaYPFVdvRF/8KuMqF/F00l8iBpuxa/rBhOODfeMgqjriss9iXLwdCEm7nyW2WxDOkAxSicxScz6+0ynqbMemJEdjUlfR71LgTrld7jdKXCSvNgfT6BeoPL4OTtoK+1MlqBLJb62kg8uEDPsYhUj6JK5a9YD0gj3Sa+uNkXWYQbQOXdEngH6yw4XCDQL9d7Nx1tzDJm2wItsIpXY/WU2VinR+br4MBP3VlNr3hGpXkApZwqiwzzUdS+iP1VkgPuTPtGstlYMXGiJA7L3w1OAhZVrVQZV/kZD7CRi9gj6YVsY5zIVHTCefmlekosm23f/Y29O3V1sbdCYyxzIqiLKRlvOmSi+utQBzeuEqg==;+iIQv1ueqNTVtTgcTtRPwg=="
+secured: "/458fBVIEmILJ36uz6cg4uCjK/ClU6pQ4XnOLwQkC2nE1NW2uW2fWqnHlf8fda62mOrQupKHQRo1E/Fp2GTzCDVhL904D7oNzmsqNiKCoAqZN1pGk9nWO4cmoMhv4WJvqdgrXy1UTUtZgfLVGXW9u6vC29R6YQqY0qHsq4uVyZc4vcDCWHbEO24VAQfj1tCfLNVxuIbNUA4TbrTEZXzCI6xn/hu88h+HaATTD/52bnjaQamm27UHofOBva7j4OJcBjDUulRo9FboMq+EV9apvt4HI1qiA6t7oi04d+hD9DrIGjT4UtHhjXTRhWMwdUqTmgM3llI9d5sPjwcBpJqfRv+JSz9xcNoYmnhXoOIJfHw=;vLEYnDsu2L3CDNqew62IGA=="
 ---
 

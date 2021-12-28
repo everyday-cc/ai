@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
+      "title": "Global Driverless Apron Bus Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
+      "excerpt": "Dec 15, 2021 (CDN Newswire via Comtex) -- Global Driverless Apron Bus Market ... inventory management by via Artificial Intelligence(AI), product tracking, local production, accessible customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-california-suspends-ponyais-driverless-testing-after-accident.md",
       "title": "California suspends Pony.ai’s driverless testing after accident",
       "excerpt": "Following an accident on October 28 while operating a vehicle in autonomous mode, Pony.ai's driverless testing permit has been suspended.",
@@ -1376,49 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "Waymo’s slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own",
-      "sourceUrl": null,
-      "webUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
-      "originalUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-12/08/2021-12-08T132723Z_1_LYNXMPEHB70NY_RTROPTP_3_ALPHABET-WAYMO.JPG",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KFGO",
-        "domain": "kfgo.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

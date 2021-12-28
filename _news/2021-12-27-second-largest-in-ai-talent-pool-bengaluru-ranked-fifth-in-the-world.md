@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/second-larg
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/12/25/1137691-ai.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "With second-largest AI talent pool, Bengaluru ranked fifth in world"
+    excerpt: "Investments, diversity of talent, cost of living, and inclusivity among many factors that were analysed for the ranking of the top 50 AI cities across the globe BENGALURU: Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI),"
+    publishedDateTime: 2021-12-28T21:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/second-largest-ai-talent-pool-bengaluru-ranked-fifth-pankaj"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHowxlbDUkilQ/article-cover_image-shrink_600_2000/0/1640726219286?e=1646265600&v=beta&t=jg9J9ZJt2Dt6Yi2cR9AP6fEA2k3Er4upCuee3XIv2Ks"
+        width: 900
+        height: 450
         isCached: true
   - title: "Second largest in AI talent pool, Bengaluru ranked fifth in the world"
     excerpt: "Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI), at No. 5 according to a study by TIDE Framework and listed by Harvard Business Review (HBR). The ranking is derived based on a framework of indicators such as talent pool,"

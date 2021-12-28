@@ -82,6 +82,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "With second-largest AI talent pool, Bengaluru ranked fifth in world"
+    excerpt: "Investments, diversity of talent, cost of living, and inclusivity among many factors that were analysed for the ranking of the top 50 AI cities across the globe BENGALURU: Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI),"
+    publishedDateTime: 2021-12-28T21:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/second-largest-ai-talent-pool-bengaluru-ranked-fifth-pankaj"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHowxlbDUkilQ/article-cover_image-shrink_600_2000/0/1640726219286?e=1646265600&v=beta&t=jg9J9ZJt2Dt6Yi2cR9AP6fEA2k3Er4upCuee3XIv2Ks"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "DiKVgCGb42k8Ofufua3zI19m3ED1XNtLcUlKzXrqWxBynlx012yKoqireXwnyGCVuAh96LJAh4DXdHuDBnxYEq7H8i0H7oN5G8DnlCNgEHZeKfOIdrYm/fDs+cjsDMBKNAZuPc9GddxtU1E3sEXedGazExGWCTLci0163nb3rNDTrWjO+1Cizj7D4AcFKOWhcWs9CnWmPELsGj6eO320Tw9mKt7+l2iYO4YwgSv0+8G8EjNCLtMdZPzFA9FvSOAGrUKy98fzS5BHu6YFBUVYhFVSNAx5B375ZR6I49VZS3Hsjnw+xZ3NTI666W62pFb9269RyM+eSeD+2/lpszxfuD7E8MFOJcvCDByQof05mkw=;Qy2g5dydWDTY9pvDaXL9jA=="
 ---

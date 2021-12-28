@@ -7,7 +7,7 @@ originalUrl: "https://www.iotglobalnetwork.com/iotdir/2021/12/24/bbva-teams-with
 webUrl: "https://www.iotglobalnetwork.com/iotdir/2021/12/24/bbva-teams-with-accenture-to-streamline-operations-with-artificial-intelligence-34503/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 678
     height: 494
     isCached: true
-
-related:
-  - title: "Accenture Partners With BBVA on Artificial Intelligence"
-    excerpt: "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,"
-    publishedDateTime: 2021-12-24T05:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence"
-    ampWebUrl: "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "mFFJG5IQjImLXVGQeGJlCd6XyQHlJjP406iSRBkw/lS2sMBsIf8aSnV2bUwtC0uuQvcANc40enq+Z3W4ZdNYUEyVeaiFvzAdL2AoxM+SlrwzKAlWQZcOGL8V+ac17faJRoIMvZNfdUXugEqck13bCY1IKYAPhc9JAnG3KwMgB45m79S5aiU15hKPjIfkkMYRaPlFsrT3w/TzU4hTJfk2/zJPKNXNVyzwoH2Y20VcpVT+1DqIsGgBE8kEpOKAQq9bUzs2SB/tNs//wdeZTTgcTB7ebn2CESGe6auKIfoGK83J6AvTotxPgI4QJAXcct8Gri+b8cUIngSGnz6UtUzVUgJJt7WhYcF8ETH0uhxpdAxZqsUvUpxJL7mts7X3whYX94X1Qwr2ZZh0E8PDyB564zLiVHSkHNP+Qt9mH0GOxL6fJbXndcaXhTTlYjHRSU4EH3skXagbXiT4huCSsmBxGtUyC/HJyNYvgIsKnyar8S+1ufStG8bsI7kJgh2jOOBpQSXo9kwstvEOK9iruCrIqg==;3/TM6BK3p9wbPwVSRyNs3w=="
 ---

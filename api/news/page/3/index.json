@@ -456,24 +456,33 @@
     {
       "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
       "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/article256812332.html",
-      "originalUrl": "https://www.sacbee.com/news/article256812332.html",
+      "webUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
+      "originalUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/article256812332.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article256812332.html",
-      "publishedDateTime": "2021-12-23T04:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null

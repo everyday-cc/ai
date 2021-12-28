@@ -8,8 +8,8 @@ webUrl: "https://www.detroitnews.com/story/life/2021/12/26/artificial-intelligen
 ampWebUrl: "https://amp.detroitnews.com/amp/8988452002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8988452002"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/12/21/PDTN/7ca1bc65-076b-42fa-88ca-c254b01bbef4-tech-mammogram-26b3f2fc-6259-11ec-a7e8-3a8455b71fad.jpg?auto=webp&crop=3500,1969,x0,y178&format=pjpg&width=1200"

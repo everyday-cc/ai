@@ -1,0 +1,29 @@
+---
+category: news
+title: "MORAI to Unveil Cloud-Based Autonomous Driving Simulation Technology at CES 2022"
+excerpt: "Unveiling of MORAI SIM Cloud, a new SaaS model to increase efficiency through test automation feature; MORAI to strengthen global partnerships and technology exchange between indu"
+publishedDateTime: 2021-12-28T14:04:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-10ba911f6ec1b16f9a826d7022c9fb02"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-10ba911f6ec1b16f9a826d7022c9fb02"
+type: article
+quality: 34
+heat: 34
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ATKonZLTBlLweOBM+UgLRJV8ssnWn1naluEbg3egEyMB4sg2awRHhVaIvEUhDcG6THLUGYXm2zkyRda2folPrwLVtRFYjuHgIatK7FqABFHNtldJwFEyVCBDc+l3d0xeaR+CfTIkp/Od0jhuMOCgp7Q7Sf6TNw3qmsiJ6plzX3aDfRxDjqa+iHbls7Vcio9Zwx+9tFWAR+/gDY63BAEEucMgYw3Wo9YLSBPzOHBdtZ7C3Y1SRMfF27WQ1C0kM1a6Tw71jNH0PVtoIesEq6OiuaWUCyX60lsX/9XRYuG+vROmjEqeaVcnNwrqSSK9saOngsksyfDNz5bHb2WPfvzHRJoDOL6GZuC60qOIM+A7bJI=;tROXueWumDhOGaGmP8BOJQ=="
+---
+

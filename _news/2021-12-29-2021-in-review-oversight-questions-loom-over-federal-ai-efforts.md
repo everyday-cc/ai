@@ -39,6 +39,20 @@ related:
         width: 744
         height: 400
         isCached: true
+  - title: "Cubo Ai Plus smart baby monitor review: An adorable option that could use more smarts"
+    excerpt: "The well-designed Cubo Ai Plus smart baby monitor comes with great covered face alerts and decent video. But it isn’t up for travel with an easy-to-lose additional temperature and humidity dongle that feels like an afterthought."
+    publishedDateTime: 2021-12-28T22:10:00Z
+    webUrl: "https://www.tomsguide.com/reviews/cubo-ai-plus-smart-baby-monitor"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 30
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fFGjU7nHKmyB4ng4cLVJwD-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "R5QWq2Oxf/OZSfhlfspx3uGhm+M3Ks2kt9Q1HL+YKTJC8I3tAVq5+oeroe2f+lefd0KsnLIzGXiq51kE/v5cAPkh6Cpxp0udhEQCxAYz66vFdxYhxbDZryA+jeTw/hrdlUgVpFdfe2ALEBXr2jtpns5PTkRpAXo/t8aFBtMnMP2oLhfOWBGaCGb5Q0gJ/UbiD5GfvKP8TrZg75Vty75ylaDkz32AyeYkN8HvuejqYn9qWFkBBN7/JZXq6kYx+fgRjRNDIrkmNUs9QOP01xxgtnVKMq7h4z8fXbQXOZ9+tp8IXLmxi9yXA6YrSaAxbrHZUW+7apSbXL/f9h+sIzr6p5sXjl/NySk6zRE3hh1k90A=;lLCl2wC9gWGW+Z7uQ9yrTA=="
 ---

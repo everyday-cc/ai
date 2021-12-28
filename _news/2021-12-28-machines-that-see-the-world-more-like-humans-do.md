@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-28T09:41:00Z
 originalUrl: "https://bigthink.com/the-future/machines-that-see-the-world-like-humans-do/"
 webUrl: "https://bigthink.com/the-future/machines-that-see-the-world-like-humans-do/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://bigthink.com/wp-content/uploads/2021/12/MIT-3D-Perception-01-press_0.jpg"
