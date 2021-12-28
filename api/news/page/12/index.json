@@ -47,19 +47,19 @@
     {
       "path": "_news/2021-12-15-ai-voiceover-startup-deepdub-inks-7-figure-deal-with-streamer-topic-to-dub-the-killing-the-bridge-and-dozens-more-tv-series-into-english.md",
       "title": "AI voiceover startup Deepdub inks 7-figure deal with streamer topic to dub 'The Killing,' 'The Bridge,' and dozens more TV series into English",
-      "excerpt": "Topic, the streaming service owned by First Look that acquired rights to dozens of European shows, is partnering with Deepdub and will use the startup's AI platform to dub its titles into English.",
+      "excerpt": "Non-English, local-language series are steadily finding ... to four-month process of dubbing a TV series, Deepdub's AI can translate a project in around four to six weeks, the company has said.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
+      "webUrl": "https://www.businessinsider.com/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
+      "originalUrl": "https://www.businessinsider.com/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images2.markets.businessinsider.com/61b7ea409fe44f001964e926?format=jpeg",
-          "width": 703,
-          "height": 526,
+          "url": "https://i.insider.com/61b7ea7de385d000186d60de?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,7 +69,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T09:19:00-08:00",
+      "publishedDateTime": "2021-12-14T08:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -239,19 +239,19 @@
     {
       "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
       "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
-      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 release of the world’s first artificial human arm,",
+      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 rel ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-ed2b087cc1d84332bee3a9a8d8f751ad",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-2-000-000-from-1-000-retail-investors-on-track/article_d1a4012c-c794-5810-990c-64987d106edb.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-2-000-000-from-1-000-retail-investors-on-track/article_d1a4012c-c794-5810-990c-64987d106edb.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -261,11 +261,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T07:10:00-08:00",
+      "publishedDateTime": "2021-12-14T07:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,7 +59,16 @@ related:
         width: 1004
         height: 586
         isCached: true
+  - title: "HealthWorksAI™ Unveils the First Healthcare Data Platform using xAI technology"
+    excerpt: "HealthWorksAI™, an industry-leading Healthcare analytics company, announces the launch of the 2nd generation of their state-of-the-art xAI program. It's an advanced analytical approach that collects and processes data,"
+    publishedDateTime: 2021-12-28T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthworksaitrade-unveils-first-healthcare-data-platform-using-xai-/2021/12/28/9517490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
-secured: "29TqmnQfxq9kOLBvpdtWIMMlJCR6+RpGPlb5qNDGhrWnpH+gRAV1eXGjqdN8j0l0SBDUAfOdbyALZRjx+fOWTRZosL6pfUQxkIUNN71Zl5nTaJIcY5il9hFUScxTu6EbR8FarYHd9WMrPgVXn1kVeaXM4Usxw03jXUegozub04+4XH6k/Cbb6OVmyK4CWgwCD+9RGqQvqjc2aoNCcq1K2KwH4ARtvc5R69plDZtrsIZ9cAVx3yrkTho9LrWbjXMottAgUZKaSKgseITRXv1ny2A0EBBD2+/mVAI0WQC5DeeX8VzDRSnBcOURgr8FtOvwk5Ohx+o65X0w0yWWhomk7+Iu0+PxdtcOUBDByY1HzbA=;j3xzTQ8oU3vqPZhvBG/KUg=="
+secured: "6UtyjENQzTumJpoesCt6GFPyzMaHtr0G8IxhvOp8i+fCwSEpPVzfpQLpU5BosYkQjFv3ZvOK8I6aWsQ3GQkJyuZTDDRHUSwIq7yvD6Hhu/XP2XqvtWXB57/Jpw+ApZ7vCWn0RN7sRu5tIfcgADZD87kKX9A1g2KcrU1bc/FOdUVTBZfoKgUX+tN3I38Rvr90qWe1z6VbrKdM0VGWgS8/E1/qexm0WrEK+4uDTXnRkK3vD+uPhE42B6z3SCHwHlhACjRylIeQ6Szi9UwnPen3BlQKaYTRN2sS4jNTAG5YmKilTNnuET4Yb4b77Cx81M5QBB444DV/UKH9I/aed/PMLQ3M/hGApCflht5Ds5JiDJXURrnu+pcxTUAlNxVGo04xrdeonQUTkZ2tuVLlM8RertvhHS6Mc8DIEBwrKpzZj3+LN7FdwI35REXvQ8hlKXsdSXKPWz6mogS7wPh0OX8bfP8Op8ukJUZTXVmE8PilERO1JrwZF5Gc0hXDuziyEWfUNP+jXLplSeVYaHUZ+ZZj/Q==;Gm4MsyO6DtNxvOsOnQ7+GQ=="
 ---
 

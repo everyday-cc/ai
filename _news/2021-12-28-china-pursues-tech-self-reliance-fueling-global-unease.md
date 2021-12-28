@@ -1,31 +1,25 @@
 ---
 category: news
-title: "China pursues tech 'self-reliance,' fueling global unease"
-excerpt: "To help make China a self-reliant “technology superpower,” the ruling Communist Party is pushing the world's biggest e-commerce company to take on the tricky, expensive business of designing its own processor chips — a business unlike anything Alibaba Group has done before."
-publishedDateTime: 2021-12-28T07:29:00Z
-originalUrl: "https://www.chron.com/news/article/China-pursues-tech-self-reliance-fueling-16732971.php"
-webUrl: "https://www.chron.com/news/article/China-pursues-tech-self-reliance-fueling-16732971.php"
-ampWebUrl: "https://www.chron.com/news/amp/China-pursues-tech-self-reliance-fueling-16732971.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-pursues-tech-self-reliance-fueling-16732971.php"
+title: "China pursues tech ‘self-reliance,’ fueling global unease"
+excerpt: "China's ruling Communist Party is pressing entrepreneurs to make the country a “technology superpower” that doesn’t need the United States or other foreign suppliers."
+publishedDateTime: 2021-12-28T15:03:00Z
+originalUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/"
+webUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/"
+ampWebUrl: "https://www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-pursues-tech-self-reliance-fueling-global-unease/?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/23/32/15/21865316/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "Fqb0DYc/uA15lDaVnjCz8M3EFNeifnAaO6+g7aCCaUekhf5fRkkdv3DI92KBotWmSod3i7kej/4WU+EbOId+8vSSYmwibrNHHELBTyxFa7aQVhog1fs1u/vF5GMrW4L/PYdSVeBpOaJeCzKw88KZZLap75bFgNyN7+ZayIg1pZsa6m6F2L48MY/yv3fecwgKV8Wbsxpa+VIz4FBTJrt3hJ8ZJKwjfhog2DYg48VyHAvU1jCx8CpqHUPLswXuFeAcu/1UWqhbu3HTeIQcajqwD/G/IREedmNS6r7TarPDdogwm8PVBLtQlnzxSaB9lp1L6Arji8ZJMZAM2yRSOe/m+7c/qnH1JENFAEdBo3bpxuA=;DXAEAx5nmpdyB7GjHtUCPQ=="
+secured: "SHSZyGywN69rtD2/G+AgLeiucmuZSCLFqcBbK/shnaLgc0zYd2o0DKyMpCRcpGqpFQmWpuP4ExP4IiJ0h0Rvs9zJfMz+vgT74w1JSx/MV/35YM6TQAdOQufAQUxf/5sgpPGWs7W68a+BUQ+TB2Ih/bSEJ9VdfGErfomJa3sW/0bX5zU5wTQs3HANZUJEmIFEixz/DLlFKM4VTe3ez8eZl3EAX51YF1Jgqpqn6PCt/CcFD9zDcLh2XCduI5PS1EfDoZTo8HjCV2hKtINqBftvgia7qI/HARj6uyFvh3y6DB4CNruYh4U/aaLJDKZpU1fEXIXFGMaV454b3wMfqoY2CfPkaASv0ZHxfRE5+U7XEHyIm6VkYqIuHH78BptVWnRUVq+xhnjyumYOFAKw3o6cUlX1PhLi3JtPhXroBusLrj5f4nFcnXg3S/wfRGnDse0z7r/ICFH5qUgTikVMH+TKMtJwfSCaY1y0l/errsqZoFCMKw2eePIHLrzazOI99f3BMfi48wZSx6x2aGC/G3QLFQ==;vkY+KK/1AEmPGPvMvAEgMw=="
 ---
 

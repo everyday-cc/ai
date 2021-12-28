@@ -59,6 +59,15 @@ related:
         width: 1004
         height: 586
         isCached: true
+  - title: "HealthWorksAI™ Unveils the First Healthcare Data Platform using xAI technology"
+    excerpt: "HealthWorksAI™, an industry-leading Healthcare analytics company, announces the launch of the 2nd generation of their state-of-the-art xAI program. It's an advanced analytical approach that collects and processes data,"
+    publishedDateTime: 2021-12-28T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthworksaitrade-unveils-first-healthcare-data-platform-using-xai-/2021/12/28/9517490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
 secured: "xzizeOm3Sb5ZVDTY+SdqNc3ACdlNhlPMWaU3CF2n3gUh+jKKC3KQGAW2NAn08wU7S20vGTLRbj1gub2Eteurbhp+Jp0SKg+lKyUrVH61oKhtZqwQWLtAs86sl4f3xoZWABwSxID6V6eAngL7+vi2lCgFB/7fm2WkK8cQUyZzcQl+Suka9Amui990sTkvWMx6cOJTKwuOOtEKAxOncRM2YnU4G+PaRIA76ohBbPv5WSEBCquB6ckInQWez6CrO3fCIh6xJ8zHWdYdTmF9dI/ZtC7BNsOzF4T5X4MfelcppgKwjFzPVujR/HWuA7ijSWsfhREaj87mK3EjGVV3DkcSq4BoCvIsb3/CHs1qosnR/xz/qkiI9PVZdnWeaEbnAYhjHAqlLuoz9kHf533YhENdHu54P7kfd33r7qyEn6y3MoIXM834DDVtOoIHKDS5uN+8/MdMG9044/5q7XgP5HUSk90jWcoKVWrZiuLjPnqaV0iYGRR5y7zX++9ZptciwubGORqJHw92enXusk6fWiO39w==;MWVpjpLYtp0w479j/+421Q=="
 ---
