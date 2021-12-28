@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Massachusetts Institute of Technology: Generating a realistic 3D world"
+    excerpt: "While standing in a kitchen, you push some metal bowls across the counter into the sink with a clang, and drape a towel over the back of a chair. In another room, it sounds like some precariously stacked wooden blocks fell over,"
+    publishedDateTime: 2021-12-28T01:37:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Massachusetts Institute of Technology: Tiny machine learning design alleviates a bottleneck in memory usage on internet-of-things devices"
     excerpt: "Machine learning provides powerful tools to researchers to identify and predict patterns and behaviors, as well as learn, optimize, and perform tasks. This ranges from applications like vision systems"
     publishedDateTime: 2021-12-28T00:56:00Z
@@ -92,6 +108,6 @@ related:
         height: 400
         isCached: true
 
-secured: "/WCnWoEK74lb9VH6Chs9NFcC0JAonMcmQ7ecTN+MC1O6uYqw58LvDAkAdpkGv2mgXliLXHjM+E5Iu38vON5AHKafVKaOtD8j+nKU72MUNNgjd4kLyefrBB96SNYV65NNiqK9U7ei/nUfHrpOczyMRvwrMAqnyP4tt+53CiTPRpqA7BQimROcTvwjSiHG1tXR9pqcTvtBhPE5BGWyWjvs0X5vfaPfY6cRpqzZ4EuRNawFB3EwP6gO7Dc+puHzY05/4iMClHm+o2t4NANRTeJ/naPxLevngFMslxBN0u0HUly//Fr7yH7TaXzWewNqa/QQkp0eQdvO7E3FogSk1RMr9DdhvQrx1AFBXTE4qk1xrwk=;DLCtoHpZRexCE5FTom+1yw=="
+secured: "fmrjPSSIfHUf6d+1DvhLP6ZlS6lR1FLq9NT3zvwjP14WToxmlPhMjGOtiQFEtfSSei4Bs39GXmHRb4VVd0Crs0exAYXyOxM7TSyEtnRhjBANkAHXuC0T0LNBWMAXjPbRp/Hg87qGJBTNnNBgDX5Nx0MiPLZMIKIllHEZDI6nyqNUCK24eu7vUdxMnG+SRT8FMmeeT41KYlzX3TkPSBLqNXBeHNl9aEwmIk/M19JXsQqB6Fgvx2y7LQFDj04uZFWWDH6e3aYWkflswYnUFeCLYunlzsQjoavVHm8aa2Fjpps6AruG1urZ10YhQxpJh4fk7W42sp94LFhn0o45zxxefdpea+8d3jG6dKEZB/ohuAwwDCPMvCvc/cE+h1MOrz1jzkYizGbynRocUgS/OPwrn4sSwOuQ1byrSvV0N57QuDYGKecHF8/k5W0zrIHqtE3Sux3Cnt2PPUXA0cNqUW/N6c9VR0bM4O4pUNKTK0iw+53jlbmm0IFjQnE6/hIfs3NFRf4Cijx26yOgCksvXSPnsQ==;II115Ao5lDEgzLHhuzIzpA=="
 ---
 

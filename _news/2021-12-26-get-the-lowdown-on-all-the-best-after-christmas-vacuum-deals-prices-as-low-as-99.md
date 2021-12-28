@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis urges humility in Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T15:38:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-pope-francis-christmas-20211223-3isdtagtmjbc7kgn4xhh5p6sym-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 44
-    images:
-      - url: "https://www.baltimoresun.com/resizer/5fOam-TYMmk9EZHhSonbDN7JxD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7OUSNP6ZQY5KQLX25NX2H4HXVU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pope demands humility in new zinger-filled Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
     publishedDateTime: 2021-12-23T21:18:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
         width: 506
         height: 366
-        isCached: true
-  - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
-    excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
-    publishedDateTime: 2021-12-23T16:07:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 43
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/dc475f3f-a058-4e5e-9f85-03a31ecf8133/dc475f3f-a058-4e5e-9f85-03a31ecf8133_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
     excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
@@ -103,20 +71,6 @@ related:
         width: 1195
         height: 600
         isCached: true
-  - title: "In Speech to Curia, Pope Francis Warns Against Worldly Attachments, Including in the Liturgy"
-    excerpt: "To close a year in which he put limits on the celebration of the Traditional Latin Mass, Pope Francis warned against the temptations of pride, spiritual worldliness, and attachment to superficial reassurances,"
-    publishedDateTime: 2021-12-23T15:28:00Z
-    webUrl: "https://thetablet.org/in-speech-to-curia-pope-francis-warns-against-worldly-attachments-including-in-the-liturgy/"
-    type: article
-    provider:
-      name: The Tablet
-      domain: thetablet.org
-    quality: 28
-    images:
-      - url: "https://thetablet.org/wp-content/uploads/2021/12/VATICAN-LETTER-POPE-CURIA-1514718.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Pope demands humility in Christmas speech"
     excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their"
     publishedDateTime: 2021-12-24T05:00:00Z
@@ -144,20 +98,6 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
         width: 899
         height: 599
-        isCached: true
-  - title: "Thu. 9:09 a.m.: Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops and bureaucrats today to embrace humility this Christmas season, saying"
-    publishedDateTime: 2021-12-23T15:28:00Z
-    webUrl: "https://www.tribtoday.com/news/latest-news/2021/12/thu-909-a-m-pope-demands-humility-in-new-zinger-filled-christmas-speech/"
-    type: article
-    provider:
-      name: Tribune Chronicle
-      domain: tribtoday.com
-    quality: 22
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2021/12/23090838/AP21356397514922-750x500.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "bRV8UmZFPID8TnQbRvv7qo+a3A+hn4/8H8YQmPN2fES7MnkeQYYof9CFCceC4ojlLlyopdro1SpoLaWCwfmTswQ8lJAXGpSKDzfBv5PTvfCwap9W9XPkNX5c7mzSGCaZKmLgchfqigcNxo6jfEInHuwxiD41AHTT6RY9m5RQk/VJ/yeFUc0R+WFv2qYcVAYp3I/oGO+8jW6ZjBS0pWbkmCTGrKPxcbmM4kJ4RWH2ER3bMxUReMMdQL4zHQGInIx5xPzDSvscQ0zFMsR0PLo1WoyyV6sHHD2J9aBn46PN3an7q9j1jAzGWisR0xhRJrFqzVYXpxEAkFlfFvykh5C+QwSajB/3gwX3M61uQtMYkWO9lH0vmEVdnQwLKyACGyQNwd6f8gaOCBMZC146twBRWANP95Ko5J56AsHfFAECnjQvGiw21iwrbY/Yda2ccJ3RZ7HtR4UxW6/8NRaE0HBVovgIP+4hGHJ3A8Ux263mn//Hwlyy2cz5NPFd0BvDwT2AD8aBYnKstKKOFkxsvO/nJg==;n2mO+rDL4Sms8/5vAgvFFQ=="

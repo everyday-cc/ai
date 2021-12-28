@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-mac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 786
     isCached: true
-
-related:
-  - title: "Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments"
-    excerpt: "The contemporaneous development in recent years of deep neural networks, hardware accelerators with large memory capacity and massive training datasets has advanced the state-of-the-art on tasks in fields such as computer vision and natural language processing."
-    publishedDateTime: 2021-12-23T15:40:00Z
-    webUrl: "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/"
-    ampWebUrl: "https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
 
 secured: "uSjBxLd3P8KRIuLnvKfXO5dEPeHPyJmD+w+/nLn28Tz4E7rh6AO8FiRFtKy/e50IuAfgofSO2miZ+/iHhT0Q0gXjoWUam36491Qeh3uNrx19mJ+xsisUgqpLYVVbg9KnAZSXloLF423+IJibBhCk0TZsWgo3q00ud0d300HQSO3S07VsecJGELrzoc/4VmxdTDZxGdINMtuHH3cZfA1yE3Wr3c1QF6riSI1clUyE1kkgAApFNV8owv1th6nkAeXsUAiOwJk8MPcHF+HJtLnGDia1cFee3N0+fTsEFRKL/HfmxfdKKOmjjxTUKSj2X4Qe4eo5I4WdpniKp4ZLV40SlTguHbWMnYhz9wGo0oUZUCE50mlLOHQZyA4M6o36ZpSl5KUT53GirNCPuMYmUrptuzAICAAzxrZFU4jh9D48iJyzOm5ui7SQg6+xmrjfWn/ul54HCrjayn4qataPEmy8ooFDVHPaCRCmFxhrrp3FNqkbQSnYjVaj4hqbB9V/B+jEw8SygG3iEirV64PuAMgITQ==;LWELYymzoesrqMihj381Rg=="
 ---

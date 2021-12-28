@@ -75,6 +75,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Massachusetts Institute of Technology: Generating a realistic 3D world"
+    excerpt: "While standing in a kitchen, you push some metal bowls across the counter into the sink with a clang, and drape a towel over the back of a chair. In another room, it sounds like some precariously stacked wooden blocks fell over,"
+    publishedDateTime: 2021-12-28T01:37:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Massachusetts Institute of Technology: Tiny machine learning design alleviates a bottleneck in memory usage on internet-of-things devices"
     excerpt: "Machine learning provides powerful tools to researchers to identify and predict patterns and behaviors, as well as learn, optimize, and perform tasks. This ranges from applications like vision systems"
     publishedDateTime: 2021-12-28T00:56:00Z

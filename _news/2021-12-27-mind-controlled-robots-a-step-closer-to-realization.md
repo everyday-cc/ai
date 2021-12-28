@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/mind-controlled-robots-a-step-closer
 webUrl: "https://analyticsindiamag.com/mind-controlled-robots-a-step-closer-to-realization/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mind-controlled robots now one step closer to reality"
+    excerpt: "\"Assistance from robots could help these people recover some of their lost dexterity, since the robot can execute tasks in their place.\" Prof. Billard carried out a study with Prof. José del R. Millán,"
+    publishedDateTime: 2021-12-28T08:33:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robots-now-one-step-closer-to-reality.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robots-now-one-step-closer-to-reality.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robots-now-one-step-closer-to-reality.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/June/man-gently-holding-hand-of-humanoid-robot-assistant-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "Mind-controlled robots come closer"
     excerpt: "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own."
     publishedDateTime: 2021-12-27T07:52:00Z

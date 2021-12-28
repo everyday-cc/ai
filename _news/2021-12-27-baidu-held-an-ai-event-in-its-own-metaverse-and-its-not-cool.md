@@ -70,20 +70,6 @@ related:
         width: 826
         height: 400
         isCached: true
-  - title: "How Digital Twins, Blockchain and IIoT are leading the innovation of the wind power industry of the future"
-    excerpt: "The connected assets and the Digital Twin ecosystems are taking part in the current digital transformation of the industry empowered by IIoT technologies and Blockchain. In my last article, I explained “How Digital Twins will transform and digitize the wind power industry”,"
-    publishedDateTime: 2021-12-23T15:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-digital-twins-blockchain-iiot-leading-innovation-mba-llm-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 21
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFu9Zp1ZJc9dg/article-cover_image-shrink_720_1280/0/1640264667501?e=1645660800&v=beta&t=t6fVxEKMvbl8N_jyDtpKm8xnoXYnXdhjJ154t9opRq0"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Nrun39o4R7Rz5bMiVhRf0NfWJ6mIrbOFKzZmrDR5cdhYw1EZnsi25kY/GctTEzn+YPFRjB4dp6PNlgPpgNOl0IBn4idF272fovqisMBVlgzO5ku9ncQl356h85Gcvk8y/Ee58VwmZmdngwx1vNw8r2iY+Z+BpZuCLrjJfVrFXiJFtrEuRgW7McBo0LsCZ/NEUVYT/HCYPmhwidbWqoO043BB5DqN1LVxm06TJoAl4lwELx2MXbUVSo2/g4p0EtzVSUtInj3if0cxIQBqYymSlW0tgdBfIp4IpJalG3Fl2/R7qYQH26C15wWQUxyDUbkH1GwTVOvNtxZvBMHC9nQTBcV5e6jzl4LgXNPU3EA5M/N6WRTweY7SY4VMlLSGJRc88CZV2xdGsVeD5OnwO5WOqN4vtXL2hhrDOUFuBEZAkQ89zq7BD6I3ingmQGwalcPY41ZSzqp6cm5vobdhjcq4zbOiWNANMWfrfIiW0ZgZvsZT4ho5SAXWFTRfStx0a0IFxLGmF/28fa2wodJN+kvg7A==;eJSpa7qX+Evc58NDbalNDw=="
 ---

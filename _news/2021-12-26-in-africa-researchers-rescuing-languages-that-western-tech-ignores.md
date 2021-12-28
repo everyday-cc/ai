@@ -58,6 +58,22 @@ related:
         height: 608
         isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
+    excerpt: "We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,” said Vukosi Marivate, chief of data science at the University of Pretoria in South Africa,"
+    publishedDateTime: 2021-12-28T07:01:00Z
+    webUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+    ampWebUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
+    cdnAmpWebUrl: "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
+    type: article
+    provider:
+      name: The Sacramento Observer
+      domain: sacobserver.com
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2021/12/tech.jpeg?fit=1000%2C667&ssl=1"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages."
     publishedDateTime: 2021-12-25T15:17:00Z
     webUrl: "https://www.winknews.com/2021/12/25/in-africa-rescuing-the-languages-that-western-tech-ignores/"

@@ -92,7 +92,23 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Massachusetts Institute of Technology: Generating a realistic 3D world"
+    excerpt: "While standing in a kitchen, you push some metal bowls across the counter into the sink with a clang, and drape a towel over the back of a chair. In another room, it sounds like some precariously stacked wooden blocks fell over,"
+    publishedDateTime: 2021-12-28T01:37:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
-secured: "rp0XbK3EHalqjfx/k0PlURiNgy/UPIBNGJF3+chT/ZUtvkbKO2HJwvwNzYohmQrkuiIUe8IBDDMgZOulXFzCiRCRbZDp/om5mxpuogP1c5zP17rQ2KNZ5q5m0lkJBpbZdQUI4SPsso4jR7oX+a6J4NOnyXaQ8EhlyuecoOh+bKs1BjrRcxoPZgcN3p7fWXhsmRmSMJL64Xt7bW5J6l/TCtyasBuPo2IqGfqYVmxFeGGmKpHlO1QkG+/xX91zHU7uD8Mr2WMPA1vgJjs9VUm0oIvold2CK/NwNtQaxSm5ajEQM3WsAnkkA7cgNcBWWO4w2JPY0+JGgCkUXZKpvBziJBFfmidJ1m7pbYqrZdgNpFE=;I0SaKr7KVCflEp84MnWu4w=="
+secured: "1U7M5y2SRfCejoRk/DOSwAl1pYutvyqVlJQ5PEjBZDTbwYDenBgWs7vbMFeQj+fkfB0mx4MfICboZCFjoFisPQRHuZYqvO+4KKpsM/G3sYQMOfxqO7hJaOgVb8v1Ot2B1yjg+wzsXQssmZ6wwyqIVLJml2WcKfYs7s354EFygSiLhmWKoh0becTTN13z0qw4QF95y/W9KJ5/Eg4iERcDt7LP5brlyoKXRPHZWa5UPQla5K+gC+I0aZWzP82Uek2+ZPMfeNhB7hjTqox0a01oycpBen8uQfBHq+dPJHc2920f83mpUGF/d+pGGz6+l/tyrov9GMHG7jXysFt661zn6d11u69YZfHBVV503JWVTiFdwsUxSBpcCLEhL0cstYoNLoW3eimCtmOkvXd3Wefb3oQY49Do7QWyRGTHuxsm7Aqfj/gbTNxCdhF34F4iqS1WUJZwbAuclOmntDz+9ZWt2Y/pHplrKdX2ybbdQoJGHMnzK27AbTJzrrEi0ei4FfnbFwuTrxHM+Y8jirX3n8Kqxw==;1uCamjyVFMu8vn5BTr5sOA=="
 ---
 

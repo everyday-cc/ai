@@ -213,19 +213,19 @@
     {
       "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
       "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php",
-      "originalUrl": "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php",
+      "webUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
+      "originalUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -233,13 +233,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php",
-      "cdnAmpWebUrl": "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php",
-      "publishedDateTime": "2021-12-23T04:13:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Our Midland MI",
-        "domain": "ourmidland.com",
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1098,6 +1098,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-natural-language-processing-nlp-in-healthcare.md",
+      "title": "Natural Language Processing (NLP) in Healthcare",
+      "excerpt": "Worldwide Natural Language Processing (NLP) in Healthcare Market In-depth Research Report 2021, Forecast to 2026 is the latest research study released by AMA evaluating the market risk side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc13792323_g.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "publishedDateTime": "2021-12-13T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
       "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
       "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
@@ -1444,58 +1488,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m.md",
-      "title": "Synthesia, which is developing AI to generate synthetic videos, secures $50M",
-      "excerpt": "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/",
-      "publishedDateTime": "2021-12-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Natural Language Processing"
       ]
     }

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
-publishedDateTime: 2021-12-23T12:13:00Z
-originalUrl: "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-webUrl: "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
+publishedDateTime: 2021-12-23T12:08:00Z
+originalUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
+webUrl: "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
 type: article
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: WTOP News
+  domain: wtop.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg"
+    width: 2560
+    height: 1706
     isCached: true
 
-secured: "p/Z9jqggTLKLqtZbXBV2MJW3LpiKjYa8boJ7RaWnKTLQ9Mc8g0wbE0mGhmtGKnrGEP95kCvEueEtWBdx0h4TNn3ODH1RYg3gt0KFGxK/iE1cWSFuPXDNCLC7YLAOMnQimJsU9f0SJ2j3qlZ/ncr09vzmGpjUduOmheZIZhkmACxIqG3vfnY/XOZ6V+5R2T1CG9hWitEPfyBgMq/tuywohMlUHUXw1Xi8jQoPehexOBNouYxnSoEbtflwleG9ZJxHyzONQr6diiuN3Qbet5SeWA4TdMzT2NldUokHZWXg30RbYhPfulN0YdgopnPjMOI/hZUKKWytYqkLBBpN5QP8rNV6k9RGojDxRojLuD2gdo0=;KyDlVUUB66Q6C11pnNO9sw=="
+secured: "7/LF1aq42E9BZAsAQnpGO8xN9T7rEUYVlwsyOwVysBNMeOiSr6dUiQT7k5ugXd2BrSMFg+vAr2oSRAm2v0ghijhjBznqrrKQXjZIrlqgp04LtawuWNRZ1D58M1sL13Y1lZdvTJOTJdKyFnoIs91CNnTsnrkhkshw725UIJbEp7PPCoVVHDj9HFGTip1Dg8DOA1Tr5M4Z/u2qD1wIEUY/QjZI6otVbwpyJ118CyhjBwGQE4PmdKnzNZyp+s0hU3ZTeSiDLywxAWGV50Lwh6CkDOE3sV7u/0zreCKbmApguTBkMIIQZ90NuP+tceRTW9oUwe7A9HveBcQFhhcLtzqwHMzKLIzmDP19bhAsqXUwNzk=;TLYFGvRZOt68+xETvWoUww=="
 ---
 

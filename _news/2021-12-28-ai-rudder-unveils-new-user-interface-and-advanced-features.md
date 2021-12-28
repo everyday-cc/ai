@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-27T22:05:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ai-rudder-unveils-new-user-interface-advanced-features-/2021/12/27/9517306.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ai-rudder-unveils-new-user-interface-advanced-features-/2021/12/27/9517306.htm"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
 
-secured: "irXsyOQTpHHNVJRXHBC6Ia/n/0g/kGNGPvihkgs4jH97rSCrQJoPhgpG49U/RfJ6OTrzcVnDBiDKBFHG4ZJFUjXk7kxIIgKi/hde2l0DbMLvlf1jb/KLM133Td72ITAa3NrhVaCuw1MNAgD9KF2nhIPYfn0dxCRtiIABomr7MSbRicA9gAPEtNS+PCS0om54ztdEEQKh1ydmYgAiIyAC9X9f60DsYB4oar7DuexLsdr860s0szsfpZXDV15JO5iNVFF+GJOzCOu3RFNtTRk8J8HqbWSjknhVfo6kPW77o+/64IohO/9VisdPKiYtXjOikFyQJig0N0aebFzz/naG+QViiHmlLXCVYLDawnYeyxI=;yuwdtuqhRbBHkWi3nFbGKg=="
+secured: "Sly+LNMWAAQmGAKg58bE8rDv7nILe+t6++OgUsjpgk9kHKr3QKxTn0Cx7Ob4wBWjlhyR8zk2jnVWKTNHmIax/uk8KO4ELPv7clZMcPMc16drFrL3ilam0bOJYOkvmcrbESdgFzDkgiNhGkO8UwLoB/GHHr8jiskRJ77IOx8FYda35oNRBnyJHp1qrzJ+Cwv4I8g+eOZGK/BTSrFXmG6soZcBrtNEOxwGSlwjmyG5FWs9pdVlRVLuPwX1Jc9vVUZLSEI9zZ6BX7Z8ZND3tpkF9I+kjr9C4NdMWuqpMoIQlSVB4/OatLD8m3GU+CCXTBlfDsqmZ3sce5oTLWuUMV/vC8Qcz6XPEbFWG0k8xYivYoE=;5e6TuCXORfsYnFbGCUBjkw=="
 ---
 

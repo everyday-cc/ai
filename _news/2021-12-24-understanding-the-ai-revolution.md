@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding artificial intelligence before it overtakes us"
+    excerpt: "When it comes to AI on the battlefield and in cyber warfare, the advancements are accelerating the possibility of potentially deadly and reckless technologies."
+    publishedDateTime: 2021-12-28T07:41:00Z
+    webUrl: "https://www.timesnownews.com/columns/article/understanding-artificial-intelligence-before-it-overtakes-us/841233"
+    ampWebUrl: "https://www.timesnownews.com/amp/columns/article/understanding-artificial-intelligence-before-it-overtakes-us/841233"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/columns/article/understanding-artificial-intelligence-before-it-overtakes-us/841233"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 57
+    images:
+      - url: "https://imgk.timesnownews.com/story/Artificial_Intelligence_iStock.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
     excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
     publishedDateTime: 2021-12-24T22:00:00Z
