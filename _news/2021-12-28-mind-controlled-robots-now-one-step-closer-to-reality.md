@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robo
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robots-now-one-step-closer-to-reality.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aV0RfXEdbfGJYW1K0NMbBk60jsLn6C6CUwgiih8bBlOpIroGFibWveCDp0f6MhHuOdrQbY9+yBz9VsjMKjOJOE6+iPOrYVVknO5q2wjApj29259nvVRxFECkGDRDVPzvUzLmCkBaywQnCjGVe/E3i+9wc9wJGd5zJYQctecx77fYyGdgXbgWbwb120Hf5XKrAFs8zeApjm+HXmWnck7kkHPVDEFLmdq8J5mBYjIX4W1YEY4XWaoFmoZ2xKU5TOMER1Uy9D+Wo2q/pkSZU6RtGSkSDbxdQY6n//nce6NtJC0Q8SqXToSJpIePRIfDhMtggbgk5V7TuavHBjDBp1dyvVrpoW8hBaokZ7Vaab4iiyA=;4warb0dyk7W6Z498eiw8OQ=="
+secured: "6hApKuIqOTYtdkeE6pcgSgbk0J4wxqol8fxXKAm6Prn9gz0mFF8Nst+j3bLFoN9X52G3vK7yxvKWJX5IcOEDylyPcu82a/VqWMP3lbYN2v4ifCatxoeq3FfLLK1zDwmdrZ/47MPD5B1QdYmJoiSru0JWOzrTFQoRbBF9m9nOoM47HGrODKEepgjzL543eLtRzboxsa8mWZayUQSlEWTnmks1mKAXlamCZEAQFVtpM3BgpCq1SDRhoTBX01hYI+5/BMbJlr36DEaBlaZTz4qJG12Lj0K/VUVPifRbNxpDvgXJG4iGRHMOR8YpGzEXRe31Hd2SmxgFeLyzYIaacq6oubnPXtRp+8Uvlpgh/Cpgvtk8XCe/yZPksh49mDRZ+2d7vIpvAAqx6OIkKFARKSZtIuVYbZmihSvOD4ocvx/2MuIQXrUYlCHSNxri5fPyetjLeumzRW28J3XNuyT0IYlOD7JtJ4nBXG0tq2Jvz49bxxhZznl0mDvtgasxnKzgeDLMnwv1pIVPG/dgqTwO0UgiXg==;+uJ56f4WRqBgs5wqwiVbCg=="
 ---
 

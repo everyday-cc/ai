@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-change-stor
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-change-stories-ray-stasieczko-1e"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1138
     height: 720
     isCached: true
-
-related:
-  - title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-    excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-    publishedDateTime: 2021-12-23T17:16:00Z
-    webUrl: "https://www.entrepreneur.com/article/401518"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 86
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "9iMcvDFPyQtuW819mxCWhOu8BQSWTFCxRoy2Z1STNGFbDL+KsY82ihl/5EqLr8X11od6i265bo+T8G8SYtytY7trrM4lRhLwfseORoheJ9vSXnU6IzwiolYBGK1TZTxyBGeyDSNTT6LmuAQnalMLdchhNWAFVZPT7FSO/LVe+cwz4BxblSAPjLb5KXnQB+BuRsL5OBPGy8H/stY5++IM0t+H1ogRfN2Bo/ef+8agBuKIeiFfeyo9hnbieJoNWXOHryMoQjK2fcO84K3flWpgQr9Gfa0j1d9AviyulFftT5GCO4FShEhjYhZUptNMPH5YkwYSwJd//TPAuLBQdUzlwVDsEElNQBUo7quV3x2xkzk=;0y2wG2hHoiNvhiWSsogDnA=="
 ---

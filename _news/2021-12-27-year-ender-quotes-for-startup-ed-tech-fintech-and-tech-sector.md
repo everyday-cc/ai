@@ -43,6 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "FinTech trends that will change the BFSI industry in 2022"
+    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
+    publishedDateTime: 2021-12-28T10:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
     publishedDateTime: 2021-12-28T00:49:00Z

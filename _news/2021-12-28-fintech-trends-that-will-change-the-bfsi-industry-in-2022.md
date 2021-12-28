@@ -1,22 +1,28 @@
 ---
 category: news
-title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
-publishedDateTime: 2021-12-28T00:49:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
+title: "FinTech trends that will change the BFSI industry in 2022"
+excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
+publishedDateTime: 2021-12-28T10:09:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
 type: article
-quality: 18
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
@@ -51,21 +57,16 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "FinTech trends that will change the BFSI industry in 2022"
-    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
-    publishedDateTime: 2021-12-28T10:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
+    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
+    publishedDateTime: 2021-12-28T00:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
-secured: "r7JMXg6O4o6JFiXort1/kq6DyoJuCjaGDDXo0CC7Ukq4wRfYhxRVx8x88wTQDeuJlbv4rn47i2vAqGV/xkcT1+zuPX1gukz1hnspdB+/EyeY90C9yHtJJT62U3IkwIKDvY/JAQsUyDQd9N8HIrtCYen8ebPvEXckNiBrn12xwxQW1oGRM0A032QAAq/SIWM4kWdnVgU9heMLPp770DQ41sHdok+7ZcoZXOo5kdNKKMMxMhPDYwwzfpfbremxVycgXWEh5yKVWIlWg1a68Waxrz0WkQwdYFwWtQ6mdExvarSbriUqwLm4AU6veSPcNja7kVvKaUFcGcbZgbDXq/RGvu1cyEZXldhvR3KpPiBw3Ss=;IPAVe5iv9w6CeT/CH/V1qQ=="
+secured: "i645KhakD7Yh45n4OEvpifGZ7+KEk5qJ1CrToCW9UuRv7Mq+OtBAuglbly28fEANqSdy7ySJeB0hHb0espHutvBSCTx1g+q9RUU8KC5sTODpNKfgmBCzQLFP17ZQ6KK3A0uEkeMhSVhWnL1h+GErrLyEEa5FSsaxcH0nV53gAK9zAwx8DvgevarI4H2X63y2YsDEujIyNQCAEsY0FqOMUCyawjBefxQZDXtUyIZsarczXb006rHtIMKCwLz66D0G1Zy5OPqFGpFPo4Btgtp0Fzxv3EbY/otNZ6chzREipWFn0rqXKHPWp1O9An6YPw63ErasQmY1yh5NqGYVmF0SIgvyRQaat4a4xpy0WrHsqMc=;jluMltmZZJ/15ftwK02Gbg=="
 ---
 

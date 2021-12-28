@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-28T09:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5220819-global-artificial-intelligence-in-oil-and-gas-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "U5EI8aROeBHiDm9Esvs5BXIXZDFU8naNldaeepM3+x4TdDm6Ai9TTfWcE6j0tQsjSdjzVqVjSVFn+FkeqjTkR7VLYqtKEmdYhKREbLJz5VKZonwxtGBJl+QNqh2wXGwDCWVW+MMrE6J9iTCfZV3dgrCLUIHLmj0pQg4Hq2sbvKCKA98gpB19psCEJuQIBWN6/+fzQd2hPJYgUFTF7/TTMjlKuSSCiDNcUtgDGDm45AN/m0mxrULcX9As7F3ZToHOOe+DUqSNTSYsMPVxgNDP9Vkguv3LBTuDTmRy/sZUjVZy8AQUnD6EopiJcSH8DC2ZYabPPuaVm8/CxQ9gHJ/WbCv/yXp9nlb47fIfvQuMEKqDis4vYf8OPWfN+xf5ImJuU/hsELWdbZQ8ZWAFWWajhPgrr5KWKDUlKSI26exXFQs5od/ssyuKm6jut9NltYZk2Te5I5lizikmqlbMR70gr2pkVWE5hQm9RGKD21WRMk9VQvwOzmNDRZ3ZP663bEHrYdUxTmVn/Dc3can60mosLw==;iFhWiADiYa+ABPqnX3gjTg=="
 ---

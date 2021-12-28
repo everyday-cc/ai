@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China turns to AI robocops"
+    excerpt: "What could go wrongChinese boffins have created an AI that can reportedly identify crimes and file charges against criminals. The AI was developed and tested by the Shanghai Pudong People's Procratorate,"
+    publishedDateTime: 2021-12-28T10:45:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54103-china-turns-to-ai-robocops"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/42bcb3a3a15735b0101810a58e24e914_L.jpg"
+        width: 620
+        height: 432
+        isCached: true
 
 secured: "Ypw/v5is8mYoIOC/H29ov2+MoQVCpo6a/LeVqJ17hPkp+ixIUksThPu/qJ+02hsnM6EYi8SQUnz+K6pzu0PifhEUabB9odlegLcWEb5NugLgfuw5grQnZPEk8PJy566A2ZTxGnLA9a8QMhLkFhgb1F4yoDYs+Q9VHw+HB5SNgtRUNP5XlfuMBDb3ZtbntpU0AZWiMJcfKeeqK31A9tNG00q0zAvOGAD491WKfcdSp3/X1b7n9+Ue54V+iFtB2/6j/+2VOUmYgcB72Xm0GMdzZ/RgMg5Go4Z15uacKdWwk/cMveRgvJh6eBSEO1m4Jk5g8liN4qJPysHKU+eRxdYNs4WYgkaURKcKg0qRJYC/iGQdIbeuU5wmosYwDqtG22a2JvL16pxA9pP/2lZUc7AHthrc0Ht45NEcSvDKKp+6Kz1boqLPnfuOpnMBr51unxhHH9NNk0O0a8QVjNRtu0wYa72mGfshhUzBbcvVv1Z7WCZzhuMDemLEw/L61N5ZT6oaLionb+1iSCfwtg+LkjzgUg==;e99+r8JSlz4xKPSWpIGoaQ=="
 ---
