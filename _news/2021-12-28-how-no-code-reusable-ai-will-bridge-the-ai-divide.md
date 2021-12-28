@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-wi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.amp.html"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoWorld
@@ -29,6 +29,38 @@ images:
     height: 792
     isCached: true
 
-secured: "oonLzIAQGNyE0T+DYYNC7yofJVf9TaKaW+h94GyN7vU994XZiBDCqBxTJPZahgyVb3eck/Vju3o4eodWfmg0QhL+bmXSSJz6VowUMuc8pRDQVmxKAhY4bKpoNsd/ugos3RJhtQaILYSOid1XQp8NCHezV0vxtt8L1drVvsXj3g1eQfLd61BeT2BO45+fLcLL/FcHzXqe6lJq4r4+CriPWOhSBF3NWaPdsRr3/g12ByBwYi1/+aunsY/ZARU1UbjRpD9RuC/G6Fvit0WdmMPSaPiBb5MJObK6JIz1n99CjdrPnh5wuFKXGwK61aAn6kAQmPdk6UpHPYAL0/0MgioHct0xGT8ZpZLTWxji4fu5ij8=;aXu5iSNFYJCdt03auQa16Q=="
+related:
+  - title: "The Three Core Pillars Of Responsible AI"
+    excerpt: "A good way to raise executive-level awareness around the benefits of responsible AI is to establish a set of best practices your company can follow that map back to these three core pillars."
+    publishedDateTime: 2021-12-28T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d485278f05f9d68aa8b3e1%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Big AI Stories of 2021"
+    excerpt: "The year saw a record number of M&A deals and a regulatory effort by the European Union to curb the use of AI."
+    publishedDateTime: 2021-12-28T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/the-big-ai-stories-of-2021-11640696405"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-456328/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "x+bi0H9nWYS9jsf5f2PsEPTm+ba2oKVVyv2epMk8ubOmaNOH5VzXiB1ba9V1+JNoc6x9EL9r8a7BmWTn+RP5FcZJT3leCd3NmG+TTJTA00BClLXHFhz/GSp4URJWI4jJsDUaq/Zs3e7S2kUQkAEOTxDT+1G+53P8esPypFcZ8C5MyArf4GVjMegJ2fQzQk306oazTAeZZPyk2OP0kkCI97x5HpZ6cx11Ekj9dxaIpkfA7b3hGUSTM6JVb39WVxdciMF/WV1OjYtdYGELTSHlt5jcFj1F4hiOpkJ7oGVXUUvivs9ziZOQ/uMHsef+9VO4yBZx2VgOZd7KifT9bAT0PRTyCoHI7wFltHXGNVssR8xqP13QUGSsNTvy4fYPtJZFULvRATN8vGygMM3bEDiTKB4/B0GYzjSV6DDviNz58Q4B6uIHwXsGDiLyskJp6kk4u/0dM4UYrg1DmQQBwnk44hwRbJ3g2UQChJZ6zh3a2Ny8dDbmdrck/dp+yDHyoVYjLCDtLY4qEkRc/sVNdrFl6g==;4wEdTHNI/7vV1hF0+VkRqg=="
 ---
 

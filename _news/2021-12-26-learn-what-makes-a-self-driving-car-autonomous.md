@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-und
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
     provider:
       name: PurplePort
       domain: purpleport.com
+    quality: 4
+  - title: "Japan automakers to fit cars with level 2 self-driving tech by 2022"
+    excerpt: "Toyota will install level 2 automated driving functions on 62% of self-driving cars by 2030. (AP pic) TOKYO: Major Japanese automobile manufacturers, including Toyota Motor and Ma"
+    publishedDateTime: 2021-12-28T13:39:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/12/28/japan-automakers-to-fit-cars-with-level-2-self-driving-tech-by-2022/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 4
 
 secured: "Xa9xd/5a/ZplwEzaKluRcXSc/tuSDx6FthkUt7LPHAGLFlLWtvKProCTMgAP9lHM0K/l1wO2H2q4P46Mdz9WOeJNd+w3NyZe1ccOsjd+GQ1HKBoECShAmyNM63OcYVx+98Gdcmr8vKHda/i/Jq5i+1G0KxfvChUhCFTw8CVY02J4ubcNUNr983UcAe3b/3SlkewW2QBiPQ8RXPKlqvwaSCPyLiPI66vTu8q1BnAXWC5ppab3hOX6wRM36osBBS3/ucs63G1S8Var53rY+5QQbPJhuV0dKk05JnnaHsZZ907s+pgmVgzjY8f8dtM+InxgFwtBeC0LKvIbE/hxblQdqgokxs5M/GPV4PUHuNr4hOA=;jI8y3XobOjUhkxjTjIBzkA=="

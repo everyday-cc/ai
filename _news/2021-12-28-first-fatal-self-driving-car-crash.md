@@ -44,6 +44,15 @@ related:
       name: Truth
       domain: studymoose.com
     quality: 19
+  - title: "Japan automakers to fit cars with level 2 self-driving tech by 2022"
+    excerpt: "Toyota will install level 2 automated driving functions on 62% of self-driving cars by 2030. (AP pic) TOKYO: Major Japanese automobile manufacturers, including Toyota Motor and Ma"
+    publishedDateTime: 2021-12-28T13:39:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/12/28/japan-automakers-to-fit-cars-with-level-2-self-driving-tech-by-2022/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "cKobnB5ZBeNz1ww8uQPchwvgwou4MmVNaio/EDm1YPIWnrrpRLBSIygyMMz6ZFFzX9reGeDEAWXwVth1seeHu4BYnmqyf8dDmsMaYlerFUmgvLt2MI6dTRfwajm6CSm/SIbivsaPkuDLglGP4ILC1+wUVsFqrqmZ5XyB4AwagutLfpxq/3VrzfDScG1SOLh5vlglUK25TAqBGoRraaI+clgBdhCDBE0Ehx8gtt2a9eCKjJ5JmotzLPWWRRf1nuoWaVh9XU6TNhy5KON8jX3fpxx2kSN1qMKs1NBNgR7fZUzFzMi9K/53zXOrPiuGsy6HzbIU0bJrfWxCy/qcRLpNug5oGafilmvGBkxI8gteS/o=;mWAtUmABSukvQrCKiUpvUg=="
 ---

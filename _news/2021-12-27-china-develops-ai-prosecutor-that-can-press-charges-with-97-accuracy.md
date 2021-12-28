@@ -74,6 +74,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges"
+    excerpt: "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals."
+    publishedDateTime: 2021-12-28T14:30:00Z
+    webUrl: "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    ampWebUrl: "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 57
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
     excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
     publishedDateTime: 2021-12-27T18:27:00Z

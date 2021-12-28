@@ -28,66 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Raj to hire tech cos to train youths in AI and robotics"
-    excerpt: "Jaipur: Chief minister Ashok Gehlot has approved the proposal for roping in world-class IT companies for imparting training programmes to the youth in."
-    publishedDateTime: 2021-12-23T23:01:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/articleshow/88462458.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
+  - title: "Imagine a world without AI"
+    excerpt: "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that.."
+    publishedDateTime: 2021-12-27T01:40:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics"
-    excerpt: "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality."
-    publishedDateTime: 2021-12-24T10:28:00Z
-    webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 80
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Artificial intelligence and other tech trends to follow in 2022"
-    excerpt: "The world has already seen tremendous adoption of AI over the last two years; 2022 may see more patents granted to this new form of AI. Also known as ‘AI inside,’ embedded AI is the application of machine and deep learning in software that is embedded at the core of the device – from architecture to operations or from cloud-level to device-level processing of AI tasks,"
-    publishedDateTime: 2021-12-28T05:59:00Z
-    webUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/"
-    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
     quality: 57
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88509489,imgsize-38988,width-1200,height-628,overlay-etcio/imagine-a-world-without-ai.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
-    excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
-    publishedDateTime: 2021-12-24T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
+  - title: "AI and wine – a riposte"
+    excerpt: "Alder Yarrow’s article on AI and wine is spot on in terms of the current state of AI and wine, but gloomily off-target regarding its consumer-facing future. It is absolutely true that ‘most, if not all,"
+    publishedDateTime: 2021-12-27T09:14:00Z
+    webUrl: "https://www.jancisrobinson.com/articles/ai-and-wine-riposte"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Jancis Robinson
+      domain: jancisrobinson.com
+    quality: 17
 
 secured: "iFIkVk7JEY9C4z1LKPldW5FcTfQpW6YxlNhJ3nNE6HgEUfnEprtItgVI+Uqo0ROhyQ0XHlXPJRTt9sq0QRPKL+xJZfN+BUCYL8kN+ckO+9d4BpD3dHzqkNLkdasZlFe3BPG+ShxjYg3YJykOagTiXwxn2Ou5aF5p/bLohikOWObjgVGPtwkYZluRU7YISVVexxE4n9F/sesvX8n2Xpdv2rmZEYtIT8vk9BtzJ9DeWHBXQm5TpYxL5TlO36DOv6WDhD7Nl4MWLKKbi0tlRaTcivKF5tr1jbM+AnFd1Bl8Ktmi1ld6AC3CtqjIc1EhSt9b6qb4icidK5i9qFzA8s318fYLF1YNonXHEf9UG7T2KMuhRFyVMCaejYs8UtCztuYj+inuyXvxysK+ktY7j2OmsAydIanThGpYhTvJzRJQqct2ubsfwvw3OGrmcs7VDnWhzpcczbKXZJcTsnrDLQlnsllQKXWM0Yp9MocyKNqJheF2qQ6bhcO5VnU9rwCoLLFJ8oO0CyJMeCaR2oTpaTkHpA==;YNQvKmbXmL+EDe3GWD+79Q=="
 ---

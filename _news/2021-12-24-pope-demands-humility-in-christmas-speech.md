@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 44
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
-        width: 506
-        height: 366
-        isCached: true
   - title: "Pope Francis demands humility from Vatican officials in Christmas speech"
     excerpt: "Since becoming pope in 2013, Francis has used his Christmas address to rail against the Curia, as the Holy See's bureaucracy is known."
     publishedDateTime: 2021-12-26T03:22:00Z
@@ -84,20 +68,6 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
         width: 899
         height: 599
-        isCached: true
-  - title: "Get the lowdown on all the best after-Christmas vacuum deals — prices as low as $99"
-    excerpt: "Some killer after-Christmas sales! Luckily, vacs are no longer clunky, hulking machines that have to be lugged around from room to room — they're lightweight, glide across the floor, and are possibly smarter than we are."
-    publishedDateTime: 2021-12-26T13:13:00Z
-    webUrl: "https://www.aol.com/lifestyle/lowdown-best-christmas-vacuum-deals-141307213.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 18
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/1_I.mz4CD0TQIlLUpXSoQw--~B/aD03MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/6c3acc3249b0f6bca925ac8f515fabd5"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "DG83GvevhX/3n0Aq+HvKYKzGE4+DKpP4fQtzfybLyVCdfmAEobYkqw3umbWeQ5Isn8xt2y+Vrb3pib9Mj05Ew5kOthnZni6ueP/wIdUZRGj617NCRV7WQsNX80dyTWvNp1qgZAWbxoE/Hz8Z9OYX/11lg3rVDDynJcXXSenbKxuhQxpuflGO2LCwSyWy15pc/bo++gPOXhZ/ruLcn2yL2m/Kdo4Xg+TxL3EiJVWe8bX1/fDpVpS35gyafxrPZnP3JZ6jA7MSZinj5lOCxSUlbl4sblb2wFDNYWYkdQybD1/O1bvidZYYiVsLuUZTnRJ0IuDNg0wkNhjLcwJj1k4PeaCvOZl66+FJGrwb3YUdpGnIG2skNNtcnG96n3q9EKvN7H83pB19TQppAiS77ss2JoOFI633niwI0XqCs7NGDFLr8S6CA2EVRb91s2j0Pe11k7X5pIFWWu2CcvJ4So2+QG/7CgSFzPCvyTdeueCUxmkuGmBQ+zPSp8oEs1NmwfLtUqPVa9LEfGzX06axUPGzzA==;KI4odnAreLzbdFTYH3qU8Q=="

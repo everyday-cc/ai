@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-2
 webUrl: "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -24,68 +24,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Raj to hire tech cos to train youths in AI and robotics"
-    excerpt: "Jaipur: Chief minister Ashok Gehlot has approved the proposal for roping in world-class IT companies for imparting training programmes to the youth in."
-    publishedDateTime: 2021-12-23T23:01:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/articleshow/88462458.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Artificial intelligence and other tech trends to follow in 2022"
-    excerpt: "The world has already seen tremendous adoption of AI over the last two years; 2022 may see more patents granted to this new form of AI. Also known as ‘AI inside,’ embedded AI is the application of machine and deep learning in software that is embedded at the core of the device – from architecture to operations or from cloud-level to device-level processing of AI tasks,"
-    publishedDateTime: 2021-12-28T05:59:00Z
-    webUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/"
-    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "6 AI And ML Conferences That You Cannot Miss In 2022"
-    excerpt: "Analytics India Magazine has created a list of top AI and machine learning (ML) events that you should not miss in 2022."
-    publishedDateTime: 2021-12-24T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/6-ai-and-ml-conferences-that-you-cannot-miss-in-2022/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/al-ml-conferences-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "About AI, kids and robots in a store"
-    excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
-    publishedDateTime: 2021-12-25T08:03:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHw8BlUz-MkKg/article-cover_image-shrink_720_1280/0/1640344867429?e=1645660800&v=beta&t=ZfFqxOPUoz-AR-j6sLtqX6eNC3CDtG9WDu720a6eKiI"
-        width: 540
-        height: 720
-        isCached: true
 
 secured: "yMttOpvS6eLg/6s02yMV54HtcMpmeoWTQ0sOui1jU3bGGIYG3hzMy1wplsP3Y6mo0x8so6snvJQIhxpIfbEdiJzDxZanLo874LWdtoZ5pu6PczsZqRgSp0SCKfO4P03WEm53/MnsB4LFohxvKvZYvrBwig0TltzEXJb0DO2/Vxn37FoNb8LRftYzZ2BmNwl+AIYZbMhe8BSRoLqxa5PeJqWHMZqZXLzKpPSzasrUpvPT7CPpNfvep6Q/Kd2zr7AsQHHOMLHe5oFWeZudXs7KMfrmW4XN5Cict4HFpZsObR+BTY1Mv1CJFaTfSrjNDxYL8sMUtZ8ynWDT3yCe4yIZCb1AeMRLeCsPjN6/3NuD35EAglWPCqApBr0Z39YWC6cmrNv6ttiaX/SoOBIvOBK8P7UjFTUilg3um3ILgY0TYFEJB2yR8jFGggqyzbeAqU6i2RsAmRgVD1F2lFpP0pSFomEmXpcVtQdKts0/6XbxbVwRoHxQ8dpiIPbrc39yaggDcQmtiN13yQR3+VYo39AxCg==;MVQ9W1BS8ijIE6Cs05pDSg=="
 ---

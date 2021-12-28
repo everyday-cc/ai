@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
+    publishedDateTime: 2021-12-28T12:16:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5164798-global-artificial-intelligence-ai-in-education-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 29
 
 secured: "HQSiUz8z+6XeEP0T/+vQXclCms/GOxnmv68NqHlXfBf1baTxa9OZXU2xCK5jpHk9D2YgXTy4+bimaUdmXaKWEkOcpBbWp4NT7JO6estVsO48BhSxp0uFlVQ0Wdd7JzVo10zgMmV3cbf0fdFcgOXmlR4oFbPlC4Y2IEbeD6JwUVLuO2l2cOfEdbrcAeoSOCWj1IFOuO87xuas3kO7Wi3wXMQL7dmzbhQvKPRq1K0Q24Q3PqLhrcdMqJXnkkR5gHw+833txComuvzomi/V3Jr0TXuQke2oHTXMfl5Z6kWVN0/uOyn52nzL/Z4Ezw/taDTJijUPBOigxBLv7kP/TuKdpAr1aQVRTW4Mmb3DoBRmxcg=;ucsDP3n19VSWLBkj2POJTg=="
 ---

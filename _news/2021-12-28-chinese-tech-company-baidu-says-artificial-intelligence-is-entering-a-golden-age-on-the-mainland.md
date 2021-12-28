@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-a
 webUrl: "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

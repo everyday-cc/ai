@@ -1,35 +1,23 @@
 ---
 category: news
 title: "The 2021 Good Tech Awards"
-excerpt: "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in."
-publishedDateTime: 2021-12-27T16:45:00Z
-originalUrl: "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html"
-webUrl: "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html"
-ampWebUrl: "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html"
+excerpt: "Especially at a time when many of tech’s leaders seem more interested in building new, virtual worlds than improving the world we live in, it is worth praising the technologists who are stepping up to solve some of our biggest problems."
+publishedDateTime: 2021-12-28T13:44:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/12/28/the-2021-good-tech-awards.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/12/28/the-2021-good-tech-awards.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 4
+heat: 4
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    isCached: true
-
-secured: "TVZ0Hw4iH4wHDL57hX/8mFuPKPq8ky78C3piFLs/mCjGt3MDcTAdidm1ueJD+GsZW8qdS9C1NLOl5DQegvVGb6c2iybUlB7H6WQe03HN+Sbh3VgBo0E657ClUubhS3Op2cXzZ/FfGLCgVspAKItfrvWKNARAs4qDjwDZQkn5+YhD6yIy9OYHwYdRJYVQosbETG3h8qQOK+OKWng7dRpTEHyxI3UK0V2ZLTz04Ma4PSnydsg3sh92clu7FKV9YlUUi7ttdz6Kwvys+nqVQ3vr0Duq9wrL40Anh/IfCwjC8pTJPWOdllQBy3EV0eweo0Ik/oNPwlzABadZZ1htvueyzPMqcrj9kKfEWVF+6puttXyuYV5CK4YB9M7ELwEvM96Uiwl6UETMF1QEPTpMgLPBWgYE4G+qvi3Nyw1jj1TO1CIwl//o2ZU5YDzqkB9GAQcEfT8owrf083me404z/zKhdoWTl+TWQ7BhETltVq1HUXeO+nK6RQiNnk/55H7cxsVMHUZUOPuqw01KABRUef4XUA==;nGLTK+HF9vwolzdo8XdWdQ=="
+secured: "gIFTs+bqVV223TwEPbKpsvIqLWOLM5DXHWqvuSxL1gTghY4F0p2BlCFXwqXjuG3+rqYvLNVyNXr132W+cO1HoLUWumMHu1qQ8KqF8HJ8wfTEpS928CIgf/v4FMuD/6kyS52ejrVg34tOO0wVcN6N1SwxJvrpfBmwHHcLMS0/E/eOg/ZkOT58t8jWLNv4R/WgudJ/gTPshM7loj+ISI0RkwFaO/DsGdpNLiaZ/KyZgquFoze2jR8i8p3JPJIwYzW162DP2a35F69x0Fh1iI00d20myHJwxHwkhuqzS/Xp79DvGvQvravvRcEpz+YByrdvdILBBvbTiq9XeIN9ImF0W7CIFXlu9VN4VPXfySNEotCzViXh03M9HNBN0rCD1chHXo2vfCjciESV9vtXKA27rzSlZhVNh/I4Q5SSEkgdQLppIp+73CTxPf1/Jn7I4OEIP0gRHk+Fb6nfP13RVaOZNNBTW7qmuTK15TIPcRPqGvBwD40+pEOcZF9QvCgaOdJgY8JA6YlvRAWkC2HsxZ8dtw==;w/alDMZLb/ASgKW2t6Y2WQ=="
 ---
 

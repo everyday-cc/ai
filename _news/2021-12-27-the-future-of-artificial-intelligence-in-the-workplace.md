@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-work
 webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Book review: The Age of AI - And Our Human Future"
-    excerpt: "A book with a fairly unappealing cover came up in my Amazon Kindle recommendations. What drew me was the name of one of the authors: Henry Kissinger."
-    publishedDateTime: 2021-12-26T07:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future-johan-steyn"
+  - title: "AI May Cure The Ills In Healthcare Tech"
+    excerpt: "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,"
+    publishedDateTime: 2021-12-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG79EtHnPculw/article-cover_image-shrink_600_2000/0/1640496669534?e=1646265600&v=beta&t=wiz5T_H554MXbCViEtsfPs1miEL8hhniX4VGmAAXLFc"
-        width: 744
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9c58c405c5f1f7b90a849%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Healthy data: trends in healthcare tech for 2022"
+    excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
+    publishedDateTime: 2021-12-27T20:18:00Z
+    webUrl: "https://www.digitaljournal.com/business/healthy-data-trends-in-healthcare-tech-for-2022/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/FFF-5.jpg"
+        width: 1004
+        height: 586
         isCached: true
 
 secured: "xzizeOm3Sb5ZVDTY+SdqNc3ACdlNhlPMWaU3CF2n3gUh+jKKC3KQGAW2NAn08wU7S20vGTLRbj1gub2Eteurbhp+Jp0SKg+lKyUrVH61oKhtZqwQWLtAs86sl4f3xoZWABwSxID6V6eAngL7+vi2lCgFB/7fm2WkK8cQUyZzcQl+Suka9Amui990sTkvWMx6cOJTKwuOOtEKAxOncRM2YnU4G+PaRIA76ohBbPv5WSEBCquB6ckInQWez6CrO3fCIh6xJ8zHWdYdTmF9dI/ZtC7BNsOzF4T5X4MfelcppgKwjFzPVujR/HWuA7ijSWsfhREaj87mK3EjGVV3DkcSq4BoCvIsb3/CHs1qosnR/xz/qkiI9PVZdnWeaEbnAYhjHAqlLuoz9kHf533YhENdHu54P7kfd33r7qyEn6y3MoIXM834DDVtOoIHKDS5uN+8/MdMG9044/5q7XgP5HUSk90jWcoKVWrZiuLjPnqaV0iYGRR5y7zX++9ZptciwubGORqJHw92enXusk6fWiO39w==;MWVpjpLYtp0w479j/+421Q=="

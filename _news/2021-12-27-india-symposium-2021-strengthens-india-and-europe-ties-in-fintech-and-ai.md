@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ind
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
         width: 350
         height: 233
+        isCached: true
+  - title: "Global AI in Fintech Market Trends By 2022 | How the Industry Will Witness Substantial Growth in The Upcoming Years, and Top Countries Data"
+    excerpt: "What is the current market size of the AI in Fintech market? AI in Fintech industry report offers an inclusive"
+    publishedDateTime: 2021-12-24T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-fintech-market-trends-by-2022-how-the-industry-will-witness-substantial-growth-in-the-upcoming-years-and-top-countries-data-2021-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "FinTech trends that will change the BFSI industry in 2022"
     excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "About AI, kids and robots in a store"
+    excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
+    publishedDateTime: 2021-12-25T08:03:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHw8BlUz-MkKg/article-cover_image-shrink_720_1280/0/1640344867429?e=1645660800&v=beta&t=ZfFqxOPUoz-AR-j6sLtqX6eNC3CDtG9WDu720a6eKiI"
+        width: 540
+        height: 720
+        isCached: true
 
 secured: "f8FvRasZfR9ZHF/oLwaS+hflIfuC/ZJcqZGqHQfD3a8iU5OeHwvBpeTFmGnZBGiG7hHjDxi788E0T4FQl7DzgqCkqGovMVWNlv9A80hx4e3+q1fVlskQmqQQh5g+SB+U3EUprAN2VgSc79l0c7nTW0Q1iqXVRGfsOZRbL0udeb07u1wSpSowjXfIwOZvsZJEfBbIOQk04zSgBgPNg7H8E3/5/hsHLl0YhuK38pQRnwoip77sOM3s1wRzIR1/pn3KKMix9Ha6ChJTA1/dXDcKN4zfG7qByQHdU0xacujY+AsmW2+pBE6TRbU3Dor8wrIhGbnuHHQrjLBTmQODRiief5EHPkKXL47P7crlD6fKs2h6HDuuOS+PPAt35elk1s5i83jMT4NN1X6MASCOA/Fz77LjK2f8jakS9CnHjh8p7BYGX29oUEXCjo9io3RFbrAZrTJqplF3/7OsuToPpaFB+OhWKcbn49X7Y/S+IyXrv227DGXsZzMh0YDV5ihMT1d3kVYsLWFoR03MT+msbVO/Cg==;yhf6HVshWhg7n4vcmdSihw=="
 ---

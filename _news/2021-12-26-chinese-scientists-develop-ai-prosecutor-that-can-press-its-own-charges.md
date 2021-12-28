@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
         width: 600
         height: 315
+        isCached: true
+  - title: "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges"
+    excerpt: "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals."
+    publishedDateTime: 2021-12-28T14:30:00Z
+    webUrl: "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    ampWebUrl: "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 57
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
     excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/business/healthy-data-trends-in-hea
 webUrl: "https://www.digitaljournal.com/business/healthy-data-trends-in-healthcare-tech-for-2022/article"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1004
     height: 586
     isCached: true
+
+related:
+  - title: "AI May Cure The Ills In Healthcare Tech"
+    excerpt: "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,"
+    publishedDateTime: 2021-12-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9c58c405c5f1f7b90a849%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Future of Artificial Intelligence In The Workplace"
+    excerpt: "Smart technologies aren’t just changing our homes; they’re edging their way into their numerous industries and are disrupting the workplace. Artificial Intelligence (AI) has the potential to improve productivity,"
+    publishedDateTime: 2021-12-27T07:57:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGCUu_Dh3vAKw/article-cover_image-shrink_720_1280/0/1640591863869?e=1646265600&v=beta&t=aYuBTGZ9ssnq_STUQ4ScE3dG3qvyach6g8U6_Rur29s"
+        width: 1277
+        height: 720
+        isCached: true
 
 secured: "7zETu8E17jXpoh9ooboa0OvMmAPPpLsihdf6hyC6xNG2EkUKYhbue72VIOaeQYCg28vK2Nouv5o9AuEbRMGn5mn9cL9JwCnwhSGTnwGndFvpj3XFgQH3fN8LqLvQ5ruXKjWvL7ByV3IwSYo8cC2kyd+GuImRFHHGYAACc3gprC2MEN/WuhqpNa/K0/7Bj7D4h9RsO/U2v3YTkmlkqivacWPUqKUZh96bIegEQlyOB1d89vhNxuyHaxlzNh/1TezMSp9rtFZUewnbazcGhi5M0gHADktJ1PSijOtlg7ZVQgQZINu3lQH+PUUIjoI/DLNI/xGDjmd1DG3wxii7eLC5ooutP+cMEZxRzsQcCBhQ9zaBwnaF6Tu3jNgJeyyGJQ9zH6Tb0yeKilWWmgJwisUaqaDRXDS9vdst33j8xULrI3MGr3P1nLLk+B489uhARROc/qZyWpb+Fvp2/YnmEfG4ycyfkJNgid0YdfbitWQlIb84P7g/zumW7OVjBAJDlQKtKcILI/IDv6NakXSnj+85fQ==;bfAYk3qv3iw+m3NHMAz6Kg=="
 ---

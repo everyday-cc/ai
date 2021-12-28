@@ -9,7 +9,7 @@ ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/pope-demands-hu
 cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/pope-demands-humility-christmas-speech/507-2c3e8a29-e986-4440-b5d0-c1cff3791dd4"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pope demands humility in new zinger-filled Christmas speech"
-    excerpt: "Pope Francis urged Vatican cardinals, bishops, and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest, and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission."
-    publishedDateTime: 2021-12-23T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/12/23/world/pope-demands-humility-new-zinger-filled-christmas-speech/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 44
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ubBJ2MWWSLDfG_aNeAxThrGBQHg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7UNGFA6NVHO767NYLABGFEHMCY.jpg"
-        width: 506
-        height: 366
-        isCached: true
   - title: "Computer Vision Maps Christmas Lights"
     excerpt: "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays."
     publishedDateTime: 2021-12-24T00:00:00Z
@@ -84,20 +68,6 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2021/12/Vatican_Pope_50434.jpg-33558.jpg"
         width: 899
         height: 599
-        isCached: true
-  - title: "Get the lowdown on all the best after-Christmas vacuum deals — prices as low as $99"
-    excerpt: "Some killer after-Christmas sales! Luckily, vacs are no longer clunky, hulking machines that have to be lugged around from room to room — they're lightweight, glide across the floor, and are possibly smarter than we are."
-    publishedDateTime: 2021-12-26T13:13:00Z
-    webUrl: "https://www.aol.com/lifestyle/lowdown-best-christmas-vacuum-deals-141307213.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 18
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/1_I.mz4CD0TQIlLUpXSoQw--~B/aD03MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/6c3acc3249b0f6bca925ac8f515fabd5"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "Dw7gF0OQT73HXseNC+7s4UWnbms8gPPJcy6L1AqqsVmI2NdT8c+QaabLr/6RYhlOmbUoP7E7oy/t3t7Q6skawIm6VYSS1CWKbL9+ylva0kDrf2MZcKQLDz8j4m22Uh3gRbPWfsnXPfWPp44IERVnX1JRdUt9s1KrckIBLn0qf1SvxpC3mnOfkFCdml0gILwaGs8OP0cuDhuyqkDwtR/Is33DcXLZo8B+hL+O0z8GuThJ3x84V0lHTaL5UOyJA4s5WN0a2RGzQW8EfxYHbr2Zq5OR5owpHmUgdf/hSGl870v/u5tlYOjhwI/odnys8oJdodOF4GhaAC7JQ0ijd1xnhsynDVO0MYC9CpLlG/TbFAcvVQGo3fjv9tMHt+CHNYOUJ/DskQTW8njNKqWoV0yPpXl/0GVAJHqHiTI+X3ZYswiKR8GqZOYxFf8OEFa51+nhk5ASLZUdWCvFnZ6yoHSFdy/pkFrNomzzes428j+cL2JVZ1zBXXxOrXNWb9KS0nwJEZh/JRohEhdW5T81VRNE0A==;6SWf6NB0eYLaYE2UNrQV6A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-driven-analytics-is-essential-for-data-driven-decision-making/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 761
     isCached: true
+
+related:
+  - title: "Analytics and AI in 2022: Innovation in the era of COVID"
+    excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
+    publishedDateTime: 2021-12-28T14:03:00Z
+    webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "r4Ya2ZZqMUIlNf4mw2/hc7Ejy8SJg3/dyTmVJ+BFP/iwG7iuXGeky0BCUfwyZPckhbSIYfY/+QyOxUSKvdaF7hHV7qYHc7a2I7o4xEdgxaANp0PAl20UPnwRrYyfa+OLTXXbMpuzVH4/DMGbG74FuYzrZnfiCk+UsWxRBKW7FvCgKn6tOfcBuTVlsu3JUOjV3FdkJ+vADXkrY009dpsUpJrecINioaZujC3APVZ5qTVmJlCq458gKOUpd5fXLXj/OZfQASnxIQw2TIBnQ3vg7K8+QwpMCml/TV0tBzbomdYcX2i5Qv26byj7thlBdIPMvmXfKcL/NOs7w7ExJQ8D58cXFjm1IYj6lain2GW6k2O64vTmg68ksgUqiJ1kL9d7KZ0mkGiamMSqQ0m2F1mBF121Pn2fj2nPaUcGQdRg3ebvz46iawnwnay6EEPH9mWrpgr5SDyL5UI+fZ+fu1B1taQmriS56aYvTjQ6EVzv+OqjvcanzgSNxh1Wu+V+IxfeIuxDc4O0CypN107NWgkgLQ==;O9mv/6q6F03c0cDyuTzlxg=="
 ---
