@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
+      "title": "California halts Pony.ai's driverless testing permit after accident",
+      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
+          "width": 4134,
+          "height": 2757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "publishedDateTime": "2021-12-13T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
+      "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
+      "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/symbotic-going-public-via-softbank-spac/",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/walmart-backed-symbotic-will-ipo-via-softbank-spac-for-2455b/ar-AARMzFP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/symbotic-inbound-cell-robotics.jpg",
+          "width": 1000,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
+        "domain": "therobotreport.com/symbotic-going-public-via-softbank-spac/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-how-artificial-intelligence-will-transform-business.md",
+      "title": "How Artificial Intelligence Will Transform Business",
+      "excerpt": "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-",
+          "width": 1000,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-snaplogic-raises-165m-as-the-ipaas-market-heats-up.md",
       "title": "SnapLogic raises $165M as the IPaaS market heats up",
       "excerpt": "SnapLogic, a company developing an integration platform as a service solution for enterprises, has raised $165 million in capital.",
@@ -92,6 +229,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
+      "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
+      "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
+      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61afd04006b6770018c47e7e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
+      "publishedDateTime": "2021-12-13T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -958,204 +1147,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
-      "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
-      "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
-      "originalUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/cloud-security-lock.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
-      "publishedDateTime": "2021-12-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-outsmarting-ai-to-be-the-grandmaster-of-your-industry.md",
-      "title": "Outsmarting AI To Be The Grandmaster Of Your Industry",
-      "excerpt": "Tactically, your organization and its business processes may not be able to outperform your competitors’ AI and data-driven approaches. But for the foreseeable future, strategically outlasting them move-for-move until they waiver remains a viable strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
-      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b67a383089d0b7b87e4f7f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
-      "publishedDateTime": "2021-12-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban.md",
-      "title": "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban",
-      "excerpt": "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "originalUrl": "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "publishedDateTime": "2021-12-13T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-why-are-teslas-self-driving-software-sales-slowing-down.md",
-      "title": "Why Are Tesla’s Self Driving Software Sales Slowing Down?",
-      "excerpt": "Firstly, Tesla has been increasingly emphasizing its Model 3 and Y vehicles, which have a lower starting price and this could be reducing attach rates for the self-driving package, which is likely a more popular option on higher-end cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b49d9317742ee1888aec00%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/12/13/why-are-teslas-self-driving-software-sales-slowing-down/amp/",
-      "publishedDateTime": "2021-12-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
