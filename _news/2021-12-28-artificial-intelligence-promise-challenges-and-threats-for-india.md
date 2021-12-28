@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-28T04:23:00Z
 originalUrl: "https://www.governancenow.com/views/columns/artificial-intelligence-promise-challenges-and-threats-for-india"
 webUrl: "https://www.governancenow.com/views/columns/artificial-intelligence-promise-challenges-and-threats-for-india"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "http://governancenow.com/temp/ai21.jpg"

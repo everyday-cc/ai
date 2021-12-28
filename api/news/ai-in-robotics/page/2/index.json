@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-robot-nurse-assistants-join-shannon-hospital-amid-texas-healthcare-worker-shortage.md",
+      "title": "Robot nurse assistants join Shannon Hospital amid Texas healthcare worker shortage",
+      "excerpt": "\"We are one of the first hospitals in the country to have this technology,\" said Lyndy Stone, Shannon's director of marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gosanangelo.com/story/news/2021/12/15/texas-hospitals-hiring-robot-assistants-amid-nursing-shortage/6447516001/",
+      "originalUrl": "https://www.gosanangelo.com/story/news/2021/12/15/texas-hospitals-hiring-robot-assistants-amid-nursing-shortage/6447516001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/10/PSAT/a29dd8dc-3cf5-41f3-ad48-23c190803c0d-Diligent_2021_Moxi_solo3.jpg?auto=webp&crop=5999,3374,x1,y404&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.gosanangelo.com/amp/6447516001",
+      "cdnAmpWebUrl": "https://amp-gosanangelo-com.cdn.ampproject.org/c/s/amp.gosanangelo.com/amp/6447516001",
+      "publishedDateTime": "2021-12-15T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Angelo Standard-Times",
+        "domain": "gosanangelo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
       "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
       "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
@@ -1331,58 +1375,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-this-humanoid-robot-is-about-to-fly-like-iron-man.md",
-      "title": "This humanoid robot is about to fly like Iron Man",
-      "excerpt": "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
-      "originalUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ironcub-original-crop.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
-      "publishedDateTime": "2021-12-09T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

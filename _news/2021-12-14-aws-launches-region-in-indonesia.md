@@ -2,22 +2,19 @@
 category: news
 title: "AWS Launches Region in Indonesia"
 excerpt: "(NASDAQ: AMZN), today announced the launch of the AWS Asia Pacific (Jakarta) Region. Starting today, developers, startups, entrepreneurs, and enterprises as well as government, education, and nonprofit organizations can run their applications and serve end users from data centers located in Indonesia leveraging advanced AWS technologies to drive innovation."
-publishedDateTime: 2021-12-14T05:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-indonesia-/2021/12/14/9510371.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-indonesia-/2021/12/14/9510371.htm"
+publishedDateTime: 2021-12-14T08:53:00Z
+originalUrl: "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641"
+webUrl: "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "8ndejTTlZqVr8yfJqeMFIfD9XPt1P2ITPfzhIZQFxDGDP9MiI/PK2gehqG6UV4OCr1Tt0weFBThL2Q/DQjB3aBEtMmH3YrRgwvoO2R50ZyqtZKFk448MbLp5yfj9f5GDSiqmKSplkY0OIUL4DUkVh9sILqskyVrsIpjYU9Yj7agWl+sz8g4WBAXWerPNGC22FG0zfKYXRLt0KfXoEd3vOtFq3Lvx/b/JlsLcvOQn8NPOC7Uj4rMZVh0rGY7ZUfS3L2SNkYtBh/ZplbOH7xxQd4iR2ZsM15losS5UceakOxxObKAbAySIGU0axysPfydxtHIWIYaxxRdatf1HRuKE965W5VXXXPfxaHKQYFDjHOw=;Ov1i/57vtDJe/ixByoWgGA=="
+secured: "pr4xMaocmoXP6Kgy8yHVi8DJ7xQjk2kUCHFu1UsDGn/64x97aj/iAzZPDwboV/lb5LSVdL86Q/DT3fFORa4aClvyL2B+ScrtuCmhLZiXq8TKpcvdF5gf5mUMQUybjY3heAalfiKRpXGElMgq+QnekdOK4h+8AH5u19xmj00eEkQY42gVjQyzQuItXq2SZXGF1Nnt9uwc3rqDv8q+tsTVbRvLoJ7aIvKEEaU4WnOkhCtggdAY3jJOrmpi8Y0Ew2OOWtU1u2H2mGraAYsJ7w/gUrAsyTH/MBEjwnGR8XPG3d5Od1ZxJ/vSaeJCxPPSQS//SZ+Lc460XZWnjmCKUcIJd0CFOOZhYCBJgYcmo8KDd9c=;j/ntmFQ/7oPVjh9DSuZWmA=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "In Africa, Rescuing the Languages That Western Tech Ignores"
+title: "In Africa, rescuing the languages that Western tech ignores"
 excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
-publishedDateTime: 2021-12-23T12:08:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
-webUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp"
+publishedDateTime: 2021-12-23T12:13:00Z
+originalUrl: "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+webUrl: "https://www.ourmidland.com/news/article/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/In-Africa-rescuing-the-languages-that-Western-16724655.php"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "/bTyzdV+ENqIagGK6wZ89qa1HU49v+xs0s72Nl8WlaGJggxzkKrs8JqMXF79d2bBYekzGrCp/FvZ99NvRx/gxHJCsq40Yy3EZW2SajcYzGG+Ind3Cuq9HJkqSrnWAnhCvGnZYuaBoz9jW4OUvm/CxcO/3SLb7J7WlHSnwskN6mM3B4NxIGVAclpaqMiavKFtK6lXGTXWgDle+gR33AC6EdZh8YyhRuiL27tKdMHIKCFvjksS/Oct/HNUJUgLxC1nDBRDI1PCUy2IVHGUO0q1uhJ0QOgrTeyWHp4QTlfkQ7tsz7ukLsojbeeFh3axqknoWNeAz+TTmR/u5vYLXrxA0S7VyAz6o3u+mqIzTC+37bU=;ufG36e+6g9wPbl7OSbsgJg=="
+images:
+  - url: "https://s.hdnux.com/photos/01/23/27/57/21855192/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "p/Z9jqggTLKLqtZbXBV2MJW3LpiKjYa8boJ7RaWnKTLQ9Mc8g0wbE0mGhmtGKnrGEP95kCvEueEtWBdx0h4TNn3ODH1RYg3gt0KFGxK/iE1cWSFuPXDNCLC7YLAOMnQimJsU9f0SJ2j3qlZ/ncr09vzmGpjUduOmheZIZhkmACxIqG3vfnY/XOZ6V+5R2T1CG9hWitEPfyBgMq/tuywohMlUHUXw1Xi8jQoPehexOBNouYxnSoEbtflwleG9ZJxHyzONQr6diiuN3Qbet5SeWA4TdMzT2NldUokHZWXg30RbYhPfulN0YdgopnPjMOI/hZUKKWytYqkLBBpN5QP8rNV6k9RGojDxRojLuD2gdo0=;KyDlVUUB66Q6C11pnNO9sw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/algorithmic-prophecies-undermine-free-wi
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "Predicting lightning with artificial intelligence"
-    excerpt: "Lightning is a destructive force that has the potential to cause extensive damage to infrastructure, buildings and even create huge fires such as the massive California Lightning Complex fires. Having the ability to prepare for potential lightning forecasts could lead to better readiness for wildfires,"
-    publishedDateTime: 2021-12-23T13:51:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17578/predicting-lightning-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/578/17578/lightning-bolt.jpg"
-        width: 752
-        height: 355
-        isCached: true
 
 secured: "a/0fU7OjcxDgdQXgv6kuGsjEcJhg2vcsaVi7jx6pkWPdkebWOY+hmvHMwc00QdccmCU9182n74SzlY4Chd1lEl6zx1JQZcvGKnWHOoxq7t2CIC8rsyB0GSQmezZJOkUWLJGJDUpdjlx0XSGQdix463Q4n7u8T4uF1Ew25AXnvRZ8x8QmkvOqGCx+vBkb/8WZ/tCK08BBqhuK4DNkXr6fdeBJA04uVSaR5pKgyXO2QmmA+mQj4M1wiG6CJfjo/3smvAbzjdJWmZfGUWB8JciI7RwtF8GrjXL0j529Tqrfl019HcXio8mmYS2DPjXGmjvLRkr+2/yCegVcSsVJysfwcJsJAMN2Pxt5YZ6ZduAjq+9ENSQI0TLZ7x5s2XqlMc5C0eAOCgYi7fr8rIgzPWd6LeHTTO3HuoSSTI8lKZKc7/kuU+35u4LYAV5Qwa/6j0P9WL7kw8iV8G5T2ufEg0kiVrnIEJq9FTV8FCXA7AZcFS3GOMd3T2Ktp+KrLDZCMsEuBOl5Tu5PkyAPuxlAFD+yXw==;ONst49yOn/FVyBdCe6fHMQ=="
 ---

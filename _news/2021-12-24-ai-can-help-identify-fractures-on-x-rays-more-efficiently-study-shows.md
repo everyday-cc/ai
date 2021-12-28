@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/ai-can-help-ident
 webUrl: "https://www.beckershospitalreview.com/innovation/ai-can-help-identify-fractures-on-x-rays-more-efficiently-study-shows.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence to Identify Fractures on X-rays"
-    excerpt: "According to a study by Boston University School of Medicine researchers, artificial intelligence can assist clinicians in detecting fractures on x-rays. “Our AI algorithm can quickly and automatically detect x-rays that are positive for fractures and flag those studies in the system so that radiologists can prioritize reading x-rays with positive fractures,"
-    publishedDateTime: 2021-12-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/usingartificial-intelligencetoidentifyfractures-on-x-rays"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/usingartificial-intelligencetoidentifyfractures-on-x-rays"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/ThinkstockPhotos-507650587-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 279
-        isCached: true
 
 secured: "74SJhTv0XxzP79YEIZleccI53VdWR15c09XmkTlTg6xySkCpo4fTnno59HlXACmMSHMAeaSkfnAjaTjIyWsV9BCkELA+6SKtSqbjAMafeEGcgRcBr8aZ4EmcJqLw2iRbruBTH762TEKl+2SgVDYJF8IKoey8x+8Fav824e3PPj3yISm1i4ABQHi/akTsMaOA3pORf3bphbQfZZs7kQWTNu9+gX1X8gk/Q8LA4GsHYoSDLOi90q1gk11FXwxNeSS2vYb0opisB8WKgzJBm5fCplIjMc7D87hVgmVFop8TiO4DvFkVphe8jh960/YYNdNRujvT/Wn2UvVX4Oo7hxRP+p9fW2KnwFRHqgVjq3ueIqE=;lA4gAvulR/2bZmcmlPTU0g=="
 ---

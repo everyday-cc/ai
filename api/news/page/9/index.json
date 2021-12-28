@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-16-unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises.md",
+      "title": "Unbabel acquires Lingo24 to bolster AI-driven translations for enterprises",
+      "excerpt": "Unbabel, a startup delivering AI-driven translations, today announced the decision to acquire Lingo24, a UK-based language service provider.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
+      "publishedDateTime": "2021-12-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
+      "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
+      "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
+      "originalUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58be71f71a1f3001f125%2F0x0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
+      "publishedDateTime": "2021-12-16T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises.md",
       "title": "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises",
       "excerpt": "Adding to the robust catalog of Innoveo's pre-built industry accelerators, this partnership will enable Innoveo to provide out-of-the box capabilities powered by artificial intelligence (AI) and natural language processing (NLP) across intelligent OCR,",
@@ -1098,100 +1203,6 @@
         "Computer Vision",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round.md",
-      "title": "AI-powered VFX startup Wonder Dynamics raises $10M A round",
-      "excerpt": "Wonder Dynamics aims to make “blockbuster-level” visual effects achievable by living-room-level creators using AI and cloud services, though it has kept its product closely under wraps. The secretive company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Hiretual-Techcrunch_article_2_image_2.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/",
-      "publishedDateTime": "2021-12-15T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-neural-network-20-a-game-changer.md",
-      "title": "Neural Network 2.0: A Game Changer",
-      "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

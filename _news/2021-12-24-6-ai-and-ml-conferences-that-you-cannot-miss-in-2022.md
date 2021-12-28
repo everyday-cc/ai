@@ -56,6 +56,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Artificial intelligence and other tech trends to follow in 2022"
+    excerpt: "The world has already seen tremendous adoption of AI over the last two years; 2022 may see more patents granted to this new form of AI. Also known as ‘AI inside,’ embedded AI is the application of machine and deep learning in software that is embedded at the core of the device – from architecture to operations or from cloud-level to device-level processing of AI tasks,"
+    publishedDateTime: 2021-12-28T05:59:00Z
+    webUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/"
+    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "About AI, kids and robots in a store"
     excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
     publishedDateTime: 2021-12-25T08:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

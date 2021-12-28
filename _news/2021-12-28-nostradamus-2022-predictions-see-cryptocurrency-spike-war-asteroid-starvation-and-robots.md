@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nostradamus 2022 predictions see cryptocurrency spike, war, asteroid, starvation, and robots"
-excerpt: "However, even the most skeptic among us would have trouble denying that some of his predictions align pretty closely with major historical events. As 2022 approaches, looking at what Nostradamus had to say about the year is looking a little bleak."
+excerpt: "FAMED astrologer Nostradamus conjured up quite a few predictions for 2022, from a crypto spike to war and starvation to robots and asteroids. The 16th Century seer, whose real name was Michel de"
 publishedDateTime: 2021-12-28T03:33:00Z
-originalUrl: "https://www.thesun.co.uk/news/17158107/nostradamus-2022-predictions-cryptocurrency-war-asteroid/"
-webUrl: "https://www.thesun.co.uk/news/17158107/nostradamus-2022-predictions-cryptocurrency-war-asteroid/"
-ampWebUrl: "https://www.thesun.co.uk/news/17158107/nostradamus-2022-predictions-cryptocurrency-war-asteroid/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/17158107/nostradamus-2022-predictions-cryptocurrency-war-asteroid/amp/"
+originalUrl: "https://www.the-sun.com/news/4349045/nostradamus-2022-predictions-cryptocurrency-war-asteroid/"
+webUrl: "https://www.the-sun.com/news/4349045/nostradamus-2022-predictions-cryptocurrency-war-asteroid/"
+ampWebUrl: "https://www.the-sun.com/news/4349045/nostradamus-2022-predictions-cryptocurrency-war-asteroid/amp/"
+cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/4349045/nostradamus-2022-predictions-cryptocurrency-war-asteroid/amp/"
 type: article
 quality: 48
 heat: 48
@@ -14,18 +14,18 @@ published: false
 
 provider:
   name: The Sun
-  domain: thesun.co.uk
+  domain: the-sun.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2021/12/KB_COMP_Nostradamus-2022.jpg?strip=all&w=620&h=413&crop=1"
-    width: 620
-    height: 413
+  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/KB_OFF-PLAT_Nostradamus-2022.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "QvTri9Pk9CLcJSWgrTHENYlPJKnJkM+Qs6ORPiSRlXQxuhKUe8X7HnL2PwhUJ/5PU3rJySFYpoFK5OLEyr5YOjN3fmPkIw+dgINZS+7QQmjiUaJORhXMtdw7dLuTh9a34YHmC8GWWVtWBw5Ax86DwsEAdUk1OjgtLZJvr1kRdWxKFEC0AQY7OzdJsydh1N3Mx83eB+wdAF26Q3ZhOxyhcULPAWnTpDLaYiac9xfDpWb0Z78X5ZfJoA2DKHif0ry5hPuN6TVCj3vecxLfgDgcfnewZkAZIoH2FjQ11mckIqvyVavFsNNFyTbjJKb/37oaKbRf8yT6ofo0ihCgEGVXIYEr55H5WUMXGj4x3KbjvI4=;Yr23VKGcJc1feQYPhlwfKg=="
+secured: "HNamdVnM/Fe80atUKcgo9RYoBMqyTfBD2v88ESgtcZmGhUpol7WTkZVLnqm1VnnZm32iQwmJurWZE05Wclfq5BDrM/7Gbfdlzn7eeTJrRr1BIKExgiiNrsCRZqlDX9f8h+wV6mhdv0bVmBAo+o9cKgFb48/t35dJcEqvq9nziwYcM9lsqp7MIPOCYYyO1sOzPEesiw7ZhZYmRxWt/msqOaU6aIytaDhUqJb+whB8rvfYtlzHnRW3ZyDVQjW6sfYrRa5sBM6DQiiUD+GUuPVmqgicihS4IG+24oRZVvxz/fwgvKbez2u6BCQZ7lEJ0QogbzQeX7xfu0EzwtMJyypKodwo9C8Thlr0vPWaqv/bV8k=;bkCiXwqYXRs6NRluGmjujQ=="
 ---
 

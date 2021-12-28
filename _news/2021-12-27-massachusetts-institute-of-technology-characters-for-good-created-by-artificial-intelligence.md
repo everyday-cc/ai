@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-characters-for-good-created-by-artificial-intelligence/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,72 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Massachusetts Institute of Technology: A system for designing and training intelligent soft robots"
+    excerpt: "Let’s say you wanted to build the world’s best stair-climbing robot. You’d need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb."
+    publishedDateTime: 2021-12-28T01:23:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 60
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Massachusetts Institute of Technology: Machine learning speeds up vehicle routing"
+    excerpt: "Waiting for a holiday package to be delivered? There’s a tricky math problem that needs to be solved before the delivery truck pulls up to your door, and MIT researchers have a strategy that could speed up the solution."
+    publishedDateTime: 2021-12-27T23:52:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Medical Robotic Systems Market to Gain Impetus Owing to Increasing Adoption of Machine Learning and Robotic Technology"
+    excerpt: "The development in the worldwide medical robots market will be driven by a few significant driving variables, for example, different advantages presented by the robot-helped preparing just as automated helped a medical procedure in restoration treatments,"
+    publishedDateTime: 2021-12-24T20:16:00Z
+    webUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/"
+    ampWebUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/pexels-tara-winstead-8386440-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Massachusetts Institute of Technology: Tiny machine learning design alleviates a bottleneck in memory usage on internet-of-things devices"
+    excerpt: "Machine learning provides powerful tools to researchers to identify and predict patterns and behaviors, as well as learn, optimize, and perform tasks. This ranges from applications like vision systems"
+    publishedDateTime: 2021-12-28T00:56:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 28
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "JffT7aef2Ot1DgzzR7a25pXRj/cgf/6CdwtBWAQleiazYbgCPle6jsyzKjCBF6xvcww9uayXrryhKRE3z6A5XNGsILPVOsdkLLilIyy6wQIhNsIno7V70jpb1ZW78G7+DngOjPlkgLpyx4AlDQ4zxnwoAkw51f2cye8xw/yJGz5b+9asYXF63ebcic/pxQPGOL9euwYnGriGHJdArKPKxM24LCB4eHOXqPRp7HME6JXLYCDgAkX7WYshBgLGYDtoe5H5w0xcGIQBc0EnJuN/krAkVXruw14BX3sATjv1FE/IkqvA3tbskgHZvlhVnbutYlMSC1kiZTMQA0/3ipxBw3YL3xI4By305GB0pkTp/85y5RvgiiTbvuZmxOiCLFPPlTHwFcu1FjIn/FOmvMtb9RT55QzvtVcOdBqIcSyR+W16F4IPVYeH9ozVZmRlDi8Fm5zn2KApdGyZ7ufb9vLm96sfodeQ/tUIqny+rHQlQJqELGEVpeRMbAidtW7i/z0WtOFlpFhMT61lL86OxbWOUg==;GyXLD1NnRKWyBY3HQ703jg=="
 ---
