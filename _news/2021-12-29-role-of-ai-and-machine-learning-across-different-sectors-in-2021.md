@@ -8,8 +8,8 @@ webUrl: "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machin
 ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
 type: article
-quality: 74
-heat: 84
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg"
@@ -42,6 +44,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "0urQFggpV1pCeTUN5A7dvHnKgzw/+mBF1LvSDlJGzArjbfXvhJ8VR4PBM44tuzykd+awiYgw1rMGL0b+7evFKHE47VlpF0j9QZ7RK0eL1kVwM0LoCzRLYpLR58arspDAOODmPEwHHPh9HFeVS9YB5s7xrLjVrQTFI+0tZ2vVNY+5UpF7O6+cIkh4v8/r1D1UTeO+u3jhDCHC9jsDXz8IHdfsYPvNChgCD3YuXQXcEmIaSBF9XJdVX5fEVxVGEQkflaSCb2OfOpZCr2t5DAiPtipaFjAHQdQsjDO4e9a1oAQAxtT2X0EnrZyzexj2GRuFtWHzP9aOl8nwYNXFMiylm9ZMPe5EUGdMlUsnZZQFee4=;j9hwC5ZLgkvIuAEw5uRvfg=="
+secured: "UglnhfQRYQH74Px1QA4ByRG6RQFeOfkq88SxREVyK2Sv2bCsuN6pxyg9aBt3PPDHjpkase38uNC+xS2iDzNtYM4Um4cUJHXsWTnMJ3YNWmGnOXlLc0HDO0Gb1q/qH1u1vGUxUUFp3GP1+d7mUk5Fl8tTuKCcc27KX37j3tdT2aHlKiBvboCiR4WgA9ZtaTpODBD3i8udadPnHWr6XToHDzXY0BZRpmuYTXEkQI1JA0SfFV+2P1sfszq8gAppQ/uEfQl7q94E1Oug6VFW0OoOk3np9CCqMipq1hZLe8OBjZOhilZtup8hK7CPGpNGsFzRe1phi4dCalX+bE8acH/Vq5/12FA/BB3Isq1rJjTp2zvbtJ5qPw9n43yLw4FT3O8cnyfazUC2XpV/ISr+2BfjuKhKGXnp8wfM7FNVKxHi4gpYXkMKg1Ch2YaQZF9rKJIoZZBDjcCwDHvFErN8WztnWHRl5JDpSN7UxIj3fWJr4l8IgFYEZ+dAPn06h8zEZCbglg9zE5tGmj+RtzbX53f29w==;o2tDcB99YH514N9Iov9PoA=="
 ---
 

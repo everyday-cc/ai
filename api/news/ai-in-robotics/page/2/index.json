@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-17-nauticus-robotics-to-go-public-in-560-million-spac-merger.md",
+      "title": "Nauticus Robotics to Go Public in $560 Million SPAC Merger",
+      "excerpt": "The ocean software startup is working to replace large ships with robots in industries including energy and fishing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "originalUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-453691/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "publishedDateTime": "2021-12-17T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
       "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
       "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
@@ -1313,49 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
-      "title": "Watch a robot playing table tennis after just 90 minutes of training",
-      "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "originalUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/10161244/PRI_214439429.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
-      "publishedDateTime": "2021-12-10T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

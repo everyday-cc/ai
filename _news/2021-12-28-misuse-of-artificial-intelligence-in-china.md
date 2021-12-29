@@ -34,7 +34,7 @@ related:
     provider:
       name: The Hans India
       domain: thehansindia.com
-    quality: 74
+    quality: 78
     images:
       - url: "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg"
         width: 1000

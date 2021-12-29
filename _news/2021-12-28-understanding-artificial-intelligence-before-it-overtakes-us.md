@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/columns/article/understanding-artif
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/columns/article/understanding-artificial-intelligence-before-it-overtakes-us/841233"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Understanding the Use of Artificial Intelligence in Sales Automation"
-    excerpt: "Artificial intelligence (AI) and machine learning is taking the sales industry by storm. For instance, a Harvard Business Review"
-    publishedDateTime: 2021-12-24T22:00:00Z
-    webUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955"
-    ampWebUrl: "https://www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/sales-management/understanding-the-use-of-artificial-intelligence-in-sales-automation-02447955/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 54
 
 secured: "hicsIwPy+7s6lp2p7UZ5EJRT+BSALFIpitHTscp0iYV1Zv5JUN7dGCV7NewMZwuoGrleEpbGuhUoQ+zZdzlS23yalTh0VCqqBpXtbqu14cppjmka56eOVtWB+JO8OLjwIw2m+zsOzj/KCcxMEcRCClcTRrZ0uYGA2PY6tIJTNvcceYvTsWqpBwfMZPwj1THLGOQkJmMgUxGQZJQeOCsTqeYn7/I+Q0dpiKwNn/3q0WTIPXeBrbesLVoYgk5dBgCryl8JoqO2PMuS0+F9AhKtkabSCWnJwX9KnSwhjkRV66aVf9B+C38mboqV+qbSMjMGWI0FP4A8xSxxbdw7wpMgP9YGps1UUTq9WCDY+IDIMPA=;oohnEjwTs+VbP05WDn2oRQ=="
 ---

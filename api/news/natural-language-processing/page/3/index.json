@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
+      "title": "You can now get £150,000 if you let a robot use your face and voice",
+      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
+          "width": 647,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
+      "publishedDateTime": "2021-12-02T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Her",
+        "domain": "www.her.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-translation-and-localization-services-for-blockchain-and-cryptocurrency.md",
       "title": "Translation and Localization Services for Blockchain and Cryptocurrency",
       "excerpt": "Blockchain technology and Cryptocurrency are selling like hotcakes in recent times. People are eager to switch to digital currency and a system that is decentralized, secure, and transparent.",

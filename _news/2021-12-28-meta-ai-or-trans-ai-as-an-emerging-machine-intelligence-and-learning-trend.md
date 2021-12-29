@@ -30,22 +30,42 @@ images:
     isCached: true
 
 related:
-  - title: "The perks and pitfalls of creating prolific AI inventors"
-    excerpt: "As more AI “invents,” they may become prolific inventors of the future. If patents are granted, who should get the rewards?"
-    publishedDateTime: 2021-12-26T21:40:00Z
-    webUrl: "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/"
-    ampWebUrl: "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/"
+  - title: "Learn artificial intelligence, machine learning, Python and more for under $30"
+    excerpt: "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job."
+    publishedDateTime: 2021-12-29T14:00:00Z
+    webUrl: "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
+  - title: "Deep Learning: How AI Learns to Be Smarter"
+    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
+    publishedDateTime: 2021-12-27T06:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.html"
+    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
+    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 56
+  - title: "Deep Learning: How AI Learns to Be Lots Smarter"
+    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
+    publishedDateTime: 2021-12-27T06:00:00Z
+    webUrl: "https://www.realclearmarkets.com/2021/12/27/deep_learning_how_ai_learns_to_be_lots_smarter_809463.html"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 34
 
 secured: "07SiF3PtCLWgpZRGDjh56RN8jdug0y5llKY9pTp911Fnx8apdtqU3afrDBcMwXt6GNHM9y4gbBIHNPssVivEem9EQwyy9dRbFKR5yiUVpjZFUuA2AvP5+tcqNKiZDiCCx2dOLjCUzPkMedAPdsk7sFQr/TiTvvZ6b1alCIUVtH7tX8g9hp3YQjpNm3ks/fJR7Jb7H2hwI0EPOXyDKW7quu17Jh/wBrCcA1lpt0GW7x6uJq2vrTyIa25da6OSgvN4Wwy7ppCtC33+bCkkD/tHX9v0wrCHklD4lzcsHCtavoxcgey/FByO62PGUsIwDN2/wwOj2wlVjaX3wYuobw05yavuh9416BAc/uVR/mWrhEd3vmHN3aP4AvZ4VDM/X110Sp+lnxFUJGXZhrMEmc8nQMXA2V8t0aEpv17l7QmU9YxiwF+yBC3DPcN58ORJCWEbxokKP8lu+/+Q6g1cjvzx2ure7BQ89gyhQkRicaUqtYITpXu9UtLYh1hLJ5s+GV0cM/s6pfFxGgSdZiYjN0Z3gw==;eIKnkQGuUq+uVBxK6ugiQw=="
 ---

@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
+      "title": "Tesla agrees to stop letting drivers play video games while driving",
+      "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg",
+          "width": 2880,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "publishedDateTime": "2021-12-24T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures.md",
+      "title": "AI-Powered Seafood Marketplace Startup Raises $40 Million From Tiger Global And Prosus Ventures",
+      "excerpt": "Captain Fresh, an AI-powered seafood marketplace startup in India, has raised $40 million in Series B funding led by Tiger Global and Prosus Ventures, the venture arm of Dutch internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prosus.com/news/prosus-ventures-and-tiger-global-lead-40m-series-b-investment-in-captain-fresh/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2658/1920_teamcaptainfreshthumbnail.jpg?10000",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
+      "title": "Eliminating artificial intelligence bias is everyone's job",
+      "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "originalUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "publishedDateTime": "2021-12-24T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
       "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
       "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
@@ -85,57 +240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures.md",
-      "title": "AI-Powered Seafood Marketplace Startup Raises $40 Million From Tiger Global And Prosus Ventures",
-      "excerpt": "Existing investors Accel India, Ankur Capital, Incubate Fund and Matrix Partners India also participated in the round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c54bac5ebd8f1d81d1087d%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/amp/",
-      "publishedDateTime": "2021-12-24T00:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -662,6 +766,59 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
+      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
+      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen",
+      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646265600&v=beta&t=tv_ZdhnFbqYU7v_LhtVSXsA8C6raibgOg5vtj8TqXEU",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-five-predictions-for-ai-in-2022.md",
       "title": "Five Predictions For AI In 2022",
       "excerpt": "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022.",
@@ -1055,146 +1212,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
-      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
-      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "publishedDateTime": "2021-12-23T01:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
-      "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
-      "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
-      "originalUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEdNV-z4quJhg/article-cover_image-shrink_600_2000/0/1640249825852?e=1645660800&v=beta&t=HREkn0tRYdobd7G6XUQWJOt71A9MPnL3bCRpCmevAPY",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-interview-ibms-phil-anderson-on-ethics-and-ai.md",
-      "title": "Interview: IBM’s Phil Anderson on ethics and AI",
-      "excerpt": "IBM South Africa's Phil Anderson joins the podcast to unpack AI and the ethical concerns around the use of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
-      "originalUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/12/phil-anderson-2156-1120.jpg",
-          "width": 2156,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
-      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
-      "publishedDateTime": "2021-12-23T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

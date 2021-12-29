@@ -85,6 +85,20 @@ related:
         width: 826
         height: 400
         isCached: true
+  - title: "Introducing the Trivergence: Transformation driven by blockchain, AI and the IoT"
+    excerpt: "New business models enabled by this Trivergence — artificial intelligence, blockchain and Internet of Things — are beginning to disrupt many industries and provide platforms for innovation in the economy for decades ahead."
+    publishedDateTime: 2021-12-29T14:10:00Z
+    webUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
+    images:
+      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
+        width: 2570
+        height: 1446
+        isCached: true
 
 secured: "BfbE4l0HsJ4M26/BtIa6UJWnuLgmYArUKEIA1/jyalulxDs2ykzt8CJ5jnATNgMC+FrFSV+utvyHETYJg0OECUjj/h1wTUwKsNzABUyQcKZyoLlqNg9HQkgAuNar8WUWKPunKCBaLuy1FCs2c+S9am1dMZMAsuGFtxihRhZ8cB/Z5qUxA/d2v3MwnSH050rP6ac0QpEdxPLSeNHthtAlELoZOlI52/z9oCYx3z1O30UxS8aPCUErZpfkmyXmITfSTxuQKw9ULHiy1f/RbZOR6Ni+OBERuPu7JCE0sF+aY5M5qRXBCisoVFv88pj4xN4quoI2677RfaYaL0O4v+nm48Lun2qY/yFkrahNZXTp1bUWolwq+bBtCNsZSuqQbNRfT6PXOrWv58ZVPdRoZzbvu0aQCLxNnUF2d++Wf0L2e9u72h3PJ6C8EULEKjyzFQpCvlUdmILwLunB6+JNWhbz96v9sa4S0jogxKJ1s9D/oY3wI+Z5mSYiz6VinHzFEsljpmGenKRHjIahNqdVNHx5JQ==;yLUoRTubIuRqq0+i2TzGRQ=="
 ---

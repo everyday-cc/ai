@@ -2,6 +2,142 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-get-ready-for-the-autonomous-weapons-race.md",
+      "title": "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race",
+      "excerpt": "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "originalUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fkiller-bots.jpeg&signature=e8721fa3d7faa8f7c1aa3cdc4fecbcba",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide.md",
+      "title": "AI program that started at Maricopa County colleges expanding nationwide",
+      "excerpt": "An artificial intelligence program that started at Maricopa Community Colleges in collaboration with Intel and Dell Technologies will expand nationwide by 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "originalUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2021/12/pexels-mikhail-nilov-9158795-scaled-e1640037457534.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "publishedDateTime": "2021-12-21T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers.md",
+      "title": "FTC Considering New Artificial Intelligence Regulation to Protect Consumers",
+      "excerpt": "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "originalUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
+      "publishedDateTime": "2021-12-21T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
       "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
       "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
@@ -86,6 +222,40 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
+      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
+      "excerpt": "The fellows will work with the research translation centers underway ... education tech AI, Speech and language soluions for business, smart city device and AI analytics, social sector solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20211221/3877809.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20211221/3877809.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -539,10 +709,10 @@
     {
       "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
       "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ...",
+      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -561,7 +731,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T12:20:00-08:00",
+      "publishedDateTime": "2021-12-20T10:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -964,177 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-oracle-to-buy-cerner-for-283-bln-in-healthcare-sector-push.md",
-      "title": "Oracle to buy Cerner for $28.3 bln in healthcare sector push",
-      "excerpt": "Business software maker Oracle Corp said on Monday it would buy Cerner Corp for $28.3 billion in its biggest ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "originalUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/N2smgO867k2IbN2cIg-RJe6iHXI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56HHVKWINZOFND6QDCR6OVOAWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-rigetti-provides-business-update-and-nine-month-2021-financial-highlights.md",
-      "title": "Rigetti Provides Business Update and Nine-Month 2021 Financial Highlights",
-      "excerpt": "Rigetti Computing (“Rigetti” or the “Company”), a pioneer and leader in hybrid quantum-classical computing, today announced business highlights for the year to date and financial highlights for the nine months ended October 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-powers-autonomous-materials-discovery.md",
-      "title": "AI powers autonomous materials discovery",
-      "excerpt": "When a master chef develops a new cake recipe, she doesn't try every conceivable combination of ingredients to see which one works best. The chef uses prior baking knowledge and basic principles to more efficiently search for that winning formula.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-powers-autonomous-m.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.amp",
-      "publishedDateTime": "2021-12-20T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty.md",
-      "title": "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty",
-      "excerpt": "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
-      "publishedDateTime": "2021-12-20T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

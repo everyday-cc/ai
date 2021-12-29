@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/xiaomi-debuts-miui-13-with-support-for-th
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:

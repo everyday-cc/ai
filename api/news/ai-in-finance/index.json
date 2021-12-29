@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.md",
       "title": "India Symposium 2021 strengthens India and Europe ties in Fintech and AI",
       "excerpt": "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas",
@@ -53,7 +98,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -85,6 +130,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
+      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
+      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen",
+      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646265600&v=beta&t=tv_ZdhnFbqYU7v_LhtVSXsA8C6raibgOg5vtj8TqXEU",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1235,102 +1333,6 @@
         "AI in Finance",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit.md",
-      "title": "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit",
-      "excerpt": "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1701078/image.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24399300",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399300",
-      "publishedDateTime": "2021-12-02T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-fundbox-a-fintech-focused-on-smbs-raises-100m-at-a-11b-valuation.md",
-      "title": "Fundbox, a fintech focused on SMBs, raises $100M at a $1.1B valuation",
-      "excerpt": "Fundbox, a company that offers loans to small businesses, announced today it has raised $100 million in a Series D round at a valuation of $1.1 billion. Or more simply, the company aims to solve SMBs’ working capital needs through its credit and payments offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "publishedDateTime": "2021-11-30T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

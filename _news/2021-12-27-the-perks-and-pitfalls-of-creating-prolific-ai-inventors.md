@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI or Trans-AI as an emerging Machine Intelligence and Learning trend"
-    excerpt: "There are increasing concerns that ‘Artificial Intelligence’ Has Become Meaningless. Today's \"AI has become meaningless\" and \"often just a fancy name for a computer program\", software patches, like bugfixes,"
-    publishedDateTime: 2021-12-27T19:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-emerging-ai-machine-learning-trends-watch-2022-azamat-abdoullaev/?published=t"
+  - title: "ICAI to focus on adapting AI, ethics and forensic auditing"
+    excerpt: "Kolkata: The Institute of Chartered Accountants of India (ICAI), the second largest professional body of chartered accountants in the world, flagged off its two-day Annual Convocation Ceremony in Kolkata today."
+    publishedDateTime: 2021-12-29T07:51:00Z
+    webUrl: "https://indiaeducationdiary.in/icai-to-focus-on-adapting-ai-ethics-and-forensic-auditing/"
+    ampWebUrl: "https://indiaeducationdiary.in/icai-to-focus-on-adapting-ai-ethics-and-forensic-auditing/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/icai-to-focus-on-adapting-ai-ethics-and-forensic-auditing/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE8yUza0b-Gvw/article-cover_image-shrink_720_1280/0/1640540228878?e=1646265600&v=beta&t=JoFNGskPbdIpMSKMR53eZ5IaJ73pGFHeg_SoZNw8yWU"
-        width: 548
-        height: 720
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/pic1-1024x514.jpeg"
+        width: 1024
+        height: 514
         isCached: true
 
 secured: "X1YFw8INsFT+RFJkL6l+owL8j0afijUsjgcEfz1PEhVDIRCjHYgf52MNQex8o/PrWa/aMIGGk2qt/xyOksdzvGr/3NVQOid9X51ebgUCrSony+BXSAfje4BZYOzI5l6tMmuZlInNwZmTPDnwfNvwuxJf3mkTNiZ+xQA4Rf3xtydbJ/hN9AnRxFGajUW2H2dDY6gsrYoF6TEb252iBYUuD34RtUed/BCFSpe+CWbu+Kth6EVkq2wFKTyQV8U2iivwnZ+w7jPYvBD024FXUdkrBBxOrNIs+RUcCYVSyMl5xCtvrgS5Md5aA6Pf7LbO9cpz7JEAkJM305K8KbGJzxycatQuNibbwNZISJewR+nhx43L9xTv7Y4T+Y6ZHMMaI98AoWl92YzWUnxDKXeWBrB32pEm+StQYq8LzSRCGdYZL+eCmzRUEeecv1Z/zDZxJ2WEK+9TN/wTPGolF6xL329Zs/+X1zEHb0riVtNVvXV7BtDuFFyfNWikMiyvaBGk3SzHV7Qa6N8bdCfDmzqYO6bcyQ==;voiBEQ1LpGmmEea7SEuQwg=="

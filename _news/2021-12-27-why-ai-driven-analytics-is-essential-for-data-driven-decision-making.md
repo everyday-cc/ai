@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-driven-analytics-is-essential-for-data-driven-decision-making/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
+    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
+    publishedDateTime: 2021-12-29T13:00:00Z
+    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 24
+    images:
+      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "r4Ya2ZZqMUIlNf4mw2/hc7Ejy8SJg3/dyTmVJ+BFP/iwG7iuXGeky0BCUfwyZPckhbSIYfY/+QyOxUSKvdaF7hHV7qYHc7a2I7o4xEdgxaANp0PAl20UPnwRrYyfa+OLTXXbMpuzVH4/DMGbG74FuYzrZnfiCk+UsWxRBKW7FvCgKn6tOfcBuTVlsu3JUOjV3FdkJ+vADXkrY009dpsUpJrecINioaZujC3APVZ5qTVmJlCq458gKOUpd5fXLXj/OZfQASnxIQw2TIBnQ3vg7K8+QwpMCml/TV0tBzbomdYcX2i5Qv26byj7thlBdIPMvmXfKcL/NOs7w7ExJQ8D58cXFjm1IYj6lain2GW6k2O64vTmg68ksgUqiJ1kL9d7KZ0mkGiamMSqQ0m2F1mBF121Pn2fj2nPaUcGQdRg3ebvz46iawnwnay6EEPH9mWrpgr5SDyL5UI+fZ+fu1B1taQmriS56aYvTjQ6EVzv+OqjvcanzgSNxh1Wu+V+IxfeIuxDc4O0CypN107NWgkgLQ==;O9mv/6q6F03c0cDyuTzlxg=="
 ---

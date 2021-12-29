@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
+      "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
+      "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "publishedDateTime": "2021-12-29T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market.md",
+      "title": "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market",
+      "excerpt": "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "publishedDateTime": "2021-12-29T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
       "title": "Role of AI and Machine Learning across Different Sectors in 2021",
       "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -41,58 +145,9 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
-      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
-      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-456678/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "publishedDateTime": "2021-12-28T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
       ]
     },
     {
@@ -148,7 +203,7 @@
       "originalUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -191,7 +246,7 @@
       "originalUrl": "https://www.neowin.net/news/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -215,6 +270,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinese-professor-lands-34-billion-fortune-with-sensetime-ipo.md",
+      "title": "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO",
+      "excerpt": "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-28/chinese-professor-defies-odds-on-way-to-3-4-billion-fortune",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8",
+          "width": 1175,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "publishedDateTime": "2021-12-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -526,7 +632,7 @@
       "originalUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1082,93 +1188,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
-      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
-      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
-      "title": "A desert robot depicts AI’s vast opportunities",
-      "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/",
-      "originalUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/Desert-robotsmall.png?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/amp/",
-      "publishedDateTime": "2021-12-27T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

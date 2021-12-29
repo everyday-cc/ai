@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
+    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
+    publishedDateTime: 2021-12-29T13:00:00Z
+    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 24
+    images:
+      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "+ggcUZ2T43hykZsxycDEHJvLJ8+yaJo/m7opBV9cKYi+NmprA0WZEX0TSjs3Q7t5+yvmX33mL3ML9oWemE1HvBD7XMmd5V8cFH+N7Gu7yorUPRiJVRlpot0JGaJxFPoVYWh3/zdQd76N42RETcJ/UEa6OEugtMLk15oV3QVt6nN+bhhvEGxjyOJIyabUOaMbZV06fG25dGTrRO6uDKjj9rTIV8rzY1+svvol7VAn1klqfVoPQoX9s3KOZZMXmRKd+u0D9crYZvW2nFLxIzijcb6SXseB7reoFUkoQbDUJdzkMUNn5u3aZkDGWOhvn2mT19IJDCxzciJ95mjx1XE2C8m9bRypz3pFeyNDWEaUrqbFgtfXHzP4rlSnFUWlPZaybKTS8/YtNeWtk4Pl3y3WQK1CSkjBWZlGDHlBjnuv00asE0NyeKY3kq0av9A2DGiF+ZenDoByTJcryluBjSsYHEoRvtd2Lq+wpkfMYGcqIXbjf2XamdSsENGopLWRQp34+j7CvgzlGr7P1rXgsybJmA==;yKwHMD04ELvyU++/AbvW2A=="
 ---
