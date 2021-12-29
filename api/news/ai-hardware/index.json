@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
-      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
-      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
-          "width": 737,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "publishedDateTime": "2021-12-26T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-12-23-this-material-learns-like-animals-and-could-help-further-ai-research.md",
       "title": "This material ‘learns’ like animals, and could help further AI research",
       "excerpt": "Nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals.",
@@ -874,6 +830,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-the-battle-of-ai-processors-begins-in-2018.md",
+      "title": "The Battle of AI Processors Begins in 2018",
+      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20TPU.png",
+          "width": 1000,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103445355/Open-Hybrid-Cloud-AI-winning-mantras
 webUrl: "https://menafn.com/1103445355/Open-Hybrid-Cloud-AI-winning-mantras-for-Indian-firms-in-2022&source=30"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 400
     height: 257
     isCached: true
+
+related:
+  - title: "Indian AI Seafood Market Startup Captain Fresh Raises $40M"
+    excerpt: "Indian artificial intelligence-powered seafood marketplace startup Captain Fresh recently closed a $40 million Series B fundraising round."
+    publishedDateTime: 2021-12-27T20:36:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/indian-ai-seafood-market-startup-captain-fresh-raises-40m/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/indian-ai-seafood-market-startup-captain-fresh-raises-40m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/indian-ai-seafood-market-startup-captain-fresh-raises-40m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/India-seafood-market-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "pbOKYKleD20yi4ff8RAFUpKwWHArc1X69vzGqAClGky2DMskTXqkg/Fjt3i8+C7M3eAfgnQxR9ePq0r44sEmNW1tp19dYRiRgVlKlsY4QsChxHXCK9Fmg9hGcRkQlAZADZsI4/t2ofc8h0lRGseh8b0uGvLWNukXZ0pPkwkF1rJdvxXH/niLrY9yNfM9Ms9UuC1x/2F4aNsHDOYlEOriR1VesUjcXgk3WIAPHF+CtCGNw/bC8s0mO0H4tu0zZG1bZwH5lHqHNPObeObPl7AVDzmXANIHYYsXpasTmYEfaSmeegPwNvoGN8IlUifqou5PJ0bz0azerqtpGQ9THqJ3xZweZx+qkDq/iP3Qb4rRS1Y=;rBRzeVS1pjJU1F1425lq6w=="
 ---

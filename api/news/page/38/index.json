@@ -2,6 +2,231 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-11-26-our-global-agreement-on-ai-could-reduce-bias-and-surveillance.md",
+      "title": "Our global agreement on AI could reduce bias and surveillance",
+      "excerpt": "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "originalUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "publishedDateTime": "2021-11-25T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
+      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
+      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "publishedDateTime": "2021-11-25T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-why-data-insights-should-be-a-key-area-of-focus-for-the-financial-services-sector.md",
+      "title": "Why Data Insights should be a Key Area of Focus for the Financial Services Sector",
+      "excerpt": "Q&A with  Do you see real time data as a priority for organisations looking to boost cost and operational efficiencies? Absolutely - just think how fast the amount of data produced globally is growing,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/content/why-data-insights-should-be-key-area-focus-financial-services-sector",
+      "originalUrl": "https://financialit.net/content/why-data-insights-should-be-key-area-focus-financial-services-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/anurag_bhatia_640x493.jpg",
+          "width": 640,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-sensetime-ipo-could-help-hsbc-gain-recognition.md",
+      "title": "SenseTime IPO could help HSBC gain recognition",
+      "excerpt": "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-sd-times-news-digest-amazon-announces-rekognition-custom-labs-scalajs-100-rc1-and-julia-13.md",
+      "title": "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3",
+      "excerpt": "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif",
+          "width": 589,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-facebook-to-shutter-its-facial-recognition-system-citing-societal-concerns.md",
       "title": "Facebook to shutter its facial recognition system, citing 'societal concerns'",
       "excerpt": "Facebook is shutting down its facial recognition program and deleting more than 1 billion users' faceprints, a company official said Tuesday. The move means more than one-third of Facebook’s ...",
@@ -913,258 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027.md",
-      "title": "Self-driving Bus Market 2021: Industry Share, CAGR Status, Top Key Players, Geographical Region, Latest Development and SWOT Analysis 2027",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. The global Self-driving Bus market was valued at USD million in 2020 and it is expected to reach USD million by the end of 2027,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
-      "title": "When Reddit Is Your AI Language Instructor",
-      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
-      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
-      "excerpt": "Pony AI is an autonomous driving technology company founded in late 2016 by James Peng and Lou Tiancheng, formerly two key developers and engineers at Baidu’s self-driving unit. Pony started ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "publishedDateTime": "2021-11-24T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-security-flaws-identified-in-mediatek-smartphone-chips-check-point-research.md",
-      "title": "Security flaws identified in MediaTek smartphone chips: Check Point Research",
-      "excerpt": "Check Point Research (CPR) has identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37 per cent of the world’s smartphones, MediaTek’s chip serves as the main processor for nearly every notable Android device,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/36ervb/article37155956.ece/ALTERNATES/LANDSCAPE_615/Web-and-print-bGKK946ARE3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
-      "publishedDateTime": "2021-11-24T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
-      "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
-      "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "publishedDateTime": "2021-11-24T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

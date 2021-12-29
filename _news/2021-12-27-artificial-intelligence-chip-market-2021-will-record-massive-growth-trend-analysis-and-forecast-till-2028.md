@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
 type: article
 quality: 58
-heat: 70
-published: true
+heat: 68
+published: false
 
 provider:
   name: openpr.com

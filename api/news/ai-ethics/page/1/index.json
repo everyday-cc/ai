@@ -349,6 +349,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2018/02/GettyImages-679721306-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2021-12-22T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
       "title": "What Does An AI Actually Think Of AI Ethics?",
       "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
@@ -1390,49 +1434,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
-      "title": "How AI ethics falls short - preserving jobs is not enough",
-      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "publishedDateTime": "2021-12-07T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

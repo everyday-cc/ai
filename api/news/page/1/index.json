@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-29-xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things0-0.md",
+      "title": "Xiaomi debuts MIUI 13 with support for the Artificial Intelligence of Things0 0",
+      "excerpt": "Xiaomi has announced MIUI 13. The new update improves system fluidity and improves interoperability with IoT devices through the new Mi Smart Hub software which is launching in beta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/",
+      "originalUrl": "https://www.neowin.net/news/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/12/1640734328_miui-13_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/xiaomi-debuts-miui-13-with-support-for-the-artificial-intelligence-of-things/",
+      "publishedDateTime": "2021-12-28T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-industry-experts-team-up-to-advance-cybersecurity-with-ai.md",
       "title": "Industry Experts Team Up to Advance Cybersecurity With AI",
       "excerpt": "The C3.ai Digital Transformation Institute welcomed industry experts to submit proposals for advancing cybersecurity with AI in order to secure critical infrastructure.",
@@ -1135,49 +1186,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-robotics-firm-arapl-raas-raises-funding-for-warehouse-automation.md",
-      "title": "Robotics firm ARAPL Raas raises funding for warehouse automation",
-      "excerpt": "ARAPL RaaS, a robotics and automation company, said on Monday it has raised $0.7 million funding within two months of its existence as it strengthens its 10-minute delivery in supply management. The start-up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "publishedDateTime": "2021-12-27T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

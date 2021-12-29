@@ -315,6 +315,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2018/02/GettyImages-679721306-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2021-12-22T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead.md",
       "title": "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead",
       "excerpt": "Source: Hadrian / Shutterstock.com While a future with ubiquitous self-driving vehicles is likely years away, companies are working hard to be first in line. And Tesla is certainly among them. As the leader of the EV race,",
@@ -439,8 +483,8 @@
       "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
       "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -465,6 +509,49 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup.md",
+      "title": "TDK Ventures backs Faction, the scalable driverless transportation startup",
+      "excerpt": "Current artificial intelligence software and machine learning ... As a result, this process creates a driverless vehicle that is road ready now. TDK Ventures sees a partnership with Faction ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1324,84 +1411,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
-      "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
-      "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "originalUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "publishedDateTime": "2021-12-15T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-why-are-teslas-self-driving-software-sales-slowing-down.md",
-      "title": "Why Are Tesla's Self Driving Software Sales Slowing Down?",
-      "excerpt": "Demand for Tesla’s high-profile self-driving upgrade appears to be slowing down. The take rate for the full-self driving (FSD) software upgrade among Tesla car buyers declined from an estimated 37% in 2019 to about 22% in 2020 and to levels of around 12% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down",
-      "originalUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-are-teslas-self-driving-software-sales-slowing-down?amp",
-      "publishedDateTime": "2021-12-15T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

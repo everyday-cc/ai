@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
 type: article
 quality: 57
-heat: 79
+heat: 77
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
 type: article
 quality: 86
-heat: 168
+heat: 166
 published: true
 
 provider:

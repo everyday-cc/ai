@@ -265,35 +265,35 @@
     },
     {
       "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ...",
+      "title": "In Africa, Rescuing the Languages That Western Tech Ignores",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
       "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
-      "originalUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
+      "webUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "originalUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-12-23/in-africa-rescuing-the-languages-that-western-tech-ignores?context=amp",
       "publishedDateTime": "2021-12-23T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1290,6 +1290,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-13-natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share.md",
+      "title": "Natural Language Processing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share",
+      "excerpt": "Dec 13, 2021 (The Expresswire) -- The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
       "title": "Live transcriptions of F1 races using Amazon Transcribe",
       "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
@@ -1427,58 +1479,6 @@
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone.md",
-      "title": "The Psychology Of Voice Technology: Building A Better Voice Assistant For Everyone",
-      "excerpt": "If a voice assistant can't do its primary job and understand what's being asked, the user is a lot less likely to continue using it. So, what can be done to create a more inclusive VUI experience?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0b46dd7853eea1ce9f3db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
-      "publishedDateTime": "2021-12-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

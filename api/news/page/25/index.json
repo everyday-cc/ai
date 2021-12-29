@@ -2,6 +2,258 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-06-argo-ai-focuses-on-cyclist-identification-for-automated-vehicles.md",
+      "title": "Argo AI Focuses On Cyclist Identification For Automated Vehicles",
+      "excerpt": "Argo AI, the automated driving developer majority owned by Ford and Volkswagen has teamed up with the League of American Bicyclists to try to make roads safer for those on two wheels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae004e141815981bb90539%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/",
+      "publishedDateTime": "2021-12-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-startups-keep-in-mind-the-five-ts-of-transition.md",
+      "title": "Startups: Keep In Mind The Five T's Of Transition",
+      "excerpt": "As a researcher moves from technology development to transition implementation, the process can seem daunting. In past articles, I’ve spoken about how to think about performance and reliability in conjunction with convenience and cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca10c91854bb852614d23b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/amp/",
+      "publishedDateTime": "2021-12-06T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-review-document-parsing-in-aws-azure-and-google-cloud.md",
+      "title": "Review: Document parsing in AWS, Azure, and Google Cloud",
+      "excerpt": "In this article we’ll discuss the document parsing and splitting services available from the big three public cloud providers: AWS, Microsoft Azure, and Google Cloud. The use cases these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-deep-learning-dreams-up-new-protein-structures.md",
+      "title": "Deep learning dreams up new protein structures",
+      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, a team including",
+      "sourceUrl": null,
+      "webUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "originalUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.saratogian.com/wp-content/uploads/2021/07/saratogian-1.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "publishedDateTime": "2021-12-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Saratogian",
+        "domain": "saratogian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars.md",
+      "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
+      "excerpt": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
+      "publishedDateTime": "2021-12-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
       "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
       "excerpt": "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 to 2030. The major factors driving the market are the burgeoning requirement for",
@@ -904,220 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-05-report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation.md",
-      "title": "Report: 95% of tech leaders say that AI will drive future innovation",
-      "excerpt": "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/",
-      "originalUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/",
-      "publishedDateTime": "2021-12-04T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-3d-printers-robotics-new-tools-being-used-in-new-jcps-learning-lab.md",
-      "title": "3D printers, robotics new tools being used in new JCPS learning lab",
-      "excerpt": "Robots and virtual reality are part of the new digital learning lab at Dubois Academy in the Newburg neighborhood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "originalUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/7efb864c-6a43-43c9-bad7-9b372e937e56/7efb864c-6a43-43c9-bad7-9b372e937e56_image.jpg?crop=0.746xw:0.745xh;0.188xw,0&resize=1200:*",
-          "width": 955,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "publishedDateTime": "2021-12-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLKY",
-        "domain": "wlky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology.md",
-      "title": "Clearview AI on track to win U.S. patent for facial recognition technology",
-      "excerpt": "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology/ar-AARsODG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/1f/c6/e26ed93a4911a083f7f881137c54/gettyimages-925054788.jpg",
-          "width": 3000,
-          "height": 2041,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-04T06:00:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
-        "domain": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-kindering-helps-children-with-special-needs-and-their-parents-live-better-lives.md",
-      "title": "Kindering helps children with special needs — and their parents — live better lives",
-      "excerpt": "The symptoms became clearer as Kuba grew: airway problems and difficulty feeding after birth, weak muscle tone, seizures and severe cognitive ... half the need for services on the east side ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
-      "publishedDateTime": "2021-12-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond.md",
-      "title": "Top Developments in Artificial Intelligence that Will Shape 2022 and Beyond",
-      "excerpt": "AI is the force behind many modern technological comforts. Everything in the digital era is powered by artificial intelligence and its sub-technologies. Check out the lists of the top developments in artificial intelligence that will shape 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
-      "originalUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Developments-in-Artificial-Intelligence-that-Will-Shape-2022-and-Beyond.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-04T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

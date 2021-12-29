@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-21-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
       "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
       "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
@@ -863,8 +906,8 @@
       "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
       "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -889,6 +932,49 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup.md",
+      "title": "TDK Ventures backs Faction, the scalable driverless transportation startup",
+      "excerpt": "Current artificial intelligence software and machine learning ... As a result, this process creates a driverless vehicle that is road ready now. TDK Ventures sees a partnership with Faction ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1043,109 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
-      "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
-      "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c00dede5b830952a1aaa39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4135%26cropY1%3D406%26cropY2%3D2345",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "publishedDateTime": "2021-12-20T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist.md",
-      "title": "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist",
-      "excerpt": "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "publishedDateTime": "2021-12-20T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

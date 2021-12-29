@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-
 webUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-"
 type: article
 quality: 62
-heat: 73
+heat: 82
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Conversational AI for Retail and E-commerce market"
     publishedDateTime: 2021-12-28T08:33:00Z
     webUrl: "https://www.reportsnreports.com/reports/5217014-global-conversational-ai-for-retail-and-e-commerce-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence Manned Drone market report provides a"
+    publishedDateTime: 2021-12-29T00:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5216929-global-artificial-intelligence-manned-drone-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
       name: ReportsnReports

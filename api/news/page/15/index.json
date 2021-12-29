@@ -2,6 +2,135 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
+      "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
+      "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24564999",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564999",
+      "publishedDateTime": "2021-12-13T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist.md",
+      "title": "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist",
+      "excerpt": "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6f6a34d9d48fe56dda795%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
+      "publishedDateTime": "2021-12-12T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-can-a-new-independent-institute-improve-the-ethics-of-ai.md",
+      "title": "Can a new independent institute improve the ethics of AI?",
+      "excerpt": "Former Google AI researcher Timnit Gebru is launching an independent AI institute to explore how the technology can exacerbate inequality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "originalUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.maddyness.com/uk/app/uploads/2021/12/jackson-so-TQ3SgrW9lkM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "publishedDateTime": "2021-12-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maddyness",
+        "domain": "maddyness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
       "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
       "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
@@ -188,6 +317,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share.md",
+      "title": "Natural Language Processing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share",
+      "excerpt": "Dec 13, 2021 (The Expresswire) -- The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -966,198 +1147,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations.md",
-      "title": "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations",
-      "excerpt": "VANCOUVER, BC, Dec. 10, 2021 /PRNewswire/ -- USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
-      "title": "Investing in the Future: Burger-Flipping Robots?",
-      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
-          "width": 2120,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
-      "title": "AI is thriving on and driving the edge",
-      "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/",
-      "publishedDateTime": "2021-12-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
-      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
-      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "publishedDateTime": "2021-12-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
