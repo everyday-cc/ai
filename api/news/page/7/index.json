@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
-      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
+      "path": "_news/2021-12-21-ai-powered-dental-startup-overjet-raises-425m.md",
+      "title": "AI-powered dental startup Overjet raises $42.5M",
+      "excerpt": "Of all areas of healthcare, it seems like dental care is one that gets very little attention and disruption, but it's one that desperately needs it: i n 2019, there were almost 74 million people without dental insurance in the US,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "webUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
+      "originalUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/21409.jpg",
+          "width": 320,
+          "height": 240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,224 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:49:00-08:00",
+      "publishedDateTime": "2021-12-20T17:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Vator",
+        "domain": "vator.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
+      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
+      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
+      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
+          "width": 428,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-dimensity-9000-fails-to-prove-its-premium-chipset.md",
+      "title": "Dimensity 9000 fails to prove its premium chipset",
+      "excerpt": "Lacks in GPU, 5G, imaging, features Media Dimensity 9000 got a lot of coverage, and the marketing machine is trying to promote this chipset as a premium. Guess what? Dimensity 9000 is not a premium chipset as it suffers from stitched stock Cortex IP,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
+      "originalUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/4b4d9ec382458cdd84ca55df6d7f999f_L.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T15:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-mperativ-aims-to-leverage-ai-in-new-revenue-analytics-platform.md",
+      "title": "Mperativ aims to leverage AI in new revenue analytics platform",
+      "excerpt": "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/",
+      "originalUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1291173179-e1640011949845.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/",
+      "publishedDateTime": "2021-12-20T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
+      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
+      "excerpt": "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -888,255 +1101,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
-      "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
-      "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
-      "originalUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
-      "publishedDateTime": "2021-12-20T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
-      "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
-      "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c00dede5b830952a1aaa39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4135%26cropY1%3D406%26cropY2%3D2345",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "publishedDateTime": "2021-12-20T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist.md",
-      "title": "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist",
-      "excerpt": "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "publishedDateTime": "2021-12-20T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders.md",
-      "title": "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders",
-      "excerpt": "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people",
-      "sourceUrl": null,
-      "webUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "originalUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "cdnAmpWebUrl": "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "publishedDateTime": "2021-12-19T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News OnTheWight Isle of Wight News",
-        "domain": "onthewight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-sensetime-reopens-ipo-gets-512-million-from-cornerstones.md",
-      "title": "SenseTime Reopens IPO, Gets $512 Million From Cornerstones",
-      "excerpt": "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

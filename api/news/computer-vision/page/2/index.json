@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026.md",
+      "title": "Smart Waste Bins Market Size 2022 historical, projected revenue figures, growth rate throughout the forecast period 2026",
+      "excerpt": "It combines unique AI-based object recognition, fill level control and data processing to make waste management convenient and efficientThe global Smart Waste Bins market is valued at considerable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026-2021-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026-2021-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
       "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
       "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
@@ -1306,49 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-facial-recognition-company-fined-by-ico-following-data-breach.md",
-      "title": "Facial recognition company fined by ICO following data breach",
-      "excerpt": "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
-      "originalUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
-      "publishedDateTime": "2021-11-30T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

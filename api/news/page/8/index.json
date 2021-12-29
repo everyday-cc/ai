@@ -2,6 +2,255 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
+      "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
+      "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
+      "originalUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/20/tesla-releases-full-self-driving-beta-update-10-7-improved-phantom-braking-efficiency/amp/",
+      "publishedDateTime": "2021-12-20T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
+      "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
+      "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c00dede5b830952a1aaa39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4135%26cropY1%3D406%26cropY2%3D2345",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
+      "publishedDateTime": "2021-12-20T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist.md",
+      "title": "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist",
+      "excerpt": "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
+      "publishedDateTime": "2021-12-20T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders.md",
+      "title": "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders",
+      "excerpt": "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people",
+      "sourceUrl": null,
+      "webUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
+      "originalUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
+      "cdnAmpWebUrl": "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
+      "publishedDateTime": "2021-12-19T23:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News OnTheWight Isle of Wight News",
+        "domain": "onthewight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-sensetime-reopens-ipo-gets-512-million-from-cornerstones.md",
+      "title": "SenseTime Reopens IPO, Gets $512 Million From Cornerstones",
+      "excerpt": "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-19T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai.md",
       "title": "Sheikh Mohammed attends first-ever Arabic Language Summit at Expo 2020 Dubai",
       "excerpt": "Dubai Ruler witnesses signing of UAE Declaration on the Arabic Language  Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, on Sunday attended the first edition of the Arabic Language Summit at Expo 2020 Dubai.",
@@ -949,258 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
-      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
-      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
-      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
-          "width": 600,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
-      "publishedDateTime": "2021-12-17T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
-      "title": "3 big problems with datasets in AI and machine learning",
-      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-12-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-top-5-podcasts-on-artificial-intelligence-everyone-should-make-time-to-listen-to-in-2021.md",
-      "title": "Top 5 Podcasts on Artificial Intelligence Everyone Should Make Time to Listen to in 2021",
-      "excerpt": "Have you ever wondered how Netflix always suggests the perfect films for your tastes? Or how Tesla can create self-driving cars? Artificial Intelligence is behind much of the innovative technology we see today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
-      "originalUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEgSardIuRNZg/article-cover_image-shrink_720_1280/0/1639750626705?e=1645660800&v=beta&t=fRnbA1w1yXBaNpOYUyUgKPSSQO8tVHSMtUzuJCU5LAE",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
-      "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
-      "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
-      "publishedDateTime": "2021-12-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
-      "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
-      "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-435932/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "publishedDateTime": "2021-12-17T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

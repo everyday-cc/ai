@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-facial-recognition-company-fined-by-ico-following-data-breach.md",
+      "title": "Facial recognition company fined by ICO following data breach",
+      "excerpt": "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
+      "originalUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach",
+      "publishedDateTime": "2021-11-30T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-clearview-ai-a-facial-recognition-company-is-fined-for-breach-of-britains-privacy-laws.md",
       "title": "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws.",
       "excerpt": "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software.",
