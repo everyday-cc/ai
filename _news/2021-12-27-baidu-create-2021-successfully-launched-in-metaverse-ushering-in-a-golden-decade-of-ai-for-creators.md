@@ -1,32 +1,31 @@
 ---
 category: news
 title: "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators"
-excerpt: "(NASDAQ: BIDU and HKEX: 9888) successfully opened Baidu Create 2021 today, the first day of a three-day annual flagship developers' conference on its metaverse app XiRang. The event was also China's first-ever metaverse technology symposium."
-publishedDateTime: 2021-12-27T13:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
+excerpt: "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\"."
+publishedDateTime: 2021-12-27T14:00:00Z
+originalUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators"
+webUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators"
+ampWebUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators?amp"
 type: article
-quality: 52
-heat: 52
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg"
-    width: 400
-    height: 278
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
-secured: "3gWOyFw9GDacEEZ8ft2sKIzI/Mr0Af+DMNJ9slGyC9K0XyYPYprBJFuedNrx23oFK4X0zW3i4OBUITDL8rTe51a/YrT0VxFHAs9zQmIbN59BaAWxe6ydfTxNMkHnTjD9RcRJgmirqhq3/LxaDR2Lo5J067urODdJKt2IbwfTQWrzwWFTuIgEYPwCxze7is4EwXV5/Ptjsaa52SwA2OaWUw1gULrAJq/HbwCyY4uMmRNOelh1i/d9WJoKgtFpKLMzSbeGGxDLGkhPDaFPQPn3uck0toQ/NqwfBx0jcMD0F1Me7yLqdNlqgzPd6k4Vamn+aVdbum4DeOK3iHSyu/LENWq2TAyWZCtzg6jjBiviEKY=;LEHorXBvLxvk4V3NR+SqrQ=="
+secured: "uh1SFwfRGdpqNqaWNfwDpoCMk44ewJARx7oLgW3kdh9EnYcskLvEJQTtZeu+B+lhLU5W8557oNIrIM8zJSN9Mx+4b/Y6110eb+z3P4tkDsoLolIZWJhSkSi8dhQoO56d+Kouov2TyopaF47Fr9Wv8s/YDq48B//gqgyqeS1+2u863XtcTSgmwMW6zOuXNPVKeZTC/JgZ3I4QBhpnsO9h6GpDbFNl9tVzIFhXrl1F5jm5p5rycj9CXftV5xH16UIpnBrPv+XmYrZO+aBbehgKiUkULVBqUS387Z9Xdl7SEhgEB3fNJnxX6xGd1t85F3D4NKEY33TElgu++P9jqylAjAZoLg0b3Oa+rGUZdHHuL9A=;K5jD5zksqI0rM48C+c1SlQ=="
 ---
 

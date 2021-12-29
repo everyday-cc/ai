@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202112/1243614.shtml"
 webUrl: "https://www.globaltimes.cn/page/202112/1243614.shtml"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 480
     isCached: true
+
+related:
+  - title: "China unveils five-year plan for robotics"
+    excerpt: "The five-year plan details the overarching goal of making China a key source of global robotics innovation by 2025."
+    publishedDateTime: 2021-12-29T02:18:00Z
+    webUrl: "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/12/featured-web-qujar.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "kmj6iaWyacptiHaGTkYQuwQm7GMdChucg4G5GNGLXGuyv0/OIf7e2IMglYjjjOKBgLdVoRdKBU/FTdfao8hFoQEJpdpCeHNhwAEc+vE4v2d/baLyP2kasWIxnfM3xp1MLrLT619n+gXcdtDjd6bPPbURuEfJXFlaVPQg4Q+gBhwlLqhhhqoF6P8pqGiAEKSuNrX+ZEX0jrjzJbS1lD9lnD7LMLlnQAo6KNTx8NohgJOsQZY9Fh/fruIuNJxKCEwRR79cVNLkYiXsijA5PGt4ZNYixyX+zCBUKsqYtokYAG0mpEnXPBDldKE7tR+59fR+jNXS1QehbtCJ3qgMKqxuetifSfSylEtWdgJtkQg+WeI=;Bry/E9ORUcEdc6MkpOqoWg=="
 ---
