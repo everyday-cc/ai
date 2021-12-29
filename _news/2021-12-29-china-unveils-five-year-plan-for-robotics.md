@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/china-unveils-five-year-plan-for-ro
 webUrl: "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/"
 type: article
 quality: 84
-heat: 96
+heat: 97
 published: true
 
 provider:

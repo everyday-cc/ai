@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worke
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 650
     isCached: true
 
-secured: "nDJcq1fgwvBDcMnymXvMne9yK6yn/TLrueXeIE42IrAA+zMKPB0dvrD3WiffsUurh3TQRZuidQyH0tfUrcPtr7BnJKAIhm+3Co6Cr9UBB6NKT0H3kbEe0kn7I55JnPrPi4R8UMUZl+fAwQt8G5ytYwHL5FkK6tSySh1eYptqL3rzcdkTTaayacRUfpcmDYVmOjmjmRaHqxogyOkB0R/aZyOkbyuQB8Wwu5QPg/nHe7iB92hBkYUaocNbNrGKv2vOKZQzfbvbya5hWwU2fymZEdy5fVXHb+VOajaGXu30pwYMof1RNXsGgYlbro8Nshsoljf7RbEK0koNZbNoLUwxP0/9U+YqrvucufJKz8GkCjE=;dfrlP+3y5CatlwGnIDgOIA=="
+secured: "6J5eM1AHXOvDSKwRC3MJ6s44BPjMU2iHXIw/VB3oHShsZ0aWQMkHJpbdDEEQcGm+liPOe+bCzODOZOpb5YA9fQRhvIluiDHs0M0QdB+H+kBDLCsMoUKeJij1fkXcQFkWeJvgzI55UchAa9IsfW+hjMrTmG0c7GlLV48qiIdRtNlOHywEh0ZFu/WySYNhs96GlGBfDIuPnXiHSmqFHS7nzcKrtibk145o+hThva3C+WTj0wubBIXFVjJYGe+fdSqT1OLbldmjOefXMennJnf0g2Ebv7/p9rVGlSl/xvX7lCkeOVsk6tzAiqMbfEQYODb9EfEx6s8GE+3jf8NeImv67Elymt4jiOkuOYnNdWfbOJURyEZt2zclgzF8bOcjVTIUdGbUmUSNmzZjU8QAWl70jhEOj0a3ipGlg8PFT0mgqXPQnxpce9TyAv1to4vI1iftqrLVxpsDEEoECzGW2hSJvM76SfxAADok96TNCxYmVNBDAwTCLlMOXg2jogwjf5apZ/rtqMVxZ9s1KEo0yYLAeQ==;SwWX6mgo1mjbKckpPHmaag=="
 ---
 

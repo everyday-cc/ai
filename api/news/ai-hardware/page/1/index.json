@@ -46,6 +46,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-the-year-everyone-remembered-that-chips-matter.md",
+      "title": "The Year Everyone Remembered That Chips Matter",
+      "excerpt": "Shortages of semiconductors messed up production of everything from cars to toys. Plans are in the works for more factories, but they'll take years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "originalUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7b723afed9525c50efcac/master/pass/YIR-Jennysharaf-Importance-of-Chips-1313967169.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-this-material-learns-like-animals-and-could-help-further-ai-research.md",
       "title": "This material ‘learns’ like animals, and could help further AI research",
       "excerpt": "Nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals.",
@@ -1363,49 +1415,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
-      "title": "AI models microprocessor performance in real-time",
-      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "publishedDateTime": "2021-12-10T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

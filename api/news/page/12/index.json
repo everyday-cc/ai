@@ -2,6 +2,194 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-15-forethought-nabs-65m-series-c-to-improve-customer-service-with-ai.md",
+      "title": "Forethought nabs $65M Series C to improve customer service with AI",
+      "excerpt": "Forethought, a startup looking to put AI to work across customer service, won the TechCrunch Disrupt Battlefield and soon after landed a $9 million Series A. Well, three years later that company just landed a $65 million Series C,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
+      "originalUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1210502593.jpg?w=1024",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
+      "publishedDateTime": "2021-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-timnit-gebrus-new-ai-institute-is-a-challenge-to-silicon-valley.md",
+      "title": "Timnit Gebru’s new AI institute is a challenge to Silicon Valley",
+      "excerpt": "A little over a year has passed since Timnit Gebru was fired from Google. The 38-year old Ethiopian-American researcher and former co-lead of the company’s Ethical AI unit, believes she was pushed out for working on an academic paper that raised red flags about using large language models in Google’s quest to develop “superintelligent” AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
+      "originalUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/12/Timnit_Gebru_crop.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/2099933/timnit-gebru-on-misconceptions-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-12-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-three-strategies-for-filling-tech-roles-during-the-talent-shortage.md",
+      "title": "Three Strategies For Filling Tech Roles During The Talent Shortage",
+      "excerpt": "The technology job market has never been more competitive than now, and employers and employees alike are struggling to find the best fit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efa5897937c5b000645c96f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/15/three-strategies-for-filling-tech-roles-during-the-talent-shortage/amp/",
+      "publishedDateTime": "2021-12-15T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
+      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
+      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
       "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
       "excerpt": "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ...",
@@ -993,177 +1181,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading.md",
-      "title": "Humans.ai’s HEART token gets listed on KuCoin and tops $30M volume on the first day of trading",
-      "excerpt": "Humans.ai is excited to announce that its native HEART token is now listed on one of the world’s top cryptocurrency exchanges, KuCoin",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading",
-      "originalUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDFkNGM5YmU2NDg4MzUyNjA1YmM0MzNlMTQzYTcwZS5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/humansais-heart-token-gets-listed-on-kucoin-and-tops-30m-volume-on-the-first-day-of-trading/amp",
-      "publishedDateTime": "2021-12-14T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-vidmob-research-reveals-that-creative-choices-like-a-models-eye-gaze-have-measurable-impact-on-ad-performance.md",
-      "title": "VidMob Research Reveals That Creative Choices Like A Model's Eye Gaze Have Measurable Impact on Ad Performance",
-      "excerpt": "VidMob Research Reveals That Creative Choices Like A Model's Eye Gaze Have Measurable Impact on Ad Performance. NEW YORK, Dec. 14, 2021 (GLOBE NEWSWIRE) -- VidMob, the leading pla",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/14/9511284.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/14/9511284.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-pittsburgh-area-roboticsai-proposal-named-as-finalist-in-build-back-better-regional-challenge.md",
-      "title": "Pittsburgh-area robotics/AI proposal named as finalist in ‘Build Back Better Regional Challenge’",
-      "excerpt": "The Southwestern Pennsylvania New Economy Coalition’s proposal was chosen Monday as one of 60 finalists as part of the American Rescue Plan’s Build Back Better Regional Challenge, which offers up to $100 million in funding to advance a regional industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
-      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/2JujMcBEEQgmJwUsT2xmKd0PYH8=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZM3E67HFFFDRDI23WEKRKHETY.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-roboticsai-proposal-named-finalist-build-back-better-regional-challenge/6VWLOHHSAJCEHPPI4EQ7CFBX4A/?outputType=amp",
-      "publishedDateTime": "2021-12-14T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-ai-voiceover-startup-deepdub-inks-7-figure-deal-with-streamer-topic-to-dub-the-killing-the-bridge-and-dozens-more-tv-series-into-english.md",
-      "title": "AI voiceover startup Deepdub inks 7-figure deal with streamer topic to dub 'The Killing,' 'The Bridge,' and dozens more TV series into English",
-      "excerpt": "Non-English, local-language series are steadily finding ... to four-month process of dubbing a TV series, Deepdub's AI can translate a project in around four to six weeks, the company has said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
-      "originalUrl": "https://www.businessinsider.com/deepdub-ai-dub-topic-streamer-international-tv-series-english-2021-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61b7ea7de385d000186d60de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

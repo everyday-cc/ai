@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
+      "title": "Investing in the Future: Burger-Flipping Robots?",
+      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
+          "width": 2120,
+          "height": 1415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
       "title": "Watch a robot playing table tennis after just 90 minutes of training",
       "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
@@ -1314,58 +1366,6 @@
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
-      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
-      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "publishedDateTime": "2021-12-06T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

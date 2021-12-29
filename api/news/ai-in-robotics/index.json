@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-30-san-antonios-plus-one-robotics-is-a-winner-in-rush-to-automate-amid-pandemic.md",
+      "title": "San Antonio’s Plus One Robotics is a winner in rush to automate amid pandemic",
+      "excerpt": "Plus One Robotics is still riding the wave of automation that’s remaking warehouses and other logistics operations. For the second time in less than a year, Erik Nieves is looking to expand the company’s Port San Antonio headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "originalUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/33/20/21869568/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "publishedDateTime": "2021-12-29T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
       "title": "Role of AI and Machine Learning across Different Sectors in 2021",
       "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
@@ -99,7 +142,7 @@
       "originalUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1289,58 +1332,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-the-future-of-robot-nannies.md",
-      "title": "The Future of Robot Nannies",
-      "excerpt": "Parents will quickly notice the educational benefits of robot nannies that have advanced AI and communication skills. Occasional horror stories, such as the robot nanny and toddler tragedy in the novel Scarlett and Gurl,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
-      "originalUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61bbe072d35cf9ca029ad089/master/pass/The-Future-of-Robot-Nannies.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roboto-nannies-ethics-liability/amp",
-      "publishedDateTime": "2021-12-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

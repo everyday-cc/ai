@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-3-chip-stocks-to-buy-in-december.md",
+      "title": "3 Chip Stocks to Buy in December",
+      "excerpt": "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400214",
+      "originalUrl": "https://www.entrepreneur.com/article/400214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023.md",
       "title": "RISC-V's open chip processors expected to double in 2022, and double again in 2023",
       "excerpt": "The open chip standard will go from \"one drop in the bucket to two,\" representing a small fraction of the overall ISA market but showing incredible growth, according to a new report from Deloitte.",

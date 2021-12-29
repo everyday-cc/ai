@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/attractive-woman-sit-at-desk-holding-smartphone-talk-on.jpg?itok=VSLoaEK4"

@@ -2,6 +2,206 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
+      "title": "When Reddit Is Your AI Language Instructor",
+      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
+      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
+      "excerpt": "Pony AI is an autonomous driving technology company founded in late 2016 by James Peng and Lou Tiancheng, formerly two key developers and engineers at Baidu’s self-driving unit. Pony started ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "publishedDateTime": "2021-11-24T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-security-flaws-identified-in-mediatek-smartphone-chips-check-point-research.md",
+      "title": "Security flaws identified in MediaTek smartphone chips: Check Point Research",
+      "excerpt": "Check Point Research (CPR) has identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37 per cent of the world’s smartphones, MediaTek’s chip serves as the main processor for nearly every notable Android device,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/36ervb/article37155956.ece/ALTERNATES/LANDSCAPE_615/Web-and-print-bGKK946ARE3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
+      "publishedDateTime": "2021-11-24T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
+      "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
+      "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "publishedDateTime": "2021-11-24T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation.md",
       "title": "Accelerate your marketing plan by leveraging AI for content creation",
       "excerpt": "Facing rapid ecommerce growth and increased customer expectations, businesses can accelerate marketing plans using AI for content creation.",
@@ -1008,178 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robotic-solution-to-aid-nuclear-decommissioning.md",
-      "title": "Robotic solution to aid nuclear decommissioning",
-      "excerpt": "An EPSRC-funded project led by Sussex University aims to develop a robotic solution to address nuclear decommissioning challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "originalUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2021/11/shutterstock_1567223413.jpg",
-          "width": 940,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-rws-wins-deal-to-provide-european-parliament-with-live-translation-and-transcription-service.md",
-      "title": "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service",
-      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20123001.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20123001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
-      "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202111/240a51aa043441a1bc04b796e7bd5660.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-covid-19-impact-on-professional-service-robots-market-to-witness-impressive-growth-during-2020-2025.md",
-      "title": "Covid-19 Impact on Professional Service Robots Market to Witness Impressive Growth During 2020-2025",
-      "excerpt": "keeping in mind the interest of all the stakeholders across the value chain. Following are the ways in which the market is segmented. Professional Service Robots Market Size, Share, & Forecast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "originalUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24791230_g.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "publishedDateTime": "2021-11-23T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

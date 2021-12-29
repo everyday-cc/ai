@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-17-how-ai-is-adding-value-in-wealth-and-asset-management.md",
+      "title": "How AI Is Adding Value In Wealth And Asset Management",
+      "excerpt": "Using AI in asset management and wealth handling allows financial advisors to make the best decisions to safeguard and augment the money and other assets of their clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6d447b0d2afa5d0dda795%2F0x0.jpg",
+          "width": 1200,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/17/how-ai-is-adding-value-in-wealth-and-asset-management/amp/",
+      "publishedDateTime": "2021-12-17T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-future-of-robot-nannies.md",
+      "title": "The Future of Robot Nannies",
+      "excerpt": "Parents will quickly notice the educational benefits of robot nannies that have advanced AI and communication skills. Occasional horror stories, such as the robot nanny and toddler tragedy in the novel Scarlett and Gurl,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
+      "originalUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61bbe072d35cf9ca029ad089/master/pass/The-Future-of-Robot-Nannies.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roboto-nannies-ethics-liability/amp",
+      "publishedDateTime": "2021-12-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-six-minute-training-hack-that-can-improve-face-recognition-skills.md",
+      "title": "The six-minute training hack that can improve face recognition skills",
+      "excerpt": "This is a significant increase because even experienced face identification staff can get as many as one in two wrong when it comes to comparing photos with unfamiliar faces. In their new piece of research in the Journal of Experimental Psychology: Learning,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-facialrecogn.jpg",
+          "width": 1920,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "publishedDateTime": "2021-12-17T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
       "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
       "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
@@ -602,6 +748,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-17-kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship.md",
+      "title": "Kahu ki Rotorua: Kereama Heke growing future for whānau through electrical apprenticeship",
+      "excerpt": "Click here for English translation He tangata whakatō moemoeā e ngangahau ai tana whānau a Kereama ... where te reo Māori became their second language. One day I may speak on the pae like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "originalUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/L3cgkh8lOHYNFBetcINEGgsVvs8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QVCVEXFNA4ZKKTPAJTTIAEZ2GU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
       "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
       "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
@@ -999,204 +1188,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
-      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
-      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "publishedDateTime": "2021-12-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
-      "title": "21st Century Problems: Insuring AI and Smart Devices",
-      "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "originalUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGUOs5a8rDx0w/article-cover_image-shrink_720_1280/0/1639675674648?e=1646265600&v=beta&t=3NBOtTROKhnxyceGRvCDbv1Y967Inrs0Aw2xoSFoymc",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey.md",
-      "title": "Most Indian firms able to pay back on artificial intelligence investments in 2 years: Survey",
-      "excerpt": "The study laid an additional focus on measures taken by AI leaders and global capability centres (GCCs) or to embrace AI for their business growth.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-      "originalUrl": "https://www.msn.com/en-in/money/news/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/ar-AART0JN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-37818,msid-88326059/1.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "publishedDateTime": "2021-12-16T09:04:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "domain": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-flexxon-ssds-laptops-have-ai-based-data-security-inside.md",
-      "title": "Flexxon SSDs, Laptops Have AI-Based Data Security Inside",
-      "excerpt": "The X-PHY AI Embedded Cyber Secure SSD is an internal SSD designed to detect any threats, known or unknown, to your data's security. The company also teamed with Lenovo on three lines of ThinkPad-based laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "originalUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07HRzuCVmrWvQRtlZ8AzTCg-1.fit_lim.size_1200x630.v1639629116.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "publishedDateTime": "2021-12-16T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

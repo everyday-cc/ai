@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-17-the-future-of-robot-nannies.md",
+      "title": "The Future of Robot Nannies",
+      "excerpt": "Parents will quickly notice the educational benefits of robot nannies that have advanced AI and communication skills. Occasional horror stories, such as the robot nanny and toddler tragedy in the novel Scarlett and Gurl,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
+      "originalUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61bbe072d35cf9ca029ad089/master/pass/The-Future-of-Robot-Nannies.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/roboto-nannies-ethics-liability/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roboto-nannies-ethics-liability/amp",
+      "publishedDateTime": "2021-12-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-nauticus-robotics-to-go-public-in-560-million-spac-merger.md",
       "title": "Nauticus Robotics to Go Public in $560 Million SPAC Merger",
       "excerpt": "The ocean software startup is working to replace large ships with robots in industries including energy and fishing.",
@@ -1306,58 +1358,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
-      "title": "Investing in the Future: Burger-Flipping Robots?",
-      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
-          "width": 2120,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

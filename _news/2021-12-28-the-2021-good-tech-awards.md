@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awa
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Top Tech Trends of 2021"
+    excerpt: "We've seen huge advancements this year in everything from robots to artificial intelligence, driverless vehicles, cryptocurrency and more."
+    publishedDateTime: 2021-12-29T17:49:00Z
+    webUrl: "https://www.newsy.com/stories/top-tech-trends-of-2021/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 24
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1640792964_70DA8M.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "LA0sFU6YyrFPscKZco7yEpja84yJbCFntJX3MLmvhxXUoi6hx5T9ASmr4LdLzKLh4/1VjtLj9HKfza7CwyRNaRbFxLrSCSELlopIWX+Gdlogm77PzUXjp73pdnuOJbg43RwKNVdf98iyeOKQNPYn+rt8qk5OpxtgFLj4RXqnaSqgeWPfuSVHoarKowjPuUJHqKE4vm6/1QfVYxFSOEEnwrWmqQHCTLpA9KazcvqbG/7PGrep/rlpApYBELzCVzgw5Dxv7++A4Z4TNOVQ0HxlcbogvCPVwLPVrqz1Hby/2RC+dzlr4N82D2es/eBMe8lwc6QkQwDRbDdQ++OydV6R7+miFN1KAVXtnALTTx4XVecrpQSnE3fQzrpC2UXBY8RKpGadDs0lUCsG3ZwWG8RiasoGKJ6PQqV7KhqP+WmQrkLZ2+bLy3tE76YwIEvAvfRiU7toAeCcoabRpLITMsxDD0jybZvy+NAACF1cpLr3HLiHEW/Uku3toqWPT9/19TSATpIW0cRaKKOx0MXTr02qRA==;G/ILQN5sYov3hliH1aGyHA=="
 ---

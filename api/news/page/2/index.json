@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
+      "title": "Our most technical people are down on AI ... and that's a good thing",
+      "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "originalUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/27/45351a94-cac1-42d5-8bd6-3df2bf850703/resize/1200x/3aea1d8794e74fd59682cb05feb0db29/shutterstock-1277342386.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "publishedDateTime": "2021-12-27T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-video-of-tesla-driving-dog-was-staged.md",
+      "title": "Video of Tesla-driving dog was staged",
+      "excerpt": "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
+      "originalUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
+      "publishedDateTime": "2021-12-27T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
       "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
       "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
@@ -457,6 +552,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-the-year-everyone-remembered-that-chips-matter.md",
+      "title": "The Year Everyone Remembered That Chips Matter",
+      "excerpt": "Shortages of semiconductors messed up production of everything from cars to toys. Plans are in the works for more factories, but they'll take years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "originalUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7b723afed9525c50efcac/master/pass/YIR-Jennysharaf-Importance-of-Chips-1313967169.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-your-rpa-is-only-as-good-as-the-data-it-understands.md",
       "title": "Your RPA Is Only As Good As The Data It Understands",
       "excerpt": "In comparison to traditional robotic process automation (RPA), hyperautomation is focused on expanding RPA's boundaries to encompass decision-making and analytics.",
@@ -465,7 +612,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1038,161 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-how-music-ai-could-create-a-future-grammy-award-winner.md",
-      "title": "How music AI could create a future Grammy award winner",
-      "excerpt": "Watching Paul McCartney create the eponymous song out of seemingly nothing, as George Harrison stands nearby yawning, is one of 2021's cinematic pleasures. The Beatles are arguably the most successful pop group in history and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/QDQTeZU5bWFyDnABg5xu4myWs1w=/1200x630/2021/12/08/3b88e432-d4c7-4139-8b5d-12067ff652c3/gettyimages-900233104.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
-      "title": "Learn what makes a self-driving car autonomous",
-      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
-      "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
-      "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "originalUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/01bf6034-a56d-4eaf-a516-1f55929838b3_9ced3255.jpg?itok=Jhq02AR0&v=1640357815",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "publishedDateTime": "2021-12-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
