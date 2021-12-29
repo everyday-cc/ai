@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-pl
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
         width: 1600
         height: 1055
+        isCached: true
+  - title: "Tesla self-driving tech going on road"
+    excerpt: "Kevin Smith has a love-hate relationship with driving. He was rear-ended twice in a short span of time, his daughter crashed her car weeks after getting her drivers license and his mother chose to surrender hers after she started missing red lights."
+    publishedDateTime: 2021-12-26T07:10:00Z
+    webUrl: "https://www.nwaonline.com/news/2021/dec/26/tesla-self-driving-tech-going-on-road/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200241823_1G4TESLA1226_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "Uo6wT6Hm7FevRLZ3Py4RQV5Ijj+z9WmccvJJaiua2TvHu4KqI9mqcq+t0jxeFXBMrPAfUfHarmn97cTTqttqp/FL9yXQIAz0WeCkL5ZvXe9dQrWuD1/sivv7cXGXnPZSuajmbz7AidQU7Y/L+p1cS6Vr2DJJmtH0e9RirkxVds/k/TbPt3eUy9n7H3pgvmw+cjcYsKkwcP0DIXoOP+zaIVN0vN7vU9qnk96B5MgMQMTEgdauNDL9TCHHPFozryHABpRIBf1TVpDijczmoLMEN3o6Yy46MV5SaRutcyCTBeGQRQhzpmL0t1HMdwbOl7dKEFgl+pemRjTDmuzrqhzcr5jQYF2fA7AfYYP3kSxXW10=;+1AMf/XULHSWFKQsWCNwVg=="

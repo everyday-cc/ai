@@ -39,20 +39,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Tech Insider: China’s Latest Self-Driving Unicorn, Nio’s New Electric Sedan"
-    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Self-driving startup Haomo gets its unicorn horn after new funding round Beijing-based autonomous driving startup Haomo AI said Tuesday that it had raised 1 billion yuan ($150 million) in a series A funding round from a group of big-name investors including Meituan,"
-    publishedDateTime: 2021-12-24T11:30:00Z
-    webUrl: "https://www.caixinglobal.com/2021-12-24/tech-insider-chinas-latest-self-driving-unicorn-nios-new-electric-sedan-101821853.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 22
-    images:
-      - url: "https://img.caixin.com/2021-12-24/164034345637056_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
 
 secured: "F3i9b6jYMBdcifP7WziBeA7R4Vjssh5SJ9NGsc5I6cTtMseXjIhGJR0piGLqJ0XgtOtiZ/5HiwSsb5y0u9S5ur9X+zhutVYPTqKwcMjMDkP+kro0vexR2uRGccx/OH+mXOtnAOBrW4xm0UC5KLI8LgKOUQyI15/jz8KJzZsBCWdFEG6/HjhPXXkDGoMRm4kTMb1sitaI9qskKWeKS7ptLZZlu8jU4zJPM9N9v2Bt3Pu0YwqsN9ZfIVx02ewBbfvxRstTwz8UMoHh75pFpHwI879aO49Y9ZTtWtPR6/p8R0qqrvZrL9SiAu9PVm5zuxyU2ZSYnkVkyuHSl1Knetf1giD5kcIpN0vBS8BRdnKszyP1Dw/jfiwloYCV2cUuZuBOLon9JkpvVtOvrW4RjiFMuoENilUL0QWsNZVBHqcLTK9mX7StXycG3lQWEgbfQY/ghNzkOZlQPQXuRhE3oPCAPNPs6z9XPlbKJBIUtJ6l46JtsDTsS9NCCTZk//wGAmxqr79XJ03Y71o1B4T84QW4CA==;pDs0curOga8lQu7tXTVlng=="
 ---

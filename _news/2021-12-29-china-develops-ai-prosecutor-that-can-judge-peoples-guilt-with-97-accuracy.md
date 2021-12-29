@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
-excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
-publishedDateTime: 2021-12-27T18:27:00Z
-originalUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+title: "China Develops AI Prosecutor That Can Judge People’s Guilt With 97% Accuracy"
+excerpt: "China has developed an AI system that can determine guilt in eight crimes with 97% accuracy, but experts have concerns over its abilities."
+publishedDateTime: 2021-12-29T04:30:00Z
+originalUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229"
+webUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229"
+ampWebUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229.amp.html"
+cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229.amp.html"
 type: article
-quality: 53
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Washington Examiner
-  domain: washingtonexaminer.com
+  name: LADbible
+  domain: ladbible.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
-    width: 530
-    height: 300
+  - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbb5eacc061cb924f69f24f5315d2cf2a.jpg"
+    width: 1200
+    height: 803
     isCached: true
 
 related:
@@ -122,21 +122,21 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "China Develops AI Prosecutor That Can Judge People’s Guilt With 97% Accuracy"
-    excerpt: "China has developed an AI system that can determine guilt in eight crimes with 97% accuracy, but experts have concerns over its abilities."
-    publishedDateTime: 2021-12-29T04:30:00Z
-    webUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229"
-    ampWebUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229.amp.html"
-    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229.amp.html"
+  - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
+    excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
+    publishedDateTime: 2021-12-27T18:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
     type: article
     provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 54
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
     images:
-      - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbb5eacc061cb924f69f24f5315d2cf2a.jpg"
-        width: 1200
-        height: 803
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
+        width: 530
+        height: 300
         isCached: true
   - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
     excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
@@ -164,6 +164,6 @@ related:
         height: 536
         isCached: true
 
-secured: "xhmn/8g9s72ilyC0RFM8L+5HFipcGFzzqPvLf3H2ITndb4eJUQroZIQM19sCG6sazrQz1aPgmZFeaGq3HuPPbq7AbRJQYUS1ugbadbPVig5cIjTb0vAzxUHQuS0fFOna5k8bIa5TF9MMQ1lWAnjW2Jwa2oNOFi7kuewfgEzCHPFyrEPQngt28qyl2+Gyi9/dCbueUgZ26joF+YESYHeKIgQJ1eViVs9SSSR7jmOxhK8sbiIUhZ8h/yNmtrIi47xLGCmhVjW3IjuJU1GsmmExCos4GG4h+ITy4hnr8QRZUSwQI/RWir1gNoRlWyWXb5QiWCzdJ4mZ85+x6LMcK7iRp6fFvQgCGU3GB6jvt4RYoiPizZA9n/2wLNApfn4hIgthErhbHhlZcgbOnlg8GwR/wEWNB4kLyBkwQJ8N8XqJs5ErBXeUOj0oqFEWv1m+HXB0IKWAGVEkSCcajfLyvgRZ4QqljeE19g8lsZloqn6b6wZe3sdR5v0LCx5i8605m85P/Z4+KFudAT3BimAnke/ccQ==;xo5Lu5002BIc4/eNImeR4Q=="
+secured: "juEGS3r8/pMFRj3Y3KsOstYPCe2KE5KEP2mPdp8Sq6VZJkuogMsBPf0ImDq+x40JciclKb3EMlouHTqId8Ig/SWhZuLmBTOGrItTYqi8G1VZh8i5sGxvTJgzew9gGo4WGivBDg8ziu1gJBkc83XPmI3P00YQKYLj4EPpsIHDY4t6OVHuaqv7DTXhSlto+nvhcB27PdmZIcL9KFOikhkchSnfPNM9o27s5ThlRtA9RMsDlA7Xg/IPqAhiVkgZnQH5PP/tqqstetJIa4srY9f1EWvuWMMd9jeHBx6I9pL3qmZGZDI8zx9RnVvspn8ZzMuPn5VPcCbKDtV9OC1Av9X4xEh6/khWjKe29H6uAayyIkg=;7eEZ345qoe+2U9aIU7gOHw=="
 ---
 

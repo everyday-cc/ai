@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla Ends Motorists Playing Video Games While Driving"
-excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
-publishedDateTime: 2021-12-24T18:08:00Z
-originalUrl: "https://www.thedetroitbureau.com/2021/12/tesla-ends-motorists-playing-video-games-while-driving/"
-webUrl: "https://www.thedetroitbureau.com/2021/12/tesla-ends-motorists-playing-video-games-while-driving/"
+title: "Tesla self-driving tech going on road"
+excerpt: "Kevin Smith has a love-hate relationship with driving. He was rear-ended twice in a short span of time, his daughter crashed her car weeks after getting her drivers license and his mother chose to surrender hers after she started missing red lights."
+publishedDateTime: 2021-12-26T07:10:00Z
+originalUrl: "https://www.nwaonline.com/news/2021/dec/26/tesla-self-driving-tech-going-on-road/"
+webUrl: "https://www.nwaonline.com/news/2021/dec/26/tesla-self-driving-tech-going-on-road/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TheDetroitBureau
-  domain: thedetroitbureau.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
-    width: 1600
-    height: 1055
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200241823_1G4TESLA1226_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla self-driving tech going on road"
-    excerpt: "Kevin Smith has a love-hate relationship with driving. He was rear-ended twice in a short span of time, his daughter crashed her car weeks after getting her drivers license and his mother chose to surrender hers after she started missing red lights."
-    publishedDateTime: 2021-12-26T07:10:00Z
-    webUrl: "https://www.nwaonline.com/news/2021/dec/26/tesla-self-driving-tech-going-on-road/"
+  - title: "Tesla Ends Motorists Playing Video Games While Driving"
+    excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
+    publishedDateTime: 2021-12-24T18:08:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/12/tesla-ends-motorists-playing-video-games-while-driving/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
     quality: 39
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200241823_1G4TESLA1226_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
+        width: 1600
+        height: 1055
         isCached: true
 
-secured: "Ihhqv/i2TZ3vemI6xYKusfvz6JHje3/NQJk9zv/LOl+0p6WQMIztRSYd4Qz36ZQVouTzQZ8JGZyCXQc4Gb6op5sZ4UV9FypwW6TjZZSyTTm155WJVhFRXEIx7mtFBqGFpRESNieOMeX6+Bic0zJUbxtTLHWXCFrmxwxcoKT1XGdcdMvOJYfoe/HIAoX71Y3HRkS8nyYfbP6HcjOv6WsFrqXluIiIYLm5+ykaVVFaNSmEx3p4J6ts+AUL1N/2yoIbAGAfw1s48U3ap5XMIZ+8kpxH/aq1Da+02nozmQ1DTiFjNjqwBCYC4ZCCYLOgyIETf0xgq/xEtZdnsWWIJfMteo9j6uu87ortbSV9mLigMtk=;PTPSkRrCv6Jbk55P766QaQ=="
+secured: "gGLOReWsW/eaB72rPk6ARR9kPod7nwzoeHqHGMORZ976NAp4QDRBWG99daNDj0/OLDp3WoId0po48UJc6Hv6yw6A4KFoVAdMohFGkAz2F39CsbrglRbgb8RIgkl6RtADSzR5AlGgNuJAKJv00C1GSCu6ILYJh3J0/H3dpAwXR1x8o2pAFrslykdblDROD7g5SRQHvij5MrwknyNp6evlizPmj6A6gZzUebQDmH68oo/dAxqPfdmCHoSlCUB0fVvO2SExSQl7VTJNmda3vCy0fJrzNzn5MeCcLoa/iStK7mrvRYUTxbB5SgZ68LkNKMzLfDC6bIdnOANoVdfSCGT7GgCg1xKPRqO+FCX4Icjnx4s=;or7VyAlYehNYid4RVO16eg=="
 ---
 
