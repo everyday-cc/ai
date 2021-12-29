@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: New York Post
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Ends Motorists Playing Video Games While Driving"
-    excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
-    publishedDateTime: 2021-12-24T18:08:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/12/tesla-ends-motorists-playing-video-games-while-driving/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/Tesla-megaphone-download.jpg"
-        width: 1600
-        height: 1055
-        isCached: true
   - title: "Tesla self-driving tech going on road"
     excerpt: "Kevin Smith has a love-hate relationship with driving. He was rear-ended twice in a short span of time, his daughter crashed her car weeks after getting her drivers license and his mother chose to surrender hers after she started missing red lights."
     publishedDateTime: 2021-12-26T07:10:00Z

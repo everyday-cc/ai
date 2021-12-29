@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/stanford-university-stanford-research
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-researchers-are-using-artificial-intelligence-to-create-better-virtual-reality-experiences/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1500
     height: 500
     isCached: true
+
+related:
+  - title: "Stanford University: Building Trust to Make Machine Learning More Effective"
+    excerpt: "Yet a big barrier to any technology working optimally is getting full buy-in from its users, particularly when they’re busy medical workers who rely on good information to make split-second decisions that impact their patients’ health."
+    publishedDateTime: 2021-12-29T05:19:00Z
+    webUrl: "https://indiaeducationdiary.in/stanford-university-building-trust-to-make-machine-learning-more-effective/"
+    ampWebUrl: "https://indiaeducationdiary.in/stanford-university-building-trust-to-make-machine-learning-more-effective/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-building-trust-to-make-machine-learning-more-effective/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 57
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/10/1500x500.jpg"
+        width: 1500
+        height: 500
+        isCached: true
 
 secured: "vdjKF/x+1vRsm3AtYRhfZgGj5EuUUy4v4+ZGry3wwyImeJzf1A1sUF8/FU4MiXBf3lXHONx3meh+9s+mSlk4iz/+ZpRCXziQrWrwUxQuC9lkB4dl7Tcv8yocJW6zVUaUIY7jNQAoXoUFKKSrbEXJeaYgbGCkPTEo2syBa7GzZlu1Eqt9polpat/iA9E9n8B8MkuKW55FP/l4NivOlzejbD31YwlbWz3TDUM4ZpMqVUDgskt3Mtv/IBkZD/d21zW1yz4OrpfRwoJGe9knwHsfjqJ2QpL1P8YtkKNqWezj8mAoYfu50aKwGl8mvzMOix5QtclIpJSehwXFL8GSdmbxF7n5xFit0rLT4fdLD3WmyJ3xo9dCZmyGgLZl6oVCR7xMJr8GTSIo1+lpaL83BmVnj9w8awc1UB8xqomRlY11TGzA1YTLG9daV/rJAcwtc2KEDDmh0ZMLbWKMZl0BAT34QjniEwl9r1PGiK84q6YNfemxs88tdviJIIVvAEyFiyPdql4c3vBCXzyR08au0R8Akw==;gzoHzE047YFJxEafoeeOsw=="
 ---

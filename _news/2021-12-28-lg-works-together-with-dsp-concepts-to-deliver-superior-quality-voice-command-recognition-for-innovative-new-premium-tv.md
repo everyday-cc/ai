@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-
 webUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "LG taps DSP Concepts for voice command recognition"
+    excerpt: "LG Electronics has implemented DSP Concepts’ TalkTo audio front end for improved voice pick-up and speech recognition on its new LG Objet TV, the 65ART90."
+    publishedDateTime: 2021-12-29T08:46:00Z
+    webUrl: "https://www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 44
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/Dec_2021/lg-objet-tv-65art90-ces-screen.jpg"
+        width: 1485
+        height: 835
+        isCached: true
 
 secured: "LqiEYQhN0HuWL7CjbnL6ed5W3338ERJ4F8fESUHxv5nrAHJAi3R0XuZSli7h6afTKqAoQ1fZuySPYCjMzd+bFOExp0wfaO/6IefgxG+fD8TLr+Ckf1L0kTPlwjMAAk5UwCtYzMlnVFckDMrYo0ocIk170J6LLdGHKg0P/ucMk7huU0VaCu2bAKhCU8u2nzceYXv+46CvinVgiWO3ovf7Sfh4ZnbaxVUoK6fPeKp63W9IYHJoODyt9ytvCX/eKeD0vflmTJzIA+nffnpCk5EeRqlGb9zkQ2T0EF3gx7wQxq4VoCdoLvJfiajNhs1Jgi5149gNehQ+jUAyTwHF5msRp1Co/ewApSP1tAU2Jt+bVmKLbOIMSUfx5gSWtR99vJboVYAiFsfhyVWky2Da6taREg52pss4wqgS+xLZNEpBUVbjAT0HSQPf14ZhcfxylK4rQMgCYMtReFhduEqKJ9Ue86+2HYWV0nml2SfczsrvCyseXksqZov855Kt3ucmuBFdYatUQrVvc9Szif90Nqldxw==;uSN2DVTuEKCn5Orwe9dofQ=="
 ---

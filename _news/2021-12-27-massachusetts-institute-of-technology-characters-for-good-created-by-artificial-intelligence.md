@@ -91,6 +91,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Massachusetts Institute of Technology: Artificial intelligence that understands object relationships"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-12-29T03:59:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Massachusetts Institute of Technology: Tiny machine learning design alleviates a bottleneck in memory usage on internet-of-things devices"
     excerpt: "Machine learning provides powerful tools to researchers to identify and predict patterns and behaviors, as well as learn, optimize, and perform tasks. This ranges from applications like vision systems"
     publishedDateTime: 2021-12-28T00:56:00Z

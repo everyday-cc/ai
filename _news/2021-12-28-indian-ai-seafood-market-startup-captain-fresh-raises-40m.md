@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/indian-ai-seafoo
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/indian-ai-seafood-market-startup-captain-fresh-raises-40m/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: pymnts.com
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Indian Army establishes Quantum, Artificial Intelligence Lab in Mhow"
+    excerpt: "The Indian Army has set up a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madh..|News Track"
+    publishedDateTime: 2021-12-29T09:30:00Z
+    webUrl: "https://english.newstracklive.com/news/indian-army-establishes-quantum-artificial-intelligence-lab-in-mhow-sc1-nu318-ta318-1201562-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/indian-army-establishes-quantum-artificial-intelligence-lab-in-mhow-sc1-nu318-ta318-1201562-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/indian-army-establishes-quantum-artificial-intelligence-lab-in-mhow-sc1-nu318-ta318-1201562-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 57
+    images:
+      - url: "https://media.newstrack.in/amp/uploads/latest-news/india-news/Dec/29/big_thumb/Army_61cc2a3a1d00c.JPG"
+        width: 1373
+        height: 900
+        isCached: true
+  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
+    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military Co.."
+    publishedDateTime: 2021-12-29T10:51:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88566933,imgsize-71458,width-1200,height-628,overlay-etcio/indian-army-sets-up-quantum-artificial-intelligence-lab.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
     excerpt: "Our recent Institute for Business Value study highlighted that nearly 6 out of 10 Indian CEOs expect cloud computing to deliver results in the next 2-3 years, and 45 per cent of CEOs in India expect AI/machine learning to deliver results in the next 2-3 years."
     publishedDateTime: 2021-12-25T11:26:00Z

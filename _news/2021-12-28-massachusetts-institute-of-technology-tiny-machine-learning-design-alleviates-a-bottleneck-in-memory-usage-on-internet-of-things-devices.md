@@ -108,6 +108,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Massachusetts Institute of Technology: Artificial intelligence that understands object relationships"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-12-29T03:59:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "1U7M5y2SRfCejoRk/DOSwAl1pYutvyqVlJQ5PEjBZDTbwYDenBgWs7vbMFeQj+fkfB0mx4MfICboZCFjoFisPQRHuZYqvO+4KKpsM/G3sYQMOfxqO7hJaOgVb8v1Ot2B1yjg+wzsXQssmZ6wwyqIVLJml2WcKfYs7s354EFygSiLhmWKoh0becTTN13z0qw4QF95y/W9KJ5/Eg4iERcDt7LP5brlyoKXRPHZWa5UPQla5K+gC+I0aZWzP82Uek2+ZPMfeNhB7hjTqox0a01oycpBen8uQfBHq+dPJHc2920f83mpUGF/d+pGGz6+l/tyrov9GMHG7jXysFt661zn6d11u69YZfHBVV503JWVTiFdwsUxSBpcCLEhL0cstYoNLoW3eimCtmOkvXd3Wefb3oQY49Do7QWyRGTHuxsm7Aqfj/gbTNxCdhF34F4iqS1WUJZwbAuclOmntDz+9ZWt2Y/pHplrKdX2ybbdQoJGHMnzK27AbTJzrrEi0ei4FfnbFwuTrxHM+Y8jirX3n8Kqxw==;1uCamjyVFMu8vn5BTr5sOA=="
 ---

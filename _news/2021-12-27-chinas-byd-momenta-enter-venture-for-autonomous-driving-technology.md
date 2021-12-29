@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-12-27/chinas-by
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-12-27/chinas-byd-momenta-enter-venture-for-autonomous-driving-technology?context=amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "BYD, Momenta form JV for autonomous driving"
+    excerpt: "China's BYD has partnered up with autonomous driving startup Momenta to establish a joint venture DiPi Intelligent Mobility in the city of Shenzhen to deepen its deployments in intelligent driving."
+    publishedDateTime: 2021-12-29T07:55:00Z
+    webUrl: "https://www.digitimes.com/news/a20211229PD217/byd-joint-venture-momenta.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211229PD217_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Chinese Automaker BYD Forms Joint Venture with Momenta to Develop Autonomous Driving Technology for its Models in China"
     excerpt: "Chinese automaker BYD and self-driving technology startup Momenta have established a new joint venture to deploy autonomous driving capabilities across BYD car model lines. The new company, named DiPi Intelligent Mobility Co."
     publishedDateTime: 2021-12-27T19:20:00Z

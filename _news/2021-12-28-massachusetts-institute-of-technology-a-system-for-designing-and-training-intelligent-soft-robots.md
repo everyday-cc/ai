@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
 type: article
 quality: 60
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -81,6 +81,22 @@ related:
     webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
     ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
     cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-generating-a-realistic-3d-world/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Massachusetts Institute of Technology: Artificial intelligence that understands object relationships"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-12-29T03:59:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-artificial-intelligence-that-understands-object-relationships/"
     type: article
     provider:
       name: India Education Diary

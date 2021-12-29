@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: pymnts.com
@@ -39,6 +39,22 @@ related:
     quality: 49
     images:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "How 104 Acquiring Banks Are Using AI to Beat Fraud, Boot Unprofitable Merchant Accounts"
+    excerpt: "Gaining Ground On Merchant Monitoring examines how acquiring banks can harness AI to boost merchant profitability."
+    publishedDateTime: 2021-12-29T09:00:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/how-104-acquiring-banks-are-using-ai-to-beat-fraud-boot-unprofitable-merchant-accounts/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/how-104-acquiring-banks-are-using-ai-to-beat-fraud-boot-unprofitable-merchant-accounts/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/how-104-acquiring-banks-are-using-ai-to-beat-fraud-boot-unprofitable-merchant-accounts/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-merchant-monitoring-banking-457x274.jpg"
         width: 457
         height: 274
         isCached: true

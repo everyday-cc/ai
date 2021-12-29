@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-mar
 webUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 333
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Diabetes Management Market Insights, Analysis"
-    excerpt: "Global artificial intelligence in diabetes management market was estimated to be US$ 218.70 million in 2018 and is expected to reach US$ 3874.52 million by 2027, growing at a CAGR of 37.7% over the forecast period (2019 to 2027)."
-    publishedDateTime: 2021-12-27T10:07:00Z
-    webUrl: "https://www.pr-inside.com/artificial-intelligence-in-diabetes-management-market-insights-analysis-r4860161.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 38
-    images:
-      - url: "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "ilhmnvD6tSPpnxljbS0LKZivfFMJkJt6Iqs1FXzsf55Z2L+ZX5xc790BgYHN90lyepCxVrP/dFRc9DeNqrFykpOisAZlYiGbcpoCBgWmwbgKpmWiSae2yNEhZDQMAPi8Ib6vel7Nq0Ib8PYHAVSpBwKz8iNHSWtsPZ9Ldn4P2Bqoa2xdyAYrxR+rza9DiFhxH+1jebF6jjQIlIR3E4FonWSdrtnidwRxCDeRrabdVqZn6OJTIP3UoWoE7A3T7MB/gUBgGsYlMb1pCn7hlzmLTPJcv74t+e+sVMwOtlM4Ni3iE4NXKysPHanNN+R8HZOE3+wOhmS9h7GScUFohoLly3hYi5QIIsD/SxvmvFcWN3Y=;pleF1+okZ+1QMACq264++A=="
 ---

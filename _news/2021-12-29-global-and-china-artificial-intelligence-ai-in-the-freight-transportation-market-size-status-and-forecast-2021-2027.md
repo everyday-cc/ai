@@ -32,6 +32,20 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
+    excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-29T09:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=593415"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Conversational AI for Retail and E-commerce market"
     publishedDateTime: 2021-12-28T08:33:00Z
