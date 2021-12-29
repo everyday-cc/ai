@@ -1069,6 +1069,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-24-how-india-may-become-an-ai-powerhouse.md",
+      "title": "How India may become an AI powerhouse?",
+      "excerpt": "India should look at AI solutions that cater to Indian regional languages. While cheap data ... The Government’s National Translation Mission which aims to make knowledge texts accessible ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88466210,imgsize-12332,width-1200,height-628,overlay-etcio/how-india-may-become-an-ai-powerhouse.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures.md",
       "title": "AI-Powered Seafood Marketplace Startup Raises $40 Million From Tiger Global And Prosus Ventures",
       "excerpt": "Existing investors Accel India, Ankur Capital, Incubate Fund and Matrix Partners India also participated in the round.",
@@ -1149,49 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-use-of-robots-ai-in-defence-applications-rising-official.md",
-      "title": "Use of robots, AI in defence applications rising: official",
-      "excerpt": "Delivering a lecture at Velammal College of Engineering and Technology, as part of ‘Azadi Ka Amrit Mahotsav’ initiative, on role of DRDO in self-reliance and defence technologies, he said that application of Aritificial Intelligence (AI) and Machine Learning and use of robots was increasing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/Madurai/4ludsb/article38025506.ece/ALTERNATES/LANDSCAPE_615/24MACity-DRDO",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "publishedDateTime": "2021-12-23T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

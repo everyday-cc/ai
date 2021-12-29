@@ -159,6 +159,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-24-how-india-may-become-an-ai-powerhouse.md",
+      "title": "How India may become an AI powerhouse?",
+      "excerpt": "India should look at AI solutions that cater to Indian regional languages. While cheap data ... The Government’s National Translation Mission which aims to make knowledge texts accessible ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88466210,imgsize-12332,width-1200,height-628,overlay-etcio/how-india-may-become-an-ai-powerhouse.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise.md",
       "title": "A Market to Harness: Speech Recognition Artificial Intelligence (AI) Innovations On The Rise",
       "excerpt": "This blog focuses on the speech recognition and AI market profiled market innovator AssemblyAI, EmotionalCloud and other innovations advancing the speech and emotional AI intelligence landscape.",
@@ -1446,49 +1489,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce-success-in-2022-and-beyond.md",
-      "title": "New Translated Study Reveals ‘Hyper-Localization’ of Languages Will Be Key for Global E-commerce Success in 2022 and Beyond",
-      "excerpt": "Over the next few years, English will lose its importance as the de facto language for business in the world of e-commerce, as languages such a",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/new-translated-study-reveals-hyper-localization-of-languages-will-be-key-for-global-e-commerce/article_165cc14e-fb69-5553-8c45-cd3f659e9045.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

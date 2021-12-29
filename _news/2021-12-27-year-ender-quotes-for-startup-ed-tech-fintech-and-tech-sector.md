@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Indian FinTech Slice Plans to Hire 800 People Next Year To Expand BNPL, Credit Products"
+    excerpt: "Indian FinTech Slice said it plans to hire almost 800 new employees next year, canvassing its operations, design, product and engineering departments."
+    publishedDateTime: 2021-12-29T07:44:00Z
+    webUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/"
+    ampWebUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 36
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Slice-hiring-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "FinTech trends that will change the BFSI industry in 2022"
     excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
     publishedDateTime: 2021-12-28T10:09:00Z

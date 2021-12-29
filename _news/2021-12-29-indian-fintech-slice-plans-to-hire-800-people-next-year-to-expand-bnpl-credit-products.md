@@ -1,27 +1,29 @@
 ---
 category: news
-title: "FinTech trends that will change the BFSI industry in 2022"
-excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
-publishedDateTime: 2021-12-28T10:09:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
-webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+title: "Indian FinTech Slice Plans to Hire 800 People Next Year To Expand BNPL, Credit Products"
+excerpt: "Indian FinTech Slice said it plans to hire almost 800 new employees next year, canvassing its operations, design, product and engineering departments."
+publishedDateTime: 2021-12-29T07:44:00Z
+originalUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/"
+webUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/"
+ampWebUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
 type: article
-quality: 24
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-    width: 300
-    height: 300
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Slice-hiring-457x274.jpg"
+    width: 457
+    height: 274
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Indian FinTech Slice Plans to Hire 800 People Next Year To Expand BNPL, Credit Products"
-    excerpt: "Indian FinTech Slice said it plans to hire almost 800 new employees next year, canvassing its operations, design, product and engineering departments."
-    publishedDateTime: 2021-12-29T07:44:00Z
-    webUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/"
-    ampWebUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
+  - title: "FinTech trends that will change the BFSI industry in 2022"
+    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
+    publishedDateTime: 2021-12-28T10:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 36
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Slice-hiring-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
@@ -83,6 +83,6 @@ related:
       domain: webindia123.com
     quality: 18
 
-secured: "DZEg1dRQsOYVttjhY9Hjrj5sGyo5NU32xEeK4IqEyAB/aiY2FPaIMWQMY1KC3VHsW6JpDYJ7t7kHeiwtfCCi3OlKRgOa2zki8UvjCn3a9505vTW8xIW6xR0rhYOgwnJFeLijZVgXvVEX098YZ0aAeUhG+mYF8C3yjA675HkfIBbDybEVjteo9seyNk38YPowo9oj8JGrUAjjvYZbN80tN51l+02i4wJO7HOzndKPm2BfCWmWfUK2XNstCqAG6WI21EqXlJJOQOBI8r01KQbl9NmOiLrqMErXOl+Ym66hRz1LPnY0CdVDr/JMtDJazzABUYzuDnQDPcP1CcM82XrklAFzlE/Z5+sz7hR2ZBtwYsxoojz7geLH5h00nFwDEBVwEoWwCaG4Tv+z4tr1qlfycssUsiK6XAMhJ5a23aiAVfq3A5hDKiVYmMaVOh0r+zWIQ06YuGav5oK9nWFUVM/HaM+BfSKj8mCCW4BTtPu5yyCU/CJN7mW6Bh4VWGHDgPD4xhjF2dDhvvGCW1pO4BF0AA==;T0xrrlJzFUPvGIMKueMVxA=="
+secured: "i042t6GGpi0+I152ilOFEIIL9G3ekW6mXm0RVw8y/OeA8IKrjbpN5IDoe/0z5cSkGI2rGV4Szrn6WawEsPS2EUAnps04KwKQ7K6P6c18BgtU+NjmYfM4rMDA3MjBxpBKjZz+heKp96q2ANgJA0vXYo+6XO0MxzlJqTOusmV61M2UP/+JIQTUFVOXZcE/istgtbBDP2wuIrdva0D6KlwOwFYvmz30/fvFYOmhuNrYcK/71hkF/RcHHJkbKrvcyHRx/eQFQS5H76Qkmlx5WFfwliwuvim8qgebBi/KxkPKkAlDKC+3G3Pc3TuI9jZBeikjROQBhjPoeN6xU+L93JikaTWKJa0Cbx6EoRDCNAwubTM=;Qu9CZzvAsBhXY/Cs09H8aA=="
 ---
 
