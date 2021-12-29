@@ -35,6 +35,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analytics and AI in 2022: Innovation in the era of COVID"
+    excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
+    publishedDateTime: 2021-12-28T14:03:00Z
+    webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Why we must humanize AI for global supply chains"
     excerpt: "The rapid adoption of AI/ML is driving us towards a new world where computer models are increasingly shifting from “informing humans” to “taking decisions for humans”."
     publishedDateTime: 2021-12-29T14:25:00Z

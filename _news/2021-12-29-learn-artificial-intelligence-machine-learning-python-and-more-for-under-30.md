@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/learn-artificial-intelligen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
 type: article
 quality: 100
-heat: 130
+heat: 132
 published: true
 
 provider:

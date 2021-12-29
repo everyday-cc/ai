@@ -42,6 +42,22 @@ related:
         width: 1117
         height: 838
         isCached: true
+  - title: "Dangers of artificial intelligence: Alexa tells 11-year-old to put a coin on an exposed electric plug"
+    excerpt: "It came up when the girl asked Alexa for a “challenge to do.” “Plug in a phone charger about halfway into a wall outlet, then touch a penny to the exposed prongs,” the smart speaker said, per BBC News."
+    publishedDateTime: 2021-12-29T12:00:00Z
+    webUrl: "https://www.deseret.com/2021/12/29/22858534/alexa-11-year-old-coin-exposed-electric-plug"
+    ampWebUrl: "https://www.deseret.com/platform/amp/2021/12/29/22858534/alexa-11-year-old-coin-exposed-electric-plug"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/2021/12/29/22858534/alexa-11-year-old-coin-exposed-electric-plug"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 42
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/uZF3utgzO2Nb5RZj28PQO0EabGc=/0x0:1024x678/1400x1050/filters:focal(431x258:593x420):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70327686/AP20031679120165.0.jpg"
+        width: 1024
+        height: 678
+        isCached: true
 
 secured: "l1D7LNhLKIyeh5XVZAuMgWZzhHrMlEt3OT4nRGkSk1vwT45x5HEiGKKdeaTB+WlyAvWUm/7K1duAN6yp5mLzPKDv7aLN9h5F0kGsCY4EFiv4RjSi/k6y681juHqVFgOTHvaEZuUfsyPC/xvyxEe322f87KEg+rx+5SoCvul0/wFMxrd2GbUmXQtMOWgvtOh57w1k2AMHCC5aKlzxwyKkrD2pEDyDmVY/8byAW8/sTqVuTHD8/v7im4WXen3lch0puxya+L7hMcJ86LCF3nI4gNQ3HrtNZDwp4JkIpSdwF1X0kgLy6F87/2UJdJ6asxvDp2ViSxfw9dx27nzIdl2NQTBTzTaYpc5w4ESzSEfjkL4=;Y357PMM9octYxxCkrElH+w=="
 ---

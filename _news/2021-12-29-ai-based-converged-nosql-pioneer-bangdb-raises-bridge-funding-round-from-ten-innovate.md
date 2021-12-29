@@ -3,8 +3,8 @@ category: news
 title: "AI Based Converged NoSql Pioneer BangDB Raises Bridge Funding Round from Ten Innovate"
 excerpt: "BangDB, a pioneer in AI based Converged NoSQL database technology today announced that it has closed a bridge funding round led by Ten"
 publishedDateTime: 2021-12-29T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
 type: article
 quality: 10
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 367
         isCached: true
 
-secured: "xA6yGUiVvlVqOUtYJ34Mi6AWZ3zrAeBHS7lIRkhYNLXuc++jaGMlf9WXahX0kLM4pvUXwY/FBHCssmmu6nsu59ToYFl+82tflPH/fMtBZRf64NVBVa9aJFZpSunjqaUQ/tjwCoNWT6F2qm5ZAPcKZnvIaOQkYKtM0WzVY+S4AdvsfWH2ogvQDEvBOahCl/2Z05zgGjt4VhCwt1/3F4TZyIwCFOWWFG+cBa6OlX7z6Vd9NTIfbQiUkjogcggPzJKX7XWXaCJzyJ5pzSO74Hp9EmSmEszCeHhfYZOJMT51JeMPYrGCID0thmJOlRsuZq+01xbgtoU6n9XIq3dbfMVQ4HEI0OfxHNY6dvAHWqTiFngaPgimKbSZkXtI6SlQcFiZ/3CoYqvN8gTdDIIzHUDSm0VVjhh/p+qzmeigA2J6h0d9ZoP7lwuP69tfdEYsU6wmkGskbhS5NjKdiHweBTqz+fjYjqcAezcyYCDfqlHQktA9jqcb3YvZX5PIZPFPlW7RUk8oVopiFjELc+v022RF4w==;DEVMpvib9uR5fRuvFkLzPA=="
+secured: "RlCBWDCbKbIbGR8Ap7+3L6IVz2HwNkeZEaGnvfdF6k4ff3GKkhneazM6VSKr8Owpdh7KXGLRIKBXJFXhmI6PKiJFctLzV3K+5KPdEp5eqAhuNr1DqR7W8l0Xg+tPgq5qAXs/fbEUiFz0IFBxFs4t1vgA/lw+/HOMxW6betTy9phGraJOR+CGKxI8KigutpYeRkxx4+EZ143c9lLevhv/XpBK105CQjrTCUivFkN1qIi5gGgpov8Ld8mlNC3shft7ranWJhOLI0NQ/Tv4IcvFtDeXU6sHA+e/PocQ87qY0AWCiOwi7lTh6XaTm7CBsjFb7UlJEapB2DDuEzCRv6fNOByQ3ruR7e2XGLJSn/TiWEQS7TH35YY6LRpJykudR+LFS71SJBbjRC+R4aMfP/G7rHvaQDc7m3zYX89kZzgBDKm30WPZeZu/m403R7d3wgwJhecAziKSEu6QQCAJs2HEUXLc1wqQ5cMRcaqxeZ4J6yJA5ffoZ25h7V2/T97WHtrHL/iH8Lm3X1C6Vtfvr0TeRQ==;U/zu10S3CvFquMnNeVHLgw=="
 ---
 

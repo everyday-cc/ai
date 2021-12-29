@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
+    excerpt: "The need for the banking industry to keep up with technology was never more apparent than during the Paycheck Protection Program (PPP), which the SBA and the Treasury Department established to provide a lifeline to small businesses that were struggling because of the COVID pandemic."
+    publishedDateTime: 2021-12-29T19:08:00Z
+    webUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas"
     publishedDateTime: 2021-12-27T13:31:00Z
@@ -43,21 +59,35 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Indian FinTech Slice Plans to Hire 800 People Next Year To Expand BNPL, Credit Products"
-    excerpt: "Indian FinTech Slice said it plans to hire almost 800 new employees next year, canvassing its operations, design, product and engineering departments."
-    publishedDateTime: 2021-12-29T07:44:00Z
-    webUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/"
-    ampWebUrl: "https://www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/indian-fintech-slice-plans-to-hire-800-people-next-year-to-expand-bnpl-credit-products/amp/"
+  - title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
+    excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
+    publishedDateTime: 2021-12-29T11:58:00Z
+    webUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
+    ampWebUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 36
+    quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/Slice-hiring-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "How to Create a Reliable and Secure FinTech App?"
+    excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
+    publishedDateTime: 2021-12-27T10:22:00Z
+    webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 24
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
+        width: 1400
+        height: 788
         isCached: true
   - title: "FinTech trends that will change the BFSI industry in 2022"
     excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"

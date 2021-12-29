@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing"
-excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision"
+excerpt: "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,"
 publishedDateTime: 2021-12-16T23:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24662164/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing"
-ampWebUrl: "https://www.benzinga.com/amp/content/24662164"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24662164"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Zensar Technologies: Accelerating Business Services with Artificial Intelligence Strategies"
-    excerpt: "This article features some of the top AI strategies of Zensar Technologies with AI models and effective partnerships across the world. AI in Zensar Technologies is thriving to adopt digital transformation efficiently with artificial intelligence."
-    publishedDateTime: 2021-12-17T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/zensar-technologies-accelerating-business-services-with-artificial-intelligence-strategies/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 29
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Zensar-Technologies-Accelerating-Business-Services-with-Artificial-Intelligence-Strategies.jpg"
-        width: 900
-        height: 500
-        isCached: true
-
-secured: "SHzZaGwafi2r2fnjOJmqN9hKPpUYB6jhRNTDHqb6njEpM8YjLsTqrwPRC+gQiTXKgsqQCErV9DBoApEpBbo6eqVI1wMg6Lnh6DC36UoEmhFkCmWeKp9ZwqEYnjx7dKQ8c0Y3jfA4uUN0/PJoWEkRhLFx8Hw9Iq9bgC53D7c7Ohs2S4o76/vQeWGwYfd9G1QnTqD3mDlYrJISa4RTDMwtVUYbQr5zJM8/1fEi/y55kB0/I5mAjiPg4iPsRLdJ2w2abvZkEcXPt9/6rJ/7kZS40zJGxZOLvLauIWswHLenODsPs0wKl1hFpfUAZYZC0ecaZwO4smIi9yNq+53OcABB3D7SudI2H8Vu4O37cF6WiQo=;nqsHFqoS6mpknDTK+uzdcQ=="
+secured: "8Ldf2rz/cfb6BEwD797I8qDp/L2lpwryfzVnrZyq5xmFJOy7PNVjqxi5IjWOxJCbyxtbbpKM+r6CZcBPfGUSbkQN7eSakN7nugG1VuFTAlKFAE9TiWMyGf4boIaN0SPlvStPlZr8hvblt4hseduej9Gu9ME/5vciBT+5G2KAdt/ZPfsfWrH97H08Bj2reHlasxc46+g7w40X5EBCHdOfpfqNglYnhaYPZ4nhDEOjgSohWr6qjASBTgOwvOZ9+0YT274NbEVSSbl9/DUdL3pL+c8Qy5Np9jD6jot9ZUPpJRPnscJ9xYmnmJCUhTHANXUN/hHzvufRZ58zS4HVsHUnG+kkbmbNsId8ilA5CFIMkcGxqfKUkOc/l+kojMEz99bl1CzI2n78OKe4nzu65SPUJZu5yydo3iAGqPC9xCM/HHnxBBsMWzsJkzszxWj14XI1Q5bJPV0cTF4gvqBp6ulz1RdVzx/GLDPNUb3T/nLtiDAMZgSXW+cspK87yTqJb2T+F8JactGie+QxUZihQrKgjQ==;wvdwqQJXhz4CgFCmQQp9dQ=="
 ---
 

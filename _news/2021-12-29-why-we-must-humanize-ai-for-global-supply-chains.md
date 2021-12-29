@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analytics and AI in 2022: Innovation in the era of COVID"
+    excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
+    publishedDateTime: 2021-12-28T14:03:00Z
+    webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z

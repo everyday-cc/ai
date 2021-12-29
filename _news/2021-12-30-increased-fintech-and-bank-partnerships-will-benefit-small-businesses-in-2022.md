@@ -1,46 +1,36 @@
 ---
 category: news
-title: "FinTech trends that will change the BFSI industry in 2022"
-excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
-publishedDateTime: 2021-12-28T10:09:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
-webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
+excerpt: "The need for the banking industry to keep up with technology was never more apparent than during the Paycheck Protection Program (PPP), which the SBA and the Treasury Department established to provide a lifeline to small businesses that were struggling because of the COVID pandemic."
+publishedDateTime: 2021-12-29T19:08:00Z
+originalUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/"
+webUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/"
+ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 86
+heat: 146
+published: true
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-    width: 300
-    height: 300
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
-    excerpt: "The need for the banking industry to keep up with technology was never more apparent than during the Paycheck Protection Program (PPP), which the SBA and the Treasury Department established to provide a lifeline to small businesses that were struggling because of the COVID pandemic."
-    publishedDateTime: 2021-12-29T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas"
     publishedDateTime: 2021-12-27T13:31:00Z
@@ -103,6 +93,20 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "FinTech trends that will change the BFSI industry in 2022"
+    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
+    publishedDateTime: 2021-12-28T10:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
     publishedDateTime: 2021-12-28T00:49:00Z
@@ -113,6 +117,6 @@ related:
       domain: webindia123.com
     quality: 18
 
-secured: "DZEg1dRQsOYVttjhY9Hjrj5sGyo5NU32xEeK4IqEyAB/aiY2FPaIMWQMY1KC3VHsW6JpDYJ7t7kHeiwtfCCi3OlKRgOa2zki8UvjCn3a9505vTW8xIW6xR0rhYOgwnJFeLijZVgXvVEX098YZ0aAeUhG+mYF8C3yjA675HkfIBbDybEVjteo9seyNk38YPowo9oj8JGrUAjjvYZbN80tN51l+02i4wJO7HOzndKPm2BfCWmWfUK2XNstCqAG6WI21EqXlJJOQOBI8r01KQbl9NmOiLrqMErXOl+Ym66hRz1LPnY0CdVDr/JMtDJazzABUYzuDnQDPcP1CcM82XrklAFzlE/Z5+sz7hR2ZBtwYsxoojz7geLH5h00nFwDEBVwEoWwCaG4Tv+z4tr1qlfycssUsiK6XAMhJ5a23aiAVfq3A5hDKiVYmMaVOh0r+zWIQ06YuGav5oK9nWFUVM/HaM+BfSKj8mCCW4BTtPu5yyCU/CJN7mW6Bh4VWGHDgPD4xhjF2dDhvvGCW1pO4BF0AA==;T0xrrlJzFUPvGIMKueMVxA=="
+secured: "qQQ9BxPyRRKodDM4zT41G3pXOLcShQ5gIMl6pyxdZSP+LiyCNSVO2jKJbceXWaEi5CV20rYRGTpYYgBvVj6AMG7IeopJfWv4OKoZmrkQZWMgATqlj92RRxZOO58dWvd7ETWP8Jn0h4TAZKI0TMq0p6bA2BNXlOlEyjk4vPSKVT20DSDTmxeswfJylY/AXVJkD7nYkBLt1SrrqM8DLhZBcsfsetpWpueIZQzKhUiJ3uI/d5JArMsMvKS4GXhmI8OBLhj/kSL6LrVJZpQQvjzzLBNfOk5XojJhevpcI1TbtDwActPPr4W4S8Td1ErPrDGNcZEWny9ptDdfe8PXicmbSFU9vZmCxtLd7OEhpsKnBrg=;4huA9mn4wo2WM67UnO3jZw=="
 ---
 
