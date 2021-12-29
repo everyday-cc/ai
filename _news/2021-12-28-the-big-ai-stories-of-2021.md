@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 792
         isCached: true
+  - title: "The 10 Coolest AI Chips Of 2021"
+    excerpt: "CRN picks the 10 coolest AI chips of 2021, which includes processors from Nvidia, Intel and AMD as well as cloud service providers and chip startups."
+    publishedDateTime: 2021-12-29T15:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chips-of-2021"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026b-12bcf2a2beec-8edcdf54ecda-1000/ai-400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "sYZ9RJV33zvqRQrsne/zsDurF0kRfh8REn4jja/Itq77k8QYguTNoTIn4j+upCJXXVG4KH6aBrbATPz30ONPWnM+sW2LuI78GuCeTDEDSU77qptXHDHLBV4JgQFvLED6y+NXqoIxwK+g2Z1RA/4NZ1cGXV/d+dl9S8RDuGRejeZ5e0GXDWu97tnMZDiASL/OeNbMm6W0JQrwamOZUfvq6Y79kRIE079s6N0zpxumP+wKeTSLa+csow31uARY27L/20V4WAgavwY+pRoyDR7/0Ken5bRddGMNWVpeAHn38gKY91mc0FFi/e+dh9UpjpumgfAiKUHX0qJK+Z5mVPiy8ZPfnLn1muOqNksLOSYOt40KGbx3ML5cfiv08aD7nYx3DA8KexTFKuLLrHTxespZO1l5Q+TqyniUVrjmot9DFdzMiQiLUNw48PEj2GbX+NOV+FK+perpvz28ojKEzYOothN/CPeK49kXt72IYrLFREV2C7i5YZYpPMpmsLklSFl/soVwfzq/vAo4Taj+z+a7Og==;xJxrojRaPac8kn99MM8qHg=="
 ---

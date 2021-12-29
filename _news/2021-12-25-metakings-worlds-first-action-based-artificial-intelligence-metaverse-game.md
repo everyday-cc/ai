@@ -96,7 +96,7 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 32
+    quality: 36
     images:
       - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
         width: 2570

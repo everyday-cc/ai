@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 122
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.wsj.net/im-456328/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The 10 Coolest AI Chips Of 2021"
+    excerpt: "CRN picks the 10 coolest AI chips of 2021, which includes processors from Nvidia, Intel and AMD as well as cloud service providers and chip startups."
+    publishedDateTime: 2021-12-29T15:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chips-of-2021"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026b-12bcf2a2beec-8edcdf54ecda-1000/ai-400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "21RbHIzdIHNkajYBTkLqwE09odR4QpfQXHhF62isjrv/ux5WiIRQkPCviBTthdCe3BZQ9QJ+r8dpCvTk9k/r9kmUPn+HrE5qsBkAEAq4auW734AZxEXg8F3ukyEzJ5O4pPzygzPrKIRn7zzFXDoFMeRIEPAa2cvuavLkusHk+KSIdVDUESn5RqDLca534qoW6bYo1YZB8K3LNnMpPkGvZCjJ2407t3rAGQWjdw0EHsGcrciVm0JRADlnPhKtn8N1PE6+Goc8d1GXB5zD+ZVE99ienwWjGsyKa1eE/g08rskCNB4Gh7vZ2HRBb/tKIPxjPM505CY6RWYI2L5JGfsqcEJPf8gpXWGAIDqguIQShbJjbudg2GjxG205ZZT41zIw8HttRIx97z4AAx/0gtmSBiTontvTvYpi1kZ8Vrq9FTCDVBhLFnJWmSCJlbQNTG3i4i103vTg/5n8INDumwqiP/DcSzXKJe+KQDsKs/Cj5gZ6639+ggHFtvioZ2YuFzdFVzc5TL7PCSkH1zh0HXKgWg==;rDkomK0ql1NUIyOXGiqd8g=="

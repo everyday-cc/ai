@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-29T14:10:00Z
 originalUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
 webUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
 type: article
-quality: 32
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - AI in Healthcare
 
 images:
   - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
@@ -99,6 +101,6 @@ related:
         height: 400
         isCached: true
 
-secured: "raUEPvMbipcgbOwzjddoM0eU5I6KX5Oel2oQ4y8DW3YgIQTz4lfvPGAQB0s5DkTG64BpNitxHRuf4B8YWoGDG/uCLFfEDLNJ4bYZZgEx/RgBkJxz0uzK5yDqUK0bIO1wBFz6HzucR/4kPu1Ha9+uksUQgNbS5PTWrw9KlKSZXan93JLBUCKlCCGfAVdR0KMJkXFCQ+0A8d5k0/ZfWKSQotL5/Cc/DUQvvQseGRglmeYXBF0mMHn+2UimZDQheYTmiY7LHWmHI5Sidjy6AS5r0NEtaAnR2RgQcacXp593kJaXABCSxnbHH6JxBnvkwCm0ZbvWmHZ86ngUMwveAnW8hlCRPsFNjGa5BLgNjfJE7Ow=;1p333oTaFcPW/b4X5mikPg=="
+secured: "io6ZkXxw887c6Dd52nafV2lszjf/VaT2ZceLqV8FCMV/+LqYRG2ZaSgPsk/AG2qtYm1AdJWmMen2qh6ovS8+7SZe90F3CyHOq97ze8OqhOOEIUQEaL/DaW7dl46lQ1DSZM7dv32xbWUvq87OzV+EFNrQgCDdQ6Xq1bFO2WRGRiTTDYJJxR4JM6RuE6k1wzlztKRgMnz179gAI+d013hXtyu0MjtmdDqBYwbLsWIa0RT4rHImkalxvr6ZaXiDeltUk3caWZ04RhF5xQCJJn5xiwQOUE3PBDAGpxDC0EHqWzFbZr1KSHKw1lZfplLNg1JYiBZNFi4zBFefDeIprkKUWjPBi0zE3wbRgdwH6e86Q0ZE8iHhdczSwon3CLYNrlGZdCuY4rBrgx3bln+7saZGUpRBBEuPJRJT1Sc37K7EUOq8nR0CiYXdE5x3JlZFXmZSZW/Y4ydGjDXtvf/ZeEgLLY8ZJN3AP5cv2iH2EBrKJiBlEfq6j8u1l45Yr+gUE0lGpZIKklN+erXUsCmNmhHPFA==;Wh8DNn0oKBcv8FnlVRsRlQ=="
 ---
 

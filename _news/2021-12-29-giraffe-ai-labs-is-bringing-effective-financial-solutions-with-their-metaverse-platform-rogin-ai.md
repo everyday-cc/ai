@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Introducing the Trivergence: Transformation driven by blockchain, AI and the IoT"
+    excerpt: "New business models enabled by this Trivergence — artificial intelligence, blockchain and Internet of Things — are beginning to disrupt many industries and provide platforms for innovation in the economy for decades ahead."
+    publishedDateTime: 2021-12-29T14:10:00Z
+    webUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 36
+    images:
+      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
+        width: 2570
+        height: 1446
+        isCached: true
   - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
     excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
     publishedDateTime: 2021-12-25T13:17:00Z
@@ -88,20 +102,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF9vHcEl3do0A/article-cover_image-shrink_600_2000/0/1640354403686?e=1645660800&v=beta&t=Xg8SLsMsVd6xtphhTtFLosWGA6DRu5_wH1RiAYIobiM"
         width: 826
         height: 400
-        isCached: true
-  - title: "Introducing the Trivergence: Transformation driven by blockchain, AI and the IoT"
-    excerpt: "New business models enabled by this Trivergence — artificial intelligence, blockchain and Internet of Things — are beginning to disrupt many industries and provide platforms for innovation in the economy for decades ahead."
-    publishedDateTime: 2021-12-29T14:10:00Z
-    webUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
-    images:
-      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
-        width: 2570
-        height: 1446
         isCached: true
 
 secured: "2plOBYcqxrihfs97/Ofh63WTA9qjzNGNKeLuZDHYqbef0LPLWUbFGalEsRVab/Fb7NxSwNHLcyHYClaALlj7Fs29lOweXwqx8rh0gai23ocBRUkwyFdgf22L9a+mmAlXURmpu7nnn90NK946GEH1GA1mXMzzYDtBt1g4I8Ek4mNhqJ4Ebdj6Buj9wMfHo+Q4tq8pTOtXPhPED9O3WBtdC0gtaHeC0Kfrfy2tUo5NcHtpaOWuvXCIuNTYl95Ql7zqgboc6G2pMXhe/a2tGNUVdFGTQbzibtn9QAjKb9T8bLmy6pT/m9iUvU0xWjKpPteXNo2aWv7uBKJ8UEZ4t5NwHHEB72/r9RHTFC5CDEoxPz0=;3lwFI4CJInJQCWsIGClEHQ=="

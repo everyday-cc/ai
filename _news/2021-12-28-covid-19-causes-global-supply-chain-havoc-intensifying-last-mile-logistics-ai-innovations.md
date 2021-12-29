@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why we must humanize AI for global supply chains"
+    excerpt: "The rapid adoption of AI/ML is driving us towards a new world where computer models are increasingly shifting from “informing humans” to “taking decisions for humans”."
+    publishedDateTime: 2021-12-29T14:25:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/why-we-must-humanize-ai-for-global-supply-chains/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg"
+        width: 1366
+        height: 911
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z

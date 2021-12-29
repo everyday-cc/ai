@@ -42,22 +42,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military Co.."
-    publishedDateTime: 2021-12-29T10:51:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88566933,imgsize-71458,width-1200,height-628,overlay-etcio/indian-army-sets-up-quantum-artificial-intelligence-lab.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Open Hybrid Cloud, AI winning mantras for Indian firms in 2022"
     excerpt: "Our recent Institute for Business Value study highlighted that nearly 6 out of 10 Indian CEOs expect cloud computing to deliver results in the next 2-3 years, and 45 per cent of CEOs in India expect AI/machine learning to deliver results in the next 2-3 years."
     publishedDateTime: 2021-12-25T11:26:00Z

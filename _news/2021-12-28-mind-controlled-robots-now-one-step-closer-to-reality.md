@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robo
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/28/mind-controlled-robots-now-one-step-closer-to-reality.amp.html"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

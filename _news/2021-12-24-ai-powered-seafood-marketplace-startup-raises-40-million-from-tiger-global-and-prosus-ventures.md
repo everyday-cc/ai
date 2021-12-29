@@ -11,7 +11,7 @@ provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +24,6 @@ images:
     height: 1200
     isCached: true
 
-secured: "fZjMXWjQy6sRp/DYhp/kxR5QFS8A2y1ZfxC5/kUX8oaxLBcNhKuAcjIqWab0jfyhAC46S3qURI6DnKAtfHUS4jRv4Wm16nXgA70w3to0m6M3UMjb7wMMz/wkkRKXDYNQ4us2/UtHAvouadWAqNy1aQVED8TRrnqX6Jw0tKpiSKmfPtd4W/MNZHrNckWQYdrwFDNFmXCKeOIFTfI+YC87mMnG82n304Oi/MWlAYYQh9IfVbn+khpyLadyvhNtAzCGNxjQDmAKkpBuAg0PSHiVibTV+5/YnZccApxQx7bXVzCECdw/hBjZ0oBXq+CRs7+29rKIN4JYosmlDK6hX1R70lkA5Wf/vAP4dpqchlYCc7M=;JEk+z8ePK0+P5QF2XwYQwA=="
+secured: "hzM/V5YcFZXRUTGLBwuJjRK7qyt4iyGGRmaFgsf2AYikzJ3KjHHM5tPV9KM/WXEh8arKNiDik5kfpIM3BsJenkeQR8Ia7AymJ1GV2uC+oTr4a47PV+MH2ks5n8FaQXZ3iSHMdqd52jAXOZaoQSVsi32tG+h9oRanmkD4R4EOHxWxUI6ZMA51qGuaYQfklORoWV1NIZHi8C+f6kH7YigZpltYVh9XssLT6VSWrD4IWsF7FORFPn/aqXPX6QfWmjmCGEGnaa6kTJ5oz+8FBfad4CgTPbn6d46WyKvCSkPxp420N4iM9gxcxm3i7X7eWqpR7pbFJuF8Pt7HArwTbqfMwdTGRILXP8c+vOY0ubHdKU+FlUgTd9kju/HYnxWny/tuKB4nTiyOqRFcqezDMn8K9LC6emFCXYYsazIaXex6ZeUfa05Q1Pr9D7rvuFeHWefMoVB7/H9WKqCkVjGE+NTpUhQ5ctLIx+7zW63uJk9KGF5B9D5zisfyN6oTRH4OUKq9PmK+t07l+z4w8MM6w2b1xp9KRzSPq3Y7b/nWTDDfwPQ=;tefLW4sYWchGof6Y8qS+Kg=="
 ---
 

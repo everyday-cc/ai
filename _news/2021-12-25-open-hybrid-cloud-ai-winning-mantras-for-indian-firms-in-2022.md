@@ -56,22 +56,6 @@ related:
         width: 1373
         height: 900
         isCached: true
-  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military Co.."
-    publishedDateTime: 2021-12-29T10:51:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/government-policy/indian-army-sets-up-quantum-artificial-intelligence-lab/88566933"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88566933,imgsize-71458,width-1200,height-628,overlay-etcio/indian-army-sets-up-quantum-artificial-intelligence-lab.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "pbOKYKleD20yi4ff8RAFUpKwWHArc1X69vzGqAClGky2DMskTXqkg/Fjt3i8+C7M3eAfgnQxR9ePq0r44sEmNW1tp19dYRiRgVlKlsY4QsChxHXCK9Fmg9hGcRkQlAZADZsI4/t2ofc8h0lRGseh8b0uGvLWNukXZ0pPkwkF1rJdvxXH/niLrY9yNfM9Ms9UuC1x/2F4aNsHDOYlEOriR1VesUjcXgk3WIAPHF+CtCGNw/bC8s0mO0H4tu0zZG1bZwH5lHqHNPObeObPl7AVDzmXANIHYYsXpasTmYEfaSmeegPwNvoGN8IlUifqou5PJ0bz0azerqtpGQ9THqJ3xZweZx+qkDq/iP3Qb4rRS1Y=;rBRzeVS1pjJU1F1425lq6w=="
 ---

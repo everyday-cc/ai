@@ -27,7 +27,7 @@ related:
   - title: "AI Based Converged NoSql Pioneer BangDB Raises Bridge Funding Round from Ten Innovate"
     excerpt: "BangDB, a pioneer in AI based Converged NoSQL database technology today announced that it has closed a bridge funding round led by Ten"
     publishedDateTime: 2021-12-29T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-converged-nosql-pioneer-bangdb-raises-bridge-funding-round-from-ten-innovate/article_2cc7a9c6-8962-576d-8758-0639c8c5266f.html"
     type: article
     provider:
       name: WFMZ-TV
