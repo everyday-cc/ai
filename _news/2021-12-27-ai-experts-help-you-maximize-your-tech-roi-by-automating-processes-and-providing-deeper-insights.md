@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-27T14:45:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-experts-help-you-maximize-your-tech-roi-automating-amit-agrawal"
 webUrl: "https://www.linkedin.com/pulse/ai-experts-help-you-maximize-your-tech-roi-automating-amit-agrawal"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AWS AI
 
 related:
   - title: "Using AI To Optimize Voice Search To Improve Your Website Content"

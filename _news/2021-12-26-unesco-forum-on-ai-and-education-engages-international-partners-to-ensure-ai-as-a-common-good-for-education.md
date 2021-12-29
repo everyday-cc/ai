@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-enga
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 534
     height: 462
     isCached: true
+
+related:
+  - title: "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability"
+    excerpt: "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),"
+    publishedDateTime: 2021-12-29T06:31:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12670"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12670"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg"
+        width: 350
+        height: 215
+        isCached: true
 
 secured: "/dyYf2gIeLqWzjkaSo8ZSQiqDinPeDOK7ON7X7Q+xmCrUX3BMcVFMbMgGx2m8v9Hi645q18c/F5QBNdsUpqjijGWEEGg20ySZ3ZWow4mxwhiYbu1QYIui/jBNHrC8eIcOTBzgGr165FCFZEQXb878IQ4JmGbxXzIgqgOt30pIsK/CuMX4h9AJ7aYIiZf3WcXgaJyX+fr48bl2eix15LUkkNLvFpZ4Y6jna6tIBecBD3r/KKkbGJuZtjaw0hymOt5DW5Q74LfNfqArvcSqa9QnybWmLOIelGJXxuVqC+jGGfeieAwLOwYPSQ0XiIQVLAjPvPXPnCPBOpSzjUFP7wMs96cTK5Moqs4eQderffaARM=;rlYDh+OTPNwJ1aKEHkuyWw=="
 ---

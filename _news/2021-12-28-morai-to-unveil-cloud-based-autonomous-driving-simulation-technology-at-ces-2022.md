@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "MORAI to Unveil Cloud-Based Autonomous Driving Simulation Technology at CES 2022"
+    excerpt: "Unveiling of MORAI SIM Cloud, a new SaaS model to increase efficiency through test automation feature MORAI to strengthen global partnerships and technology exchange between industry partners LAS VEGAS,"
+    publishedDateTime: 2021-12-29T05:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=593217"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 34
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
 secured: "ATKonZLTBlLweOBM+UgLRJV8ssnWn1naluEbg3egEyMB4sg2awRHhVaIvEUhDcG6THLUGYXm2zkyRda2folPrwLVtRFYjuHgIatK7FqABFHNtldJwFEyVCBDc+l3d0xeaR+CfTIkp/Od0jhuMOCgp7Q7Sf6TNw3qmsiJ6plzX3aDfRxDjqa+iHbls7Vcio9Zwx+9tFWAR+/gDY63BAEEucMgYw3Wo9YLSBPzOHBdtZ7C3Y1SRMfF27WQ1C0kM1a6Tw71jNH0PVtoIesEq6OiuaWUCyX60lsX/9XRYuG+vROmjEqeaVcnNwrqSSK9saOngsksyfDNz5bHb2WPfvzHRJoDOL6GZuC60qOIM+A7bJI=;tROXueWumDhOGaGmP8BOJQ=="
 ---
 

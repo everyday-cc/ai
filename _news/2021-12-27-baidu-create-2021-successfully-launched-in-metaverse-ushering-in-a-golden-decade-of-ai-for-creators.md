@@ -1,31 +1,32 @@
 ---
 category: news
 title: "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators"
-excerpt: "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\"."
-publishedDateTime: 2021-12-27T14:00:00Z
-originalUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators"
-webUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators"
-ampWebUrl: "https://www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-create-2021-successfully-launched-metaverse-ushering-golden-decade-ai-creators?amp"
+excerpt: "(NASDAQ: BIDU and HKEX: 9888) successfully opened Baidu Create 2021 today, the first day of a three-day annual flagship developers' conference on its metaverse app XiRang. The event was also China's first-ever metaverse technology symposium."
+publishedDateTime: 2021-12-27T13:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
 type: article
-quality: 44
-heat: 44
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg"
+    width: 400
+    height: 278
     isCached: true
 
-secured: "mfPjZHWsHRzeepm592RfQmL8dIBChXLY8+UWH6WnRKUAfppD4O0XspD1SBbU2xwES+r1YEya8/liOkAyDI9pg3yaPayfgXT3gjSJzb3eEZIGmW1uCNWy0+Dwihcw9J6h1HqGBXcgvnbONVSgLIM+4vELbMunGyLImuZgx6ilMXip2d+MU1TND4jDtw6onbIpY0uaLU6nFYZLuxjeFBWgI1uWw3rBuQ2I5Ysp2xSB1Y70HJf/7V8RGyk+7k+5Fdm5lWofeMVs97kIHHGW58nukxKyuQU2GQ/ILdTPe+AyHRzFbUnmmHwp837VzKk9lo3JhH4cUBFMp+U7ASSXvAtrRskfQNmJASho4SbobxHT9ys=;W7mk2aacc9c0v2O+Np1+wQ=="
+secured: "qBWS2ivD621hFCPidjA2ubtLXPZ3XxbdVow1lcAOsGkdnNBZ7VWwliNftS8dJdf1ItHMIHYPwpIQBZqZrlDAWatL09fV6Vz/SpBjSGKda3hROzE0OpLb8fPXqSrujJqoYStaNKpsQCZN63U7T3VTMfvl7OdXt4+uePSZ/LdnTIJZWYaXbRt/B+BkGpD6ZGKZrgnZCu6GXw8Dv7nzO7MpjiBrEx79bdpkgfmBTMMep/auGd5t6JmzgorBAvliai5h9zG7z3v3VNKN0uF5sS/FBoNrWO3fF2NUAe+aivIAtdIZ5ELfRMaaRx2HbWSvYC8RYatBxaABaPXH5djGviOriHNg1BOEsOefxwZ2Ig5ymW0=;bi9s0HyVxl5ppvqI4DMA3A=="
 ---
 

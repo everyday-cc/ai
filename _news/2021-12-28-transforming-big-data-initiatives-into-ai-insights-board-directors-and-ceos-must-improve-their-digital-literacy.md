@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global and Japan AI in Hardware Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan AI in Hardware Market Insights, Forecast to 2027 report by QYResearch Group. AI in Hardware market is segmented by region (country),"
+    publishedDateTime: 2021-12-29T06:43:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5228559-global-and-japan-ai-in-hardware-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
 
 secured: "9Vz2nAn+QK6RCquoqno02EM2zZ2zt9XmIL5+15h575vKVmAI3U6qk2X7R8yaRlEtZy9RQxGcnsuzORlllKpii2KW5uG8dRldx+h+7hU3n95M+fVt/Iut36CuZTgEN1VcpxZezQc0ZME2T3VT9CczD/HEqJUv8X/Tu9IaLy6fdtR++otQcUThM1QQ7swTREroOPLS8dy4C3v4ZJQvCEpgFlT0qdpfTOAryP92ELffeNlrD76k5nwBVTQWHxTX8Uu4z08MWYUUIpDXCqI20cV/FIGFj9h5vhWTzqnienzpZ/skpT7yOwPtMitHkXOZxujpUQB8pLa/UfgxexMgS4UCnECQBHo1DEmWgB7SdqbZR+niPJmOkfv1p1fzIE5r8W0TMpBK6cQtxXK4eLNOR67SHzwLiCtNBAU3IZOf20qWoQgiY416GR1Cp7eG3k2VlGQcMHYq8M855ZvZL9LaRCTmd1mMJ/hOuJU2AiJpN3lTt4acQoy9pWO19oW4yTc9R4PohdaSVwn3KHfawbaGEw2oTg==;BR3KXUSoGtxB0MzpeqRvPg=="
 ---

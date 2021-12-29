@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-
 webUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Global Artificial Intelligence (AI) in the Freight Transportation Scope"
+    publishedDateTime: 2021-12-29T06:45:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5228521-global-and-china-artificial-intelligence-ai-in-the-freight-transportation-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
   - title: "Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Conversational AI for Retail and E-commerce market"
     publishedDateTime: 2021-12-28T08:33:00Z

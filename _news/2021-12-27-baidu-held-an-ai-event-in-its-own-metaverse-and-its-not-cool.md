@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 659
         isCached: true
+  - title: "Giraffe AI Labs Is Bringing Effective Financial Solutions With Their Metaverse Platform, ROGin AI"
+    excerpt: "Giraffe AI Labs is a company that has been designed for the users to find validated and tested strategies running effectively on a platform they provide, titled ROGin AI. ROGin AI is a blockchained social trading platform in Metaverse."
+    publishedDateTime: 2021-12-28T16:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/giraffe-ai-labs-is-bringing-effective-financial-solutions-with-their-metaverse-platform-rogin-ai-2021-12-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tencent Is Exploring Big Data, AI, Blockchain to Offer Green Computing Solutions"
     excerpt: "Tencent, whose subsidiaries globally market Internet-related services and products, including in entertainment, Fintech, artificial intelligence ... exploring Big Data, AI and blockchain to provide green computing solutions, and establishing a Carbon ..."
     publishedDateTime: 2021-12-26T13:58:00Z

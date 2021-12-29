@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-28-airtel-tcs-successfully-test-neural-manufacturing-on-5g-network.md",
-      "title": "Airtel, TCS successfully test neural manufacturing on 5G network",
-      "excerpt": "These solutions help manufacturers build smart, cognitive factories which mimic resilient and adaptive behaviours",
+      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
+      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
+      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece",
+      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindubusinessline.com/companies/ji9xdx/article38053925.ece/ALTERNATES/LANDSCAPE_615/airtel2021-08-30T111652Z483559939RC2NFP9O1PCURTRMADP3BHARTI-AIRTEL-INDIA-F",
-          "width": 615,
-          "height": 384,
+          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
+          "width": 600,
+          "height": 449,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/",
-      "publishedDateTime": "2021-12-28T04:19:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T21:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
+        "name": "developingtelecoms.com",
+        "domain": "developingtelecoms.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

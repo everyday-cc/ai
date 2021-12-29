@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: New York Post
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla agrees to stop letting drivers play video games while driving"
-    excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
-    publishedDateTime: 2021-12-24T14:58:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
-        width: 2880
-        height: 1800
-        isCached: true
   - title: "Tesla Ends Motorists Playing Video Games While Driving"
     excerpt: "Facing a backlash from regulators and safety advocates, Tesla has deactivated a feature that has allowed its vehicle owners to play videogames while driving. But drivers will now get a new feature to play with: Megaphone."
     publishedDateTime: 2021-12-24T18:08:00Z

@@ -32,7 +32,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 6
+    quality: 8
 
 secured: "LD7v1l5NhB37Vnat8Z6LadFlecR6eYu4NMtDzIpaDJLZHSgttW5k6MYbYIFSHP3mpEG9Bxwc8YFohs9yA4dtlAwDReeqV/dDBNIjFNW2vaC8nxybb4NA7rzmi7mR6AJLlQd6bXbzex/fQ5FFSy/dX/LcjO1hDUpbmQJ6TVx4wwed0qmyC265INT2XnTxc/VFQN9w00uR75eK8RfdC/9i9T0FRVIswUeq4Mhz/+uCnIJVRkHdhkcORcCx7k7zG9wravPDLA/ge4lhhsxoNjEwV9OkJhtQJ4D/VtP8gilmbhg7uMROqi7XYb0rqCxWfmAzwk3YihFWrprpjrv081i86Yg27lYxtOZlAf7Oqrh8yOk=;HPlZtKmarzXei5O2Wl60Fw=="
 ---

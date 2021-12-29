@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla agrees to stop letting drivers play video games while driving"
-    excerpt: "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move."
-    publishedDateTime: 2021-12-24T14:58:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg"
-        width: 2880
-        height: 1800
-        isCached: true
   - title: "Video of Tesla-driving dog was staged"
     excerpt: "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,"
     publishedDateTime: 2021-12-27T18:23:00Z
@@ -72,6 +56,6 @@ related:
         height: 1055
         isCached: true
 
-secured: "gGLOReWsW/eaB72rPk6ARR9kPod7nwzoeHqHGMORZ976NAp4QDRBWG99daNDj0/OLDp3WoId0po48UJc6Hv6yw6A4KFoVAdMohFGkAz2F39CsbrglRbgb8RIgkl6RtADSzR5AlGgNuJAKJv00C1GSCu6ILYJh3J0/H3dpAwXR1x8o2pAFrslykdblDROD7g5SRQHvij5MrwknyNp6evlizPmj6A6gZzUebQDmH68oo/dAxqPfdmCHoSlCUB0fVvO2SExSQl7VTJNmda3vCy0fJrzNzn5MeCcLoa/iStK7mrvRYUTxbB5SgZ68LkNKMzLfDC6bIdnOANoVdfSCGT7GgCg1xKPRqO+FCX4Icjnx4s=;or7VyAlYehNYid4RVO16eg=="
+secured: "9XTRQRzAzIQ1O3565+mSWqbpNidl75CsFX2FWcCJPdHS1z5rX16YHZOAv0Cb5EnPLx2nubTrn/M4nn5ENSNneM+yCtqZL8udQncqqr4cleQJ7cgbSQu/UijwW+aIcqT6DZ6il6exCgk90bcyORRQflGqPF921KArxd4rEz5m++WUhBq6II8GCnpwu2OfXuhUj49z5SKxKi04zncU9gbTJU8DzeIT/L83PDsGCXC7MPhgWSD7U0hI8eS93BlSRcKKPkbhn2oAHVlUxsaZBUEaIblF/ChqqOFTl/gXRdKBtYBdi3CVeMyRT/BNTVWdKEl5Bbr5LvqS+6R8tVAZB9fAm97CvurwYbgccNeF5ataSl1PAR2FPXltFwyUpfFMwgsnCZNj/UqgzYdksMqWLVaf+AGkrNqaJigNKsOo+HniQDiPF31mafnVLVIL2mm+bDF/3+nvZZ4CnkiJKvnm3pWMtSFpY5lAobYh5XA6UIm2EIkraYLFqQe5CWEAC9h177VbjxPSCt8wEd4zvI5GxBP99Q==;SuZS6/BkJ0zn57NSVK620Q=="
 ---
 
