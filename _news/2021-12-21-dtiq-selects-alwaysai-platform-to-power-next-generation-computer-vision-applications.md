@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
-excerpt: "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer"
-publishedDateTime: 2021-12-20T18:49:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
+publishedDateTime: 2021-12-20T20:20:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "MIEq96f2nt+I8RHQS6JlYNHBUqCAfvn3yEnc20fslCwaZUZ0wk1Vy7iNW/TPQRKgxRnYkFhRne1JAT0Xm1cZtz7qdLXxLYHqgM6UFx6xKX7xyxMZA3+gWg5PBYxlKPpZYOr+ObqcbUMp2b2Q+ALKw8O/autzkgg645tMdJipiiAeX1hMlHYdYMWQHHe0Wd+g5JrHr8lu1en8fWD2drQJdPFEOCXziT8fr2+DCByYEY077xCoOXGag5X+pscBX6pqjwTlo2VcGHnBOJyVagZApy/rExdTRfwtNzewvGMg85KiUX/oS7D62mqaHQNnn9ZtYn4Ux/2NoeAYwIbPS2Nsnn3MlAB8dGeRiqb4/pFWoLEv1VN7W+JjpAfk2YNV4qOlkci7Fd1bJ6sTRNReMLpDflRTG+1ty3Oox3G+gL91KjbgNiI7rJsHfF0/haxq5OtEaEmCvbOCA8mk3Hhn7q/hwkRrvtfry0qmbMjiVLIYm9TL5v6gNMMWLrSRx0seX+MC6184XjIy73EGowAe13K6wA==;6ZhNY08qbG6qIrkLZczOKQ=="
+secured: "1vyyQ4PrsFa3+nBd9Q9FZdmAgx5cBjsm7YvxrPj2+ouf263swIacZO6eLoD84+Gn3pkm+XOwsDmQu3tI1/Oz36JjM6wqjZKD+dDeQy0BgGc7uGuiJMurAi1oym5pqQuPVjCE+BPbI5xu3bY/ZwL4KPqPXsH4564NATNdWlQk/L1W51F9CEPIAfgEKU9P6NSoButsVEHH0n9MMjxLIGXkeHhdmdF1iu4kajjZZ/js2QNNRkoejnqsUqytuklIZZTtuxXeJArBWtDezC94y0IiWUrLcQGTJSzYNXGOQAklXEQXBDa04ZBBXMG6aHzZcIU7GswC1Qg3rNPplCHV5Hd1lUgRKl3f+ben/2e1+s10WGQ=;bvQgznDuI7QCHPzqeJT0ZQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT"
 excerpt: "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office."
 publishedDateTime: 2021-12-20T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+originalUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
+webUrl: "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "tON96mnfRi/rYi1jCzqw61u8ZAzLKvPEK6lh2TZzmjeSoeenilsZvrJBpTHdXktt8K9fsuTQaXj7yoTIAncMwQbosble5P1x8g12kv8HxS7JY3LBeD29zn6CEEgyUxHXyl23FOqHUq2Vl0lL6iBX3VRs9u2O4xENNh2p52tu+HkLvaf041qa/+A8p1OycwfNX6nZdJtVVrZYSSZ+DdUgctJ5bhlEJeeYkaoAa9LdDJgLDEeqlIHWXhe2GqZyCzCTOO6eWOLxwbY15nyTnR7ybhi8mShH7zy0Md5dKzXhs7/3yLhoyQyy6o0ZnNboiEP9jayWBrxuJdIw97QkAgt6E2UaZ7TEzQwm8B9GduRLAEI=;c6bVI+ezsg6jsbp88maqMg=="
+secured: "3wu+JEzz1ks2VMcuBOy6zZckd8Llfc60TUkJRDT9CVs3XK+iALJm1xlKaV/U7v8189UCG9RCaYMYeJosq0X6BK5YZVA6xYPSNsvNWlOjJn4KEDCjH0s4ckE35Tbj86N6mEzpgC1f7U7xoFDAcB0Niuo/Cljw6WAJlJE8PHKzHokfcIepcP91ZyKSUsuG+n2y5MKqGVgNUy/IExv5jKXAmoXYSvaukq8jw96i4/EpEQtaqr6emdGL1jjIAdu4nSZwnFeo2pnXdvrVBapssWUkOKUL66pfhjoDVs/gn2PjISAz0YXMHVgheg0vOq7BakOGWFSVcOkuKpPTcyWBeCYBn3yNdjxKEbe7Cbn+wAr72ao=;ACuY8jTkdlrm+bl7V7Pxwg=="
 ---
 

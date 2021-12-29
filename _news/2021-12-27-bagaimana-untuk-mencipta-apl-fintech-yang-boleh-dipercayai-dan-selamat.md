@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Create a Reliable and Secure FinTech App?"
-    excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
-    publishedDateTime: 2021-12-27T10:22:00Z
-    webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 24
-    images:
-      - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
-        width: 1400
-        height: 788
-        isCached: true
   - title: "Nola sortu FinTech aplikazio fidagarri eta seguru bat?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
     publishedDateTime: 2021-12-27T09:22:00Z

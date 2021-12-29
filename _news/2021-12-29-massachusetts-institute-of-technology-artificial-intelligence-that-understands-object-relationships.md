@@ -59,22 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Medical Robotic Systems Market to Gain Impetus Owing to Increasing Adoption of Machine Learning and Robotic Technology"
-    excerpt: "The development in the worldwide medical robots market will be driven by a few significant driving variables, for example, different advantages presented by the robot-helped preparing just as automated helped a medical procedure in restoration treatments,"
-    publishedDateTime: 2021-12-24T20:16:00Z
-    webUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/"
-    ampWebUrl: "https://techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/medical-robotic-systems-market-to-gain-impetus-owing-to-increasing-adoption-of-machine-learning-and-robotic-technology/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/pexels-tara-winstead-8386440-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Massachusetts Institute of Technology: Characters for good, created by artificial intelligence"
     excerpt: "As it becomes easier to create hyper-realistic digital characters using artificial intelligence, much of the conversation around these tools has centered on misleading and potentially dangerous deepfake content."
     publishedDateTime: 2021-12-27T04:43:00Z
@@ -124,6 +108,6 @@ related:
         height: 400
         isCached: true
 
-secured: "4/dyZLA5e5EMLk5e0tSevQkm8mzmHaEk6MSZ5LucH9yVRVgOje7+5x2o6QyfVGtHHnxbTZfjWYDvArofcHn21SKCrjvH6om8hAXZq+7F1IsiY+TdqzljfWwqEHCLidu26UdC69Mm7MgGwIt4Z5IsQlKRHG8OJUVDGEgeOCMLy514ssr+F9SOpiSHu36RguzW0AWM+v9MblYoBnQFvQDhfquJBAYp3rvPk/2m/laMFd/c8fvPmdyuwiY2McNEz652d5YdL6BBb+wx3Ew34yJqe9srhsFUeD8LZNm+2sdY7UQmf/aU3SMRMqiLPqF4UR6sOyuheSy/SqY0bwrt3HzdZDfswru9RdhZC8M7aOO36GM=;nhGNyXS9O0sW8oVnZKWfvA=="
+secured: "mEPT94HQzQKVX2jwH31V2HSTdxpPlpNEzibgQQfcwiY9DY2l2OCPPpIBsqCeJ8hX5pgq/abNAmEu3XraIJUahrCWxU4n9ucgXBEulTk4T/E48xHLF1HTyb01hRZ248CNgo83vOuo9TIJkRzBuAG9+ttimOKwsUe1FhPOU8VcNF1mBHvQKX6BiNdP1Dd1EQAAVGxJVsbvDV6OJ2FWDWazkFaCF3dT8i/39g873nFdPKndhJsvDjlgzPc/c6e9hG55CR3dKH35oXxABq8KA28P/SkgpyuVWhaEvkne/2oAftM8VaSxONrfAwXZzxa+MnpPyIWl9fkEzjE4hMAr9zztEee4b1Ru/LPDo0IdGWI6K/1gDjm5/85SDc6rTHWfQsaiO3uSwIu+1s8QqlVKRUJcCGk6wclTjbfD6FoWO3ZA4WzQ2wz8l6KxVir9ft7tbkY4ueb7lAqBnZJZ+atWvuR8msxq4S4o1rvjgdGI59Qpcesfq+yJD5mHhwiXGjfNJEnosdBKD+6732F5YXEJu870wg==;0dzYcExuHwtZQ+1ps0UOmw=="
 ---
 
