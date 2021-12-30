@@ -24,7 +24,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
-  citations: 201250
+  citations: 201385
 
 topics:
   - AI
