@@ -3,12 +3,11 @@ category: news
 title: "Data hunters will be Big Pharma’s next prey"
 excerpt: "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner."
 publishedDateTime: 2021-12-20T10:33:00Z
-originalUrl: "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/"
-webUrl: "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/"
+originalUrl: "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW"
+webUrl: "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idDEKBN2IZ0YW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idDEKBN2IZ0YW"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Reuters
@@ -23,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/4_2o1OYU28UCWef805L8u61FYCA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSX22HO5WNJ4ZMOPMNCLSEDGHU.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20211220&t=2&i=1585312285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHBJ0F3"
+    width: 818
+    height: 545
     isCached: true
 
-secured: "5SUM++UiPmR2meMrWr/SALnwkwjCx8xzb2gHFL2vN84FWE0PyV4JoNTRWrx/vY8maql4T4mNwQVV4GwmvJ9sbxuZU9CM2bnFPkthpIbBlCYPRFcejSn+p9wtNk1gUe4Yv4RZ5+qoieRDf49ZrR8J3yCgCshfnAPh8zRtsxVOmvyu35q0yuo1qBd6NjWWjOyTKhtyEFlTKN9biBU8Sn7Ii3GKNG9en2lWgrOZ4sNsDjxDqzZfNfFetdpW9wml7jvbCvbgC6YFLjeURPX8irkRLjfs//e/mj4SyTWu+8rUFnPW/VeEfUlYo+HlanWSWI/EDe/16XQ9OwdE1pksQhtIUS5vY3B/X6jbjz61Bcl6e/kLwKqVloC8/pKtf2KmLdC307rXgawlvmMGx3aLoECn/XQZzQf2MNEIjioYtMZeiD1DLXEjBzpLh7uQ4AR3+idtx+/2YobRFc4dwVKlZz+GerfMrURmw8w2Tdx/oEPKcMiiiwd7t4Z4gu1YDgEWbdv6ymNvlrqzO0LaSvprHfxj/g==;sOnsG4R1UtOYahyoL0QgAg=="
+secured: "Qvr447wcTZ8uFHyqjlDuA2WJpGPKR54yb3Mbnd4hjxg0A7tZfJmDHcN/aBhWAGprJv+TmU3hInoqFYfQ0olvTz10gQfr1gxTDz35kpNYaOQjTa2IY6jos79Z2b1bbsibKntuok0iavJjlhjTxyFH10ZTHSZijiPc/oVJw/4a9UhdnHdc2hsrk8X2pcDXcGRMGHkkP/amvhJjLF80Njx71S/z0hOPT96EhRUJqN2X2DgmAx4DPJG1zm6h3CXty34BxhnScaWMy55YHjJxEsYpfQIQsuYItEgiLU1D7Wyd0JD/0broFa13zslC/ytg9s/GCZYn+znnyLeR6HzZkb6UWz7fPRQaYHUGiF1j/ftRNg4=;WhP+LyeITgYu6D02j6/bjQ=="
 ---
 

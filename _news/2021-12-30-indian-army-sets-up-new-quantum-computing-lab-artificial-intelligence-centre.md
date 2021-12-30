@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
-excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow. The two centres will carry out extensive research in developing transformative technologies for use by the armed forces."
-publishedDateTime: 2021-12-30T09:49:00Z
-originalUrl: "https://en.trend.az/world/other/3535133.html"
-webUrl: "https://en.trend.az/world/other/3535133.html"
+excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
+publishedDateTime: 2021-12-30T11:22:00Z
+originalUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
+webUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Trend News Agency
-  domain: trend.az
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.trend.az/2021/12/30/india_301221.jpg"
-    width: 1200
-    height: 900
+  - url: "https://menafn.com/updates/pr/2021-12/30/TNA_3764cimage_story.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -82,6 +82,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "28XMAGbRDMsPU9ESZAdetVEfTR/+u2lHo3tgAhfcBQDopGL6JsaYn3tWUrYTpXkBpagDXK14ZcYNjf8pEPOPJ6wFKtEQQCeu1lOCHnuyEAQamR6OvIE5ymfsM0GGReusOXOXcS/G+l44BXq3V33txX42iUXxDPRvXAY+M/NJEffCHFUdsbsbH4irgwByxtdqjtAl18LhFxush0ypfFkTbET3qlGNscFUa4/u1aYVw35W4XIy9Y4nUsg3Cf6XEWseXK9ibMntYgcQaCAKwjiO8tdgXk3dd9au+Pl12Ck6hkuCoLfkYuLAKXsmjlqm1OoEOJVqVxTqHCQq1z6xLwT6eejm+l58ScAWvPC26XqRZFM=;cFOyPuIckKyft6QxZUC1Iw=="
+secured: "rbaPl0s4qLQnWarKXQ0/K8u9E3EmoXFrOs2k7xJnQsZFO73E19mbdSYu53TmvbaQCQ7etfdiGy5ylCh4ZUo/busPZSPpGtuvvaZAWha8i6TKg9YxTRBTMGiLYZl+/ENA585B98NH58jXKH9iVs7i4Xcmbv4pD2paJ2q/jhifk5FYqR1xSb+Y5e6s6phZcKR1MAymU0kNCf2Ovn6EnvKVM2hNMJmBiPOAVHIWTpKxeLd173C8L0IDYEYgUhpI7gzudQrA3mI7rOtr92L82jNvUCEUy25VCZFnYwqL8ifAEW32w6JE/hsFBTtPqRJHHLzlOJaZ480WpG0+uL4eFmV0G2I9VGnkYRzMppwUWnxrljk=;f0939R9XlGQ/ScuHnJrrQg=="
 ---
 

@@ -67,18 +67,18 @@ related:
         height: 480
         isCached: true
   - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
-    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow. The two centres will carry out extensive research in developing transformative technologies for use by the armed forces."
-    publishedDateTime: 2021-12-30T09:49:00Z
-    webUrl: "https://en.trend.az/world/other/3535133.html"
+    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
+    publishedDateTime: 2021-12-30T11:22:00Z
+    webUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
     type: article
     provider:
-      name: Trend News Agency
-      domain: trend.az
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 34
     images:
-      - url: "https://cdn.trend.az/2021/12/30/india_301221.jpg"
-        width: 1200
-        height: 900
+      - url: "https://menafn.com/updates/pr/2021-12/30/TNA_3764cimage_story.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "W7FhoquYWoWREEzeJj0iZLCKbSETX8tyVHd+9Ana4auj1P4JS8wDWsh7gVO1GCskw/kLdwbdmyqIe3sqDvSTQO7ekt7+wep8W+Ah97uhC6asBEEDWESCev9Ny7OYUEobmLKrWfvg2UjRWap2UPF0R50sL4E480FMMW4WnNrsCxLXA+CPK6uUIZX1cV8h2n3Vv6iVAoapfSO0Vw3zR03I2FOho1Q6+tAmfwJdOqwWW1P7iJ6fZk2oHDsGiC0LgH2xUYn+CB90sPDQJPZKMzSC3yyhFo5WPEg3eCJb9EzQdU9zPakmBFlz4WtNDPR+baqdZ2LucHGxzT0XW6Br7ZgeWKDwfRCjzuX3VsCt/31XAHo=;+AdHxK2xoLOfSHMQ4N7k6g=="
