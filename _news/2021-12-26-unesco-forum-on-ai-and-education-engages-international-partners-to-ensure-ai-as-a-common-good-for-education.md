@@ -44,6 +44,24 @@ related:
         width: 350
         height: 215
         isCached: true
+  - title: "Cantaloupe Enhances Seed™ With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
+    excerpt: "Cantaloupe integrates Seed™ with artificial intelligence (AI) and machine learning (ML) through a partnership with HIVERY, a data-science company."
+    publishedDateTime: 2021-12-30T13:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211230005013/en/Cantaloupe-Enhances-Seed™-With-Artificial-Intelligence-AI-and-Machine-Learning-ML-Integrations-Through-Partnership-With-HIVERY"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
+  - title: "Cantaloupe Enhances Seed(TM) With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
+    excerpt: "Technology Offering Will Enhance Machine Merchandising Decisions for use with Seed Pro and Office, Helping Operators Drive Improved Vending Machine Performance. Cantaloupe, Inc. ("
+    publishedDateTime: 2021-12-30T13:22:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/30/cantaloupe-enhances-seed-tm-with-artificial-intelligence-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 33
 
 secured: "/dyYf2gIeLqWzjkaSo8ZSQiqDinPeDOK7ON7X7Q+xmCrUX3BMcVFMbMgGx2m8v9Hi645q18c/F5QBNdsUpqjijGWEEGg20ySZ3ZWow4mxwhiYbu1QYIui/jBNHrC8eIcOTBzgGr165FCFZEQXb878IQ4JmGbxXzIgqgOt30pIsK/CuMX4h9AJ7aYIiZf3WcXgaJyX+fr48bl2eix15LUkkNLvFpZ4Y6jna6tIBecBD3r/KKkbGJuZtjaw0hymOt5DW5Q74LfNfqArvcSqa9QnybWmLOIelGJXxuVqC+jGGfeieAwLOwYPSQ0XiIQVLAjPvPXPnCPBOpSzjUFP7wMs96cTK5Moqs4eQderffaARM=;rlYDh+OTPNwJ1aKEHkuyWw=="
 ---

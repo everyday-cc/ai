@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3"
-excerpt: "Rowe Price Associates Inc. Alphabet's Waymo participated in one external ... the ability of Artificial Intelligence Technology Solutions to provide for its obligations, to provide working capital ..."
-publishedDateTime: 2021-12-16T14:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3"
-ampWebUrl: "https://www.benzinga.com/amp/content/24643155"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155"
+excerpt: "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3. Detroit, Michigan, Dec. 16, 2021 (GLOBE NEWSWIRE) -- Artificial Intelligence Tech"
+publishedDateTime: 2021-12-16T15:24:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/16/9513011.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/16/9513011.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "mFFHiW7Yq8rp2z5bMFPPOEeP6GgqiJlGplcMLrNrcuGWA52y4PtcASCRXrbTLn+85sOeoRnRGgV13tsuJMZVQKyyPJ4LddwARMfPuo8bpUg/WDwC5vOCNoAgsb0fkQ+dNk+lav65fHPAvwAT6e1Q80kNboatQVHWaP/pI3GHtDgpgaYb4pW1qSscg2sEk+EaQ6dGOP+PV9CRKaZzN/59bYNZAOGFUY9OUF9gNrYpLo5aWS+Y9h9tYwj9ufoRXhyZPvYDqD22/5v8hO6+BPbLPqp5/bGTQVDxFc3XsnTlze2D5LZ2+LMcC8Z9+88RboWKFzL7F4S2FSmKs1iY+xvHWy0zufrVvAiFObfXhjkK0A8=;Oi04Pc55QMS1POKyCW5/HA=="
+secured: "kKmfHUHo7l9VQV9r+B338IPP8c9AvMnQ1GySqFmV9Cu4iE3yBgeJMnNmGXxibmRopcMOVAlqZ9i+d475KdALOzY8stRn+Elm4n7U311Vh+cJIsZa/0GEwPoCfIBFhJbVosf0JjchYeYzYDkznmj4OKPf5/udNeQOF/FbmQkmL7FXsUI+t4nKNL+2JM+jwuJlKAZGrjv/0E9AVi+sWm9FKVlyg6fqJDtFbexRUJgkHEDQpGr4YJWZGybh0vxLgOJl9VNCvUWvpQAiXiBKK43S9rMjORyGag7zRDGLgeXjo+VLpeyMA9z9o33J3ycouazhNCwR08PXeGlGixaVDWD/FJy0ROWiVzszZ1BA8wGn6zQ=;G/mzgRBUMVwVgoGJ1V0TNQ=="
 ---
 

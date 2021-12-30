@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 792
         isCached: true
+  - title: "Why Now Is The Time For An AI Bill Of Rights"
+    excerpt: "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road."
+    publishedDateTime: 2021-12-30T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6a0501f1d4f18790a855%2F0x0.jpg"
+        width: 1200
+        height: 771
+        isCached: true
   - title: "The 10 Coolest AI Chips Of 2021"
     excerpt: "CRN picks the 10 coolest AI chips of 2021, which includes processors from Nvidia, Intel and AMD as well as cloud service providers and chip startups."
     publishedDateTime: 2021-12-29T15:30:00Z

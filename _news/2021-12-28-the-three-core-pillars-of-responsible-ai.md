@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://images.techhive.com/images/article/2014/05/golden-gate-bridge-in-fog-san-francisco-california-78393039-100265264-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 792
+        isCached: true
+  - title: "Why Now Is The Time For An AI Bill Of Rights"
+    excerpt: "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road."
+    publishedDateTime: 2021-12-30T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6a0501f1d4f18790a855%2F0x0.jpg"
+        width: 1200
+        height: 771
         isCached: true
   - title: "The Big AI Stories of 2021"
     excerpt: "The year saw a record number of M&A deals and a regulatory effort by the European Union to curb the use of AI."

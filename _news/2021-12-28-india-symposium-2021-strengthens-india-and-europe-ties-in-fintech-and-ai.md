@@ -111,6 +111,34 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "5 FinTech trends to keep an eye on in 2022"
+    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services"
+    publishedDateTime: 2021-12-30T13:26:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-trends-to-keep-an-eye-on-in-2022/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/fintech-malaysia-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Tech Trends that will Change the Fintech Industry in 2022"
+    excerpt: "Prior to the epidemic, AI adoption in the banking industry was extremely sluggish. When the world came to a halt, financial institutions and their partners throughout the world were finally compelled to automate the rest of their banking services and make them more customer-centric."
+    publishedDateTime: 2021-12-29T18:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/tech-trends-change-fintech-industry-2022-moumita-chakraborty"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHWZ_SWI0NTxQ/article-cover_image-shrink_600_2000/0/1640801725372?e=1646265600&v=beta&t=QwL5qhdq_0TlHMlFCxexbm8LPqiev6YbPVG_5mvSNys"
+        width: 701
+        height: 438
+        isCached: true
 
 secured: "r7JMXg6O4o6JFiXort1/kq6DyoJuCjaGDDXo0CC7Ukq4wRfYhxRVx8x88wTQDeuJlbv4rn47i2vAqGV/xkcT1+zuPX1gukz1hnspdB+/EyeY90C9yHtJJT62U3IkwIKDvY/JAQsUyDQd9N8HIrtCYen8ebPvEXckNiBrn12xwxQW1oGRM0A032QAAq/SIWM4kWdnVgU9heMLPp770DQ41sHdok+7ZcoZXOo5kdNKKMMxMhPDYwwzfpfbremxVycgXWEh5yKVWIlWg1a68Waxrz0WkQwdYFwWtQ6mdExvarSbriUqwLm4AU6veSPcNja7kVvKaUFcGcbZgbDXq/RGvu1cyEZXldhvR3KpPiBw3Ss=;IPAVe5iv9w6CeT/CH/V1qQ=="
 ---

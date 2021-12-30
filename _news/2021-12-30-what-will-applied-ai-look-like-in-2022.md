@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in-2022/amp/"
 type: article
 quality: 89
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Will we still worry about the damn chip shortage in 2022?"
-    excerpt: "Phone, cars, gaming consoles, and PCs have been hit by the great chip shortage in the last year. What will happen in 2022?"
-    publishedDateTime: 2021-12-26T11:00:00Z
-    webUrl: "https://thenextweb.com/news/chip-shortage-problem-cars-iphone-playstation-analysis"
+  - title: "A look back at recent AI trends — and what 2022 might hold"
+    excerpt: "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more 2021 was an eventful year for AI. With the advent of new techniques,"
+    publishedDateTime: 2021-12-30T14:40:00Z
+    webUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/"
+    ampWebUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FChip-shortage.jpg&signature=3e2b4a3fe57a60819263ee55b14e519e"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial intelligence and other tech trends to follow in 2022"
+    excerpt: "The world has already seen tremendous adoption of AI over the last two years; 2022 may see more patents granted to this new form of AI. Also known as ‘AI inside,’ embedded AI is the application of machine and deep learning in software that is embedded at the core of the device – from architecture to operations or from cloud-level to device-level processing of AI tasks,"
+    publishedDateTime: 2021-12-28T05:59:00Z
+    webUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/"
+    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-and-other-tech-trends-to-follow-in-2022/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "+TBxgVE5nbSbb9ZMYmVNCnI1zm/iloBwYTq8xwPnL9jIniue4ARUN7u3Tgqw+C/hYUsqG9evph8ZwgReU/mhmPCPIMq3y+9ML2xJIpoixAB/5f/0/aVWS6ASWHswyFi2Pt2NnjtZokJB8bUr8/Dk0buwZKqGIliwgBXJ5vfBLm01yNjq5fha4NSJ045oEQpWqJF5ubhkJWgFP5IDDZPfSx3Mn8hVNzj//Q3KqPhuhhZKXgSTzhNKR9R+Tir9OuvtDiRwJ7gDS3jVxpcWg8duxggtLE5Qhbk0YLELHpyDuaaqpNNz5GtrNhN8KZeDTnzYN78QZv7T1r64XJVMpJSVMxqESMA/Ao/TQRJllMCfXLFdenxITh66GZBCon5TpkXH1Lvb/TxVshxVtP+EUSMlGcMXiuU1qHxRZZk5Mr5/Qu1XgOm7YP1A+rzGYUYWyjsFz4pq4DPW65iln5CK+b8iuxQTIKN4QbR2BLhc8mJrDq7074dYdz77nk43hhRJHAxxwh/Memua3JmV+Uvw4Gy/QQ==;wK4p6eodAMKg3c3hWLzMVQ=="

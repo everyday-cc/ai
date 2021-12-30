@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Complete Guide to AI for Businesses and How It's Making a Difference"
+    excerpt: "Here are some ways AI can enhance your company. Artificial intelligence (AI) is quickly changing the world. As an emerging area of study, it has already found many applications in business, technology and society."
+    publishedDateTime: 2021-12-30T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/398924"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 66
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1640286945-GettyImages-1274394072.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Misuse of Artificial Intelligence in China"
     excerpt: "It is unhelpful to reduce China's rapid AI development into a simplistic narrative about China as a threat or as a villain."
     publishedDateTime: 2021-12-28T10:30:00Z

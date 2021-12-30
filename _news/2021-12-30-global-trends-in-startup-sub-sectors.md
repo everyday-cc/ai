@@ -8,8 +8,8 @@ webUrl: "https://ventureburn.com/2021/12/global-trends-in-startup-sub-sectors/"
 ampWebUrl: "https://ventureburn.com/2021/12/global-trends-in-startup-sub-sectors/?amp=1"
 cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2021/12/global-trends-in-startup-sub-sectors/?amp=1"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2021/12/startup-report-1-scaled.jpg"
