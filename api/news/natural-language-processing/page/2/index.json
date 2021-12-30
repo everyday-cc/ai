@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-flipping-the-script-on-deepfake-technologies.md",
+      "title": "Flipping the Script on Deepfake Technologies",
+      "excerpt": "Cris: It's about giving access to these AI and ML systems to ... They could even translate their website copy into rare or overlooked languages, in order to reach an audience that may never ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/paidpost/accenture/built-for-change/flipping-the-script-on-deepfake-technologies.html",
+      "originalUrl": "https://www.nytimes.com/paidpost/accenture/built-for-change/flipping-the-script-on-deepfake-technologies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-ai-voiceover-startup-deepdub-inks-7-figure-deal-with-streamer-topic-to-dub-the-killing-the-bridge-and-dozens-more-tv-series-into-english.md",
       "title": "AI voiceover startup Deepdub inks 7-figure deal with streamer topic to dub 'The Killing,' 'The Bridge,' and dozens more TV series into English",
       "excerpt": "Non-English, local-language series are steadily finding ... to four-month process of dubbing a TV series, Deepdub's AI can translate a project in around four to six weeks, the company has said.",
@@ -1395,50 +1447,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-ai-for-speech-recognition-market-may-see-a-big-move-microsoft-google-amazon-apple.md",
-      "title": "AI for Speech Recognition Market May See a Big Move | Microsoft, Google, Amazon, Apple",
-      "excerpt": "Worldwide AI for Speech Recognition Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-for-speech-recognition-market-may-see-a-big-move-microsoft-google-amazon-apple",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-speech-recognition-market-may-see-a-big-move-microsoft-google-amazon-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/0236bbb9468319dfa6a746978a367f56c81d2faf-e1638923418975-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
