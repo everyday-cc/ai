@@ -2,6 +2,103 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
+      "title": "AWS wants to make it easier to get to grips with machine learning",
+      "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg",
+          "width": 970,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "publishedDateTime": "2021-12-01T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
+      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
+      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
+          "width": 4855,
+          "height": 3182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-new-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.md",
       "title": "New machine learning model reduces uncertainty in detection of breast cancer",
       "excerpt": "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease.",
@@ -1066,111 +1163,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meta-launches-pytorch-live-to-build-ai-powered-mobile-experiences.md",
-      "title": "Meta launches PyTorch Live to build AI-powered mobile experiences",
-      "excerpt": "Meta (formerly Facebook) has launched PyTorch Live, a set of tools for developing AI-powered experiences on Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-10.28.20-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
-      "publishedDateTime": "2021-12-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-3-chip-stocks-to-buy-in-december.md",
-      "title": "3 Chip Stocks to Buy in December",
-      "excerpt": "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/400214",
-      "originalUrl": "https://www.entrepreneur.com/article/400214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese professor's wealth jumps to $4 billion with his AI startup's listing"
+    excerpt: "Chinese professor Tang Xiao'ou has become one of the world's richest people after his artificial intelligence (AI) firm SenseTime's shares surged up to 23% on its Hong Kong debut. His fortune surged to nearly $4 billion after the stock ended the morning session 11% above its IPO price."
+    publishedDateTime: 2021-12-30T07:23:00Z
+    webUrl: "https://inshorts.com/en/news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 54
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640848050962_528.jpg?"
+        width: 1080
+        height: 1748
+        isCached: true
 
 secured: "miuwCcbUCvEkJ0fKh3eSfCwNmHTACHqodx/IUCUqrjUSZKQp+bO5bwtdAnFLdoHbaJq0OWV021MGQ7R7EnPU148JStXuZlac11hvlikm38xNxrM1BePq21YdoiDWwsjve7BCSbmfvgc0swfs24opCqzmUSx6incB0H9En3+MAqf6oKTYwQ++SdIYnY4TFGKUzo/UfpSheu06t/WJF81gD/eUqawLh19LFPp/VMpCme0CR/gJb7Wzhz0yOpzNOBbWSEWGgczbs344VTZBzQuPlbUNa6tVfJVS7F9O9M4Qkwr759IFppZLtvnhmXZF19zcQnWSX+ylGJ6E+qu/w4BCySU20PwFl2hWPN2v7Zb2LpTZrXvEGzmyCyI5x4WXEnpJ2KbIIf/jMRFPHBNxdNbWLM/S9kWYD1s3tdMIyImxA1Idr/jLezPLc7BYsD36pA42+CRm/pzs9mAQrbelTChZC7biCKpVZeJG28gUKpGmCUhBnjw2GI3Porp8IIQS0X8Fxpl3Z4tVSyhO5GxQ4MnOkg==;sUT4ceiX0/xaqSF+k1dDqA=="
 ---

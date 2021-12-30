@@ -2,6 +2,111 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-12-02-meta-launches-pytorch-live-to-build-ai-powered-mobile-experiences.md",
+      "title": "Meta launches PyTorch Live to build AI-powered mobile experiences",
+      "excerpt": "Meta (formerly Facebook) has launched PyTorch Live, a set of tools for developing AI-powered experiences on Android and iOS.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-10.28.20-PM.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
+      "publishedDateTime": "2021-12-01T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-3-chip-stocks-to-buy-in-december.md",
+      "title": "3 Chip Stocks to Buy in December",
+      "excerpt": "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400214",
+      "originalUrl": "https://www.entrepreneur.com/article/400214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent.md",
       "title": "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent",
       "excerpt": "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,",
@@ -1070,102 +1175,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure.md",
-      "title": "Healthcare Artificial Intelligence Market Boosting the Growth Worldwide | IBM,Microsoft, Medtronic, AiCure",
-      "excerpt": "The latest study released on the Global Healthcare Artificial Intelligence Market by AMA Research evaluates market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses.md",
-      "title": "Machine learning reduces uncertainty in breast cancer diagnoses",
-      "excerpt": "A Michigan Tech-developed machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-reduc-1.jpg",
-          "width": 1200,
-          "height": 2629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
-      "publishedDateTime": "2021-12-01T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

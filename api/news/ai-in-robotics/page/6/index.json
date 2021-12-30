@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
+      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
+      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "publishedDateTime": "2021-11-24T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-robotic-solution-to-aid-nuclear-decommissioning.md",
+      "title": "Robotic solution to aid nuclear decommissioning",
+      "excerpt": "An EPSRC-funded project led by Sussex University aims to develop a robotic solution to address nuclear decommissioning challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
+      "originalUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2021/11/shutterstock_1567223413.jpg",
+          "width": 940,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-covid-19-impact-on-professional-service-robots-market-to-witness-impressive-growth-during-2020-2025.md",
       "title": "Covid-19 Impact on Professional Service Robots Market to Witness Impressive Growth During 2020-2025",
       "excerpt": "keeping in mind the interest of all the stakeholders across the value chain. Following are the ways in which the market is segmented. Professional Service Robots Market Size, Share, & Forecast ...",

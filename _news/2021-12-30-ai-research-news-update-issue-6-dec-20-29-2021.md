@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-30T05:02:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-research-news-update-issue-6-dec-20-29-2021-asif-razzaq"
 webUrl: "https://www.linkedin.com/pulse/ai-research-news-update-issue-6-dec-20-29-2021-asif-razzaq"
 type: article
-quality: 37
-heat: 37
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -20,6 +20,9 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
+  - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQFBBqtN8i_FSg/article-cover_image-shrink_720_1280/0/1640840410876?e=1646265600&v=beta&t=DawaC2Q-iwbW6b1n_3zedJOx2OHG_SutGXKSZe2vSMM"
@@ -27,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6NSpB3FRBnPCAps5dOMV1LefEZ6HDxVltWoIvC7AFJNU1/VenWfPaCw/TMrJgjnqT2vDeTspOHKwSLm8fQBdL77x3SwxRC2eOv8JCWzX7ALtp23b5y22iUyvoSPFKT2kIwMQu1LAsxUOs3QzvNZuFzdTqX2vudMBktVRcFElGPpZcsUUxjt+vXbSRZ/VaY5wgJ8Kj6gdchgfikv8ynZmpTvY0+dHlrcycOoiKKB0dL1QVLBHRBPC/lTCjF/NE79QKyMPHFS3EP0NEObQwq6Q9k0QUG3M14u3gnnRYhUJkC6uFHkQpY2n687v96ptXXlt3xom/92s+mFq5HQlZB4TGZ53Gwq5TeNOefZnS9Tew2I=;0f6GT7bWVjNUipN3ZsxhyA=="
+secured: "Ye1iCbG486c9+GZzGvkvhOTX19BHaDZGD7dxq3Mj+gbMvnpt7G/Qf0rMiLb9RxVldGbtV6iKGHlUFFyhtjHfJfB5Ed0/CM4LFSYFIuf+9IaRUIbsDM75R8ALFq0dpM/lWWO1rAzFQSFcdb5MmCFwwSoglW1iAHUbEfRDrh2adDYoMYjgtyiCSyacQUpVwo6iZeY5Yo7m0kLQESD+1Ukg5/2NNGHCvboM9CIcoX1sUYaDVn9qk0Hd3KK7chMmxZLVyWar7/Sse2NNJuiFTdLo+dxiUzDLvqF3j+W9eym93Hx4YMqTJ0TvR4eqFX5JKgGKdRjzcVpDRR/3sL6FNkKK7MURfFDjcQjvY4vekC8doMWYXrJcHC8koUof2fZN8V7zdvpA4L8yMK+do9mbTcnN+RLO2+uXVO0ceI7WnHVxC1/wtw/FJQhNgrJYkgadVWNbI0pkEZ/eq6yhvwpF+TDAu2S/hyCeFaQ6+MhGUh++znUupCFuibkVHj75vPqtqepOzJwRz2ygqxpFMjwNBjLsBg==;hJjlN2qcSXlxIEexqGPvJA=="
 ---
 

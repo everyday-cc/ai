@@ -9,7 +9,7 @@ ampWebUrl: "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-1
 cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
 type: article
 quality: 172
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://images.wsj.net/im-456678/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Chinese professor's wealth jumps to $4 billion with his AI startup's listing"
+    excerpt: "Chinese professor Tang Xiao'ou has become one of the world's richest people after his artificial intelligence (AI) firm SenseTime's shares surged up to 23% on its Hong Kong debut. His fortune surged to nearly $4 billion after the stock ended the morning session 11% above its IPO price."
+    publishedDateTime: 2021-12-30T07:23:00Z
+    webUrl: "https://inshorts.com/en/news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 54
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640848050962_528.jpg?"
+        width: 1080
+        height: 1748
         isCached: true
   - title: "China’s largest AI firm SenseTime raises $700M in Hong Kong IPO"
     excerpt: "Chinese largest artificial intelligence firm SenseTime Group Inc. today it has raised about $700 million from its initial public offering on the Hong Kong Stock Exchange. SenseTime sold 1.5 billion of its shares priced at HK$3."

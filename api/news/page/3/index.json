@@ -1159,21 +1159,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
-      "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
-      "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
+      "path": "_news/2021-12-24-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
+      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
+      "excerpt": "Since opening in July, Roger Bar and Restaurant in Mountain View has faced hiring challenges amid a labor shortage during the pandemic. Leveraging tech tools can help alleviate some of the pressure.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
+      "webUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
+      "originalUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c3afe0943c99e74c35c794%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://mv-voice.com/news/photos/2021/december/23/41319_col.jpg",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1181,23 +1181,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "publishedDateTime": "2021-12-23T09:51:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T10:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "mv-voice.com",
+        "domain": "mv-voice.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1206,8 +1197,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
