@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2514442/mobile-location-based-services-mark
 ampWebUrl: "https://www.openpr.com/amp/2514442/mobile-location-based-services-market-will-hit-big-revenues"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514442/mobile-location-based-services-market-will-hit-big-revenues"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/c/Uc30966287_g.jpg"
@@ -26,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Xp35bCVnBiigNi084mhvzj///RKT89XX6+sIbS2GlCacJ+HnUvXU9sOeKcZSAumOMc77oyXIrXkrxyZ5Bv/GLJKkbra59K5LpPdvb7MEz+QNM0whaloBungiQxwZRTzh0RWoRHrYrjfc018MEWu3LN2nIbXOgdTpu769sEbAZhPIzRN6Bi4pUSmauGr5D+dRI1SAD9dLj82W2nz72R58q2235xd0ddHFR9hUv5J2PRooO/i8x9N2KJl/iXkLHhJvB+rKtHljbDY7m26R1LWaq+CB7jQUS9yJnutHeoZ2G6T4Mf3SpSGIrI+H3QfVzGgvLo6aW8vItTJzLCBXFnJgCExgMMT8AeWhOOrLnHxIDX0=;ISaB/LxGW0l2OD+LRNeLkg=="
+secured: "dlme4NagzJJHCOPvEKkJgkoiYt7cYoHSW4cHwB0pcetQF1OrQavp+M/V/4sGZuwmx+g0T9etA3d3P77kmWBsGcHdKZJ5q/QpJHA8sRspRhpTgkP53KoBm8l7u75POC92sQ1LJ88RGQ4iPsN+4NHp2YDBLYmsQ201QxQ45DuERUvt3JczWQtjMI4JXsBU6XhSWYLvLDiO7hUEskQOtetNYiMNZ6QTbBs88LaAA6sORAhhR2ouJZmAyzJyzEGyjSoJYF/+4hkQaFzYGMaonG4MfaGGBF4nVYum6FnUcRTKVC9z1WWp5Ne9D17Qe89xOfITDmjphH5y2Tn+LH0e9720fKgAMLBSLtVpunlMnRjCpqgOcC7rwoXi06qutMKy6AkWWEamos8DGWkCtT5KGzc6nZBoXrUBg16blwH3gnlHuVlJYtGL9DGkgwd9EdUSBsmCIkxXqjFXiaXH4IJv2u2DfOR7gQAvoRO2nClE8A2Quq0r1Tdi5KkXMGqobPQPZ6EBFm5d+GgTlsDgCgG6oymFzQ==;D4z5RAc3QCAISI9ZUkqO4g=="
 ---
 

@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 93
+    quality: 95
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
         width: 1200
@@ -62,6 +62,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Top Business AI Trends to Watch for 2022"
+    excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
+    publishedDateTime: 2021-12-30T17:18:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/management/top-business-ai-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 37
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/michael-dziedzic-nbW-kaz2BlE-unsplash-scaled.jpg"
+        width: 2560
+        height: 1600
         isCached: true
 
 secured: "+TBxgVE5nbSbb9ZMYmVNCnI1zm/iloBwYTq8xwPnL9jIniue4ARUN7u3Tgqw+C/hYUsqG9evph8ZwgReU/mhmPCPIMq3y+9ML2xJIpoixAB/5f/0/aVWS6ASWHswyFi2Pt2NnjtZokJB8bUr8/Dk0buwZKqGIliwgBXJ5vfBLm01yNjq5fha4NSJ045oEQpWqJF5ubhkJWgFP5IDDZPfSx3Mn8hVNzj//Q3KqPhuhhZKXgSTzhNKR9R+Tir9OuvtDiRwJ7gDS3jVxpcWg8duxggtLE5Qhbk0YLELHpyDuaaqpNNz5GtrNhN8KZeDTnzYN78QZv7T1r64XJVMpJSVMxqESMA/Ao/TQRJllMCfXLFdenxITh66GZBCon5TpkXH1Lvb/TxVshxVtP+EUSMlGcMXiuU1qHxRZZk5Mr5/Qu1XgOm7YP1A+rzGYUYWyjsFz4pq4DPW65iln5CK+b8iuxQTIKN4QbR2BLhc8mJrDq7074dYdz77nk43hhRJHAxxwh/Memua3JmV+Uvw4Gy/QQ==;wK4p6eodAMKg3c3hWLzMVQ=="

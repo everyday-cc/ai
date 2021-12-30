@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Webcasting to chatbot help: Goa polls set to go high-tech"
-    excerpt: "The Election Eye system has been designed to capture real time information from webcasting feeds on computer vision technology. “It will help in getting realtime alerts to the election ..."
-    publishedDateTime: 2021-12-26T22:44:00Z
-    webUrl: "https://www.hindustantimes.com/elections/goa-assembly-election/webcasting-to-chatbot-help-goa-polls-set-to-go-hightech-101640557769929.html"
-    ampWebUrl: "https://www.hindustantimes.com/elections/goa-assembly-election/webcasting-to-chatbot-help-goa-polls-set-to-go-hightech-101640557769929-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/elections/goa-assembly-election/webcasting-to-chatbot-help-goa-polls-set-to-go-hightech-101640557769929-amp.html"
+  - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
+    excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
+    publishedDateTime: 2021-12-30T18:10:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 54
     images:
-      - url: "https://images.hindustantimes.com/img/2021/12/26/1600x900/Goa_1640557785184_1640557795059.jpg"
-        width: 1600
-        height: 900
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "xlzC6EjK2r6HXkpBNUzbtP/v99NPonPj06B8LmlSYj/YxNsZB/CkC+JDGi+15SZtUyrSEdByVttvCy44hIIlF9uQO9bPlSo9K7bWjD4PNUhW+BBgdvEeEWTf0pT1FvET3OEVD54vbncbmBo+MhQxRQdBqcsh0IBHxIWqyGahu50VBkdG9IpEJOYrx29evWdsyNihlvbmf8T9o6x7HhlrgurEB4jgjKZUeX4bMS9xJVZAB6SdA9zr3ytiM81hD+F3Sa8023yWYav88v7MBC7VtO1Y8TnYa2oqwrCgcjsORUGg+MIEg2OqZhR/Z5O489PVWEiuV+HefypL1+573XDVRN9Rsybso+BMdroe2ut0ABM=;hYj2bZehjr+yTiG+2KYPBQ=="

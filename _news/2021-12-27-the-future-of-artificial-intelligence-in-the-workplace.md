@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Survey Finds Healthcare Execs Bullish on AI"
+    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
+    publishedDateTime: 2021-12-30T17:36:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "Healthy data: trends in healthcare tech for 2022"
     excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
     publishedDateTime: 2021-12-27T20:18:00Z

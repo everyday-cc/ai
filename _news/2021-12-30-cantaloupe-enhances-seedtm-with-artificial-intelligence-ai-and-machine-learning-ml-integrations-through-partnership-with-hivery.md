@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Cantaloupe Enhances Seedtm With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
-excerpt: "Cantaloupe, Inc. (\"Cantaloupe\" or the \"Company\"), a digital payments and software services company that provides end-to-end technology solutions for the unattended retail market, today announced its partnership with HIVERY,"
-publishedDateTime: 2021-12-30T13:50:00Z
-originalUrl: "https://www.lelezard.com/en/news-20173544.html"
-webUrl: "https://www.lelezard.com/en/news-20173544.html"
+title: "Cantaloupe Enhances Seed(TM) With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
+excerpt: "Technology Offering Will Enhance Machine Merchandising Decisions for use with Seed Pro and Office, Helping Operators Drive Improved Vending Machine Performance. Cantaloupe, Inc. ("
+publishedDateTime: 2021-12-30T13:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/30/cantaloupe-enhances-seed-tm-with-artificial-intelligence-ai-and-machine-learning"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/30/cantaloupe-enhances-seed-tm-with-artificial-intelligence-ai-and-machine-learning"
 type: article
-quality: 56
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
+  - AI
 
 related:
   - title: "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability"
@@ -68,6 +61,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "3cZVZs6bQLRGIB4glqLdUoAfd4+kZGeIK2FAjujhYV63HTt3oQDNjB6eOjwstgPrcszOU+HH5lPBSzm6bXBYXCpp3qiOrfT4M4+IsIPoLjffUtGZi44dxueQZDo//5HD4BhRHV3Q7gaiVwIdx/pN2MJ0zTvuZ6a6iTU8/6/sfb74wRzk+Exdn/Vn+GrqyW//aCNe1miTT/y0YnQynoozF95EAUHgGxrceAjIH41bJ/t/BqUf5akYvlJgAqFtlvyIsJdLdhOah68Dd+VebQiCNBk1sMDI8UnQ7xiM+BgRw7CMjjwpj6hdJ12ohpn/6riReNgaDu7ssZZ7BmIBugmhhHbYcQSUeubWdOUJTZ0ptj4=;16NGRDxBoNO+P5mfiYY3Fg=="
+secured: "wJVGlVCVP+aH7AjvMMo+iNNHADwYgILNfqgBjJrrjz3fXY1u7ZR3oU3Xho+iXP9juDEJSEmXoQidg0HA+H7DjJXkWnLGC6PU26DcJddlgacYV5bHQ3+MVhA99RweXSDEpG6151fmvgKRzWUnkzV4R0VikhI9w/NPCkbi3wZ1e1mWPjA1ipXJqrX5A+ZBZe+G8HTUC46GnK0y2R73v5OIfrKvTKzFAewOjoRppRsz6MFXeVlkmAZrtQV/Iggh7cVXe3XjpjzBcXgYWPWPfvOslItpWyRE/UPn0UCkl2ib8XGv5ECldnPRhQHHXJauJD6Tb2HoCaIAas/Gc7TVpLTOS0mW4SYpP7O8jkmDWevEtjLTkGZQmTgwhCOxon6mtX3ZWEc+FCGwnEvJsoHCDRXHRePgrXvY2VzX+KMLisf4Xx0VV/JxmrzWXcYlpT+xfGNbftc/v8SiLLSJUExl9fxlX4HR/wsJDdNX9y4Y/selqZ5ewXJf60N4a+gtqdiA79pWMaIT1NpRgaDECbdXP4fANQ==;qCaVWzZJwbcMBUmFbtTsug=="
 ---
 

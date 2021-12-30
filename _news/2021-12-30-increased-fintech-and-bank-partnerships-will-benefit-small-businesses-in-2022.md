@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHWZ_SWI0NTxQ/article-cover_image-shrink_600_2000/0/1640801725372?e=1646265600&v=beta&t=QwL5qhdq_0TlHMlFCxexbm8LPqiev6YbPVG_5mvSNys"
         width: 701
         height: 438
+        isCached: true
+  - title: "10 Innovative Ways Fintech's Helped Credit Card Development"
+    excerpt: "Uncovering ten of the most cutting-edge uses for financial technology in credit card development, from crypto payments to enhanced rewards for customers"
+    publishedDateTime: 2021-12-30T18:08:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/10-innovative-ways-fintechs-helped-credit-card-development"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/credit-card-payments-development.jpg.png?itok=OxUeFddE"
+        width: 1200
+        height: 630
         isCached: true
   - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
     excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"

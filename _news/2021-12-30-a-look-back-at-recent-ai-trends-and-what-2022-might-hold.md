@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-
 ampWebUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 type: article
-quality: 93
-heat: 113
+quality: 95
+heat: 125
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Facebook AI
   - AI Ethics
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
@@ -64,6 +65,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Top Business AI Trends to Watch for 2022"
+    excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
+    publishedDateTime: 2021-12-30T17:18:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/management/top-business-ai-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 37
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/michael-dziedzic-nbW-kaz2BlE-unsplash-scaled.jpg"
+        width: 2560
+        height: 1600
         isCached: true
 
 secured: "DRSFHfVI8gSL3OyTQVZfLaMQPuJg4o1f/B+c0DZNT3ta9TthHZWUUN7D2l/RocxchqKSCgIXfS+WQksAQsDotgW7pPP1WP7aTb21LLJ8ZD/atw0Thqnwdt81W+9bBGnNbFyIdC82Mmvd5JoQWjw/z/u00okOy1zbi0Ut3tUlc5aftThn8dKO+oHr0tp0w8l/93lzCf3Yl3BMwBQPx8BMpthMNo2HWcq/A/QcJ7ZrC2jbTXEMRwbo4RMptTT/Pgrayxy9h42MuTUAU/UuinrHeOAn4/K5ioOqJpkMOLmbN0e0UBY2ScUQfBkwi1VohkvW1teJGa0lU2kq6LZMchrILfb1sGzKxcA7m6xQX9DUrTCKWMnWeUY71Zc59XwwlSrqIya2+6iMxONdXfkEaPLKT1GJgLywGXEy+J/XwjL0+dw3AdSIDunlchhA7+p/8Kz71OxdUo/Q9HNE42ySW9yw697OiWam89fB6ydDa4DNu5E9uMQzhzRwWjWLUtDVOiup+Y9+gV2Fld1FHkQgo4eqpg==;dz6Nc6iiYQ0+GgYmv9S8fw=="

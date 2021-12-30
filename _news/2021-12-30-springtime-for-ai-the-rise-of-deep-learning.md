@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/springtime-for-ai-the-r
 webUrl: "https://www.scientificamerican.com/article/springtime-for-ai-the-rise-of-deep-learning/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

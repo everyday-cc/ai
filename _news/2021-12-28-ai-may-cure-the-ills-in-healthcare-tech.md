@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Survey Finds Healthcare Execs Bullish on AI"
+    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
+    publishedDateTime: 2021-12-30T17:36:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "The Future of Artificial Intelligence In The Workplace"
     excerpt: "Smart technologies aren’t just changing our homes; they’re edging their way into their numerous industries and are disrupting the workplace. Artificial Intelligence (AI) has the potential to improve productivity,"
     publishedDateTime: 2021-12-27T07:57:00Z
