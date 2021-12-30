@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-
 ampWebUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 93
+heat: 113
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
@@ -64,6 +66,6 @@ related:
         height: 420
         isCached: true
 
-secured: "6nHDzWkui6sQJKYVvLbxpXOu9EWnUMlPhpLgt4jdPSYktL6eiKqkP/ZflZpbmvm3LmPVFBp8Fl4VlujKEW5pH9wErywx5qxNWF4jSHWgeh1DNGSjbJmydyfhxHEKRuFyinlCF2fvarZuLtTXFmd45KUjx4ZxL2ICaamFMtnAXtmD3/hS2Nkbq1hdDNcjnn7AJM3gelCSBPDc/1tpnIhVqmurpQKNUj3HXhQpoSW/ZXCtaRv/swWuW9TAugN3KDHxQZXeUM3M0Cfcpx0eFAVApswLuUHJWgeRUZ0dGvFv3JUt3GJfQxkdBK7rLN/6Hfz6xDUQzrqfw8BzbapqjPq9lb3zJBuU8AjzhGMfSHwLAow=;DlXZ7a3HYtriVRykgsnDHA=="
+secured: "DRSFHfVI8gSL3OyTQVZfLaMQPuJg4o1f/B+c0DZNT3ta9TthHZWUUN7D2l/RocxchqKSCgIXfS+WQksAQsDotgW7pPP1WP7aTb21LLJ8ZD/atw0Thqnwdt81W+9bBGnNbFyIdC82Mmvd5JoQWjw/z/u00okOy1zbi0Ut3tUlc5aftThn8dKO+oHr0tp0w8l/93lzCf3Yl3BMwBQPx8BMpthMNo2HWcq/A/QcJ7ZrC2jbTXEMRwbo4RMptTT/Pgrayxy9h42MuTUAU/UuinrHeOAn4/K5ioOqJpkMOLmbN0e0UBY2ScUQfBkwi1VohkvW1teJGa0lU2kq6LZMchrILfb1sGzKxcA7m6xQX9DUrTCKWMnWeUY71Zc59XwwlSrqIya2+6iMxONdXfkEaPLKT1GJgLywGXEy+J/XwjL0+dw3AdSIDunlchhA7+p/8Kz71OxdUo/Q9HNE42ySW9yw697OiWam89fB6ydDa4DNu5E9uMQzhzRwWjWLUtDVOiup+Y9+gV2Fld1FHkQgo4eqpg==;dz6Nc6iiYQ0+GgYmv9S8fw=="
 ---
 

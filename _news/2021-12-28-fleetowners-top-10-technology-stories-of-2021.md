@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "The 10 Most Popular Language Industry Stories of 2021"
+    excerpt: "A recap of Slator’s top 10 stories of 2021 shows the translation industry — from job prospects to heavy hitters’ M&A — is thriving."
+    publishedDateTime: 2021-12-29T11:11:00Z
+    webUrl: "https://slator.com/the-10-most-popular-language-industry-stories-of-2021/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/12/The-Most-Popular-Translation-Industry-Stories-of-2021.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "ZgfYE4I9aQsqwtLfyQ4ovzpFwYIf2m+PqQdLHcXIyOdDy4vwQhMWReKhHy3PIcwhOFWJNHlZgjqVkYJlSwHVbrpa+bTVzXuGuMCLoKl62g5pn+6iIByzwds6qSLGkasyxiAxJerZmA8kIwK6Na0dHVT7gOdPBcamxB6umbPdMt4UXOBGZMmPpQym1s2j+xfhzlvYMf2Yz5Mv56694+K6nh9jmcQ+g9Gsv8zWhw3JWQkEx/o31IiCZaxnVFsiJ2o4UfSm45ChWDTzIsUqBT7ElyEq7LbdUey7hoZv4MHNxiIxqhM0hbx65wXhp+4Uk66bHhcWiffPFnX1Lt+QYIYY6WKTpVSCeNJcUlZ7V8gls5Uqs6oOJaQRWfp8pwVDBxfgPFMhxQqEKRNxGrz1NYbImc23VdJlVCzD9Fw3jNuv1GE7E38WTFPWbptJUfhVySmrNNAkT+L3e+Oeg4YZ2T/Qfm1AqfaPcOAlCb2FdgLn9nHADeLBgGCvs457tKXK0etqpD5JaPufEbxioK3hPYfXZA==;V9A0dzSu9Ql+rNU2gTu1LQ=="
 ---

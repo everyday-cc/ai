@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-21-sensors-set-to-revolutionise-brain-controlled-robotics.md",
+      "title": "Sensors set to revolutionise brain-controlled robotics",
+      "excerpt": "A novel carbon-based biosensor developed at UTS is set to drive new innovations in brain-controlled robotics. Developed by Professor Francesca Iacopi and her team in the UTS Faculty of Engineering and IT,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/sensors-set-to-revolut.jpg",
+          "width": 825,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp",
+      "publishedDateTime": "2021-12-21T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-get-ready-for-the-autonomous-weapons-race.md",
       "title": "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race",
       "excerpt": "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last.",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Inshorts",
         "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
-      "title": "UN head calls for action on 'killer robots' as Geneva talks start",
-      "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
-      "publishedDateTime": "2021-12-13T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geo News",
-        "domain": "www.geo.tv",
         "images": null,
         "publishers": null,
         "authors": null
