@@ -32,7 +32,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 206,
+          "heat": 182,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -62,7 +62,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 312,
+          "heat": 323,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -84,7 +84,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 173,
+          "heat": 201,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -107,7 +107,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 432,
+          "heat": 442,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -127,13 +127,163 @@
         }
       ],
       "collectionSize": 10,
-      "heat": 374,
+      "heat": 387,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "NVIDIA",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-fintech-startups.md",
+      "title": "AI FinTech Startups",
+      "excerpt": "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-fintech-startups/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-fintech-startups/",
+      "type": "collection",
+      "name": "AI FinTech Startups",
+      "overview": "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely.",
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Axyon AI",
+          "excerpt": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+          "type": "profile",
+          "name": "Axyon AI",
+          "overview": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Finance",
+            "Machine Learning"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Axyon AI",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Capital.Com",
+          "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+          "type": "profile",
+          "name": "Capital.Com",
+          "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Finance"
+          ],
+          "heat": 468,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1466693072041955333/zBKm2wmo_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Capital.Com",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Cleo",
+          "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+          "type": "profile",
+          "name": "Cleo",
+          "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Finance"
+          ],
+          "heat": 164,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Cleo",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "collectAI",
+          "excerpt": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
+          "type": "profile",
+          "name": "collectAI",
+          "overview": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Finance"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "collectAI",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "collectionSize": 16,
+      "heat": 196,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Axyon AI",
           "isCached": true
         }
       ],
@@ -165,7 +315,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 115,
+          "heat": 127,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
@@ -195,7 +345,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 32,
+          "heat": 71,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1466853476818956290/thA2D_dd_400x400.jpg",
@@ -248,7 +398,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 334,
+          "heat": 318,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -261,163 +411,13 @@
         }
       ],
       "collectionSize": 41,
-      "heat": 138,
+      "heat": 152,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Affirm",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collections/ai-fintech-startups.md",
-      "title": "AI FinTech Startups",
-      "excerpt": "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-fintech-startups/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/ai-fintech-startups/",
-      "type": "collection",
-      "name": "AI FinTech Startups",
-      "overview": "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely.",
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Axyon AI",
-          "excerpt": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
-          "type": "profile",
-          "name": "Axyon AI",
-          "overview": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Finance",
-            "Machine Learning"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Axyon AI",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Capital.Com",
-          "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-          "type": "profile",
-          "name": "Capital.Com",
-          "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Finance"
-          ],
-          "heat": 411,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1466693072041955333/zBKm2wmo_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Capital.Com",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Cleo",
-          "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
-          "type": "profile",
-          "name": "Cleo",
-          "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Finance"
-          ],
-          "heat": 112,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Cleo",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "collectAI",
-          "excerpt": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
-          "type": "profile",
-          "name": "collectAI",
-          "overview": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Finance"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "collectAI",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "collectionSize": 16,
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Axyon AI",
           "isCached": true
         }
       ],
@@ -507,7 +507,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 6,
+          "heat": 20,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1462923429150138370/V5KC50JM_400x400.jpg",
@@ -529,7 +529,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 104,
+          "heat": 140,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
@@ -617,7 +617,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 183,
+          "heat": 179,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
@@ -677,7 +677,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 87,
+          "heat": 64,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
@@ -697,7 +697,7 @@
         }
       ],
       "collectionSize": 8,
-      "heat": 104,
+      "heat": 76,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
@@ -734,7 +734,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 77,
+          "heat": 20,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1425206369058115584/PP3Ixk7T_400x400.jpg",
@@ -795,7 +795,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 432,
+          "heat": 442,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -825,7 +825,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 50,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg",
@@ -845,7 +845,7 @@
         }
       ],
       "collectionSize": 11,
-      "heat": 92,
+      "heat": 68,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1425206369058115584/PP3Ixk7T_400x400.jpg",
@@ -884,7 +884,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 64,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
@@ -930,7 +930,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 127,
+          "heat": 122,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
@@ -966,13 +966,154 @@
         }
       ],
       "collectionSize": 26,
-      "heat": 76,
+      "heat": 68,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "AEYE",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/female-founded-ai-companies.md",
+      "title": "Female Founded AI Companies",
+      "excerpt": "A list of AI companies with at least one woman founder.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/female-founded-ai-companies/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/female-founded-ai-companies/",
+      "type": "collection",
+      "name": "Female Founded AI Companies",
+      "overview": "A list of AI companies with at least one woman founder.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Scale",
+          "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
+          "type": "profile",
+          "name": "Scale",
+          "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "heat": 104,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Scale",
+              "isCached": true
+            },
+            {
+              "url": "https://scale.com/static/global/facebook-card.png",
+              "width": 1200,
+              "height": 630,
+              "title": "Scale AI Facebook Banner",
+              "isCached": false
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "cnvrg.io",
+          "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
+          "type": "profile",
+          "name": "cnvrg.io",
+          "overview": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1411641099739860993/WUcGTmhA_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "cnvrg.io",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Smarten Spaces",
+          "excerpt": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
+          "type": "profile",
+          "name": "Smarten Spaces",
+          "overview": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C510BAQFi606oKvzlvg/company-logo_200_200/0?e=1594857600&v=beta&t=71vdvqbv7NEgkKHBScyCC477PPspd0WONW006m0-klo",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "mojo",
+          "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+          "type": "profile",
+          "name": "mojo",
+          "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1443158234764820484/dCACATLL_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "mojo",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "collectionSize": 4,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Scale",
           "isCached": true
         }
       ],
@@ -1005,7 +1146,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
@@ -1067,7 +1208,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 57,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
@@ -1097,7 +1238,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 64,
+          "heat": 82,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1412454596740517888/NxrxRAJW_400x400.jpg",
@@ -1117,7 +1258,7 @@
         }
       ],
       "collectionSize": 6,
-      "heat": 68,
+      "heat": 60,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
@@ -1177,7 +1318,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 108,
+          "heat": 101,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
@@ -1505,7 +1646,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1037464564248530945/KK8j8zzU_400x400.jpg",
@@ -1538,147 +1679,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/female-founded-ai-companies.md",
-      "title": "Female Founded AI Companies",
-      "excerpt": "A list of AI companies with at least one woman founder.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/female-founded-ai-companies/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/female-founded-ai-companies/",
-      "type": "collection",
-      "name": "Female Founded AI Companies",
-      "overview": "A list of AI companies with at least one woman founder.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Scale",
-          "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
-          "type": "profile",
-          "name": "Scale",
-          "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Computer Vision"
-          ],
-          "heat": 147,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Scale",
-              "isCached": true
-            },
-            {
-              "url": "https://scale.com/static/global/facebook-card.png",
-              "width": 1200,
-              "height": 630,
-              "title": "Scale AI Facebook Banner",
-              "isCached": false
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "cnvrg.io",
-          "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-          "type": "profile",
-          "name": "cnvrg.io",
-          "overview": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1411641099739860993/WUcGTmhA_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "cnvrg.io",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Smarten Spaces",
-          "excerpt": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
-          "type": "profile",
-          "name": "Smarten Spaces",
-          "overview": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C510BAQFi606oKvzlvg/company-logo_200_200/0?e=1594857600&v=beta&t=71vdvqbv7NEgkKHBScyCC477PPspd0WONW006m0-klo",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "mojo",
-          "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-          "type": "profile",
-          "name": "mojo",
-          "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Healthcare"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1443158234764820484/dCACATLL_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "mojo",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "collectionSize": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Scale",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/collections/image-recognition-startups.md",
       "title": "Image Recognition Startups",
       "excerpt": "We've put together a list of image recognition and detection startups in the market.",
@@ -1705,7 +1705,7 @@
             "AI",
             "Computer Vision"
           ],
-          "heat": 57,
+          "heat": 0,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",
@@ -1810,7 +1810,7 @@
         }
       ],
       "collectionSize": 16,
-      "heat": 60,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",

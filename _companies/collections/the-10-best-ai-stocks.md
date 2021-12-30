@@ -2,7 +2,7 @@
 name: "The 10 Best AI Stocks"
 overview: ""
 type: "collection"
-heat: 374
+heat: 387
 
 
 items:
