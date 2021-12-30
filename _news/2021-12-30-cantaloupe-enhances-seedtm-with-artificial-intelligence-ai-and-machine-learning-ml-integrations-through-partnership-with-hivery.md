@@ -35,22 +35,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "UNESCO Forum on AI and Education engages international partners to ensure AI as a common good for education"
-    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
-    publishedDateTime: 2021-12-26T07:40:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 58
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "Cantaloupe Enhances Seed™ With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
     excerpt: "Cantaloupe integrates Seed™ with artificial intelligence (AI) and machine learning (ML) through a partnership with HIVERY, a data-science company."
     publishedDateTime: 2021-12-30T13:15:00Z
@@ -61,6 +45,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "wJVGlVCVP+aH7AjvMMo+iNNHADwYgILNfqgBjJrrjz3fXY1u7ZR3oU3Xho+iXP9juDEJSEmXoQidg0HA+H7DjJXkWnLGC6PU26DcJddlgacYV5bHQ3+MVhA99RweXSDEpG6151fmvgKRzWUnkzV4R0VikhI9w/NPCkbi3wZ1e1mWPjA1ipXJqrX5A+ZBZe+G8HTUC46GnK0y2R73v5OIfrKvTKzFAewOjoRppRsz6MFXeVlkmAZrtQV/Iggh7cVXe3XjpjzBcXgYWPWPfvOslItpWyRE/UPn0UCkl2ib8XGv5ECldnPRhQHHXJauJD6Tb2HoCaIAas/Gc7TVpLTOS0mW4SYpP7O8jkmDWevEtjLTkGZQmTgwhCOxon6mtX3ZWEc+FCGwnEvJsoHCDRXHRePgrXvY2VzX+KMLisf4Xx0VV/JxmrzWXcYlpT+xfGNbftc/v8SiLLSJUExl9fxlX4HR/wsJDdNX9y4Y/selqZ5ewXJf60N4a+gtqdiA79pWMaIT1NpRgaDECbdXP4fANQ==;qCaVWzZJwbcMBUmFbtTsug=="
+secured: "EuQG7faHmayB0Qg24zyXPKi4uOM0ZCxu/V5muKSBHA4740usjEY3nLXrcB1/byDynOaWm7WST7BEnY+M6KS4IVePDMa4Nc1I8tqh2fjsnjSRXlYelnuiEsANK5Bw2YeTpK74TE1yf03oMxY01SoiLhI/bLQL80mqqqND7LZRrejwxs6xGxCDW8HgVkqUsXTDif0VfqYCjNMjYF3KloLdpfPDiaKG5uu0TzrRYEFpTyKkrxBrl8OwWLnPQqBc4ovIBaWHKuM2cAolCdBoIDdP6crJoEU3I71az3sO1tLRrV8FhRUJaYWtNjkccMQCSF7oqGqJPiXbkfraEkGSxOF3UmZxN/Eadbthy/CXr4mCOybDmkrpCle3WOMi5YvZ5S2kQrO5Rkp1voLFLKl5eFkfpat9XKcyY7NyHySgaPM3FInoBHcfueIIFo1eMYyNaFJHKQZLlwtqvppGociIXy4kPmpeey48F6+YLvZ/MohZH2u+NFbDtDej+4HLsm9LAhFVF+bJvPRmggidSWZIq+NPDw==;2MZJGNYcilanPXO8SlgbUg=="
 ---
 

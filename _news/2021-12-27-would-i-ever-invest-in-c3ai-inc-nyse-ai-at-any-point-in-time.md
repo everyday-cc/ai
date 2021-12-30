@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Why C3.ai Inc. (NYSE: AI) Should Be Included On Your Watchlist"
+    excerpt: "C3.ai Inc. (NYSE:AI)’s traded shares stood at 0.77 million during the last session. At the last check today, the stock’s price was $32.66, to imply an increase of 3.82% or $1.2 in intraday trading. The AI share’s 52-week high remains $176."
+    publishedDateTime: 2021-12-30T20:07:00Z
+    webUrl: "https://marketingsentinel.com/2021/12/30/why-c3-ai-inc-nyse-ai-should-be-included-on-your-watchlist/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "/OiE9mPv0NCyOCKALUIDMcUO3hrxRibTi5MZ1+zEpAD4x6ul479+9N/cd2nw1wCcJVhx4dsZ78YOTLJv3+xy40DikuhivyksQGRsv7bld6Qcc5zj2QQ3Lo48kgqyrPmAW79hS8c9HAijsVEezNsxmEpGGZNIUEDX6XzHMBLMNWA38G12XkAbBAvg1TUwhdk8X1SinBaqdIuip/Gh0rCzuQJgTv/M01Iqlb2TMC9p1wpOPjKXNuhMD2Pb41VkvC8I5HctHuygdUAiMR9uYQBwlweG5G6ipm7W06PcEhyiZVH3O1D7QmmFQsWcxGJ2bSTZTRniju0cbtSvThuqyd7JEz5guj4vNXrZe8OTJOVwgw0=;NbOwyqyULBa9ydZvDGm2qg=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent.md",
+      "title": "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent",
+      "excerpt": "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
       "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
       "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ...",
@@ -1379,40 +1422,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-amazons-amzn-aws-clientele-expands-with-adidas-selection.md",
-      "title": "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection",
-      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "publishedDateTime": "2021-11-23T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

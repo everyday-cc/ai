@@ -2,6 +2,91 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-20-sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai.md",
+      "title": "Sheikh Mohammed attends first-ever Arabic Language Summit at Expo 2020 Dubai",
+      "excerpt": "Dubai Ruler witnesses signing of UAE Declaration on the Arabic Language  Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, on Sunday attended the first edition of the Arabic Language Summit at Expo 2020 Dubai.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
+      "originalUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/12/19/MBR-Arabic-Language-Summit-1639923960465_17dd315caab_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
+      "publishedDateTime": "2021-12-19T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-ai-dungeons-creators-are-launching-an-experimental-ai-powered-game-platform.md",
+      "title": "AI Dungeon’s creators are launching an experimental AI-powered game platform",
+      "excerpt": "Latitude, the startup behind text game AI Dungeon, is expanding into a new artificial intelligence-powered game platform called Voyage. The company announced the closed beta on Friday, opening a waitlist for current AI Dungeon users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/ai-dungeon-e2-80-99s-creators-are-launching-an-experimental-ai-powered-game-platform/ar-AARXXRU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/bR8RES-WU9Ov-DtqUAeQnkxwJAc=/0x0:2346x1732/1400x933/filters:focal(986x679:1360x1053):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70293890/Latitude___Midieval_Problems.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch",
+      "publishedDateTime": "2021-12-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch",
+        "domain": "theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
       "title": "Teradata and Dataiku join forces to improve data analytics",
       "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
@@ -1108,109 +1193,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
-      "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
-      "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-435932/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "publishedDateTime": "2021-12-17T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-most-uk-businesses-say-data-regulations-are-stifling-ai-innovation.md",
-      "title": "Most UK businesses say data regulations are stifling AI innovation",
-      "excerpt": "A new survey , commissioned by the Centre for Data Ethics and Innovation (CDEI) , asked 1,000 UK businesses about the key barriers to trustworthy innovation in data and AI. Nearly half of the surveyed businesses (43%) stated that limited technological capabilities are preventing them from investing in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1639748270/itpro/artificial_intelligence_data_GettyImages-1305428682.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
-      "publishedDateTime": "2021-12-17T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

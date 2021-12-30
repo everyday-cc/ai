@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-
 ampWebUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 type: article
-quality: 95
-heat: 125
+quality: 97
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - Facebook AI
   - AI Ethics
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"

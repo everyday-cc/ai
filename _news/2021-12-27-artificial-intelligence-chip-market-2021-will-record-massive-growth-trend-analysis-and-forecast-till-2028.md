@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-mark
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: openpr.com
@@ -39,6 +39,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 13
+  - title: "Global Chatbot Market Forecast to Grow at a Compound Annual Growth Rate of 25% Between 2021-2026"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-30T18:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-chatbot-market-forecast-to-grow-at-a-compound-annual-growth-rate-of-25-between/article_49f6293a-42c6-5896-8c3f-313fda850c96.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "FwPmyVWAsFDilShG07UpR+oU/YwShlw8X0/yL0nyOYKKLo3MB0HVKHGiu65QpgXOwg1aORnHUgx9A+YkvvDcCzq0fCOJJo4CE9YZQgO6ZY1yl4tay7TkOwtSTURCSiP2tgOBSoE/uW15i4IOT00+qmolBiqj8nO3Yc98alF/+Nd8lasIVIE9vCMwpOJT/5Wop4NjplpbozML5AmfMg8TUVLyj1XFlhtYej4+joqz4dzcUWorcw3raNt5E88K6pSgiJpHSjufsHnyf0OZnmrvU97APpubeboZS5O/Yc98YAA8YPAken+06baSveUP6zwNFNofc0JHLGeQ3EoiB4JbWvFXs13GPE9fRz41TTtmigP03/jpWlRyuyZH0lMsML0qL9yyWfCRUyyarL17SsxrFsf8kJuFU9mW0SHGWEZ6bXupwTcL77uw6tIxJbWSeUE9qSeMKE7coKoFPEmK7wIPNmEbYxho4If/SP7sAxAp/viWa6Cb9GHRKGBpE6PKG4cpEt+LYpTNsC6RdgNNxjADeg==;jIzeZip3Hrh6uzbA7zlcPQ=="
 ---

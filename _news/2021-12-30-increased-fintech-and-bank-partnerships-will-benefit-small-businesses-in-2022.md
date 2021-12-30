@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 18
+  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
+    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
+    publishedDateTime: 2021-12-30T19:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "sl5jXAh3kivuHoUvG2lO4BfHXZCXXwlznCq3oJ6l2lnKDrK1Orz38eQ8skqSqnzgk9aAUQ5pfPx/2PqpDMbpyeBurVL2Hn267jcTQeOYZJU2fGsWoGGNK7TUOzkvdwd/51rwgH8RobjiQokel/HX4cqy8SqSn7xayzBDJO53i93kkuZK/Lic5yQkVHKq3D9T18F3AtRw+JZ/g7+3tPfHimUUzwXrFcNxIDQscs7+sCuzAhGb/iRdSTCSvxZAKdS2k0dLzfNelk/UMme3/rKNzBaYfpFjFQZiRPgRqQmStzKj/uge3SLJxsl7drvsGr9iusJV6ka6H1tm5013k6ykZhjN7eWrNrvzHVBSDaKWLohPIm0ZPLmq1+1xbQDtiK/GDUAlmTvFPSyuL64UiVYvE/niACcKANYK0Qbj1F/QTz04x/P4vS7jtur7S4MTR+6irXlRyHkgMgDOX99lEQs/TuyeJ8cMwnP2foNAb3NOD6ItE3+NSfB7/WBCrtMh4cu6PkzOP5WelqfkZHEiwY2W9w==;c3ojO7ilUdqvDQMl9P4LZg=="
 ---

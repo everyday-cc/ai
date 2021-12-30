@@ -37,6 +37,15 @@ related:
         width: 737
         height: 737
         isCached: true
+  - title: "Global Chatbot Market Forecast to Grow at a Compound Annual Growth Rate of 25% Between 2021-2026"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-30T18:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-chatbot-market-forecast-to-grow-at-a-compound-annual-growth-rate-of-25-between/article_49f6293a-42c6-5896-8c3f-313fda850c96.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "3hzn4hy0+WgBEwmJekcI97s7fEIJBYeehlvLkB8tMmdOGiihyrvY/CRgBmoWv+H954Nw8qO4EhneTh9EiYsc8U2baaCY0j9E4+wJ4C2JvRod3Ea3T8wRBmBKUbel7a+f71PTvSBu/SJCsbGkDtGK2vl+F5KAXNFrqbMzitvoOhL8vrIfeFei8y5vkookDa76/qf5oLScaXbpRIzoxm8Y5ucGNlJbPVCcuDuof18F5iMeU+klutEKw9SGYlIublYLSaQ3kIj/rlxrJT+OO4H9gV1sRStF3uKEMKDIlwO7lYz86fUgkzmZV9M5s9NMNt+SS2zsvKZJPOGEJe57yj4TkKVp6KCpqElpzaHBjILYYHc=;QKkvg/OI3SobC7PKKDCnIw=="
 ---

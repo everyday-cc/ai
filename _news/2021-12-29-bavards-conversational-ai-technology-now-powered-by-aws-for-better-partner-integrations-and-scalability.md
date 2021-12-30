@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12670"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO Forum on AI and Education engages international partners to ensure AI as a common good for education"
-    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
-    publishedDateTime: 2021-12-26T07:40:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 58
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "Cantaloupe Enhances Seed™ With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
     excerpt: "Cantaloupe integrates Seed™ with artificial intelligence (AI) and machine learning (ML) through a partnership with HIVERY, a data-science company."
     publishedDateTime: 2021-12-30T13:15:00Z

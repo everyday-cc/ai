@@ -2,6 +2,138 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-12-boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do.md",
+      "title": "Boffins unveil artificial intelligence that thinks just like we do",
+      "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "originalUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zVspGAPHrMjv8jn8sGkvPC-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
+      "publishedDateTime": "2021-12-11T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-12-deepmind-ai-tackles-valuable-chemistry-technique.md",
+      "title": "DeepMind AI Tackles Valuable Chemistry Technique",
+      "excerpt": "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it. The approach, described in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html#!",
+      "originalUrl": "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
+      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
+      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
+          "width": 777,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "publishedDateTime": "2021-12-11T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
       "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
       "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
@@ -1027,144 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
-      "title": "AI models microprocessor performance in real-time",
-      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
-      "publishedDateTime": "2021-12-10T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-deepminds-latest-ai-shines-light-on-dark-room-of-molecules.md",
-      "title": "DeepMind’s latest AI shines light on dark room of molecules",
-      "excerpt": "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas a run for their money. In its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F004fe298-591b-11ec-81f2-17f963b74220.jpg?crop=3680%2C2070%2C92%2C107&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
-      "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
-      "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFGbqD-W-beWg/article-cover_image-shrink_720_1280/0/1639149288885?e=1644451200&v=beta&t=vzFW9gR1npGI2BZMf1nn2k59xwGNGLFN8bjMjCsCxvE",
-          "width": 969,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

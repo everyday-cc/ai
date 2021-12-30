@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
+      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
+      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
+      "publishedDateTime": "2021-12-10T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
       "title": "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling",
       "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
@@ -1365,50 +1418,6 @@
       "provider": {
         "name": "Daily Sun",
         "domain": "daily-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
-      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
-          "width": 740,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bna.bh",
-        "domain": "www.bna.bh",
         "images": null,
         "publishers": null,
         "authors": null

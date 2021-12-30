@@ -39,6 +39,22 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "2021 Year in Review: Google Quantum AI"
+    excerpt: "Google’s Quantum AI team has had a productive 2021. Despite ongoing global challenges, we’ve made significant progress in our effort to build a fully error-corrected quantum computer, working towards our next hardware milestone of building an error-corrected quantum bit (qubit) prototype. At the same"
+    publishedDateTime: 2021-12-30T18:00:00Z
+    webUrl: "https://blog.google/technology/research/2021-year-review-google-quantum-ai/"
+    ampWebUrl: "https://blog.google/technology/research/2021-year-review-google-quantum-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg"
+        width: 1300
+        height: 531
+        isCached: true
   - title: "Book review: The Age of AI - And Our Human Future"
     excerpt: "A book with a fairly unappealing cover came up in my Amazon Kindle recommendations. What drew me was the name of one of the authors: Henry Kissinger."
     publishedDateTime: 2021-12-26T07:13:00Z

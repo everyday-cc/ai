@@ -35,22 +35,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "UNESCO Forum on AI and Education engages international partners to ensure AI as a common good for education"
-    excerpt: "Under the theme “Ensuring AI as a Common Good to Transform Education”, the 2021 International Forum on Artificial Intelligence (AI) and Education convened policy-makers and practitioners from around the world on 7 and 8 December 2021."
-    publishedDateTime: 2021-12-26T07:40:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-forum-on-ai-and-education-engages-international-partners-to-ensure-ai-as-a-common-good-for-education/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 58
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "Cantaloupe Enhances Seed(TM) With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
     excerpt: "Technology Offering Will Enhance Machine Merchandising Decisions for use with Seed Pro and Office, Helping Operators Drive Improved Vending Machine Performance. Cantaloupe, Inc. ("
     publishedDateTime: 2021-12-30T13:22:00Z

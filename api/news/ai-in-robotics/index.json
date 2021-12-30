@@ -777,6 +777,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
+      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
+      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
+          "width": 737,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "publishedDateTime": "2021-12-26T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
       "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
       "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
@@ -1301,49 +1345,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
-      "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
-      "excerpt": "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
-      "originalUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/un-fails-to-agree-on-k.jpg",
-          "width": 1000,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-killer-robot-nations-billions-autonomous.amp",
-      "publishedDateTime": "2021-12-21T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

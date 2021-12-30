@@ -154,6 +154,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 18
+  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
+    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
+    publishedDateTime: 2021-12-30T19:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "jlA35ob0ZS9pB4IYHUDKVL9CZLhzdZTQX5H+iEkdLvFG45HBgZSzJSkhd9LPVrcODYoGpvkmeYNtrbFfYtXIUPz9g7V/iUEM5iKBMhODTK8Qv/HAAvq4vLQGBqFzA6Yha9Yic5xMfXOqI+K1C7XK5lZ1i7ocgE0umqTfkO6IBksNIHbCRoHshcw+sQyjrOs2XczgeUbvof0YsYdrUYwMTPRcbQASK7pYJSu3A/rM/WnmE3SVd9lHXi8mDqn046VErYR8HgjzzRflNzbn4GehFEvyBV1vJVgPBhCpkV34IarvA782qeTAjhEc7/o0SN2rZofu/UMICDJBKKsQ9oz/ZZ6KCsBwvqGW+04AEAs0/i2IBMTlsAADdVWNUQRT2IEqegaOCpIBodAYlez5JBBUk/tvN/IJSTh8z3LhIFG9uf4ZvWBYIB+wXX+gk+R635qPJUsdEi+Z6MagHXr5RVS585em/jyUCyx6XhAz4QDGQuL7hSqCxdeVUonZvSm4fD4qEoW2uUYYYFVtlHiRWLLbSg==;hCHHGXwZkeyK3L0sEYiNjw=="
 ---

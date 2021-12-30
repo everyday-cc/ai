@@ -2,6 +2,154 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-06-aws-launches-a-free-tool-to-create-machine-learning-projects.md",
+      "title": "AWS Launches a Free Tool to Create Machine Learning Projects",
+      "excerpt": "Invent conference a free service to instruct users on machine learning techniques and experiment with the technology. According to AWS, SageMaker Studio Lab provides students with all the basics to create data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/",
+      "originalUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2021/12/awsmachinelearning.jpg",
+          "width": 860,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/aws-launches-a-free-tool-to-create-machine-learning-projects/amp/",
+      "publishedDateTime": "2021-12-06T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
+      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
+      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "publishedDateTime": "2021-12-06T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-how-ai-solutions-can-improve-the-travel-and-hotel-booking-experience.md",
+      "title": "How AI Solutions Can Improve the Travel and Hotel Booking Experience",
+      "excerpt": "User data paired with carefully tuned algorithms can create a personalized and deeply intuitive experience for every customer -- one that is fast, simple and constantly improving over time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/399816",
+      "originalUrl": "https://www.entrepreneur.com/article/399816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1638471491-shutterstock-1494850982.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-using-ai-to-translate-old-code-and-fix-aging-computer-systems.md",
       "title": "Using AI to translate old code and fix aging computer systems",
       "excerpt": "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild.",
@@ -1045,144 +1193,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-new-approach-to-covid-19-immune-profiling-using-blood-based-machine-learning.md",
-      "title": "New approach to COVID-19 immune profiling using blood-based machine learning",
-      "excerpt": "A new study discusses the application of a novel deconvolution model AImmune to predict moderate and severe cases of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/12/shutterstock_1722032125.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
-      "publishedDateTime": "2021-12-05T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-artificial-intelligence-has-probably-already-made-decisions-about-you-heres-why-that-matters.md",
-      "title": "Artificial intelligence has probably already made decisions about you. Here's why that matters",
-      "excerpt": "Artificial intelligence has probably already ... Most people often only pay attention to exciting new uses of AI, like the \"neural network\" that creates bizarre artworks prompted by key words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2021-11-30/why-you-should-care-about-artificial-intelligence/100591684",
-      "originalUrl": "https://www.abc.net.au/news/2021-11-30/why-you-should-care-about-artificial-intelligence/100591684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/f91475c2c0766446c49d5b3731c62265?impolicy=wcms_crop_resize&cropH=320&cropW=480&xPos=0&yPos=108&width=862&height=575",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/100591684",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100591684",
-      "publishedDateTime": "2021-12-05T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport.md",
-      "title": "NSW Transport and Cisco to run AI and IoT trials to ease congestion on public transport",
-      "excerpt": "Several buses, ferries, and light rail services in Sydney and Newcastle will used to investigate how a real-time view of those services can guide improvement for reliability, future network decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3ffd711b93de229e359891faad7acb725504b6da/2021/12/05/b170e8c3-af13-4f1c-8b3a-0bbc82cf115c/ai-congestion.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
-      "publishedDateTime": "2021-12-05T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -28,40 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability"
-    excerpt: "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),"
-    publishedDateTime: 2021-12-29T06:31:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12670"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12670"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670"
+  - title: "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions"
+    excerpt: "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,"
+    publishedDateTime: 2021-12-30T19:07:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg"
-        width: 350
-        height: 215
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c769fb6adcbcb70b55465d%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Cantaloupe Enhances Seed™ With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
-    excerpt: "Cantaloupe integrates Seed™ with artificial intelligence (AI) and machine learning (ML) through a partnership with HIVERY, a data-science company."
-    publishedDateTime: 2021-12-30T13:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211230005013/en/Cantaloupe-Enhances-Seed™-With-Artificial-Intelligence-AI-and-Machine-Learning-ML-Integrations-Through-Partnership-With-HIVERY"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-  - title: "Cantaloupe Enhances Seed(TM) With Artificial Intelligence (AI) and Machine Learning (ML) Integrations Through Partnership With HIVERY"
-    excerpt: "Technology Offering Will Enhance Machine Merchandising Decisions for use with Seed Pro and Office, Helping Operators Drive Improved Vending Machine Performance. Cantaloupe, Inc. ("
-    publishedDateTime: 2021-12-30T13:22:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/30/cantaloupe-enhances-seed-tm-with-artificial-intelligence-ai-and-machine-learning"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 33
 
 secured: "/dyYf2gIeLqWzjkaSo8ZSQiqDinPeDOK7ON7X7Q+xmCrUX3BMcVFMbMgGx2m8v9Hi645q18c/F5QBNdsUpqjijGWEEGg20ySZ3ZWow4mxwhiYbu1QYIui/jBNHrC8eIcOTBzgGr165FCFZEQXb878IQ4JmGbxXzIgqgOt30pIsK/CuMX4h9AJ7aYIiZf3WcXgaJyX+fr48bl2eix15LUkkNLvFpZ4Y6jna6tIBecBD3r/KKkbGJuZtjaw0hymOt5DW5Q74LfNfqArvcSqa9QnybWmLOIelGJXxuVqC+jGGfeieAwLOwYPSQ0XiIQVLAjPvPXPnCPBOpSzjUFP7wMs96cTK5Moqs4eQderffaARM=;rlYDh+OTPNwJ1aKEHkuyWw=="
 ---

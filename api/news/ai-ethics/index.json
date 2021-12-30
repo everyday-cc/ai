@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-31-unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions.md",
+      "title": "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions",
+      "excerpt": "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c769fb6adcbcb70b55465d%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
+      "publishedDateTime": "2021-12-30T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-ethical-ai-a-perfect-world-or-a-perfect-storm-blog-1-of-2.md",
       "title": "Ethical AI : A Perfect World Or A Perfect Storm Blog 1 Of 2.",
       "excerpt": "This blog is one of two discussing Ethical AI offering perspectives of a Perfect World or a Perfect Storm or the AI Dilemma that leader must navigate forward to use AI practices effectively, and efficiently.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,8 @@
         "AI",
         "Facebook AI",
         "AI Ethics",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1404,59 +1457,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
-      "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
-      "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/",
-      "publishedDateTime": "2021-12-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

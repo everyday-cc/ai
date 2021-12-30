@@ -153,6 +153,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
+    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
+    publishedDateTime: 2021-12-30T19:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "r7JMXg6O4o6JFiXort1/kq6DyoJuCjaGDDXo0CC7Ukq4wRfYhxRVx8x88wTQDeuJlbv4rn47i2vAqGV/xkcT1+zuPX1gukz1hnspdB+/EyeY90C9yHtJJT62U3IkwIKDvY/JAQsUyDQd9N8HIrtCYen8ebPvEXckNiBrn12xwxQW1oGRM0A032QAAq/SIWM4kWdnVgU9heMLPp770DQ41sHdok+7ZcoZXOo5kdNKKMMxMhPDYwwzfpfbremxVycgXWEh5yKVWIlWg1a68Waxrz0WkQwdYFwWtQ6mdExvarSbriUqwLm4AU6veSPcNja7kVvKaUFcGcbZgbDXq/RGvu1cyEZXldhvR3KpPiBw3Ss=;IPAVe5iv9w6CeT/CH/V1qQ=="
 ---
