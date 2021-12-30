@@ -3,8 +3,8 @@ category: news
 title: "Facial Recognition Systems Regulation: Outlook for 2022"
 excerpt: "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,"
 publishedDateTime: 2021-12-23T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/facial-recognition-systems-regulation-outlook-for-2022"
-webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/facial-recognition-systems-regulation-outlook-for-2022"
+originalUrl: "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022"
+webUrl: "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 369
     isCached: true
 
-secured: "TQPKrRRkF/G2aX4jUI0ZpEkQ3xVPQoXThBFIRWU27aPr84dqgLRmTg33lSlOQexX6XSNQA3u9ttAG8LTUHIYawQZXuOrXDS5XHJpGEvrmJtc0FfooVg6/68bZtJdfA2AaDwgo/QjVv6kigJo6Seb7ujG9/O4qqQ+LNttY5HRZ5B3ZPb+tcIBPNJaJ45z1SxSz6iP07WK4QUGpW7k8/ncua2x5JSdL0QasfBTywk+ve3I2phOHsszDCNa3Nz++bXE5b3xxpT0bTNyUXC4gG7akmJtTDBOYloHywUOjK1P7gRwFXysXcB4FowvX2Rn2YCtqL5zitEJbUiXl/Ena7aScQXz+uiLw2KRBIM9bDGNvlI=;paB3uCUfhSrB7GSjNmsiTQ=="
+secured: "yFZ3PUPzYtBkQldvI1e18ivFJJ0naKLJpL7sGkwlw8l7laa1e4T4TjXW2cGFmjEJxJ3CNaOm+1b7y0TLB4m9jhAwe2OJ6Ap7UJ/9RKnmM76eSQutxUPkBMUmxOOWTifN02HJgIHWp5fWknZisaomZRlu6VvZh30BnTibPxWJIggQ1OFSc+iCPvKQQS95+jkM6FBTQgP/uF1RQFeT9ca78YHz0Nj3KzF71pRCw3ALsZ4PVnv/ZnAMj5lIOg98Dmlt0aFDdVPvSrnGeOtrWDXIkUBV5qVoBttjI78WwB8JeIXckeutrZfXutCbGVhLnU4JpbKUV/TN4cTyRbb7aplCrcBSJ1HPcNLjhj9ShObWf4A=;RK9JlR9l9KO4pVyCND+5+Q=="
 ---
 

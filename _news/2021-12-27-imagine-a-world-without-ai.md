@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "About AI, kids and robots in a store"
-    excerpt: "\"Instead of piecemealing technology solutions together, we’re seeing retailers leverage machine learning and A.I."
-    publishedDateTime: 2021-12-25T08:03:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-kids-robots-store-phil-jeudy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHw8BlUz-MkKg/article-cover_image-shrink_720_1280/0/1640344867429?e=1645660800&v=beta&t=ZfFqxOPUoz-AR-j6sLtqX6eNC3CDtG9WDu720a6eKiI"
-        width: 540
-        height: 720
-        isCached: true
   - title: "AI and wine – a riposte"
     excerpt: "Alder Yarrow’s article on AI and wine is spot on in terms of the current state of AI and wine, but gloomily off-target regarding its consumer-facing future. It is absolutely true that ‘most, if not all,"
     publishedDateTime: 2021-12-27T09:14:00Z
