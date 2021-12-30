@@ -85,20 +85,6 @@ related:
         width: 2570
         height: 1446
         isCached: true
-  - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
-    excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
-    publishedDateTime: 2021-12-25T13:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/metakings-worlds-first-action-based-artificial-metaverse-mhatre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF9vHcEl3do0A/article-cover_image-shrink_600_2000/0/1640354403686?e=1645660800&v=beta&t=Xg8SLsMsVd6xtphhTtFLosWGA6DRu5_wH1RiAYIobiM"
-        width: 826
-        height: 400
-        isCached: true
 
 secured: "BfbE4l0HsJ4M26/BtIa6UJWnuLgmYArUKEIA1/jyalulxDs2ykzt8CJ5jnATNgMC+FrFSV+utvyHETYJg0OECUjj/h1wTUwKsNzABUyQcKZyoLlqNg9HQkgAuNar8WUWKPunKCBaLuy1FCs2c+S9am1dMZMAsuGFtxihRhZ8cB/Z5qUxA/d2v3MwnSH050rP6ac0QpEdxPLSeNHthtAlELoZOlI52/z9oCYx3z1O30UxS8aPCUErZpfkmyXmITfSTxuQKw9ULHiy1f/RbZOR6Ni+OBERuPu7JCE0sF+aY5M5qRXBCisoVFv88pj4xN4quoI2677RfaYaL0O4v+nm48Lun2qY/yFkrahNZXTp1bUWolwq+bBtCNsZSuqQbNRfT6PXOrWv58ZVPdRoZzbvu0aQCLxNnUF2d++Wf0L2e9u72h3PJ6C8EULEKjyzFQpCvlUdmILwLunB6+JNWhbz96v9sa4S0jogxKJ1s9D/oY3wI+Z5mSYiz6VinHzFEsljpmGenKRHjIahNqdVNHx5JQ==;yLUoRTubIuRqq0+i2TzGRQ=="
 ---

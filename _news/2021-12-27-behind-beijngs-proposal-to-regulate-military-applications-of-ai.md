@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "China trying to misuse civilian data for military purposes through Artificial Intelligence"
-    excerpt: "In an effort to misuse civilian data for military purposes China proposes to regulate applications of artificial intelligence capable of transforming the inter"
-    publishedDateTime: 2021-12-29T18:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272056298/china-trying-to-misuse-civilian-data-for-military-purposes-through-artificial-intelligence"
+    excerpt: "In an effort to misuse civilian data for military purposes, China proposes to regulate applications of artificial intelligence capable of transforming the international security paradigm. For dual-use technology like AI,"
+    publishedDateTime: 2021-12-30T05:50:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20211229/3882607.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 27
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1640802399.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
 
 secured: "BL3Yxf0fuPHOIZb+HIMsTe6oJEbQJhGXOtkRKmD6jb5DXclVy4KAOgGHpw0X504vwNtgQ73h40ePGJ3Ei3JOC0cKQ5NZrBNeGjGOZTz0mHOE/5kMUHolF0bO+U53/vZ9Jz+4vkc8gLB6DiJdfHohdcsl08Q//iWAn5GsQijI05/bG2jL3ekk2edlEzJTN7a1zMXSCO1iLTbwRGldq4D/PvtIOl1h665bITsFs0I0iB0Br+IYCwyV1lbdr+gBPX5cxxa12wKE2AITAARlelzSwVI+BvvQCalpX7liwnilSN50M5r7LpGDkGAtORhNKdvhlsQQ1zaMS/XATTQefeR7YlFZlGOKHkLOptIFN39w9Mg=;or2L/8T2MEaCvp1QaaqXqg=="
 ---

@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
-publishedDateTime: 2021-12-29T15:30:00Z
-originalUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
-webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
+title: "Army sets up quantum computing lab, AI centre at engineering institute in Mhow"
+excerpt: "The Army, with support from the National Security Council Secretariat (NSCS), has recently established the Quantum Lab at Military College of Telecommunication Engineering, Mhow."
+publishedDateTime: 2021-12-30T06:51:00Z
+originalUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/"
+webUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/"
+ampWebUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/lite/"
 type: article
-quality: 17
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
+
+images:
+  - url: "https://images.indianexpress.com/2021/12/121257616_1463952743801350_5250601954422732362_n.jpg"
+    width: 1200
+    height: 667
+    isCached: true
 
 related:
   - title: "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here"
@@ -34,22 +42,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Army sets up quantum computing lab, AI centre at engineering institute in Mhow"
-    excerpt: "The Army, with support from the National Security Council Secretariat (NSCS), has recently established the Quantum Lab at Military College of Telecommunication Engineering, Mhow."
-    publishedDateTime: 2021-12-30T06:51:00Z
-    webUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/"
-    ampWebUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 53
-    images:
-      - url: "https://images.indianexpress.com/2021/12/121257616_1463952743801350_5250601954422732362_n.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Indian Army sets up New Quantum Computing Lab, artificial intelligence centre in MP’s Mhow"
     excerpt: "A Quantum computing laboratory and a centre for artificial intelligence at a military engineering institute in Mhow, Madhya Pradesh will carry out"
     publishedDateTime: 2021-12-30T06:10:00Z
@@ -66,7 +58,16 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
+    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
+    publishedDateTime: 2021-12-29T15:30:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "W7FhoquYWoWREEzeJj0iZLCKbSETX8tyVHd+9Ana4auj1P4JS8wDWsh7gVO1GCskw/kLdwbdmyqIe3sqDvSTQO7ekt7+wep8W+Ah97uhC6asBEEDWESCev9Ny7OYUEobmLKrWfvg2UjRWap2UPF0R50sL4E480FMMW4WnNrsCxLXA+CPK6uUIZX1cV8h2n3Vv6iVAoapfSO0Vw3zR03I2FOho1Q6+tAmfwJdOqwWW1P7iJ6fZk2oHDsGiC0LgH2xUYn+CB90sPDQJPZKMzSC3yyhFo5WPEg3eCJb9EzQdU9zPakmBFlz4WtNDPR+baqdZ2LucHGxzT0XW6Br7ZgeWKDwfRCjzuX3VsCt/31XAHo=;+AdHxK2xoLOfSHMQ4N7k6g=="
+secured: "/NnnpHuZRZRJhcp1haIGYIniHY8oTriybqy9vK3BTEOnhoJuY5PesdnYEkWks9yZmYnR4uipmbF6vP1zgNICBWq8pNbAMopwx+0pZ8N9wRyIS4F4o/QxCdTjfRz8joRjLG+UCRktPpuwl1gkiL8mLvo6VSVa/RCvejd4lgx6XGEHmufa6ii0KvfPC/O2LnOuKISnEYKlG1wi+zfJPfquYaxr8VRlBA0hnubKi1Xz0as2xeKY5+THrXsb21OvMhXVOluFB3lLt5Ka39to+8lVj6ZAdb6tnE02fAKmEgY7xg4rjnWBCVuBu0yqvxcyZ/l2zsxiMAOtIYsmPd7/cr8pQw8rUgJaxSkkrRCfNeHM+sQ=;TFx81umfQ7xLNyxFRbuIrA=="
 ---
 

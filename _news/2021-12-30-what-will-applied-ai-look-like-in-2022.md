@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in-2022/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

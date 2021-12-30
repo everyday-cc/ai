@@ -1,27 +1,21 @@
 ---
 category: news
 title: "China trying to misuse civilian data for military purposes through Artificial Intelligence"
-excerpt: "In an effort to misuse civilian data for military purposes China proposes to regulate applications of artificial intelligence capable of transforming the inter"
-publishedDateTime: 2021-12-29T18:26:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272056298/china-trying-to-misuse-civilian-data-for-military-purposes-through-artificial-intelligence"
-webUrl: "https://www.bignewsnetwork.com/news/272056298/china-trying-to-misuse-civilian-data-for-military-purposes-through-artificial-intelligence"
+excerpt: "In an effort to misuse civilian data for military purposes, China proposes to regulate applications of artificial intelligence capable of transforming the international security paradigm. For dual-use technology like AI,"
+publishedDateTime: 2021-12-30T05:50:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20211229/3882607.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20211229/3882607.html"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1640802399.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Behind Beijng's proposal to regulate military applications of AI"
@@ -39,6 +33,6 @@ related:
         height: 534
         isCached: true
 
-secured: "7owehzIHCA2jce2vEPiuiy8KivXVoa13+Md0uPblqqUnEy0C5kkoigGp//O9xKWDzkjzz/8r5kIbP6HtwHiGCB45QaWTu56o+BCYHBJz3z7sUwy1jFycF9ax/XgFi0fj/RGp4rzQnVtxDAkwoH6pJyTtCBPmDa+i6eikfAotWBvyzY1k+wLqME0vGJ2VkY75ZroOjN50ULSpHrl+axMZ7MtiW/Gwg8uXH11kn2S90CH4bo+aJ0UA6RzvFChwEi0o7NRrF1LbjusOpkQTEvBugekiHiIeNaryoTaW41Q306a+bNMEiA2Pw0Y0sJuOC4OUyvOuRmyUzGiCC5XneLx25COa76wpUQuDcchUyo0O6mQ=;c7qabbwmfq5C12W89U/GFg=="
+secured: "gbPAG76XL9dwzkftaaagegZqqAwQUlfgZYEDrCtj1JoVccq2jcfLeOytimPP10/7EfomMYlO2D02OEcy2GbyqHpMlkxTE+xOyKst79aFmnbSx4evMdV7rApEorjrqtyPw+9rDJqKuzn43f8mZH1IN73UqRP+g2PlikDAT0jh9ZmuPoQH4XZAmG5CPcBLDBFQ0fHLyQfPS7G87ZcGf6xex2/XdLmFEwA3o0XcVzW68yiy4Xi+Es+HBPEJg5pIjuXVQXTJ4VvIv5Ze0118NYU9zKLWb9xp88sbXJFRsu8x1Y2u7YmL2oPo6+NlndEtKnwEYiaBvn2kqSSS9OMUciC1g93N6q159qgARfh5QKDQacY=;lpnW855TT0VKHOF2D5IJ3w=="
 ---
 

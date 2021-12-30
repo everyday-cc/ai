@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
-publishedDateTime: 2021-12-29T15:30:00Z
-originalUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
-webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
+title: "Indian Army sets up New Quantum Computing Lab, artificial intelligence centre in MP’s Mhow"
+excerpt: "A Quantum computing laboratory and a centre for artificial intelligence at a military engineering institute in Mhow, Madhya Pradesh will carry out"
+publishedDateTime: 2021-12-30T06:10:00Z
+originalUrl: "https://www.jagranjosh.com/current-affairs/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
+webUrl: "https://www.jagranjosh.com/current-affairs/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
+ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
+cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
 type: article
-quality: 17
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Rojgar Samachar
+  domain: jagranjosh.com
 
 topics:
   - AI
+
+images:
+  - url: "https://img.jagranjosh.com/images/2021/December/30122021/Qunatum_Lab.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here"
@@ -50,23 +58,16 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Indian Army sets up New Quantum Computing Lab, artificial intelligence centre in MP’s Mhow"
-    excerpt: "A Quantum computing laboratory and a centre for artificial intelligence at a military engineering institute in Mhow, Madhya Pradesh will carry out"
-    publishedDateTime: 2021-12-30T06:10:00Z
-    webUrl: "https://www.jagranjosh.com/current-affairs/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
-    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mps-mhow-1640844738-1"
+  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
+    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
+    publishedDateTime: 2021-12-29T15:30:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
     type: article
     provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 47
-    images:
-      - url: "https://img.jagranjosh.com/images/2021/December/30122021/Qunatum_Lab.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "W7FhoquYWoWREEzeJj0iZLCKbSETX8tyVHd+9Ana4auj1P4JS8wDWsh7gVO1GCskw/kLdwbdmyqIe3sqDvSTQO7ekt7+wep8W+Ah97uhC6asBEEDWESCev9Ny7OYUEobmLKrWfvg2UjRWap2UPF0R50sL4E480FMMW4WnNrsCxLXA+CPK6uUIZX1cV8h2n3Vv6iVAoapfSO0Vw3zR03I2FOho1Q6+tAmfwJdOqwWW1P7iJ6fZk2oHDsGiC0LgH2xUYn+CB90sPDQJPZKMzSC3yyhFo5WPEg3eCJb9EzQdU9zPakmBFlz4WtNDPR+baqdZ2LucHGxzT0XW6Br7ZgeWKDwfRCjzuX3VsCt/31XAHo=;+AdHxK2xoLOfSHMQ4N7k6g=="
+secured: "SRCFWClQvpEcq7XNlWvmrKE4MJDaeY2I/Bjj/nNK4ciypig49oIlw3P11AkyPZo1Qj8EwDsIwCq7X01VKrM6B+ty7/KW5NktySRJe5/InsH+awT08BSlLGwn6fjzmcv5Lap7eI1IRwXmPqRe6W1x5/4A++20AWDNvJYbP6siO/1zu/zlW7snSTT3zRP/PNifsKJJnVJkUzeqWlk9YhHAZrbFSD1/S+QW60T/mVOgCLlngp44qSjnG20+nZHaBiRCNE1T5yxhCIFkycjw5yPOYRMKnmjeqn9vwoNbXT8gn1/LfB7WlYV5g8VvW+UksmoGad4gNnL2g0RyBdBj2etOneunodW1M5W+LvuaJCIwLsM=;rYjTICERyttIkYgijCzA6A=="
 ---
 

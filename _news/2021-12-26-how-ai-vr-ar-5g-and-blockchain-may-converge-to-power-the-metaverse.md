@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
         width: 2570
         height: 1446
-        isCached: true
-  - title: "Metakings - World's First Action-Based Artificial Intelligence Metaverse Game"
-    excerpt: "Overview Online gaming has undoubtedly become a phenomenon that can no longer be ignored. Millions of people across the world play a variety of games – some professionally, some casually."
-    publishedDateTime: 2021-12-25T13:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/metakings-worlds-first-action-based-artificial-metaverse-mhatre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF9vHcEl3do0A/article-cover_image-shrink_600_2000/0/1640354403686?e=1645660800&v=beta&t=Xg8SLsMsVd6xtphhTtFLosWGA6DRu5_wH1RiAYIobiM"
-        width: 826
-        height: 400
         isCached: true
 
 secured: "6vuzBru722h4GMFBqsdWuBBqh3WchQGbayBv2ko43I6eQDYFc/ty63tzFJ5WAYE6nnWuCX6PCoWRMINtTj4va7mwodxMRW7ndFXmw2j+8KBHdGon7RXcoDBdj3IUix2Y6FHDwAzDdB5NIdauQbhI7v+V9q/X65KLLy6ocqoITfMmN2WJsWlPdcIbF3G1/7B51s3bq0BFUgxOonSwQdadi0HS8OFVaX3USY7lBnk4vTdTvmMI4uu/Ht/yNJvNYZ5/tKfHsLjo+rUHXQ2AzId+Bae3/XemsLDiyPp+VAztNA8o4E1LefGkSaunLpz35iRsKzOWTOlKhHXjdyHu/9TMrQrLjFycblokBE/3ANBkHv/cy/PHwUC9jY83OycjWUYEct1zBkqkcHZN6wZ76KZXlRDJVKCQHmxDgbxgju1a6J+Nm7Z3EFU2SJaRfyAWu3K/+Yu9dWxZbauT4pGd08xZ3Nkg4xXO5/AM3hjUj/1WjflnfaSh3EZPNohRGgiwe9hkvb1SPgOWLcZWU3F7b4v1EQ==;PQcu3Y3+UyZEfle/Ws+0pg=="
