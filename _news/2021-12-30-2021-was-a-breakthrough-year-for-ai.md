@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/
 ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 112
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all"
@@ -62,6 +63,6 @@ related:
         height: 800
         isCached: true
 
-secured: "QO+twNJ5zpzXw8EdZF1Oud/zZucZ3Yp0i0DgRIKaTHD4+EjMOI2jKMHVVcacQ+swu37ZBbSaudOCM1CKGap1YHbQzdn0+boqk24wFwVxtnK7RGIGEHhPsmktBk8MDLVh1k9Ec1IICOnldIYth0Zdn5eqEQWBfU3hCzObNPzvTGmD4rpZxyWDLlytI9obXm4xRWPU7jfZDnEUz0pPmre/BJXgMph93MY6xeCMjBN1YuC33rE3fBxaMHthYbYcXFieU6cj4ocZdgx+NSjsFn4AhIsl2xbBDxltIHNfMQpCJpQ9LjwvsXI0+pDBqOcwzNg1K1rLjiGOTu0sbGa/OrIUG0pimNb2MxZxPsQYxCO5+kA=;bv42cOFvDjaPmpZKUwUhKA=="
+secured: "xlPCwVLroVtVecDrVgPLga1efihtdoGexYIMWlxDk/mlQh73NW0xOSjWqFt5f0yC9Uza5XNby+0n02ZL2fedS6Q2LUkOw6zhzFfR2rxpoVYQ84k9Jifva8Ya3kVcpNiF3B9Jf17wGjxJZlsDo00wbmcyTQD6EghJPw8igCwGmLfad//gZWbe5dGtkG0t60p4hPdH/9D6J5g43FU4swY98tokvnLHwkwqDgqPc404+Q6lFyKHG1F99dnEKaCviKprfUdF5kTOhWZbEcU0p5mxHGyPxQlk6VLt648tw4NjcZU6Gdj4/0Xu7VP19yYtBrLKaFAVL3yMUI3iWxlznXCc/JodtEk1SXNh/d2efkNTMsu4u9WdY+R2bditREs4IciladEunOSvtmAEVT+TJD7KJVy9wuRsZxkDwAh5hgvMDTHs4gw1JQQVelByb0UTQ0bDdxDdKX78UDAn3S5hCLm0r9KAYX+5EYF5GiKE+pfq7GJbIKEQ/GZjEVM+cdju+FSJE/QIL2CSh0ux0DNjsNKqkg==;Hbxv+VhJ8l6/XAYsOCPwWw=="
 ---
 

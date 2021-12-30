@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all"
         width: 1200
@@ -57,6 +57,6 @@ related:
         height: 675
         isCached: true
 
-secured: "L41oSpW6gv/5swji2gA90s5xrTx0iy9c5P+qnvKK50iEYtCL5A3t9H6KbGqG2WwjmSnXSUXWISsXIT4yjh42RFmHqjMoUgZIySfkOIWXehMk9jMcggll3ihUqGrbgfjTkbneO+DDG5d723w8vsZD9NdMrLEKEc3rwkfDvAUrwuQfXeUJt3AoqXwmblavQ4rT+GhrRQTEUDPeoxDO6jAAvfGHIqfUTZA7C2CQbZ56VAp/DhK7mAcIVG4C9MqF4RQhnShHJ7aFYSKPIfjDvbPAB5Jfv6zaaupG0bKBMHkMm1kaJEFDOmqXHeU/XDf4mntkaM1JsIUoQQ9JhVHXJ51FFPKoIqFgR0BjlOrWcP0+9jg=;K6uVwaZ0hKT4rF7eIXT0rg=="
+secured: "V3Ot8n1S3UWx3JvOXF7VhmnxfBYrRZpIYSFuYyMQhK5hJv6VDviRrpK9PuMUe28XNeuewRbNg7PScoQT3a3ZMIlzhhIi3T/Q9J30UqPwe63NpaoCj1AZVm0CcnhK/n/tJeL6MLD6SiN13zpez1j5hzghVf2ZKU/50240221srfPQSVoWh1/N3OdWpKIp6WtAjKZyiirkvYxfnpkD+d3l+8KtyMZvMJYwpeIybGfcLbYpjwMtmHDkpswEFYHwfmPybMEIAJF9QSOlmUIajJ2BBdogpRtzgSpIzEP9bAzzxA0FsMreigzmSD8LWlphbaukJcSxXK9B/pD2mi9ZnHkbdO7wn9jWIdJ4265bOG5l9WCMjDrGKemsLWGqYQkbOofW7GFzun/MsPzcV2tKgCUYWj45NJuCC2TG/C376iYdbPaB53vr2Dljy5mnh9GqEmx2YY6RuJkC19cGqBTmWMTdeljMd0uVgU8ywcKkxSVwjShtynJyGS+92aX4tVnMAWjSllbaQs313Es6l5ePqyhssA==;KFCeoTyXTIXVGTzSDBPYhw=="
 ---
 

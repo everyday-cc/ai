@@ -26,6 +26,22 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "NES Specifies Vuzix M400 Smart Glasses for its NeoFace KAOATO Facial Recognition System"
+    excerpt: "NES's facial recognition technology has been rated the best in the world by the globally authoritative U.S. National Institute of Standards and Technology. The NeoFace KAOATO facial recognition system,"
+    publishedDateTime: 2021-12-29T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/12/29/9517861.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/678111/Vuzix_Corporation_Logo.jpg"
+        width: 300
+        height: 301
+        isCached: true
+
 secured: "ixATscnLLEQ29RXjzEQ8vo8oK8DI7thiDzKICNQqGFLzr1QGV7m7rTbtT5QWnAkFbaNt6BSeo9OW3HfFJii3GI3rDeA3DhLznMEiU+T/STG6/XyPUMn6U+LkLsBGdEIaCQdBWVEOeY+TzwCRx+UxbQ8Y3eQFw8VPRbbFDCf3Aroc5tnTzU/p5iBFOoahwghXL/9Z6hGjgfhumjGoK/XjjN+ei73Ykm2bJpon6v8Dp/yMbLnrOU13swqXeJMIk++TjH6ky4aqJ/60fnUt3aN7ZXxxFjruW0vUDMHHH6vzAKNlHqHrWFzMbUp80cCKgGfffv6KXLvVrJSPboBqad7o4mG8BrCG2/p6rU3EJS3Zp2I=;GY5M5TnqAynXSHfbTCJZxA=="
 ---
 

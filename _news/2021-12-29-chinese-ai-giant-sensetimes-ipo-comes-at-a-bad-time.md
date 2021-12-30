@@ -46,6 +46,20 @@ related:
         width: 1175
         height: 800
         isCached: true
+  - title: "China’s largest AI firm SenseTime raises $700M in Hong Kong IPO"
+    excerpt: "Chinese largest artificial intelligence firm SenseTime Group Inc. today it has raised about $700 million from its initial public offering on the Hong Kong Stock Exchange. SenseTime sold 1.5 billion of its shares priced at HK$3."
+    publishedDateTime: 2021-12-30T00:22:00Z
+    webUrl: "https://siliconangle.com/2021/12/29/chinas-largest-ai-firm-sensetime-raises-700m-hong-kong-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/sensetime.png"
+        width: 2000
+        height: 1041
+        isCached: true
 
 secured: "b99uOsopW3nEX4UShQrWNUCFeqAORHO4DNs6QWAEf8QVmNeEdUJsFWfbMP2NTmFbxxxdJdYwdyFrXU7k45r2D2THza/tlPyUWDvyxLk56z6BhfpZhOVqaQYYT5pY7PtQUyFjZOs+MChVKZyRsHSM4mGyQRJFUH19gxngioeWhzFbUE33uf2ffmlHVKAXEdkZ1h8q+esg+qlApdUshhpyAOmq78SdRiL6xhteOoOUuIK0jAYqSKhHt2wx4yEHDrBQDiTsyTFwT3pTwBGVpuSatJJd1LBpY568jPnjTvglv6l8sNw4kErF3v0PFAUsh7lJlsk37UOI/4/cTcLR05dX3DtSq/dLTO0XSIusocmKSzbURv2jRtqBWb/qCCoFeNstTqkfI/qHDABR5+bQ7Ml2Vj/ktKVj2aS9dzRpkM8vcNgy+aECnKA+qm9ba48yi2+7H43uWXraZ1jKQV72/65DEFH7XTKWORjWClXh75wO+dvRf3421g4VQrllAgeWUspIT75rriZx7SAGw01I0p/mjA==;wFrmtQPDkZ+E5FC/lxCh0w=="
 ---

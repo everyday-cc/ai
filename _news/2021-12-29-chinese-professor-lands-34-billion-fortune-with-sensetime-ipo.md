@@ -9,7 +9,7 @@ ampWebUrl: "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-1
 cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
 type: article
 quality: 172
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.wsj.net/im-456678/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "China’s largest AI firm SenseTime raises $700M in Hong Kong IPO"
+    excerpt: "Chinese largest artificial intelligence firm SenseTime Group Inc. today it has raised about $700 million from its initial public offering on the Hong Kong Stock Exchange. SenseTime sold 1.5 billion of its shares priced at HK$3."
+    publishedDateTime: 2021-12-30T00:22:00Z
+    webUrl: "https://siliconangle.com/2021/12/29/chinas-largest-ai-firm-sensetime-raises-700m-hong-kong-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/sensetime.png"
+        width: 2000
+        height: 1041
         isCached: true
 
 secured: "zl+gYbEn1KI4e9f8raYhW6wc0l+PNl+QfpV24ysY1+jC5yc8sQJSm90eRo3EsfBffaW2Twh7EVuwAIh1pdHJxkr0yHJs9KOstne6+KAXbbeywHL9xK/02zhEYGW6/JTsijiOOE7j/sJ9D2wBf4zyzb6JEt1lBtM2iiXlc8DRlNWW7ft6twG5TtBNfz7ynC1YXiFD7vpJxAzbm/Yi3PDCtmPZuRlzO3Ylzs7ZFl3MX1mGZIPQJpq1V2Bvc/thhQ9FoZ1FzHpUVDwQbBPmC8pvmu7widIgBE+V7XjwkjspnuSRlmq1aYX13IB+vi+oIam8BaihDRMtPkI2oZuTUCneLUkF9bS4t7Imi2KJe7+Mtr8=;3OQDvKmqaE532fv61X0UlA=="

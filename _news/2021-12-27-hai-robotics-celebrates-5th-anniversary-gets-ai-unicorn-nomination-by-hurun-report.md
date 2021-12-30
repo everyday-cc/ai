@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-
 webUrl: "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report"
 type: article
 quality: 63
-heat: 74
+heat: 73
 published: true
 
 provider:
