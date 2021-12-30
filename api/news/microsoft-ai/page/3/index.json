@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-01-viewpoint-why-employers-must-create-disability-inclusive-cultures.md",
+      "title": "Viewpoint: Why employers must create disability-inclusive cultures",
+      "excerpt": "And yet many disabilities – including cognitive and mental health challenges ... strategies that such firms as Fidelity, Biogen, Microsoft, and others have adopted. These include recruitment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/news/2021/12/01/viewpoint-why-employers-must-create-disability-in.html",
+      "originalUrl": "https://www.bizjournals.com/boston/news/2021/12/01/viewpoint-why-employers-must-create-disability-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
       "excerpt": "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ...",

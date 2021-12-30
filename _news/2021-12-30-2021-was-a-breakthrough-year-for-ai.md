@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/
 ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 type: article
-quality: 91
-heat: 112
+quality: 93
+heat: 114
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - Facebook AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all"
