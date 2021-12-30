@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
+    excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
+    publishedDateTime: 2021-12-30T10:44:00Z
+    webUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883"
+    ampWebUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 53
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "BeniQBDpvyRV8lsfdi5TCHR56HyEFR0aSrK0OXuGP3p1islPASzcsP+d8VGoiLpmb2XJncR16SEkSk37609guQw0NsaCTu7CTaqTeFOgIxNE1Yao36y3DfrrcGQr7jFWKfgpmzXoYqdgjv2Cj+Gln1uaN3aqZ8Whkz/d3y6sP51rSQwZTBK6GKYzpUVTeO+MWX0N3j260hKU+/H3KTA8tGTuRzsvIK17EmTRIX6sDSy44krVlB1p8fRrZeYKg08iBdsLMzrt3pnWmJW1waiPMCAS2X1DLgmZ4M8GE83Cv5il5ZqRU/lsXNsY2TkxMJrxSE1TWXspbJ0TEzEFfy02rnT6F6u0+M2HA9vjXKCmntEa4s5NIQLBS3nj9sWcawOBEv7f8le/Vhn1tPjLWQKi9xnS+Q42nCOXWhCG6N3x95+o0k8svr1xsKxEo6BQlWw5VT+FdjeMHlzBflS+yowCCXfvf8gI5g/8ZGiv8Hwz4jHSLW0QUdNTPwEe+voADZcks7eocO0T6wBhw2wbsg8ofA==;0rQB6tNGGKPEOYH4JKZbSw=="
 ---

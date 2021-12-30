@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO"
-excerpt: "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people."
-publishedDateTime: 2021-12-28T17:00:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-12-28/chinese-professor-defies-odds-on-way-to-3-4-billion-fortune"
-webUrl: "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html"
-ampWebUrl: "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
-cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
+title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
+excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
+publishedDateTime: 2021-12-30T09:48:00Z
+originalUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
+webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
 type: article
-quality: 172
-heat: 212
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Yicai Global
+  domain: yicaiglobal.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8"
-    width: 1175
-    height: 800
+  - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
+    width: 720
+    height: 480
     isCached: true
 
 related:
+  - title: "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO"
+    excerpt: "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people."
+    publishedDateTime: 2021-12-28T17:00:00Z
+    webUrl: "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html"
+    ampWebUrl: "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
+    cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 172
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8"
+        width: 1175
+        height: 800
+        isCached: true
   - title: "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time"
     excerpt: "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it."
     publishedDateTime: 2021-12-29T05:46:00Z
@@ -62,20 +73,6 @@ related:
         width: 1080
         height: 1748
         isCached: true
-  - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
-    excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
-    publishedDateTime: 2021-12-30T09:48:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "China’s largest AI firm SenseTime raises $700M in Hong Kong IPO"
     excerpt: "Chinese largest artificial intelligence firm SenseTime Group Inc. today it has raised about $700 million from its initial public offering on the Hong Kong Stock Exchange. SenseTime sold 1.5 billion of its shares priced at HK$3."
     publishedDateTime: 2021-12-30T00:22:00Z
@@ -91,6 +88,6 @@ related:
         height: 1041
         isCached: true
 
-secured: "zl+gYbEn1KI4e9f8raYhW6wc0l+PNl+QfpV24ysY1+jC5yc8sQJSm90eRo3EsfBffaW2Twh7EVuwAIh1pdHJxkr0yHJs9KOstne6+KAXbbeywHL9xK/02zhEYGW6/JTsijiOOE7j/sJ9D2wBf4zyzb6JEt1lBtM2iiXlc8DRlNWW7ft6twG5TtBNfz7ynC1YXiFD7vpJxAzbm/Yi3PDCtmPZuRlzO3Ylzs7ZFl3MX1mGZIPQJpq1V2Bvc/thhQ9FoZ1FzHpUVDwQbBPmC8pvmu7widIgBE+V7XjwkjspnuSRlmq1aYX13IB+vi+oIam8BaihDRMtPkI2oZuTUCneLUkF9bS4t7Imi2KJe7+Mtr8=;3OQDvKmqaE532fv61X0UlA=="
+secured: "7V1NVz1jsaycLdeDPQb0Fi/Z61ePhctZWLGG5EY4iD/PX86GlUp9O6hX4LXO0T4Ji8rWNJTnX/WPi7Y3k/MFJNJIZrXPZt0/5y9AnAapAiGowcJW5+IiGGMzWm9vGsCA/r6cgUaWZjObDF/jux17O7pvckbJwsimz0TvQtR8nGMGYBLPcVKHaofqGvvVZHQR7JDqv0A03nVQFOZza9DpiQo303iUJ8+EQNCrsP1RUKFqduB5qsdg4dINzFpS7AgNUSr6NkvKpCuNTKgX+neefscp77/zH6RJ/ZGSD8ktVSDn1PEAlJ/etOvQGXCXAIUtwGycMS/UXHO544tREXNSOr0Uy/M7zpWmuZ/qij4Iek4=;BXbxF03QXUHhndYkqVD/hA=="
 ---
 

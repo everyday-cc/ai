@@ -72,6 +72,20 @@ related:
         width: 1080
         height: 1748
         isCached: true
+  - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
+    excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
+    publishedDateTime: 2021-12-30T09:48:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "miuwCcbUCvEkJ0fKh3eSfCwNmHTACHqodx/IUCUqrjUSZKQp+bO5bwtdAnFLdoHbaJq0OWV021MGQ7R7EnPU148JStXuZlac11hvlikm38xNxrM1BePq21YdoiDWwsjve7BCSbmfvgc0swfs24opCqzmUSx6incB0H9En3+MAqf6oKTYwQ++SdIYnY4TFGKUzo/UfpSheu06t/WJF81gD/eUqawLh19LFPp/VMpCme0CR/gJb7Wzhz0yOpzNOBbWSEWGgczbs344VTZBzQuPlbUNa6tVfJVS7F9O9M4Qkwr759IFppZLtvnhmXZF19zcQnWSX+ylGJ6E+qu/w4BCySU20PwFl2hWPN2v7Zb2LpTZrXvEGzmyCyI5x4WXEnpJ2KbIIf/jMRFPHBNxdNbWLM/S9kWYD1s3tdMIyImxA1Idr/jLezPLc7BYsD36pA42+CRm/pzs9mAQrbelTChZC7biCKpVZeJG28gUKpGmCUhBnjw2GI3Porp8IIQS0X8Fxpl3Z4tVSyhO5GxQ4MnOkg==;sUT4ceiX0/xaqSF+k1dDqA=="
 ---

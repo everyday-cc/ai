@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-30T05:02:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-research-news-update-issue-6-dec-20-29-2021-asif-razzaq"
 webUrl: "https://www.linkedin.com/pulse/ai-research-news-update-issue-6-dec-20-29-2021-asif-razzaq"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI in Finance
   - AI Hardware
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQFBBqtN8i_FSg/article-cover_image-shrink_720_1280/0/1640840410876?e=1646265600&v=beta&t=DawaC2Q-iwbW6b1n_3zedJOx2OHG_SutGXKSZe2vSMM"

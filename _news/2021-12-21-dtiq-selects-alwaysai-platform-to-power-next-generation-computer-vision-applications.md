@@ -2,21 +2,19 @@
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
 excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
-publishedDateTime: 2021-12-20T19:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/24706789"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24706789"
+publishedDateTime: 2021-12-20T19:57:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "WFn54FA/1h3G3uE3bkLzFYiO2zYB4ADs6bR/YB8GAtugfoRfAEA4dTfjZs+4zRNMrVaZjWlpL+cToZqOw3/EYhlTwaMhI3qtClrHAxjxZZwzIFTjWHE2+KE07CcGsho3Yfsn5QR9vjMt0y4cpkXoW0ORmb2lo+hILANCv5wD/x5v4A6tgxP2fisUeIgC8U4CgJeyoQEnoHK+qXj2HpnA0eitPvOpQBFs+Ga2eIEkddn9a4englDKMPZG1l1/0oFFtjcu2T7dSUjgkI8xQ4fPkK/0P5FwvnyQzLnURr/gB3SBowVLGa1Aa8QDqVm7jaI04M1k9UXySfo8qznrIlz12mFE7Q4hyiHEJ/5AKvirKZc=;URbVCtR0rtyr8CcTVumrxA=="
+secured: "738eRwqU1viMY8DBCfoTOrHrbaGHlT1DoCgEq+r4zmhij9rW+ckNhRzYDJZHK6TvMycOd+6Dd4QF8JqjZWgls2x9oQtrmAaF2eCY9pXV+bPFLr62DX9sxyWLR8dRHyraNhf9Gn0rvABLeDVCVP03iEbB478fuOgSRO82sg5es3ID9yj9kspYtnxL1x81nQkFffi9EkLVCUjqBnXjqLc2YlREqAE8mIAiHsIs8UZ2lO9qR/uQA0h+aRe3O8WKeV2bA5pjjbu/vwgvojq9bivNfzCiFsZzw7EhhiZ6FiPTkyHa+oJkDz7wAu0CV5MCd6Fapne83pg9fIIzyN8UjDxZXx7BtXD5Cph70TF2/K5ZoVs=;6J+zUmpJOxo81M6L6LR2fg=="
 ---
 

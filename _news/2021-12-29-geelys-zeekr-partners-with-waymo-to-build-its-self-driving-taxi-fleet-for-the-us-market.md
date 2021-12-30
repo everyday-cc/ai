@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-way
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
+    excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
+    publishedDateTime: 2021-12-30T10:44:00Z
+    webUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883"
+    ampWebUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 53
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
     excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
     publishedDateTime: 2021-12-29T21:45:00Z

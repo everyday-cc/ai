@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 type: article
 quality: 95
-heat: 117
+heat: 118
 published: true
 
 provider:

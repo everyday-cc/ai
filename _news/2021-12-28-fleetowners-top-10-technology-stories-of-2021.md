@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/article/21212365/fleetowners
 webUrl: "https://www.fleetowner.com/technology/article/21212365/fleetowners-top-10-technology-stories-of-2021"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Top 10 technology and ethics stories of 2021"
+    excerpt: "In 2021, technology and ethics coverage was shaped by pushes to regulate artificial intelligence (AI), especially when deployed by law enforcement bodies and the use of biometric identification technologies such as facial-recognition."
+    publishedDateTime: 2021-12-30T04:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021"
+    ampWebUrl: "https://www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "ZgfYE4I9aQsqwtLfyQ4ovzpFwYIf2m+PqQdLHcXIyOdDy4vwQhMWReKhHy3PIcwhOFWJNHlZgjqVkYJlSwHVbrpa+bTVzXuGuMCLoKl62g5pn+6iIByzwds6qSLGkasyxiAxJerZmA8kIwK6Na0dHVT7gOdPBcamxB6umbPdMt4UXOBGZMmPpQym1s2j+xfhzlvYMf2Yz5Mv56694+K6nh9jmcQ+g9Gsv8zWhw3JWQkEx/o31IiCZaxnVFsiJ2o4UfSm45ChWDTzIsUqBT7ElyEq7LbdUey7hoZv4MHNxiIxqhM0hbx65wXhp+4Uk66bHhcWiffPFnX1Lt+QYIYY6WKTpVSCeNJcUlZ7V8gls5Uqs6oOJaQRWfp8pwVDBxfgPFMhxQqEKRNxGrz1NYbImc23VdJlVCzD9Fw3jNuv1GE7E38WTFPWbptJUfhVySmrNNAkT+L3e+Oeg4YZ2T/Qfm1AqfaPcOAlCb2FdgLn9nHADeLBgGCvs457tKXK0etqpD5JaPufEbxioK3hPYfXZA==;V9A0dzSu9Ql+rNU2gTu1LQ=="
 ---

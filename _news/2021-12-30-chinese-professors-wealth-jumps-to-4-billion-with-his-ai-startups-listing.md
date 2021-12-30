@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
+    excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
+    publishedDateTime: 2021-12-30T09:48:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "China’s largest AI firm SenseTime raises $700M in Hong Kong IPO"
     excerpt: "Chinese largest artificial intelligence firm SenseTime Group Inc. today it has raised about $700 million from its initial public offering on the Hong Kong Stock Exchange. SenseTime sold 1.5 billion of its shares priced at HK$3."
     publishedDateTime: 2021-12-30T00:22:00Z
@@ -73,6 +87,6 @@ related:
         height: 1041
         isCached: true
 
-secured: "xxiiTDxf148m6Rm0VWVodstgdrYl00C6VxXGJtan6S9LtxDGWQ91FlCJYMTasIMV7/1ShMCtciJ2F8lo1Z5IcNTqa8GfZ6pIrrckAzjt93L5yVMw5S0OYAxDjnjMHE7qX9lcrCV2bHro9PBoc4MY7fvTUoU8ikxIWKMW+4js9o5G1onBB5NYvBJJGLSVMyKYUdb08CDk3oxEvWiP5IZW5RwjBTRMPQVA+A+/V//D4E3FQQqT4qHziNhKh4GpfZdQxToGyoj6WNi+bXht0cDfcEwe5q5zJpdyyzE+s137uChWF+rlD+ab1oyTh4vAyQkoF2fKJipX4ResuNuca0wVt0Fj3hUqBw+mJqPazqzUa/U=;6u0jRr++vNg8vXgcijkUEg=="
+secured: "1uAPTnLeR6W5z137Ey7ivZd1aY6PbofY0wS12MCOLFGipMDtd21xqHTrKWdHRIjpf5y7Lnmzl5z6/sjAkwJ3qlazODCz6oPcyJ7gX7eHVXioT+DWNsxYjEBEg5acTs6UQsTSzOdkopMe2CiiQaBx6tSEpixHR2NpegJnVlCpKrWp28+5KMqZBcxmvU9KcjnBiFKiyn8A3hIhXumzJh01cfW6G8CjqJwf5/BBsiVHy9YC8MxM+pBQLykCPXqT3tLU698swKnJIuUlJe3Lv1Yk+6korPClvUgZXRgtBveDM9NK04ER/rFfZstcuttSX0RcHbumlZhSmgWuBIXsINbnYSCZkZTlKyLzvftZ8EEGu3Uf7zheUahpjP73Ged7Z3prAZmZOJNw+f8OdzbfHkLCxjJy6000KXuXrJaPD78pjT/r+cwDcoSwLEWTqnQMuMHvMnanP6e3cKOwi0Paq57R+51fFef8ZlfHHMYz0qSGx2p5bDu93ZBRENosGnhfSEGpQ5Xa5BBJBO+tqyXBm2h1rQ==;ovLkHAjCGKi4EC2iH8QzVw=="
 ---
 

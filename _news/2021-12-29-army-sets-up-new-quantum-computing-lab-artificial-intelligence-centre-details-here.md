@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-l
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1"
 type: article
 quality: 65
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img.jagranjosh.com/images/2021/December/30122021/Qunatum_Lab.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
+    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow. The two centres will carry out extensive research in developing transformative technologies for use by the armed forces."
+    publishedDateTime: 2021-12-30T09:49:00Z
+    webUrl: "https://en.trend.az/world/other/3535133.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 34
+    images:
+      - url: "https://cdn.trend.az/2021/12/30/india_301221.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
     excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."

@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators"
-excerpt: "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\"."
-publishedDateTime: 2021-12-27T15:34:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-301450886.html"
-webUrl: "https://www.prnewswire.com/news-releases/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-301450886.html"
+excerpt: "(NASDAQ: BIDU and HKEX: 9888) successfully opened Baidu Create 2021 today, the first day of a three-day annual flagship developers' conference on its metaverse app XiRang. The event was also China's first-ever metaverse technology symposium."
+publishedDateTime: 2021-12-27T13:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915"
 type: article
-quality: 24
-heat: 24
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg?p=facebook"
-    width: 1916
-    height: 1002
+  - url: "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg"
+    width: 400
+    height: 278
     isCached: true
 
-secured: "ivQsoXjqpErDAdZm0nGnO1KkbOKSiSuFQDvu1iFAK58ddWjw7mfX1qVX9fG65rHocLa1sSW+EmhLg8gGxhkElsAFbHUf8Ofs0P6v9rYkzKtZ0MmTNGDKE4ZNQ4ydkXuU/SzjBoSwRrfSw/Agk/8A7uzfAkoBUdnmIUKcXS0f51wHRTRmPwz4TeT+HP+GA2vIbvLOkxuht5+Sc947ClkEUp998emtLQMQ9YpyvDHq+guaDT6IixefDOBN8UCyc0hKojTe+dPIlWqjy2QWTM0imIMnONHp1Bfy1bOKs1awToUypM4fA3gQY+6rMbm7LABdFCh1gPbVB0qI2/RB2HOWdwGA0160Bcl+xW/810kTFes=;IZw52FT1F6myhyIzy1mN+g=="
+secured: "TZ84chbifMYgGP6ygQBUQHokv9B8PrlMSsJymx5DFQkZh94TUqY90xIA863mAciNecJmLJ+QxqJnOVHEmjSVwtWNQzBzu7agggIBLt2BNuhLL3b9As3m+rGIBP+4opXaNNF4BbI4zsqNGkFHSlREU5rXsfLtzyx+62AS+5n9cZ9S5nlHxpAq59EOmDH8qt1m7xopxTdDrM2LAO023iKpEE+jcT8OqO+QPFMPWFY7zyw8DoNEoGx94s40QTzmlbLdVlDXBzOAmp+YvR/DB7F+/pvIOcH1mNS1OuyAc/wqbr/dVUyMoBZ/YixmgRIB9A0TEKah/gPdG3aAJNjbGbn7G8WlDvcMk5V1X6P0DrIflk0=;qcnvIZKmw25WNtI0AsUJJg=="
 ---
 

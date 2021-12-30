@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Ride-sharing startup RushOwl secures SG$650,000 seed funding"
+    excerpt: "Singapore-based ride-sharing startup RushOwl announced that it has secured a funding of SG$650,000 (approximately US$479,970) on December 22 that was more than 3 times oversubscribed."
+    publishedDateTime: 2021-12-30T08:07:00Z
+    webUrl: "https://www.digitimes.com/news/a20211229VL204/rushowl-singapore-smart-mobility.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 22
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211229VL204_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+
 secured: "1L0eTGm0xnq02xoPpoE/tRhXYng9e4t6dSuZUI64axnnkQkmpshhO7JbmQGgehywN5+5NluU4+3oBb8nPzJ70Rsk/5ftBWigzlojyx3q0zZID7pzqRDiSxNZ7L72xpmSYs+iNgMlvbfJ8yEaDzXuUlOrfjhgvqmcewWHHrBuckaBMrRoqaS/XGoYhGzRcoSuba20GUG+4riJryxKFfzi7pPkVe07df/I2Qwb9YekrSCozDjx6X0vqRsMEUoUQnwIpRbrmOy9GM15FTop0H4PrTOlrPTR3bLC7/zmaOzrBBk+k2HWwu6NVGSM3B3wuZqXybZ58SwGNXl5UwidUmq7HqU4yQAahU+vUhYQmUxQD5U=;4ZvOmIe0NBOpi2gbC6GBLg=="
 ---
 

@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
-publishedDateTime: 2021-12-29T15:30:00Z
-originalUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
-webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
+title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
+excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow. The two centres will carry out extensive research in developing transformative technologies for use by the armed forces."
+publishedDateTime: 2021-12-30T09:49:00Z
+originalUrl: "https://en.trend.az/world/other/3535133.html"
+webUrl: "https://en.trend.az/world/other/3535133.html"
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Trend News Agency
+  domain: trend.az
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.trend.az/2021/12/30/india_301221.jpg"
+    width: 1200
+    height: 900
+    isCached: true
 
 related:
   - title: "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here"
@@ -66,21 +72,16 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
-    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow. The two centres will carry out extensive research in developing transformative technologies for use by the armed forces."
-    publishedDateTime: 2021-12-30T09:49:00Z
-    webUrl: "https://en.trend.az/world/other/3535133.html"
+  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
+    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
+    publishedDateTime: 2021-12-29T15:30:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
     type: article
     provider:
-      name: Trend News Agency
-      domain: trend.az
-    quality: 34
-    images:
-      - url: "https://cdn.trend.az/2021/12/30/india_301221.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "W7FhoquYWoWREEzeJj0iZLCKbSETX8tyVHd+9Ana4auj1P4JS8wDWsh7gVO1GCskw/kLdwbdmyqIe3sqDvSTQO7ekt7+wep8W+Ah97uhC6asBEEDWESCev9Ny7OYUEobmLKrWfvg2UjRWap2UPF0R50sL4E480FMMW4WnNrsCxLXA+CPK6uUIZX1cV8h2n3Vv6iVAoapfSO0Vw3zR03I2FOho1Q6+tAmfwJdOqwWW1P7iJ6fZk2oHDsGiC0LgH2xUYn+CB90sPDQJPZKMzSC3yyhFo5WPEg3eCJb9EzQdU9zPakmBFlz4WtNDPR+baqdZ2LucHGxzT0XW6Br7ZgeWKDwfRCjzuX3VsCt/31XAHo=;+AdHxK2xoLOfSHMQ4N7k6g=="
+secured: "28XMAGbRDMsPU9ESZAdetVEfTR/+u2lHo3tgAhfcBQDopGL6JsaYn3tWUrYTpXkBpagDXK14ZcYNjf8pEPOPJ6wFKtEQQCeu1lOCHnuyEAQamR6OvIE5ymfsM0GGReusOXOXcS/G+l44BXq3V33txX42iUXxDPRvXAY+M/NJEffCHFUdsbsbH4irgwByxtdqjtAl18LhFxush0ypfFkTbET3qlGNscFUa4/u1aYVw35W4XIy9Y4nUsg3Cf6XEWseXK9ibMntYgcQaCAKwjiO8tdgXk3dd9au+Pl12Ck6hkuCoLfkYuLAKXsmjlqm1OoEOJVqVxTqHCQq1z6xLwT6eejm+l58ScAWvPC26XqRZFM=;cFOyPuIckKyft6QxZUC1Iw=="
 ---
 
