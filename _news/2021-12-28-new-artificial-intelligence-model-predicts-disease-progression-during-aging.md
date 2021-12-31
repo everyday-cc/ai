@@ -36,7 +36,7 @@ related:
     provider:
       name: Finance Magnates
       domain: financemagnates.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.financemagnates.com/static/article-default-image.jpg"
         width: 770

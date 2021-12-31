@@ -2,6 +2,229 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
+      "title": "Who Killed the Robot Dog?",
+      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-a-need-for-speed-is-driving-cx-expectations.md",
+      "title": "A Need For Speed Is Driving CX Expectations",
+      "excerpt": "Ensuring that the content surrounding a product is navigable and intuitive and that it offers quick solutions to users’ problems is one of the simplest and most critical methods for bringing B2B UX up to the standards of B2C counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b75092791c7247d2ff75e6%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/a-need-for-speed-is-driving-cx-expectations/amp/",
+      "publishedDateTime": "2021-12-14T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-predictive-of-response-in-aml-patients.md",
+      "title": "Cellworks Personalized Therapy Biosimulation Study Identifies Novel Biomarkers Predictive of Response in AML Patients",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from a clinical study using the Cellworks Biosimulation Platform and Computational Omics Biology Model (CBM) to predict therapy response for individual Acute Myeloid Leukemia (AML) patients were featured in a poster presentation at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition held December 11-14,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mycare-023-finds-cellworks-personalized-biosimulation-a-stronger-predictor-of-therapy-response-for-aml-patients-than-physician-prescribed-treatment.md",
+      "title": "myCare-023 Finds Cellworks Personalized Biosimulation a Stronger Predictor of Therapy Response for AML Patients than Physician Prescribed Treatment",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from the myCare-023 clinical trial, which found that the Cellworks Biosimulation Platform with its Therapy Response Index (TRI) reliably predicts complete response (CR) and overall survival (OS) for individual Acute Myeloid Leukemia (AML) patients beyond physician prescribed treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-apexai-raises-over-56-million-in-series-b-funding-round.md",
+      "title": "Apex.AI raises over $56 million in Series B funding round",
+      "excerpt": "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "originalUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group.md",
       "title": "Bias in AI-driven recruiting subject of tech watchdog group",
       "excerpt": "Artificial intelligence software is increasingly used by HR departments to screen job applicants. A new organization plans to prevent \"AI\" from producing biased results that influence hiring.",
@@ -886,238 +1109,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-how-artificial-intelligence-will-transform-business.md",
-      "title": "How Artificial Intelligence Will Transform Business",
-      "excerpt": "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-",
-          "width": 1000,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-snaplogic-raises-165m-as-the-ipaas-market-heats-up.md",
-      "title": "SnapLogic raises $165M as the IPaaS market heats up",
-      "excerpt": "SnapLogic, a company developing an integration platform as a service solution for enterprises, has raised $165 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.snaplogic.com/",
-      "originalUrl": "https://venturebeat.com/2021/12/13/snaplogic-raises-165m-as-the-ipaas-market-heats-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.snaplogic.com/wp-content/uploads/2020/08/bnr_sl_global_share_image.png",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-tectona-releases-ai-generated-nft-collection-in-major-metaverse-move.md",
-      "title": "Tectona releases AI-generated NFT collection in major metaverse move",
-      "excerpt": "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "originalUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "publishedDateTime": "2021-12-13T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
-      "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
-      "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61afd04006b6770018c47e7e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "publishedDateTime": "2021-12-13T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science.md",
-      "title": "Latest Study on Natural Language Generation (Nlg) Market Hints a True Blockbuster : Artificial Solutions, AWS, IBM, Narrative Science",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 12/13/2021 -- HTF Market Intelligence added research publication document",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "originalUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Spider-Man-Sony-1K-e1640613949235-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

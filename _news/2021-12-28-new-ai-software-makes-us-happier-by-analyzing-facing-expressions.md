@@ -8,8 +8,8 @@ webUrl: "https://www.financemagnates.com/thought-leadership/new-ai-software-make
 ampWebUrl: "https://www.financemagnates.com/thought-leadership/new-ai-software-makes-us-happier-by-analyzing-facing-expressions/amp/"
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/thought-leadership/new-ai-software-makes-us-happier-by-analyzing-facing-expressions/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.financemagnates.com/static/article-default-image.jpg"
