@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 129
 published: true
 
 provider:

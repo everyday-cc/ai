@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/30/how-to-discover-ai-code-know-how-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/how-to-discover-ai-code-know-how-with-catalyzex/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

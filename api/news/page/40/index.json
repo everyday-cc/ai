@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-28-ai-chatbots-their-influence-on-mobile-technology.md",
+      "title": "AI, Chatbots & Their Influence on Mobile Technology",
+      "excerpt": "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/11/AI-and-Chatbots-ITNA.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
+      "publishedDateTime": "2021-11-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-28-creepy-humanoid-robo-artist-gives-public-performance-of-its-own-ai-generated-poetry.md",
       "title": "Creepy Humanoid Robo-Artist Gives Public Performance Of Its Own AI-Generated Poetry",
       "excerpt": "Ai-Da creates artworks and writes poetry using a sophisticated language model, word data bank, and speech pattern analysis.",
@@ -1124,40 +1167,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
-      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
-      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "publishedDateTime": "2021-11-25T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

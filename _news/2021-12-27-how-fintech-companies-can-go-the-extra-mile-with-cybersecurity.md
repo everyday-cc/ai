@@ -43,20 +43,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Is more artificial intelligence (AI) good or bad for cybersecurity in the New Year?"
-    excerpt: "The world seems focused on new developments in artificial intelligence to help with a wide range of problems, including staffing shortages. But will AI help or harm security teams?  A few months ago,"
-    publishedDateTime: 2021-12-26T18:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-good-bad-new-year-dan-lohrmann"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 48
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEbDLFfxgdDiw/article-cover_image-shrink_720_1280/0/1640541838937?e=1646265600&v=beta&t=vVpaMIVr86u1M23Fxu9TXM14_W4Wihp3fIs5kJHAAxE"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "The Dark Side of Machine Learning in Cybersecurity"
     excerpt: "While machine learning (ML) is revolutionizing many industries including cybersecurity, it also has a dark side that often goes unaddressed."
     publishedDateTime: 2021-12-30T23:19:00Z

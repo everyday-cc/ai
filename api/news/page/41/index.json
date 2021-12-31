@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
+      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
+      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
+      "publishedDateTime": "2021-11-25T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-why-data-insights-should-be-a-key-area-of-focus-for-the-financial-services-sector.md",
       "title": "Why Data Insights should be a Key Area of Focus for the Financial Services Sector",
       "excerpt": "Q&A with  Do you see real time data as a priority for organisations looking to boost cost and operational efficiencies? Absolutely - just think how fast the amount of data produced globally is growing,",
@@ -1113,58 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
-      "title": "When Reddit Is Your AI Language Instructor",
-      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

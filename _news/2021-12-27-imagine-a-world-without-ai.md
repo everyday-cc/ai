@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The blurry image around AI"
+    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
+    publishedDateTime: 2021-12-31T09:25:00Z
+    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI and wine – a riposte"
     excerpt: "Alder Yarrow’s article on AI and wine is spot on in terms of the current state of AI and wine, but gloomily off-target regarding its consumer-facing future. It is absolutely true that ‘most, if not all,"
     publishedDateTime: 2021-12-27T09:14:00Z

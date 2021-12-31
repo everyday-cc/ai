@@ -2,6 +2,59 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-12-08-unlocking-human-rights-information-with-machine-learning.md",
+      "title": "Unlocking human rights information with machine learning",
+      "excerpt": "Human rights defenders need information from many sources to do their work effectively. But as issues evolve and new precedents are set, finding the right information to defend a particular case can be like looking for a needle in a haystack.For example, a human rights advocate campaigning for LGBTQ",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TF_X_HURIDOCS_008.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/amp/",
+      "publishedDateTime": "2021-12-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-these-tiny-liquid-robots-never-run-out-of-juice-as-long-as-they-have-food.md",
       "title": "These tiny liquid robots never run out of juice as long as they have food",
       "excerpt": "When you think of a robot, images of R2-D2 or C-3PO might come to mind. But robots can serve up more than just entertainment on the big screen. In a lab, for example, robotic systems can improve safety and efficiency by performing repetitive tasks and handling harsh chemicals.",
@@ -1093,58 +1146,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022.md",
-      "title": "Time To Ante Up: Three AI Trends Financial Services Should Bet On In 2022",
-      "excerpt": "For years, financial services have stayed ahead of the curve as early adopters with online banking apps and financial planning tools. Artificial intelligence (AI) has been a key driver of this transformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af67db77edc01b156c19fd%2F0x0.jpg",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/",
-      "publishedDateTime": "2021-12-08T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/industry-experts-team-up-to-ad
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is more artificial intelligence (AI) good or bad for cybersecurity in the New Year?"
-    excerpt: "The world seems focused on new developments in artificial intelligence to help with a wide range of problems, including staffing shortages. But will AI help or harm security teams?  A few months ago,"
-    publishedDateTime: 2021-12-26T18:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/more-artificial-intelligence-ai-good-bad-new-year-dan-lohrmann"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 48
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEbDLFfxgdDiw/article-cover_image-shrink_720_1280/0/1640541838937?e=1646265600&v=beta&t=vVpaMIVr86u1M23Fxu9TXM14_W4Wihp3fIs5kJHAAxE"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "How Fintech Companies Can Go The Extra Mile With Cybersecurity"
     excerpt: "Hacking attacks and data theft are more rampant than ever. So cybersecurity is a crucial concern for modern businesses. While threats prevail in all domains, fintech companies need to be extra conscious."
     publishedDateTime: 2021-12-27T10:53:00Z
