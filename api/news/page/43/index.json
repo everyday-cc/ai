@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-11-24-covid-19-impact-on-professional-service-robots-market-to-witness-impressive-growth-during-2020-2025.md",
+      "title": "Covid-19 Impact on Professional Service Robots Market to Witness Impressive Growth During 2020-2025",
+      "excerpt": "keeping in mind the interest of all the stakeholders across the value chain. Following are the ways in which the market is segmented. Professional Service Robots Market Size, Share, & Forecast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
+      "originalUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub24791230_g.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
+      "publishedDateTime": "2021-11-23T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
       "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
       "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
@@ -1054,49 +1097,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-save-big-on-the-viomi-v3-max-robot-vacuum-this-season.md",
-      "title": "Save big on the Viomi V3 Max Robot Vacuum this season",
-      "excerpt": "Cleaning the home, and vacuuming in particular, is one of those things that we should do more often but for whatever reason we do not. We tend to use random excuses to get out of running the sweeper or cleaning the floor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidguys.com/promoted-news/save-big-on-the-viomi-v3-max-robot-vacuum-this-season/",
-      "originalUrl": "https://www.androidguys.com/promoted-news/save-big-on-the-viomi-v3-max-robot-vacuum-this-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidguys.com/wp-content/uploads/2021/11/viomi_v3_max-6.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidguys.com/promoted-news/save-big-on-the-viomi-v3-max-robot-vacuum-this-season/amp/",
-      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/save-big-on-the-viomi-v3-max-robot-vacuum-this-season/amp/",
-      "publishedDateTime": "2021-11-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidGuys",
-        "domain": "androidguys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
