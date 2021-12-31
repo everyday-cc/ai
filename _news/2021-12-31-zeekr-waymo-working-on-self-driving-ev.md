@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Geely-owned Zeekr and Waymo developing self-driving EV"
+    excerpt: "Chinese automaker Geely’s EV subsidiary Zeekr has teamed up with the Californian technology firm Waymo to develop an autonomous cab. Previewed in official renders, the electric MPV is designed for use"
+    publishedDateTime: 2021-12-31T13:03:00Z
+    webUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece"
+    ampWebUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/life-and-style/motoring/bkidjc/article38081138.ece/ALTERNATES/LANDSCAPE_615/Zeekr-1"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
     excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
     publishedDateTime: 2021-12-30T10:44:00Z

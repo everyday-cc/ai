@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 707
     isCached: true
-
-related:
-  - title: "Will Microsoft Acquire OpenAI?"
-    excerpt: "I was so interested in this topic, I wrote a 12-min read article (not sure how many words that is, but it's a lot). I fully recognize it will mostly go unread."
-    publishedDateTime: 2021-12-26T21:28:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-acquire-openai-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFSZxWUjGLxcw/article-cover_image-shrink_720_1280/0/1640553605471?e=1646265600&v=beta&t=d6DWk_Eij8qJh9wv2j9f7N7GVM_PM69vlb3naTIgdR0"
-        width: 957
-        height: 720
-        isCached: true
 
 secured: "tFIg55GajiTgtBmXZwfR2h7JdR4RX60tPYDVdJ8phQQ8Jwx0ykE/vwYn4qb45bdOKHwBtqVh2543qBFecCqaBAmv81yPHZiEYcKJtEY+fIvogNSSE0l68F0i0umPZ4ww3uYCQltZSse9ny4k92JdgzJs1lIH9X15CSA8iegATaOMGpLqMEZrTHMV9k8C0jyw+tecS93BWumamFpZiz/4iKfxXqYb/C/vf3gXJIJXcaIbWIHem2VBLUPnLy/zu85urtsFcDFJZQwBBOsODUzJYe5ezFcRzuBwBJXFBRCXG+2jujv6BVLO/szqJu2Y8vuWhcucDunU834Faj9akSCIsDtpKMX2ZcFP53TUT8Uop3Wbk26lC6MC3Mxs/F8OuWDtMKbyw1ybOwvDlc5hlo3PuZ49Y/pnX0+ZnSpVUKc42DuXEbynS2RMM2/TF5ZBu4D793OnfM+P41R/FzdXm+kvNCfw8O/qwjpw2G694PeVDd7me7sYWQTCzbr9Q9OB+eYmKdTvZfFktmXLhEq0o53irg==;Hmu+mzKG1by3+7vqoyuxLw=="
 ---
