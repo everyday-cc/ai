@@ -1,22 +1,30 @@
 ---
 category: news
-title: "First fatal self-driving car crash."
-excerpt: "But thought these self-driving cars are fitted with radar, which wouldn't have been susceptible to the same visual problem as a human. Which brings into question how far driving aids should be allowed to influence the driving of a vehicle."
-publishedDateTime: 2021-12-28T04:04:00Z
-originalUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
-webUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
+title: "Japanese Manufacturers To Play Catch-Up To Tesla And Others With Self-Driving Tech"
+excerpt: "Tesla and other automakers have stolen a march on Japanese manufacturers who will focus on Level 2 tech next year"
+publishedDateTime: 2021-12-31T10:57:00Z
+originalUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/"
+webUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/"
+ampWebUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
 type: article
-quality: 4
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: PurplePort
-  domain: purpleport.com
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2021/12/2022-Toyota-Mirai-14-1024x576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Crashing The Self-Driving Party Of Tesla & Co."
@@ -67,22 +75,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Japanese Manufacturers To Play Catch-Up To Tesla And Others With Self-Driving Tech"
-    excerpt: "Tesla and other automakers have stolen a march on Japanese manufacturers who will focus on Level 2 tech next year"
-    publishedDateTime: 2021-12-31T10:57:00Z
-    webUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/2022-Toyota-Mirai-14-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Mike Klimkosky shows the different features of his Model S Tesla plus the self-driving mode"
     excerpt: "Tesla Club Wisconsin President Mike Klimkosky shows features, entertainment, self-driving mode and much more in his Model S."
     publishedDateTime: 2021-12-29T12:17:00Z
@@ -111,7 +103,16 @@ related:
         width: 750
         height: 502
         isCached: true
+  - title: "First fatal self-driving car crash."
+    excerpt: "But thought these self-driving cars are fitted with radar, which wouldn't have been susceptible to the same visual problem as a human. Which brings into question how far driving aids should be allowed to influence the driving of a vehicle."
+    publishedDateTime: 2021-12-28T04:04:00Z
+    webUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
+    type: article
+    provider:
+      name: PurplePort
+      domain: purpleport.com
+    quality: 4
 
-secured: "cKobnB5ZBeNz1ww8uQPchwvgwou4MmVNaio/EDm1YPIWnrrpRLBSIygyMMz6ZFFzX9reGeDEAWXwVth1seeHu4BYnmqyf8dDmsMaYlerFUmgvLt2MI6dTRfwajm6CSm/SIbivsaPkuDLglGP4ILC1+wUVsFqrqmZ5XyB4AwagutLfpxq/3VrzfDScG1SOLh5vlglUK25TAqBGoRraaI+clgBdhCDBE0Ehx8gtt2a9eCKjJ5JmotzLPWWRRf1nuoWaVh9XU6TNhy5KON8jX3fpxx2kSN1qMKs1NBNgR7fZUzFzMi9K/53zXOrPiuGsy6HzbIU0bJrfWxCy/qcRLpNug5oGafilmvGBkxI8gteS/o=;mWAtUmABSukvQrCKiUpvUg=="
+secured: "xc5sNGrgRfmqoz/xnXvUGOIZ9xBDxzwXZ2NxDgCmxACe3VNwt48o2kwjuiNwgt7IYvNiF/vDZ9HQUDuadWH3zkfJdQ8jLky9ieNnhs29KAW042srU+pfiTPvB2Bnx6BNgH8gzElu0q3Nu6w5oPaq/s27VmcJ0yP69FcOCqZL+guZdS41cgrl5FNNKKszyOBwwESTdJnwEX5X/KcZ6QNKkj39M/NHzq+4T9oGq1JJSvHBVeIwJqdNQbOTuY3MSJ1uD7Z075c6xGFjRpX5ZlYuqMdCW6gBSWZdqEDJ5fxePc375Cgmu3TV4OLb19W7kYX4GRLZnjLJFfRWs6rn5Gg+HDLeMn3Ssfb0Qzafwc4jgs8=;N+J05856PMuaE4LfAk0vXg=="
 ---
 

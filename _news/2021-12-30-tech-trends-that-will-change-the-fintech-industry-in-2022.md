@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
+    excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
+    publishedDateTime: 2021-12-31T11:01:00Z
+    webUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 33
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "How to Create a Reliable and Secure FinTech App?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
     publishedDateTime: 2021-12-27T10:22:00Z

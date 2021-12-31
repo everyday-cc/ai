@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Japanese Manufacturers To Play Catch-Up To Tesla And Others With Self-Driving Tech"
+    excerpt: "Tesla and other automakers have stolen a march on Japanese manufacturers who will focus on Level 2 tech next year"
+    publishedDateTime: 2021-12-31T10:57:00Z
+    webUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/"
+    ampWebUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/2022-Toyota-Mirai-14-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "2021 roundup: Year of the self-driving shuttle"
     excerpt: "Over the course of this year, shuttles became an extremely popular platform for testing self-driving technologies. While there has been previous testing of shuttles globally, the sheer volume of autonomous shuttles that were deployed in 2021 was unlike anything the automotive market has seen previously."
     publishedDateTime: 2021-12-28T13:05:00Z

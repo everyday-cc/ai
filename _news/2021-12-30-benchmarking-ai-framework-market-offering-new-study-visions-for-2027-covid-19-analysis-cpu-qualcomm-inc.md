@@ -42,6 +42,22 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "AI+RAP Market To Witness Stunning Growth To Generate Massive Revenue Forecast to 2027| WorkFusion, Intellibot, EdgeVerve"
+    excerpt: "LOS ANGELES United States The research study presented in this report offers complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global AI RAP market It takes into account the CAGR value volume revenue production"
+    publishedDateTime: 2021-12-31T12:22:00Z
+    webUrl: "https://www.openpr.com/news/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
+    ampWebUrl: "https://www.openpr.com/amp/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc31957331_g.jpg"
+        width: 800
+        height: 407
+        isCached: true
 
 secured: "OzKH6TpPHVIHhKK9huUkIJXx7EMJPoXo/1QAsUFkbBVbKnmJYdOEcWZFQ1TKj7WZeHrU/wFr52YS6OpUmdKpcruOVcNdEhy3lU/nyqRCuTL3TEVmRXm49+MtK6TklU5SU+0pXcVdIhzAVpKI4Zl2EaT+oynKgkr+VT3ILJonBMM86WQ/7pChqqTb9rDlLPS6IcgoVwlzMI614ZyVZWkdK2Mz9YqNoqBvll2io+ZsDlj/xOEKRYUaY+hrsTrQJs8hlyUnEtiC7NFMIq/ikT2Mycef8WKhNeCzdtCAQ0Dk8Nklqc1Hv8B0wkUuUva+Md84OAKDwnOLbZWzAblyYmbMC0/SZ0BSS46y3058I70gaVo=;XaOR2vyNcxrauRHwjsLH8A=="
 ---

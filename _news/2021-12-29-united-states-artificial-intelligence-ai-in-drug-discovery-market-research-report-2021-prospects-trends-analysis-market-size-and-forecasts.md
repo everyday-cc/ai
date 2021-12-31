@@ -38,6 +38,22 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "Image Recognition Market Size Forecasted to Reach Valuation of USD 80.29 Billion in 2028"
+    excerpt: "According to a recent analysis, the global image recognition market size was valued at USD 25.67 Billion in 2020 and is forecast to exceed USD 80.29 Billion in terms of revenue, at a CAGR of 15.3% over 2021-2028."
+    publishedDateTime: 2021-12-31T11:15:00Z
+    webUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Image-Recognition.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Global Artificial Intelligence (AI) in the Freight Transportation Scope"
     publishedDateTime: 2021-12-29T06:45:00Z

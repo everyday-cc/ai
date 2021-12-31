@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
-excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
-publishedDateTime: 2021-12-30T19:23:00Z
-originalUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
-webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
+excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
+publishedDateTime: 2021-12-31T11:01:00Z
+originalUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+webUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
+cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
 type: article
-quality: 4
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 672
+    isCached: true
 
 related:
   - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
@@ -99,22 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
-    excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
-    publishedDateTime: 2021-12-31T11:01:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 33
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "How to Create a Reliable and Secure FinTech App?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
     publishedDateTime: 2021-12-27T10:22:00Z
@@ -194,6 +186,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 18
+  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
+    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
+    publishedDateTime: 2021-12-30T19:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z
@@ -204,6 +205,6 @@ related:
       domain: finanznachrichten.de
     quality: 4
 
-secured: "W4XdxVTgNbGpS+jgUI8+zweStUo2My18WIMpj1Au7Q9tZaoWA30pE/8uIH4un6NEDehMgiQUya0o19xW4/BiflAol8bhfRNBuI/5wFAyUE6yOc4PRrYAkcxKVZxHpcMy2x0PXyMF4yzVkvCmNPD5Fq3ay8qCz5KFuUVNYI3kYuGHQKGkOdqWp5IWTAKl4UDxlVfnesbUFWRp4hxB6Zgzoc7ASwQ3aVBq6glDF2IJ4bz3DkWxorMKjd69Xtm4QqKytHBbx0R0SJsh+HbGz3UDII1UOItwYOuulkd0Xo/ri9yd20hTFLMZt3rtqkQkdHXvZKqXJJL8Nb/sckhEh2S4Vf0OTIPTOhlRaA1dT+QkTklGgpSAhAbvS2XmsrrndydckwLBsF0d7lIz3qO6J1r2LxCXWSmdmTBd4G3XBfqBxZ3R/bpjcm+jStwh6iJzxjDmPL9ErXzJQ3QttahBmr8a/OoC9TpEiFt+SsmFqTCL/8lmP4vN0aOR2/xraU2Ty/RjX2JBCTEtRDCltjrX//cyvw==;8ZjxI8ZaJBuTyZZvpiPPsQ=="
+secured: "vzodSr1ZNSuO1Y3r0EOpDKXcvjrhQplTGVTE+lh3y3A10C5/3odZjdXqG+cbxmY/w9+87XJ2h+/HfI4KkFqmm3Ejd6svx5sndpcG6hcKsPEkbPTLTj4dG7UPmQ9lbMJ++k2QnJjsblRjfe2iWKtyLXWyn5PH6Tmc0qxsIP6oAlyOthpYjsD6RjZZtNCAJD9yMa6vhgsWcbtKxZ6ofJfFXpAOuDclm9F5vpRMoSgsCNunXKaX0kEH9+RtlZXEtAyhvyyZbeU1HjUo++9KmKnjjrVtSwHDdbrjanFF7axQU8r+WVWcCPAqsFl2h7JDGywQ5TT3T2uBZiaLDqGXpJov25MaGPUiPO/OV9XSnNt2/Z4=;s44D2R4s8JKJ/bZ3KgsFHA=="
 ---
 
