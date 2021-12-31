@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese scientists develop AI ‘prosecutor’ that can press its own charges"
-    excerpt: "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say."
-    publishedDateTime: 2021-12-26T12:00:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 86
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/4265d674-399a-48e7-9d49-2483db66fb2a_9b813b1f.jpg?itok=DMdLjKwP&v=1640339277"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China has developed an… AI prosecutor?"
     excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
     publishedDateTime: 2021-12-28T00:50:00Z
@@ -147,20 +131,6 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
         width: 530
         height: 300
-        isCached: true
-  - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
-    excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
-    publishedDateTime: 2021-12-26T16:45:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2021/12/26/chinese-scientists-develop-world-first-ai-prosecutor-can-detect/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 23
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/12/26/TELEMMGLPICT000167993732_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
         isCached: true
 
 secured: "sPz1hEDCGAmLZGUMSVdnZq2o9FzlKmx92Dn5W0abj7ss9dsQtc2ZxRP+VKpvfoS+Do8a7RFlDNwo+4+UKbLYrU+5+m5kE0keyuOZZUtTl/qUtdzaNyhegt4zFYweiy6lg+MOmkFL/UqD464zBK12gRbsLhn6O1slXQNxZWQBnv97E5cwrkpfh/qRm04VvPecs8aO6z7A+wa6LIKzsuLF2E6CBTGptAs6JWRJyq6RlzC7sUTerHOTHXPk4DGtE4/yIGI4YC22vHKLrS96tfgYAGUpVNPTc4BJtl1tR8FM7CnHyr7X+h5WLLn3MqLQtw4WJm3K02gBDBxw9dSCytuOWgaZTcutVNR+PHaSLRBiHuE=;uSQTMBpP21fxWadTFxRbkw=="

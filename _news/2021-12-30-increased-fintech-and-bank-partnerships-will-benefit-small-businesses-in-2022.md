@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Top five trends likely in fintech sector in 2022"
+    excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
+    publishedDateTime: 2021-12-31T04:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-07/f00f748a-951f-4708-b95c-9650a8fbc744/blockchain_3277336.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to Create a Reliable and Secure FinTech App?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"

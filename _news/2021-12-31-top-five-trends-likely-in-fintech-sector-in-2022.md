@@ -1,22 +1,30 @@
 ---
 category: news
-title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
-publishedDateTime: 2021-12-28T00:49:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
+title: "Top five trends likely in fintech sector in 2022"
+excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
+publishedDateTime: 2021-12-31T04:12:00Z
+originalUrl: "https://www.freepressjournal.in/business/top-five-trends-likely-in-fintech-sector-in-2022"
+webUrl: "https://www.freepressjournal.in/business/top-five-trends-likely-in-fintech-sector-in-2022"
+ampWebUrl: "https://www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
+cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
 type: article
-quality: 18
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://images.assettype.com/freepressjournal/2021-07/f00f748a-951f-4708-b95c-9650a8fbc744/blockchain_3277336.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
@@ -82,22 +90,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Top five trends likely in fintech sector in 2022"
-    excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
-    publishedDateTime: 2021-12-31T04:12:00Z
-    webUrl: "https://www.freepressjournal.in/business/top-five-trends-likely-in-fintech-sector-in-2022"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 44
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-07/f00f748a-951f-4708-b95c-9650a8fbc744/blockchain_3277336.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How to Create a Reliable and Secure FinTech App?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
@@ -169,6 +161,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
+    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
+    publishedDateTime: 2021-12-28T00:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
   - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
     excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
     publishedDateTime: 2021-12-30T19:23:00Z
@@ -179,6 +180,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "r7JMXg6O4o6JFiXort1/kq6DyoJuCjaGDDXo0CC7Ukq4wRfYhxRVx8x88wTQDeuJlbv4rn47i2vAqGV/xkcT1+zuPX1gukz1hnspdB+/EyeY90C9yHtJJT62U3IkwIKDvY/JAQsUyDQd9N8HIrtCYen8ebPvEXckNiBrn12xwxQW1oGRM0A032QAAq/SIWM4kWdnVgU9heMLPp770DQ41sHdok+7ZcoZXOo5kdNKKMMxMhPDYwwzfpfbremxVycgXWEh5yKVWIlWg1a68Waxrz0WkQwdYFwWtQ6mdExvarSbriUqwLm4AU6veSPcNja7kVvKaUFcGcbZgbDXq/RGvu1cyEZXldhvR3KpPiBw3Ss=;IPAVe5iv9w6CeT/CH/V1qQ=="
+secured: "GcdlxnAbz4cOUdNxM9MKrbLm1es/Lig4sPdpnMmphV33JNvA8xl5KN1P9rMTYhhQFg2NePzFl8ri2Y9Kb99Nw1CtMB81t7XfIX4SmzH+LFeteTiDaN+l2hofWTYK0CDaHWLi+AQx1euxezHFLzAXUUSaiJenbJW04KISX+p2tc3Xi0h34wkTHnvZV8u3AicqKewnHNyfPXF/r+/mtPI35LdiVqswgeWB9tZPmmeOUizQ0Qou8Oxp8s3bTU+shfoQ/Q3rlHqBsNie8u+yOg1KUZOv+PemQ0C7Fwgm7/m8N9oe8/JKma/RAEEUqBDKaaEaHJbvefasdeGUGn/TZXqFbeXZ0+C73pljVvbSLdJH1kw=;SAp1OgSkJ8NpwTqmr7zXkg=="
 ---
 

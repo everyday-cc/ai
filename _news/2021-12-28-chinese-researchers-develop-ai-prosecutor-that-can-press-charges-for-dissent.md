@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese scientists develop AI ‘prosecutor’ that can press its own charges"
-    excerpt: "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say."
-    publishedDateTime: 2021-12-26T12:00:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 86
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/4265d674-399a-48e7-9d49-2483db66fb2a_9b813b1f.jpg?itok=DMdLjKwP&v=1640339277"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China has developed an… AI prosecutor?"
     excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
     publishedDateTime: 2021-12-28T00:50:00Z
@@ -149,20 +133,6 @@ related:
       name: Human Events
       domain: humanevents.com
     quality: 32
-  - title: "Chinese scientists develop 'world first' AI prosecutor that can detect guilt in most common crimes"
-    excerpt: "It can identify and press charges for Shanghai’s eight most common crimes, including credit card fraud, theft and dangerous driving"
-    publishedDateTime: 2021-12-26T16:45:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2021/12/26/chinese-scientists-develop-world-first-ai-prosecutor-can-detect/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 23
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2021/12/26/TELEMMGLPICT000167993732_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "xhmn/8g9s72ilyC0RFM8L+5HFipcGFzzqPvLf3H2ITndb4eJUQroZIQM19sCG6sazrQz1aPgmZFeaGq3HuPPbq7AbRJQYUS1ugbadbPVig5cIjTb0vAzxUHQuS0fFOna5k8bIa5TF9MMQ1lWAnjW2Jwa2oNOFi7kuewfgEzCHPFyrEPQngt28qyl2+Gyi9/dCbueUgZ26joF+YESYHeKIgQJ1eViVs9SSSR7jmOxhK8sbiIUhZ8h/yNmtrIi47xLGCmhVjW3IjuJU1GsmmExCos4GG4h+ITy4hnr8QRZUSwQI/RWir1gNoRlWyWXb5QiWCzdJ4mZ85+x6LMcK7iRp6fFvQgCGU3GB6jvt4RYoiPizZA9n/2wLNApfn4hIgthErhbHhlZcgbOnlg8GwR/wEWNB4kLyBkwQJ8N8XqJs5ErBXeUOj0oqFEWv1m+HXB0IKWAGVEkSCcajfLyvgRZ4QqljeE19g8lsZloqn6b6wZe3sdR5v0LCx5i8605m85P/Z4+KFudAT3BimAnke/ccQ==;xo5Lu5002BIc4/eNImeR4Q=="
 ---

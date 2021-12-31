@@ -89,6 +89,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Top five trends likely in fintech sector in 2022"
+    excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
+    publishedDateTime: 2021-12-31T04:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/top-five-trends-likely-in-fintech-sector-in-2022"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-07/f00f748a-951f-4708-b95c-9650a8fbc744/blockchain_3277336.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Create a Reliable and Secure FinTech App?"
     excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
     publishedDateTime: 2021-12-27T10:22:00Z
