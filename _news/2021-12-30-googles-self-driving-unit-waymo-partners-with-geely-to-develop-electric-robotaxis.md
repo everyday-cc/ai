@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Zeekr, Waymo working on self-driving EV"
+    excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
+    publishedDateTime: 2021-12-31T01:30:00Z
+    webUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
+    ampWebUrl: "https://www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
+    cdnAmpWebUrl: "https://www-autocarindia-com.cdn.ampproject.org/c/s/www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
+    type: article
+    provider:
+      name: Autocar India
+      domain: autocarindia.com
+    quality: 59
+    images:
+      - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
+        width: 900
+        height: 596
+        isCached: true
   - title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
     excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
     publishedDateTime: 2021-12-29T21:45:00Z

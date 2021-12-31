@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-way
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zeekr, Waymo working on self-driving EV"
+    excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
+    publishedDateTime: 2021-12-31T01:30:00Z
+    webUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
+    ampWebUrl: "https://www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
+    cdnAmpWebUrl: "https://www-autocarindia-com.cdn.ampproject.org/c/s/www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
+    type: article
+    provider:
+      name: Autocar India
+      domain: autocarindia.com
+    quality: 59
+    images:
+      - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
+        width: 900
+        height: 596
+        isCached: true
   - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
     excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
     publishedDateTime: 2021-12-30T10:44:00Z

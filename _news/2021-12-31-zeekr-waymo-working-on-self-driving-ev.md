@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
-excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
-publishedDateTime: 2021-12-29T21:45:00Z
-originalUrl: "https://www.motorauthority.com/news/1134602_geely-s-zeekr-to-build-shuttles-for-waymo-self-driving-service"
-webUrl: "https://www.motorauthority.com/news/1134602_geely-s-zeekr-to-build-shuttles-for-waymo-self-driving-service"
+title: "Zeekr, Waymo working on self-driving EV"
+excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
+publishedDateTime: 2021-12-31T01:30:00Z
+originalUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
+webUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
+ampWebUrl: "https://www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
+cdnAmpWebUrl: "https://www-autocarindia-com.cdn.ampproject.org/c/s/www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: Autocar India
+  domain: autocarindia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hgmsites.net/hug/zeekr-shuttle-for-waymo-self-driving-service_100822268_h.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
+    width: 900
+    height: 596
     isCached: true
 
 related:
@@ -41,22 +43,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Zeekr, Waymo working on self-driving EV"
-    excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
-    publishedDateTime: 2021-12-31T01:30:00Z
-    webUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
-    ampWebUrl: "https://www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
-    cdnAmpWebUrl: "https://www-autocarindia-com.cdn.ampproject.org/c/s/www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
-    type: article
-    provider:
-      name: Autocar India
-      domain: autocarindia.com
-    quality: 59
-    images:
-      - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
-        width: 900
-        height: 596
-        isCached: true
   - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
     excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
     publishedDateTime: 2021-12-30T10:44:00Z
@@ -73,7 +59,21 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
+    excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
+    publishedDateTime: 2021-12-29T21:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1134602_geely-s-zeekr-to-build-shuttles-for-waymo-self-driving-service"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/zeekr-shuttle-for-waymo-self-driving-service_100822268_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "BeniQBDpvyRV8lsfdi5TCHR56HyEFR0aSrK0OXuGP3p1islPASzcsP+d8VGoiLpmb2XJncR16SEkSk37609guQw0NsaCTu7CTaqTeFOgIxNE1Yao36y3DfrrcGQr7jFWKfgpmzXoYqdgjv2Cj+Gln1uaN3aqZ8Whkz/d3y6sP51rSQwZTBK6GKYzpUVTeO+MWX0N3j260hKU+/H3KTA8tGTuRzsvIK17EmTRIX6sDSy44krVlB1p8fRrZeYKg08iBdsLMzrt3pnWmJW1waiPMCAS2X1DLgmZ4M8GE83Cv5il5ZqRU/lsXNsY2TkxMJrxSE1TWXspbJ0TEzEFfy02rnT6F6u0+M2HA9vjXKCmntEa4s5NIQLBS3nj9sWcawOBEv7f8le/Vhn1tPjLWQKi9xnS+Q42nCOXWhCG6N3x95+o0k8svr1xsKxEo6BQlWw5VT+FdjeMHlzBflS+yowCCXfvf8gI5g/8ZGiv8Hwz4jHSLW0QUdNTPwEe+voADZcks7eocO0T6wBhw2wbsg8ofA==;0rQB6tNGGKPEOYH4JKZbSw=="
+secured: "KCyVIL4aHvhcLVEe8LkD94kbswR8yPAmrLH2JxwPopN0abDSorgvUJoBwVLnyGfw04krF9E/z8D+s5zGOJSfRsQipzeK3xB9znkmFVFaAYHU+as+F58nX4RgkQygV1pLHZBlwm+Qfpb1qudEDK7s6GFJ9l1TyNKR/NX4z938wufrhJOTURwqjjhxZbiCqhJ+3yZGDq2vb4LbQ9MfDfrnP5IYvl4G35PlUWzTI5zo0dgpQqR8/coVfQsdnnaB8w7KzwfJXK0ZXEntnAu0rWXJy8fGVxyZ7jxVrSoVXYZtQiGyDXMCBV/gvRFseZWJsYrdvf3KBC47b3EblT0VveqrjM3CTkMIHcKM0mEAmVX6AGs=;73cdUcQzw9iBtq6Aq3QR2w=="
 ---
 
