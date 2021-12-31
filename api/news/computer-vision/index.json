@@ -353,31 +353,22 @@
       "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
       "excerpt": "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20211220la13399/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T12:20:00-08:00",
+      "publishedDateTime": "2021-12-20T11:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -507,6 +498,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
+      "title": "Samsung JetBot AI+ review",
+      "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
+      "originalUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BLS6YRHSXT9fdVWemg9qvD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1341,49 +1375,6 @@
       "provider": {
         "name": "TrendHunter",
         "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention.md",
-      "title": "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention",
-      "excerpt": "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

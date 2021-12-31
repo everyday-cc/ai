@@ -179,6 +179,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "TENET FINTECH GROUP INC"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
+    publishedDateTime: 2021-12-31T07:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "CbxsnPbA1FYgFlIgjDMUe0S6PBxW9/5hmmd4sZV+x3jZH7sxjvdobvVkNllrTnI5ztLH62UAoSOI5R7znFVT6o6BfELPjVp/kWZ3OqPi2B+gUMwieqSzRA+YwFzXu0yrTOnk7TOapLH+hQu+0NoKrUG0C4hrSHoghxAIEzHZesGQVsvW72XpCyEmt5clbUny04DQ8NqxYzVi4UXvaoXsQCQaY47H+fWj9DCs0bmyzdTU7E+cTJ705YUhVvV6SlqFjz/TeGnCwVneBylZnPSVoO0LnDEH56CK3qCTMJpa9DyMIuq/bCuqRQcxKv5f4G4WD2GRHDUSrZXRv1n3L7xeW2pzORAltp8IcUoE75pj5nM=;CERNlSvkSJZP0tedY4vnUA=="
 ---

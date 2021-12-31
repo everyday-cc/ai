@@ -38,20 +38,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Rethinking AI: Dire Warnings And Imperfect Results"
-    excerpt: "Could it have been simply ironic that the Halloween evening edition of the CBS newsmagazine 60 Minutes featured a story on the bestselling author and thinker Yuval Noah Harari and his perspectives on the power of data,"
-    publishedDateTime: 2021-12-26T16:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/rethinking-ai-dire-warnings-imperfect-results-randy-bean"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHcoJutlygLqA/article-cover_image-shrink_600_2000/0/1640535267249?e=1646265600&v=beta&t=P6Nvy0uPngPQiMrauGH_CtJVxmGuhtgy5MdFt-DHoNM"
-        width: 960
-        height: 532
-        isCached: true
 
 secured: "lrw6ebci9wCdc8OKLj+l/xMTrty+eZCWzpbLAbHkomE7RDci7+YE1nKz1G3rNQurl64mMNcwn1EKRPw+X+bN3GU90cniV5MukhSKr8/y65/gzCT+qmNaXfWtVrtQSjQzoeEyNiyo8WF/KfJfs3l+V/W+Wq32PofADn/TNju/J2+v91awaLGKlcPP1Z4opKB4u3Uedgq6EVT05gGXkXzAqbC9qd+7fZE0yHNQSOXCslD5pNP0TvxuSMSKT1ba3sJMOCVReijreyGJTILHjqnpWdjb2OrLcfzrl4PX6Cj9y5LGbMCDfhtwY2XYD5YNj4sVUvRgX+pjN6KLiTAiKsNaw404PtaMhcbDIVcb7/WR2rg=;OEyNOsNW/SsUuqfu812xiA=="
 ---

@@ -178,6 +178,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 18
+  - title: "TENET FINTECH GROUP INC"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
+    publishedDateTime: 2021-12-31T07:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "W4XdxVTgNbGpS+jgUI8+zweStUo2My18WIMpj1Au7Q9tZaoWA30pE/8uIH4un6NEDehMgiQUya0o19xW4/BiflAol8bhfRNBuI/5wFAyUE6yOc4PRrYAkcxKVZxHpcMy2x0PXyMF4yzVkvCmNPD5Fq3ay8qCz5KFuUVNYI3kYuGHQKGkOdqWp5IWTAKl4UDxlVfnesbUFWRp4hxB6Zgzoc7ASwQ3aVBq6glDF2IJ4bz3DkWxorMKjd69Xtm4QqKytHBbx0R0SJsh+HbGz3UDII1UOItwYOuulkd0Xo/ri9yd20hTFLMZt3rtqkQkdHXvZKqXJJL8Nb/sckhEh2S4Vf0OTIPTOhlRaA1dT+QkTklGgpSAhAbvS2XmsrrndydckwLBsF0d7lIz3qO6J1r2LxCXWSmdmTBd4G3XBfqBxZ3R/bpjcm+jStwh6iJzxjDmPL9ErXzJQ3QttahBmr8a/OoC9TpEiFt+SsmFqTCL/8lmP4vN0aOR2/xraU2Ty/RjX2JBCTEtRDCltjrX//cyvw==;8ZjxI8ZaJBuTyZZvpiPPsQ=="
 ---

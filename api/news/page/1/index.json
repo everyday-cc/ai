@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/30/how-to-discover-ai-code-know-how-with-catalyzex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -551,49 +551,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-30-springtime-for-ai-the-rise-of-deep-learning.md",
-      "title": "Springtime for AI: The Rise of Deep Learning",
-      "excerpt": "After decades of disappointment, artificial intelligence is finally catching up to its early promise, thanks to a powerful technique called deep learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/springtime-for-ai-the-rise-of-deep-learning/",
-      "originalUrl": "https://www.scientificamerican.com/article/springtime-for-ai-the-rise-of-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/6A0E5E84-5708-4E63-89DA2A16FA45B74A.jpg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-30-the-next-generation-of-robots-the-inside-skinny.md",
       "title": "The Next Generation Of Robots: The Inside Skinny",
       "excerpt": "By making robots increasingly autonomous, versatile and tactile, we can envision a future in which humanity can truly excel.",
@@ -891,6 +848,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks.md",
+      "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG+ Stocks",
+      "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-daily-crunch-using-public-roads-trucking-startup-tusimple-completes-80-mile-autonomous-run.md",
       "title": "Daily Crunch: Using public roads, trucking startup TuSimple completes 80-mile autonomous run",
       "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
@@ -1098,7 +1106,7 @@
       "originalUrl": "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {

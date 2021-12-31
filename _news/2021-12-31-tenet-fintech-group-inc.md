@@ -1,28 +1,22 @@
 ---
 category: news
-title: "How to Create a Reliable and Secure FinTech App?"
-excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
-publishedDateTime: 2021-12-27T10:22:00Z
-originalUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
-webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
+title: "TENET FINTECH GROUP INC"
+excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
+publishedDateTime: 2021-12-31T07:45:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: techacute.com
-  domain: techacute.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
-    width: 1400
-    height: 788
-    isCached: true
 
 related:
   - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
@@ -105,6 +99,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Create a Reliable and Secure FinTech App?"
+    excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
+    publishedDateTime: 2021-12-27T10:22:00Z
+    webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 24
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "FinTech trends that will change the BFSI industry in 2022"
     excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
     publishedDateTime: 2021-12-28T10:09:00Z
@@ -179,16 +187,7 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "TENET FINTECH GROUP INC"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
-    publishedDateTime: 2021-12-31T07:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
 
-secured: "aTY1AqzjOAn76qJY8YYFH+Cb82TniSePxwrxWCvZ+SzO4bXc6HHGb4vNMxcz8Hzq+z4dpbZ5xSJDTLZdns+TXhAL481JDXI/kOt9lyxJI+xlsBQq07KJlRnUm3Lg5cHEsKqvwy6Fu51JOErTr51qQrM5kElUlAkxYISxyrL4XPc33bUj7OwjhMyNAaKQEx4OnCVEAVcv5FKne3RtACDJKK250ehG75ASg9SqNB/3xuvgunAZOEAUkkkllnirZ/EJaL1QbPqa/lH97O5AT65q0DFCMIIp5DM8rIar0PkPmQ6rSjgy1aKw/DvaBWne83ze/aUYHapeF60DIy7o+xCnQ/Ogk49t1u+LGVk6Ucp1UbDvBYyL+jpKLUe7Zj+bfVsNDVbN3ysEhdAiJfQ1bxWDKkgdgfQYWXsMrr38HTR0cB2HvEkXOyTWqEdikq/WPV2++4+BAig+/0BzRQvizW9n6ULB2qBbgmtHnAN20+eJTY5aoh2VDoc7HXC4GxRuYf6Zhc4VSH1zEhjnq3iXgVdTyA==;e48qNOoupuyHQu7TNI2JYw=="
+secured: "yeqsifI+wKXKr7nstWNK8h8bqQEnd9u2eUVsR5BiVSwlJAHpEQY31r0vYzImAfcQE10ZHISpERkRwxMHMp5KkNKUfk+qhwZnG2AODdy2aG3ind+z6YuwLUc4eRTA8b2B0PR/cEBTrn/Xs91xiNakPp22lC9eyQPX0P4Gwcan5olhf5KEiyGK8QzuXi/oovJt2YiieHiYV47VXwo3h/gSN2j0GsqE904MGi4cnH6uUSu2/DedYIHqWzgXeHSf/nkWqXsDgnmHFGKx5LzrO01JFDJcnJO8Ep5AJXVRTPkUsFhXSVM0aNK8h88OdyDk1FL9ZOpQEftfHfmPR5geWKuN1NnondAsdCyOjOtQioSTHPc=;C5qT61j1WWXwy1w/XFTz+Q=="
 ---
 

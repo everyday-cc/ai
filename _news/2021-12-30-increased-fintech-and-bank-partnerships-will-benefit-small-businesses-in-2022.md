@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -182,6 +182,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "TENET FINTECH GROUP INC"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
+    publishedDateTime: 2021-12-31T07:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 4
 
 secured: "sl5jXAh3kivuHoUvG2lO4BfHXZCXXwlznCq3oJ6l2lnKDrK1Orz38eQ8skqSqnzgk9aAUQ5pfPx/2PqpDMbpyeBurVL2Hn267jcTQeOYZJU2fGsWoGGNK7TUOzkvdwd/51rwgH8RobjiQokel/HX4cqy8SqSn7xayzBDJO53i93kkuZK/Lic5yQkVHKq3D9T18F3AtRw+JZ/g7+3tPfHimUUzwXrFcNxIDQscs7+sCuzAhGb/iRdSTCSvxZAKdS2k0dLzfNelk/UMme3/rKNzBaYfpFjFQZiRPgRqQmStzKj/uge3SLJxsl7drvsGr9iusJV6ka6H1tm5013k6ykZhjN7eWrNrvzHVBSDaKWLohPIm0ZPLmq1+1xbQDtiK/GDUAlmTvFPSyuL64UiVYvE/niACcKANYK0Qbj1F/QTz04x/P4vS7jtur7S4MTR+6irXlRyHkgMgDOX99lEQs/TuyeJ8cMwnP2foNAb3NOD6ItE3+NSfB7/WBCrtMh4cu6PkzOP5WelqfkZHEiwY2W9w==;c3ojO7ilUdqvDQMl9P4LZg=="
