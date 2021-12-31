@@ -61,6 +61,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "The Dark Side of Machine Learning in Cybersecurity"
+    excerpt: "While machine learning (ML) is revolutionizing many industries including cybersecurity, it also has a dark side that often goes unaddressed."
+    publishedDateTime: 2021-12-30T23:19:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-dark-side-of-machine-learning-in-cybersecurity"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Dark_Side_of_Machine_Learning_in_Cybersecurity.jpg"
+        width: 1200
+        height: 902
+        isCached: true
 
 secured: "zvIDfCxd7i/jve34d6OuKpmcskjvQFxBpL97RrdROXrwe/sy61+mdsW5gvocMTk88WyJdQWm7ScNbZ2K+grtQsKhmv9jKbTISHzKwgNTWI/K+28TTwTs4bQRg7JPHU408XF653HGeck4IpcVWZ/sZd9xP8H1x+eoa1LD5vxNVT2go3A1c6Aq10dzKVMDNWIxSUCC2U2jBAzfJGJL+137yoX5HjoRed7GXiWPxrqOuOXPY9CKu0M9Ol4tvs2xXKz6lXRaYTXcYVCUbhQ9F0W3cHznoH3ornDt94Rzih6Yto/IIjapP9SwtmEKALVhAIFufYoPYTatbwh0mhW2tOQZGFdzAzGv+cZhxZTp54ws4drbaIg4YoHGVUPRdmVmda/nB9psnGFkmsFPE8c219Rb5XxrJ2qBEQOopY9N4CgZ5VFncEM0l9/sLbw7XEFyA8jB5PiiQ5fkwyXuZASlYCeESG48ThG4tBiKTrsxTJ/+jqdqxfRL1u+nkyRxL7hfGE1z9Zp5Zlfg87O1ztdZnRtLfg==;Kc96wr+iOl214UK2Jf9FsA=="
 ---

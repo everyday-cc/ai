@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs"
 excerpt: "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination."
 publishedDateTime: 2021-12-29T10:30:00Z
-originalUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
-webUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+originalUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+webUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 369
     isCached: true
 
-secured: "t2KOONGs5uphht14wfSxmS5pUyI5ywpTWZ9eByDQWZNm5tGUyM9IESCV/pmNAaXTj7wbOiKz2+X58gqdALlsRlAiqYHM+w6rl6l6tFcOpdqppoyU/hajByoTRVME97Lx2j/9w6rLFY+U9P7Y88/ifuDPoQfDOBmCNKnK44jD2+j9oatmbKyWb5+k/03WdX5SDHuL3Zc65477PX3zmnrDTPtRpn0dNTHHVkxGKD+79yQJu7wwy0si+Y3dIlIs82uAe2F/WzV3BChJ//Dfc09Mat2o0mjZobe001FPKdroNfGjPxHFUqJita3iEEpeEBg8WGMlVxz+dDx37/vE1aXJ7GgkiPXKsrP6YLU7Y1BKkBmAy0EJzOogyze0kMUxNzmJ4Zx7uOGZuAr2Sqrj4f41SjDTC+dMX3/LQyyUg+53DXwTcv04qxlW4ozB0GJ7euGh8htxlJ5gCmJupuZpWdiqCCmXnZ/g+0VgMWjnIo2IODqpxWIK3xxmEoOWEStOLdHU5YMzxJ0NIhAt4oVunfmw0Q==;L4UWLRTuDWYo4mCPGeTJHw=="
+secured: "OTy/CgZE3n2+6tNw816T01/7fi1HtLjOxWxFTzna0004w/kkj6JuiOOLmlxfb3P5Xlqnev78ouJeqWxObfKPJQ+3CI/ExAFWpV72z1IdAunTuFTGhNnWGH2MQGBSoVIZPMroBq4AD/1e5aSS+4ZJBytZkDvqlIKo1lc9e7mvuI3vKsXQLy4rSV6MSx6d31WhIoi2E4xsQC9nh7HjERvYWhZJSpjtFGZzqTw8sQXAh9JSTWC7/klpbLhw3QB9LhbBek/nmTSTvNS/Y4BXTFxaLzyUMirIiEqj6fF7W0M+lOv7yNARS8cUd3CUjyYJGv4VosKflzTRDyyQtRkYCqKY6dx5IeAleIcoTkhUBHeLqQQ=;4b8RW5RrNPfTa6GMqmwNvQ=="
 ---
 

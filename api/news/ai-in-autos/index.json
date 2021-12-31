@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-et-al.md",
+      "title": "Crashing The Self-Driving Party Of Tesla Et al.",
+      "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
+      "originalUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
+      "publishedDateTime": "2021-12-30T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-or-r2d2.md",
       "title": "Delusional Elon Musk claims Tesla Robot will be ‘like C3PO or R2D2’",
       "excerpt": "Elon Musk says his upcoming Tesla Robot could make a great buddy -- like C3PO or R2D2. We stopped laughing long enough to write this.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-r2d2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -212,49 +264,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-28-video-of-tesla-driving-dog-was-staged.md",
-      "title": "Video of Tesla-driving dog was staged",
-      "excerpt": "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
-      "originalUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
-      "publishedDateTime": "2021-12-27T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-27-chinas-byd-momenta-enter-venture-for-autonomous-driving-technology.md",
       "title": "China's BYD, Momenta Enter Venture for Autonomous Driving Technology",
       "excerpt": "China's BYD and autonomous driving startup Momenta have established a 100 million yuan ($15.7 million) joint venture to deploy autonomous driving capabilities across certain BYD car model lines, according to a Momenta statement and a person familiar with the matter.",
@@ -359,7 +368,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

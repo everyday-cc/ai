@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-28-video-of-tesla-driving-dog-was-staged.md",
-      "title": "Video of Tesla-driving dog was staged",
-      "excerpt": "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,",
+      "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
+      "title": "Our most technical people are down on AI ... and that's a good thing",
+      "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
-      "originalUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/",
+      "webUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "originalUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/27/45351a94-cac1-42d5-8bd6-3df2bf850703/resize/1200x/3aea1d8794e74fd59682cb05feb0db29/shutterstock-1277342386.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/",
-      "publishedDateTime": "2021-12-27T10:23:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "publishedDateTime": "2021-12-27T11:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     },
@@ -899,7 +908,7 @@
       "originalUrl": "https://www.fedscoop.com/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {

@@ -2,27 +2,45 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
-      "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
-      "excerpt": "Psychedelic therapy is still in its early days but combining it with telemedicine (and AI) could make it easier to scale while gathering more granular data about its effectiveness.\" Mind Cure Health Inc.",
+      "path": "_news/2021-12-16-octoml-helps-enterprise-automate-with-ml-platform-for-the-edge.md",
+      "title": "OctoML helps enterprise automate with ML platform for the edge",
+      "excerpt": "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-why-some-psychedelic-assisted-therapy-clinics-turning-artificial-/2021/12/16/9512975.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-why-some-psychedelic-assisted-therapy-clinics-turning-artificial-/2021/12/16/9512975.htm",
+      "webUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 131,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T05:33:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,7 +49,60 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-cxos-are-we-ready-for-ai-to-assist-human-decision-making.md",
+      "title": "CXOs: Are we ready for AI to assist human decision-making?",
+      "excerpt": "One of the emerging areas of AI use in corporations is to assist in human decisions. But is it ready, and are the decision-makers ready for it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "originalUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "publishedDateTime": "2021-12-16T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1088,57 +1159,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-us-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance.md",
-      "title": "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance",
-      "excerpt": "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "originalUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452768/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "publishedDateTime": "2021-12-15T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-22-retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales.md",
+      "title": "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales",
+      "excerpt": "Vidyuth Srinivasan, CEO of high-value goods authentication platform Entrupy, told PYMNTS counterfeit items are a $3 trillion problem for the retail industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/luxury-retail-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
+      "publishedDateTime": "2021-11-22T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-red-hat-bolsters-partner-ecosystem-to-accelerate-data-science-pipelines-across-the-open-hybrid-cloud.md",
       "title": "Red Hat Bolsters Partner Ecosystem to Accelerate Data Science Pipelines Across the Open Hybrid Cloud",
       "excerpt": "Red Hat, Inc., the world’s leading provider of open source solutions, today announced the availability of Red Hat OpenShift Data Science as a field trial, as well as an expanded partner ecosystem focused on this new cloud service offering.",
@@ -1062,50 +1105,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time.md",
-      "title": "Returning India’s missing pets with facial recognition, one dog at a time",
-      "excerpt": "ForPAWS is an app that will soon allow you to find a lost puppy's home using just your smartphone. Here's how it aims to make things easier for pet families down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/11/ForPAWS-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
-      "publishedDateTime": "2021-11-21T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

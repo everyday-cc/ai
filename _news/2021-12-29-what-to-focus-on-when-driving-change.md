@@ -56,15 +56,6 @@ related:
       name: Truth
       domain: studymoose.com
     quality: 19
-  - title: "First fatal self-driving car crash."
-    excerpt: "But thought these self-driving cars are fitted with radar, which wouldn't have been susceptible to the same visual problem as a human. Which brings into question how far driving aids should be allowed to influence the driving of a vehicle."
-    publishedDateTime: 2021-12-28T04:04:00Z
-    webUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
-    type: article
-    provider:
-      name: PurplePort
-      domain: purpleport.com
-    quality: 4
   - title: "Japan automakers to fit cars with level 2 self-driving tech by 2022"
     excerpt: "Toyota will install level 2 automated driving functions on 62% of self-driving cars by 2030. (AP pic) TOKYO: Major Japanese automobile manufacturers, including Toyota Motor and Ma"
     publishedDateTime: 2021-12-28T13:39:00Z

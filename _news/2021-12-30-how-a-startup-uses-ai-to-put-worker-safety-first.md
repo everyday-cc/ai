@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worke
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

@@ -2,6 +2,48 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-12-09-pentagon-creates-new-digital-and-artificial-intelligence-office.md",
+      "title": "Pentagon creates new digital and artificial intelligence office",
+      "excerpt": "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-natural-language-processing-is-shaping-intelligent-automation.md",
       "title": "Natural language processing is shaping intelligent automation",
       "excerpt": "The content of this article is inspired by Pascal’s book Intelligent Automation. Natural language processing is the name usually given to computers’ ability to perform linguistic tasks ...",
@@ -1139,57 +1181,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
-      "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
-      "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
-      "originalUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024",
-          "width": 1023,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
-      "publishedDateTime": "2021-12-08T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

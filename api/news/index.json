@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-et-al.md",
+      "title": "Crashing The Self-Driving Party Of Tesla Et al.",
+      "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
+      "originalUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
+      "publishedDateTime": "2021-12-30T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-how-to-discover-ai-code-know-how-with-catalyzex.md",
       "title": "How to discover AI code, know-how with CatalyzeX",
       "excerpt": "A quick guide to help people use CatalyzeX's search engine to discover code and technical know-how for AI and machine learning projects.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1001,7 +1053,7 @@
       "originalUrl": "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-r2d2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1149,7 +1201,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1191,57 +1243,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-how-a-startup-uses-ai-to-put-worker-safety-first.md",
-      "title": "How a startup uses AI to put worker safety first",
-      "excerpt": "Everguard combines AI, computer vision, and sensor fusion to prioritize worker safety and reduce the risk of injuries and accidents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/",
-      "originalUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1163443516.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/",
-      "publishedDateTime": "2021-12-29T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

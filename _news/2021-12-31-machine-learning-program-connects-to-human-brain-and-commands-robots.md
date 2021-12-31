@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-30T19:09:00Z
 originalUrl: "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/"
 webUrl: "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg"

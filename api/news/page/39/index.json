@@ -2,6 +2,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-11-29-new-chest-imaging-database-assists-ai-in-the-covid-19-fight.md",
+      "title": "New Chest Imaging Database Assists AI in the COVID-19 Fight",
+      "excerpt": "Data journal GigaScience is the National COVID-19 Chest Imaging Database (NCCID), a centralized database containing chest X-rays, Computed Tomography (CT) and MRI scans from patients across the UK. Ut",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
+      "originalUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Chest-Xray-Image-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
+      "publishedDateTime": "2021-11-29T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
       "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
       "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
@@ -1167,58 +1209,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
-      "title": "Here's what defines a self-driving car",
-      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "publishedDateTime": "2021-11-27T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

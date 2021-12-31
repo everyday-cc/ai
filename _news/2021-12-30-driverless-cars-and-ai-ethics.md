@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/"
 type: article
 quality: 121
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless Car Market Leaders Innovating The Transportation Industry"
+    excerpt: "The company uses artificial intelligence, cameras and other low ... and has over 180 employees. Asia -Driverless Cars I would be remiss if I did not highlight Asian driverless manufacturers ..."
+    publishedDateTime: 2021-12-29T17:27:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc84e544afde6fd717943c%2F0x0.jpg"
+        width: 1200
+        height: 665
+        isCached: true
   - title: "Why AI-Driven Analytics Is Essential For Data-Driven Decision-Making"
     excerpt: "AI-driven analytics can help companies make better decisions for their new business models and contribute to three pillars of business success: increasing revenue, controlling costs and ensuring high-quality user experiences."
     publishedDateTime: 2021-12-27T10:45:00Z

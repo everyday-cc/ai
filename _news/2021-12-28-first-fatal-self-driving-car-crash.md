@@ -19,56 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Learn what makes a self-driving car autonomous"
-    excerpt: "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car."
-    publishedDateTime: 2021-12-26T12:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "What To Focus On When Driving Change"
-    excerpt: "The inspiring story of Katrine Switzer's Marathon Woman got me thinking about how to drive change in startups. Switzer was the first woman to run the male-only Boston Marathon in 1967. She ran despite knowing she might be stopped."
-    publishedDateTime: 2021-12-29T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/"
+  - title: "Crashing The Self-Driving Party Of Tesla Et al."
+    excerpt: "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom."
+    publishedDateTime: 2021-12-30T22:55:00Z
+    webUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/"
+    ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614213c46cf154314fbff920%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537"
         width: 1200
-        height: 800
+        height: 674
         isCached: true
-  - title: "Self Driving Cars Are Good for Society"
-    excerpt: "Imagine being able to sleep and drive at the same time! While that may seem like a ridiculous concept, it may soon be a reality. In fact, Google Inc. has"
-    publishedDateTime: 2021-12-26T17:28:00Z
-    webUrl: "https://studymoose.com/self-driving-cars-are-good-for-society-essay"
+  - title: "Video of Tesla-driving dog was staged"
+    excerpt: "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,"
+    publishedDateTime: 2021-12-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/"
+    ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
     type: article
     provider:
-      name: Truth
-      domain: studymoose.com
-    quality: 19
-  - title: "Japan automakers to fit cars with level 2 self-driving tech by 2022"
-    excerpt: "Toyota will install level 2 automated driving functions on 62% of self-driving cars by 2030. (AP pic) TOKYO: Major Japanese automobile manufacturers, including Toyota Motor and Ma"
-    publishedDateTime: 2021-12-28T13:39:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/12/28/japan-automakers-to-fit-cars-with-level-2-self-driving-tech-by-2022/"
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Mike Klimkosky shows the different features of his Model S Tesla plus the self-driving mode"
+    excerpt: "Tesla Club Wisconsin President Mike Klimkosky shows features, entertainment, self-driving mode and much more in his Model S."
+    publishedDateTime: 2021-12-29T12:17:00Z
+    webUrl: "https://www.jsonline.com/videos/news/2021/12/29/mike-klimkosky-shows-different-features-his-model-s-tesla-plus-self-driving-mode/8952473002/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 29
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/12/12/PMJS/18fdf1f4-31c6-47ed-9ba1-cd90d0760f69-MJS-EV00p1.jpg?quality=10"
+        width: 4717
+        height: 2775
+        isCached: true
 
 secured: "cKobnB5ZBeNz1ww8uQPchwvgwou4MmVNaio/EDm1YPIWnrrpRLBSIygyMMz6ZFFzX9reGeDEAWXwVth1seeHu4BYnmqyf8dDmsMaYlerFUmgvLt2MI6dTRfwajm6CSm/SIbivsaPkuDLglGP4ILC1+wUVsFqrqmZ5XyB4AwagutLfpxq/3VrzfDScG1SOLh5vlglUK25TAqBGoRraaI+clgBdhCDBE0Ehx8gtt2a9eCKjJ5JmotzLPWWRRf1nuoWaVh9XU6TNhy5KON8jX3fpxx2kSN1qMKs1NBNgR7fZUzFzMi9K/53zXOrPiuGsy6HzbIU0bJrfWxCy/qcRLpNug5oGafilmvGBkxI8gteS/o=;mWAtUmABSukvQrCKiUpvUg=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The Future of Artificial Intelligence In The Workplace"
-excerpt: "Smart technologies aren’t just changing our homes; they’re edging their way into their numerous industries and are disrupting the workplace. Artificial Intelligence (AI) has the potential to improve productivity,"
-publishedDateTime: 2021-12-27T07:57:00Z
-originalUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
-webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
+title: "What are we likely to see in AI in Healthcare in 2022?"
+excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+publishedDateTime: 2021-12-30T23:39:00Z
+originalUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
+webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -19,12 +19,13 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGCUu_Dh3vAKw/article-cover_image-shrink_720_1280/0/1640591863869?e=1646265600&v=beta&t=aYuBTGZ9ssnq_STUQ4ScE3dG3qvyach6g8U6_Rur29s"
-    width: 1277
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+    width: 1016
     height: 720
     isCached: true
 
@@ -45,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
-        isCached: true
   - title: "Survey Finds Healthcare Execs Bullish on AI"
     excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
     publishedDateTime: 2021-12-30T17:36:00Z
@@ -72,6 +59,20 @@ related:
       - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
         width: 2732
         height: 1200
+        isCached: true
+  - title: "The Future of Artificial Intelligence In The Workplace"
+    excerpt: "Smart technologies aren’t just changing our homes; they’re edging their way into their numerous industries and are disrupting the workplace. Artificial Intelligence (AI) has the potential to improve productivity,"
+    publishedDateTime: 2021-12-27T07:57:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGCUu_Dh3vAKw/article-cover_image-shrink_720_1280/0/1640591863869?e=1646265600&v=beta&t=aYuBTGZ9ssnq_STUQ4ScE3dG3qvyach6g8U6_Rur29s"
+        width: 1277
+        height: 720
         isCached: true
   - title: "Healthy data: trends in healthcare tech for 2022"
     excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
@@ -111,6 +112,6 @@ related:
       domain: tmcnet.com
     quality: 32
 
-secured: "xzizeOm3Sb5ZVDTY+SdqNc3ACdlNhlPMWaU3CF2n3gUh+jKKC3KQGAW2NAn08wU7S20vGTLRbj1gub2Eteurbhp+Jp0SKg+lKyUrVH61oKhtZqwQWLtAs86sl4f3xoZWABwSxID6V6eAngL7+vi2lCgFB/7fm2WkK8cQUyZzcQl+Suka9Amui990sTkvWMx6cOJTKwuOOtEKAxOncRM2YnU4G+PaRIA76ohBbPv5WSEBCquB6ckInQWez6CrO3fCIh6xJ8zHWdYdTmF9dI/ZtC7BNsOzF4T5X4MfelcppgKwjFzPVujR/HWuA7ijSWsfhREaj87mK3EjGVV3DkcSq4BoCvIsb3/CHs1qosnR/xz/qkiI9PVZdnWeaEbnAYhjHAqlLuoz9kHf533YhENdHu54P7kfd33r7qyEn6y3MoIXM834DDVtOoIHKDS5uN+8/MdMG9044/5q7XgP5HUSk90jWcoKVWrZiuLjPnqaV0iYGRR5y7zX++9ZptciwubGORqJHw92enXusk6fWiO39w==;MWVpjpLYtp0w479j/+421Q=="
+secured: "Og+NuqMhOzZp3OupNiU5RdVi3UWTuN1TTSUwq2ug9bY0+UcC113n2MA0V79V/m3dLl0fyhqOy7P4OJiPitsauHhibD0CwD2y78/UaoUvDt2wnT/NbvbhXtAt3cwODwSs/BAABPKjUQ8BMx99rABrhK+WUnG9AghRD/1jjuXSvfg5yrpEYTGFVYL903t1x2Qbs0P6nM/dmfFD2ISIVVIMacvDZU1geYdImRGQ0kAZFkt3hoQdhM8muIKUyg0o9wbA1OfbshadofumC3i0szEEhQ1sA0BOE4E29dDK+n4UqsvwCBLRgUOQ0jj1bR8lTSttQr1F+DsXq1z4g/Cj94BsIuWCJ/IeOVIZmewSrS1eQYU=;SOjqX7yYKVvSLJlFMKj8Zg=="
 ---
 

@@ -59,20 +59,6 @@ related:
         width: 629
         height: 607
         isCached: true
-  - title: "Book review: The Age of AI - And Our Human Future"
-    excerpt: "A book with a fairly unappealing cover came up in my Amazon Kindle recommendations. What drew me was the name of one of the authors: Henry Kissinger."
-    publishedDateTime: 2021-12-26T07:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/book-review-age-ai-our-human-future-johan-steyn"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG79EtHnPculw/article-cover_image-shrink_600_2000/0/1640496669534?e=1646265600&v=beta&t=wiz5T_H554MXbCViEtsfPs1miEL8hhniX4VGmAAXLFc"
-        width: 744
-        height: 400
-        isCached: true
 
 secured: "CWFknlPkz3DLyLZDuPL/LS0fFi6uypWkn1T4yf6+rUccwYnkKcYqBACg7jmSGb1rfpOGEL+tA018l3/FOzFTzBh9oJstTkTrwhRaXqrCaL/++b+qerD7soQ2ABBf3f2S9kE2S6fdpnENvJLwqh3vyLQQ/GFCZhkJO1ozSkhZX+2ZjC1JLf6AMlV/+Sc9winyaVTiSXwVuGgggIWkrOPbfFlRvvZnGGtHSTDEKWAK5UaYUfdXFfqfVVxkR6CEDypTRxNipWxO+FCD9488gmTMFCCfw639UkX1TaXzszcKVCyk+1xLUztQgktA6MQl8Be9OLrP8IdBHK96vsGrdTJqFsontIoEgIXM/7CVkOMP5kA=;qSR3OpXtwmk3PVxOR0Xyug=="
 ---

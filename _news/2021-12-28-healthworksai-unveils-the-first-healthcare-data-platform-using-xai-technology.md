@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
+        height: 720
+        isCached: true
   - title: "Survey Finds Healthcare Execs Bullish on AI"
     excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
     publishedDateTime: 2021-12-30T17:36:00Z

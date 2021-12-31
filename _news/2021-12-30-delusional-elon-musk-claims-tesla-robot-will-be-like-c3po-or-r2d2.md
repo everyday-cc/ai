@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robo
 webUrl: "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-r2d2"
 type: article
 quality: 101
-heat: 101
+heat: 102
 published: true
 
 provider:

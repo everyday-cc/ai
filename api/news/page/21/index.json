@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-10-robust-intelligence-raises-30m-series-b-to-stress-test-ai-models.md",
+      "title": "Robust Intelligence raises $30M Series B to stress test AI models",
+      "excerpt": "Robust Intelligence, an AI startup that helps businesses stress test their AI models and prevent them from failing, today announced that it has raised a $30 million Series B funding round led by Tiger Global.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/",
+      "originalUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1271697775.jpg?w=1024",
+          "width": 1024,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/",
+      "publishedDateTime": "2021-12-09T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-trucks-catch-up-in-the-self-driving-vehicle-race.md",
       "title": "Trucks catch up in the self-driving vehicle race",
       "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
@@ -1078,48 +1129,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-pentagon-creates-new-digital-and-artificial-intelligence-office.md",
-      "title": "Pentagon creates new digital and artificial intelligence office",
-      "excerpt": "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
