@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
+      "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
+      "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "originalUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
       "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
       "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1428,49 +1472,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-neural-network-20-a-game-changer.md",
-      "title": "Neural Network 2.0: A Game Changer",
-      "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

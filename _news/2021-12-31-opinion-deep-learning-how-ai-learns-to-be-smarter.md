@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Deep Learning: How AI Learns to Be Smarter"
-    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
-    publishedDateTime: 2021-12-27T06:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.html"
-    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
-    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 56
   - title: "Meta AI or Trans-AI as an emerging Machine Intelligence and Learning trend"
     excerpt: "There are increasing concerns that ‘Artificial Intelligence’ Has Become Meaningless. Today's \"AI has become meaningless\" and \"often just a fancy name for a computer program\", software patches, like bugfixes,"
     publishedDateTime: 2021-12-27T19:17:00Z
@@ -67,15 +56,6 @@ related:
         width: 548
         height: 720
         isCached: true
-  - title: "Deep Learning: How AI Learns to Be Lots Smarter"
-    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
-    publishedDateTime: 2021-12-27T06:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/12/27/deep_learning_how_ai_learns_to_be_lots_smarter_809463.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 34
 
 secured: "ubafdfLSiMxPC6Ws5NfgFZL6VW1Qti5jQOf+E1x4Mn9kEQBDQd4gg9xvt486fp6603XKhya1pKio1ser+S2V7wcIsmrWZJ8XZJqerQ8m7Bna3IJYa3tdav1jonMTFKvhZiMrq4icLmSAbbeGkDNtUWRU7S0S8Q5IPBFQO3QU2bQt5DNYnbQcHZPwAhzegIFFntuG4qEiu03VjvxLPjmeaX2GnbYXr43mVp37VCVDKcpa/1KS/xEOR3hSBR9UX3BmCEpTHdzmRnInO3w3hyuDSYVZXKASyZBHI+vTGkuMyZPglK5IMR58fhMe+d5SSGmzJkaNm7qRAXgRh5C0dl4A4Mv0aebUhpaELTfBuFystZZVezR6gfwhSPGf/qZdpGQL6/9L1EkWG08UY3OKyUevw9iBPYx9X23K8o8QrK1bhQo1b/Ie6tLXwv60Fl8yFWV65+OQ/zqgToVrS9Vh2DFfAh59vLTbuE1NocA3rHFQUrnO2IJdTpf7P9/hyXtaJjoGn9tFgRDckfENrhlhrWW4hQ==;dXWNneziIiUoY0EfWymy7w=="
 ---

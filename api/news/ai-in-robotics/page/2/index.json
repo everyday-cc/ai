@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-22-sait-using-autonomous-robots-to-clean-main-campus.md",
+      "title": "SAIT using autonomous robots to clean main campus",
+      "excerpt": "SAIT has started using autonomous robots to clean the floors at its main campus. The robots are from Brain Corp, an artificial intelligence (AI) company, and contracted to SAIT for use through Calgary-based Bee Clean,",
+      "sourceUrl": null,
+      "webUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "originalUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "publishedDateTime": "2021-12-21T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
       "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
       "excerpt": "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,",
@@ -1302,58 +1345,6 @@
         "AI in Autos",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
-      "title": "Who Killed the Robot Dog?",
-      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -27,42 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028"
-    excerpt: "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for"
-    publishedDateTime: 2021-12-27T06:20:00Z
-    webUrl: "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
+  - title: "Artificial Intelligence in Education Market Analysis, Size, Share"
+    excerpt: "The global artificial intelligence in education market is expected to surpass US$ 4,340 million by 2027, growing at a CAGR of 31%. The primary market participants in the global artificial intelligence in education market include Amazon Web Services,"
+    publishedDateTime: 2021-12-27T10:03:00Z
+    webUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc27270452_g.jpg"
-        width: 737
-        height: 737
+      - url: "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg"
+        width: 500
+        height: 333
         isCached: true
-  - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
-    excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
-    publishedDateTime: 2021-12-27T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
-    ampWebUrl: "https://www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+  - title: "Deep Learning Chip Market Top Market Participants , Research Report Including SWOT Analysis, Drivers, Restraints, industry analysis By 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest"
+    publishedDateTime: 2021-12-27T10:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-top-market-participants-research-report-including-swot-analysis-drivers-restraints-industry-analysis-by-2028"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
-  - title: "Global Chatbot Market Forecast to Grow at a Compound Annual Growth Rate of 25% Between 2021-2026"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-12-30T18:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-chatbot-market-forecast-to-grow-at-a-compound-annual-growth-rate-of-25-between/article_49f6293a-42c6-5896-8c3f-313fda850c96.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/4588be676eea01850b90591e58ee556b824d1307-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "qjUdX0igDVTjKVfntvVFpSMqN9OJERXIpuIe/T7AKVkNdHTq1htqm35HPzYbut9/rL8rAZ5GhjUcBq4MMe8bJ/0gGucBU3vRs6OMcXkKmJSuOO8Tx/m1Zn1eLrsLgtCQ6bogu5Cka+2YMxzJiBHv6jDsnthF8imfiBNfpWGoGflp1XDfzFTzycxWxwtZ5bM9kZ39mgi0Ws9cHyAUDXvMpu6pQCBUh708KgBS9f6q4fKc0LUYw8sJIA0z8FmWOaruXaglRWhELJmXEPt7ypK/slntpLwh5j1zyifqvZK422aeWy5+EP9ozFquu1AJcdN27/eKuBk79cKxW2d7QANcRMWnrmTgJp4FBc5wAT8WPndQjV+/fqTHbHVh/YRfJD1+u7OPBObQB6THWVRZ1ud9noAvBjmPxcGj0r4bD/8Ezy+fPYOFIqUAxAGbZE4KwODPJIU93F5Ygs4aBrlMV1Y/qxLr5s0WRFRzs9ydmp9XHYvrhwGwtUd06yQ84TzbSqvyQq++pOAsipHQLmStHEekiw==;zI3LYDyGqJepZdhZRWuztA=="
 ---

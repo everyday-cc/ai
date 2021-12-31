@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/cryptocurrencies/2021-cryptoasset-rat
 webUrl: "https://financialit.net/news/cryptocurrencies/2021-cryptoasset-ratings-report-released-british-ai-crypto-ratings-platform"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 314
     isCached: true
-
-related:
-  - title: "Vectorspace AI releases thematic Crypto Basket APIs for exchanges"
-    excerpt: "Vectorspace AI, a subsidiary of Vector Space Biosciences, Inc., enables cryptocurrency exchanges with a thematic crypto baskets REST API"
-    publishedDateTime: 2021-12-27T06:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/vectorspace-ai-releases-thematic-crypto-basket-apis-for-exchanges/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/12/ibs_VectorSpace-AI.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "rL+9K7W7GQPXNiVNzGkuli1Q8O9WS+OIPTpgG6SLYrueYcVtox9ypc+6lCNE6VNFzTwvjNeOyIo1yf18owFOlkXNXkLlO4ykUnRN7bhET42TJOQdsq/JGOQd3J1HwiCTPG19aOGretgmWHUuLwfdYpH4UlcAHAzleUwJaHgtbtcFOvEoFTX9FPvNabHbwK2iUnFCHQVGqtduVFwBZGZYpo/cu3eamp/K7NFQbWtiWeAPYC/PpuU8foK/UuScv74fbk/WpL9xdOp87niqYF7HqNnUssT9uJfAjjF2PZNMPiQK35sg7Jbf7XowIT3BCmf1CHj3jtWCFjJm5+b60jYAyDkgWsGhovcMHWbf5Jz07D0+BuxFVVB8S3R/82oeKQCeOu98FHRxof5L8TaHIeQKjeUT9pE4qkcCfoGz+E7P379lwBNi8couLEOPCDBPiz3p70W4Roj2ytenqW4SonCFwUpm6e00Dgd0pXUjfg1L7z0UqOd/+fdBqaj1uns66diqcVQjlCDAA6jfnWuK6g7Aqw==;+3NmjsDaCccdMRZPTOAOaA=="
 ---

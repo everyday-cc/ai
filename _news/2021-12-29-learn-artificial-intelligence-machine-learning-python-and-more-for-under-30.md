@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/learn-artificial-intelligen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
 type: article
 quality: 100
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning: How AI Learns to Be Smarter"
-    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
-    publishedDateTime: 2021-12-27T06:00:00Z
-    webUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.html"
-    ampWebUrl: "https://www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
-    cdnAmpWebUrl: "https://www-realclearmarkets-com.cdn.ampproject.org/c/s/www.realclearmarkets.com/articles/2021/12/27/deep_learning_how_ai_learns_to_be_smarter_809461.amp.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 56
   - title: "OPINION | Deep Learning: How AI Learns to Be Smarter"
     excerpt: "Well, thanks to the exploration and implementation of the discipline of Deep Learning (DL), it’s not a heavy lift at all. In fact, the advent of DL is taking artificial intelligence into a far more, well,"
     publishedDateTime: 2021-12-31T05:00:00Z
@@ -70,15 +59,6 @@ related:
         width: 548
         height: 720
         isCached: true
-  - title: "Deep Learning: How AI Learns to Be Lots Smarter"
-    excerpt: "ME: Alexa! Call the fire department! The roof is on fire! ALEXA: Ok, playing “The Roof Is On Fire” by Rockmaster Scott and the Dynamic Three. One of the biggest gripes consumers have about"
-    publishedDateTime: 2021-12-27T06:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/12/27/deep_learning_how_ai_learns_to_be_lots_smarter_809463.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 34
 
 secured: "WHyLcolFOkJiR/s+tU/PSgwCFf7ygGIRj89R9sHHVeVvUsdLXyaI4ORdonJJRMBQE0VE91PC87zpyU86iEq9S70uoP8b8dnMSmGlJ8+c7CmbDtHRyKUNNrppIwd4o3yW0KpZ7efdBu73S+vxFRNOASJR2p5Mm34uVdgsxImoZyRRboUu9p3N3WRtEckY0wxpeOaoQS3vI8g3flenTaZkE3Yt+eYVlmSWYRmmvQHEboDewUXv7iGCaL9oY7vmRNK5UKN4p+0hiE4jMKf5ICmLgXFo0UHwi7JUWMM5b/QoUeP7Z4auOd0w5nEnJas+zFG+xfc7U0ZfOdbW9P4Ur/TGYiiT0Ldx/xDG+OOrYhfAd1igET3DRPoYkCbUq3HSC/WuAgCJFiIYNQU0xqyTo+kOFTc6DANEIYs6KAti7u1Gi7sjbhM8qAg+4Pkh2YlTrWmKDggTvMoP1USgpotWImUt13+VfsIbQyG1XgGkXoymP8UaOZfukY/sbYiRLsVxSULoXk7UisrGJZeJb8S6EXC6Yg==;fSEhnMwuxFkfK0liqljl7A=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Rescuing the Languages that Western Tech Ignores"
+    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
+    publishedDateTime: 2021-12-31T13:15:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21965257/rescuing-the-languages-that-western-tech-ignores"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/AP21356747118534.61c4a01fdf7c4.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "R7d9OVOso4Ja1hiFP/fOj5FXpewsjJ37ulA0SuGq2bxonGCbvdXmRHiwPqyEwL2IHI9qiHRaNApSboyEXCnJfT1AIymkq2iyAV+ZF1EKx9eHC/l0/6dobj4MbQ785BVFCpp3qrkbfrQZD+R9ZEv/9da2ivSBI1Po3kQTO3Cy0q6h6qq5Uw7G3RKG6vltE+m67au4o9X4tE/N7xUXQ4P6LVFDNGIiC2P8T39C9Z9SLUwMFuR2NWDsJwVhIr3R+s5yRUPbiIHWjI7LHA6Kamq7UQeuzVpiFNYsX8Rn2ShzeinlUFNWdteHIKX5hfTHxJm+VYfQI7mT9mK+2LI728Lppu6IOyba+9ZRg3sTdU4kJhBWH30f3E6Yhy3Ee4wFGVgCg6DU+NDIf/0F+K1GLFF0UGKB4Ny8jvTdvBQoh1gvsG1IhAvlNpLj7DPqHTOHAcfs3skyfkUysZ3jg8i1ET5VzOj9JNBgnY5tT0y3dTQ8/7P1xiS0N1Mql6oVhQgvOwQ04pnJY3Dft6UUPUT8Hk3OCQ==;9iC0bWt0m/mNTCvftcxmJw=="
 ---

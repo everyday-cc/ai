@@ -7,8 +7,8 @@ originalUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-mar
 webUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR-Inside
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Consumer AI Market Regional Growth Drivers, Segments, Analysis, Opportunities and Trends 2022-2030"
+    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
+    publishedDateTime: 2021-12-31T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc31759564_g.jpg"
+        width: 800
+        height: 517
+        isCached: true
   - title: "Deep Learning Chip Market Top Market Participants , Research Report Including SWOT Analysis, Drivers, Restraints, industry analysis By 2028"
     excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest"
     publishedDateTime: 2021-12-27T10:45:00Z

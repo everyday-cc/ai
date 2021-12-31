@@ -21,47 +21,59 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028"
-    excerpt: "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for"
-    publishedDateTime: 2021-12-27T06:20:00Z
-    webUrl: "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive"
+  - title: "Image Recognition Market Size Forecasted to Reach Valuation of USD 80.29 Billion in 2028"
+    excerpt: "According to a recent analysis, the global image recognition market size was valued at USD 25.67 Billion in 2020 and is forecast to exceed USD 80.29 Billion in terms of revenue, at a CAGR of 15.3% over 2021-2028."
+    publishedDateTime: 2021-12-31T11:15:00Z
+    webUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc27270452_g.jpg"
-        width: 737
-        height: 737
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Image-Recognition.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Consumer AI Market Regional Growth Drivers, Segments, Analysis, Opportunities and Trends 2022-2030"
-    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
-    publishedDateTime: 2021-12-31T09:48:00Z
-    webUrl: "https://www.openpr.com/news/2514897/consumer-ai-market-regional-growth-drivers-segments"
-    ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+  - title: "Logistics Robots Market Size Expected to Reach USD 18.58 Billion at CAGR of 21.3%, By 2026"
+    excerpt: "USD 3.90 billion in 2018, Market Growth - CAGR of 21.3%, Market Trends – Growth of e-commerce and omnichannel retailing NEW YORK, NY, UNITED STATES, December 30, 2021 /EINPresswire.com / -- Increasing emphasis on end-to-end automation and issues pertaining to labor availability is estimated to stimulate market demand."
+    publishedDateTime: 2021-12-30T18:16:00Z
+    webUrl: "https://menafn.com/1103465327/Logistics-Robots-Market-Size-Expected-to-Reach-USD-1858-Billion-at-CAGR-of-213-By-2026"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc31759564_g.jpg"
-        width: 800
-        height: 517
+      - url: "https://menafn.com/updates/pr/2021-12/30/EP_0740dimage_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Global Chatbot Market Forecast to Grow at a Compound Annual Growth Rate of 25% Between 2021-2026"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-12-30T18:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-chatbot-market-forecast-to-grow-at-a-compound-annual-growth-rate-of-25-between/article_49f6293a-42c6-5896-8c3f-313fda850c96.html"
+  - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
+    excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-29T09:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=593415"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Global Artificial Intelligence (AI) in the Freight Transportation Scope"
+    publishedDateTime: 2021-12-29T06:45:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5228521-global-and-china-artificial-intelligence-ai-in-the-freight-transportation-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 8
 
 secured: "3hzn4hy0+WgBEwmJekcI97s7fEIJBYeehlvLkB8tMmdOGiihyrvY/CRgBmoWv+H954Nw8qO4EhneTh9EiYsc8U2baaCY0j9E4+wJ4C2JvRod3Ea3T8wRBmBKUbel7a+f71PTvSBu/SJCsbGkDtGK2vl+F5KAXNFrqbMzitvoOhL8vrIfeFei8y5vkookDa76/qf5oLScaXbpRIzoxm8Y5ucGNlJbPVCcuDuof18F5iMeU+klutEKw9SGYlIublYLSaQ3kIj/rlxrJT+OO4H9gV1sRStF3uKEMKDIlwO7lYz86fUgkzmZV9M5s9NMNt+SS2zsvKZJPOGEJe57yj4TkKVp6KCpqElpzaHBjILYYHc=;QKkvg/OI3SobC7PKKDCnIw=="
 ---

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New hand gesture recognition algorithm strikes a balance between complexity, accuracy, and applicability"
-    excerpt: "In the 2002 science fiction blockbuster film Minority Report, Tom Cruise's character John Anderton uses his hands, sheathed in special gloves, to interface with his wall-sized transparent computer screen."
-    publishedDateTime: 2021-12-28T06:00:00Z
-    webUrl: "https://www.news-medical.net/news/20211228/New-hand-gesture-recognition-algorithm-strikes-a-balance-between-complexity-accuracy-and-applicability.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211228/New-hand-gesture-recognition-algorithm-strikes-a-balance-between-complexity-accuracy-and-applicability.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211228/New-hand-gesture-recognition-algorithm-strikes-a-balance-between-complexity-accuracy-and-applicability.aspx"
+  - title: "UC Student Researchers Union Gains Recognition"
+    excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
+    publishedDateTime: 2021-12-31T22:31:00Z
+    webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
+    ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 27
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 59
     images:
-      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
-        width: 973
-        height: 514
+      - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
+        width: 1383
+        height: 991
         isCached: true
 
 secured: "Yuosg0ha8HuiHa89e4ZZcMJOtZmK3t/8R/stmoh09k0G5rCQzxUYhdhorEXaeou2GdWPbMngWbD8PPj0uE4zUJMoekuqFLDiPM606vllmTOI26AXmqrfi6WukbCejJFRw5H6L44vehlD3X7tKNSlrOWmJLCGIJn6mP9BeCrfvZKwevnSRlaZsqvT1Wh7TBhLLEYEddZK5JuWsL9bEGNL3O1Tcuefny4IYH3pOwYWvxZq8UEtJ8BbHUYzMd7ODye8x0074vg/o8Z1HogHTnlaU8TBKVA+gUY+ES7oy0peSQETppm6KUKbO25rW+3isaT5eyl0GMJsrXc48L95sp2JKVvviAMRf2bxBdhzsYG7RPlv1CGiA/QBlH5thVhKj/AwJWrTXmol94YU49dH/MmhmRWb7GI1hvFdkweSaH9CuQLXWw+kgo1Mr+NUuZcjSoxbN0dI3iBw4T6E5MLfrhJTUQu8X0o/2xKQXDrvcRGki0Jtek9OnRBZLI/EZcvj4WN6pif7rToL5io8R6bmVpDsvg==;UjN2mF1qr+I0AwfJylY7dw=="

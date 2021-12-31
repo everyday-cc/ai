@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
+      "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
+      "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "originalUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "publishedDateTime": "2021-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
       "title": "That radio DJ you hear might already be a robot",
       "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
@@ -1360,58 +1405,6 @@
         "AI Ethics",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-12-robot-vacuums-that-clean-so-you-dont-have-to.md",
-      "title": "12 Robot Vacuums That Clean So You Don’t Have To",
-      "excerpt": "Robot vacuums were once awkward, bumbling machines that bounced around your home sporadically. Today, the best robot vacuums are so advanced that they might actually rival your full-size vacuum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619e8063bd05787299f3a0f8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D114%26cropY2%3D781",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "publishedDateTime": "2021-11-26T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

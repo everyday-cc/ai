@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026"
-    excerpt: "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44."
-    publishedDateTime: 2021-12-27T06:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-"
+  - title: "Logistics Robots Market Size Expected to Reach USD 18.58 Billion at CAGR of 21.3%, By 2026"
+    excerpt: "USD 3.90 billion in 2018, Market Growth - CAGR of 21.3%, Market Trends – Growth of e-commerce and omnichannel retailing NEW YORK, NY, UNITED STATES, December 30, 2021 /EINPresswire.com / -- Increasing emphasis on end-to-end automation and issues pertaining to labor availability is estimated to stimulate market demand."
+    publishedDateTime: 2021-12-30T18:16:00Z
+    webUrl: "https://menafn.com/1103465327/Logistics-Robots-Market-Size-Expected-to-Reach-USD-1858-Billion-at-CAGR-of-213-By-2026"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 62
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg"
-        width: 960
-        height: 720
+      - url: "https://menafn.com/updates/pr/2021-12/30/EP_0740dimage_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
+  - title: "Global Image Recognition in CPG Market Top Leading Players with Strategies and Forecast 2027"
+    excerpt: "The global image recognition in CPG market is expected to grow at a significant CAGR during the forecast period 2021 2027 The increasing need for efficient and profitable retail execution processeswith adherence to compliance standards is one of the major"
+    publishedDateTime: 2021-12-27T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    ampWebUrl: "https://www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511204/global-image-recognition-in-cpg-market-top-leading-players-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
   - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
     excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-12-29T09:31:00Z
@@ -64,24 +75,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 8
-  - title: "Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Conversational AI for Retail and E-commerce market"
-    publishedDateTime: 2021-12-28T08:33:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5217014-global-conversational-ai-for-retail-and-e-commerce-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence Manned Drone market report provides a"
-    publishedDateTime: 2021-12-29T00:38:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5216929-global-artificial-intelligence-manned-drone-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "7KTWKJA9J7PHYAniZbY38HPfR2um1WzHKnKRYMXgv5Vhc8YMvJs0erAz6IkOV1ItnEk9jitKdpxyunncwLhsqJmdXbuVMBrldoZa+TQM1EGLuPu+Q+S6fwCpmHJZsPJJf+Hi8vwAvdsRjsOEL6dBdtbYnEP5aeO25ZRXMBsBrxCVMJciXfqnBmRcA7P2tAvCVWF2hNblpasoQVYZWKvbpPJPHiKJzjuW/ehvDrUZB6tKL+Y16WxCU1wto3kGxNXOiDSLIApBGBiFvRz6D8v1Rhk2cMZtZ9ttUQ5GDuFwuw6++zbih9nP7J3gOUZ55ay1/BfAD3uyFbTua1irXAdGUmDOLw5Xulsd+30PUtHMOhKydkfRYevi/Vor4+W0LJE8QTufxyNFalL5SwnT08JolbDj0Lb7a/jo15qwEHNoNnSWqBwBUfrqKfgyYus+33UiBM6whvvd09Z25lCHZSDrgowjPJGhENVh3PslcjMlUVr8eP7FLM+m/MnJjbBesXazJG7wIg/ffxCgcexULPR0ZA==;+kRfTBn+2YqKuFMm1DuIPQ=="
 ---
