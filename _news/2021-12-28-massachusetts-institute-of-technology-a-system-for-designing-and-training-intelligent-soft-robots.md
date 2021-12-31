@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 54
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Massachusetts Institute of Technology: Characters for good, created by artificial intelligence"
-    excerpt: "As it becomes easier to create hyper-realistic digital characters using artificial intelligence, much of the conversation around these tools has centered on misleading and potentially dangerous deepfake content."
-    publishedDateTime: 2021-12-27T04:43:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-characters-for-good-created-by-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-characters-for-good-created-by-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-characters-for-good-created-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 47
     images:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
         width: 600

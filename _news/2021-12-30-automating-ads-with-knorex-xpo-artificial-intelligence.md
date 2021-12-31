@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Automating Ads With Knorex XPO Artificial Intelligence"
-excerpt: "Creating native ads sounds like a simple, straightforward task. That’s not until you are required to produce them on a large-scale basis with speed, consistency, timeliness, and variations. Leveraging on Knorex proprietary AI engine,"
-publishedDateTime: 2021-12-30T14:37:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-765297c611c37ad9417913133a954b97"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-765297c611c37ad9417913133a954b97"
+excerpt: "Creating native ads sounds like a simple, straightforward task. That's not until you are required to produce them on a large-scale basis with speed, consistency, timeliness, and variations. Leveraging on Knorex proprietary AI engine,"
+publishedDateTime: 2021-12-30T08:35:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8419110/automating-ads-with-knorex-xpo-artificial-intelligence"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8419110/automating-ads-with-knorex-xpo-artificial-intelligence"
 type: article
-quality: 37
-heat: 37
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "KQNz+NuI51mFTAIGKEbPDOxe02WYbK0As4hsIZboloAYmcMv94m9ZHqbJBB8NTgkV/nbp9c0C2KyJ86MXAv4NwVgVoh5DvIqrRcUxIeNyVOnoTiuvHZzp2omqvbusyQc7n5CE5Cl2bVxp8MgjEzJm69Qm/+OdkrpV7cTNX3x+KUohJ6AcSQGJZnSQgfmKS6wS+2IOeGiWb3o/t9jlb/afqLSeKOFeauATdrrIwMVPs5x+EDrGYggBk95v7rvOqcAPUo0Ok31bxa0SsmX+xutojUM+F0gs0Qdodp7xWX8MMkAGy8of+Aq1/YD4/i23nTCRcpYi0OFGhvGlIkvMfUjOyWkTvvUo32zV8cnruy7yfk=;J1Hr/Nq2Xfn6TH7YteomDw=="
+secured: "FEFz81wqM8/IgbNlGBKGzhWPKPjSlcv8tDKZbW0J7E2XY5rfA7l8obbdRNEpYSJx5+8GtqulhiVtqGs9oyUMImmwyoX0JmNINxHunU6/FtbHzeWMQky7t0TQHnbbtpqseo8CLPEJe9fJjChRLT9I6H7UeV0oy6eoR1XomR7MeoCTHtdINCHUMoRFg7ujfswJaB47bKp0iFGgzrAipXpPtM0SIRxzxfVt/fM0ccBMBboL04F/g2EHB7U3vIqVP3Et77x1LGKCLXE+y0NHJsDFtvNUUWcmPCepsGTzIuED6RLJziB0qfHwAXcwSTq2DU0qDNzH2poEH8b9nEUZV00NYpEoGyBRE7whFQEx0CpL/5U=;CchtgIYb0E9ZmfO1gL+pvw=="
 ---
 

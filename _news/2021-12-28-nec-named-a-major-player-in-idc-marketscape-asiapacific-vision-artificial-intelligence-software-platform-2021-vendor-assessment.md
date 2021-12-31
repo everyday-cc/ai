@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=592996"
 webUrl: "https://us.acrofan.com/detail.php?number=592996"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 500
     height: 324
     isCached: true
-
-related:
-  - title: "NEC Recognized as a “Major Player” in IDC MarketScape: APeJ Vision AI Software research 2021"
-    excerpt: "NEC has been recognized as a \"Major Player\" in the IDC MarketScape: Asia/Pacific (Excluding Japan) Vision AI Software Platform 2021 Vendor Assessment."
-    publishedDateTime: 2021-12-27T03:05:00Z
-    webUrl: "https://www.nec.com/en/global/analyst-relations/2021visionai/index.html"
-    type: article
-    provider:
-      name: NEC
-      domain: nec.com
-    quality: 26
-    images:
-      - url: "https://www.nec.com/en/global/analyst-relations/2021visionai/img/ogp.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "tGtpVGN217u9eIbCFpgET9UFJMLVbD/xVmprI8tCMT61xCnjVZsUSmbXRHwv9YA+uI/xH4P7cCxfPhMes4fg3QaINwS8HAyctQ/kgBumCfE5AQ0Eltmsw0Bu7Yuw8bJKf8lcStJSRWLC325eQg9h//N/AMBHHPmqeSb0jXRj1f8gM5ldnUzt4ApUXLoAfnf+EOfnpZLPvkRsef+Lpn5Y6FiETm0+ieL95SYzmNMntf96O3SydbCwTDO1J5EctVIRsjep+JaOuJNwH9mlGbiN0+84a5v7zEMmaBCSOn5aVJbnGPHuL//MNbOInyM2d+PUAGTHon2oSra+L1TnC8fRNzbD9t/X8lQ5dXcECJmekSQ=;6kp4vSB+BW74fGTC9S2l7w=="
 ---

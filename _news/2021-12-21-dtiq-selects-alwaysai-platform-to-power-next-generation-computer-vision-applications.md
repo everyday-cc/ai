@@ -2,9 +2,9 @@
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
 excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
-publishedDateTime: 2021-12-20T20:20:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+publishedDateTime: 2021-12-20T23:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Bq9vjPNLuWNOnXdSZ/Rcx0sXohisDkLT+KTR3NxkdiPQE7wt2bbI2PVaXij0K6Wo3VoAUBVr9dhB1tBM2HcfCiIAJHb7GRiqnkbSBsHZYDghLKE4jdVNpfvQsav2+tXWNSQI2bvAG0fQ1F+jk1N78BtBRLMY2/VZNJryOtQ405R2F2FNfDc/OBHzbdEsvMU0DiymX5hI5FbdolKn6v5ek5lpwwZ+iBJ6uD1uOvf3alHqdkcz+xLi25Hx6VIy4JDTN7PtJLgaGVN8lK6M/5BlkoLmYYCQOWCpJ/LCpR+tU/HxB97CApUPXt6vqdfWDlnVh6a/cwRvW/jPgCjP3NMzGoToyGA9SPC2EpGdFfaOv+I=;l14eFPRGRleSeTI/DoWmrw=="
+secured: "+MnAZXR58YKr6ECKXCDF9Z4o/IBquMZoPMZDL/cAahYQ0OEFDsfIHbi3lS0ALnM/PSVeMnRYhJ209FN9sjR6YCtvhOL+6lTk3XTf5OdV36dVPWrpo6Bk6aQ8C+Gm1Bcnr9DJUU82ldJ9vSB0O13Q8dlq+nyIASx0vJg+MwY94cL86VcGFmkvFq76qqGKXZdHKOAcn+QARPHN8v7ENxFhDMxyMFVYxsdY6km1CZQTL/l9ky5BZFlZmz1wzmbm8NWqkCZc9SYhxQOtibDucqF5T1GGCmNuCK3rD2ZOXnitbooYoSh0hX6rPNyTRbjgIuA64XuFUPt0IjMDEm5tqyqj8n55cF3Yyt+pOWwwjAAiie8=;ZLBs/A79IzVlc2Xx1iGAQw=="
 ---
 

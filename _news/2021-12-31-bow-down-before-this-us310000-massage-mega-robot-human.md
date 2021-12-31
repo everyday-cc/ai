@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1"
 type: article
 quality: 89
-heat: 91
+heat: 92
 published: true
 
 provider:

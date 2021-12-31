@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-31T17:09:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-soynet-introduce-ai-accelerator-ces-2022-/2021/12/31/9518429.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-soynet-introduce-ai-accelerator-ces-2022-/2021/12/31/9518429.htm"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 secured: "KBoxn7RdZo709u2SiWA1tg2wlWkOr9UKUZlAdd9lOZA3yh35NEL5A/BwIDlySjEqANqnN9x0RqoePOx8JlGopvepVj4X5YYVNMYJXOFEPJm9ju5I9chIyAfxyzlTkgcC5Ypr7uvoJTzgkkaIyj55+SHFLpX5FjCLoz74HC7deIRJfM6jEmRD4YnVJL27LNk/YaI3ucotUXpQl8nYILps6z9ko6kP61z1MyhT121FC8ue1kr+ojRDbwjHRBZs5Kwdex3srn3ikqmLzM6+naqzyrxNwxT7rVjHDR8m0STYxm7clKKuahY+6EYCt0WyIpxmh9XFKbAZAY172kDm2y7MMTOUfcccCIdUIj51icvGCeg=;Q6anIAJYAJpkCRpR+OK7bg=="
 ---

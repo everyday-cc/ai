@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distribu
 webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
+    excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
+    publishedDateTime: 2021-12-31T17:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24848717/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24848717"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24848717"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
 
 secured: "v9uQMEhTNGp+rkNq/xhrX/c3qiJAQ9+w5AbMzutMUuoDSfPKw+UYbFup3v2OokwmkUX5yFZjKaoag0MOpfmxe58BAit2vyiY+CkRAzRdqXlapNMki35HJWTffmtpidp8I1ctgVwBk+oD4pxYN2uQbi0TTTH+6VcOLwSv9IotfasfuJVxL89qV2r8uBWRHJll/msxL/v6Qo/gSucljm41wy06/iQIWBbeS3reDAnr4/I1uxhswUrRUk0ztbf5vPRDrhJpviG+M0aqnzEWMgiD72B7TX56jfstYqUmPue7VK4zXmKPffp57aqfQqHsfxfHmz1bcJRwCd1U2JP6i0p2pabq+S0uwd+dFub+1PuPFOu0/fSdWK4ma4zlW340FGe3sY2X/ywfS1POCz0FEm5q1+ULZbvyhy5XGqGQ0fLN05CQns8VE0A611dsKpiMq3eXWpykQV5zV3A41o4SF7/GvGU76PRON1y8D5b5UxtGyno3qcYKMsfHNd3JImZoyXIxLWIP13V5cqoabufJ1OZbUw==;XaIyyXbdz0DQqkR+rm2yVQ=="
 ---
