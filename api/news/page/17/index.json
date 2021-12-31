@@ -2,6 +2,103 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
+      "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
+      "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "publishedDateTime": "2021-12-13T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
+      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
+      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
+          "width": 1028,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T10:44:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
       "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
       "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
@@ -1044,83 +1141,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-waymo-faces-competition-from-driverless-taxi-rivals.md",
-      "title": "Waymo faces competition from driverless taxi rivals",
-      "excerpt": "Companies including Ford Motor's Argo AI and General Motors' Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202112/13/61b6a977a310cdd3d82052e6.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
-      "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
-      "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24564999",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564999",
-      "publishedDateTime": "2021-12-13T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

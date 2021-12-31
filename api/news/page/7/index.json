@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
+      "title": "2022 technology trend review, part two: AI and graphs",
+      "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "originalUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
+      "publishedDateTime": "2021-12-21T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-sait-using-autonomous-robots-to-clean-main-campus.md",
+      "title": "SAIT using autonomous robots to clean main campus",
+      "excerpt": "SAIT has started using autonomous robots to clean the floors at its main campus. The robots are from Brain Corp, an artificial intelligence (AI) company, and contracted to SAIT for use through Calgary-based Bee Clean,",
+      "sourceUrl": null,
+      "webUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "originalUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
+      "publishedDateTime": "2021-12-21T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-50-global-hubs-for-top-ai-talent.md",
       "title": "50 Global Hubs for Top AI Talent",
       "excerpt": "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives.",
@@ -1035,102 +1130,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
-      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
-      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-data-hunters-will-be-big-pharmas-next-prey.md",
-      "title": "Data hunters will be Big Pharma’s next prey",
-      "excerpt": "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
-      "originalUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4_2o1OYU28UCWef805L8u61FYCA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSX22HO5WNJ4ZMOPMNCLSEDGHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

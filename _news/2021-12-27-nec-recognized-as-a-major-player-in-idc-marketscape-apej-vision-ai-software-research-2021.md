@@ -38,15 +38,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "NEC named a Major Player in IDC MarketScape - Asia/Pacific Vision Artificial Intelligence Software Platform 2021 Vendor Assessment"
-    excerpt: "NewswireToday - /newswire/ - Tokyo, Japan, 2021/12/27 - NEC Corporation announced it has been named a Major Player in the IDC MarketScape: Asia/Pacific (Excluding Japan) Vision Artificial Intelligence Software Platform 2021 Vendor Assessment - IDC."
-    publishedDateTime: 2021-12-27T00:00:00Z
-    webUrl: "https://www.newswiretoday.com/news/176869/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "FNI1F4NUOSLkXepQDYbe7C7XaYjU6qwAHNxSO+FhysUZnTtLBUKbq8kN/0+yPkFt1VWEeVCdgovJbZdPyvMPocOnnHWoC04JhAr4Z3/YIvLchFgSnr8xwbYpe0ropkNWf+1eF7J+sCwMONqIwwt5aueZ0i4CCFD1VQWVK01/jQeFSQ2L5xLPEEQCWuNEXZ5ZM8rSi5Jkc5UjE0asKfYLrvgp82M2HRE3xP4mx8Ec/Jlt4DUQYWgphw+9TIKUR5H17Nupn+8ScJnWTzNehO+tFffXUmYXy7RdBse+OYtjCKmaF0xpJ4AAd4ZEcEb9urqPUNa5zDWOW4WWdXNrKGix2JXfgy8QYCAMzp2YVckat+4=;qms4o7AWDodZdXBV6EisPg=="
 ---

@@ -2,6 +2,100 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-10-to-see-proteins-change-in-quadrillionths-of-a-second-use-ai.md",
+      "title": "To See Proteins Change in Quadrillionths of a Second, Use AI",
+      "excerpt": "Researchers have long wanted to capture how protein structures contort in response to light. But getting a clear image was impossible—until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
+      "originalUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b24d2b315dad96cfe1db53/master/pass/Science_protein_GettyImages-934883946-(1).jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp",
+      "publishedDateTime": "2021-12-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-nvidia-launchpad-enterprise-ai-lab-review.md",
+      "title": "NVIDIA LaunchPad Enterprise AI Lab Review",
+      "excerpt": "allows developers to realize the value of their AI project with an NVIDIA GPU. The NGC catalog is a hub of GPU-optimized AI, high-performance computing (HPC), and data analytics software that simplifies and accelerates end-to-end workflows. With enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
+      "originalUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/12/ai-launchpad-workflow-diagram-1cc-d.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/review/nvidia-launchpad-enterprise-ai-lab-review?amp",
+      "publishedDateTime": "2021-12-10T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
       "title": "Microsoft and Esri deliver centralized satellite image analysis in Azure Orbital",
       "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
@@ -1062,100 +1156,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions.md",
-      "title": "DeepMind AI helps study strange electrons in chemical reactions",
-      "excerpt": "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
-      "originalUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300626-deepmind-ai-helps-study-strange-electrons-in-chemical-reactions/amp/",
-      "publishedDateTime": "2021-12-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-why-companies-should-be-using-ai-to-fight-cyberattacks.md",
-      "title": "Why companies should be using AI to fight cyberattacks",
-      "excerpt": "Cyberattackers use AI, so why not apply it as a defense? One expert explains why AI can take your cybersecurity to the next level of protection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
-      "originalUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/23/3e7446b6-3dd6-449f-8ed1-58422c4cbce8/resize/1200x/e9ca5d6441bc53fb4766cfe5fc5c7482/istock-1162361864.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
-      "publishedDateTime": "2021-12-09T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

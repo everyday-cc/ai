@@ -41,6 +41,22 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "Mind-controlled robots are almost real — but more helpful than scary"
+    excerpt: "There are always going to be those people who are terrified of robots becoming sentient and taking over the planet. Then there are those who think robots could save the world."
+    publishedDateTime: 2021-12-31T14:30:00Z
+    webUrl: "https://www.syfy.com/syfy-wire/a-new-brain-computer-interface-is-completely-mind-controlled"
+    ampWebUrl: "https://www.syfy.com/syfy-wire/a-new-brain-computer-interface-is-completely-mind-controlled?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfy-wire/a-new-brain-computer-interface-is-completely-mind-controlled?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 59
+    images:
+      - url: "https://www.syfy.com/sites/syfy/files/2021/12/gettyimages-1135729958.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Mind-controlled robots come closer"
     excerpt: "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own."
     publishedDateTime: 2021-12-27T07:52:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://blog.google/technology/research/2021-year-review-google-quan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Google
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 in review: Out with JEDI, in with JWCC"
-    excerpt: "On the latest episode of The Daily Scoop Podcast, DOJ CIO Melinda Rogers, USASMDC Col. Samuel Glover and former Air Force Deputy CIO Bill Marion."
-    publishedDateTime: 2021-12-27T00:00:00Z
-    webUrl: "https://www.fedscoop.com/2021-in-review-out-with-jedi-in-with-jwcc/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 122
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
-        isCached: true
   - title: "2021 in review: Oversight questions loom over federal AI efforts"
     excerpt: "The Biden administration established several artificial intelligence bodies in 2021 likely to impact how agencies use the technology moving forward, but oversight mechanisms are lacking, experts say."
     publishedDateTime: 2021-12-28T20:37:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
         width: 629
         height: 607
+        isCached: true
+  - title: "Cubo Ai Plus smart baby monitor review: An adorable option that could use more smarts"
+    excerpt: "The well-designed Cubo Ai Plus smart baby monitor comes with great covered face alerts and decent video. But it isn’t up for travel with an easy-to-lose additional temperature and humidity dongle that feels like an afterthought."
+    publishedDateTime: 2021-12-28T22:10:00Z
+    webUrl: "https://www.tomsguide.com/reviews/cubo-ai-plus-smart-baby-monitor"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 30
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fFGjU7nHKmyB4ng4cLVJwD-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "CWFknlPkz3DLyLZDuPL/LS0fFi6uypWkn1T4yf6+rUccwYnkKcYqBACg7jmSGb1rfpOGEL+tA018l3/FOzFTzBh9oJstTkTrwhRaXqrCaL/++b+qerD7soQ2ABBf3f2S9kE2S6fdpnENvJLwqh3vyLQQ/GFCZhkJO1ozSkhZX+2ZjC1JLf6AMlV/+Sc9winyaVTiSXwVuGgggIWkrOPbfFlRvvZnGGtHSTDEKWAK5UaYUfdXFfqfVVxkR6CEDypTRxNipWxO+FCD9488gmTMFCCfw639UkX1TaXzszcKVCyk+1xLUztQgktA6MQl8Be9OLrP8IdBHK96vsGrdTJqFsontIoEgIXM/7CVkOMP5kA=;qSR3OpXtwmk3PVxOR0Xyug=="
