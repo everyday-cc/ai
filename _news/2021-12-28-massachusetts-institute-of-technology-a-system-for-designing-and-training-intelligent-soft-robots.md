@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/"
 type: article
 quality: 60
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts Institute of Technology: Machine learning speeds up vehicle routing"
-    excerpt: "Waiting for a holiday package to be delivered? There’s a tricky math problem that needs to be solved before the delivery truck pulls up to your door, and MIT researchers have a strategy that could speed up the solution."
-    publishedDateTime: 2021-12-27T23:52:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-machine-learning-speeds-up-vehicle-routing/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 54
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Massachusetts Institute of Technology: Generating a realistic 3D world"
     excerpt: "While standing in a kitchen, you push some metal bowls across the counter into the sink with a clang, and drape a towel over the back of a chair. In another room, it sounds like some precariously stacked wooden blocks fell over,"
     publishedDateTime: 2021-12-28T01:37:00Z
@@ -70,22 +54,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 44
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Massachusetts Institute of Technology: Tiny machine learning design alleviates a bottleneck in memory usage on internet-of-things devices"
-    excerpt: "Machine learning provides powerful tools to researchers to identify and predict patterns and behaviors, as well as learn, optimize, and perform tasks. This ranges from applications like vision systems"
-    publishedDateTime: 2021-12-28T00:56:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-tiny-machine-learning-design-alleviates-a-bottleneck-in-memory-usage-on-internet-of-things-devices/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
     images:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
         width: 600

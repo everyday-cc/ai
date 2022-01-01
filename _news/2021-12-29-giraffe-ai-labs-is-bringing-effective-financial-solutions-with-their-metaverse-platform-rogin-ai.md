@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/giraffe-ai-labs-is-bring
 webUrl: "https://www.marketwatch.com/press-release/giraffe-ai-labs-is-bringing-effective-financial-solutions-with-their-metaverse-platform-rogin-ai-2021-12-28"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Metaverse, AI and and other big digital trends to watch in 2022"
+    excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
+    publishedDateTime: 2022-01-01T14:52:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 19
 
 secured: "2plOBYcqxrihfs97/Ofh63WTA9qjzNGNKeLuZDHYqbef0LPLWUbFGalEsRVab/Fb7NxSwNHLcyHYClaALlj7Fs29lOweXwqx8rh0gai23ocBRUkwyFdgf22L9a+mmAlXURmpu7nnn90NK946GEH1GA1mXMzzYDtBt1g4I8Ek4mNhqJ4Ebdj6Buj9wMfHo+Q4tq8pTOtXPhPED9O3WBtdC0gtaHeC0Kfrfy2tUo5NcHtpaOWuvXCIuNTYl95Ql7zqgboc6G2pMXhe/a2tGNUVdFGTQbzibtn9QAjKb9T8bLmy6pT/m9iUvU0xWjKpPteXNo2aWv7uBKJ8UEZ4t5NwHHEB72/r9RHTFC5CDEoxPz0=;3lwFI4CJInJQCWsIGClEHQ=="
 ---

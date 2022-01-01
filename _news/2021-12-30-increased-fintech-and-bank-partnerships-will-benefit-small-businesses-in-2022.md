@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
-    publishedDateTime: 2021-12-28T00:49:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 18
   - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
     excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
     publishedDateTime: 2021-12-30T19:23:00Z

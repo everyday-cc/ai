@@ -139,15 +139,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,"
-    publishedDateTime: 2021-12-28T00:49:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211227/3881077.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 18
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z

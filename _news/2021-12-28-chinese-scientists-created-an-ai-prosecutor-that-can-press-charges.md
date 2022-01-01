@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/chinese-scientists-created-an
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Interesting Engineering
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China has developed an… AI prosecutor?"
-    excerpt: "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities."
-    publishedDateTime: 2021-12-28T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 59
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
     excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
     publishedDateTime: 2021-12-28T18:16:00Z

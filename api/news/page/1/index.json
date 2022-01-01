@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-01-rumor-claims-intel-will-disable-avx-512-on-12th-gen-alder-lake-chips-but-why.md",
+      "title": "Rumor Claims Intel Will Disable AVX-512 On 12th Gen Alder Lake Chips But Why?",
+      "excerpt": "The saga of AVX-512 on Alder Lake has been an interesting one. Originally, folks reasonably assumed that the 12th-Gen Core processors would support AVX-512 extensions. After all, it was supported on the last-generation Rocket Lake chips,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
+      "originalUrl": "https://hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57226/content/Intel_Alder_Lake.jpg",
+          "width": 708,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
+      "publishedDateTime": "2022-01-01T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-investing-in-sustainability-for-emerging-markets.md",
       "title": "Investing In Sustainability For Emerging Markets",
       "excerpt": "Social justice requires emerging market countries to continue economic growth. Technology will evolve to help us grow with minimal use of natural capital. Investment opportunities abound in such technologies,",
@@ -261,7 +304,7 @@
       "originalUrl": "https://www.washingtonpost.com/technology/2021/12/31/new-year-resolutions-ai-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1228,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
-      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
-      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "publishedDateTime": "2021-12-30T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
