@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Health data: trends in healthcare tech for 2022"
-excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
-publishedDateTime: 2021-12-28T18:52:00Z
-originalUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
-webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
+title: "Getting from here to there - Competing in the age of AI."
+excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
+publishedDateTime: 2022-01-01T18:27:00Z
+originalUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: HealthLeaders Media
-  domain: healthleadersmedia.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-    width: 820
-    height: 312
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
+    width: 756
+    height: 720
     isCached: true
 
 related:
@@ -69,19 +72,19 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+  - title: "Health data: trends in healthcare tech for 2022"
+    excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
+    publishedDateTime: 2021-12-28T18:52:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/health-data-trends-healthcare-tech-2022"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
         isCached: true
   - title: "HealthWorksAI™ Unveils the First Healthcare Data Platform using xAI technology"
     excerpt: "HealthWorksAI™, an industry-leading Healthcare analytics company, announces the launch of the 2nd generation of their state-of-the-art xAI program. It's an advanced analytical approach that collects and processes data,"
@@ -93,6 +96,6 @@ related:
       domain: tmcnet.com
     quality: 32
 
-secured: "rZVbWsk4J822S+axS74M8oQsc1GqI2uI9rINPHNeJ2EvP8Usi33ZzNNJtTOLZnRRDP5nYtGKQ8WFC6YTjVskDpLVGK9o5loMYhdM+gd6hTouG/FfOL/fmTeD2CE3xfEtQz8503BAdAKjQUFF7490znJ7T/1ENVg3NzonHkzkQtJAMwpgV20c1z6HL4fMARnsVYmFksgEsKDjcAK2Yb4q5FzjrJmFVIGqxV3cEoXCaIel5tIiSmOXpd0NDQUvLukhnP1WV+IGhsyfnGlf0B6kMhQV89iGJ8FXmvsRaFtuC7Lp24AaozX0Y77oBBG5i0TK62okV7ReLzaROeHybU0hsDvy29pO1n3DiLnnlPRO9Gg=;9zQO8UdqqJb2fI2yA9B6hA=="
+secured: "7ZfgJHVGLx8ma5b0RcbX/ryGVCnWjGIy2CW9XIvnQPEc0EydGcyr3FIGGPql/1/XbWnRJi7vgLnhQffuRT5hay/ngl4h7NE4ddRs207SF41z4k/HbE6BmWFMW8aRWLXzv7r6nUECbamE9ecl3zlJKVNeHLhicgNzW66cpoBxxCBfxe0Me5NnVJNEw/PxIsIyz0V/9GuKmiAFjrswFKk2WsZ8L469dgeiF5/NPDXGnMvvxAth3/reRbGGUD7aP5J/12BX1b1fxnYj5er1+Bw+J+jV7sq6cOV8LrhOrWpXUPkcRw5xzfxUYQq/BPbfaSJ0yQLG0dzzAB7YSCvSpsKi1oX52gS8edHjy2UL///gOlk=;QKRUoEkVAONE8YZOJKQuOA=="
 ---
 

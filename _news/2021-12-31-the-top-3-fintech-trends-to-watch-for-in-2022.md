@@ -1,29 +1,31 @@
 ---
 category: news
-title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
-excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
-publishedDateTime: 2021-12-29T11:58:00Z
-originalUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
-webUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
-ampWebUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
+title: "The Top 3 Fintech Trends to Watch for in 2022"
+excerpt: "The Top 3 Fintech Trends to Watch for in 2022.” This article focuses entirely on what we see as the hottest trends and the biggest ideas that you need to know about as we move into a new age of payment processing!"
+publishedDateTime: 2021-12-31T13:45:00Z
+originalUrl: "https://www.linkedin.com/pulse/top-3-fintech-trends-watch-2022-maria-karpowicz"
+webUrl: "https://www.linkedin.com/pulse/top-3-fintech-trends-watch-2022-maria-karpowicz"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGmcHCSEXDDew/article-cover_image-shrink_600_2000/0/1640958089667?e=1646265600&v=beta&t=zqTWb0dV-TtUnp8ludQWoCK15kY8KEPpLaTm288LGu4"
+    width: 900
+    height: 500
     isCached: true
 
 related:
@@ -42,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
+    excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
+    publishedDateTime: 2021-12-29T11:58:00Z
+    webUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
+    ampWebUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Top five trends likely in fintech sector in 2022"
     excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
@@ -131,20 +149,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Top 3 Fintech Trends to Watch for in 2022"
-    excerpt: "The Top 3 Fintech Trends to Watch for in 2022.” This article focuses entirely on what we see as the hottest trends and the biggest ideas that you need to know about as we move into a new age of payment processing!"
-    publishedDateTime: 2021-12-31T13:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-3-fintech-trends-watch-2022-maria-karpowicz"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGmcHCSEXDDew/article-cover_image-shrink_600_2000/0/1640958089667?e=1646265600&v=beta&t=zqTWb0dV-TtUnp8ludQWoCK15kY8KEPpLaTm288LGu4"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
     excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
     publishedDateTime: 2021-12-30T19:23:00Z
@@ -164,6 +168,6 @@ related:
       domain: finanznachrichten.de
     quality: 4
 
-secured: "jlA35ob0ZS9pB4IYHUDKVL9CZLhzdZTQX5H+iEkdLvFG45HBgZSzJSkhd9LPVrcODYoGpvkmeYNtrbFfYtXIUPz9g7V/iUEM5iKBMhODTK8Qv/HAAvq4vLQGBqFzA6Yha9Yic5xMfXOqI+K1C7XK5lZ1i7ocgE0umqTfkO6IBksNIHbCRoHshcw+sQyjrOs2XczgeUbvof0YsYdrUYwMTPRcbQASK7pYJSu3A/rM/WnmE3SVd9lHXi8mDqn046VErYR8HgjzzRflNzbn4GehFEvyBV1vJVgPBhCpkV34IarvA782qeTAjhEc7/o0SN2rZofu/UMICDJBKKsQ9oz/ZZ6KCsBwvqGW+04AEAs0/i2IBMTlsAADdVWNUQRT2IEqegaOCpIBodAYlez5JBBUk/tvN/IJSTh8z3LhIFG9uf4ZvWBYIB+wXX+gk+R635qPJUsdEi+Z6MagHXr5RVS585em/jyUCyx6XhAz4QDGQuL7hSqCxdeVUonZvSm4fD4qEoW2uUYYYFVtlHiRWLLbSg==;hCHHGXwZkeyK3L0sEYiNjw=="
+secured: "02/8dfmZp4ciqjWCwH+uLWvGCUS9nqieM3U8pMmPACOn6whfjmwsBdvztjyH7X/e5fIutB9wTSO/lnKYSeKY6Os3Y2SqMdQN/8n1c+7sCOW0UmV2qA+8rEDsaMYdrTF/6xZWR+fYAJkUmVCKDUGtyuTql6E7SNoJhAKBtZJqLzLxyl4UUlxXFAyB8BrTP1qWUrXseThbdwVas69YfRJ3P3CRu07G6KNLJo9jkAMsyAHFlph7j5JE2Cc+jWxSBNx86PRuHrnS5FLmTTsakO+guSm8OkFPIaS7bwOVMAKGzDsyHcqxzigPAydQ579w6U361PWGRkT9Ek9mLfqLdGg61PjzdR8ofOvdUigi0kxXrog=;poRy61Pv0Wq7j9/P4mcLsA=="
 ---
 

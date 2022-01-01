@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "China pursues tech ‘self-reliance,’ fueling global unease"
-    excerpt: "To help make China a self-reliant “technology superpower,” the ruling Communist Party is pushing the world’s biggest e-commerce company to take on the tricky, expensive"
-    publishedDateTime: 2021-12-28T02:28:00Z
-    webUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/"
-    ampWebUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
-    cdnAmpWebUrl: "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
-    type: article
-    provider:
-      name: 12WBOY
-      domain: wboy.com
-    quality: 44
-    images:
-      - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/12/aef2a7ca6ed1453087c2326c1949a244.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "China pursues tech ‘self-reliance,’ fueling global unease"
     excerpt: "To help make China a self-reliant “technology superpower,” the ruling Communist Party is pushing the world's biggest e-commerce company to take on the tricky, expensive business of designing its own processor chips – a business unlike anything Alibaba Group has done before."
     publishedDateTime: 2021-12-29T00:19:00Z
     webUrl: "https://www.spokesman.com/stories/2021/dec/27/china-pursues-tech-self-reliance-fueling-global-un/"

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-04-clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology.md",
+      "title": "Clearview AI on track to win U.S. patent for facial recognition technology",
+      "excerpt": "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology/ar-AARsODG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/1f/c6/e26ed93a4911a083f7f881137c54/gettyimages-925054788.jpg",
+          "width": 3000,
+          "height": 2041,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-04T06:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+        "domain": "politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-kindering-helps-children-with-special-needs-and-their-parents-live-better-lives.md",
       "title": "Kindering helps children with special needs — and their parents — live better lives",
       "excerpt": "The symptoms became clearer as Kuba grew: airway problems and difficulty feeding after birth, weak muscle tone, seizures and severe cognitive ... half the need for services on the east side ...",
@@ -1119,40 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-yellowfin-launches-guided-natural-language-query-making-true-self-service-analytics-available-to-everyone.md",
-      "title": "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone",
-      "excerpt": "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

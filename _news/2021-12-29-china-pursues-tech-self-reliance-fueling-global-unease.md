@@ -9,7 +9,7 @@ ampWebUrl: "https://www.spokesman.com/stories/2021/dec/27/china-pursues-tech-sel
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/27/china-pursues-tech-self-reliance-fueling-global-un/?amp-content=amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China pursues tech ‘self-reliance,’ fueling global unease"
-    excerpt: "To help make China a self-reliant “technology superpower,” the ruling Communist Party is pushing the world’s biggest e-commerce company to take on the tricky, expensive"
-    publishedDateTime: 2021-12-28T02:28:00Z
-    webUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/"
-    ampWebUrl: "https://www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
-    cdnAmpWebUrl: "https://www-wboy-com.cdn.ampproject.org/c/s/www.wboy.com/technology/china-pursues-tech-self-reliance-fueling-global-unease/amp/"
-    type: article
-    provider:
-      name: 12WBOY
-      domain: wboy.com
-    quality: 44
-    images:
-      - url: "https://www.wboy.com/wp-content/uploads/sites/43/2021/12/aef2a7ca6ed1453087c2326c1949a244.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Op-Ed: China’s big tech self-reliance push – How realistic can it possibly be, but let’s not underrate it"
     excerpt: "Technological self-reliance is China’s major strategic driving motif these days. China is trying to free itself from dependence on external technologies. A fairly simple objective, you’d think. Like the whole of Chinese history,"
     publishedDateTime: 2021-12-28T23:15:00Z

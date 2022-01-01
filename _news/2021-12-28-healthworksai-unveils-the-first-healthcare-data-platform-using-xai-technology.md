@@ -78,6 +78,20 @@ related:
         width: 820
         height: 312
         isCached: true
+  - title: "Getting from here to there - Competing in the age of AI."
+    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
+    publishedDateTime: 2022-01-01T18:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
+        width: 756
+        height: 720
+        isCached: true
 
 secured: "GnVnS2ZIXayEpfFz2gsWq0N6l78iJaR+duCd8NzyjWocNuvKFZA0aiPzlkSekBbKFuU1UxaHfQilHvyV5cVF2kIfrtJ7zZKwm1EXCkKWR0WRQAqOXggXJSQCIeG3EQm3/Q+WGTdHsPhY/W8cP5CLYe44XNn2L3asSBcHTN+vRdZkM27ks89+48kuzJdFHnDWIAXwcFRExyVqC95oop06M9r8ubWxjw2hvxGmJXSGZJRv9Ii4o3zpN8jnRx1izK2mq/46e5OH+b3risVt5YkSgVfHDBXIZHNZSYVqF5euJzBtJJOycLHZrVMsofcopR3YtUCvVP3sNEB3OlC3pp+kmEsCe0luA82xPqcY6I7RyIA=;yPfupcLpVHU8cHipVk1i1g=="
 ---

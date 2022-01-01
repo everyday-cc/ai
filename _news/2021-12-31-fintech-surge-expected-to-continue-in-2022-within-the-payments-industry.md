@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Top 3 Fintech Trends to Watch for in 2022"
+    excerpt: "The Top 3 Fintech Trends to Watch for in 2022.” This article focuses entirely on what we see as the hottest trends and the biggest ideas that you need to know about as we move into a new age of payment processing!"
+    publishedDateTime: 2021-12-31T13:45:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-3-fintech-trends-watch-2022-maria-karpowicz"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGmcHCSEXDDew/article-cover_image-shrink_600_2000/0/1640958089667?e=1646265600&v=beta&t=zqTWb0dV-TtUnp8ludQWoCK15kY8KEPpLaTm288LGu4"
+        width: 900
+        height: 500
+        isCached: true
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z

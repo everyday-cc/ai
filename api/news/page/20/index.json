@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-11-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
+      "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
+      "excerpt": "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deepmind-ai-reading-comprehension",
+      "originalUrl": "https://futurism.com/deepmind-ai-reading-comprehension",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp",
+      "publishedDateTime": "2021-12-10T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
       "title": "Live transcriptions of F1 races using Amazon Transcribe",
       "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
@@ -1124,58 +1167,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-microsoft-azure-orbital-opens-up-space-to-everyone.md",
-      "title": "Microsoft Azure Orbital opens up space to everyone",
-      "excerpt": "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-azure-orbital-opens-up-space-to-everyone",
-      "originalUrl": "https://www.techradar.com/news/microsoft-azure-orbital-opens-up-space-to-everyone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone",
-      "publishedDateTime": "2021-12-10T02:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

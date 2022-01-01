@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
+      "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
+      "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF2z7vSmxkQMA/article-cover_image-shrink_720_1280/0/1640351317057?e=1646265600&v=beta&t=kORlkc1_7WcMSE7tL63sivW0viNpUQAfNoGb8pfQAZI",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
       "title": "Eliminating artificial intelligence bias is everyone's job",
       "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
@@ -1100,58 +1152,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-public-streets-are-the-lab-for-self-driving-experiments.md",
-      "title": "Public Streets Are the Lab for Self-Driving Experiments",
-      "excerpt": "When the U.S. ordered companies to report accidents involving driver-assistance tech, Tesla was thought to be the motivation. But 108 companies were listed, showing how widespread the testing may be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/23/multimedia/23wheels/23wheels-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "publishedDateTime": "2021-12-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

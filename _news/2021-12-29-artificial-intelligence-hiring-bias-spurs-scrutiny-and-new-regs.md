@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs"
 excerpt: "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination."
 publishedDateTime: 2021-12-29T10:30:00Z
-originalUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
-webUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+originalUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+webUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 369
     isCached: true
 
-secured: "QZJujka69xhZdis933x6ofK3X9cYRgxOn2Xg/X7jh8RIRyuLStO4XHFhISd7GbPWipEZQbgGmy3cHvrJUvedojsy7fUWDVG65c5eUiBk+w8Gdbj1eqT+x5TGAXMinoHofqaiOZhkjwfeYsIlLlabnK67yFLU+mct4Px4m74451vuE14UrZ2T0cfsuOIOdW+FjOtQoWC+Q/szmYE7MMmQDrzw8IitF/KRHUtP0+0pqqjuVqb64LLVKaVgTnArlzvWFcCzn0QNhGQjAoi/Hou1OIuI+Dp5DSsGOySiEUhjjPdefw70aF9cOB1eu5bc4OO9881oenuLQlxVeDJHtxyDP70TI8CIn1KolGsZfy39Pi2ljWS65xm18S5kwUjrtVwcm9F+T2wSL11/ueEAcDfUHkxDe0WVtC9mODuFA0u2EGxcX3FRLm1qYteDxKn48ISgu33pMnKb18hMaKHhy4CSUonuwYNeuqstWVxS0fKfPyVBLaVLzubp8rvEfUP/psHYjI6/Apofxm5JUHo0gfjiuQ==;yAf/zy2WNF5rKlYOS+rSaw=="
+secured: "ETh0CF/G5EP54lZDXGGwx5a+j5jjJfKc0LtqZhuBUH0SZHkhRBb2z6MRbfRdRS+jJZkhDKAFAdy/6FJmFiEM5+/tX2GHe1uRzP3zgjYJq8PwbzxrmyNDDDt4ME0mnFQgBVC6kKHRqspKTQan3NMdl6gLYZLQuFXzkIeZ/jnkKuXTXuZ7+WrdpGdlQIF/XjMNi9D4KxPnkr0r1TJ8AVad5DCWiXQvfe/9weobJXDKJ7HwnRU27Wm1M7e2ppGyTeNrL8BQYW1bShvKhQBnv+rnwp6bVb7PtFCe/rj4jjLJt2wVqJBiqbJ7h3fyFfZ5KRhSDO7OyAM6Db83h+FMOsRQc5KXfFcCD41zsWXbhxSL1sY=;QRysy1Ul+FFcoYV37bUg5w=="
 ---
 
