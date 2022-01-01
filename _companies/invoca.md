@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.invoca.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4449
+  followers: 4451
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "NOjs6NXzAHvu5nTmzmy6ie+09BAmhtj0WiEguLgOdXeHR/KPBe5Us8iinTwyBmdDE8aWFoZgRZoyFEciPZxSCHEMmMbHe91I3lb8OFVCR3R0wwc63QET1n7qhFBfcw6sfUIbRRUWxwZlif+UNOR6gDcRRD9HBQyAb2xfUFk6HHWYVAdaMHIxLobHyoJoHTe/ykraFV4ms1wzN5SXcWhOMV30WmG/2chfsV0qPMvA4ggdBr18p4g1YW71W9jULReff3yDhkypKYWoUnK08vMg2bNgBtolFUa2/Z4+HOGdPZi+zlLPCW/mWg9X3ayImRaUV4Y207fE9adzIZejzcTR6KXUGVZ91e3MHRVE7mk3WBDsrc7yysfdLmIoCjkyZNR7DayADGsyBFa0EurePmL623D58kiWjdlrsESHCE/Jhrk=;Axn4+FokvrzjXEbMG66lYQ=="
+secured: "XVZ2vOkbV5n+6PvUrW+trdfmVDIv2BljjraQhKrxWxSdtD43LhJzg55hPfn8ewfPmytJ+SngJ6bsPaOWY9TPQ2SKty3HEkR5UU0M09usAirnXT/eEg3YhrsT6RIXaIi722cRiSR1EKy49J4JDY/tKLrLdnkntsU+S8h9dMJb0/dyc6nirmaCANi4H87nO1iNO4vICCYtnhqFow5GWvAfzS/p+1Fq9UPUiYWttbo2IlLOIQ8pImyLCcy9n2bmGSQOALongYVDdrMjuSq6PeKKB+eeXhS7zKNtxBAvYeHMyC3jmnyxX3IV4McT49+HC9SPmfanwK8glkP/hidNm3iD2e6/LTDfvWp6fc1FkC6xLslxI4jjcCrc4sCf902Ip84EUGewBkxxATiEp7ibJz4Cb92bP75OIKVPNajxzROhFfE=;v7gDJgnTbu0uowLf4OAqsQ=="
 ---
 

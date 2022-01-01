@@ -2,7 +2,7 @@
 name: "Infermedica"
 overview: "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care."
 type: "profile"
-heat: 42
+heat: 57
 
 website: https://infermedica.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "infermedica"
   url: "https://twitter.com/infermedica"
-  followers: 2627
+  followers: 2628
 
 size: 51-200 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=p8YcZnbiB2U"
 
-secured: "GU1hEmZQ+703xrpHLPf/lyinIgv/sXkVAdSkfqAm1GTXKZYzYApU2AMToq0Xp93VAItJf+SljnDLkJMs43LeyqfqwYSpP4BV5Rlzoz+plHpzd/Y1zseUjH+gEbH77LcLTc3WgwuVKQWFzbzRVxY2ThFEfhfpZt1b2fQx9Co6Oqc+pGnsCBkULy22an4DPELlhZ68R+BI9wTIhokhMS5O5flMxU5HVr1nVXbXilap2KHGOalGiXRVNkaJ9K08+rPeJ5qdivr86hhAuyiXiNdwLhWK12ixDTyIFDlV0Qx8yC2MUp/2WPuQi1ZRfQlDIrH8nQWc1Zzp7SDNrKYOfMb6ag+GS1X1uQjY3/mymt6Z1CGULzJdMHCqenb3psjdk3AqrdtO8m8OOM1DpWywWle+0SkEflDhS0lxTqmIW19FNfk=;ChEdOu/2CW1pRCWPkrVoAw=="
+secured: "kMtZRvWY9sZUljaa0cM3+TzQD41JciioRo/5FnRTRhEpcOpZ07NlAIxrHX/eh72yOG7EChmf6pZv2ZQo3jb69tQnc13ZMCJOIPERP+6WLkyEJmbBiIDTzGERnD+Ga9W+eTopCkzX7RxNLKakcaiyAZdXjpbkkIlHcpzklg8plxYPdfKMC0bdvgnOtPy7fL41JPH/u9yDUJXXQWvFC5Z97Bda/5r+T/RjktubHBwFCYEBQE0yzbsWyBm7JpToMgX63ghH1CzvnDnNOkmKVPdkEtfnZtfMlZcYFftNl0C5f7g4SbThOkEPvJ0rY1pgQa/+Hi1tXfkqZpwwOSXTMAUJXGv/rwe55lh9d5rlI6ZMdXcqZwkIQdelj24G6+5oYwhR0RyNkgmBFkE2a1ArRMfkFJB2Z6LdvUwsVKC1NU8M2XE=;HowLwKQOVSU62BWPhXH9cg=="
 ---
 
