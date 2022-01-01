@@ -63,6 +63,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Top 8 Data & Data Analytics Trends for 2022"
+    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
+    publishedDateTime: 2021-12-29T20:52:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 24
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
+        width: 1400
+        height: 934
+        isCached: true
 
 secured: "HQSiUz8z+6XeEP0T/+vQXclCms/GOxnmv68NqHlXfBf1baTxa9OZXU2xCK5jpHk9D2YgXTy4+bimaUdmXaKWEkOcpBbWp4NT7JO6estVsO48BhSxp0uFlVQ0Wdd7JzVo10zgMmV3cbf0fdFcgOXmlR4oFbPlC4Y2IEbeD6JwUVLuO2l2cOfEdbrcAeoSOCWj1IFOuO87xuas3kO7Wi3wXMQL7dmzbhQvKPRq1K0Q24Q3PqLhrcdMqJXnkkR5gHw+833txComuvzomi/V3Jr0TXuQke2oHTXMfl5Z6kWVN0/uOyn52nzL/Z4Ezw/taDTJijUPBOigxBLv7kP/TuKdpAr1aQVRTW4Mmb3DoBRmxcg=;ucsDP3n19VSWLBkj2POJTg=="
 ---

@@ -2,6 +2,92 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
+      "title": "How AI ethics falls short - preserving jobs is not enough",
+      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
+          "width": 1277,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "publishedDateTime": "2021-12-07T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed.md",
+      "title": "Artificial intelligence carries a huge upside. But potential harms need to be managed",
+      "excerpt": "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop",
+          "width": 320,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "publishedDateTime": "2021-12-07T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test.md",
       "title": "Flagship Pioneering Launches Harbinger Health to Detect Early Cancer with a Simple, Bio-AI Based Blood Test",
       "excerpt": "Flagship Pioneering today announced the launch of Harbinger Health, a bioplatform company pioneering the detection of early cancer with a simple blood test",
@@ -1024,100 +1110,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
-      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
-      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "publishedDateTime": "2021-12-06T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
-      "title": "German Language Service Provider Milengo Expands to the US",
-      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

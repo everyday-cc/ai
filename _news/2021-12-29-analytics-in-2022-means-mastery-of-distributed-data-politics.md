@@ -56,6 +56,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "Top 8 Data & Data Analytics Trends for 2022"
+    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
+    publishedDateTime: 2021-12-29T20:52:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 24
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
+        width: 1400
+        height: 934
+        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-28T09:06:00Z

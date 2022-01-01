@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
+      "title": "Replai uses computer vision and data analysis to figure out the best video ads",
+      "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Replai-Dashboard-3-auto-recommendations.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "publishedDateTime": "2021-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
       "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
       "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",

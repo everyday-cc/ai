@@ -2,6 +2,103 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-16-companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft.md",
+      "title": "Companies Must Assess Threats to AI & ML Systems in 2022: Microsoft",
+      "excerpt": "Most companies lack the proper tools to assess their vulnerability to threats facing their AI systems and ML pipelines, prompting Microsoft to release a risk assessment framework.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
+      "originalUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte4689bb9d4891a78/61ba7e150c86f53774da5d45/MachineLearning_AlexeyKotelnikov_Alamy.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker.md",
+      "title": "Achieve 35% faster training with Hugging Face Deep Learning Containers on Amazon SageMaker",
+      "excerpt": "Natural language processing (NLP) has been a hot topic in the AI field for some time. As current NLP models get larger and larger, data scientists and developers struggle to set up the infrastructure for such growth of model size. For faster training time, distributed training across multiple machines",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-5271-image003.jpg",
+          "width": 2286,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T14:46:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
       "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
       "excerpt": "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021",
@@ -1094,83 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
-      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
-      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
-      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
-      "excerpt": "The company relates the limitations of existing computer vision models and neural networks to the widespread use of the traditional siloed approach, making it the first company to leverage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24617962/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalab",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24617962/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg",
-          "width": 400,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24617962",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24617962",
-      "publishedDateTime": "2021-12-15T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

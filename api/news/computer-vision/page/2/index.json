@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-cyber-daily-us-to-bar-investment-in-chinese-facial-recognition-firm.md",
+      "title": "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm",
+      "excerpt": "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
+      "originalUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
       "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
       "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
@@ -1289,58 +1341,6 @@
         "name": "Gadgets Now",
         "domain": "gadgetsnow.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
-      "title": "Replai uses computer vision and data analysis to figure out the best video ads",
-      "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Replai-Dashboard-3-auto-recommendations.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
-      "publishedDateTime": "2021-12-02T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

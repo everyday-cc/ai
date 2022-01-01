@@ -1,29 +1,41 @@
 ---
 category: news
-title: "Analytics and AI in 2022: Innovation in the era of COVID"
-excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
-publishedDateTime: 2021-12-28T14:03:00Z
-originalUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+title: "Top 8 Data & Data Analytics Trends for 2022"
+excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
+publishedDateTime: 2021-12-29T20:52:00Z
+originalUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
 type: article
-quality: 67
-heat: 117
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Enterprise Networking Planet
+  domain: enterprisenetworkingplanet.com
 
 topics:
+  - Machine Learning
   - AI
 
+images:
+  - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
+    width: 1400
+    height: 934
+    isCached: true
+
 related:
+  - title: "Analytics and AI in 2022: Innovation in the era of COVID"
+    excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
+    publishedDateTime: 2021-12-28T14:03:00Z
+    webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z
@@ -58,20 +70,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Top 8 Data & Data Analytics Trends for 2022"
-    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
-    publishedDateTime: 2021-12-29T20:52:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 24
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
-        width: 1400
-        height: 934
-        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-28T09:06:00Z
@@ -82,6 +80,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "+ggcUZ2T43hykZsxycDEHJvLJ8+yaJo/m7opBV9cKYi+NmprA0WZEX0TSjs3Q7t5+yvmX33mL3ML9oWemE1HvBD7XMmd5V8cFH+N7Gu7yorUPRiJVRlpot0JGaJxFPoVYWh3/zdQd76N42RETcJ/UEa6OEugtMLk15oV3QVt6nN+bhhvEGxjyOJIyabUOaMbZV06fG25dGTrRO6uDKjj9rTIV8rzY1+svvol7VAn1klqfVoPQoX9s3KOZZMXmRKd+u0D9crYZvW2nFLxIzijcb6SXseB7reoFUkoQbDUJdzkMUNn5u3aZkDGWOhvn2mT19IJDCxzciJ95mjx1XE2C8m9bRypz3pFeyNDWEaUrqbFgtfXHzP4rlSnFUWlPZaybKTS8/YtNeWtk4Pl3y3WQK1CSkjBWZlGDHlBjnuv00asE0NyeKY3kq0av9A2DGiF+ZenDoByTJcryluBjSsYHEoRvtd2Lq+wpkfMYGcqIXbjf2XamdSsENGopLWRQp34+j7CvgzlGr7P1rXgsybJmA==;yKwHMD04ELvyU++/AbvW2A=="
+secured: "brXD+LO520uKx355fjKpBXSpos+5oLulm+AR4kSuMCmMFzDZk9Nm0aXu8d4x1f1X5Z88hn1f2vToZIsFPVPnClx8OUawblHSGpVW+72M7EouLQpTg4If4HagytNPrRETb32vEEJmUX7rCD82YMRjNgoPi2viVV5Ia+Z/y8EMydB30KlUnveeOHcVsLvrysLv55z87Wwlv+nNCDkoweCK4+SU2O6a6V1kcpoee8MtZGPhFt0kf9djaSctINW7SXFhpoiKBQyzTWSG7i9X/fzdsycQLIu8wsFKFwdyIEY19SiP+zy9GsQuNv2Y4/AZl7w8Lncf0SN5gwg2U7vBGCVc1eOw08iswGBsqQjcHdd6yo8=;GamHd7K96kZlKfWsB9gpmg=="
 ---
 

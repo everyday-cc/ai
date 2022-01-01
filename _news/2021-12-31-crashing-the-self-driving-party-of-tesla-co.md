@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 750
         height: 502
         isCached: true
-  - title: "First fatal self-driving car crash."
-    excerpt: "But thought these self-driving cars are fitted with radar, which wouldn't have been susceptible to the same visual problem as a human. Which brings into question how far driving aids should be allowed to influence the driving of a vehicle."
-    publishedDateTime: 2021-12-28T04:04:00Z
-    webUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
-    type: article
-    provider:
-      name: PurplePort
-      domain: purpleport.com
-    quality: 4
 
 secured: "YseJzVPTndEOXdmGEOnS9l6tOmrhkGoMfYwFFSm7osFoQvgJUUBmsBhNKmTseE5GiYN4lWyAm+vSBiLFhSO9pDYkfDCtgrLz+lD+3Nwr6plMWghoYkrtfBJpfKEkZd4OC5vdcHo3DAjtiY5ZpA9HR5Aexc2evKwSd8hUCHMgLNzfZkETWbOv//YZwGx1nvCSlAJ7ah8c+Y2mCKmwBYVgoWbSNqkSZeifDBvvzx7fR+E06OwXlka5sMyP3Sx8IQlp8DURocCaM3frPvfVH3ZoDGsNulnihUlQSUZE1EllWHkVnEnoANdf0KYJrbwVTSH0ZKi3dgAs+c8omRUD0K2YcoIrtPALe7cPftG31wPA1Oi4LZZsYJsHH7s96aLxOnooew0f8erT2sU1d8kJqdDX+u4rDXAwPndEyZhy36sVJuAPgvOccJwhQUQyBy8CRxUTTUFBdrqieivLvfYirDGqL/mTWp9UP6s+n0gWaOlv27Uw3A4fsOT6FwxyLWizyL0F+dDL8+AgtvRRRd6s4ZTzSA==;E3i8p9uQfn1B9iYqm9DWHQ=="
 ---

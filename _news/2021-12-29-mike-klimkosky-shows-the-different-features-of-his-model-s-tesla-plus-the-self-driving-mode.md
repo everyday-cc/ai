@@ -87,15 +87,6 @@ related:
         width: 750
         height: 502
         isCached: true
-  - title: "First fatal self-driving car crash."
-    excerpt: "But thought these self-driving cars are fitted with radar, which wouldn't have been susceptible to the same visual problem as a human. Which brings into question how far driving aids should be allowed to influence the driving of a vehicle."
-    publishedDateTime: 2021-12-28T04:04:00Z
-    webUrl: "https://purpleport.com/group/general-off-topic/95529/first-fatal-self-driving-car-crash-/"
-    type: article
-    provider:
-      name: PurplePort
-      domain: purpleport.com
-    quality: 4
 
 secured: "tRiFD8jaz9smPmRI1BXZd1bAzgajf4B9hq46aL/BZD1V4g5TKnFMzb9YN2r+5cfbq/LLSRwecWwyINxQNDm/vr/1hobvC1RamjnzQSnnYH3druAEA17uYnRPzatfEE1VS1OfDwLFpX8S9TQOlUzV4xYC1HR3tVy4gr3OYuwUbIK5QzGA2j44atIZ6qBIenaUNLMAETE7NyW1pE8gORWf8p1RQ/+ZEI+Akk1sKcbgibxwyRR+Ud7PStjJEICKnqUKMGnLgK2o5vK6ZExHx7GJKv0qnUPeryvqN4PBlvwdeL8mNIn8b6t8a7v+I+paNZspPOvV2lTO7PS8Rb6TkCYmz7KO6iyk9hFevE2pJ9BppO5qcXBynrSXBSv8NE0XTxSZWCsp1ShYWoP8LKG3WzWba4jvzOFmIr65PKD9aKAlJ3HM8OLKlkO3dZWu3LvLfC/v+ELiMSMuc2iUJ4+ONlRYNl8D7tC/8otS8PCb2sL2AxP+VOOFB95qE4Jk/IuxlUdEaewGhpmHcMFsIVfzT39/2g==;famuKYbxOuShprEDIT7vjQ=="
 ---
