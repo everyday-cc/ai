@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-l
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1"
 type: article
 quality: 65
-heat: 106
+heat: 105
 published: true
 
 provider:

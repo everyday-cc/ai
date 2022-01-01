@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/news/whats-new/optical-chip-efficien
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

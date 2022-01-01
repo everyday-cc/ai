@@ -1,25 +1,29 @@
 ---
 category: news
 title: "SoyNet to introduce AI accelerator at CES 2022"
-excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
-publishedDateTime: 2021-12-31T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
-ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
+excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on January 5, 2022"
+publishedDateTime: 2021-12-31T18:00:00Z
+originalUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
+webUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "stfN2pV7EHSGHuE/aYJTGDUtfV96LTUNzhfUp6iUwGV36+HQURdHCjt/WlfBDaOLpt5nWtbLCGD6rR51JlRMw5Re5TBPHtluN6RbRfVu0FfWrEJVDwocSm7rUxQXqaEY/IGeP3oKsv643B4g17hDsij4tgva5aSCRRyjPiumDNm9es7VPtYS98W1EShrnowwCE9n457nBHaBsR4tF4DWOeLSr4CllRTC6OVf4+AJu8lCf3/3MIRKvG3SKXzoOMniiA84deS/p2dBUUnljuEo1bdhjrp7j4RKsWS0OoogpgfRD7P+/8GHQ67CiUNqrCIQk3d4XAXl9lC5Hf0FUgKguQNdXqFtgpSdS3tWn0INr1o=;ZwufiIQnbe17l3lT2bIHxA=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2022/pr-newswire_500_4.jpg?itok=Nz-7ue_n"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "hJL/3jApzIsxA6+bTSSwWdubUw25jRIeBr9rWhk1Pq3aH9EhYMVWJxdIck8nGjIys8JqoJgN3gzgQa4MKsAAe7w4WdP+C+RnPI5rnqo31UQoBIwiEk5DOt/1FJuUgT4VSFpSy7tIBbTaHg4tJtSxBa/P2FCCEFVZlLyNRvGoNXvlT4OHmXnryKVS5m8cECtqIHfGO5b5qne/2ykmfFKXMHgF4oFE+hJoXPoH2h+WELXjZJubRLp8x+l03eRPi2O8wxeTHvVnGsa+gktpPDM9I0W93ysLOtBum/9adIYPDBSBY4MnD3F13/KMwfCjC9s9UDmB0clz/N/gHzmqvh8ayY7Y/dTeDpBVXBcJkp2RcRc=;8w6NexqMMYRIhgk2CB5yxg=="
 ---
 

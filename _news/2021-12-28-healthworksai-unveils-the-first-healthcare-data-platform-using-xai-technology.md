@@ -64,20 +64,6 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "The Future of Artificial Intelligence In The Workplace"
-    excerpt: "Smart technologies aren’t just changing our homes; they’re edging their way into their numerous industries and are disrupting the workplace. Artificial Intelligence (AI) has the potential to improve productivity,"
-    publishedDateTime: 2021-12-27T07:57:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-workplace-theprinciplegrp"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGCUu_Dh3vAKw/article-cover_image-shrink_720_1280/0/1640591863869?e=1646265600&v=beta&t=aYuBTGZ9ssnq_STUQ4ScE3dG3qvyach6g8U6_Rur29s"
-        width: 1277
-        height: 720
-        isCached: true
   - title: "Healthy data: trends in healthcare tech for 2022"
     excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
     publishedDateTime: 2021-12-27T20:18:00Z

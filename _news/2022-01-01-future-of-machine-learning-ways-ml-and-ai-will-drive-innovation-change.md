@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-31T19:49:00Z
 originalUrl: "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/"
 webUrl: "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
