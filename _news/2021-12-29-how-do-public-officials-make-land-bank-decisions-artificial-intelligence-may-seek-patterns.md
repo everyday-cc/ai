@@ -7,7 +7,7 @@ originalUrl: "https://pulitzercenter.org/stories/how-do-public-officials-make-la
 webUrl: "https://pulitzercenter.org/stories/how-do-public-officials-make-land-bank-decisions-artificial-intelligence-may-seek-patterns"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Do Public Officials Make Land Bank Decisions? Artificial Intelligence May Seek Patterns"
-    excerpt: "By Emily Crebs and Lucia Walinchus This project was funded by a grant from the Pulitzer Center and provided by Eye on Ohio, the nonprofit, nonpartisan Ohio Center for Journalism. Please join the free mailing lists for Eye on"
-    publishedDateTime: 2021-12-27T17:30:00Z
-    webUrl: "https://businessjournaldaily.com/how-do-public-officials-make-land-bank-decisions-artificial-intelligence-may-seek-patterns/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 44
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2021/12/al-jenkins-cleveland.jpg"
-        width: 925
-        height: 520
-        isCached: true
   - title: "How Do Public Officials Make Land Bank Decisions? Artificial Intelligence May Help Show Patterns"
     excerpt: "This project was funded by a grant from the Pulitzer Center and provided by Eye on Ohio, the nonprofit, nonpartisan Ohio Center for Journalism."
     publishedDateTime: 2021-12-28T09:46:00Z

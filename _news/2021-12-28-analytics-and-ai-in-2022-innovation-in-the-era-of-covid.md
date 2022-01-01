@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: ZDNet
@@ -24,36 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations"
-    excerpt: "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions."
-    publishedDateTime: 2021-12-27T17:37:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca0586b099be41a4554665%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why we must humanize AI for global supply chains"
-    excerpt: "The rapid adoption of AI/ML is driving us towards a new world where computer models are increasingly shifting from “informing humans” to “taking decisions for humans”."
-    publishedDateTime: 2021-12-29T14:25:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/why-we-must-humanize-ai-for-global-supply-chains/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg"
-        width: 1366
-        height: 911
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z
@@ -63,6 +33,31 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 29
+  - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
+    excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
+    publishedDateTime: 2021-12-31T17:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24848717/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24848717"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24848717"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
+    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
+    publishedDateTime: 2021-12-29T13:00:00Z
+    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 24
+    images:
+      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-28T09:06:00Z

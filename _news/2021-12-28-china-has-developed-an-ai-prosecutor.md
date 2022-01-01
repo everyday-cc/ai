@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prose
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbb5eacc061cb924f69f24f5315d2cf2a.jpg"
         width: 1200
         height: 803
-        isCached: true
-  - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
-    excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
-    publishedDateTime: 2021-12-27T18:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 53
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
-        width: 530
-        height: 300
         isCached: true
   - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
     excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."

@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Video of Tesla-driving dog was staged"
-    excerpt: "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,"
-    publishedDateTime: 2021-12-27T18:23:00Z
-    webUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/"
-    ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Japanese Manufacturers To Play Catch-Up To Tesla And Others With Self-Driving Tech"
     excerpt: "Tesla and other automakers have stolen a march on Japanese manufacturers who will focus on Level 2 tech next year"
     publishedDateTime: 2021-12-31T10:57:00Z

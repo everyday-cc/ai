@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Video of Tesla-driving dog was staged"
-    excerpt: "A viral video of a motorist encountering a pooch driving a Tesla down the freeway has been revealed to be a doggone con. Austin, Texas, influencer Blake Missick recently copped to staging the fast and furr-ious stunt,"
-    publishedDateTime: 2021-12-27T18:23:00Z
-    webUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/"
-    ampWebUrl: "https://nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/27/tesla-dog-video-revealed-to-be-a-fake/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/tesla2.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Japanese Manufacturers To Play Catch-Up To Tesla And Others With Self-Driving Tech"
     excerpt: "Tesla and other automakers have stolen a march on Japanese manufacturers who will focus on Level 2 tech next year"

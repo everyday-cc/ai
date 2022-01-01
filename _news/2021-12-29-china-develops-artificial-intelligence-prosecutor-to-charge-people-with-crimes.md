@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "Chinese researchers develop AI 'prosecutor' that can press charges for dissent"
-    excerpt: "Chinese researchers said they have developed the first artificial intelligence capable of charging people with common crimes and dissent against the Chinese Communist Party, according to a Sunday report."
-    publishedDateTime: 2021-12-27T18:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chinese-researchers-develop-ai-prosecutor-that-can-press-charges-for-dissent?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 53
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/f361a3f/2147483647/strip/true/crop/2290x1296+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F03%2Fd8%2F1cfa50224c48850785c8484bb174%2Fap-18302028457957.jpg"
-        width: 530
-        height: 300
-        isCached: true
 
 secured: "sPz1hEDCGAmLZGUMSVdnZq2o9FzlKmx92Dn5W0abj7ss9dsQtc2ZxRP+VKpvfoS+Do8a7RFlDNwo+4+UKbLYrU+5+m5kE0keyuOZZUtTl/qUtdzaNyhegt4zFYweiy6lg+MOmkFL/UqD464zBK12gRbsLhn6O1slXQNxZWQBnv97E5cwrkpfh/qRm04VvPecs8aO6z7A+wa6LIKzsuLF2E6CBTGptAs6JWRJyq6RlzC7sUTerHOTHXPk4DGtE4/yIGI4YC22vHKLrS96tfgYAGUpVNPTc4BJtl1tR8FM7CnHyr7X+h5WLLn3MqLQtw4WJm3K02gBDBxw9dSCytuOWgaZTcutVNR+PHaSLRBiHuE=;uSQTMBpP21fxWadTFxRbkw=="
 ---
