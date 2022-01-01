@@ -6,9 +6,9 @@ publishedDateTime: 2021-12-30T19:09:00Z
 originalUrl: "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/"
 webUrl: "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 156
+heat: 156
+published: true
 
 provider:
   name: unite
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ER5+EAiPbaGaDhjIe0TFwQuxMkmO4QASQFjPUC9+4A3hO+aLBPu3A64Jc2HciNCCS/r4icZhX1iQWx3qGoyV2aeVC/38GnKG6VLuSJ1Zo5J8JBefdGfILrnk437RQFt/XzYcwI35r3PSd3vSTn9sH6crOVt1STiEubRfgjpGRNPSKqWNwrRo7e4dC5bnQo9eMUjUImmgdvFo3+9vBWl+7uyu0UTKiZ+kOBiKguzd5c557YHB3O7FB6E8kY6Y//YEsZfnV9/aoSYBEaLJSEIXX7PdOmOfFeuF2OG/LcejZsAbD1+ACdNs9G8/YlDRX+8pA0qxywpqWz76AOfCMmx65oNoikyVf2E80hi1kkbc4JO17D1UkoV6E04Xp4BksJtzjAmMsB3hkZvyCzp5wHhHP+9a/cp0YdP6W+sRzycmn8rhhGz50Sho33GZ/aE8RrQ5pIgg+u1mI28d6/7eS5bExVKzMl0lOQddxB+vUksmsnC+e3IiL1ZzpRQn2IL75PRa4dfQjEhDNB34LtCqEnKK9g==;FLM20F/hGqQFhjan2p/7nA=="
+secured: "4uj6OlcUqiWnmrQMcqVjrTfOPq/OrSbzk+SK4zUqfFRjNSUyUYTyirkI83kIY3jgTvnoa8b7Y7+e3gfPj/3X1VRze2i5qfGKKg9r+EVnY7mhXxcSp7fReU0TQALT9j7hhzE1FK4bIo/gtKnJSXMhw6BIP09S5hZdQyJPEEl0oAdWXvRoDaywQ3egTxN+62R8RglEWDrDytj8r/Z2Uu6HTKFQ+DHDEgLNCOy+ocQIW7eGHvXEEMvEfOWTQwc/uBHt3LFESWJUwCucJ1W66coJtMfbXqgrGdEC6CMCa1WiXwWO8lcvxysi2M3SXb6QT+18N29CZGEgb8c4jBCR8l6T7eQv6HDK4IClhcPyX9n/GrlDpL/PWFweruOFSx2VvNNRps65lddnPG1eEBfAF8kllbpGkhJVu/jFqExxSFYJcydmu9GjoVRk4cpPsxlpEV+uqeN5smKYG/UYTe57E9bYxIwY0xERUCdxbL3Ibaf30iFo0a92anPRBa9YKp7Hdi10PNmex6BCk/evbe3XmsSNkwaWtRuV9LCNTLhgkLt1ruw=;J/pih7ufRRfVgzMGdPYWKw=="
 ---
 

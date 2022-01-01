@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/12/29/daily-crunch-110/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/29/daily-crunch-110/amp/"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "TuSimple’s Autonomous Truck Driving Test Was an ‘Unqualified Success’"
+    excerpt: "Analysts at Morgan Stanley say TuSimple's fully autonomous semi-truck run cements the company's position as 'autonomous leader.'"
+    publishedDateTime: 2021-12-30T22:34:00Z
+    webUrl: "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 142
+    images:
+      - url: "https://images.barrons.com/im-325875/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-Driving Semitruck Completes an 80-Mile Route with No Human On Board"
+    excerpt: "The ride marked the first time a class 8 autonomous truck operated on open public roads without any human intervention. Last June, we brought you news of TuSimple, a transportation company focused on driverless tech for trucks,"
+    publishedDateTime: 2021-12-30T17:27:00Z
+    webUrl: "https://interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    ampWebUrl: "https://amp.interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOdd8KAOd/sizes/tu-simple_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Self-driving semi truck TuSimple logs first no-human road test in Arizona"
     excerpt: "A semitruck completed an 80-mile route in Arizona with no human on board and no human intervention during the trip using technology developed by TuSimple."
     publishedDateTime: 2021-12-30T21:48:00Z

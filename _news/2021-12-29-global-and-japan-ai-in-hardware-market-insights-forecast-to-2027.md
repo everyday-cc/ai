@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Stock Insiders: How Echo IQ is using AI and big data to better scan the heart and save lives"
-    excerpt: "Echo IQ uses advanced AI and access to cardiac big data to identify patients at risk of structural heart disease."
-    publishedDateTime: 2021-12-27T22:42:00Z
-    webUrl: "https://stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/"
-    ampWebUrl: "https://stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 46
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/Stock-Insiders-Echo-IQ-Thumbnail.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SqYo5/90f8YFAfpI20i0Nu7qLzb5m+UnZEQ9rz1tBq/h6XaoszpERQE8kzwjhZF9jqqSV98g0MCNW8Bt0apTS2gWen2Df+jd61nAdb1sEefcs5Xp9gtXwWWab/Q1pRE6GQu6GD1T1EVsz7zKgEpGQyQepjWcBhUUHh9T8vTqAtvbrdtCue2+C12VEgsN41ajQWe+WeK7fLHngXCJ04r0uADFgWBcLBhnOAEN6UnoyDfAQ+wOd01Sm4BEqvj++PU3T1C5diTPpRtMx1/DahcSNwi9sFCuW9+t+UbRPQjAUjRza4YAYWo3DNVHK0nfzzQ6W0oLD2ptqiGOePRc02G/dinrqlrm3ImBTG1Vhw81BGE=;ugJZ67tkUFAY8bmStkjuFw=="
 ---

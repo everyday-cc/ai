@@ -7,7 +7,7 @@ originalUrl: "https://marketingsentinel.com/2021/12/30/why-c3-ai-inc-nyse-ai-sho
 webUrl: "https://marketingsentinel.com/2021/12/30/why-c3-ai-inc-nyse-ai-should-be-included-on-your-watchlist/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "C3.ai Inc. (NYSE: AI): The Most Interesting Shares Of The Day"
-    excerpt: "In the latest trading session, 1.26 million C3.ai Inc. (NYSE:AI) shares changed hands as the company’s beta touched 0. With the company’s most recent per share price at $33.56 changed hands at -$0.69 or -2."
-    publishedDateTime: 2021-12-27T21:01:00Z
-    webUrl: "https://marketingsentinel.com/2021/12/27/c3-ai-inc-nyse-ai-the-most-interesting-shares-of-the-day/"
-    type: article
-    provider:
-      name: marketingsentinel
-      domain: marketingsentinel.com
-    quality: 37
-    images:
-      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "BbRb2+f4G4BIgkf0fBkvyxOlR/0tV2GNezqKoyX90/twbqZTwpSTDjFIiCwAVcWV0zjDaFTwAqdMGs0XHssbAQtYmUCCalgtq7ZM2E/Ad5Tn8qFk3yJ3Y+G2ouA55ET/Xppxs+y5j3Y4P0JMrhdV16jVCtCf+4V2cR8eVKXYyAqwQ/SljoiLJxXGBQ+qp2V7i8lva5ma4UpEHqkGoBRM65KGGcYhhYp2p6g++wcteQYUZOpxfSxVr6HC50ud/8FBM1ynXf/DuLm6j/DNm6cmT9cmN1K4+mZLV8mL95KbK9Yb/2urS0pboVbfr38OSL+BDpJ0dPeeODRHpPS2AJhJulEtELgRH/Gb3sXHUB9QhhbswcrawGFa3BEN576TTr4ZdUTs7VVVUeeD8w1lOo3PTDcCDMgV/v4FskafksqiKZKsLmHcKAhK+h0Mwmu8f4urHXiQj6vs5VSRRX8cFQxBbC7zLp1U2gplEgR327XuioPcnwWyxagGhOA0UBJkHZgpoY1tFOceIQ5h5H2cXrTn/w==;RosMzxa40+SHLI1E9LnGzA=="
 ---

@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "TuSimple’s Autonomous Truck Driving Test Was an ‘Unqualified Success’"
+    excerpt: "Analysts at Morgan Stanley say TuSimple's fully autonomous semi-truck run cements the company's position as 'autonomous leader.'"
+    publishedDateTime: 2021-12-30T22:34:00Z
+    webUrl: "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 142
+    images:
+      - url: "https://images.barrons.com/im-325875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Daily Crunch: Using public roads, trucking startup TuSimple completes 80-mile autonomous run"
     excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
     publishedDateTime: 2021-12-29T23:10:00Z
@@ -36,6 +52,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024"
         width: 1024
         height: 539
+        isCached: true
+  - title: "Self-Driving Semitruck Completes an 80-Mile Route with No Human On Board"
+    excerpt: "The ride marked the first time a class 8 autonomous truck operated on open public roads without any human intervention. Last June, we brought you news of TuSimple, a transportation company focused on driverless tech for trucks,"
+    publishedDateTime: 2021-12-30T17:27:00Z
+    webUrl: "https://interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    ampWebUrl: "https://amp.interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOdd8KAOd/sizes/tu-simple_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
 
 secured: "3FmOu/DNqWuBELDrTvffd+BkcxbE/rj0utFN8IzPQeKwR28AvxSdrqGa6KE5Bd0LGW119uTQn/2lTDQj1oKJHoSWJsRboHEvk2fSDoaZF4gLJ7tsY5/dt1lVUEeYfR3AQ/rD/IFrFkoeoy2Q11nrU3afnFGbB8X0yiYdb5E/y3lLdl5VxYSH6aI1PXUNTNjHaeJgfMLj0uh0TEBwp9I/5kGCTal5m9oFvrmgZ9cF5Kd/+AGya17V3QmQ2JzjHUv2LHjjm7ZZrJl9vxxMgTgcJOEz6nsKp59LhkHcy1gkoNJm58QyjbBBP0+8EdzLLPFkCIrp/TtXNF0Rsb5fRuTY6gKhRiriTEeYDZOW5Tda0eBN2UjnW9SkNJj28FZo+yHGVX+5hXQPaI2jpK/+i8RPYYRZ6VjYrrD/yicJ0SHXkmiJp5xkF78JfXUwETrylSCod7U/TNYl5/RFKZzj8JP9zfST6RKTKdehV1iKUFI7hsj+jvWRKj5ubRdgnPD8of8iYsj9SdwZFtKX6TuXtww4kQ==;kyq6Tb3Xx4yHkrlehiN7dQ=="

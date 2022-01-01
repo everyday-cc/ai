@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stock Insiders: How Echo IQ is using AI and big data to better scan the heart and save lives"
-    excerpt: "Echo IQ uses advanced AI and access to cardiac big data to identify patients at risk of structural heart disease."
-    publishedDateTime: 2021-12-27T22:42:00Z
-    webUrl: "https://stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/"
-    ampWebUrl: "https://stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/health/stock-insiders-how-echo-iq-is-using-ai-and-big-data-to-better-scan-the-heart-and-save-lives/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 46
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/Stock-Insiders-Echo-IQ-Thumbnail.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Global and Japan AI in Hardware Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan AI in Hardware Market Insights, Forecast to 2027 report by QYResearch Group. AI in Hardware market is segmented by region (country),"
     publishedDateTime: 2021-12-29T06:43:00Z
