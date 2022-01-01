@@ -24,22 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Chinese Automaker BYD Forms Joint Venture with Momenta to Develop Autonomous Driving Technology for its Models in China"
-    excerpt: "Chinese automaker BYD and self-driving technology startup Momenta have established a new joint venture to deploy autonomous driving capabilities across BYD car model lines. The new company, named DiPi Intelligent Mobility Co."
-    publishedDateTime: 2021-12-27T19:20:00Z
-    webUrl: "https://www.futurecar.com/5093/Chinese-Automaker-BYD-Forms-Joint-Venture-with-Momenta-to-Develop-Autonomous-Driving-Technology-for-its-Models-in-China"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 0
-    images:
-      - url: "https://img.futurecar.com/202112/27/l_61ca1f89a87f5.jpeg"
-        width: 800
-        height: 453
-        isCached: true
-
 secured: "mJr3nYwDXNfh/KOt2iq9e0eh9RcUGmEoRLcORNAqJp3U3K5cwKyonCW8/wMXDTjYCFzowOG+WzIDKTQ4FZgDOhJcNrr3VGuKVAf9zLnNK0m4gXkFYnumjRRg0IGKUbyOtqYbHn+GxgkrFat55Bx+kLEnsaawS7ViwAjr64M6uKdxJ6qXnIxt9S5CrhhkolveKMJhHdI4sPLvHKvvASM0pMf8JQnuSDQjPgJWiThUKWRhqMpjghiqIiQAuOnRVD/ypO7DvC0Pvn7LwNgTuyFTewrGoC/EGYaT6Cxo1899fhYCR9rOSbR0Juy2uaxk0KyHbTSLZ3/kNypSJYOFGWEByetIZxpbbYrLSg1YFcIU46U=;p9Bm5b4qj9E0FXIlHfSDQA=="
 ---
 

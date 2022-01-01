@@ -64,20 +64,6 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "Healthy data: trends in healthcare tech for 2022"
-    excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
-    publishedDateTime: 2021-12-27T20:18:00Z
-    webUrl: "https://www.digitaljournal.com/business/healthy-data-trends-in-healthcare-tech-for-2022/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/FFF-5.jpg"
-        width: 1004
-        height: 586
-        isCached: true
   - title: "Health data: trends in healthcare tech for 2022"
     excerpt: "Next year promises some exciting developments with artificial intelligence and big data within the health technology space."
     publishedDateTime: 2021-12-28T18:52:00Z

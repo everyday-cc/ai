@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top Tech Trends of 2021"
+    excerpt: "We've seen huge advancements this year in everything from robots to artificial intelligence, driverless vehicles, cryptocurrency and more."
+    publishedDateTime: 2021-12-29T17:49:00Z
+    webUrl: "https://www.newsy.com/stories/top-tech-trends-of-2021/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 24
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1640792964_70DA8M.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "4M9Nu0O57xgwGW4o/+yqp6huTKZs3Q84XQXhr3yxuMvGA4PckjtfGpcLYNeAYr8nFkes5eqbPv6X7gTdL6sXzBsbIDm0Ish8YmKzLjRC6X1PGvlr0VsY98mJirccV8tjaz9d45SQYEmbXFhXIa0ZktIJs6LbzvBe51LQuv4ZSZBMY0C/U1ZNmlEsYefZrG5cp1cUwuHcPQKzf22sdn4FeuqCKBIqVpGHaQWd+l2hC/7ptE3cJtj83dqkX+EGjCvsH99iWndoXF10lx13VA0shn+RJLXxdvbvRHHkb+UUcj4OU7pNFR6FA0WSsNcaLhLkZRnQkj37br5kpvlvtlLli6EqK4aw35wMuGsLWoD1zGo=;q4wc6DOD2nGF8/Iex9EzGA=="
 ---

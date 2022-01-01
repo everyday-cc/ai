@@ -69,20 +69,6 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "Healthy data: trends in healthcare tech for 2022"
-    excerpt: "Algorithms are already being successfully applied to biomedical data and are great at grouping and classifying diseases."
-    publishedDateTime: 2021-12-27T20:18:00Z
-    webUrl: "https://www.digitaljournal.com/business/healthy-data-trends-in-healthcare-tech-for-2022/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/FFF-5.jpg"
-        width: 1004
-        height: 586
-        isCached: true
   - title: "HealthWorksAI™ Unveils the First Healthcare Data Platform using xAI technology"
     excerpt: "HealthWorksAI™, an industry-leading Healthcare analytics company, announces the launch of the 2nd generation of their state-of-the-art xAI program. It's an advanced analytical approach that collects and processes data,"
     publishedDateTime: 2021-12-28T14:33:00Z
