@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-16-why-computers-dont-need-to-match-human-intelligence.md",
+      "title": "Why Computers Don’t Need to Match Human Intelligence",
+      "excerpt": "Speech and language are central to human intelligence, communication, and cognitive processes. Understanding natural language is often viewed as the greatest AI challenge—one that, if solved, could take machines much closer to human intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "originalUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61afc200d184762c75e00412/master/pass/WW2022-WIRED-04.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-aondevices-new-always-on-edge-ai-processor-enables-advanced-capabilities-for-emerging-voice-audio-and-sensor-applications.md",
       "title": "AONDevices’ New Always-On Edge AI Processor Enables Advanced Capabilities for Emerging Voice, Audio and Sensor Applications",
       "excerpt": "AONDevices, Inc., a provider of ultra-low power, high-performance processors for a new era of edge AI, today announced that engineering samples of its new AON1100™ processor are now available. The AON1100 Edge AI processor enables unprecedented sensing capabilities in battery-powered always-on devices that need to support local wake words,",
@@ -1393,59 +1445,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
-      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
-      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "publishedDateTime": "2021-12-06T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

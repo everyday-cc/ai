@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "India Symposium 2021 strengthens India and Europe ties in Fintech and AI"
-    excerpt: "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the \"India Symposium 2021\" on the 9th of December 2021 conceptualised by Dr Vikas"
-    publishedDateTime: 2021-12-27T13:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai-121122700902_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/27/full/20211227175931.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
     excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
     publishedDateTime: 2021-12-29T11:58:00Z

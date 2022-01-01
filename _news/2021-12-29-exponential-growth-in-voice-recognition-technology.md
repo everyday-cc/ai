@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/exponential-growth-voice-recognitio
 webUrl: "https://www.linkedin.com/pulse/exponential-growth-voice-recognition-technology-xina-ai"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
-secured: "5U6IwsUOvcRVDl7pDe/eOnw38i/n1eyQ8lByXR1Wf7A9wlJN6JGziamKN1huVoXy3AvrISu13Qk5yd20VYDkDLh8tKfmOJMP0NkyBc2c8E1qcSfDvbzI5Uyn0r78cyFrS5Ft3WVpe2TPlZjJeqgVZ0PKy0vf/GXzEjva/iI4EuBUBKUbr7GdwEG3N+d638UW9cG/nz4KSzjMqa+cz/zhstnm0GTW0P6aIw5ek2z9O1oli7Jrx0+R27/bcfCCPxr3mVN0syal6qUET0gvZG8t0jYQuEJlhMq6EcJYAvMxyTAFejieC8QD0qFEf5AFrSDhIgg+B5HZ2yC0S4DjLB199D9phUmQ9+Y//uOHJn6rts0=;eWi9GzoHry2JsEKydD/WmQ=="
+related:
+  - title: "Tag: Face Recognition Technology"
+    excerpt: "On Dec. 17, 2021, Mayor London Breed declared “the existence of a local emergency” based upon a spike of overdose deaths in the Tenderloin, but to a trained eye it appears in its true colors as a coup d’état."
+    publishedDateTime: 2022-01-01T06:22:00Z
+    webUrl: "https://sfbayview.com/tag/face-recognition-technology/"
+    type: article
+    provider:
+      name: San Francisco Bay View
+      domain: sfbayview.com
+    quality: 39
+    images:
+      - url: "https://sfbayview.com/wp-content/uploads/2021/02/Black-History-Month-graphic.jpg"
+        width: 792
+        height: 792
+        isCached: true
+
+secured: "156WHG0ObxCy3szDobT3+y+HvVYASO2PQmM8Em4uaLnHgFwrMbU8B2aLsYg9rBdk8wztYeybv8hL+6Pbqrs5VLAaKQwq9IdWN+N844itleXcTF0+wE4Iv4rqMwHo4upInSvXeW6qI8hrYgRhP2wHp3ZjVr7FOmANWwiAiyU/AMf46A3Pbj3Tb3bUBuGQHEGY8TSHkOh7z/OfeBgqpn1FNjYuL2qYvqRrHt7DTLSWF3erVOQ+ZNo3nlxrvfz5MZLShvScrvnmN7lNVfWpKDq+u4uPf37x7tnY3iFHIX5o7gyEgiGBoHNUQhu46JBFw96aVB18lQrleQnOh+EBb1qfS70LzxL1G+k/m0Xvys7JPKMo1zNGWO+lTHF8fCIGeWISAdLvTxhVbvWWP70/AX/6wnj7yuxMiw0l+9mx1LQMvObiWwUzAPbsWfqvhNz/l6NIpNPQVXi3k1oOxKX9s7XI84mZU/BznJvQdmpv+mJIClS69QfvM+ZsAhfOtTyfbq4xQCxLPFyb7ljLkWAHzTEFLg==;Z5wIGV0sukA+VmxdI3gXCg=="
 ---
 

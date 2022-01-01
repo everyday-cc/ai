@@ -2,6 +2,59 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
+      "title": "Could Google's DeepMind AI Transform Healthcare?",
+      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
+      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
       "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
       "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
@@ -1089,57 +1142,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-us-rejects-calls-for-regulating-or-banning-killer-robots.md",
-      "title": "US rejects calls for regulating or banning ‘killer robots’",
-      "excerpt": "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "publishedDateTime": "2021-12-02T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

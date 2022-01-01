@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Would I Ever Invest In C3.ai Inc. (NYSE: AI) At Any Point In Time?"
-    excerpt: "C3.ai Inc. (NYSE:AI) price closed higher on Thursday, December 23, jumping 2.42% above its previous close. >> 7 Top Picks for the Post-Pandemic Economy > 7 Top Picks for the Post-Pandemic Economy"
-    publishedDateTime: 2021-12-27T13:31:00Z
-    webUrl: "https://stocksregister.com/2021/12/27/would-i-ever-invest-in-c3-ai-inc-nyse-ai-at-any-point-in-time/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 37
-    images:
-      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "C3.ai Inc. (NYSE: AI): The Most Interesting Shares Of The Day"
     excerpt: "In the latest trading session, 1.26 million C3.ai Inc. (NYSE:AI) shares changed hands as the company’s beta touched 0. With the company’s most recent per share price at $33.56 changed hands at -$0.69 or -2."
     publishedDateTime: 2021-12-27T21:01:00Z

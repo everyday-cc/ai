@@ -148,7 +148,7 @@
       "originalUrl": "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -180,6 +180,48 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world.md",
+      "title": "2nd largest in AI talent pool, B'luru ranked fifth in the world",
+      "excerpt": "Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI), at No. 5 according to a study by TIDE Framework and listed by Harvard Business Review (HBR).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940",
+      "originalUrl": "https://www.thehansindia.com/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/27/1138119-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940",
+      "publishedDateTime": "2021-12-27T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1137,50 +1179,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
-      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
-      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
-          "width": 737,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "publishedDateTime": "2021-12-26T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

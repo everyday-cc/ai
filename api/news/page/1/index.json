@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-01-investing-in-sustainability-for-emerging-markets.md",
+      "title": "Investing In Sustainability For Emerging Markets",
+      "excerpt": "Social justice requires emerging market countries to continue economic growth. Technology will evolve to help us grow with minimal use of natural capital. Investment opportunities abound in such technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cfee17f0ba727b2855465f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
+      "publishedDateTime": "2021-12-31T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-preparation-is-key-to-ai-success-in-2022.md",
       "title": "Preparation is key to AI success in 2022",
       "excerpt": "AI requires rethinking the way enterprises collect, process, and ultimately deploy data to achieve business and operational objectives.",
@@ -1096,57 +1148,6 @@
         "Facebook AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks.md",
-      "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG+ Stocks",
-      "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

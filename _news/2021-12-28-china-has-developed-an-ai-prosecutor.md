@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prose
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Created an AI ‘Prosecutor’ That Can Charge People with Crimes"
-    excerpt: "Researchers in China created a machine that can file a charge with more than 97 percent accuracy based on a description of a suspected criminal case."
-    publishedDateTime: 2021-12-27T14:59:00Z
-    webUrl: "https://futurism.com/the-byte/china-ai-prosecutor-crimes"
-    ampWebUrl: "https://futurism.com/china-ai-prosecutor-crimes/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-ai-prosecutor-crimes/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/12/china-military-artificial-intelligence-600x315.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges"
     excerpt: "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals."
     publishedDateTime: 2021-12-28T14:30:00Z

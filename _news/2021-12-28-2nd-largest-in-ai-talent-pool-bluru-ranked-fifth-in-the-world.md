@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-i
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/2nd-largest-in-ai-talent-pool-bluru-ranked-fifth-in-the-world-721940"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Hans India
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Second largest in AI talent pool, Bengaluru ranked fifth in the world"
-    excerpt: "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE)."
-    publishedDateTime: 2021-12-27T13:04:00Z
-    webUrl: "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "With second-largest AI talent pool, Bengaluru ranked fifth in world"
     excerpt: "Investments, diversity of talent, cost of living, and inclusivity among many factors that were analysed for the ranking of the top 50 AI cities across the globe BENGALURU: Bengaluru has emerged among the top five cities in the world for Artificial Intelligence (AI),"
     publishedDateTime: 2021-12-28T21:18:00Z

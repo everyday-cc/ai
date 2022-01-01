@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-get-ready-for-the-autonomous-weapons-race.md",
+      "title": "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race",
+      "excerpt": "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "originalUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fkiller-bots.jpeg&signature=e8721fa3d7faa8f7c1aa3cdc4fecbcba",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide.md",
       "title": "AI program that started at Maricopa County colleges expanding nationwide",
       "excerpt": "An artificial intelligence program that started at Maricopa Community Colleges in collaboration with Intel and Dell Technologies will expand nationwide by 2023.",
@@ -1084,57 +1136,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech.md",
-      "title": "Overjet sinks its teeth into another round of capital for its dental AI tech",
-      "excerpt": "Just four months after announcing $27 million in Series A funding, Overjet, a company developing dental artificial intelligence software, came forward again with another $42.5 million in Series B financing backed by existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/",
-      "originalUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Overjet_Clinical_Intelligence_Platform.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/",
-      "publishedDateTime": "2021-12-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
